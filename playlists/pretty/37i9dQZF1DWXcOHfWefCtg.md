@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,119 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,116 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 59 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 |
 | 60 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 
-Snapshot ID: `MCxkMGRkYmY2Zjc4MzQ4ZjRkMzE0YTY2ZGE3ZTQ3OTM3MzBiYjU4ZGU5`
+Snapshot ID: `MCxlNmExYjQ0MjlhNzk1ZWZjMzUzOWE2NjJhMDVjOGRkNWVkNGVkMjU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,766 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,868 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 17 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
 | 18 | [The Boys Of Killybegs](https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ) | [Brier](https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM) | [Sick Note](https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT) | 2:32 |
 | 19 | [Cry of a Dreamer](https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Cry of a Dreamer](https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc) | 3:24 |
-| 20 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 |
-| 21 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
+| 20 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
+| 21 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 |
 | 22 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
 | 23 | [The Craic Was 90 in the Isle of Man](https://open.spotify.com/track/18YgzC9PYPzCagclA5AlQ8) | [The Dicey Reillys](https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h) | [St\. Patrick's Day: Ultimate Irish Pub Songs](https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u) | 3:17 |
 | 24 | [Spancil Hill](https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 | 50 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
 
-Snapshot ID: `MCw1NDkxMjE2ZWQxNmIwNjQ5MGY4NWM1MmFhOTU2MjE4MWIxYWUyM2Nk`
+Snapshot ID: `MCxlNGNhMmVhYzNmYTNjZTU4NDUyMjhkZDgxOWI2NmNkNTYzZmFmMTVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,690 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,728 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 3 | [A Fadin' Blue](https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [A Fadin' Blue](https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc) | 3:09 |
 | 4 | [Billet doux](https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY), [César Poirier](https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d) | [Miri Chterna](https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf) | 3:44 |
 | 5 | [Joseph Joseph](https://open.spotify.com/track/4fBnSaY0GVZuhbUiVSHcIM) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Joseph Joseph](https://open.spotify.com/album/0TLtC5K9Ybr3KMLsfTCmHK) | 3:40 |
-| 6 | [Place Du Swing](https://open.spotify.com/track/1A5y1IjiYtAjYGtZecUUpV) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Where Does It Go from Here?](https://open.spotify.com/album/6qEJC5MwUxqI3PigfNmvqj) | 4:03 |
+| 6 | [Place Du Swing](https://open.spotify.com/track/71v1ydwArJ3aNL2zKT5slA) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [January Rain](https://open.spotify.com/album/0jXFL6aqfQQAeGZGkoYXEL) | 4:03 |
 | 7 | [Joseph Joseph](https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Joseph Joseph](https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ) | 3:53 |
 | 8 | [The Good Life](https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo) | 3:15 |
 | 9 | [Nymphéas](https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Nymphéas](https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlYmRmYTIyN2ZmMzBiMjc4OWZjMTNhNThjNWFhNDlkMDljMjZiY2Iz`
+Snapshot ID: `MCw3MjFlODE4NGI1ODM2ZGJjNjA5YjllYTQ3NWZlOWVlMmE0OGU2NTZi`

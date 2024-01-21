@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,326 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,319 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 10 | [Sem Saber](https://open.spotify.com/track/75eta61Ax81jQ9GoVxgvn7) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU) | [Sem Saber](https://open.spotify.com/album/46lINY5OCcOLsUwPKHXZlI) | 2:27 |
 | 11 | [Doce Mais Bruta](https://open.spotify.com/track/1IoYcmaG04KexvJExdBHNj) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [Doce Mais Bruta](https://open.spotify.com/album/3tNnmxGpwZ13dYgSdiu9N8) | 2:52 |
 | 12 | [Kitanda](https://open.spotify.com/track/0a8hgOo76TMTb2gqbhjE0g) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Kitanda](https://open.spotify.com/album/22X2sVV6RH4wYWOwHpDGSI) | 2:54 |
-| 13 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
+| 13 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 14 | [Vila Tolstoi](https://open.spotify.com/track/3vcjqCMm3VKukmuGgskXnb) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Drill De Lobos](https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6), [Bobeats](https://open.spotify.com/artist/6qkzVCiWzl67l9TWXd11JF) | [Vila Tolstoi](https://open.spotify.com/album/4gJLCryDQTU2obp81TS97g) | 3:03 |
 | 15 | [Férias da Metrópole](https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Férias da Metrópole](https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7) | 3:01 |
 | 16 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/track/1ZWSw6I6tY3nvVA95tz7cD) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV) | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/album/4nRVw34TEkjk4ww425I3oq) | 2:26 |
 | 75 | [TAÇA](https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 3:06 |
 
-Snapshot ID: `MCw1YzZhOTk0MDE0NmRkMzcxMmZkNTQzYWJhZjAzZTY2ZjJiZWI4MWUx`
+Snapshot ID: `MCwwNWJiZjMzODFhYTEzNTUyZGNiYTFmOWYxYTBhMDU0Zjc5NjkzMmVk`

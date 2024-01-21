@@ -3039,7 +3039,7 @@
     },
     {
       "album": {
-        "name": "Aacho",
+        "name": "AACHO",
         "url": "https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX"
       },
       "artists": [
@@ -3052,7 +3052,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193170,
-      "name": "Aacho",
+      "name": "AACHO",
       "url": "https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ"
     },
     {
@@ -48776,10 +48776,6 @@
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
@@ -48790,6 +48786,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "date_added": "2024-01-19",
@@ -85272,7 +85272,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170441,
-      "name": "para mi (Freestyle)",
+      "name": "Para Mi (Freestyle)",
       "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
     },
     {

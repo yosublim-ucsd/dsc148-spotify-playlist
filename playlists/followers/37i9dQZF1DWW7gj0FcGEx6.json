@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 279044,
+  "2024-01-21": 279115,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -1964,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "Il Tuo Fiato d\u2019Aurora (From \"La Tresse\" Soundtrack)",
+        "url": "https://open.spotify.com/album/7Mtrg7FYUcmlh0r8C1DGxI"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137346,
+      "name": "Il Tuo Fiato d'Aurora - From \"La Tresse\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Yn2jvt4JFHugH4UPVOa4u"
+    },
+    {
+      "album": {
         "name": "Jupiter's Legacy (Music From the Netflix Series)",
         "url": "https://open.spotify.com/album/6McEWs40dlz8bv22xmqly8"
       },
@@ -3565,6 +3583,24 @@
       "duration_ms": 228928,
       "name": "oxygen - from \"Exception\" Soundtrack",
       "url": "https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0"
+    },
+    {
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "PANESSO",
+      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
     },
     {
       "album": {

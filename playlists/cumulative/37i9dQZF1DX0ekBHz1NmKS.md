@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-924 songs - 2 day 0 hr 42 min
+926 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-10-13 |  |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2023-12-14 |  |
+| [CONVERSATIONS](https://open.spotify.com/track/1pVK5e5Ho07k8qYsyyF9sA) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [CONVERSATIONS](https://open.spotify.com/album/2iHT5ztZf8K1MSBEHYSaD4) | 3:36 | 2024-01-18 |  |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
@@ -407,7 +408,7 @@
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 |  |
+| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 | 2024-01-21 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
@@ -502,6 +503,7 @@
 | [Lyckligt slut](https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Lyckligt slut](https://open.spotify.com/album/5v523vH6jETswE88qO1I79) | 3:03 | 2022-02-26 | 2022-09-16 |
 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/7BjVNMN9CInh6D7UJbzQRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [7856](https://open.spotify.com/album/3DZFOd20AkyZ5qnFSh9kLM) | 2:55 | 2022-09-29 | 2022-10-16 |
 | [Långsamt \(med Titiyo\)](https://open.spotify.com/track/5oIimgKjmPcrQDmmj0bb46) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND), [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Långsamt](https://open.spotify.com/album/2slS0luW5xPrlIQFQevMJs) | 3:54 | 2021-12-16 | 2022-03-10 |
+| [Långt från oss](https://open.spotify.com/track/4hpT7UuBHTfJPsvBhvk2ZF) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Långt Från Oss](https://open.spotify.com/album/77GSL4W7WB7f3K5SoJfDIj) | 3:30 | 2024-01-18 |  |
 | [Låt mig gå](https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:06 | 2022-11-17 | 2022-11-19 |
 | [Låt mig gå](https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Låt mig gå](https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn) | 3:06 | 2022-11-17 | 2023-04-04 |
 | [Låt Tystnaden Tala](https://open.spotify.com/track/6CNipGzy4tNHZ1HBA5zdhj) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Låt Tystnaden Tala](https://open.spotify.com/album/2iRz9ohfyfx6xYtarEIXEk) | 2:49 | 2021-12-16 | 2022-03-11 |
@@ -583,7 +585,7 @@
 | [Ocean In Me](https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Ocean In Me](https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg) | 2:58 | 2024-01-04 |  |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-11-17 |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
-| [Oh My Gosh \- Radio Edit](https://open.spotify.com/track/2Lkinol3uHMW16xzcxXmpK) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Oh My Gosh \(Radio Edit\)](https://open.spotify.com/album/3qTU0a1gPO6VC3RA4VQZ8G) | 3:07 | 2024-01-18 |  |
+| [Oh My Gosh \- Radio Edit](https://open.spotify.com/track/2Lkinol3uHMW16xzcxXmpK) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Oh My Gosh \(Radio Edit\)](https://open.spotify.com/album/3qTU0a1gPO6VC3RA4VQZ8G) | 3:07 | 2024-01-18 | 2024-01-21 |
 | [Okomplicerat](https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Okomplicerat](https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk) | 2:39 | 2023-05-04 | 2023-10-20 |
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
 | [Old Love](https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Overflow](https://open.spotify.com/album/3EJugt4J6YJ4ieReakz5TC) | 2:54 | 2021-12-16 | 2022-03-11 |

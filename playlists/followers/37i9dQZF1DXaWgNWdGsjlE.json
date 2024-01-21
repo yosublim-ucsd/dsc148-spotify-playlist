@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 210334,
+  "2024-01-21": 210402,
   "date_first_scraped": "2022-04-20",
   "description": "aggressive. heavy. unhinged. make a mess of it.",
   "name": "Sludge",
@@ -64,6 +64,28 @@
     },
     {
       "album": {
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/4du4IFrg8MUcq3i2TWJER8"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        },
+        {
+          "name": "Zetra",
+          "url": "https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209086,
+      "name": "Absent - Zetra Remix",
+      "url": "https://open.spotify.com/track/7BdML0whJPSvQWdPVQXgPl"
+    },
+    {
+      "album": {
         "name": "Abuse Me (ft. L'exquisite Douleur)",
         "url": "https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH"
       },
@@ -115,7 +137,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 141500,
       "name": "Alice (Bodies Bodies Bodies)",
       "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
@@ -526,6 +548,24 @@
     },
     {
       "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
+    },
+    {
+      "album": {
         "name": "CANNOT GET ANY BETTER",
         "url": "https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV"
       },
@@ -670,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
       },
@@ -787,7 +845,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 164370,
       "name": "Dark Love (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/024tRiO8w3b7WEVB5RxX1G"
@@ -994,6 +1052,28 @@
     },
     {
       "album": {
+        "name": "Dissent, Shame",
+        "url": "https://open.spotify.com/album/0zHtY8fXz6moeLDQUSokf0"
+      },
+      "artists": [
+        {
+          "name": "The Body",
+          "url": "https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243153,
+      "name": "Dissent, Shame",
+      "url": "https://open.spotify.com/track/02MUxkxBzlHBmPllY9UfAJ"
+    },
+    {
+      "album": {
         "name": "Do It So Good",
         "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
       },
@@ -1041,7 +1121,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
@@ -1129,6 +1209,24 @@
       "duration_ms": 163139,
       "name": "ENCAGED",
       "url": "https://open.spotify.com/track/6V82ZlDkgcbRJiydWXxa5U"
+    },
+    {
+      "album": {
+        "name": "Everything Turns Blue",
+        "url": "https://open.spotify.com/album/2FtzmQPnVfBWXIB3dNtkeb"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266196,
+      "name": "Everything Turns Blue",
+      "url": "https://open.spotify.com/track/1NN0D0WALfbk7OoV6ABnpv"
     },
     {
       "album": {
@@ -3147,7 +3245,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208266,
       "name": "Prescription Kid",
       "url": "https://open.spotify.com/track/3qFQBjBhJRpqEB2KL2FxLK"
@@ -3989,7 +4087,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 175586,
       "name": "WWYDF",
       "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"

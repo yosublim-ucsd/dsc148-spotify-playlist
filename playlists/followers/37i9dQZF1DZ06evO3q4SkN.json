@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 545,
+  "2024-01-21": 545,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 76453,
       "name": "April Wears Cheetah",
       "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
@@ -209,10 +209,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
+    },
+    {
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381186,
+      "name": "Autumn Harvests Begin",
+      "url": "https://open.spotify.com/track/3KO6b18yVlp02SbytPXaiw"
     },
     {
       "album": {
@@ -425,7 +443,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 79426,
       "name": "Cowboys Don't Quit",
       "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
@@ -852,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
+    },
+    {
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -917,7 +953,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 71879,
       "name": "Jordan's Glasses",
       "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 123480,
       "name": "The Legend Of The Phoenix",
       "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
@@ -1951,7 +1987,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 100706,
       "name": "Wish You Were Little",
       "url": "https://open.spotify.com/track/7EqHX50uUoegBKRFBbGepr"

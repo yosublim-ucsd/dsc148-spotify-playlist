@@ -1319,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Ya Va Haber Algo",
+        "url": "https://open.spotify.com/album/388986wIgntQUo8UookHGS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138064,
+      "name": "Ya Va Haber Algo",
+      "url": "https://open.spotify.com/track/4GrBjsSTRqeKEl4m56YhJ1"
+    },
+    {
+      "album": {
         "name": "El Mismo De La Vida Ruina",
         "url": "https://open.spotify.com/album/4VtvkKRjnW0X7jxRkLUfsd"
       },

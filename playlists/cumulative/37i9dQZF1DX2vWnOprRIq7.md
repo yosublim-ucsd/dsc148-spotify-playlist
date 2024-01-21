@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Delfina Campos.
 
-226 songs - 13 hr 37 min
+227 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-10-07 |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 | 2023-10-07 |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 | 2023-10-07 |
-| [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 | 2023-07-14 |  |
+| [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 | 2023-07-14 | 2024-01-21 |
 | [Enigma](https://open.spotify.com/track/35wEmFysg3dA4un1zBbvmh) | [Chala](https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW) | [Ninfas](https://open.spotify.com/album/3bRsYZ0Pcaoa7osqwItDGZ) | 3:05 | 2023-05-26 | 2023-06-26 |
 | [Enigma](https://open.spotify.com/track/3s9DwqX5OKIWoqynT0F1sn) | [Chala](https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW) | [Ninfas](https://open.spotify.com/album/4fPKA89F5TsuVepQZKhgvz) | 3:05 | 2023-10-06 | 2023-12-10 |
 | [es mejor](https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [es mejor](https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ) | 2:56 | 2023-03-17 | 2023-10-07 |
@@ -192,6 +192,7 @@
 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 | 2023-04-14 | 2023-08-05 |
 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 | 2023-04-21 |  |
 | [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-05-12 | 2023-08-26 |
+| [Secretos \- Remix](https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Las Flores Daltónicas](https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70) | [Secretos \(Remix\)](https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ) | 4:08 | 2024-01-18 |  |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-03-17 |  |
 | [Sentir](https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Sentir](https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH) | 4:51 | 2023-03-17 | 2023-06-04 |
 | [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 | 2023-11-10 |

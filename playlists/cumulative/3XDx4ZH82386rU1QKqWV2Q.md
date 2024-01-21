@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-459 songs - 19 hr 46 min
+461 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 | 2023-07-14 |
 | [astronimals](https://open.spotify.com/track/63SurArpGSwUlVB8KwYFVy) | [hypernaut](https://open.spotify.com/artist/21LYQfaU4iEC9jqu4tzG0o), [Sloth](https://open.spotify.com/artist/2R8PPmEGSs8qYtV7qlHjt4) | [astronimals](https://open.spotify.com/album/7FD9aLK4297YbiTfu1TO0H) | 3:39 | 2023-07-03 | 2023-07-19 |
 | [Attack](https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Attack](https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ) | 3:12 | 2023-07-30 | 2023-12-14 |
+| [AUTOMOTIVO INFERNAL GALAXIA](https://open.spotify.com/track/1IHOzLLFmjhASkONUkNfo7) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [AUTOMOTIVO INFERNAL GALAXIA](https://open.spotify.com/album/0clfo1QyrlKOuySS7syyus) | 1:09 | 2024-01-20 |  |
 | [Ałł ØG Yøu](https://open.spotify.com/track/1R7tYPNrssbuwhmjZKvE56) | [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP) | [Ałł ØG Yøu](https://open.spotify.com/album/1rPJx95BGo2Ka6Acx8OQeY) | 4:20 | 2023-12-08 | 2024-01-02 |
 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 | 2023-06-12 |  |
 | [Bad Choices](https://open.spotify.com/track/5KyeY0laAazquWATolL9Bm) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Bad Choices](https://open.spotify.com/album/06lzphd0buFyApdQvf5W6h) | 3:28 | 2023-08-31 | 2024-01-14 |
@@ -267,6 +268,7 @@
 | [MNEYNDPOWER](https://open.spotify.com/track/014QaLHhhUzEIOselmRb70) | [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [NOCTURNAL](https://open.spotify.com/album/6sSqHUZQVSJvQIspz7vbLC) | 2:22 | 2023-09-21 | 2023-12-14 |
 | [Money So Big \- Instrumental](https://open.spotify.com/track/0Iw5plp58VoLfieype0buV) | [XTENTION STUDIOS](https://open.spotify.com/artist/3WpKx4C8unhDWk5QKjQvMb) | [Money So Big \(Instrumental\)](https://open.spotify.com/album/0tYdncj4Gkiq12PDVpcqHU) | 2:40 | 2023-06-12 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-07-07 |  |
+| [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-20 |  |
 | [MONTAGEM PR FUNK \- Alesso Remix](https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [MONTAGEM PR FUNK \(Alesso Remix\)](https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx) | 2:52 | 2023-08-26 | 2024-01-14 |
 | [MOVE A MUSCLE](https://open.spotify.com/track/69xXCfQ05tDCgcV1TWwMn2) | [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [MOTION MUZIK](https://open.spotify.com/album/2JE2NSDzG6W19AkZ9PuFsi) | 2:04 | 2023-06-12 | 2023-08-28 |
 | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Cupid Ruszo](https://open.spotify.com/artist/4ra8KaHMx0jp4rI5RICw3n) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 | 2023-06-12 |  |

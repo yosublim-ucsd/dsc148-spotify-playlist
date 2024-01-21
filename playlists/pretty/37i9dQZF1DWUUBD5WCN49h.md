@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW\-tpR\_ql\_tcv1TnHjA"> Darkua </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,851 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,867 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
 | 80 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 |
 
-Snapshot ID: `MCw4YzNlYjAyODJiM2Y0M2ViYzY4NGZjZjhjNTUyODhkMTgyOWRhM2E2`
+Snapshot ID: `MCwzYmEwZDJiMGRkMmY4ODY3ZmE4NzE3YzMwZjgyNjg5MWYwYWZiYzY3`

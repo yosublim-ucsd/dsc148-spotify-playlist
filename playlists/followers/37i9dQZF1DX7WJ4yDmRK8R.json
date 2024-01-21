@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 368003,
+  "2024-01-21": 368097,
   "date_first_scraped": "2021-12-21",
   "description": "This is the best of ska, new and classic. Cover: Madness",
   "name": "The Essential Ska",
@@ -451,6 +451,24 @@
       "duration_ms": 305360,
       "name": "B.L.M",
       "url": "https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
     },
     {
       "album": {
@@ -3397,7 +3415,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 251573,
       "name": "Ska Wars",
       "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"

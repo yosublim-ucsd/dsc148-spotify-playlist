@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Jhay P
 
-240 songs - 12 hr 26 min
+241 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-05-13 |  |
 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 | 2022-05-13 | 2022-11-02 |
 | [Uno Pal Otro](https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R) | 3:37 | 2022-11-18 | 2023-03-07 |
-| [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-05-13 |  |
+| [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-05-13 | 2024-01-21 |
 | [Vatos Locos](https://open.spotify.com/track/3xmMwWOMLhtTLVrZpihJDN) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg) | [Vatos Locos](https://open.spotify.com/album/3vtTYkjwSv2RiVhTlT1fkg) | 2:42 | 2022-06-03 | 2022-07-26 |
 | [Venti47](https://open.spotify.com/track/50YrZo8rIzof3SeNnW9ulV) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Venti47](https://open.spotify.com/album/2KbcSGv7or5YXfZzcgv0hU) | 3:24 | 2022-06-10 | 2022-07-13 |
 | [Verificada](https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/3WfkSS2h0jiJedZwYVmOsq) | 2:38 | 2022-05-13 | 2022-07-28 |
@@ -239,6 +239,7 @@
 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 | 2022-05-13 |  |
 | [Viernes](https://open.spotify.com/track/5CvYqbxiAkbiMFYMIb7oGk) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [Viernes](https://open.spotify.com/album/0UFLvRt1W9IwMEc6gGan1u) | 3:26 | 2022-05-13 | 2022-07-29 |
 | [Vitamina \(Remix\)](https://open.spotify.com/track/6xBBOrrKiALoAN8twug4Cq) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Vitamina \(Remix\)](https://open.spotify.com/album/21jPdouRr3biSH3tFpoiXW) | 4:04 | 2022-05-13 | 2022-07-29 |
+| [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 | 2024-01-19 |  |
 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-06-29 | 2024-01-12 |
 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 | 2022-05-13 |  |
 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-29 |  |

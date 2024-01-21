@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Henry Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,370 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,567 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [I Don't Know How to Do All of That](https://open.spotify.com/track/3JWOHgSvzpHs5K3d0xpj9s) | [The Stingrays](https://open.spotify.com/artist/0A3Tb2Y2PfWwfRlA89oHCd) | [I Don't Know How to Do All of That](https://open.spotify.com/album/6pBRTBHEQQKAny43VVSlhI) | 1:31 |
 | 101 | [Lightning in a Bottle](https://open.spotify.com/track/1xSP4tf1KkkqfEss3TZ6fh) | [O\. Wake](https://open.spotify.com/artist/4OqPho4RgALBjUYcaRPvQ3) | [Henry David, Motivation Expert/Lightning in a Bottle](https://open.spotify.com/album/6ZAwW3FMBEzuFe3t5cdF1C) | 3:09 |
 
-Snapshot ID: `MCxmMjgzYzNjOTZhMzk0ODdjNDdiODI4MGU2YTI4MDhlYjhkMTYzM2Fl`
+Snapshot ID: `MCw3ZjlkYWU4ODljZjNmMTU5NDRlZjM5MmJlYmVjMGJkODE2OGVlZTE3`

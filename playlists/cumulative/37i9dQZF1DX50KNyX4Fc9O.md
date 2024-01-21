@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Jessica Mauboy
 
-619 songs - 1 day 8 hr 6 min
+620 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-22 | 2023-07-21 |
 | [Everything I Wanted](https://open.spotify.com/track/2oagxwVFw5R0eiw8loRELR) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted](https://open.spotify.com/album/6WsbH7xi21fFkyFpJQmCFY) | 3:13 | 2024-01-18 |  |
 | [Everything I'm Not](https://open.spotify.com/track/3zfCupvFNQNwLk2MYzZhqe) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Everything I'm Not](https://open.spotify.com/album/47qVce8Gm4uno235qZCKpZ) | 2:07 | 2023-06-15 | 2023-07-07 |
-| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-16 |  |
+| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-16 | 2024-01-21 |
+| [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-18 |  |
 | [Eyes Closed](https://open.spotify.com/track/4YcJmD2RreKlpH78rTDmlH) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Eyes Closed](https://open.spotify.com/album/6ZOiOKrzOjXO6LP3LhPdRR) | 2:58 | 2023-07-27 | 2023-09-22 |
 | [Eyes On You](https://open.spotify.com/track/35OlFESa4OUrPTbVb1sYSa) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [Eyes On You](https://open.spotify.com/album/3rapAYXSUpYkQLN68J75iV) | 2:15 | 2023-09-28 | 2023-10-20 |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2023-10-26 | 2023-12-15 |
@@ -532,7 +533,7 @@
 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 | 2023-08-17 | 2023-09-08 |
 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-06-15 | 2023-07-07 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-06-15 | 2023-06-23 |
-| [The Best Part of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 | 2024-01-18 |  |
+| [The Best Part Of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 | 2024-01-18 |  |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-21 |  |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2023-10-06 |
 | [The Great Unknown](https://open.spotify.com/track/7AhXXavODzbYcFYBnGQm3v) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [The Great Unknown](https://open.spotify.com/album/5Y0ZPluwJV9hNVdu15zD8d) | 4:04 | 2023-12-07 | 2024-01-19 |

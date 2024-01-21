@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 124843,
+  "2024-01-21": 124836,
   "date_first_scraped": "2023-10-15",
-  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. PauByChance",
+  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Sof\u00eda Mart\u00edn",
   "name": "helium",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 148375,
       "name": "''las cosas no salen tan bien en rosario''",
       "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
@@ -69,6 +69,32 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
+    },
+    {
+      "album": {
+        "name": "Al Gimnasio en Tacones",
+        "url": "https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153673,
+      "name": "Al Gimnasio en Tacones",
+      "url": "https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3"
     },
     {
       "album": {
@@ -411,7 +437,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 172857,
       "name": "Close2u",
       "url": "https://open.spotify.com/track/6ZqrVQMqPeRiM776RUfdAC"
@@ -525,6 +551,24 @@
       "duration_ms": 161828,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
+    },
+    {
+      "album": {
+        "name": "Cyberia",
+        "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Cyberia",
+      "url": "https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr"
     },
     {
       "album": {
@@ -689,7 +733,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 105230,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/22NIRkAMSUybFzHnmVTPq2"
@@ -773,10 +817,28 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 119200,
       "name": "Encaix",
       "url": "https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6"
+    },
+    {
+      "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/5oROxnichPJCzMSnYIVU0P"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150096,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/6OX7tZGASte4ZrPQXNqqJk"
     },
     {
       "album": {
@@ -791,7 +853,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 129229,
       "name": "Entre Tanta Gente",
       "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
@@ -1174,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
+      },
+      "artists": [
+        {
+          "name": "W.A.H.",
+          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140585,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "album": {
         "name": "La noche",
         "url": "https://open.spotify.com/album/3XFEiQ48AJ8fAL1w2X7KoW"
       },
@@ -1295,7 +1375,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176332,
       "name": "Luh Tyger",
       "url": "https://open.spotify.com/track/2bWGpSNjF9kqnmbym2S3g0"
@@ -1671,7 +1751,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT"
@@ -1828,6 +1908,28 @@
     },
     {
       "album": {
+        "name": "no me hables\u30fb\uff9f\u2606\u2727",
+        "url": "https://open.spotify.com/album/2aTY48jWWDcS4PyzGKUrlU"
+      },
+      "artists": [
+        {
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "no me hables\u30fb\uff9f\u2606\u2727",
+      "url": "https://open.spotify.com/track/1ZGLr46gjJCEvqwknQb8Tr"
+    },
+    {
+      "album": {
         "name": "No puedo decirte que no",
         "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
       },
@@ -1861,7 +1963,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 171135,
       "name": "No Stoy a Tu Lao (Reverb) - Slowed",
       "url": "https://open.spotify.com/track/5JZV4xWDkOlp4hxxtEHfns"
@@ -1967,7 +2069,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 111552,
       "name": "Palante",
       "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
@@ -2025,6 +2127,32 @@
       "duration_ms": 148000,
       "name": "Peluchito",
       "url": "https://open.spotify.com/track/41C5jdJGFtrL44emVlpFmp"
+    },
+    {
+      "album": {
+        "name": "Pendientes de Corazones",
+        "url": "https://open.spotify.com/album/2TgclqeLwL7oSO3d9CRsTB"
+      },
+      "artists": [
+        {
+          "name": "Sanju",
+          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
+        },
+        {
+          "name": "Aft3rlife",
+          "url": "https://open.spotify.com/artist/61JqIRJIESqiK9QV8Emsvp"
+        },
+        {
+          "name": "60k Cvndy",
+          "url": "https://open.spotify.com/artist/3DYX3dAFVcFm28EObj4j3x"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177042,
+      "name": "Pendientes de Corazones",
+      "url": "https://open.spotify.com/track/2ogpZBBde6xF1eXBugDtLL"
     },
     {
       "album": {
@@ -2163,6 +2291,24 @@
       "duration_ms": 201585,
       "name": "PUNKY WHAT",
       "url": "https://open.spotify.com/track/5GMefMU8N3In25oucXFoMp"
+    },
+    {
+      "album": {
+        "name": "Que La Detengan",
+        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143265,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
     },
     {
       "album": {
@@ -2846,6 +2992,24 @@
     },
     {
       "album": {
+        "name": "Ronin",
+        "url": "https://open.spotify.com/album/0KhBZHxOHPELzzIORsZcoE"
+      },
+      "artists": [
+        {
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "tu dime d\u00f3nde ves el norte (=____=)",
+      "url": "https://open.spotify.com/track/6nzUw3TdOdgZthOwL3rv9E"
+    },
+    {
+      "album": {
         "name": "LA VUELTA AL COLE CON LA UNGINGANG",
         "url": "https://open.spotify.com/album/1MbNcr1H9VIs1r1KunPC0d"
       },
@@ -3085,6 +3249,28 @@
       "duration_ms": 144000,
       "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
       "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
+    },
+    {
+      "album": {
+        "name": "\u00a1eh! \u00bfqui\u00e9n apag\u00f3 la luz?",
+        "url": "https://open.spotify.com/album/5QTeqwX60g7TpoNyzo3ted"
+      },
+      "artists": [
+        {
+          "name": "marsal",
+          "url": "https://open.spotify.com/artist/0pkxapeJYS2mENP1lATzgB"
+        },
+        {
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126641,
+      "name": "\u00a1eh! \u00bfqui\u00e9n apag\u00f3 la luz?",
+      "url": "https://open.spotify.com/track/1Y0vKCnUNMjvmDpXItdloY"
     },
     {
       "album": {

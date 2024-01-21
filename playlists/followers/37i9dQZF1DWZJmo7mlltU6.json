@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 173211,
+  "2024-01-21": 173251,
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Eyedress.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: HYBS.",
   "name": "borderless",
   "tracks": [
     {
@@ -801,7 +801,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 186669,
       "name": "All We Wanna Do",
       "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131253,
       "name": "Boy's a Liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
@@ -2708,6 +2708,24 @@
     },
     {
       "album": {
+        "name": "Cuadriculado",
+        "url": "https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169307,
+      "name": "Cuadriculado",
+      "url": "https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh"
+    },
+    {
+      "album": {
         "name": "Cumplo Condena",
         "url": "https://open.spotify.com/album/688RdoXlFc3gJeKIbb5VTS"
       },
@@ -2969,6 +2987,28 @@
       "duration_ms": 169655,
       "name": "Days With You",
       "url": "https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh"
+    },
+    {
+      "album": {
+        "name": "De tu panal",
+        "url": "https://open.spotify.com/album/5ROYO3ZzeJGeH54ndY9eDc"
+      },
+      "artists": [
+        {
+          "name": "Caro Raro",
+          "url": "https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP"
+        },
+        {
+          "name": "Papaya Club",
+          "url": "https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "De tu panal",
+      "url": "https://open.spotify.com/track/0zStdTFY7x3oi8pHZBhPhE"
     },
     {
       "album": {
@@ -3924,6 +3964,24 @@
     },
     {
       "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/66Z3wwW4F6cOEv9WuPFrIq"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Emmanuelle",
+      "url": "https://open.spotify.com/track/4avh1EtU350fsmKN4splZv"
+    },
+    {
+      "album": {
         "name": "empleado del mes",
         "url": "https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI"
       },
@@ -4503,7 +4561,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131215,
       "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
@@ -4803,7 +4861,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 243206,
       "name": "flame",
       "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
@@ -5172,6 +5230,24 @@
     },
     {
       "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197095,
+      "name": "Girls Night",
+      "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
+    },
+    {
+      "album": {
         "name": "RELAX",
         "url": "https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj"
       },
@@ -5485,6 +5561,28 @@
       "duration_ms": 218111,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/7kwejfjT6uVl3KxDBKC2b6"
+    },
+    {
+      "album": {
+        "name": "MAZZA MEZE",
+        "url": "https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul"
+      },
+      "artists": [
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        },
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "G\u00fcn\u00fcn Birinde",
+      "url": "https://open.spotify.com/track/4BIBtBTeA1XTmjhFA2ayHv"
     },
     {
       "album": {
@@ -6715,7 +6813,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
       "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
@@ -8780,6 +8878,28 @@
     },
     {
       "album": {
+        "name": "My Way (with Creams)",
+        "url": "https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo"
+      },
+      "artists": [
+        {
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "My Way (with Creams)",
+      "url": "https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq"
+    },
+    {
+      "album": {
         "name": "M\u00e1s\u00e9rt",
         "url": "https://open.spotify.com/album/5J99Kn2B3HlcV7IY9uYla0"
       },
@@ -9313,6 +9433,24 @@
       "duration_ms": 152307,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/0mMXx0MMFAmLI2zHYH2IyN"
+    },
+    {
+      "album": {
+        "name": "_RUKRUKLERKLERK",
+        "url": "https://open.spotify.com/album/044zhTzbHkoW5nYDI1mYtk"
+      },
+      "artists": [
+        {
+          "name": "_less",
+          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231566,
+      "name": "notOKkrubbossX",
+      "url": "https://open.spotify.com/track/4EeB49dNUsvz4sfkGFqeCu"
     },
     {
       "album": {
@@ -10643,7 +10781,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217559,
       "name": "Puentes Rotos",
       "url": "https://open.spotify.com/track/1KkQ56dX3KGiIkk19Jywxa"
@@ -11181,7 +11319,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
@@ -11861,7 +11999,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
@@ -12227,7 +12365,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
@@ -15071,6 +15209,24 @@
       "duration_ms": 233733,
       "name": "YA HABIBI",
       "url": "https://open.spotify.com/track/5iFKrNqnuwvPhqXIWuUsHW"
+    },
+    {
+      "album": {
+        "name": "Yeniden Sevebilirim",
+        "url": "https://open.spotify.com/album/1PyPDG5qQu5YBFawoV0urA"
+      },
+      "artists": [
+        {
+          "name": "Selin \u00c7\u0131ng\u0131r",
+          "url": "https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184062,
+      "name": "Yeniden Sevebilirim",
+      "url": "https://open.spotify.com/track/66yWdW1sA3yjrkVd04eFuc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: HotKid",
-  "num_followers": 42024,
+  "num_followers": 42160,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzI4YzdkOWFjYTYzNDNkMjQ2YjZkZjg5Nzc3NTBhNDI2MWU0NTU2",
+  "snapshot_id": "MCxhZjlmZDcxYWRlYzBmNmVmZDFhMzMxNTY2OTUxMjRiNDg3N2ZkOWI3",
   "tracks": [
     {
       "added_at": "2024-01-18 17:33:34",
@@ -419,42 +419,6 @@
     {
       "added_at": "2024-01-18 17:33:34",
       "album": {
-        "name": "Unleash",
-        "url": "https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "Unleash",
-      "url": "https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG"
-    },
-    {
-      "added_at": "2024-01-18 17:33:34",
-      "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
-    },
-    {
-      "added_at": "2024-01-18 17:33:34",
-      "album": {
         "name": "Child's Play",
         "url": "https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD"
       },
@@ -475,22 +439,54 @@
     {
       "added_at": "2024-01-18 17:33:34",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
       },
       "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
+    },
+    {
+      "added_at": "2024-01-18 17:33:34",
+      "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "Unleash",
+      "url": "https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG"
+    },
+    {
+      "added_at": "2024-01-18 17:33:34",
+      "album": {
+        "name": "Off The Planet (OTP)",
+        "url": "https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4"
+      },
+      "artists": [
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        }
+      ],
+      "duration_ms": 157230,
+      "name": "Off The Planet (OTP)",
+      "url": "https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0"
     },
     {
       "added_at": "2024-01-18 17:33:34",
@@ -511,18 +507,22 @@
     {
       "added_at": "2024-01-18 17:33:34",
       "album": {
-        "name": "Off The Planet (OTP)",
-        "url": "https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4"
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
       "artists": [
         {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 157230,
-      "name": "Off The Planet (OTP)",
-      "url": "https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0"
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": "2024-01-18 17:33:34",

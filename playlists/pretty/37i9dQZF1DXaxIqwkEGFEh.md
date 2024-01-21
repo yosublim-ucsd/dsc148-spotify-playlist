@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Mudbaby Ru
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,640 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,668 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 24 | [Jumper Cables](https://open.spotify.com/track/6712zGjkkzGVuLzuUU1SCP) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Kenny World](https://open.spotify.com/album/2m6SZ6zZKGGk2nfmvChy28) | 3:58 |
 | 25 | [Money & Glocks](https://open.spotify.com/track/7mEkRS2ZWY41RUXxmyQktF) | [Z Money](https://open.spotify.com/artist/0Nzgjph6U8oX2RwmBfoQvy), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Money & Glocks](https://open.spotify.com/album/4rXTWhO0R7q9zgLe98rukQ) | 2:18 |
 | 26 | [Run](https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Run](https://open.spotify.com/album/0b9jz0diSiituyThsBewRd) | 2:55 |
-| 27 | [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 3:53 |
+| 27 | [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 2:53 |
 | 28 | [6.2 Music \(with Rob49\)](https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [6.2 Music \(with Rob49\)](https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m) | 2:48 |
 | 29 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 |
 | 30 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 |
 | 100 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
 
-Snapshot ID: `MCxkM2IxNGQwMjgwOTYyYTViMTdkMmEyNDhlNTBiOWU0ODlmZTk1NWMx`
+Snapshot ID: `MCw5ZDY1MDQxZTgwOGFkODlkNmY2Njg4MTQ5ZGQxN2IxOTk5NzMzM2Ji`

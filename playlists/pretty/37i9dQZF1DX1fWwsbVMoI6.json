@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 110161,
+  "num_followers": 110214,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzk5NWMzOWFhNjNkYjgxMGZkY2E2Y2U0NWE3NzU2MjA0ZWUzNjcy",
+  "snapshot_id": "MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Embri\u00e1game Suavecito/Los Reyes De La Cumbia",
-        "url": "https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 204524,
-      "name": "Muchahita",
-      "url": "https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "He Sentido Amor",
         "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235154,
       "name": "He Sentido Amor",
       "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Embri\u00e1game Suavecito/Los Reyes De La Cumbia",
+        "url": "https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 204524,
+      "name": "Muchahita",
+      "url": "https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "El Futuro De La Cumbia",
-        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
+        "name": "VOL.1",
+        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
       },
       "artists": [
         {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+          "name": "Orquesta Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
         }
       ],
-      "duration_ms": 277296,
-      "name": "Te Burlaste de Mi",
-      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
+      "duration_ms": 329280,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "VOL.1",
-        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
+        "name": "El Futuro De La Cumbia",
+        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
       },
       "artists": [
         {
-          "name": "Orquesta Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
         }
       ],
-      "duration_ms": 329280,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
+      "duration_ms": 277296,
+      "name": "Te Burlaste de Mi",
+      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
     },
     {
       "added_at": "2023-09-22 04:59:00",

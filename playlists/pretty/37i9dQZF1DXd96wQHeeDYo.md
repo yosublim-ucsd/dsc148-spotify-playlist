@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Bad Gyal, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,997 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,005 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 36 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |
 | 37 | [CHUKI CHUKI](https://open.spotify.com/track/6RAFNy0vDl2GvjaT91vljN) | [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [marceu inovadora](https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7) | [CHUKI CHUKI](https://open.spotify.com/album/17W6H22RAWfiKQOoMBv8ml) | 2:46 |
 | 38 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
-| 39 | [Fijado](https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso) | [Euken](https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny) | [Fijado](https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6) | 2:30 |
+| 39 | [Fijado](https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso) | [Euken](https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Lauta Franco](https://open.spotify.com/artist/5jibl3Y2E9e5N1YlKXcnSD) | [Fijado](https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6) | 2:30 |
 | 40 | [Yo No Sé Si Tu](https://open.spotify.com/track/2Q0b7lrcnjAuxmzJtWEnIB) | [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg) | [Yo No Sé Si Tu](https://open.spotify.com/album/1ZVLR31qUNjxqD4gZ36ijb) | 3:02 |
 | 41 | [GUSTOSA](https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb) | [Chiko Alfa](https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [GUSTOSA](https://open.spotify.com/album/2SVbUSjaglwqSugsqKtbEg) | 2:20 |
 | 42 | [LALA](https://open.spotify.com/track/4cnsPDehVLtnwm4xnjMCDy) | [Cattleya Sita](https://open.spotify.com/artist/0YlwmsE9bVH9aLziYLQzBr), [Jare Flossy](https://open.spotify.com/artist/6piO976AEeCpgHpEPS2G6t), [Mr\. Tucker](https://open.spotify.com/artist/1O5fokOSqcMDszgWqSHrFH) | [LALA](https://open.spotify.com/album/6ZiCwWmYPqgE4Sgmd45XDB) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 59 | [Nunca Estoy](https://open.spotify.com/track/5XPOltQwrzK8BNkdFA7msN) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Bien:\(](https://open.spotify.com/album/3Sat3hmUbXJdivRd9PIhrX) | 2:42 |
 | 60 | [MÁS](https://open.spotify.com/track/5iLWDsr5fABDTIQZT3Ts5g) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 3:38 |
 
-Snapshot ID: `MCxiNzY5NjU1MDQ3YWM3OWNiZDRjZDdhYjdmOTNlOWY5MzVlZGU5NTlh`
+Snapshot ID: `MCw1NDAzOTI1MGIwYjlhMzIwNmFlZGZlZmMwMjNlM2ExZDdkMmE2MTcz`

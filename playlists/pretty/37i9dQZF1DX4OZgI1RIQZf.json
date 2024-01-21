@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 81280,
+  "num_followers": 81333,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw",
+  "snapshot_id": "MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 307453,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 140906,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "A Quick One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Boris The Spider - Mono Version",
-      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 218693,
       "name": "Zombie Prom",
       "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "These Dreams EP",
+        "url": "https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 342693,
       "name": "Halloween on the Barbary Coast",
       "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "These Dreams EP",
-        "url": "https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm"
     },
     {
       "added_at": "2023-10-27 07:45:00",

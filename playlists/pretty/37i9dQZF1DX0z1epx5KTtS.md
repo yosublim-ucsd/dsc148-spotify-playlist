@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,623 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,724 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [DIGBA MOTEUR](https://open.spotify.com/track/2AN0Bqm35eknKxWlcxa5l0) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [DIGBA MOTEUR](https://open.spotify.com/album/1snNUbVaxsY1ZBFzwljihr) | 3:16 |
 | 40 | [Taper dedans](https://open.spotify.com/track/1shncRrvTSTQtK8hgGFL7m) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Taper dedans](https://open.spotify.com/album/6h8Pa5WVQy0SkwVHw6DDxP) | 2:40 |
 
-Snapshot ID: `MCxmNGFlNWEyMDY4YzUxNDQxYjM4OGM4NzIyNTkxNzhhMGM2Mzk4OGI4`
+Snapshot ID: `MCw0ZjIyMWY2OTg4MjVhMzY2NWY2Yzk2YjYyOGU4NzU4Yjg1NmRhYzg1`

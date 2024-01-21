@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-161 songs - 15 hr 18 min
+162 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All I Need](https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [All I Need](https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os) | 6:41 | 2022-06-23 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 | 2022-06-23 |  |
 | [Alright Tonight](https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Alright Tonight](https://open.spotify.com/album/1VpmCbGbgKh6CS5sJ4uq7H) | 6:26 | 2023-10-27 |  |
-| [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 | 2022-12-09 |  |
+| [Another Plan of Attack](https://open.spotify.com/track/5u9PNSeBMU7oavllA0MCmi) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Revolution in Motion, Pt\. 1](https://open.spotify.com/album/70XcBPhdlwEFfMfDmfdUMO) | 6:33 | 2023-01-13 |  |
+| [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 | 2022-12-09 | 2024-01-21 |
 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 | 2022-06-23 | 2023-05-06 |
 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 | 2022-06-23 | 2023-03-18 |
 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 | 2023-05-05 |  |

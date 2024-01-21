@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-402 songs - 22 hr 58 min
+402 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-17 | 2023-12-16 |
 | [Take Me Away](https://open.spotify.com/track/0DlNdprrhGx3tJ6UskY2Jm) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Take Me Away](https://open.spotify.com/album/2v0XkB32qCS3ZsPoBBK8ZF) | 4:13 | 2024-01-12 |  |
 | [Talk](https://open.spotify.com/track/3hwW6WUL4SHd11Uz3KU38U) | [Cerdin](https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB) | [Talk](https://open.spotify.com/album/0mEjyWkcey4efFsvTqZ92o) | 3:31 | 2023-12-01 | 2024-01-06 |
-| [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 3:08 | 2024-01-19 |  |
+| [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 2:13 | 2024-01-19 |  |
 | [Tell Me](https://open.spotify.com/track/0yxuePF0nrPf37PkbCmp5K) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [The Eastside EP](https://open.spotify.com/album/0C2BM6D9TPtu85eUkgIIci) | 6:46 | 2023-12-08 | 2024-01-13 |
 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-01-19 |  |
 | [TEMP CHECK](https://open.spotify.com/track/7ttxO7G0NLZ625pvOjvY7K) | [BLOODY](https://open.spotify.com/artist/0PVfxLLUgFhUazfpTSJevz), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EXHIBIT A](https://open.spotify.com/album/5JQkDW52s4Ri8CWHs4qD6t) | 1:53 | 2023-11-03 | 2023-12-02 |

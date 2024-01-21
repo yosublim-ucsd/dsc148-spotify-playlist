@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=lmcWKI9cT0idny8ul8ed2A>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,179 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Your Word](https://open.spotify.com/track/1VdnrQ1TK8Iudl3t5kpIAA) | [Chris Appau](https://open.spotify.com/artist/266E0qoOQI4ITsbSVVV1bA), [HPI](https://open.spotify.com/artist/508n4zxp4c2dlPHXXs9vft) | [ABBA \(The Worshipper's Journal\)](https://open.spotify.com/album/3GLb734Fr9EWir4UXAM6r3) | 7:30 |
 | 100 | [I'll Be Here Worshiping \- Worship Cover](https://open.spotify.com/track/3AquePcxdqC0dirDm4hSZ7) | [MFY](https://open.spotify.com/artist/4dvPRzH6QasT9GgHLthEeR), [Omosehin Omoniyi](https://open.spotify.com/artist/16ptBueZq1WFEZZtSpFQW0) | [I'll Be Here Worshiping \(Worship Cover\)](https://open.spotify.com/album/6xcjuPd4DqxnfKm9UWIoV1) | 1:11 |
 
-Snapshot ID: `MCwzMjgzMmI1YTk0NzlkYTE1NzRhNzAwZTUyN2U0ZmU4YjU2ZWExMmZm`
+Snapshot ID: `MCw0YTNlNDY3OWEzMjJhZTRmN2NiMTliNGFlODNhMDc1ZDM5MGY0MGUx`

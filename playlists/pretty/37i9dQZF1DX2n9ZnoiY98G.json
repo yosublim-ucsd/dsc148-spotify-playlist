@@ -1,12 +1,12 @@
 {
   "description": "Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.",
-  "num_followers": 3041,
+  "num_followers": 3060,
   "original_name": "Leave The World Behind Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGE4YjE3YzIzZDlmZGU5N2U0ZTc3ODZhMjkzZjhmYTE4YjNhMzIw",
+  "snapshot_id": "MCxiOTU2ZjkwNWU2OThkNTFiYWM4YzQwNWU5OTk1NmRlOTg1MWUzYmYy",
   "tracks": [
     {
       "added_at": "2023-12-14 21:42:47",
@@ -426,6 +426,14 @@
         {
           "name": "TNGHT",
           "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
         }
       ],
       "duration_ms": 199343,

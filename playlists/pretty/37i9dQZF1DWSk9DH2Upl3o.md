@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,034 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,076 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 94 | [Jones Wood](https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25) | [The Whags](https://open.spotify.com/artist/0sSvO4hBwHX96HiNK2W9u4) | [Jones Wood](https://open.spotify.com/album/0P5MO5Z0J9zyfYOMN1BEc5) | 4:05 |
 | 95 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 96 | [Just Music](https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Just Music](https://open.spotify.com/album/7EB6VqMWgy5CVXMqOVvDGG) | 6:22 |
-| 97 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 |
+| 97 | [Another Plan of Attack](https://open.spotify.com/track/5u9PNSeBMU7oavllA0MCmi) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Revolution in Motion, Pt\. 1](https://open.spotify.com/album/70XcBPhdlwEFfMfDmfdUMO) | 6:33 |
 | 98 | [Define Devine](https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo) | [The Mad Children](https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF) | [The Mad Children \- EP](https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv) | 5:47 |
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCwwM2IxMzEzZTE3M2ZiMjBhZGRhY2VkYjE5Y2RhMTdkODViNTRkZTk3`
+Snapshot ID: `MCw3NzhlZDg1M2VkYTk0Yzg1ZDRkZTVhOGQ0NzY5MTNlNDNlZGEyMTU5`

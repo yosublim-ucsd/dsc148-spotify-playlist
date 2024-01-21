@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-94 songs - 6 hr 37 min
+95 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Wood](https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Nature](https://open.spotify.com/album/5zeYZeKbnrF0jNt6AYCHY4) | 4:32 | 2023-01-06 |  |
 | [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 | 2023-01-06 |  |
 | [Yonder](https://open.spotify.com/track/5MIMRwC9I4SP48zoMhAbwh) | [Siebensachen](https://open.spotify.com/artist/1LysQsO6Eq11YuvI300Imv) | [Yonder](https://open.spotify.com/album/7yHZPzZKRtYgTBxNP71Eg1) | 3:34 | 2023-01-06 |  |
-| [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 | 2023-01-06 |  |
+| [Zulu](https://open.spotify.com/track/72JL5YYqI41JDrgpXOqiwg) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/3WAAfWzOK6GDzmWBwWDgid) | 3:37 | 2023-01-06 |  |
+| [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 | 2023-01-06 | 2024-01-21 |
 
 \*This playlist was first scraped on 2023-02-08. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "All-new releases by Latin artists! Cover: Rusherking, Boza, Lunay & Revol ",
-  "num_followers": 585186,
+  "num_followers": 585217,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGU5NDNlNGI2ZTFiNDZmOTYxZDgwY2RjZWM3YjBkYzZmZjQwODhk",
+  "snapshot_id": "MCwwYWQxNDMzY2FkNGE5MjI5OTcwYTA0NDA3MWYyODE0NTk5YmMzMjNj",
   "tracks": [
     {
       "added_at": "2024-01-19 17:37:27",
@@ -15,10 +15,6 @@
         "url": "https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4"
       },
       "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
         {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
@@ -30,6 +26,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "duration_ms": 228267,
@@ -989,13 +989,13 @@
         }
       ],
       "duration_ms": 170441,
-      "name": "para mi (Freestyle)",
+      "name": "Para Mi (Freestyle)",
       "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
     },
     {
       "added_at": "2024-01-19 17:37:27",
       "album": {
-        "name": "Aacho",
+        "name": "AACHO",
         "url": "https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX"
       },
       "artists": [
@@ -1005,7 +1005,7 @@
         }
       ],
       "duration_ms": 193170,
-      "name": "Aacho",
+      "name": "AACHO",
       "url": "https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,610 likes - 87 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,644 likes - 87 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 |
 | 52 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 | 53 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
-| 54 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 |
+| 54 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 |
 | 55 | [Got The Love](https://open.spotify.com/track/7DAwKG0lJlzkBuP4EfAk0v) | [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Got The Love](https://open.spotify.com/album/2bCgGW9L7vcQBoONhtuC0J) | 3:57 |
 | 56 | [Your Dime](https://open.spotify.com/track/6zQOuXqDvrJUbzshosJbX9) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Your Dime](https://open.spotify.com/album/52H2mVG44e7rXqRRmEeg3d) | 3:25 |
 | 57 | [Cerulean](https://open.spotify.com/track/0aNity5klC1Ehggtts38hG) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Cerulean](https://open.spotify.com/album/4c9ksyjj0O1JTr8jgPiJXl) | 2:35 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 75 | [Everything I Wanted](https://open.spotify.com/track/2oagxwVFw5R0eiw8loRELR) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted](https://open.spotify.com/album/6WsbH7xi21fFkyFpJQmCFY) | 3:13 |
 | 76 | [I Don't Mind](https://open.spotify.com/track/4Begz0KfanvTMQwkMyOW2W) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [I Don't Mind](https://open.spotify.com/album/6VdCO1qYdMrJ5N0bJLi5CQ) | 3:23 |
 | 77 | [Young, Dumb & Wild](https://open.spotify.com/track/6LgGes1HTttobYY4ic74kN) | [Andy Golledge](https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh) | [Young, Dumb & Wild](https://open.spotify.com/album/142Nup5EiU2GFQ4EjHqcmZ) | 3:59 |
-| 78 | [The Best Part of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 |
+| 78 | [The Best Part Of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 |
 | 79 | [Give & Give](https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Give & Give](https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb) | 2:39 |
 | 80 | [Doozie](https://open.spotify.com/track/4wLzagqgOg809dHmAS25w2) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Doozie](https://open.spotify.com/album/4NW1UaUUC6uXE6aogvMKMV) | 2:54 |
 | 81 | [haunted](https://open.spotify.com/track/7d0O6PqeZl23hZiTtzCABx) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [haunted](https://open.spotify.com/album/17hLIsszgHNK7R1ZoqN0zv) | 2:21 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [Day And Night](https://open.spotify.com/track/4wWuRSnUyZZPprLWffFxIp) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd), [LEER](https://open.spotify.com/artist/3APFeaxXlhPVZ5RTsu4Be9) | [Day And Night](https://open.spotify.com/album/6svQEeA2c9W0PKbuygmRw8) | 3:17 |
 | 87 | [Always There](https://open.spotify.com/track/1pM6pmS5mG40hw3E9OZGQE) | [Ben Hazlewood](https://open.spotify.com/artist/3DWjEOfsm596u6OdskLe4t) | [Always There](https://open.spotify.com/album/6onHFMlLQPuGCGxLqmntL5) | 2:52 |
 
-Snapshot ID: `MCw0ZWM1OGQ0ZGVmODU5ZWRhYmEwODFhN2FhZGViOWNjZTg0NjgxOWY0`
+Snapshot ID: `MCw1MDY0MTY5Mzc3YzE5MzM2ZDBhYzA1M2ExMmRiMjFmYTQzZjRlYzQx`

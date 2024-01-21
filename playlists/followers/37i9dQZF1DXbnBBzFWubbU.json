@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 20344,
+  "2024-01-21": 20392,
   "date_first_scraped": "2023-08-27",
   "description": "Electronic tunes brought to life by South Asian samples. Updated regularly. ",
   "name": "desi crate diggin'",
@@ -21,24 +21,6 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5CPzdtBN36g76OBOvpP9f9"
-    },
-    {
-      "album": {
-        "name": "CHOLI",
-        "url": "https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2023-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e"
     },
     {
       "album": {
@@ -113,6 +95,28 @@
       "duration_ms": 176000,
       "name": "Aja Sawariya - Remix",
       "url": "https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM"
+    },
+    {
+      "album": {
+        "name": "Akhiyan",
+        "url": "https://open.spotify.com/album/5Jg99GPnRLymnmYmkfVFwT"
+      },
+      "artists": [
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        },
+        {
+          "name": "Shrii",
+          "url": "https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325161,
+      "name": "Akhiyan",
+      "url": "https://open.spotify.com/track/3wyfqsbIar6tON17FWVOMC"
     },
     {
       "album": {
@@ -350,6 +354,28 @@
     },
     {
       "album": {
+        "name": "CHOLI",
+        "url": "https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa"
+      },
+      "artists": [
+        {
+          "name": "ShiShi",
+          "url": "https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9"
+        },
+        {
+          "name": "Ben Parag",
+          "url": "https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "CHOLI",
+      "url": "https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e"
+    },
+    {
+      "album": {
         "name": "Desi Spice, Vol. 1",
         "url": "https://open.spotify.com/album/0DofQSWPcVfN5Bua73V3LI"
       },
@@ -581,6 +607,28 @@
       "duration_ms": 422000,
       "name": "Fly to India",
       "url": "https://open.spotify.com/track/6HTqqZKIFCashy9aoCi6qf"
+    },
+    {
+      "album": {
+        "name": "Gal Mukdi",
+        "url": "https://open.spotify.com/album/2hYgj4AQhL4f45jmUaIrmx"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173303,
+      "name": "Gal Mukdi",
+      "url": "https://open.spotify.com/track/4AQw1pwzUrucO5OOMLIrV6"
     },
     {
       "album": {
@@ -1399,6 +1447,24 @@
       "duration_ms": 313548,
       "name": "New York Giddha",
       "url": "https://open.spotify.com/track/2kXgHvTF9tmfNeVs0pFC41"
+    },
+    {
+      "album": {
+        "name": "Nimbu",
+        "url": "https://open.spotify.com/album/3yAtei57IWEOMO2PIh5Cua"
+      },
+      "artists": [
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Nimbu",
+      "url": "https://open.spotify.com/track/0JaoJx1DTAr67hv0f6jlmZ"
     },
     {
       "album": {

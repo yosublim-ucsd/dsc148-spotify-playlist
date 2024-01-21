@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Fivio Foreign & Russ Millions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,774 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,045 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 21 | [Trench P \(London City\)](https://open.spotify.com/track/5btsue784U8VgfhfaeLKNL) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Trench P \(London City\)](https://open.spotify.com/album/2GnLFlJG4lzA49jd0ktuj7) | 2:51 |
 | 22 | [Antisocial](https://open.spotify.com/track/5WRkjGzj48bn7evIhiHSbp) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Antisocial](https://open.spotify.com/album/66kttDxrG5qysNcZHFoxEB) | 2:54 |
 | 23 | [Murdaside \- Remix](https://open.spotify.com/track/1BkEU2vRjJy4VjqfX2AcEW) | [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Murdaside \(Remix\)](https://open.spotify.com/album/3nnVvT3fV7mWdN1oxaxAPW) | 3:02 |
-| 24 | [Money And Power](https://open.spotify.com/track/4fQnrQhoEZah2QJ7bPo6cD) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Money And Power](https://open.spotify.com/album/2CKPEQBBufQdO32Ex5DM1j) | 2:51 |
+| 24 | [Money And Power](https://open.spotify.com/track/4KquoZ3Sl5Kv6TXn0Xwgtq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Money And Power](https://open.spotify.com/album/5fQExZIsBJ3kFnIlvcaZZV) | 2:51 |
 | 25 | [1992](https://open.spotify.com/track/5QVAoNN7mj1qcQfuXMbrWl) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [1992](https://open.spotify.com/album/7vd66N6D7o7HqAvZ22td5W) | 3:00 |
 | 26 | [Hollows](https://open.spotify.com/track/3S5QlSVPAatCWNnVaAI102) | [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [bkayproducer](https://open.spotify.com/artist/4XuCohRQfXJKVtmlFu34wv) | [A Drillers Perspective 2.7](https://open.spotify.com/album/66VJMqcCT2UWLul7ZHyjvF) | 3:04 |
 | 27 | [I Need It Now](https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [I Need It Now](https://open.spotify.com/album/3QwtmPuPBkUDuwN5ownyUu) | 3:05 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 72 | [QUESTIONS](https://open.spotify.com/track/4CWaEaABWXb3tDG1bSrLzg) | [KAY2B](https://open.spotify.com/artist/32gStHcKBZIC9LzcgrvVWb) | [QUESTIONS](https://open.spotify.com/album/2xPpv5wLj0fgJjD8hulaY4) | 2:30 |
 | 73 | [Icy Watch](https://open.spotify.com/track/5i6JGzT3WboBEF7zpYtWEh) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Jacq Charles](https://open.spotify.com/artist/2NvkQvkJzGGJZ21phcNnAn) | [It's Dark Outside](https://open.spotify.com/album/5CDwxZwO15f546UbhehISt) | 2:52 |
 
-Snapshot ID: `MCxmM2ZiNTI5YzcwZmVhNTcyMzA4YmRiMTEyMWY4YjFhNTkxZTE0NGUx`
+Snapshot ID: `MCw2YWNiYjAxZTA4ZDFjYWQzYzljNmRlMWQ1ZmY5YTRmNTIzMTliMDZj`

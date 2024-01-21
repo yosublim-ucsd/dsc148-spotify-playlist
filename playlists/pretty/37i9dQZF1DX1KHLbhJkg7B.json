@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 104118,
+  "num_followers": 104188,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWE2NmUxYTAwZjk3Yjc1YjkwMjZkNGViNjRiYThkZThmMDNhZjk1",
+  "snapshot_id": "MCxiM2Q5MjZmN2M3NWVjOTZiODk1Nzc1Yzg0OTUxNjk0YTI4YmMyNzI3",
   "tracks": [
     {
       "added_at": "2024-01-19 05:01:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Seven Bridges Road",
-        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
-      },
-      "artists": [
-        {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 190174,
-      "name": "Seven Bridges Road",
-      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 232250,
       "name": "Outskirts of Heaven (feat. Craig Campbell)",
       "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Seven Bridges Road",
+        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 190174,
+      "name": "Seven Bridges Road",
+      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -823,7 +823,7 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "\"Fall For You\"",
+        "name": "Fall For You",
         "url": "https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0"
       },
       "artists": [
@@ -833,7 +833,7 @@
         }
       ],
       "duration_ms": 176061,
-      "name": "\"Fall For You\"",
+      "name": "Fall For You",
       "url": "https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh"
     },
     {
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1247,6 +1247,22 @@
       "duration_ms": 230666,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Whatever It Is",
-        "url": "https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH"
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Dylan Wolfe",
+          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
         }
       ],
-      "duration_ms": 219854,
-      "name": "Whatever It Is",
-      "url": "https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq"
+      "duration_ms": 231750,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1415,6 +1415,22 @@
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Whatever It Is",
+        "url": "https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 219854,
+      "name": "Whatever It Is",
+      "url": "https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 494800,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wolfe",
-          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     }
   ],
   "unique_name": "Country Covers",

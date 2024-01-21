@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-101 songs - 4 hr 59 min
+102 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Luar](https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Luar](https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk) | 3:14 | 2024-01-12 |  |
 | [Me Deixa](https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Me Deixa](https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk) | 2:29 | 2023-09-15 | 2023-12-09 |
 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 | 2024-01-12 |  |
+| [Medida Certa](https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Medida Certa](https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu) | 4:04 | 2024-01-19 |  |
 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 | 2023-09-29 |  |
 | [Meio](https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf) | [Kult](https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Meio](https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7) | 2:50 | 2023-09-29 |  |
 | [Mentiras](https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Mentiras](https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD) | 2:13 | 2023-09-15 | 2023-11-18 |
@@ -108,6 +109,6 @@
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 |  |
 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 | 2023-09-15 |  |
 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 | 2023-10-06 | 2024-01-20 |
-| [Água](https://open.spotify.com/track/1lOvdRWVCQT2zWRfW96gBx) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05) | [Água](https://open.spotify.com/album/6SZuXWJLZE15nwQsee2xhy) | 2:36 | 2024-01-19 |  |
+| [Água](https://open.spotify.com/track/1lOvdRWVCQT2zWRfW96gBx) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05) | [Água](https://open.spotify.com/album/6SZuXWJLZE15nwQsee2xhy) | 2:36 | 2024-01-19 | 2024-01-21 |
 
 \*This playlist was first scraped on 2023-09-18. Prior content cannot be recovered.

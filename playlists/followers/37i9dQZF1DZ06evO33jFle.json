@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 450593,
+  "2024-01-21": 450748,
   "date_first_scraped": "2023-03-11",
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
   "name": "This Is Jenni Rivera",
@@ -899,6 +899,24 @@
       "duration_ms": 215038,
       "name": "Se Las Voy a Dar a Otro",
       "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
+    },
+    {
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200081,
+      "name": "Sufriendo a Solas - En Vivo",
+      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
     },
     {
       "album": {

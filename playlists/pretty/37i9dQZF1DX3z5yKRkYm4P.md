@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,309 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,306 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 20 | [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 3:29 |
 | 21 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
 | 22 | [My Girlfriend Is a Witch](https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX) | 2:06 |
-| 23 | [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 |
+| 23 | [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 |
 | 24 | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE) | 1:46 |
 | 25 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 26 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `MCxkN2Q2ZDk4NDkzMmY4ZTI1YmRmZjgxNjE2NjVjZTM1OWNlODE2MmVj`
+Snapshot ID: `MCxhZmJiODFiZDYxMTExZjk2YTk5MjQ2OTgxNmU4OWY5YTQ1YTI1MDBm`

@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
+    },
+    {
+      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
       },

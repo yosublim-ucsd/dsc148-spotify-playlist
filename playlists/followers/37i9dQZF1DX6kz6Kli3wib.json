@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 165332,
+  "2024-01-21": 165365,
   "date_first_scraped": "2021-12-21",
   "description": "Soft electronic music for your dinner.",
   "name": "Dinner Lounge",
@@ -1425,6 +1425,24 @@
       "duration_ms": 151104,
       "name": "Elysian Breeze",
       "url": "https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM"
+    },
+    {
+      "album": {
+        "name": "energy binding",
+        "url": "https://open.spotify.com/album/0T8F9M1ujRoiX81PAXr25d"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145916,
+      "name": "energy binding",
+      "url": "https://open.spotify.com/track/1ekjdpd7bEd2uOmoLSePQQ"
     },
     {
       "album": {
@@ -3621,6 +3639,24 @@
       "duration_ms": 193475,
       "name": "Prends Une Gorg\u00e9e",
       "url": "https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR"
+    },
+    {
+      "album": {
+        "name": "Propellers On",
+        "url": "https://open.spotify.com/album/3hG9LbCQja8rDuC68SjTgT"
+      },
+      "artists": [
+        {
+          "name": "Co Kluin",
+          "url": "https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Propellers On",
+      "url": "https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8"
     },
     {
       "album": {

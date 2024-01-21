@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "CELL",
+        "url": "https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "CELL",
+      "url": "https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc"
+    },
+    {
+      "album": {
         "name": "CHEAP WINE",
         "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
       },
@@ -5945,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223481,
+      "name": "Lindo Lindo",
+      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
+    },
+    {
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun"
       },
@@ -6258,7 +6298,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 142153,
       "name": "luchador",
       "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
@@ -9838,7 +9878,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"

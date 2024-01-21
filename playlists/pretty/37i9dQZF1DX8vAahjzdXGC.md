@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Shakira Jasmine, Arash Buana
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,896 likes - 87 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,914 likes - 87 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 86 | [In The Sun](https://open.spotify.com/track/0czqsruWngsvbtbpPOf9K8) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [In The Sun](https://open.spotify.com/album/6ypB6NcnTat9NKd81cS9nD) | 3:23 |
 | 87 | [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 |
 
-Snapshot ID: `MCwxMTBlZmZhYzRmNjY1NTdhY2UxZThjYjUyMGUxOWUwOGVmNTIwNTUw`
+Snapshot ID: `MCw5YjE5YTEzMzMwZjlkN2NlM2JhZjAwMzdmM2RkZDczZjgwMDIyMjFi`

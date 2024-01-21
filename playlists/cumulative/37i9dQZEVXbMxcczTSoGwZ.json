@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\"Se\"",
+        "url": "https://open.spotify.com/album/6gggsGiYWsXHzHEAJbamhM"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "\"Se\"",
+      "url": "https://open.spotify.com/track/65UgeS6VdIpUQqR3UoGw9j"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -3391,6 +3409,28 @@
     },
     {
       "album": {
+        "name": "Disco Maghreb",
+        "url": "https://open.spotify.com/album/4AoEmOOUJN0safxtjYo8eN"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145492,
+      "name": "Bye Bye (feat. SHRTY)",
+      "url": "https://open.spotify.com/track/3iOp9LuiYzx5E6Yyu0hNcf"
+    },
+    {
+      "album": {
         "name": "Love SZN",
         "url": "https://open.spotify.com/album/2PqdRkCHm8p63i3nDoyOlQ"
       },
@@ -5066,7 +5106,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 160002,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7CxxYcWRv53v2JTyqdb6Ub"
@@ -11925,6 +11965,24 @@
     },
     {
       "album": {
+        "name": "Itke sit",
+        "url": "https://open.spotify.com/album/52OzJXp4vHcECK9M45rNbK"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182104,
+      "name": "Itke sit",
+      "url": "https://open.spotify.com/track/5HlCvsft3oLyM6vjNYHW5h"
+    },
+    {
+      "album": {
         "name": "itsek\u00e4s",
         "url": "https://open.spotify.com/album/04GCYQh7ybc3MD7OHsrzcx"
       },
@@ -12766,7 +12824,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 156919,
       "name": "J\u00e4lkeek\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
@@ -17688,7 +17746,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 148574,
       "name": "Maailman ymp\u00e4ri",
       "url": "https://open.spotify.com/track/0HLSHAhE13XbkJDzyZymzQ"
@@ -19100,7 +19158,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 183866,
       "name": "mietin sua pahalla",
       "url": "https://open.spotify.com/track/2RvIQZw7Oz1XHEhuSmreWv"
@@ -19658,6 +19716,24 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "Miten k\u00e4\u00e4rmeet lis\u00e4\u00e4ntyy",
+        "url": "https://open.spotify.com/album/3j1BUnTXIZfBXLLnTiYbgF"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Miten k\u00e4\u00e4rmeet lis\u00e4\u00e4ntyy",
+      "url": "https://open.spotify.com/track/25fP20sXXDvyH0CXoINKSL"
     },
     {
       "album": {
@@ -29170,7 +29246,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 159729,
       "name": "Syd\u00e4n - Hj\u00e4rta Remix",
       "url": "https://open.spotify.com/track/5n2VF6KuVIQXk9lvBWUAsl"
@@ -33296,7 +33372,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 209302,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS"
@@ -33634,6 +33710,28 @@
       "duration_ms": 237880,
       "name": "Voitolla y\u00f6h\u00f6n",
       "url": "https://open.spotify.com/track/2niYYhmbU5RikSLCWLadwb"
+    },
+    {
+      "album": {
+        "name": "Vox Populi",
+        "url": "https://open.spotify.com/album/6r4Q96ErUy7kkY9bWJxDd4"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        },
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Vox Populi",
+      "url": "https://open.spotify.com/track/4b8Hn8DVvORc3VT99L4gbn"
     },
     {
       "album": {
@@ -34026,6 +34124,28 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "album": {

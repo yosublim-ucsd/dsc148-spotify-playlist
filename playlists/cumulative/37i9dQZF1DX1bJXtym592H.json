@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "alice in dreamland",
+        "url": "https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "alice in dreamland",
+      "url": "https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7ayPsHtJl3BvaLxSZO4VjG"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 129438,
       "name": "Blossoming",
       "url": "https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z"
@@ -1347,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Highly Overrated",
+        "url": "https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l"
+      },
+      "artists": [
+        {
+          "name": "Fremantle Doctor",
+          "url": "https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142415,
+      "name": "Highly Overrated",
+      "url": "https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg"
+    },
+    {
+      "album": {
         "name": "hop skip and a jump",
         "url": "https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza"
       },
@@ -1748,6 +1784,24 @@
       "duration_ms": 120000,
       "name": "Life Strikes",
       "url": "https://open.spotify.com/track/4iyj7Yptcbp3Lje0bzBKmW"
+    },
+    {
+      "album": {
+        "name": "lifeless",
+        "url": "https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86666,
+      "name": "lifeless",
+      "url": "https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R"
     },
     {
       "album": {
@@ -2330,7 +2384,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 119600,
       "name": "New York Moonlight",
       "url": "https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20"
@@ -2640,7 +2694,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 177711,
       "name": "Pajamas",
       "url": "https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z"

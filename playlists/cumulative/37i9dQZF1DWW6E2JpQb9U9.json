@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Botella (En Vivo)",
+        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277875,
+      "name": "Botella - En Vivo",
+      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
+    },
+    {
+      "album": {
         "name": "Vivo en la Trastienda",
         "url": "https://open.spotify.com/album/3WMDIIZ7Vi9O5tSLecWEFl"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"

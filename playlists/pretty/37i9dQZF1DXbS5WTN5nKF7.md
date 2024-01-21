@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,686 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,869 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 |
 | 50 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
 
-Snapshot ID: `MCwzM2UwOGZjNTlhM2I3ZmE2OTA3Y2U1OTIxZDlmYWQ2MjNmNzMzNTVj`
+Snapshot ID: `MCw3YjhlYTNhNzVlMTE2NDUxN2NmMGQxZGZhOWI3YmQ3MjVhZmJiNzMx`

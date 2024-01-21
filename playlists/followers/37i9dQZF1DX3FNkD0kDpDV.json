@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 725862,
+  "2024-01-21": 725787,
   "date_first_scraped": "2021-12-21",
   "description": "Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October. ",
   "name": "ADE Guest List",
@@ -90,6 +90,24 @@
     },
     {
       "album": {
+        "name": "Come Together EP",
+        "url": "https://open.spotify.com/album/2GQSeIQvbRFeiQHTv0QdG7"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338749,
+      "name": "92 Thing",
+      "url": "https://open.spotify.com/track/4jUPCu3hRfCkYBExW3ryU8"
+    },
+    {
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/2qkjGCnCT0T3PYWNFr6buF"
       },
@@ -101,7 +119,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 338749,
       "name": "92 Thing",
       "url": "https://open.spotify.com/track/70PoA9APZapULPaXRUSvpn"

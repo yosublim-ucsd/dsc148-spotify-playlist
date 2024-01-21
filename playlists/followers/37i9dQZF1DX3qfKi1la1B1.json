@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 117320,
+  "2024-01-21": 117343,
   "date_first_scraped": "2022-10-24",
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
   "name": "Midnight Chill",
@@ -65,10 +65,32 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "album": {

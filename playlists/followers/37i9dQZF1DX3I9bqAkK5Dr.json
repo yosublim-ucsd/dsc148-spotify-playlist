@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 31704,
+  "2024-01-21": 31710,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : KASYAP",
   "name": "Telugu Indie",
@@ -347,6 +347,28 @@
       "duration_ms": 275744,
       "name": "Cheliya",
       "url": "https://open.spotify.com/track/2jiVEfxgGsN4Q1oQ2f2QFy"
+    },
+    {
+      "album": {
+        "name": "Chilaka",
+        "url": "https://open.spotify.com/album/1FmqOLK6uViRA2ciMZFGPd"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366000,
+      "name": "Chilaka",
+      "url": "https://open.spotify.com/track/1twQpI67lgEWZvKf8HObSK"
     },
     {
       "album": {
@@ -823,7 +845,7 @@
     {
       "album": {
         "name": "Godavari",
-        "url": "https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC"
+        "url": "https://open.spotify.com/album/0dVhWTvZkTlKtRUvnpp1ZS"
       },
       "artists": [
         {
@@ -834,6 +856,24 @@
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187383,
+      "name": "Godavari",
+      "url": "https://open.spotify.com/track/676ILrTLxsKAuy7jWp0nSw"
+    },
+    {
+      "album": {
+        "name": "Godavari",
+        "url": "https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC"
+      },
+      "artists": [
+        {
+          "name": "Arjun Vijay",
+          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-20",
       "duration_ms": 187383,
       "name": "Godavari",
       "url": "https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa"
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 187941,
       "name": "Jimpak Chipak",
       "url": "https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF"
@@ -2545,7 +2585,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 193482,
       "name": "Oggesi Ponadhe Nanu Oggesi Ponadhe",
       "url": "https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf"
@@ -2871,6 +2911,24 @@
       "duration_ms": 145597,
       "name": "People",
       "url": "https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP"
+    },
+    {
+      "album": {
+        "name": "Pilla",
+        "url": "https://open.spotify.com/album/59XeWn5AXlh6BRx6gGKA4q"
+      },
+      "artists": [
+        {
+          "name": "Ram Mantha",
+          "url": "https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223091,
+      "name": "Pilla",
+      "url": "https://open.spotify.com/track/1gNzOEg64KHBMxU0pteGQx"
     },
     {
       "album": {

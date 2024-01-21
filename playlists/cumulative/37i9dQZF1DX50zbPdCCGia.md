@@ -2,7 +2,7 @@
 
 ### [70s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX50zbPdCCGia)
 
-> The best soft rock from the 1970s\. Cover: Jimmy Buffett
+> The best soft rock from the 1970s\. Cover: Styx
 
 234 songs - 15 hr 48 min
 

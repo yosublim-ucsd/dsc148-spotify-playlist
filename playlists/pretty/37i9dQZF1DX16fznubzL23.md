@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,120 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 |
 | 50 | [Insecure](https://open.spotify.com/track/2MeVZdxJKJrMGxMryaXH6r) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/1iH80GKyvJBUWvpQ7KTtl4) | 3:00 |
 
-Snapshot ID: `MCxmNDRmM2M3ZjJhMzc2OTE5YmY0ZjVlZDkzZGVhOGVmYjM2NDg2YWQ0`
+Snapshot ID: `MCwyZmE0OWQ3YzM2OWVkYmU1NGMxZGMyMTM2MWEwNzA2MTFmM2Y5Mjlk`

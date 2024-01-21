@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 307306,
+  "2024-01-21": 307307,
   "date_first_scraped": "2022-01-01",
   "description": "The best of today's dance hits. Cover: Frank Walker",
   "name": "mint Canada",
@@ -955,6 +955,32 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
       "album": {
@@ -2354,6 +2380,28 @@
     },
     {
       "album": {
+        "name": "Body Music",
+        "url": "https://open.spotify.com/album/3N0R6pwcb92mzIpo0b8Ri3"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178646,
+      "name": "Body Music",
+      "url": "https://open.spotify.com/track/4CZMw21KNrUidU6S3L5GqU"
+    },
+    {
+      "album": {
         "name": "DROOL",
         "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
       },
@@ -3465,7 +3513,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 463846,
       "name": "Convenient Fetish",
       "url": "https://open.spotify.com/track/4UcIq4MBVMrZpzXRxd7ewq"
@@ -5148,6 +5196,28 @@
     },
     {
       "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl"
       },
@@ -6111,7 +6181,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 283000,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7"
@@ -7527,7 +7597,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 180000,
       "name": "Good in Goodbye",
       "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
@@ -7673,6 +7743,28 @@
       "duration_ms": 210000,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO"
+    },
+    {
+      "album": {
+        "name": "Green Dot (BROODS Remix)",
+        "url": "https://open.spotify.com/album/6mWtjUS0E2d0g93fmo5Sno"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154362,
+      "name": "Green Dot - BROODS Remix",
+      "url": "https://open.spotify.com/track/1o4irsXbxFB5plLJng1fuy"
     },
     {
       "album": {
@@ -8794,6 +8886,24 @@
     },
     {
       "album": {
+        "name": "Hot Tub Time Machine",
+        "url": "https://open.spotify.com/album/0GfkXTfETvRJAXRBhPbq6S"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hot Tub Time Machine",
+      "url": "https://open.spotify.com/track/6KDHALPczYRgug40ohucum"
+    },
+    {
+      "album": {
         "name": "How Do I Say Goodbye (feat. Delaney Jane)",
         "url": "https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ"
       },
@@ -9091,7 +9201,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ"
@@ -9967,7 +10077,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 266600,
       "name": "Infraliminal",
       "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
@@ -11191,7 +11301,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 173378,
       "name": "Let's Begin",
       "url": "https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF"
@@ -14219,7 +14329,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165119,
       "name": "No Love",
       "url": "https://open.spotify.com/track/2CUjGppSC2gP62xeNmCIWh"
@@ -14949,7 +15059,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 157258,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5jekLlDqX3cuJlYwbmUIu9"
@@ -16917,6 +17027,24 @@
       "duration_ms": 226347,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li"
+    },
+    {
+      "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/1PfzHWLIIixauSvDuGS3aY"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/0rabGrLs3R4WOp0BB1dnLP"
     },
     {
       "album": {
@@ -22521,7 +22649,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 168188,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/1EfX4ziNSM3ZU8Hj82yxcl"
@@ -23289,7 +23417,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
@@ -24083,7 +24211,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 151698,
       "name": "You Don't Even Know Me",
       "url": "https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj"

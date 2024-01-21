@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 376150,
+  "2024-01-21": 376238,
   "date_first_scraped": "2022-01-02",
   "description": "The cream of today's Country crop. Cover: Dylan Gossett",
   "name": "Fresh Country",
@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Beer On The Water",
+        "url": "https://open.spotify.com/album/5uuMycpsCOdIxdsJ7CidXJ"
+      },
+      "artists": [
+        {
+          "name": "Zac & George",
+          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147268,
+      "name": "Beer On The Water",
+      "url": "https://open.spotify.com/track/3JStFnBTYOyiXDkUzm41J0"
+    },
+    {
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -895,6 +913,24 @@
       "duration_ms": 160732,
       "name": "Bet On Us",
       "url": "https://open.spotify.com/track/7Loe6kKCUIJGxZiJQVjLDX"
+    },
+    {
+      "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "BETTER DAYS",
+      "url": "https://open.spotify.com/track/2eCgRuEddwFVOKLC9uERD3"
     },
     {
       "album": {
@@ -1123,6 +1159,24 @@
       "duration_ms": 205523,
       "name": "Break Up With A Friend",
       "url": "https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY"
+    },
+    {
+      "album": {
+        "name": "Breaking My Heart",
+        "url": "https://open.spotify.com/album/6JPhvVl0yTlDB1MoUNFea1"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220143,
+      "name": "Breaking My Heart",
+      "url": "https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP"
     },
     {
       "album": {
@@ -1369,7 +1423,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 161133,
       "name": "Can't Pass The Bar",
       "url": "https://open.spotify.com/track/7fhs0anz1GueX9JnprYITm"
@@ -2939,7 +2993,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228040,
       "name": "Girl In The Mirror",
       "url": "https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson"
@@ -3571,7 +3625,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 201176,
       "name": "Hell on My Heart",
       "url": "https://open.spotify.com/track/3sXZExdTZQnBcyPRfzlyoP"
@@ -3906,6 +3960,24 @@
     },
     {
       "album": {
+        "name": "I Got Time",
+        "url": "https://open.spotify.com/album/0dE2J2otGtYTvaiRN0EMy3"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "I Got Time",
+      "url": "https://open.spotify.com/track/4rfLUhNLsNOwmbFR1iGDu7"
+    },
+    {
+      "album": {
         "name": "We Roll On",
         "url": "https://open.spotify.com/album/0eAvk2L6IzDtdQMTJcveuA"
       },
@@ -4059,6 +4131,24 @@
       "duration_ms": 206493,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+    },
+    {
+      "album": {
+        "name": "I'm Doing Well",
+        "url": "https://open.spotify.com/album/0A5QSrPjmxMk97is7YT3zW"
+      },
+      "artists": [
+        {
+          "name": "Finnian Johnson",
+          "url": "https://open.spotify.com/artist/4MNXrE9MKatoDYCexgnXVi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226356,
+      "name": "I'm Doing Well",
+      "url": "https://open.spotify.com/track/1W8aqVf8iQOS8aT1wGeZ3u"
     },
     {
       "album": {
@@ -4593,7 +4683,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 199284,
       "name": "Let\u2019s Go Fishing",
       "url": "https://open.spotify.com/track/6ns6oRR7rI20Y5P5BQAqdK"
@@ -5600,6 +5690,24 @@
     },
     {
       "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+    },
+    {
+      "album": {
         "name": "Nobody's More Country",
         "url": "https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5"
       },
@@ -6517,7 +6625,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 184466,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5HS8aICH7tjYXSBxzjE9PU"
@@ -6687,6 +6795,24 @@
       "duration_ms": 188210,
       "name": "Saddle Up",
       "url": "https://open.spotify.com/track/5c9WfcLbtsElPTrbuXENTD"
+    },
+    {
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "album": {
@@ -7107,7 +7233,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 179050,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
@@ -7349,7 +7475,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -8477,7 +8603,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 185869,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W"
@@ -8791,7 +8917,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 186368,
       "name": "Tucson Too Late - Live Acoustic",
       "url": "https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW"
@@ -9729,6 +9855,24 @@
       "duration_ms": 218333,
       "name": "Young Lovers",
       "url": "https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU"
+    },
+    {
+      "album": {
+        "name": "Young, Dumb & Wild",
+        "url": "https://open.spotify.com/album/142Nup5EiU2GFQ4EjHqcmZ"
+      },
+      "artists": [
+        {
+          "name": "Andy Golledge",
+          "url": "https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239936,
+      "name": "Young, Dumb & Wild",
+      "url": "https://open.spotify.com/track/6LgGes1HTttobYY4ic74kN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ"

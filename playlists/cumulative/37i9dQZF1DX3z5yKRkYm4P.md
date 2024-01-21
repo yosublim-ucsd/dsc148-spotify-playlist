@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-90 songs - 5 hr 0 min
+91 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Vampira's Curse](https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl) | [The Guitaraculas](https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo) | [Two Bottles of Blood](https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1) | 2:44 | 2022-10-10 |  |
 | [Vampirella](https://open.spotify.com/track/46XIYDknHnw6u15WLWjsVg) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Latin Halloween](https://open.spotify.com/album/43gbSK7c6LfANqf1YwALmW) | 1:42 | 2022-10-10 | 2022-11-13 |
 | [Vampirella](https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:42 | 2022-10-10 |  |
-| [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 | 2022-10-10 |  |
+| [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 | 2022-10-10 |  |
+| [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 | 2022-10-10 | 2024-01-21 |
 
 \*This playlist was first scraped on 2022-10-27. Prior content cannot be recovered.

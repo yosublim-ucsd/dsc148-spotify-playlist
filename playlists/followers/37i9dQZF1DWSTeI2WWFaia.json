@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1608214,
+  "2024-01-21": 1608126,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
   "name": "Spilled Ink",
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 171989,
       "name": "Dead Men (feat. Cozz)",
       "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
@@ -4233,6 +4233,28 @@
       "duration_ms": 156972,
       "name": "Ghetto Reporter",
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
+    },
+    {
+      "album": {
+        "name": "Give & Give",
+        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159220,
+      "name": "Give & Give",
+      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
     },
     {
       "album": {
@@ -8444,6 +8466,24 @@
     },
     {
       "album": {
+        "name": "The Patience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117451,
+      "name": "Perm",
+      "url": "https://open.spotify.com/track/2xhQK1DuFFcsykmPvbzNeP"
+    },
+    {
+      "album": {
         "name": "pg baby (Remix)",
         "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
       },
@@ -8481,7 +8521,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176026,
       "name": "Phil Drummond (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
@@ -10099,7 +10139,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 210509,
       "name": "Slip",
       "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
@@ -10821,6 +10861,28 @@
       "duration_ms": 200775,
       "name": "Super Rare (feat. Hello O'Shay)",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "album": {
+        "name": "The Supergoat",
+        "url": "https://open.spotify.com/album/75YVZYcTdKPAz6ENkcTJTW"
+      },
+      "artists": [
+        {
+          "name": "Hus KingPin",
+          "url": "https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134523,
+      "name": "Supergoat",
+      "url": "https://open.spotify.com/track/3jkLr0voaj5CkiqdcqZRju"
     },
     {
       "album": {
@@ -12745,7 +12807,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
@@ -12771,6 +12833,24 @@
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"
+    },
+    {
+      "album": {
+        "name": "YUMA",
+        "url": "https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "YUMA",
+      "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia"

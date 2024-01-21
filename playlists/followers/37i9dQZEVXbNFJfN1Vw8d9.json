@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1621736,
+  "2024-01-21": 1621850,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Spain.",
   "name": "Top 50 - Spain",
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
@@ -14077,7 +14077,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 156973,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/78YytPid0icgwoGpDEj1dy"

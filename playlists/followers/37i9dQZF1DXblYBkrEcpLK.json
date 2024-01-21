@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 151303,
+  "2024-01-21": 151389,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
   "name": "EQUAL Anime",
@@ -4479,6 +4479,24 @@
       "duration_ms": 211933,
       "name": "SHINOBI-NAI",
       "url": "https://open.spotify.com/track/3oRk1VbEjfNF3FAyMHIbCo"
+    },
+    {
+      "album": {
+        "name": "Shinshin Muso no Ken ni Nare",
+        "url": "https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u524d\u4eac\u9999(CV:\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/52ky9tegM9Sdirv6I8Ok1q"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Shinshin Muso no Ken ni Nare",
+      "url": "https://open.spotify.com/track/7p4RhJ9eryGdHeGnx467OS"
     },
     {
       "album": {
@@ -8978,7 +8996,7 @@
       "artists": [
         {
           "name": "KEIKO",
-          "url": "https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM"
+          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
         }
       ],
       "date_added": "2024-01-18",
@@ -9271,7 +9289,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189813,
       "name": "\u5fc3\u8eab\u7121\u53cc\u306e\u5263\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/3KepaGnc8CjilcnFdVvK1k"

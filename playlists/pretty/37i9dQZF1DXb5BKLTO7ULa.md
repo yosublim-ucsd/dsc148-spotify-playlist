@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,149 likes - 86 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,166 likes - 86 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 52 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
 | 53 | [Running](https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Running](https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7) | 3:28 |
 | 54 | [come again](https://open.spotify.com/track/1VUbwtBbjshHPIZR9s4vqA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [come again](https://open.spotify.com/album/2kWKZkxRXsrKG7ZW0A9Xfd) | 3:06 |
-| 55 | [TIJARA](https://open.spotify.com/track/7dSoJRybnsw5gl64olreGq) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [SRNO](https://open.spotify.com/artist/6l5pnSg1flbpZ1LD5uNtC8) | [TIJARA](https://open.spotify.com/album/3c8P5FGCKhRG56PKvTKzJI) | 2:20 |
+| 55 | [TIJARA](https://open.spotify.com/track/7dSoJRybnsw5gl64olreGq) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TIJARA](https://open.spotify.com/album/3c8P5FGCKhRG56PKvTKzJI) | 2:20 |
 | 56 | [Moment](https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 3:05 |
 | 57 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 |
 | 58 | [issues](https://open.spotify.com/track/0xBLhnisyr8CR6WQMBxmJY) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [ISSUES](https://open.spotify.com/album/33Wjrh5EFefxAbxZVaFZA1) | 3:10 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 85 | [My Only Love](https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [My Only Love](https://open.spotify.com/album/0oo9DANNKIwWW1SgNNL3mY) | 3:35 |
 | 86 | [Richard Has a Racecar](https://open.spotify.com/track/16v5LEygjqndWhDbnMrsX1) | [MOOON](https://open.spotify.com/artist/53U4hWtcbNtLw3Q5w8ttDH) | [Richard Has a Racecar](https://open.spotify.com/album/68HIpXBAz0A5lMzowOmlCW) | 3:05 |
 
-Snapshot ID: `MCw2ZDBiNDJiZjI0YjdhNjlhZTc4NzRlOTljODViMjViOTU2NmQ3MWE2`
+Snapshot ID: `MCw5ZjU4Y2IwYzU1MTcxOGFiNDI5YTBlMGViNmRjMTUzNTMxODQwNzRh`

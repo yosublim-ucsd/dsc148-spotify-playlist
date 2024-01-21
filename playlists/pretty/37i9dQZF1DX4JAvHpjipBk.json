@@ -1,12 +1,12 @@
 {
   "description": "New music from Green Day, Nicki Minaj, Bleachers, David Kushner, and more!",
-  "num_followers": 4166501,
+  "num_followers": 4166468,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmQ2ZjljMDNhMGI0OTE0ZTBjMDg5YTBlMDAwYmQ0NTFiN2RjYjU4",
+  "snapshot_id": "MCxjNTliMmUyNWQzNDA1OWU1YWM1ZjdhN2EwNWQyN2Q1ZjA2N2FmNzAw",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -940,10 +940,6 @@
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
@@ -954,6 +950,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "duration_ms": 228267,

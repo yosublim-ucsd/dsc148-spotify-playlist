@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 13090,
+  "2024-01-21": 13106,
   "date_first_scraped": "2022-08-06",
   "description": "Get into the spirit of AFCON 2023 with hits from the participating countries. ",
   "name": "Locker Room ",
@@ -235,7 +235,7 @@
     {
       "album": {
         "name": "Africain",
-        "url": "https://open.spotify.com/album/2gSTFKuGeUgwzjtTaEusnT"
+        "url": "https://open.spotify.com/album/4xZDUgshDoJP0Zprw4HuSW"
       },
       "artists": [
         {
@@ -246,6 +246,24 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224720,
+      "name": "Africain",
+      "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
+    },
+    {
+      "album": {
+        "name": "Africain",
+        "url": "https://open.spotify.com/album/2gSTFKuGeUgwzjtTaEusnT"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-20",
       "duration_ms": 224809,
       "name": "Africain",
       "url": "https://open.spotify.com/track/4BuNLkjWoKcxsU7K2eqB3S"

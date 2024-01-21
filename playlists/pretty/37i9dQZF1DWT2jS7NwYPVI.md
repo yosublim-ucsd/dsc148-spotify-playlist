@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,354 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,660 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 |
 | 100 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 
-Snapshot ID: `MCwxN2NiMzgzYTVlNzg2ZDU5YWU2MWZjZjc5NWZhMmQ1MjUxNjBkN2Q0`
+Snapshot ID: `MCwxZTU4YWViMDIzYTg3MmIzNGJlNDFhYmRlMGIyNDFiNGQ2YzRjZDBk`

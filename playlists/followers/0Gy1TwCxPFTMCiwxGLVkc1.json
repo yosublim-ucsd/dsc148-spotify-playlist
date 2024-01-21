@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 33,
+  "2024-01-21": 33,
   "date_first_scraped": "2022-06-10",
   "description": "Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!",
   "name": "Kids Music",
@@ -2353,6 +2353,10 @@
         {
           "name": "Annie Wiggins",
           "url": "https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB"
+        },
+        {
+          "name": "Pippi Longstocking",
+          "url": "https://open.spotify.com/artist/1UsNaDhmpcOTS6j6OCyyAw"
         }
       ],
       "date_added": "2023-09-04",

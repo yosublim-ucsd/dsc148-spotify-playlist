@@ -24183,6 +24183,28 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/3PJTM9AZNAMKSpSPx0p6Ne"
+      },
+      "artists": [
+        {
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "SHRETA",
+          "url": "https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/205vIudEsOhPEozChgIv03"
+    },
+    {
+      "album": {
         "name": "Only With Time - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
       },

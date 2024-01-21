@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 20688,
+  "2024-01-21": 20691,
   "date_first_scraped": "2021-12-21",
   "description": "Summertime sadness everyday",
   "name": "Sun Kissed",
@@ -2001,6 +2001,28 @@
       "duration_ms": 149213,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3"
+    },
+    {
+      "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133706,
+      "name": "edamame",
+      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
     },
     {
       "album": {
@@ -4725,7 +4747,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"

@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 40546,
+  "2024-01-21": 40578,
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
   "name": "Huaynos Cl\u00e1sicos",
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
@@ -1867,6 +1867,24 @@
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+    },
+    {
+      "album": {
+        "name": "Mensajes Andinos",
+        "url": "https://open.spotify.com/album/4DBGVbYysli4Ir4J1cjvXI"
+      },
+      "artists": [
+        {
+          "name": "Porfirio Ayvar",
+          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Siwarquinticha",
+      "url": "https://open.spotify.com/track/5AXFzmnW21Atxa2zM92VsA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50820,
+  "num_followers": 50826,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzQ5M2QwYjBlZmMwNWFkMzU3NGVmZDgxYzI4N2Y5MTQ2NzJlYjBm",
+  "snapshot_id": "MCwwZmYxZGM1OThlYjdmNzFlYmE3YTQyOWRjNjRkNjM3ZmI5Yjk1NTg2",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "La rebellion",
-        "url": "https://open.spotify.com/album/1EDvrJyiEQkKMJzV6ERgJ8"
-      },
-      "artists": [
-        {
-          "name": "Retrib",
-          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
-        },
-        {
-          "name": "Emre Root",
-          "url": "https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd"
-        }
-      ],
-      "duration_ms": 376012,
-      "name": "La rebellion",
-      "url": "https://open.spotify.com/track/15wweIQr7grMaoQS8WmD9D"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Tambores y Cantos",
         "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
       },
@@ -859,22 +839,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "Acu\u00e9rdate De M\u00ed",
-      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Booty Puty",
         "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
@@ -939,18 +903,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 185217,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
+      "duration_ms": 180375,
+      "name": "Acu\u00e9rdate De M\u00ed",
+      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1007,22 +971,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Los del Vacile",
         "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
       },
@@ -1035,6 +983,38 @@
       "duration_ms": 213285,
       "name": "Los del Vacile",
       "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1091,26 +1071,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sigue y Sigue",
         "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
@@ -1159,6 +1119,42 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Sabor a Salsa",
+        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 376013,
+      "name": "La rebelion",
+      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1171,6 +1167,22 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1191,18 +1203,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+        "name": "Latinos",
+        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
       },
       "artists": [
         {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
         }
       ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+      "duration_ms": 211722,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1235,22 +1247,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Latinos",
-        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 211722,
-      "name": "Latinos",
-      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Estyland EP",
         "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
@@ -1263,22 +1259,6 @@
       "duration_ms": 173904,
       "name": "7heaven",
       "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1299,6 +1279,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -1311,22 +1307,6 @@
       "duration_ms": 180853,
       "name": "Fettuccine",
       "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1347,22 +1327,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Los Rakas",
-        "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
       },
       "artists": [
         {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Raka Party",
-      "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
+      "duration_ms": 159218,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1379,6 +1355,22 @@
       "duration_ms": 169412,
       "name": "EnVy",
       "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "ABUC",
+        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Afro Mambo",
+      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
     }
   ],
   "unique_name": "Orgullo Afro-Latino",

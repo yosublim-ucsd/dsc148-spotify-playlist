@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! ",
-  "num_followers": 101675,
+  "num_followers": 101688,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjg2ZjI4OGRjYmM1NmI1MGU2ZmMxZTU2MDcwZDgwODBiYjY4ODY0",
+  "snapshot_id": "MCw2MGQ4ODkzNWUzNzk1MjY2M2JmNTcwNDg0MjQwZmZjYTE3OWRhZTBj",
   "tracks": [
     {
       "added_at": "2024-01-03 06:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-01-03 06:00:00",
       "album": {
+        "name": "Mis Mejores Poses",
+        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Mis Mejores Poses",
+      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
+    },
+    {
+      "added_at": "2024-01-03 06:00:00",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2024-01-03 06:00:00",
-      "album": {
-        "name": "Mis Mejores Poses",
-        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Mis Mejores Poses",
-      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
     },
     {
       "added_at": "2024-01-03 06:00:00",

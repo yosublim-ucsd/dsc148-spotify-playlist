@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,022 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,037 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tomodachi](https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg) | 4:08 |
 | 2 | [LOVELY](https://open.spotify.com/track/4dpPRgiOV4jqpWz0zoHA6Q) | [DOUBLIVING](https://open.spotify.com/artist/78DTp8NyXNoJZKEs73RdnF) | [LOVELY](https://open.spotify.com/album/1jssY4bX0VvE30Z7ZITqci) | 4:25 |
-| 3 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
+| 3 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 4 | [kotodama](https://open.spotify.com/track/0eOixJmvPUWwY7HvtpnkIm) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [kotodama](https://open.spotify.com/album/24DElhcYCRyeXviQjniv8t) | 3:22 |
 | 5 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
 | 6 | [火を吹く二人](https://open.spotify.com/track/4NbIiXCBJ0rjMgSQxNmgPv) | [灯橙あか](https://open.spotify.com/artist/72uhjxADWYdvxljl2I4jaN) | [火を吹く二人](https://open.spotify.com/album/0u33bQhszEbUGLike9PFh9) | 5:26 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 39 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 |
 | 40 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
 | 41 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 |
-| 42 | [limit](https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [limit](https://open.spotify.com/album/0RxQZZwGASpfg7OH2OkxIK) | 4:23 |
+| 42 | [limit](https://open.spotify.com/track/6ri9G2hnu8zhA71sMCVfVk) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [shin zen bi](https://open.spotify.com/album/3auUQy4uLMntgH8F71vHxR) | 4:23 |
 | 43 | [poppin](https://open.spotify.com/track/5VfmQpR2oEbsG0SDLFnSPW) | [tomodati](https://open.spotify.com/artist/2jUHyOTAww2DwD3RDGwjzd), [Kiing36](https://open.spotify.com/artist/4ygBoDuxgI8IgjAkEQDClK) | [I don't wanna be xxx](https://open.spotify.com/album/2CSTPAyV65ZD8cSjJBK3Id) | 4:24 |
 | 44 | [匿名奇謀](https://open.spotify.com/track/56VGFy1ykmlUfGulaXaGo0) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [匿名奇謀](https://open.spotify.com/album/7n1ooVetm2k8AUgQZF1jSu) | 3:34 |
 | 45 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 80 | [WINTER DANCE](https://open.spotify.com/track/5d90AlhUhCDgY17imsiztL) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 5:52 |
 
-Snapshot ID: `MCw3OTM3MGJkM2ZhZDJiM2IzMjlhOTQyZmViMWM0NDRlZjQzNzNjNzMw`
+Snapshot ID: `MCxjZmRlZjRkNzllYjc1Mjk4NWY4OWMzZDlkZjY3ZDBjYzVhNTVlNjVi`

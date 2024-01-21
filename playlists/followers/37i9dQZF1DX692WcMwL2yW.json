@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 463714,
+  "2024-01-21": 463728,
   "date_first_scraped": "2021-04-26",
   "description": "Stay focused with electronic and trap beats.",
   "name": "All-Nighter",
@@ -4494,6 +4494,24 @@
     },
     {
       "album": {
+        "name": "Riddle Box",
+        "url": "https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk"
+      },
+      "artists": [
+        {
+          "name": "Hephisto",
+          "url": "https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Riddle Box",
+      "url": "https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg"
+    },
+    {
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/1TsskLJu3cR1g9WgcVgkte"
       },
@@ -5985,6 +6003,24 @@
       "duration_ms": 173500,
       "name": "Unfeeling",
       "url": "https://open.spotify.com/track/4T0BMGKEt5MeIdrhfD8TWm"
+    },
+    {
+      "album": {
+        "name": "Valley of Sin",
+        "url": "https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw"
+      },
+      "artists": [
+        {
+          "name": "Demon Hyde",
+          "url": "https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Valley of Sin",
+      "url": "https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU"
     },
     {
       "album": {

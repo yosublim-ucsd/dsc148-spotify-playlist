@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YENA\(최예나\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,056 likes - 161 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,247 likes - 161 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 78 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 |
 | 79 | [REWIND](https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [CONNECT](https://open.spotify.com/album/4JdZ37sM1QoMhUvY3nzorw) | 3:09 |
 | 80 | [Tell me it is love](https://open.spotify.com/track/2W0Arp2uDkmX2mnkEMfVbh) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [With All My Heart](https://open.spotify.com/album/1MFN0JrE64TkeRjxMIntg3) | 3:14 |
-| 81 | [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [Kino](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 |
+| 81 | [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 |
 | 82 | [Until You](https://open.spotify.com/track/1L5JFGfnXeVby01GXRpD22) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [Until You](https://open.spotify.com/album/6KEqSI4dlI22hHeWMo9Ulq) | 3:01 |
 | 83 | [ROAD \(Feat\. Skinny Brown, TRADE L, Hannah\)](https://open.spotify.com/track/0mk4N0QM4NLZN5ujoCBTbA) | [RELOAD](https://open.spotify.com/artist/71T0uNqTUxppsys49hktTF), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [ROAD](https://open.spotify.com/album/7elkrUuiiU74BQUBarJw5V) | 3:14 |
 | 84 | [들쥐 mouse](https://open.spotify.com/track/1rQ4r5wLBmmofGJJYcCMUP) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [들쥐 mouse](https://open.spotify.com/album/08oiihcEvWsddQYVfpcAKR) | 3:46 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 160 | [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 |
 | 161 | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/track/6e53jSfKBohJjJhqURJRC7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [차우주](https://open.spotify.com/artist/1Ug3giuJFaBEuBuoYbZVno) | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/album/0u0JzT8CCZ2pch383vj08S) | 3:23 |
 
-Snapshot ID: `MCxiODkzYTEyNzZiMjg0ZDk0NjFmMDIwZjEzNjVlMjRlZmYzMjNjYzky`
+Snapshot ID: `MCxhYWNlMjJjYmQ5M2Y0Mjc1NzI0YjI1NjFiYjExNjM5NThkYWRkZjJm`

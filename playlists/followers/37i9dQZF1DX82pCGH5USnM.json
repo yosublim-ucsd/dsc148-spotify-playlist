@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1687613,
+  "2024-01-21": 1687595,
   "date_first_scraped": "2020-04-03",
   "description": "Soft house music for your laidback moments.",
   "name": "Lounge - Soft House",
@@ -7204,6 +7204,24 @@
     },
     {
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/6vOQHMTcqC9syjC360EWXa"
+      },
+      "artists": [
+        {
+          "name": "Jaake Alsonn",
+          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233482,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/53VmLMntGkYdCFOgZ5GRxo"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/61UED012ycFtrMV5N13AuT"
       },
@@ -10616,6 +10634,24 @@
     },
     {
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/5dfBPBGvYWbAwUjVKPfJne"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155708,
+      "name": "Silver Linings",
+      "url": "https://open.spotify.com/track/207O2adbsH3nKtNNSnxv6i"
+    },
+    {
+      "album": {
         "name": "Sima Deli",
         "url": "https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM"
       },
@@ -13021,6 +13057,24 @@
       "duration_ms": 314250,
       "name": "Varuna",
       "url": "https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5"
+    },
+    {
+      "album": {
+        "name": "Veesha",
+        "url": "https://open.spotify.com/album/37F3Q7SpyF9cdrqsrrnnYB"
+      },
+      "artists": [
+        {
+          "name": "Parker Wilkins",
+          "url": "https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153947,
+      "name": "Veesha",
+      "url": "https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O"
     },
     {
       "album": {

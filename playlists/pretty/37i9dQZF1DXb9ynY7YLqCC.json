@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 161328,
+  "num_followers": 161473,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGQ4MjJjZTZjM2UzNzI0NmRhMzk2ODcxNmExYjhlODJhNjI0MzI0",
+  "snapshot_id": "MCwwNWU2YmYyNTBmYTNiODU0YmM4Yzc4NGU5YjVhOTYyYTMzMTU2YWNi",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 161880,
       "name": "Misterios",
       "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
       "artists": [
         {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 339480,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+      "duration_ms": 339480,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -823,54 +823,6 @@
       "duration_ms": 308666,
       "name": "Clarobscuro",
       "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 198385,
-      "name": "Se\u00f1or Kioskero",
-      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "\u00a1Esta!",
-        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
-      },
-      "artists": [
-        {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Desearia",
-      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Vengo Del Placard De Otro",
-        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 244560,
-      "name": "Pepe Lui",
-      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -907,6 +859,54 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "\u00a1Esta!",
+        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Desearia",
+      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "Se\u00f1or Kioskero",
+      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Vengo Del Placard De Otro",
+        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 244560,
+      "name": "Pepe Lui",
+      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Surcando",
-        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
-      },
-      "artists": [
-        {
-          "name": "Cuatro Pesos de Propina",
-          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Mi Revolucion",
-      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
       },
@@ -1003,8 +987,40 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+        "name": "Surcando",
+        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
+      },
+      "artists": [
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Mi Revolucion",
+      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
       },
       "artists": [
         {
@@ -1012,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "A Cielo Abierto - El a\u00f1o del tigre",
         "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Flor de ceibo",
-        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
-      },
-      "artists": [
-        {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
-        }
-      ],
-      "duration_ms": 128597,
-      "name": "Caer",
-      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
+        "name": "Flor de ceibo",
+        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
       },
       "artists": [
         {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 208186,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
+      "duration_ms": 128597,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1207,6 +1191,22 @@
       "duration_ms": 236605,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
+      },
+      "artists": [
+        {
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "\u00a1Eureka!",
         "url": "https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 382746,
       "name": "Unos Versos",
       "url": "https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 306079,
-      "name": "La ilusi\u00f3n que me condena",
-      "url": "https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "3 Acordes",
         "url": "https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR"
       },
@@ -1515,22 +1499,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 339933,
-      "name": "Lo Artesanal",
-      "url": "https://open.spotify.com/track/0TP3GRBiXt5aTS0J6f7Onj"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "De Sangre Caliente",
         "url": "https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1"
       },
@@ -1543,6 +1511,38 @@
       "duration_ms": 266834,
       "name": "Sangrecaliente",
       "url": "https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 306079,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 339933,
+      "name": "Lo Artesanal",
+      "url": "https://open.spotify.com/track/0TP3GRBiXt5aTS0J6f7Onj"
     },
     {
       "added_at": "2024-01-03 18:31:37",

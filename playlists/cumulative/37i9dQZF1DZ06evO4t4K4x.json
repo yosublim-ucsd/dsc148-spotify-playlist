@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Doctor Who - The 50th Anniversary Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q"
+      },
+      "artists": [
+        {
+          "name": "Ron Grainer",
+          "url": "https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140093,
+      "name": "Doctor Who (New Opening, 1967 - Full Version)",
+      "url": "https://open.spotify.com/track/5PvWV6UsWbDG0Y6NoXqfi1"
+    },
+    {
+      "album": {
         "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 698396,
+  "num_followers": 698516,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQyN2Y2Mjk1NTczYTZlNGViNzcyZmUwMWU5ZDEyMGYwMjlhNmI1",
+  "snapshot_id": "MCxjMDYxZjNjNTlhYTBmN2EwYzU3ZDVjZWRiZTI1YzE5NGVhZTYxMDk2",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 229525,
       "name": "Cheese (feat. PawPaw Rod & Valerie June)",
       "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1603,22 +1587,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Failed at Math(s) (Billy Lemos Remix)",
-        "url": "https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag"
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 128666,
-      "name": "Failed at Math(s) - Billy Lemos Remix",
-      "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1635,6 +1615,26 @@
       "duration_ms": 185233,
       "name": "TOMMY HANKS",
       "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Failed at Math(s) (Billy Lemos Remix)",
+        "url": "https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Failed at Math(s) - Billy Lemos Remix",
+      "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Again?",
-        "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
+        "name": "I feel like doing candy flips and riding elephants",
+        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 172360,
-      "name": "Again?",
-      "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
+      "duration_ms": 148330,
+      "name": "candyflips!",
+      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
     }
   ],
   "unique_name": "anti pop",

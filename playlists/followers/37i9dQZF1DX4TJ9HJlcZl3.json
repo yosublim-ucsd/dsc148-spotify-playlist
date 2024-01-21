@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 12355,
+  "2024-01-21": 12372,
   "date_first_scraped": "2022-10-28",
   "description": "Still yachting. Cover: Young Gun Silver Fox",
   "name": "Yacht Rock Revival",
@@ -187,6 +187,28 @@
       "duration_ms": 251609,
       "name": "Big Brown Eyes",
       "url": "https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf"
+    },
+    {
+      "album": {
+        "name": "Cheeky",
+        "url": "https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk"
+      },
+      "artists": [
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Cheeky",
+      "url": "https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT"
     },
     {
       "album": {
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 251277,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ"

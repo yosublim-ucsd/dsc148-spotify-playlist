@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,284 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,286 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 35 | [Drumdown Mambo \(feat\. Jasiah\)](https://open.spotify.com/track/0ww5NVJt3quNKHp8Fn5wQK) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 1:39 |
 | 36 | [Boppin](https://open.spotify.com/track/1ZDP9FNfY3we4AzOxMj3vZ) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs Kato](https://open.spotify.com/album/7x2mennGJ74CsnR6YMyZqy) | 2:40 |
 | 37 | [Into the Wave](https://open.spotify.com/track/1GMJxMsvRTRTENbb8Q2nF8) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [San Lazarus](https://open.spotify.com/album/3OfcDtpu9DMW29t930KvSG) | 3:00 |
-| 38 | [It's My World](https://open.spotify.com/track/1IlAWu3mDOFcfQuvwmzEw1) | [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [Victor](https://open.spotify.com/album/6hvca4gghoSjsUNbXUIexE) | 2:10 |
+| 38 | [It's My World](https://open.spotify.com/track/6gbidcxKKpJV7B57qEm7Xw) | [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [Victor](https://open.spotify.com/album/00mCJ4soyejUyK0wqbQlwJ) | 2:10 |
 | 39 | [Wayback](https://open.spotify.com/track/3pdZahYd2Rk263FM1gBCpw) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Velvet](https://open.spotify.com/album/5nCuD2KTdTriY9clGUpI2i) | 3:27 |
 | 40 | [The Christmas Crawl](https://open.spotify.com/track/1o6cnS16Ps8Rp7U8kgdlrc) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [The Christmas Crawl](https://open.spotify.com/album/6Au7Y3Mb66v9a1K2vFkvFq) | 3:07 |
 | 41 | [Merry Christmas To You](https://open.spotify.com/track/5ZZAM89fD92HblmfhEGFz7) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Joyful Sound](https://open.spotify.com/album/67B3XA5n35k731nWWuC7dx) | 2:28 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 65 | [You Do](https://open.spotify.com/track/5A6wPSr9yWhVs53a8Id6vL) | [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Rumble Pack](https://open.spotify.com/album/13TYR6W2v5bAxqY094wL07) | 2:28 |
 | 66 | [On My Block](https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Fix](https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L) | 3:34 |
 
-Snapshot ID: `MCxiOWQzOWQzNzVhZjgzOGU0YjFlOTI2MzU3NTgyMzU1ODYxZWRlYzcy`
+Snapshot ID: `MCxmM2IwYzhmM2NiMDBiOGEyYjAxZjQ0YzVmOTY1NTM2ODg0N2JiNjdh`

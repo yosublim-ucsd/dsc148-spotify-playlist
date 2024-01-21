@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 216764,
+  "2024-01-21": 216803,
   "date_first_scraped": "2021-12-21",
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
   "name": "Front Porch",
@@ -1459,6 +1459,28 @@
       "duration_ms": 163413,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/5jYq5kj7kt6Iokzv7XeZhZ"
+    },
+    {
+      "album": {
+        "name": "I Think of You (The Heartache Collection)",
+        "url": "https://open.spotify.com/album/79sDvY5z5bsXMfCq6iegQ6"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "I Think Of You (feat. Ruston Kelly)",
+      "url": "https://open.spotify.com/track/0lCsl0fx0eXqt4GjvoZkjv"
     },
     {
       "album": {

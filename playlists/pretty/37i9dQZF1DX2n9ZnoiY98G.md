@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,041 likes - 43 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 43 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 | 23 | [Lost Cause](https://open.spotify.com/track/29i8axWOLDmgbiutJb9prB) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 3:47 |
 | 24 | [Kim & Jessie](https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:22 |
 | 25 | [Summer Wine](https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:44 |
-| 26 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
+| 26 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
 | 27 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 |
 | 28 | [Space](https://open.spotify.com/track/51aIcOWXKbMm1W1AwEkZK1) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 1:12 |
 | 29 | [Beach Day](https://open.spotify.com/track/4OxkcGZSO9TDUqU9XlQbzd) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 2:55 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 | 42 | [Human vs\. Nature](https://open.spotify.com/track/4lSxrFwJcvlCROexPs6bJU) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 5:14 |
 | 43 | [The Third Stage](https://open.spotify.com/track/2L2f0uuAqQuALSjHHQCl03) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 5:01 |
 
-Snapshot ID: `MCw3OGE4YjE3YzIzZDlmZGU5N2U0ZTc3ODZhMjkzZjhmYTE4YjNhMzIw`
+Snapshot ID: `MCxiOTU2ZjkwNWU2OThkNTFiYWM4YzQwNWU5OTk1NmRlOTg1MWUzYmYy`

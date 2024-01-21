@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: PLAYERTWO, Felip\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,311 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,293 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 14 | [No control](https://open.spotify.com/track/6EO7ZAlUx1Wgcu4rIIV2Q2) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [No control](https://open.spotify.com/album/7mTK88tTycLDnZFOZYdRU2) | 2:05 |
 | 15 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
 | 16 | [Humble](https://open.spotify.com/track/77Q9ibvJ6ejNWQkIrJgK6J) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Humble](https://open.spotify.com/album/0lDyXt2w6hKkjQKbQkJ4Yt) | 2:01 |
-| 17 | [PYSCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
+| 17 | [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
 | 18 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 |
 | 19 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 | 20 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 97 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 |
 | 98 | [ILL WHAT I BLEED](https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ILL WHAT I BLEED](https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH) | 2:53 |
 
-Snapshot ID: `MCwzOTUxYTMzMDkxMjhkNTJmZWEzNDk1OTk0NTkwM2ZkMDNlMGQxNmU4`
+Snapshot ID: `MCw2MzhhZGI5YmE0N2U4ZDFkOTFkODY1MDIxMzA0NjUxNzgyYjc2NmQ0`

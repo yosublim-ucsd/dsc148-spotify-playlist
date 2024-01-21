@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-435 songs - 1 day 15 hr 58 min
+436 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,13 +205,14 @@
 | [Lament](https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Lament](https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS) | 6:28 | 2022-02-24 |  |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2021-04-24 |  |
 | [Last Decade](https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 5:49 | 2023-08-03 | 2024-01-09 |
+| [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 | 2024-01-19 |  |
 | [Let Us Not Forget To Be Kind](https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Roni Eytan](https://open.spotify.com/artist/6AQpvrd4EM7xY2dWW0QAn6) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 5:38 | 2022-05-05 |  |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2020-05-02\* |  |
 | [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/3kvzs5jLHsGyDZnz5oAaA4) | 5:38 | 2020-05-02\* | 2021-09-17 |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 |  |
 | [Little Piece](https://open.spotify.com/track/3ajLDSfyYyEy1n8MfRuDdk) | [Nice Chair](https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ) | [World in Motion](https://open.spotify.com/album/0aTNcssJYSJbagPh9aVTWU) | 4:37 | 2023-06-01 |  |
 | [Longing](https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ) | [Lukas Wögler Quartett](https://open.spotify.com/artist/5cbn5mT0NrBpqJN0Uad4Nn) | [Alba](https://open.spotify.com/album/3FErjLj1EnVocxXwa6WkBZ) | 8:21 | 2022-09-22 |  |
-| [Lookout for Hope](https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:09 | 2023-08-03 |  |
+| [Lookout for Hope](https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:09 | 2023-08-03 | 2024-01-21 |
 | [Loslassen](https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f) | [Bastian Menz Quintett](https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k) | [Loslassen](https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q) | 4:21 | 2023-08-03 | 2023-12-19 |
 | [Lullaby](https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Lullaby](https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo) | 3:39 | 2023-10-24 |  |
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-08-03 |  |

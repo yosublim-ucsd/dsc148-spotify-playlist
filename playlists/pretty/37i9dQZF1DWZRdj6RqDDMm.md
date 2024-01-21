@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,992 likes - 105 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,075 likes - 105 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 104 | [Thank You Jesus](https://open.spotify.com/track/0uoBSJ7IiLNG9kMe5ZLYgU) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Thank You Jesus](https://open.spotify.com/album/6BUkztkXrNhuVU3szVy2o6) | 3:26 |
 | 105 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 |
 
-Snapshot ID: `MCw2NjZiODJkNjUwMjIxNGUyY2JjZmU2NThlNzZjNTExZjFjMzk5Mzc2`
+Snapshot ID: `MCwwYWUwMDRjYjBmMzI1YjE3MWM1YmYxNWFiMDM4NmU2YWZkZTM4ODdi`

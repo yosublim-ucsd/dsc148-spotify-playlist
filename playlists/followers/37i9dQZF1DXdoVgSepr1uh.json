@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 18357,
+  "2024-01-21": 18362,
   "date_first_scraped": "2022-05-26",
-  "description": "Perreo hecho en Argentina. Foto: Lauty Gram.",
+  "description": "Perreo hecho en Argentina. Foto: Angela Torres.",
   "name": "Reggaet\u00f3n Argentino",
   "tracks": [
     {
@@ -553,7 +553,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 144000,
       "name": "CHOKA CHOKA",
       "url": "https://open.spotify.com/track/1IqRotJFTJdprbNtm7Ja0j"
@@ -1401,6 +1401,24 @@
       "duration_ms": 165000,
       "name": "Fichaje #4",
       "url": "https://open.spotify.com/track/6c8lam3n9oyqHxByezHV2W"
+    },
+    {
+      "album": {
+        "name": "Fiebre",
+        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
     },
     {
       "album": {
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 170666,
       "name": "MAL",
       "url": "https://open.spotify.com/track/5HUqOhSkn8OLMQNTX9GoBV"
@@ -2647,6 +2665,28 @@
       "duration_ms": 188571,
       "name": "Mi Nena",
       "url": "https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb"
+    },
+    {
+      "album": {
+        "name": "MISSY",
+        "url": "https://open.spotify.com/album/5QDHb6pa4lZYZaJdMKeBWJ"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221691,
+      "name": "MISSY",
+      "url": "https://open.spotify.com/track/1KV2P6C34FiL8T9qfXvsMK"
     },
     {
       "album": {
@@ -3435,7 +3475,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 149801,
       "name": "REBOTA",
       "url": "https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD"

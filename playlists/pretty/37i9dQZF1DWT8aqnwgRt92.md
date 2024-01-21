@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,655 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,444 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
 | 85 | [Another Birthday](https://open.spotify.com/track/5ElYyMymv1nNdV2hWTide0) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Another Birthday](https://open.spotify.com/album/7BhHbk0kKbBAqHtPuTmhY8) | 3:37 |
 
-Snapshot ID: `MCwwNzc2MGQ3ZTUwZjVlYzNlODdhNzdhZjQ0NzViMzNkZGUxOTk2ZTg5`
+Snapshot ID: `MCw2OTM4YzBkNTIyZmJlMzliY2FjZWZiNGQyMGVhMmUzODExNDAwMTYy`

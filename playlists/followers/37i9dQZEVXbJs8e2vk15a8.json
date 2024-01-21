@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 71083,
+  "2024-01-21": 71080,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -1193,10 +1193,28 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/1ETvjtV2nNaBjYIvY6E01c"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113706,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/3V61OemfXgsHhb50Hrt1lT"
     },
     {
       "album": {
@@ -1508,15 +1526,15 @@
         },
         {
           "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/3ejN86NDukQv11FusBynxS"
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
         },
         {
           "name": "CrisMj",
-          "url": "https://open.spotify.com/artist/6Pjt5Z4RDKyiBURwMXjevt"
+          "url": "https://open.spotify.com/artist/0VpbRlXvRRSRIUSsE7dWnU"
         },
         {
           "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/6zO8oUUC52XGWbE5kEg9Rf"
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
         }
       ],
       "date_added": "2024-01-06",
@@ -3839,7 +3857,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -6759,7 +6777,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -7317,7 +7335,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 188572,
       "name": "DE LA P*TA",
       "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
@@ -7469,6 +7487,32 @@
       "duration_ms": 199451,
       "name": "DEJA",
       "url": "https://open.spotify.com/track/2ZK43hLi4HGJ9KuqElLsIm"
+    },
+    {
+      "album": {
+        "name": "Dejame Saber",
+        "url": "https://open.spotify.com/album/3kY5sANzBWpIgY11kiR2bG"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Full Harmony",
+          "url": "https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158643,
+      "name": "Dejame Saber",
+      "url": "https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA"
     },
     {
       "album": {
@@ -14457,6 +14501,40 @@
       "duration_ms": 172960,
       "name": "Kilo De Amigas",
       "url": "https://open.spotify.com/track/5p3zexHZc07e8ASsMI63Rz"
+    },
+    {
+      "album": {
+        "name": "Costumbrismo M\u00e1gico",
+        "url": "https://open.spotify.com/album/3QMWKc9qrHbGt2LfzviWAo"
+      },
+      "artists": [
+        {
+          "name": "Ladilla Rusa",
+          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
+        },
+        {
+          "name": "Joan Colomo",
+          "url": "https://open.spotify.com/artist/5PgFxKraqTJUjncc2f3gFB"
+        },
+        {
+          "name": "Los Ganglios",
+          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
+        },
+        {
+          "name": "Laura Santos",
+          "url": "https://open.spotify.com/artist/5KDqVW0Fh2QvESyT32n8Jx"
+        },
+        {
+          "name": "Lady Gipsy",
+          "url": "https://open.spotify.com/artist/111HTVEie3XPN4ooluaVXq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250411,
+      "name": "KITT y los Coches del Pasado",
+      "url": "https://open.spotify.com/track/2TiMFmakPw5xQxqG0nftha"
     },
     {
       "album": {
@@ -30639,7 +30717,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 175056,
       "name": "TUTA RICA",
       "url": "https://open.spotify.com/track/6glmwIfAc5weUyETiYSEs5"

@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 194187,
+  "2024-01-21": 194227,
   "date_first_scraped": "2021-12-21",
   "description": "Uplifting, slow House music to work or relax to. ",
   "name": "Mellow House",
@@ -2661,6 +2661,24 @@
       "duration_ms": 306000,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/1L1vWlBmczGdw74eQOtrtD"
+    },
+    {
+      "album": {
+        "name": "I\u2019dunno",
+        "url": "https://open.spotify.com/album/0zoi0vSek6fePt8iuYi6Vv"
+      },
+      "artists": [
+        {
+          "name": "SCRP",
+          "url": "https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144164,
+      "name": "I\u2019dunno",
+      "url": "https://open.spotify.com/track/1CmiuAI065tIRwXuCfVRAD"
     },
     {
       "album": {
@@ -5853,6 +5871,24 @@
       "duration_ms": 224676,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0V7Da3DXIM3au7u79PYxvP"
+      },
+      "artists": [
+        {
+          "name": "Mason Bon",
+          "url": "https://open.spotify.com/artist/0m0jbn7XtZtpvNgE8f2jtL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/01JTcstOM0Q4saQHZiDQLT"
     },
     {
       "album": {

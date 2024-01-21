@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 12,
+  "2024-01-21": 12,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Work From House",
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Madonna / Like WTF",
+        "url": "https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON"
+      },
+      "artists": [
+        {
+          "name": "TEGI",
+          "url": "https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182976,
+      "name": "Like WTF",
+      "url": "https://open.spotify.com/track/1VsntaYUROfIQfeMDFEfXJ"
+    },
+    {
+      "album": {
         "name": "Looking For Love (salute remix)",
         "url": "https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT"
       },
@@ -663,6 +681,24 @@
       "duration_ms": 165335,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+    },
+    {
+      "album": {
+        "name": "Madonna / Like WTF",
+        "url": "https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON"
+      },
+      "artists": [
+        {
+          "name": "TEGI",
+          "url": "https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb"
     },
     {
       "album": {

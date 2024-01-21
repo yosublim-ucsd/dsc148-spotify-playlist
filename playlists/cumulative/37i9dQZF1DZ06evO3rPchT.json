@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146773,
+      "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
+      "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
+    },
+    {
+      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
       },

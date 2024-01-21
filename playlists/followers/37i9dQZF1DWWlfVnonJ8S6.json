@@ -1,9 +1,35 @@
 {
-  "2024-01-20": 108000,
+  "2024-01-21": 108208,
   "date_first_scraped": "2022-05-30",
   "description": "*vibing in desi*",
   "name": "desi lofi",
   "tracks": [
+    {
+      "album": {
+        "name": "Aafreen Lofi",
+        "url": "https://open.spotify.com/album/384RCVdlfYTH3ZFslOAT6Q"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Aafreen Lofi",
+      "url": "https://open.spotify.com/track/1SdXkjR5Qb064Z8gB4JoDK"
+    },
     {
       "album": {
         "name": "Aao Na (Lofi Mix)",
@@ -593,6 +619,28 @@
       "duration_ms": 250090,
       "name": "Darasal Lofi Mix",
       "url": "https://open.spotify.com/track/2f7zO0rjaIcGO9Nf0nwL8S"
+    },
+    {
+      "album": {
+        "name": "Dard (Lofi Flip)",
+        "url": "https://open.spotify.com/album/6ZzIVuiCUdK96XHSWCP6EV"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Deepanshu Ruhela",
+          "url": "https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Dard - Lofi Flip",
+      "url": "https://open.spotify.com/track/6VtdbAwuw55e4D4iQpMww9"
     },
     {
       "album": {

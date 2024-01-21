@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 36141,
+  "2024-01-21": 36185,
   "date_first_scraped": "2022-04-09",
   "description": "Americana's artists and hits of tomorrow. Cover: Margo Cilker",
   "name": "Emerging Americana",
@@ -529,6 +529,24 @@
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
+    },
+    {
+      "album": {
+        "name": "My Stupid Life",
+        "url": "https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig"
     },
     {
       "album": {
@@ -2155,6 +2173,24 @@
       "duration_ms": 240840,
       "name": "Middle of a Heart",
       "url": "https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927"
+    },
+    {
+      "album": {
+        "name": "Tales of Misfortune",
+        "url": "https://open.spotify.com/album/7r45qFqWDxmJOCNAPZBiuZ"
+      },
+      "artists": [
+        {
+          "name": "Colby T. Helms",
+          "url": "https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276440,
+      "name": "Mountain Brandy",
+      "url": "https://open.spotify.com/track/5YGlfUaRKY3wGBSp6g2BdV"
     },
     {
       "album": {

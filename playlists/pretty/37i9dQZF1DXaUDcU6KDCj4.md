@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,005 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,027 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Life/Love](https://open.spotify.com/track/3yKNeATTSx2nwgk7ZKFE9b) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life/Love](https://open.spotify.com/album/7tjL7JSeFnz3Qb05xpT7uU) | 3:23 |
 | 150 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 |
 
-Snapshot ID: `MCwwNzQ0NjIyZjk0NWFjZmNhMGU4OWI4MzMzZjAwOTIwYzA3OTU3MjY1`
+Snapshot ID: `MCwzMTVlOTNiNjNlNjRmZDNkMDEwZjQ4OWQ1MGMwZDhkZmE0N2Q2ZDY4`

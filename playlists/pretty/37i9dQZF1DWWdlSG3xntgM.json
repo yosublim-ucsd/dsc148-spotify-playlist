@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35672,
+  "num_followers": 35667,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzY3ZWIwNWRmMjY3NzYzN2EwYWZiODhmMzQxOGM0NDA3ZTAzY2Yy",
+  "snapshot_id": "MCw0OTFmMWMzM2NhNTA0OTJiZTE0ZGU2OTdjZjIxM2EwYTgyYjkzNTgx",
   "tracks": [
     {
       "added_at": "2024-01-05 03:20:03",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-01-05 03:20:03",
       "album": {
-        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
-        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
-      },
-      "artists": [
-        {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
-        },
-        {
-          "name": "Phi Nhung",
-          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "\u0110\u1eebng n\u00f3i xa nhau",
-      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
-    },
-    {
-      "added_at": "2024-01-05 03:20:03",
-      "album": {
         "name": "Nho Me",
         "url": "https://open.spotify.com/album/6ravPGA3QglQrF3uSdLCpj"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 297800,
       "name": "Th\u01b0 Xu\u00e2n Tr\u00ean R\u1eebng Cao",
       "url": "https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d"
+    },
+    {
+      "added_at": "2024-01-05 03:20:03",
+      "album": {
+        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
+        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
+      },
+      "artists": [
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        },
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "\u0110\u1eebng n\u00f3i xa nhau",
+      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,620 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,697 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 118 | [Matthew McConaughey](https://open.spotify.com/track/7KLXIod5EkVEOmTtZ0nwPv) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Matthew McConaughey](https://open.spotify.com/album/5Zcphiddm6lNmE9BMJ5ZW2) | 3:09 |
 | 119 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
 
-Snapshot ID: `MCw4NTI3MDQ0NWFlMGQ2NDFlMWViNDA4ZTRjZDRlM2RkZWIxZmZlM2Y0`
+Snapshot ID: `MCw1MDBmM2Y3OTdlNTYyM2FiODA0NWVkZDk5MDE0YzYyMDY5YjViYTQ3`

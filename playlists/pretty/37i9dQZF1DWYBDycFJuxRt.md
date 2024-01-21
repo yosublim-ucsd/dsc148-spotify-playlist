@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Awesome City Club \*👉 <a href="https://spice.eplus.jp/articles/325517?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,359 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,445 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Peak](https://open.spotify.com/track/5MOtiT3eE0ifounWFxufMg) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Peak](https://open.spotify.com/album/5XMbbVAwNL021CYevdklt8) | 1:36 |
 | 80 | [Ensoku](https://open.spotify.com/track/3x8jwzBm7vaGPa9XlYv0pR) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [Ensoku](https://open.spotify.com/album/7b1ffiAcJxTCqVeItOeTmB) | 3:09 |
 
-Snapshot ID: `MCw3YjZlNmU5ODI1ZWRjYmY5OTA2MDQ4ZjFhNzg2ZjFlN2QyZGMyYWEz`
+Snapshot ID: `MCwxYTUwNDRjOTZlYmMyY2MxNTk5NGZiN2Y2YTQzYmY0NTliMDIxODc3`

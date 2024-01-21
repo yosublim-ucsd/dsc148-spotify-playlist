@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Ferrugem, Thiaguinho",
-  "num_followers": 434772,
+  "num_followers": 434748,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZjNGVjOTU2NGNkMDUxNTZmYjQ1OWE0MWY2YmUxNjJjMGRkNDg2",
+  "snapshot_id": "MCwxYjgwNTUxNGYxYWQ4ZWQxZGE0MDdhODVlYjc5M2FlYmJkYWUzMWY3",
   "tracks": [
     {
       "added_at": "2024-01-19 03:00:00",
@@ -35,26 +35,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Melhor De Tr\u00eas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2YkAm2Wrk9iL36VNt0gXLI"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 195071,
       "name": "Nova Bad - Ao Vivo",
       "url": "https://open.spotify.com/track/3T1E29Lyz9fIDK2WM5zB10"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
-        "name": "Rom\u00e3",
-        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Rom\u00e3",
-      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Rom\u00e3",
+        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Rom\u00e3",
+      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Quem \u00c9 Ela?",
-        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 158464,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
+        "name": "Quem \u00c9 Ela?",
+        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 158464,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
         "name": "LIVRE",
         "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 195989,
       "name": "S\u00f3 Respira",
       "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -563,18 +543,22 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
       "artists": [
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
         "name": "Amor De Ver\u00e3o",
         "url": "https://open.spotify.com/album/6RKr8YiH8S8vRiwatSS2E7"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 181150,
       "name": "Amor De Ver\u00e3o",
       "url": "https://open.spotify.com/track/3igf44fMAhsX23KhWq4HfN"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
-        "name": "Cores",
-        "url": "https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 148695,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -671,6 +651,26 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
+        "name": "Cores",
+        "url": "https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
         "name": "n\u00f3sdois",
         "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "tudo que eu espero de algu\u00e9m",
-        "url": "https://open.spotify.com/album/4eQk9QXW4jMFRNiM3alzYW"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 214791,
-      "name": "tudo que eu espero de algu\u00e9m",
-      "url": "https://open.spotify.com/track/5EaYT5vgoT0KbpkAzdEV4G"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Se Me Ver",
         "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175018,
       "name": "Se Me Ver",
       "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "tudo que eu espero de algu\u00e9m",
+        "url": "https://open.spotify.com/album/4eQk9QXW4jMFRNiM3alzYW"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 214791,
+      "name": "tudo que eu espero de algu\u00e9m",
+      "url": "https://open.spotify.com/track/5EaYT5vgoT0KbpkAzdEV4G"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -783,6 +783,22 @@
       "duration_ms": 150306,
       "name": "T\u00f4 te olhando",
       "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Samba Azul",
         "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 139666,
       "name": "que se fosse",
       "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
+        "name": "mapa da mina",
+        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 163375,
+      "name": "mapa da mina",
+      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
         "name": "JOVEM (DELUXE)",
         "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
-        "name": "mapa da mina",
-        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "mapa da mina",
-      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Dan\u00e7ando na Beira",
-        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Dan\u00e7ando na Beira",
-      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Dan\u00e7ando na Beira",
+        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Dan\u00e7ando na Beira",
+      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 149285,
       "name": "calma na alma",
       "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-01-19 03:00:00",

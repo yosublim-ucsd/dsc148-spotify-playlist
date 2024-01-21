@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,083 likes - 107 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,091 likes - 107 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 84 | [Pressure \(feat\. Kojey Radical\)](https://open.spotify.com/track/1QUJFuJbhEyEutqd5TRBBv) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Pressure \(feat\. Kojey Radical\)](https://open.spotify.com/album/6SI636Bu9xVxodVRMOfuko) | 3:44 |
 | 85 | [So Easy](https://open.spotify.com/track/3niFCTtDtQDXIncF9D7QxQ) | [Tripset](https://open.spotify.com/artist/4VWsEmlpKYJYAxjWkkG2h3) | [So Easy](https://open.spotify.com/album/6aq74IbQbstCwLU4kzLBAC) | 3:12 |
 | 86 | [München \(feat\. Chris Hell von FJØRT\)](https://open.spotify.com/track/3cpwRwJ1ExelMMSCPvX675) | [kettcar](https://open.spotify.com/artist/4jqmOtAaAmhgv3xsl9k5Mx), [FJØRT](https://open.spotify.com/artist/2oYHstARAixMhG2KBL0zuZ) | [München \(feat\. Chris Hell von FJØRT\)](https://open.spotify.com/album/3GDTE5Gz2DBqpOm86gePdj) | 2:58 |
-| 87 | [Heile Welt](https://open.spotify.com/track/1iya9LO7Cu3sasgOP52VQ5) | [Marsimoto](https://open.spotify.com/artist/6jL3G5P8rxfUamkyqmRJNU) | [Heile Welt](https://open.spotify.com/album/5L48NXuHwTk3Un3mYQCTdH) | 3:06 |
+| 87 | [HEILE WELT](https://open.spotify.com/track/1iya9LO7Cu3sasgOP52VQ5) | [Marsimoto](https://open.spotify.com/artist/6jL3G5P8rxfUamkyqmRJNU) | [HEILE WELT](https://open.spotify.com/album/5L48NXuHwTk3Un3mYQCTdH) | 3:06 |
 | 88 | [No Memory](https://open.spotify.com/track/67RDEK4Yn8z4E3bBysJOp6) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [No Memory / Out in the Fields](https://open.spotify.com/album/76sLiIm3CsDdcPHNJSJDM2) | 5:53 |
 | 89 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 | 90 | [dure bi rot \(Supermario\)](https://open.spotify.com/track/3aJtBqVlnRMvMOf40AaZEg) | [Céline Glue](https://open.spotify.com/artist/38xgugufI0wjWHJxJOBWok) | [dure bi rot \(Supermario\)](https://open.spotify.com/album/4xl6lGmdXFWe5fVqHPnT0m) | 3:14 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Desaster](https://open.spotify.com/track/6f6yX7lrI5v8RYwRlIACrO) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Beko101](https://open.spotify.com/artist/5TZCyHGuv4RuDILMG72k53), [Teuterekordz](https://open.spotify.com/artist/0dKNwVc2gaxqvpAl2Hy5Ic) | [Desaster](https://open.spotify.com/album/1g9mFIqMwOTNpm08foPJnv) | 3:06 |
 | 107 | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/track/2ONW7LwTEMUP3A8SnfyI51) | [Georg Auf Lieder](https://open.spotify.com/artist/5hXV2QeBwQNt2sgRxHyXJC) | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/album/7il0SctFrvS0B7hXIjzRZV) | 2:35 |
 
-Snapshot ID: `MCxhMThkNGNkN2YwNDQ2MTUzMWRkMThlNjFjMzRiMWI4OWE3OTAwMWJl`
+Snapshot ID: `MCw5MThjZmI4YzZiYjg3Y2M2ODg3YzY2ZTg4MDU2OTgxZTBkMTE4NGQy`

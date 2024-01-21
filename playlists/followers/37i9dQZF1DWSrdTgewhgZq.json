@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1065426,
+  "2024-01-21": 1065517,
   "date_first_scraped": "2022-01-24",
   "description": "Only the best Hip-hop, only fire bars. 21 Savage on Cover \n",
   "name": "DOPE.",
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
@@ -747,6 +747,28 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "album": {
+        "name": "CBFW (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj"
+      },
+      "artists": [
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "CBFW (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0"
     },
     {
       "album": {
@@ -3211,7 +3233,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
@@ -4055,6 +4077,32 @@
       "duration_ms": 182400,
       "name": "Slight Dub (feat. 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
+    },
+    {
+      "album": {
+        "name": "SLOPES",
+        "url": "https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "SLOPES",
+      "url": "https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa"
     },
     {
       "album": {

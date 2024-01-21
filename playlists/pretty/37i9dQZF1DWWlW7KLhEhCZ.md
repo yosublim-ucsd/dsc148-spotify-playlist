@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,467 likes - 76 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,499 likes - 76 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 29 | [Trabalhosa](https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:46 |
 | 30 | [Jogo](https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:48 |
 | 31 | [Conga La Conga](https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj) | [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB) | [Conga La Conga](https://open.spotify.com/album/1RgwD3nM2CWteqTTmnNQWA) | 2:11 |
-| 32 | [Isso É um Fato](https://open.spotify.com/track/0hFS2BgCaNJyB7c0UYDzwq) | [Arshavin](https://open.spotify.com/artist/6fR7Y1r79zJInwZNXWahzY), [squirl beats](https://open.spotify.com/artist/5BIcyam0jBjVRL1ZssBqDO) | [Isso É um Fato](https://open.spotify.com/album/4VP2Dsw071LiQ3uJZmLcBx) | 1:05 |
+| 32 | [Isso É um Fato](https://open.spotify.com/track/0hFS2BgCaNJyB7c0UYDzwq) | [Arshavin](https://open.spotify.com/artist/6fR7Y1r79zJInwZNXWahzY), [squirl beats](https://open.spotify.com/artist/4qi2TTpeL7t9DgCkBIaprt) | [Isso É um Fato](https://open.spotify.com/album/4VP2Dsw071LiQ3uJZmLcBx) | 1:05 |
 | 33 | [Bala De Troco](https://open.spotify.com/track/3blCy8z4yxTytjM0Q5183W) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:38 |
 | 34 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 35 | [Santa Fé](https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Santa Fé](https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa) | 3:02 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [GLORD](https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 1:18 |
 | 76 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCxlOWU0NTMyODEzNTg2MjgwMGJmZGE1M2JkMTI4OGVlN2EzZjI3YTJl`
+Snapshot ID: `MCw2NjRmOWZkZTUwNDg5OTY2MWExYzJiYmRmYzFhODFkNmJlNGQ1NTk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,869 likes - 479 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,039 likes - 479 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -488,4 +488,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 478 | [I Love You](https://open.spotify.com/track/2kvXP1dvSnTYZ2ZRPh1VTl) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [I Love You](https://open.spotify.com/album/64by941udGaCxM0IZeMlpC) | 1:34 |
 | 479 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 |
 
-Snapshot ID: `MCwwNDc1ZTBiMjM1NDY4ZmI0Y2NjNTU3MDEzMjlkZGVlMjgxOWIzZTE2`
+Snapshot ID: `MCwxYjIzYmMyZDljYmFmZmNhMjFhMDRhN2M5YjA2Y2M4ODYzNmI4ZjQ3`

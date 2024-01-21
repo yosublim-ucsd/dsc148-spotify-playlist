@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1200328,
+  "2024-01-21": 1200224,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial & Lauty Gram.",
   "name": "Dame M\u00e1s Cumbia",
@@ -1403,6 +1403,28 @@
       "duration_ms": 165449,
       "name": "Con el Alcohol",
       "url": "https://open.spotify.com/track/2SwwyxbjKaCPx4kuiSsEdp"
+    },
+    {
+      "album": {
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176658,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
     },
     {
       "album": {
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 123600,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/1TQ97PNnqsgVPnt6tjY46L"
@@ -6372,6 +6394,28 @@
     },
     {
       "album": {
+        "name": "POR QU\u00c9 LLORAS?",
+        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153876,
+      "name": "POR QU\u00c9 LLORAS?",
+      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
+    },
+    {
+      "album": {
         "name": "Porque Te Fuiste (Nico Vallorani DJ & Emus DJ Remix)",
         "url": "https://open.spotify.com/album/1dYw65iM5VIV2D1kpAZNGw"
       },
@@ -7679,7 +7723,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 118930,
+  "num_followers": 118974,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzc5NDJkOTA5MDI5MWJiMDJhNjY0ZTRmYjJhM2Y1MmQ5YTk2N2Rj",
+  "snapshot_id": "MCw5NDllODFkMmRmYTUyYTljN2JiNmNlMDZjOTZmNTMxMmI1YTZmMjEw",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "A Sua Chance",
         "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 241162,
       "name": "A Sua Chance",
       "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Ele Voltar\u00e1",
-        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "duration_ms": 269958,
-      "name": "Ele Voltar\u00e1",
-      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Se Tu Creres (Remix)",
         "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 171428,
       "name": "Se Tu Creres - Remix",
       "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Ele Voltar\u00e1",
+        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 269958,
+      "name": "Ele Voltar\u00e1",
+      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1271,22 +1271,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+        "name": "Balada do Senhor (Remixes)",
+        "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
         },
         {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleyton & Johnny",
+          "url": "https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+      "duration_ms": 178663,
+      "name": "Balada do Senhor (Slap House Gospel)",
+      "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1303,6 +1307,26 @@
       "duration_ms": 164750,
       "name": "Encontrar",
       "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1335,70 +1359,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Balada do Senhor (Remixes)",
-        "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
-      },
-      "artists": [
-        {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleyton & Johnny",
-          "url": "https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT"
-        }
-      ],
-      "duration_ms": 178663,
-      "name": "Balada do Senhor (Slap House Gospel)",
-      "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Para o Alto (Remix)",
-        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Para o Alto - Remix",
-      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1419,6 +1379,46 @@
       "duration_ms": 190800,
       "name": "Me Encontrou (DJ Vitor Capoia Remix)",
       "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Para o Alto (Remix)",
+        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "Para o Alto - Remix",
+      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Hora de Adorar",
-        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Hora de Adorar",
-      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Hora de Adorar",
+        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Hora de Adorar",
+      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
     },
     {
       "added_at": "2024-01-05 13:32:37",

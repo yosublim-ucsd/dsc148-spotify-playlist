@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 276280,
+  "num_followers": 276375,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJhZDEwZTcyOGE5NDJkYjI5M2M3YTUzZTEyY2FjYmQ0MzY2NjVj",
+  "snapshot_id": "MCxiN2M0NzExNDI2Y2NjMzMyNDA3ZTIyZjExNjVlMmQ1YWU3YmI0NjM2",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Blood Money Part Zer0",
+        "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 241311,
+      "name": "Dead World",
+      "url": "https://open.spotify.com/track/5bvtxksI05MTxu62VRTNCO"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "All Fine / eniF llA",
         "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 217500,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Blood Money Part Zer0",
-        "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 241311,
-      "name": "Dead World",
-      "url": "https://open.spotify.com/track/5bvtxksI05MTxu62VRTNCO"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276764,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0CY10vjKe4FvmzsEaKACfK"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Whispers of Your Death",
-        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Whispers of Your Death",
-      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "From Voodoo to Zen",
         "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 289289,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Whispers of Your Death",
+        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Whispers of Your Death",
+      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1011,6 +1011,22 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
       },
       "artists": [
         {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1079,22 +1095,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Camel Dancefloor",
         "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
@@ -1243,6 +1227,38 @@
       "duration_ms": 193066,
       "name": "Camel Dancefloor",
       "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1263,22 +1279,6 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Alone I...",
-        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
-      },
-      "artists": [
-        {
-          "name": "Synthetic Blast",
-          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
-        }
-      ],
-      "duration_ms": 280549,
-      "name": "Alone I Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Alone I...",
+        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Blast",
+          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+        }
+      ],
+      "duration_ms": 280549,
+      "name": "Alone I Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "\u00c1mr",
+        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Arcana Imperii",
+      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
     },
     {
       "added_at": "2023-12-07 20:09:02",

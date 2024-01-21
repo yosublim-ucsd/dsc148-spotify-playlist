@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 397388,
+  "2024-01-21": 397457,
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: bludnymph",
+  "description": "Dark, hard hitting pop. Cover: Sam Short",
   "name": "SALT",
   "tracks": [
     {
@@ -1352,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Boy in the Back",
+        "url": "https://open.spotify.com/album/0HW4sTSB9JRHJspGr8L3ce"
+      },
+      "artists": [
+        {
+          "name": "SKYLAR",
+          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151847,
+      "name": "Boy in the Back",
+      "url": "https://open.spotify.com/track/4SGEMgo0dBDqAznK9Q0CtL"
+    },
+    {
+      "album": {
         "name": "Boy Of The Month",
         "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
       },
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 159000,
       "name": "Can of Hurt",
       "url": "https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 150314,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 127800,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
@@ -4051,6 +4069,24 @@
       "duration_ms": 164466,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1"
+    },
+    {
+      "album": {
+        "name": "happy 4 u",
+        "url": "https://open.spotify.com/album/6He8d3005jfh6m5BtcvVOO"
+      },
+      "artists": [
+        {
+          "name": "LO LA",
+          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "happy 4 u",
+      "url": "https://open.spotify.com/track/1hfrYkixh0whgfp6R1z61c"
     },
     {
       "album": {
@@ -5903,7 +5939,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 128851,
       "name": "me-a-holic",
       "url": "https://open.spotify.com/track/4n3g8GiuRDZ8WzRd7sU6r0"
@@ -6530,6 +6566,24 @@
     },
     {
       "album": {
+        "name": "Off With Her Tits",
+        "url": "https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196648,
+      "name": "Off With Her Tits",
+      "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
+    },
+    {
+      "album": {
         "name": "PEP",
         "url": "https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB"
       },
@@ -6595,7 +6649,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 123512,
       "name": "OOPS",
       "url": "https://open.spotify.com/track/7eoOFgRL66Dw9PnWxyz7s1"
@@ -8029,7 +8083,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 132482,
       "name": "Should've Been A Dick to You",
       "url": "https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ"
@@ -9055,7 +9109,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204512,
       "name": "The Maze",
       "url": "https://open.spotify.com/track/6xpGgaH6GxF1x2TdipaHSi"
@@ -9617,7 +9671,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176629,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1"
@@ -10244,6 +10298,24 @@
     },
     {
       "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
+    },
+    {
+      "album": {
         "name": "Why'd You Only Call Me When You're High?",
         "url": "https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv"
       },
@@ -10349,7 +10421,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176756,
       "name": "With A Smile",
       "url": "https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o"
@@ -10403,7 +10475,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140128,
       "name": "yellow tape",
       "url": "https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L"

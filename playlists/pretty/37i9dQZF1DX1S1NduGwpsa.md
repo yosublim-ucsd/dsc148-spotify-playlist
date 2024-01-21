@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,772 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,813 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 50 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
 
-Snapshot ID: `MCwyZDgyMDRiMDNlNjA4N2Y2ZjNkNmZhZDQxNGU3OGVlZmYyNWQyNmNi`
+Snapshot ID: `MCw2ZGNmZjM1MzVhOTcxMDBhM2IwODc5OGFlNzRlNWJlYjBjOGEzYTg1`

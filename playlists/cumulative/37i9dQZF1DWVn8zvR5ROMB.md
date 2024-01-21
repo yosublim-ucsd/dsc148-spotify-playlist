@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Fall For You"](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | ["Fall For You"](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 |  |
 | ['01](https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | ['01](https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO) | 3:13 | 2023-06-23 | 2023-07-01 |
 | ['24](https://open.spotify.com/track/4zKSZ9Ym6oRJvThCXFmAwT) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | ['24](https://open.spotify.com/album/1V6Hcxku4zaxZqUkUspX8N) | 3:19 | 2024-01-12 | 2024-01-20 |
 | ['92 Bronco](https://open.spotify.com/track/7sYilyCX3tdmLzt8Hi0Aag) | [Voth](https://open.spotify.com/artist/15tTYznsn9UBNpClTo05wi) | ['92 Bronco](https://open.spotify.com/album/7shLxVIdmC0jNbkzfkHZz0) | 3:51 | 2023-07-14 | 2023-07-22 |
@@ -1494,6 +1493,7 @@
 | [Fake Tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [Fake Tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 | 2023-07-21 | 2023-07-29 |
 | [Fall Again](https://open.spotify.com/track/1vUnsj9tIL3WNA4PxMFz1F) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Kingery](https://open.spotify.com/artist/1JxGsfhLNmFYxZXvrtJ3VP) | [Fall Again](https://open.spotify.com/album/7zkab4yhYTgvidnc1A8hwt) | 2:25 | 2023-06-16 | 2023-06-24 |
 | [Fall For You](https://open.spotify.com/track/6W8x1wTobJklgGFoH4PejY) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [Fall For You](https://open.spotify.com/album/7HDZwGmIdqZExKD0glGbSc) | 3:35 | 2022-11-18 | 2022-12-10 |
+| [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-02-11 | 2022-02-19 |
 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 | 2023-08-04 | 2023-08-12 |
 | [Fallen For You](https://open.spotify.com/track/52hHBRdhols0vXsKW5Nnuo) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [This Is All There Is, Vol\. 2](https://open.spotify.com/album/3fY08trranCcyQnmD0CUV3) | 3:07 | 2022-09-23 | 2022-10-01 |

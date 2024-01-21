@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,077 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,326 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 64 | [LIGHTHOUSE](https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [LIGHTHOUSE](https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR) | 1:58 |
 | 65 | [MMA FREESTYLE](https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [MMA FREESTYLE](https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv) | 2:31 |
 | 66 | [It's Alright](https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [It's Alright](https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V) | 3:25 |
-| 67 | [WORKOUT](https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WORKOUT](https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip) | 1:56 |
-| 68 | [Loud](https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loud](https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l) | 2:58 |
-| 69 | [Testimony](https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Second Wind](https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr) | 3:00 |
+| 67 | [Testimony](https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Second Wind](https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr) | 3:00 |
+| 68 | [WORKOUT](https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WORKOUT](https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip) | 1:56 |
+| 69 | [Loud](https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loud](https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l) | 2:58 |
 | 70 | [What?](https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [What?](https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw) | 2:12 |
 | 71 | [Get Out The Way](https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Get Out The Way](https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo) | 1:55 |
 | 72 | [Potential](https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw) | [Drika Will](https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [Potential](https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2) | 3:16 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 80 | [ALOT](https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [ALOT](https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r) | 2:25 |
 | 81 | [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 |
 | 82 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 |
-| 83 | [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 |
-| 84 | [RIVALS](https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [RIVALS](https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3) | 3:07 |
+| 83 | [RIVALS](https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [RIVALS](https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3) | 3:07 |
+| 84 | [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 |
 | 85 | [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 |
 | 86 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 |
 | 87 | [Check Me Out](https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [Check Me Out](https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ) | 2:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 97 | [Problematic](https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Problematic](https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4) | 2:54 |
 | 98 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 |
 | 99 | [We Will](https://open.spotify.com/track/2mul5GIgorXFegPm4lenfL) | [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [We Will](https://open.spotify.com/album/7KjWvvQJMOG8JPwQ0jVxbd) | 3:39 |
-| 100 | [Full Metal](https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Full Metal](https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp) | 3:20 |
+| 100 | [PIM](https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [PIM](https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd) | 2:59 |
 
-Snapshot ID: `MCxhZWM2MjY2OGFmZGQ0MTQ5MDlhMThiYzdlYmZlYWQ0MWU5ZmNkZmI5`
+Snapshot ID: `MCwwMDY5ZjFmYzFlNjk2N2QwZTlkZGU3M2YxOWVkMTZjNGJkZWRmOGM5`

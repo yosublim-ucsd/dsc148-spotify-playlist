@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Leonilo Jaimes en portada.",
-  "num_followers": 59532,
+  "num_followers": 59576,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDliNDM5MzAzMjcyMDBjYTAxMDViN2E1NTIxOGZhZjYyYzAwZjA3",
+  "snapshot_id": "MCxlNTlkMzMzMDM0MmE2ZTVlZTk1OGY3ZDJkZDM1MjVhYWQyMDY5MTM3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Me Estoy Quemando por Tomar",
         "url": "https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 175837,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+      },
+      "artists": [
+        {
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -387,18 +387,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "C\u00f3mo Poder Olvidarte",
-        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+        "name": "ASINEMEX",
+        "url": "https://open.spotify.com/album/2UgwUlKoyRSNMXtWm2gryO"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Rodel G",
+          "url": "https://open.spotify.com/artist/5EUy0phiO3drXdffqCJO9j"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Como Poder Olvidarte",
-      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
+      "duration_ms": 206045,
+      "name": "ASINEMEX",
+      "url": "https://open.spotify.com/track/2Xu4kPJPVPTJxx3J0YaXcC"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -415,6 +419,22 @@
       "duration_ms": 213647,
       "name": "\u00bfqui\u00e9n dice?",
       "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidarte",
+        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Como Poder Olvidarte",
+      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -539,26 +559,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "ASINEMEX",
-        "url": "https://open.spotify.com/album/2UgwUlKoyRSNMXtWm2gryO"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Rodel G",
-          "url": "https://open.spotify.com/artist/5EUy0phiO3drXdffqCJO9j"
-        }
-      ],
-      "duration_ms": 206045,
-      "name": "ASINEMEX",
-      "url": "https://open.spotify.com/track/2Xu4kPJPVPTJxx3J0YaXcC"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "LTMA",
         "url": "https://open.spotify.com/album/1WDMkmmU6wzlcPskWZOGFo"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "duration_ms": 195771,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Morrito (Remix)",
         "url": "https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 205000,
       "name": "Morrito - Remix",
       "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 195771,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Al Ladito M\u00edo",
-        "url": "https://open.spotify.com/album/6rpbmmLpAIrjkO8r4ZwyHQ"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Al Ladito M\u00edo",
-      "url": "https://open.spotify.com/track/4e9lspYSMSTPfxGh6gSoPp"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "R\u00e1pido",
         "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194766,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 118980,
       "name": "Respaldo y Apoyo",
       "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Al Ladito M\u00edo",
+        "url": "https://open.spotify.com/album/6rpbmmLpAIrjkO8r4ZwyHQ"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Al Ladito M\u00edo",
+      "url": "https://open.spotify.com/track/4e9lspYSMSTPfxGh6gSoPp"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Mi Dios",
+        "url": "https://open.spotify.com/album/68S4U4EgrNATOAXJlIUE5d"
+      },
+      "artists": [
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "duration_ms": 153111,
+      "name": "Mi Dios",
+      "url": "https://open.spotify.com/track/38eCF3e9p6t5gdI7yekbLe"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "La Tostada",
         "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
       },
@@ -1387,6 +1403,38 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/1IjK9iuvWzcPZpXUTDZDSk"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Mi Legado",
+        "url": "https://open.spotify.com/album/3QMVjlxC8BTaVtgPSLpjMf"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Mi Legado",
+      "url": "https://open.spotify.com/track/2cwLGVTFOG6lyoj2RUOuU7"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Yo Soy Guerrera",
         "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
       },
@@ -1435,26 +1483,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda",
-        "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
-      },
-      "artists": [
-        {
-          "name": "Los Cedre\u00f1os",
-          "url": "https://open.spotify.com/artist/76nj339lU2ayZ9826xi7j5"
-        },
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/5KKOilUrX3rLQJD6j0O22w"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Truena La Radio",
         "url": "https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37"
       },
@@ -1467,70 +1495,6 @@
       "duration_ms": 146634,
       "name": "Truena La Radio",
       "url": "https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Te Digo Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5of75JzXXBQIGskSlBvmsf"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 129029,
-      "name": "Te Digo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6pbyaOvQE0XEmv8c5fYTKo"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "En Vivo Desde Houston",
-        "url": "https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 179274,
-      "name": "Me Gusta Tener de a Dos (En Vivo)",
-      "url": "https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Mi Dios",
-        "url": "https://open.spotify.com/album/68S4U4EgrNATOAXJlIUE5d"
-      },
-      "artists": [
-        {
-          "name": "''El Obama'' Carlos Anderson",
-          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
-        }
-      ],
-      "duration_ms": 153111,
-      "name": "Mi Dios",
-      "url": "https://open.spotify.com/track/38eCF3e9p6t5gdI7yekbLe"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/1IjK9iuvWzcPZpXUTDZDSk"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1555,54 +1519,54 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "No Me Traigas Flores",
-        "url": "https://open.spotify.com/album/2IyiZmvOl3wBYCV0UJTZ5d"
+        "name": "Ya Empez\u00f3 la Balacera (En Vivo)",
+        "url": "https://open.spotify.com/album/46vZOXeBe46Lh274iE10Y9"
       },
       "artists": [
         {
-          "name": "Santi Casas",
-          "url": "https://open.spotify.com/artist/4YprdodXx3yev6WoZw0cG1"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 201500,
-      "name": "No Me Traigas Flores",
-      "url": "https://open.spotify.com/track/45XxvtBQ9Yqlu0gumowvII"
+      "duration_ms": 166567,
+      "name": "Ya Empez\u00f3 la Balacera - En Vivo",
+      "url": "https://open.spotify.com/track/4x9mTkwHK8Jo8r4YLnbkt4"
     },
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Arriba La Sierra Vol. 2",
-        "url": "https://open.spotify.com/album/2kDZRL7hhdeNTl0K17Rw8I"
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
       },
       "artists": [
         {
-          "name": "El Halcon De La Sierra Jr",
-          "url": "https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ"
+          "name": "Los Cedre\u00f1os",
+          "url": "https://open.spotify.com/artist/76nj339lU2ayZ9826xi7j5"
         },
         {
-          "name": "Jose Juan Rosas",
-          "url": "https://open.spotify.com/artist/6w49c4MLk5ZrdGLqVivnda"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 196325,
-      "name": "El Medico",
-      "url": "https://open.spotify.com/track/6fdLv5BPnXWxqCcqXdmSKa"
+      "duration_ms": 182720,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5KKOilUrX3rLQJD6j0O22w"
     },
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Mi Legado",
-        "url": "https://open.spotify.com/album/3QMVjlxC8BTaVtgPSLpjMf"
+        "name": "Te Digo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5of75JzXXBQIGskSlBvmsf"
       },
       "artists": [
         {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
         }
       ],
-      "duration_ms": 213571,
-      "name": "Mi Legado",
-      "url": "https://open.spotify.com/track/2cwLGVTFOG6lyoj2RUOuU7"
+      "duration_ms": 129029,
+      "name": "Te Digo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6pbyaOvQE0XEmv8c5fYTKo"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1623,6 +1587,54 @@
       "duration_ms": 194125,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/581oW5G19JncBBETLgTZaJ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "No Me Traigas Flores",
+        "url": "https://open.spotify.com/album/2IyiZmvOl3wBYCV0UJTZ5d"
+      },
+      "artists": [
+        {
+          "name": "Santi Casas",
+          "url": "https://open.spotify.com/artist/4YprdodXx3yev6WoZw0cG1"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "No Me Traigas Flores",
+      "url": "https://open.spotify.com/track/45XxvtBQ9Yqlu0gumowvII"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "La Ma\u00f1ana Que Se Fue (En Vivo)",
+        "url": "https://open.spotify.com/album/53o2MORHeBWzDCJDWzSgvK"
+      },
+      "artists": [
+        {
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+        }
+      ],
+      "duration_ms": 211805,
+      "name": "La Ma\u00f1ana Que Se Fue - En Vivo",
+      "url": "https://open.spotify.com/track/6lqBES7074NB8NEsDpGpBO"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "A La Mala",
+        "url": "https://open.spotify.com/album/6Q6TiAfNOYFmkmO0gb4on8"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 148849,
+      "name": "A La Mala",
+      "url": "https://open.spotify.com/track/7KkZViB3klEwqv8vebzZCh"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1659,50 +1671,38 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/5MTyxg9SFeamEQLIfeuZzn"
+        "name": "En Vivo Desde Houston",
+        "url": "https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL"
       },
       "artists": [
         {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 194435,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/6dSIHQKngqF8T1XQ9rMZHh"
+      "duration_ms": 179274,
+      "name": "Me Gusta Tener de a Dos (En Vivo)",
+      "url": "https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI"
     },
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "A La Mala",
-        "url": "https://open.spotify.com/album/6Q6TiAfNOYFmkmO0gb4on8"
+        "name": "Arriba La Sierra Vol. 2",
+        "url": "https://open.spotify.com/album/2kDZRL7hhdeNTl0K17Rw8I"
       },
       "artists": [
         {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 148849,
-      "name": "A La Mala",
-      "url": "https://open.spotify.com/track/7KkZViB3klEwqv8vebzZCh"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "La Ma\u00f1ana Que Se Fue (En Vivo)",
-        "url": "https://open.spotify.com/album/53o2MORHeBWzDCJDWzSgvK"
-      },
-      "artists": [
+          "name": "El Halcon De La Sierra Jr",
+          "url": "https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ"
+        },
         {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+          "name": "Jose Juan Rosas",
+          "url": "https://open.spotify.com/artist/6w49c4MLk5ZrdGLqVivnda"
         }
       ],
-      "duration_ms": 211805,
-      "name": "La Ma\u00f1ana Que Se Fue - En Vivo",
-      "url": "https://open.spotify.com/track/6lqBES7074NB8NEsDpGpBO"
+      "duration_ms": 196325,
+      "name": "El Medico",
+      "url": "https://open.spotify.com/track/6fdLv5BPnXWxqCcqXdmSKa"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Ya Empez\u00f3 la Balacera (En Vivo)",
-        "url": "https://open.spotify.com/album/46vZOXeBe46Lh274iE10Y9"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/5MTyxg9SFeamEQLIfeuZzn"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
         }
       ],
-      "duration_ms": 166567,
-      "name": "Ya Empez\u00f3 la Balacera - En Vivo",
-      "url": "https://open.spotify.com/track/4x9mTkwHK8Jo8r4YLnbkt4"
+      "duration_ms": 194435,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/6dSIHQKngqF8T1XQ9rMZHh"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

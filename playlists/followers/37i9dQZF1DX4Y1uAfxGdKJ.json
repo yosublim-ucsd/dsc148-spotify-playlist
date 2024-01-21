@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 140542,
+  "2024-01-21": 140626,
   "date_first_scraped": "2022-09-23",
   "description": "Driving electronic grooves for improved motivation and performance.",
   "name": "Electronic Running",
@@ -2161,6 +2161,24 @@
       "duration_ms": 238500,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF"
+    },
+    {
+      "album": {
+        "name": "Relinquish",
+        "url": "https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1"
+      },
+      "artists": [
+        {
+          "name": "Daryl Dane",
+          "url": "https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178248,
+      "name": "Relinquish",
+      "url": "https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy"
     },
     {
       "album": {

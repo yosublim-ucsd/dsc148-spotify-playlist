@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 160789,
+  "2024-01-21": 160840,
   "date_first_scraped": "2022-05-13",
   "description": "To all the 7abieb out there. Cover: Ramy Gamal.",
   "name": "Arabic Love Songs",
@@ -659,6 +659,24 @@
       "duration_ms": 169700,
       "name": "Bel Ahlam",
       "url": "https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV"
+    },
+    {
+      "album": {
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/3t7sKIx1ONsfzjWDEQAYsi"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/6Zk9qT6hjvnD3y0NMgLZrb"
     },
     {
       "album": {

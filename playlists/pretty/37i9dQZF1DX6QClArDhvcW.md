@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,787 likes - 262 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,885 likes - 262 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 152 | [Rowing on](https://open.spotify.com/track/4RiiDpKYsa4cWSFgQlNvX8) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Rowing on](https://open.spotify.com/album/3gIUL8SRRQnENtFmvCGagf) | 2:29 |
 | 153 | [Sunshine & Mimomasas](https://open.spotify.com/track/4L7uulqGRV0aGMZ1IapOLb) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Sunshine & Mimomasas](https://open.spotify.com/album/3GnOxzzeWlgcDnp87LFiCP) | 1:54 |
 | 154 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
-| 155 | [Hush](https://open.spotify.com/track/0oVdYE1SsrvUKvtzemXJQ9) | [Näver](https://open.spotify.com/artist/5X3jilHb8aLEMK8xh3NuZC) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:19 |
+| 155 | [Hush](https://open.spotify.com/track/0oVdYE1SsrvUKvtzemXJQ9) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:19 |
 | 156 | [trip around the beat](https://open.spotify.com/track/6I8S85GNBgfUZwxG3HzhBN) | [roeadey](https://open.spotify.com/artist/3cpogQIusW9aqtDvjS5C5h) | [trip around the beat](https://open.spotify.com/album/0AIq7nxGvPdNfHdVAeBfTC) | 2:25 |
 | 157 | [Saturn Eyes](https://open.spotify.com/track/0PfODaB3CjyqGeUue5Zysv) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [Saturn Eyes](https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS) | 1:55 |
 | 158 | [punks n trunks](https://open.spotify.com/track/2FoNSgW2hRXRNrsAhQu7AW) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [subtopia](https://open.spotify.com/album/5MD8YF55ju64o9Cu0R5XCM) | 3:10 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 261 | [Morning Routine](https://open.spotify.com/track/5qVqfRxmtlXQFPpW5836Nf) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/0wDM3yMZuPRHEXVypsjhZV) | 0:59 |
 | 262 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 
-Snapshot ID: `MCxlZjQwNmEyMGZjNDliMzY1ZjJjODZmZWQ3OGZjNjM3MmQxMWYwOTJh`
+Snapshot ID: `MCxmMjFmZTcxN2MwNWMwNzEzMDJjOWJiOTcwMGFhODk3ZmMxOWI4OTZj`

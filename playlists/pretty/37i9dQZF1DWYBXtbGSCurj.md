@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Cabelinho, Borges, A.R, Amorim, Brutos, Vinicin, MANO R7
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,447 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,480 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 71 | [Território](https://open.spotify.com/track/0a0E98EeDciBdnmKxGD47p) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 3:03 |
 | 72 | [Ilusão](https://open.spotify.com/track/5QGRXgDm58JZiUHd8ODMuq) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:40 |
 | 73 | [O Retorno de Jedi](https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [O Retorno de Jedi](https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL) | 2:50 |
-| 74 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
+| 74 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 75 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
 
-Snapshot ID: `MCwzMmFjMjljNTg2NzNlNzQ1YWNmZDViN2E3MDZjMzNkM2YxZDdlZTBl`
+Snapshot ID: `MCw0NDFlNDM5ZWJmMTU5M2UxNThiZjhmMjAyOWQ0NmUyZjUwNDc4NDU2`

@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 153867,
+  "2024-01-21": 153874,
   "date_first_scraped": "2023-12-19",
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
   "name": "Los 60 M\u00e9xico",
@@ -839,7 +839,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165154,
       "name": "Si me quieres",
       "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 149573,
       "name": "Sospecha",
       "url": "https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U"

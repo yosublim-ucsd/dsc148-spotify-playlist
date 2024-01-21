@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Rust x Ben Nicky x WUKONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,921 likes - 77 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,928 likes - 77 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [Nice & Chill \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0YpGZ3doNPRq9mMj4kgUZB) | [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Nice & Chill \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2qbbWIlButDWaIAStr8Aj0) | 2:35 |
 | 77 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 |
 
-Snapshot ID: `MCw0MGE0ZTU0MDdhMDI3NTM1MzRkYWVmMmUwZDM1N2E3MDhlYTFmMmIz`
+Snapshot ID: `MCw1YjUzMDg1NTMzY2ZiZjNiZDZmOTEzMjEyZDQyNjY4NzEwNTZhNzQ0`

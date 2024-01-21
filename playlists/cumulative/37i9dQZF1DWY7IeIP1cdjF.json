@@ -3262,10 +3262,6 @@
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
@@ -3276,6 +3272,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "date_added": "2024-01-19",

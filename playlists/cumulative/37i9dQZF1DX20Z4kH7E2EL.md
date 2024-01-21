@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-248 songs - 21 hr 59 min
+249 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Hold Up, Hold On](https://open.spotify.com/track/1ZgSeZW90oTERXELrNjALJ) | [Rimbaudian](https://open.spotify.com/artist/2mBp5EJQEiv7xNhyriCl8r) | [Illuminations EP](https://open.spotify.com/album/6GWaQBoDbfFb4lsvklJEqY) | 4:49 | 2023-01-12 | 2023-01-28 |
 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 | 2023-04-14 | 2023-08-19 |
 | [Hot Hot](https://open.spotify.com/track/6qdClrMJKkYPNhWFvI38RF) | [Asquith](https://open.spotify.com/artist/43fmnXKQExCZ0KyHTKwkXv) | [Never Alone](https://open.spotify.com/album/7h7TJjv0MbF7Tb2tvu9r8N) | 5:44 | 2023-03-10 | 2023-08-05 |
-| [Hours](https://open.spotify.com/track/38v0lk7Ghia2mPZU8Qhv7q) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu) | [Immersed Elements 07](https://open.spotify.com/album/7EehEfudsjkebuZW5pANS5) | 3:37 | 2023-12-01 |  |
+| [Hours](https://open.spotify.com/track/38v0lk7Ghia2mPZU8Qhv7q) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu) | [Immersed Elements 07](https://open.spotify.com/album/7EehEfudsjkebuZW5pANS5) | 3:37 | 2023-12-01 | 2024-01-21 |
+| [Hours](https://open.spotify.com/track/7HVrblhM5xKEx5BO4ONClM) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu) | [Immersed Elements 07](https://open.spotify.com/album/2vVABpMPsW6fkXUkzm46jJ) | 3:37 | 2023-12-08 |  |
 | [Huge Organ](https://open.spotify.com/track/0zP9e41aqAToTcN8Ioh9FS) | [Vangelis Kostoxenakis](https://open.spotify.com/artist/7sb3fD4ofsPbhm2ZHmknIL) | [Huge Organ EP](https://open.spotify.com/album/2lMnm6Db45fpCILbZyKziw) | 6:43 | 2023-10-02 | 2023-11-25 |
 | [I Feel For You \- Star B Extended Remix](https://open.spotify.com/track/3279i3oQ3on1bb17kYLzxZ) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l), [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt) | [I Feel For You \(Star B Remix\)](https://open.spotify.com/album/5f75iR1LqLFO3bo26aQDrv) | 4:57 | 2023-03-10 | 2023-09-05 |
 | [I Feel Love](https://open.spotify.com/track/2MfaHhtlFNm4HBJ63P47t4) | [Hott 22](https://open.spotify.com/artist/2seqyYXetmWG6wcvbDCGyh) | [Future Disco](https://open.spotify.com/album/6SCc1vkh3J6GuC92xQpKzD) | 6:08 | 2023-11-17 |  |

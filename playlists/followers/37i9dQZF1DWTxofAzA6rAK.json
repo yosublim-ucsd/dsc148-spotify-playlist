@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 59415,
+  "2024-01-21": 59484,
   "date_first_scraped": "2021-12-29",
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
   "name": "Back a Yard",
@@ -3537,10 +3537,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
+    },
+    {
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "album": {

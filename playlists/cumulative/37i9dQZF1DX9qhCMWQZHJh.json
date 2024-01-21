@@ -1148,10 +1148,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 336760,
       "name": "Strata",
       "url": "https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz"
+    },
+    {
+      "album": {
+        "name": "old dreams new planets",
+        "url": "https://open.spotify.com/album/1Kl7ZKIPjaPKc6JjSTuhbV"
+      },
+      "artists": [
+        {
+          "name": "STUFF.",
+          "url": "https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336760,
+      "name": "strata",
+      "url": "https://open.spotify.com/track/39I1adbbHU7r5bzDrDZ6bu"
     },
     {
       "album": {

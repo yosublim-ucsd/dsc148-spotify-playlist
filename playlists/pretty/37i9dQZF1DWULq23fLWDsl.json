@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 227692,
+  "num_followers": 227922,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFlZDU0ZjM2OWRkYWFlOWI3ZDg0MGRmMTZkYTIyZjQyMWFiOTdm",
+  "snapshot_id": "MCxmNWQ4NWZkMGRmOWJiN2VmMjFlNDNhMWExMWNkODg0YjI4MmZmZDFi",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Congratulations",
+        "url": "https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 235386,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Baby I'm Yours",
         "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Congratulations",
-        "url": "https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Happiness - Deluxe Edition",
         "url": "https://open.spotify.com/album/5cZgn1Bqk3msMykasZtZod"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 235200,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
     },
     {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Norway",
-      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
-    },
-    {
       "added_at": "2022-09-05 11:29:45",
       "album": {
         "name": "Mine Is Yours",
@@ -1407,6 +1391,22 @@
       "duration_ms": 164280,
       "name": "Louder Than Ever",
       "url": "https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
     },
     {
       "added_at": "2021-10-05 08:40:49",

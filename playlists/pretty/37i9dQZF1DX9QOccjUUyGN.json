@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA5Y2ZmNGFkMmNkY2Q0Nzc0OTYyODcwMmJiMzU3NjU2MGQwMWUx",
+  "snapshot_id": "MCw4NDAwNzAwMjI4ZDI2MmEzYmJmNjIxNDY0ZGIyOTQwNWU4ZGZiYjQy",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -720,16 +720,16 @@
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
           "name": "Borges",
           "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "DJ Kaio Mix",
           "url": "https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         }
       ],
       "duration_ms": 288973,

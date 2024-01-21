@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 773212,
+  "2024-01-21": 773165,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chill out playlist.",
   "name": "Chill Out Music",
@@ -3983,6 +3983,24 @@
       "duration_ms": 150872,
       "name": "I Feel Warmer Already",
       "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
+    },
+    {
+      "album": {
+        "name": "I Hope You Find What You're Looking For",
+        "url": "https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "I Hope You Find What You're Looking For",
+      "url": "https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI"
     },
     {
       "album": {

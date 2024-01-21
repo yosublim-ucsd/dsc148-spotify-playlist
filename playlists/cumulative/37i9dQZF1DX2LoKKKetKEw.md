@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-223 songs - 11 hr 40 min
+224 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Baba Mi](https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn) | [Adeshola](https://open.spotify.com/artist/5z5CuuEP3epmqJsQsgruER), [Laura Ehio](https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn) | [Baba Mi](https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f) | 3:01 | 2023-10-24 |  |
 | [Balance](https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Balance](https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09) | 3:35 | 2022-07-30 | 2024-01-13 |
 | [Banger](https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [Banger](https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV) | 3:54 | 2023-05-19 | 2023-08-14 |
+| [Be Like](https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like](https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU) | 2:41 | 2024-01-12 |  |
 | [Belongs to You \- EDM Remix](https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Belongs to You \(EDM Remix\)](https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8) | 3:07 | 2022-07-30 | 2023-12-08 |
 | [Better Days](https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Better Days](https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9) | 3:03 | 2024-01-12 |  |
 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 | 2023-08-25 |  |
@@ -123,7 +124,7 @@
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-12-16 | 2024-01-11 |
 | [Mighty](https://open.spotify.com/track/7ltRejrp933zWuPDj3x8UJ) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Mighty](https://open.spotify.com/album/5X5CFxfOZLEdWhd3LrmJsQ) | 2:05 | 2024-01-12 |  |
 | [Mighty](https://open.spotify.com/track/6CpeBLNw7lzMnokEYgUjzf) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Mighty](https://open.spotify.com/album/6HJ0pySgPrueCDO3RAakuQ) | 3:16 | 2023-12-01 | 2023-12-04 |
-| [MINDFUL](https://open.spotify.com/track/4XJzqZUsubysIivv2VELbU) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [MINDFUL](https://open.spotify.com/album/1pj6d54dUkP7c0x6wzkXbH) | 3:14 | 2023-10-24 |  |
+| [MINDFUL](https://open.spotify.com/track/4XJzqZUsubysIivv2VELbU) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [MINDFUL](https://open.spotify.com/album/1pj6d54dUkP7c0x6wzkXbH) | 3:14 | 2023-10-24 | 2024-01-21 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-10 |  |
 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-10-24 |  |
 | [My Back](https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [My Back](https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH) | 3:23 | 2022-12-16 | 2024-01-13 |

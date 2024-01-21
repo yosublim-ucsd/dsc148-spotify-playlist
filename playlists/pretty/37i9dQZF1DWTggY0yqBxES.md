@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,746 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,795 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 |
 | 2 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 3 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 4 | [PYSCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
+| 4 | [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
 | 5 | [Hit & Run](https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW) | ['Decent](https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU) | 4:21 |
 | 6 | [GET A GRIP](https://open.spotify.com/track/25I47y2Jo5Ugqkrt4cMlme) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HARSH](https://open.spotify.com/album/1BaMH4GHHOur5Phr8F5ssg) | 1:17 |
 | 7 | [Gentleman's Sweep](https://open.spotify.com/track/5kLIeJyblsWIWQ6nfyZNrq) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Gentleman's Sweep](https://open.spotify.com/album/6cNCc8EptZdKibhexZIyGe) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [No Gimmix](https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [HOT VODKA 2](https://open.spotify.com/album/2dRkcZCXkFtqGO7gCO0FVd) | 2:45 |
 | 100 | [Grove](https://open.spotify.com/track/7ChGbr5eO2BKBz3cw3Kqsr) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Grove](https://open.spotify.com/album/6tG0BshFlg8Hm9eZqiWmRC) | 2:29 |
 
-Snapshot ID: `MCxiNGFlODg5ZjI3ZjkwMjllZWE4ZWNkNmUxOWFhNGE4YWVhMTA0Y2Vj`
+Snapshot ID: `MCwxZGY3ZGZlOGZkMDk0YjlhMDc3YThhZTI1ZWQ1ZjU4NTcyYTNhZjhj`

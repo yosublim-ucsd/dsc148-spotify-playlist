@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127332,
+  "num_followers": 127362,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzA0OTU3YzBlNWYxNjE3Njg3NjIxNDVlOGMxNGI1MGM5OGMzMGQ4",
+  "snapshot_id": "MCw2NWI0Zjg0ZjZkMWM3MTUzMTY2ZDAyYjQ2ZTljYTgzYzgzYjg5NDA2",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Organs In Orbit",
         "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 152706,
       "name": "A Man And A Woman - Remastered",
       "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Hana Hou! Vol. 1",
@@ -287,6 +271,22 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Soul Of The Drums",
@@ -399,6 +383,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
+      },
+      "artists": [
+        {
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
         "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 140721,
       "name": "Palmeras",
       "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Bongoland",
         "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 341760,
       "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
       "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Legend Of The Jivaro",
-        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -947,6 +931,22 @@
       "duration_ms": 179800,
       "name": "Lust",
       "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Legend Of The Jivaro",
+        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
-        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Waldo",
-          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Within The Temple Of Macuilizochitl",
-      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Grandes Orquestas",
         "url": "https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 158106,
       "name": "I Get a Kick Out Of You",
       "url": "https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
+        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Waldo",
+          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Within The Temple Of Macuilizochitl",
+      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Jungle Drums",
+        "url": "https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ"
+      },
+      "artists": [
+        {
+          "name": "Augie Colon",
+          "url": "https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN"
+        }
+      ],
+      "duration_ms": 130539,
+      "name": "Hernando s Hideaway",
+      "url": "https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Cool Heat + Exotic Dreams",
         "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 207892,
       "name": "Bim-Boo",
       "url": "https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Jungle Drums",
-        "url": "https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ"
-      },
-      "artists": [
-        {
-          "name": "Augie Colon",
-          "url": "https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN"
-        }
-      ],
-      "duration_ms": 130539,
-      "name": "Hernando s Hideaway",
-      "url": "https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M"
     },
     {
       "added_at": "2021-01-20 03:50:53",

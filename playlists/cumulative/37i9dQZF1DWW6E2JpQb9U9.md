@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-314 songs - 23 hr 36 min
+315 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 | 2022-04-01 |  |
 | [Beatle \- Acústico en Vivo](https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:32 | 2022-04-01 |  |
 | [Beatle \- En Vivo en el Foro Sol](https://open.spotify.com/track/1rOyTQAHsI9fVxZxVicjlU) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 2:48 | 2022-04-01 | 2022-07-26 |
+| [Botella \- En Vivo](https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Botella \(En Vivo\)](https://open.spotify.com/album/1todV49PshzA1zQckYe0KR) | 4:37 | 2024-01-19 |  |
 | [Brazos Cruzados \- Vivo](https://open.spotify.com/track/1F8HTi9TSAzrsCFyQVsz5t) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Vivo en la Trastienda](https://open.spotify.com/album/3WMDIIZ7Vi9O5tSLecWEFl) | 3:24 | 2022-06-24 | 2022-07-12 |
 | [Brujería \- En Vivo](https://open.spotify.com/track/015RsJDM2y6Wl4zKr5NjDM) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tipitorex](https://open.spotify.com/album/64A2yWDQnsti67uCO44olg) | 3:06 | 2022-04-01 | 2022-07-28 |
 | [Buen Viaje \- En Vivo](https://open.spotify.com/track/0jYXqNuxsxwujzNQiD9DS2) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [En Vivo \- Teatro Vorterix \(29\-02\-20\)](https://open.spotify.com/album/7Dths4jCtGKS1N9JDnXtJl) | 4:14 | 2022-06-24 | 2022-07-05 |
@@ -63,7 +64,7 @@
 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 | 2022-04-01 |  |
 | [Carol \(En Vivo en el Hipódromo\)](https://open.spotify.com/track/5MUErlwfsEmFAVVKRVDzvF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Caballos de Noche Vivos en el Hipódromo](https://open.spotify.com/album/5PZyL6tp27t1ZXy86aO10w) | 3:15 | 2022-04-01 | 2022-07-28 |
 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 | 2022-04-01 |  |
-| [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 | 2023-08-03 |  |
+| [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 | 2023-08-03 | 2024-01-21 |
 | [Casi Nunca Lo Ves \(En Vivo\) \(feat\. Ciro y Los Persas\)](https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:56 | 2022-04-01 |  |
 | [Cerca De La Revolución \- Live](https://open.spotify.com/track/2qV86KONAvMWtYrQs0FLPf) | [Charly García & The Prostitution](https://open.spotify.com/artist/4Y2lfQWx1xZIiA8ckQjyta) | [La Vanguardia Es Así \(Live\)](https://open.spotify.com/album/6squHvecpkgdtu5ugJ36dZ) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 | 2022-04-01 | 2023-10-07 |

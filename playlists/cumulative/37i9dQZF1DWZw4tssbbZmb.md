@@ -4,7 +4,7 @@
 
 > Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-26 songs - 2 hr 31 min
+27 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Into Clouds](https://open.spotify.com/track/2TihNGnsDiHCSFOmCtdALN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 4:43 | 2023-01-10 |  |
 | [Ione](https://open.spotify.com/track/2x5fSlFZdB8mmvjt5AEGKM) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 17:40 | 2023-01-10 |  |
 | [Kyamdro Semkye \- 2016 Remaster; Remastered](https://open.spotify.com/track/0vLvvtpSY5ZI8nG9JcGm4d) | [Choying Drolma](https://open.spotify.com/artist/7hMvH85hAiQvzzdCo1QR97), [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Chö \(Remastered\)](https://open.spotify.com/album/1YkNz3wHBTKBko4goVHGSy) | 3:14 | 2023-01-10 |  |
-| [Marv Pontkalleg](https://open.spotify.com/track/4LjQCrK3m1kkZNvdohD8cA) | [Alan Stivell](https://open.spotify.com/artist/5qEhKFhIXtSGi9Gw449LKX) | [Renaissance Of The Celtic Harp](https://open.spotify.com/album/4a0eXy2Khk53Pt5GadbxEI) | 3:34 | 2023-01-10 |  |
+| [Marv Pontkalleg](https://open.spotify.com/track/36rmH3TftgrvUODE63hu9u) | [Alan Stivell](https://open.spotify.com/artist/5qEhKFhIXtSGi9Gw449LKX) | [Renaissance de la Harpe Celtique](https://open.spotify.com/album/1rJDaNJMiVDpzU4zD7Q6aO) | 3:32 | 2023-06-30 |  |
+| [Marv Pontkalleg](https://open.spotify.com/track/4LjQCrK3m1kkZNvdohD8cA) | [Alan Stivell](https://open.spotify.com/artist/5qEhKFhIXtSGi9Gw449LKX) | [Renaissance Of The Celtic Harp](https://open.spotify.com/album/4a0eXy2Khk53Pt5GadbxEI) | 3:34 | 2023-01-10 | 2024-01-21 |
 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 | 2023-01-10 |  |
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2023-01-10 |  |
 | [The Art of Mirrors \(after Derek Jarman\)](https://open.spotify.com/track/5pEwaHaIYjpNUilttB5IdV) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 5:58 | 2023-01-10 |  |

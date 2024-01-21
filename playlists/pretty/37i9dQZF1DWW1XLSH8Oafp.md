@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring charlieeeee
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,841 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,871 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 28 | [I Still Got U](https://open.spotify.com/track/0cG19pcQsnVlPblRcmaTB1) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [I Still Got U](https://open.spotify.com/album/0yChxtqOEMwISunOFH39wi) | 3:33 |
 | 29 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
 | 30 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
-| 31 | [Wasting Time with You](https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Triple Point](https://open.spotify.com/artist/45XSGhE6nqslKivrIYaAz5) | [Wasting Time With You](https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC) | 2:56 |
+| 31 | [Wasting Time with You](https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Triple Point](https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ) | [Wasting Time With You](https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC) | 2:56 |
 | 32 | [shy girl](https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [shy girl](https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac) | 2:36 |
 | 33 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
 | 34 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [other delusions](https://open.spotify.com/track/5zRC713gYpWNKikdw4XKUp) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [gumi](https://open.spotify.com/artist/6cxEPag8HEhZTz67RNPG4L) | [love letter](https://open.spotify.com/album/0jZMrcV4QKsoVBH1Q8huJ2) | 3:44 |
 | 150 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 
-Snapshot ID: `MCxlMWNmMDRkZmNlMmIyMWQ0N2NmMjI3YWZlYjI2YjhlZDIzYjE2YjRi`
+Snapshot ID: `MCxiNWYxMjE2NjNjOWY4NGRmZDMxM2U0YmVmYzUwODIwNjMxNTI1OGZi`

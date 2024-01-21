@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-541 songs - 1 day 8 hr 7 min
+543 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 | 2022-09-09 |
 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 | 2023-04-14 |
 | [La Vida Que Te Embrolla](https://open.spotify.com/track/2P44uihCvrvH5M8KjeZLkE) | [Hojas Secas](https://open.spotify.com/artist/61kl8a9uwRmmNjBExAEqiH) | [Bailaló](https://open.spotify.com/album/55IaKU6yOzXlurVVfFHTV1) | 4:15 | 2022-07-01 | 2022-07-16 |
+| [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 |  |
 | [Las Aguas](https://open.spotify.com/track/2UxLDnjULwrVw99Bkgv6Fu) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Invocación](https://open.spotify.com/album/1dHH6lfeps2fuhZpvEfu0y) | 2:48 | 2022-07-01 | 2022-07-23 |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-03 |  |
 | [Las Horas](https://open.spotify.com/track/6abYXckpkTk1tYFEJ6CW2s) | [Basual](https://open.spotify.com/artist/0RB7VDmgFkpoW9jLMArj9y) | [Las Horas / Lovercraft](https://open.spotify.com/album/38AfLq1iFJJLajO5z5nh5h) | 4:37 | 2022-07-15 | 2022-07-28 |
@@ -345,12 +346,13 @@
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 | 2023-07-28 |  |
 | [Navidad](https://open.spotify.com/track/1Qx7QXzj65bVEj441otHze) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Navidad](https://open.spotify.com/album/5oRyoHMAenPjVL2PqtaCJj) | 3:08 | 2022-12-23 | 2023-01-25 |
+| [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 | 2024-01-19 |  |
 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 | 2023-06-02 |  |
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2023-07-08 |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2023-10-27 |
 | [No Es Culpa del Frío](https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Es Culpa del Frío](https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b) | 3:45 | 2022-11-11 | 2023-08-17 |
-| [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-10-26 |  |
+| [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-10-26 | 2024-01-21 |
 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 | 2022-07-15 | 2022-07-29 |
 | [No Le Des Mas Vuelta](https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq) | [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX) | [No Le Des Mas Vuelta](https://open.spotify.com/album/6JwnT7GtY8En4h5n9xDMxD) | 3:45 | 2022-06-03 | 2023-10-18 |
 | [No Me Afecta](https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Me Afecta](https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP) | 4:44 | 2023-08-04 | 2023-10-06 |
@@ -542,7 +544,7 @@
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-06-03 | 2022-07-04 |
 | [Ya No Sigas](https://open.spotify.com/track/6bSIgIm8TrpNiPpOJU7m4h) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Ya No Sigas](https://open.spotify.com/album/0RqM8WU0V0dO10f8zvIsis) | 3:49 | 2022-07-01 | 2022-07-27 |
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
-| [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 |  |
+| [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 | 2024-01-21 |
 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 | 2023-04-21 | 2023-10-27 |
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 |  |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |

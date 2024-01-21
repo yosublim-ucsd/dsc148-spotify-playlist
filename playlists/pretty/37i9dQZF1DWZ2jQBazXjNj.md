@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,695 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,884 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 | 75 | [Prometiste](https://open.spotify.com/track/7dZNRyiEOdT6JpxaPeRE7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Prometiste](https://open.spotify.com/album/5aSblmvsZAN9250TELsLeW) | 3:27 |
 
-Snapshot ID: `MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw`
+Snapshot ID: `MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm`

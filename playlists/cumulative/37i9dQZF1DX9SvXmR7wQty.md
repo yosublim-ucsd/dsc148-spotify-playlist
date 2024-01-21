@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Beyries
 
-2,271 songs - 5 day 1 hr 16 min
+2,273 songs - 5 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,7 @@
 | [DOWN](https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [DOWN](https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV) | 2:45 | 2022-11-25 | 2022-12-24 |
 | [Downtown](https://open.spotify.com/track/3rybOnnSY3zc2D0JvPppo0) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Downtown](https://open.spotify.com/album/3c76ckHHJ1sEgrtJ2LqZQ5) | 3:04 | 2022-05-06 | 2022-05-14 |
 | [Downtown Contrecœur](https://open.spotify.com/track/2cxdHELPfDBZblp9wGQIjp) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Échos d'une vie distante : volume 2](https://open.spotify.com/album/10pkUKc4yyNsFshI8lHlha) | 3:11 | 2022-11-04 | 2022-11-19 |
-| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-24 |  |
+| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-24 | 2024-01-21 |
 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 | 2023-02-03 | 2023-02-18 |
 | [Droit dedans](https://open.spotify.com/track/2ecLGITx4Bv3mwlTLvx3km) | [Ressak](https://open.spotify.com/artist/2IFoXbYSr2NzsGfi6VFtzO) | [Droit dedans](https://open.spotify.com/album/7AGF7ydG2lpxKKYwjl7z4M) | 3:01 | 2022-02-04 | 2022-02-12 |
 | [Drug Dealin](https://open.spotify.com/track/3cwQfiYlCCsA4TcsbMxYv2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 3:12 | 2022-12-02 | 2023-01-14 |
@@ -1273,6 +1273,7 @@
 | [Loup blanc](https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Loup blanc](https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r) | 2:40 | 2023-03-17 | 2023-04-15 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 |  |
 | [Love de moi](https://open.spotify.com/track/1l4XLRKNpfizZFreNAc6DU) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:01 | 2021-12-31 | 2022-01-22 |
+| [Love de toi](https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:22 | 2024-01-19 |  |
 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 | 2023-07-07 | 2023-09-16 |
 | [Love Story](https://open.spotify.com/track/0XhBQ21xoheZsNI7PhYHLm) | [NoKliché](https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih), [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH), [Chris 2 Coeur](https://open.spotify.com/artist/3A0D0VTnNMZmpsmQBOUsBv) | [Love Story](https://open.spotify.com/album/45S14H7gmwDkT4AsK8tJpV) | 3:47 | 2022-07-08 | 2022-07-23 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-08 | 2023-10-30 |
@@ -1324,7 +1325,7 @@
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 | 2023-09-30 |
 | [MAIN MOITE](https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [SALE ÉPOQUE](https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2) | 3:03 | 2023-11-10 |  |
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
-| [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 | 2023-10-27 |  |
+| [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 | 2023-10-27 | 2024-01-21 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |
 | [Maison Sérieuse](https://open.spotify.com/track/3NxGzIj7N31sQPrAqec8Vq) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [Maison Sérieuse](https://open.spotify.com/album/5WDbgkqHGUlchrsE4gDFG3) | 2:31 | 2022-06-10 | 2022-06-25 |
 | [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-11-24 | 2023-12-02 |
@@ -2262,6 +2263,7 @@
 | [Ça fait longtemps](https://open.spotify.com/track/5gQFRhFhFbvcEKd14RjW5o) | [Guillaume Laroche](https://open.spotify.com/artist/15mBsQXYcklrlBSrBqUXey) | [Ça fait longtemps](https://open.spotify.com/album/7DHoTpa2QK0hKd52RQ5gGi) | 3:20 | 2022-04-29 | 2022-05-07 |
 | [Ça ira](https://open.spotify.com/track/7a2jqQYzYPH3HDqhWd2fjf) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Moment / Ça ira](https://open.spotify.com/album/2vw8q1BYFjh4GCJnJQpgeD) | 3:42 | 2022-09-30 | 2022-10-15 |
 | [Ça m'manque](https://open.spotify.com/track/1C1hagvlPCvPHHB1VSOTpr) | [Rook](https://open.spotify.com/artist/22lEQdayTnrxrHGf8ddTcn) | [Ça m'manque](https://open.spotify.com/album/6X9cLJ890XkCzjJkSerTDR) | 4:02 | 2022-04-01 | 2022-04-16 |
+| [Ça mène à rien](https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 3:18 | 2024-01-19 |  |
 | [Ça Parait](https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Ça Parait](https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ) | 2:21 | 2023-11-24 | 2023-12-09 |
 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 | 2023-09-08 | 2023-10-30 |
 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 | 2023-07-21 | 2023-09-23 |

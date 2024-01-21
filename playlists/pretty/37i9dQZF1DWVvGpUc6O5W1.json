@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42038,
+  "num_followers": 42050,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Me Gustar\u00eda Creerte",
-      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 187960,
       "name": "Si Se Me Pone",
       "url": "https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Me Gustar\u00eda Creerte",
+      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Todo Va Estar Bien",
-        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
+        "name": "Eternamente Mexicano",
+        "url": "https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 194014,
-      "name": "Si el Destino Quiso",
-      "url": "https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx"
+      "duration_ms": 163640,
+      "name": "Si Te Ven Conmigo (Version Mariachi)",
+      "url": "https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Eternamente Mexicano",
-        "url": "https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT"
+        "name": "Todo Va Estar Bien",
+        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 163640,
-      "name": "Si Te Ven Conmigo (Version Mariachi)",
-      "url": "https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR"
+      "duration_ms": 194014,
+      "name": "Si el Destino Quiso",
+      "url": "https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "A Mi Modo",
         "url": "https://open.spotify.com/album/0LzSK72w0Bvi0KSmkTxR1V"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 207680,
       "name": "Te Deseo",
       "url": "https://open.spotify.com/track/5ohauUtiVEwzHybD334I22"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Haciendo Historia",
+      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Ahora Soy Yo",
         "url": "https://open.spotify.com/album/7rKufttsZYMnWMhrTWm6Xl"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 146133,
       "name": "Lo Que Hacemos En Tu Cama",
       "url": "https://open.spotify.com/track/01U82GCUOncrdHenabtlDk"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Haciendo Historia",
-      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Homenaje a Ariel Camacho",
+        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "Arrodillate",
+      "url": "https://open.spotify.com/track/4Nv3atBnoqfT1Mrj9M40Nk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "M\u00e1s Enamorada Con Banda",
         "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 177933,
       "name": "Besos En Pastillas",
       "url": "https://open.spotify.com/track/6UJO5osd30MTaDJlg8VQBs"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Homenaje a Ariel Camacho",
-        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "Arrodillate",
-      "url": "https://open.spotify.com/track/4Nv3atBnoqfT1Mrj9M40Nk"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Las Cumbia Girls",
-          "url": "https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "El Shake (feat. Las Cumbia Girls)",
-      "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "A Lo Que Vengo, Vengo",
         "url": "https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 164333,
       "name": "Como un Rosal (feat. Joss Favela)",
       "url": "https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Las Cumbia Girls",
+          "url": "https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "El Shake (feat. Las Cumbia Girls)",
+      "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Te Quedes Con la Duda",
-        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "No Te Quedes Con la Duda",
-      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 185453,
       "name": "Arrod\u00edllate",
       "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Te Quedes Con la Duda",
+        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "No Te Quedes Con la Duda",
+      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Seguimos Firmes",
-        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
-      },
-      "artists": [
-        {
-          "name": "Banda Saucitos",
-          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
-        }
-      ],
-      "duration_ms": 221638,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Y Lo Que Le Sigue",
         "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 248866,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/1H1MOSnAIVLImWFDlIFYjW"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Seguimos Firmes",
+        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucitos",
+          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Seguimos Firmes",
-        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
-      },
-      "artists": [
-        {
-          "name": "Banda Saucitos",
-          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
-        }
-      ],
-      "duration_ms": 206928,
-      "name": "Vas a Recordarme",
-      "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Prohibido El Amor",
         "url": "https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 200983,
       "name": "Pude",
       "url": "https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ese Soy Yo",
+        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Si Te Ven Conmigo",
+      "url": "https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU"
     }
   ],
   "unique_name": "Cancionero Joss Favela",

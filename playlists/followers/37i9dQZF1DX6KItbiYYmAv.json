@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 731470,
+  "2024-01-21": 731507,
   "date_first_scraped": "2022-09-09",
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
   "name": "Kaffeehausmusik",
@@ -2134,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "album": {
         "name": "Laurel & Sunset",
         "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
       },
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 186666,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/3ThbiGsMJGSLOUHVxyFQQk"

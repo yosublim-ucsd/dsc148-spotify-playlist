@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 120508,
+  "2024-01-21": 120533,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
   "name": "Cancionistas",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 157730,
       "name": "10 km",
       "url": "https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L"
@@ -901,6 +901,24 @@
       "duration_ms": 178466,
       "name": "A\u00f1oranza Del Amor",
       "url": "https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC"
+    },
+    {
+      "album": {
+        "name": "Baguala de Salta, Chicoana",
+        "url": "https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103250,
+      "name": "Baguala de Salta, Chicoana",
+      "url": "https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5"
     },
     {
       "album": {
@@ -1970,6 +1988,28 @@
     },
     {
       "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -2767,6 +2807,28 @@
       "duration_ms": 194165,
       "name": "D\u00eda de lluvia en Madrid",
       "url": "https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx"
+    },
+    {
+      "album": {
+        "name": "D\u00eda De Lluvia En Madrid",
+        "url": "https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx"
+      },
+      "artists": [
+        {
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194165,
+      "name": "D\u00eda De Lluvia En Madrid",
+      "url": "https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf"
     },
     {
       "album": {
@@ -5286,6 +5348,24 @@
     },
     {
       "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/7DUwlf7JFLhrmQ0z32Y8Ls"
       },
@@ -6545,7 +6625,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
@@ -8077,7 +8157,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 183845,
       "name": "Si te vas",
       "url": "https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E"
@@ -8253,7 +8333,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
@@ -8329,7 +8409,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 244251,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
@@ -8951,7 +9031,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 155213,
       "name": "tu recuerdo (verde oto\u00f1o)",
       "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
@@ -9183,7 +9263,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
@@ -9699,7 +9779,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182296,
       "name": "Ya no sigo esperando por ti",
       "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"

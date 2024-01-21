@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
-  "num_followers": 1608214,
+  "num_followers": 1608126,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2QyNmFmNmIzMzM0MDBhYmRkOTI2ZWRlMTk0ZGUzMTFjMTFhMTk4",
+  "snapshot_id": "MCwyZDZlOGE5MDc3ZjEzYTE2YjJlNzYzNjRlYWM3YzRiN2YyMmNjMWIy",
   "tracks": [
     {
       "added_at": "2024-01-19 04:00:00",
@@ -335,22 +335,26 @@
     {
       "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "DeNiro & Pesci",
-        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
+        "name": "Bobby Boucher",
+        "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
       },
       "artists": [
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
         }
       ],
-      "duration_ms": 175648,
-      "name": "DeNiro & Pesci",
-      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
+      "duration_ms": 195200,
+      "name": "Bobby Boucher",
+      "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
     },
     {
       "added_at": "2024-01-19 04:00:00",
@@ -391,26 +395,22 @@
     {
       "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "Bobby Boucher",
-        "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
+        "name": "DeNiro & Pesci",
+        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         },
         {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Bobby Boucher",
-      "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
+      "duration_ms": 175648,
+      "name": "DeNiro & Pesci",
+      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
     },
     {
       "added_at": "2024-01-19 04:00:00",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "Chops on the Blade",
-        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
+        "name": "Dead Men (feat. Cozz)",
+        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
         },
         {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
         }
       ],
-      "duration_ms": 212154,
-      "name": "Chops on the Blade",
-      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+      "duration_ms": 171989,
+      "name": "Dead Men (feat. Cozz)",
+      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
     }
   ],
   "unique_name": "Spilled Ink",

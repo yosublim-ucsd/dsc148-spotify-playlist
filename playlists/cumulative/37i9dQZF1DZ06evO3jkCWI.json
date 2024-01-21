@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Noche Bonita",
+        "url": "https://open.spotify.com/album/5tFnpp5slL0zCPG35bla3A"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203097,
+      "name": "Noche Bonita",
+      "url": "https://open.spotify.com/track/2xgfWtf2RHkmZKcIifUA6f"
+    },
+    {
+      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },

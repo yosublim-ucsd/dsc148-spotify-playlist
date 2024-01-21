@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 130970,
+  "num_followers": 131069,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
+  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "First View",
-        "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "West End",
-      "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "First View",
+        "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "West End",
+      "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -811,18 +811,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
       },
       "artists": [
         {
-          "name": "John Klemmer",
-          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Glass Dolphins",
-      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
+      "duration_ms": 280306,
+      "name": "Breakfast with Tiffany",
+      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -843,18 +843,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
       },
       "artists": [
         {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
         }
       ],
-      "duration_ms": 280306,
-      "name": "Breakfast with Tiffany",
-      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+      "duration_ms": 207000,
+      "name": "Glass Dolphins",
+      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
     },
     {
       "added_at": "2020-08-19 00:00:21",

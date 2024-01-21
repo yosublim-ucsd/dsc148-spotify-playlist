@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 8358,
+  "2024-01-21": 8356,
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Lil Nas X, Beyonc\u00e9, Harry Styles &amp; more! Cover: Lil Nas X",
+  "description": "Your go-to playlist for this week's hottest music featuring IVE, Beyonc\u00e9, Harry Styles &amp; more! Cover: IVE &amp; Saweetie",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -431,6 +431,28 @@
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "album": {
+        "name": "All Night (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "All Night (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     },
     {
       "album": {
@@ -983,7 +1005,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 216048,
       "name": "Big Smacks",
       "url": "https://open.spotify.com/track/2STewyZ1VcIskc8tFIv2Ch"
@@ -2457,7 +2479,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 193196,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 225250,
       "name": "Digital Silence - Live from New York",
       "url": "https://open.spotify.com/track/6ctyUkdFBmcYdT34bY92IX"
@@ -3344,6 +3366,28 @@
     },
     {
       "album": {
+        "name": "Exhausted",
+        "url": "https://open.spotify.com/album/7qv2j4xBkUaBGmzDRFw8WH"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Exhausted",
+      "url": "https://open.spotify.com/track/7duDdb5jPxIvOrKYeeG1vj"
+    },
+    {
+      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
       },
@@ -3698,6 +3742,24 @@
     },
     {
       "album": {
+        "name": "Frag",
+        "url": "https://open.spotify.com/album/6RdIlxJ7pBiHuCoB6wHDOR"
+      },
+      "artists": [
+        {
+          "name": "2Sdxrt3all",
+          "url": "https://open.spotify.com/artist/1P8P73y8wFhXBybKRBzhbv"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116575,
+      "name": "Frag",
+      "url": "https://open.spotify.com/track/30y2AkLhuBrq8diAEGSqCC"
+    },
+    {
+      "album": {
         "name": "Francesca",
         "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
@@ -3745,7 +3807,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 168976,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa"
@@ -3899,7 +3961,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203142,
       "name": "Get Deady",
       "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
@@ -4371,7 +4433,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 171827,
       "name": "Heart Attack (Arch)",
       "url": "https://open.spotify.com/track/2K3x6iSi1bNX50en2Dqh5p"
@@ -5560,6 +5622,24 @@
     },
     {
       "album": {
+        "name": "Kill Dance",
+        "url": "https://open.spotify.com/album/7k2essdb4rVl6Sfo4kchGy"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153044,
+      "name": "Kill Dance",
+      "url": "https://open.spotify.com/track/65PnG0aqLqlivow2bXtErj"
+    },
+    {
+      "album": {
         "name": "Kill For Your Love",
         "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
       },
@@ -6333,7 +6413,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 130931,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694"
@@ -7012,6 +7092,24 @@
     },
     {
       "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/71NR9WGF9Ke6ziA6OKYiLc"
       },
@@ -7031,7 +7129,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 150846,
       "name": "No Love",
       "url": "https://open.spotify.com/track/0UlAxLlUGzB6MMd5tpXvQh"
@@ -7816,6 +7914,28 @@
     },
     {
       "album": {
+        "name": "Passports & Suitcases (feat. KayCyy)",
+        "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Passports & Suitcases (feat. KayCyy)",
+      "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
+    },
+    {
+      "album": {
         "name": "perfect",
         "url": "https://open.spotify.com/album/0ua5B7cz95gaRzhasuBurK"
       },
@@ -8260,6 +8380,28 @@
     },
     {
       "album": {
+        "name": "Same 24 (feat. Meek Mill)",
+        "url": "https://open.spotify.com/album/4RZ6Y7BdFGtiqsDoIlFpum"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Same 24 (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -8552,6 +8694,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN"
+    },
+    {
+      "album": {
         "name": "Skip The Games",
         "url": "https://open.spotify.com/album/17ojCXUKABnHjB8nlJarAt"
       },
@@ -8599,7 +8759,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
@@ -8922,6 +9082,24 @@
     },
     {
       "album": {
+        "name": "Stoned in Bridge Creek",
+        "url": "https://open.spotify.com/album/34UP11wojrp6YFBlmWIy3O"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "Stoned in Bridge Creek",
+      "url": "https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5"
+    },
+    {
+      "album": {
         "name": "I'm Certified",
         "url": "https://open.spotify.com/album/72PnAtxV7VamcYTbkiWBsk"
       },
@@ -9067,7 +9245,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217098,
       "name": "Summertime Friends - Winter Version",
       "url": "https://open.spotify.com/track/4jUs1XueEiMLw0mcOQUsfv"

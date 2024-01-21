@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 127102,
+  "2024-01-21": 127117,
   "date_first_scraped": "2022-06-05",
   "description": "Relaxing rain sounds for sleepy babies.",
   "name": "Baby Sleep Aid Rain Sounds",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 186000,
       "name": "08pm rain",
       "url": "https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 160579,
       "name": "Divine Drops",
       "url": "https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs"

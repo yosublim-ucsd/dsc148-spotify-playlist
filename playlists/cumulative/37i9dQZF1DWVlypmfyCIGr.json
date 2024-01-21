@@ -3706,8 +3706,8 @@
       },
       "artists": [
         {
-          "name": "noa",
-          "url": "https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
       "date_added": "2024-01-09",
@@ -27838,10 +27838,28 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 263533,
       "name": "limit",
       "url": "https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac"
+    },
+    {
+      "album": {
+        "name": "shin zen bi",
+        "url": "https://open.spotify.com/album/3auUQy4uLMntgH8F71vHxR"
+      },
+      "artists": [
+        {
+          "name": "Penguinrush",
+          "url": "https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263533,
+      "name": "limit",
+      "url": "https://open.spotify.com/track/6ri9G2hnu8zhA71sMCVfVk"
     },
     {
       "album": {

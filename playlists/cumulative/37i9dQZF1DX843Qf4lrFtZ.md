@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,266 songs - 2 day 16 hr 44 min
+1,267 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,7 +804,7 @@
 | [Obsessed](https://open.spotify.com/track/018oyhXnmpx76OiM5ssj30) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Obsessed](https://open.spotify.com/album/6kJRN9szwULAKeb1lzkIwO) | 3:29 | 2019-07-31 | 2021-03-22 |
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-08-11 | 2022-09-17 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-03-24 | 2022-04-21 |
-| [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-23 |  |
+| [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-23 | 2024-01-21 |
 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 | 2019-07-30 | 2020-01-02 |
 | [Oh My Gawd \(feat\. Nicki Minaj & K4MO\)](https://open.spotify.com/track/2tjbSkPKKH1GFUhSr96tq0) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd \(feat\. Nicki Minaj & K4MO\)](https://open.spotify.com/album/5WsSKDNy9pItHmnzbOlIPC) | 3:00 | 2020-09-11 | 2020-12-04 |
 | [ohfuckimnotok](https://open.spotify.com/track/6w0t6KnnmifuC5N6O231Dk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I'm A Disappointment](https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE) | 2:24 | 2022-04-14 | 2022-04-18 |
@@ -941,6 +941,7 @@
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ) | 2:21 | 2021-10-10 | 2022-07-06 |
 | [Sad Child](https://open.spotify.com/track/756V8q3qX8yeVhKSUnTaKa) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Sad Child](https://open.spotify.com/album/7t93I70Mi63LlZljhdUT9f) | 3:02 | 2020-06-29 | 2022-04-13 |
 | [Sail Away](https://open.spotify.com/track/3L39BPAGNdyM2wnHNr06aF) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Sail Away](https://open.spotify.com/album/13IbfiWa5dygjuGio0uSNP) | 3:30 | 2020-08-30 | 2022-04-19 |
+| [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2023-02-09 |  |
 | [Salt](https://open.spotify.com/track/7vgv8KZBSo0TPzyIWG9yzV) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Salt](https://open.spotify.com/album/6KPJTxKFCpuzrwyJGcURqK) | 3:00 | 2020-01-12 | 2022-04-21 |
 | [Salvation](https://open.spotify.com/track/7nHAsu08kQUVY7h2KPJlcT) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Salvation](https://open.spotify.com/album/40hRIsatGGDAg2dMmgSMb2) | 3:10 | 2019-07-31 | 2019-08-09 |
 | [Samurai \(feat\. Katy Tiz\)](https://open.spotify.com/track/0VOsR3sEACivA46VDuaLai) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Samurai \(feat\. Katy Tiz\)](https://open.spotify.com/album/30aKybIu6FdsT7a47avct2) | 3:21 | 2019-07-30 | 2019-10-25 |

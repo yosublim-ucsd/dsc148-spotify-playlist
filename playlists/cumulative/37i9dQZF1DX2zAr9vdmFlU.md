@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-244 songs - 15 hr 26 min
+245 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ai mi morena \- Chocolate Restyle](https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Some More Horizons \(Digital Version\)](https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk) | 5:28 | 2022-01-01 |  |
 | [Ai Mi Morena \- Chocolate Restyle](https://open.spotify.com/track/5V1gtLx7ftEsGCceWxq3be) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Brazilution Special Stereo Deluxe Online Edition](https://open.spotify.com/album/3jHzW7vbLiQJ3tLhZnQOcz) | 5:30 | 2021-12-09 | 2022-07-29 |
 | [Algo Contigo \(with Our Latin Thing\)](https://open.spotify.com/track/66JW6e9yEE8A0Y3pLpW6iD) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Our Latin Thing](https://open.spotify.com/artist/7D4bz5J1TI5CohcDFQD6tn) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:09 | 2021-12-09 | 2023-03-08 |
-| [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 | 2023-12-06 |  |
+| [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 | 2023-12-06 | 2024-01-21 |
 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 | 2023-03-07 |  |
 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 | 2022-01-01 |  |
 | [Around The World \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/4agvT9MqlrNydXof6DRzrN) | [Señor Coconut](https://open.spotify.com/artist/6rATWMhuTXfhBqtB3IQRWd) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:46 | 2022-08-31 | 2022-11-13 |
@@ -149,6 +149,7 @@
 | [Mi Swing Es Tropical \- feat\. Nickodemus, Tempo & The Candela All\-Stars](https://open.spotify.com/track/7gwDfgLHTlH0SnXKPPTvCj) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The Best of Quantic](https://open.spotify.com/album/6M6zSe2XmL5bv4SU9SG7aW) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Mofongo](https://open.spotify.com/track/09FxzLf2KRfDpXbJWIdmE3) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Mofongo](https://open.spotify.com/album/02f0PqumrnL0YhbcxtxgLU) | 2:51 | 2021-12-09 | 2022-11-13 |
 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 | 2021-12-09 |  |
+| [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 |  |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 | 2023-12-14 |
 | [Mozo](https://open.spotify.com/track/6UYnSpITCrCWsmgjFwK3u0) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mozo](https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo) | 3:47 | 2021-12-09 | 2022-07-29 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2022-01-01 | 2023-03-08 |

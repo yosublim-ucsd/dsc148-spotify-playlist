@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 32762,
+  "num_followers": 32793,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
+  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "X-Temporaneous Boogie",
         "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Harlem Blues Operator",
-        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
-      },
-      "artists": [
-        {
-          "name": "Bob Gaddy",
-          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Love My Baby",
-      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Harlem Blues Operator",
+        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
+      },
+      "artists": [
+        {
+          "name": "Bob Gaddy",
+          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Love My Baby",
+      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
     },
     {
       "added_at": "2023-09-15 11:43:10",

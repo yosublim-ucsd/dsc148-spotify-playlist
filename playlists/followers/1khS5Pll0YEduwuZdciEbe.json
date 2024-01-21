@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 8616,
+  "2024-01-21": 8616,
   "date_first_scraped": "2023-11-08",
-  "description": "A playlist showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Hovvdy",
+  "description": "A playlist showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Eliza McLamb",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -75,6 +75,24 @@
       "duration_ms": 210202,
       "name": "a little more time",
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
+    },
+    {
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "album": {
@@ -848,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/1UO7LLwqK6gixhjlT3qZLO"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/72xrTlEvH1Je0h6sYTm6Cw"
+    },
+    {
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox of Love (Deluxe)",
         "url": "https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD"
       },
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 135343,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y"
@@ -1733,7 +1769,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 216866,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"

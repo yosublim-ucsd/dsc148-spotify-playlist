@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,793 songs - 2 day 20 hr 15 min
+1,794 songs - 2 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Emotions](https://open.spotify.com/track/2TAbwrA4YYlcMuTb1yttHW) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA) | [Emotions](https://open.spotify.com/album/2Z8bT0iEPCGrtQ5OTE5J0P) | 2:03 | 2022-06-24 | 2022-11-19 |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 |  |
 | [empty heads](https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [empty heads](https://open.spotify.com/album/4P41CkhQor2WlRLv8bQYai) | 2:38 | 2023-11-17 |  |
+| [Emu](https://open.spotify.com/track/3UwfJUXOIYLhGElSoteZv7) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Emu](https://open.spotify.com/album/4QHbLSDowVtdNgqf4XXh81) | 2:17 | 2024-01-19 |  |
 | [En Vivo](https://open.spotify.com/track/0eJKlIr8wOQEkMkFmbMdZZ) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [En Vivo](https://open.spotify.com/album/1Jl3suYPWmAT711QCX5y6F) | 1:44 | 2022-09-23 | 2023-02-07 |
 | [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 | 2022-10-01 |  |
 | [End Of Day](https://open.spotify.com/track/1HZXxS8raYpOrQp6ARqd4A) | [boppy af](https://open.spotify.com/artist/5aqNkFFLDWtvJbx4V6RZ0w) | [End Of Day](https://open.spotify.com/album/1k6DRk3AuKQxJWbdY5NciQ) | 2:39 | 2022-11-11 | 2023-09-07 |
@@ -994,7 +995,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-01-21 |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |

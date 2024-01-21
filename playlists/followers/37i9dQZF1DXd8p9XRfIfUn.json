@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 69507,
+  "2024-01-21": 69527,
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: Jere Klein",
+  "description": "Lo mejor de la nueva. Foto: Jhay P",
   "name": "Academia Reggaet\u00f3n",
   "tracks": [
     {
@@ -478,6 +478,32 @@
     },
     {
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Bowdozen",
+          "url": "https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN"
+        },
+        {
+          "name": "Sebas Boxian",
+          "url": "https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "album": {
         "name": "Casualidad",
         "url": "https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI"
       },
@@ -533,7 +559,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
@@ -1135,6 +1161,24 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+    },
+    {
+      "album": {
+        "name": "El Proceso",
+        "url": "https://open.spotify.com/album/3mEPBqD1r3DVB7f3ajBpeF"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154264,
+      "name": "El Proceso",
+      "url": "https://open.spotify.com/track/0U7Np9KFcf7jWLvKUv1mn8"
     },
     {
       "album": {
@@ -2189,7 +2233,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 141613,
       "name": "Linda",
       "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"

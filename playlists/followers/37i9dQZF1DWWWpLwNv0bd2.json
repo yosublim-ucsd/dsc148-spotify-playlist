@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 85750,
+  "2024-01-21": 85834,
   "date_first_scraped": "2022-05-30",
   "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
@@ -2647,6 +2647,32 @@
       "duration_ms": 275526,
       "name": "Nee Vaadi",
       "url": "https://open.spotify.com/track/3ynz8Qsc8Cu1Dlm5jay7Eg"
+    },
+    {
+      "album": {
+        "name": "Nee Yen (From \"Nanban Oruvan Vantha Piragu\")",
+        "url": "https://open.spotify.com/album/7v76KC2Dbn3EfvKlntU084"
+      },
+      "artists": [
+        {
+          "name": "A H Kaashif",
+          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Amina Rafiq",
+          "url": "https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195611,
+      "name": "Nee Yen - From \"Nanban Oruvan Vantha Piragu\"",
+      "url": "https://open.spotify.com/track/1hnnb81r8wdcTJUU949ItA"
     },
     {
       "album": {

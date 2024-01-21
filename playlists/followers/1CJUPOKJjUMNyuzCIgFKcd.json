@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 24533,
+  "2024-01-21": 24526,
   "date_first_scraped": "2023-11-08",
   "description": "The freshest Hip Hop and R&amp;B. ",
   "name": "Fresh Out",
@@ -39,6 +39,24 @@
       "duration_ms": 160968,
       "name": "8 to Infinity",
       "url": "https://open.spotify.com/track/6f7Iyjqrggq7y25Zg4k97Y"
+    },
+    {
+      "album": {
+        "name": "ALBEE FOR PRESIDENT",
+        "url": "https://open.spotify.com/album/4s3rqqDuNBasYtxtNTluys"
+      },
+      "artists": [
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138031,
+      "name": "ALBEE FOR PRESIDENT",
+      "url": "https://open.spotify.com/track/3IvKy7X21KOm3cpiOSH7RJ"
     },
     {
       "album": {
@@ -151,7 +169,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 138187,
       "name": "booted",
       "url": "https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 212154,
       "name": "Chops on the Blade",
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 156655,
       "name": "Dem Freaky Girls",
       "url": "https://open.spotify.com/track/0dkBKkgLSkazEP8V058rnU"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131794,
       "name": "Elegant",
       "url": "https://open.spotify.com/track/10Ey3kdeqbBB2CuR3HmlWw"
@@ -624,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Forever On That",
+        "url": "https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128630,
+      "name": "Forever On That",
+      "url": "https://open.spotify.com/track/2DUuNEHxyeRz1JOZb9URyV"
+    },
+    {
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY"
       },
@@ -635,7 +671,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 205185,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv"
@@ -657,6 +693,54 @@
       "duration_ms": 144466,
       "name": "G Slim's Revenge",
       "url": "https://open.spotify.com/track/0yOapOAvr12TGvuELkWrW8"
+    },
+    {
+      "album": {
+        "name": "Ghetto Clicc",
+        "url": "https://open.spotify.com/album/2yDXVrACoYkEXfnn9U592m"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133311,
+      "name": "Ghetto Clicc",
+      "url": "https://open.spotify.com/track/3IpCm81pYbPf1iv4mzu733"
+    },
+    {
+      "album": {
+        "name": "Give & Give",
+        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159220,
+      "name": "Give & Give",
+      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
     },
     {
       "album": {
@@ -887,7 +971,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 141244,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7pWtaVnfDEr3Nh2rMKdXOL"
@@ -923,7 +1007,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 104000,
       "name": "Lake Lanier",
       "url": "https://open.spotify.com/track/79aaQYVOpTVL4Jpkmc0GDm"
@@ -963,7 +1047,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 206092,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
@@ -1025,7 +1109,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 125184,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/35gPF7j6rBRHKUe4zsXqry"
@@ -1054,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Don't Do Dat",
+        "url": "https://open.spotify.com/album/6w0ZhVuFb7LgKxXmRqXPqF"
+      },
+      "artists": [
+        {
+          "name": "Mgm Lett",
+          "url": "https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223114,
+      "name": "Low Ball - Remix",
+      "url": "https://open.spotify.com/track/3gATPSCZYSJ9iV2yFB616z"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
       },
@@ -1065,7 +1171,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 198620,
       "name": "Luv To A Fck Song",
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
@@ -1300,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "On My Mama Ass",
+        "url": "https://open.spotify.com/album/5UrayV5rvwrr70ZpB98HNu"
+      },
+      "artists": [
+        {
+          "name": "Drego & Beno",
+          "url": "https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131424,
+      "name": "On My Mama Ass",
+      "url": "https://open.spotify.com/track/04dRSYuMtJ8lohJbx81Bd3"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/4cc4Fu46gWTElZLYijeIUw"
       },
@@ -1438,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Scarred",
+        "url": "https://open.spotify.com/album/1LeDjsCPnuisL31DyZmNK9"
+      },
+      "artists": [
+        {
+          "name": "SNUPE BANDZ",
+          "url": "https://open.spotify.com/artist/72ltK39qT3DgtiCZgOAaGs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149784,
+      "name": "Scarred",
+      "url": "https://open.spotify.com/track/5S3KAtWAkHmsmsk0BCjVFi"
+    },
+    {
+      "album": {
         "name": "Shot Caller",
         "url": "https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8"
       },
@@ -1478,6 +1620,46 @@
     },
     {
       "album": {
+        "name": "Soak City (Jersey Club Mix)",
+        "url": "https://open.spotify.com/album/0KzvFOagAff8Bm1Z1Nwicy"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104044,
+      "name": "Soak City - Jersey Club Mix",
+      "url": "https://open.spotify.com/track/1vdv4a63CRR3DLMgbGfrOY"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3"
+    },
+    {
+      "album": {
         "name": "Special Bullets",
         "url": "https://open.spotify.com/album/5ZWXPmoIzPwqp8RdMnTXPy"
       },
@@ -1493,7 +1675,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 200753,
       "name": "Special Bullets",
       "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
@@ -1533,7 +1715,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228390,
       "name": "Summers Around The Corner",
       "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
@@ -1595,6 +1777,46 @@
       "duration_ms": 215009,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/6UiC7IU7ZGC5yk7kK2IwYQ"
+    },
+    {
+      "album": {
+        "name": "TIED IN",
+        "url": "https://open.spotify.com/album/3HE1LSdD2mF5ktHRo8emYt"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Tay Savage",
+          "url": "https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146917,
+      "name": "TIED IN",
+      "url": "https://open.spotify.com/track/4CX8FpuyAvLtwQcJb8r08H"
+    },
+    {
+      "album": {
+        "name": "Too Rare",
+        "url": "https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Too Rare",
+      "url": "https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD"
     },
     {
       "album": {
@@ -1679,6 +1901,24 @@
       "duration_ms": 146266,
       "name": "WHAT'S HATNIN",
       "url": "https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk"
+    },
+    {
+      "album": {
+        "name": "WHO AM I",
+        "url": "https://open.spotify.com/album/2DPeAIzefUfnTotr3hGJx6"
+      },
+      "artists": [
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "WHO AM I",
+      "url": "https://open.spotify.com/track/7dYlzIpwTpcuV53z2D6eTC"
     },
     {
       "album": {

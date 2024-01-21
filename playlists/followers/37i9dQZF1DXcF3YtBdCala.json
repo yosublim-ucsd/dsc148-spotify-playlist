@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 131586,
+  "2024-01-21": 131578,
   "date_first_scraped": "2022-09-07",
-  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Fatima Campo en portada. ",
+  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Adri\u00e1n Barraza en portada. ",
   "name": "Mariachi Joven",
   "tracks": [
     {
@@ -423,7 +423,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 210612,
       "name": "Catrinas y Mariachis",
       "url": "https://open.spotify.com/track/0tPQwEVvg9AxJjWUw0IX1F"
@@ -1067,10 +1067,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 164272,
       "name": "El que Quiero que Me Quiera",
       "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+    },
+    {
+      "album": {
+        "name": "El Sinaloense",
+        "url": "https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157285,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT"
     },
     {
       "album": {
@@ -2259,7 +2281,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 241728,
       "name": "No Quer\u00eda Enga\u00f1arte",
       "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
@@ -2902,6 +2924,24 @@
     },
     {
       "album": {
+        "name": "Solo Estoy Borracho",
+        "url": "https://open.spotify.com/album/4fchqiXSPg6fDhwNUJaSGb"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Barraza",
+          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173829,
+      "name": "Solo Estoy Borracho",
+      "url": "https://open.spotify.com/track/5HfTSXBmZK10JXgwdna5ct"
+    },
+    {
+      "album": {
         "name": "Soy de Parral",
         "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
       },
@@ -3195,7 +3235,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 215487,
       "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"

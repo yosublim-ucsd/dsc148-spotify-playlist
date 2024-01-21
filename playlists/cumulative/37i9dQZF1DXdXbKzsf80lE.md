@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-102 songs - 4 hr 56 min
+103 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2023-10-23 |  |
 | [Amarok](https://open.spotify.com/track/7bmzcwns5ucY3M5plcnqOn) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Amarok](https://open.spotify.com/album/1bYtrMSU6wEv1lvEOcCXXu) | 2:15 | 2023-10-23 |  |
 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 | 2023-10-23 |  |
+| [Amor Falso](https://open.spotify.com/track/0KlDHJm8yPsGdiNhYgEYWZ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Amor Falso](https://open.spotify.com/album/28EQ82s2vUSPiIH04ZOvVn) | 2:57 | 2023-10-23 |  |
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-10-23 |  |
 | [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 | 2023-10-23 | 2024-01-16 |
 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 | 2023-10-23 |  |
@@ -47,7 +48,7 @@
 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 | 2023-10-23 |  |
 | [Filho do Mato](https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Filho do Mato](https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r) | 2:52 | 2023-10-23 |  |
 | [Fingindo Maturidade \- Ao Vivo](https://open.spotify.com/track/3tU3UAasaDA9OixXGC3O33) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:09 | 2023-10-23 |  |
-| [Fora do Eixo \- Ao Vivo](https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [TBT WS 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C) | 2:23 | 2023-10-23 |  |
+| [Fora do Eixo \- Ao Vivo](https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [TBT WS 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C) | 2:23 | 2023-10-23 | 2024-01-21 |
 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 | 2023-10-23 |  |
 | [Hb20](https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:22 | 2023-10-23 |  |
 | [Hoje Tem](https://open.spotify.com/track/6PDVgIf7CRM0taohivuclB) | [VAQUEIRO SM](https://open.spotify.com/artist/3MssfeN0eWZ7eqqkfLEOA3), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Hoje Tem](https://open.spotify.com/album/7L8dDLzAgwLjwflKixuoza) | 2:48 | 2023-10-23 |  |

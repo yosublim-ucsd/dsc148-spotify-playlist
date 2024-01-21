@@ -4,7 +4,7 @@
 
 > 80s workout jams.
 
-53 songs - 3 hr 40 min
+54 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2023-01-20 |  |
 | [Break The Ice](https://open.spotify.com/track/4yypDIIxEtBeyo7ULGRvPn) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Rad \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Xs7sSHC66tRyOs3YC6ZOf) | 3:15 | 2023-01-20 |  |
 | [Dare](https://open.spotify.com/track/7DZcrMqgQiO4kotOGucIM7) | [Stan Bush](https://open.spotify.com/artist/7qT1EPkli4RDJ2KNynkQyQ) | [Transformers](https://open.spotify.com/album/6MB5ahz8dvKcoO3DVHrmgU) | 4:01 | 2023-01-20 |  |
-| [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust \(Expanded Edition\)](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 | 2023-01-20 |  |
+| [Don't Stop Runnin'](https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [In Rock We Trust \(Expanded Edition\)](https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p) | 4:21 | 2023-01-20 | 2024-01-21 |
+| [Don't Stop Runnin'](https://open.spotify.com/track/6Tr8quqaQyp4QFOaSpDVCw) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Earthquake \- The A&M Years](https://open.spotify.com/album/61RDXYzPiJBu45fMcs0UCR) | 4:22 | 2023-01-20 |  |
 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 | 2023-01-20 |  |
 | [Escape](https://open.spotify.com/track/0uohDwZcv1qjIKVsLsx0HD) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 5:16 | 2023-01-20 | 2023-12-10 |
 | [Escape \(2022 Remaster\)](https://open.spotify.com/track/20ai3uWFuWgutSWA8MRG50) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 5:16 | 2023-01-20 |  |

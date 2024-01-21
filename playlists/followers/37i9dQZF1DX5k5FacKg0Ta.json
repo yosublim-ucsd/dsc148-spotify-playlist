@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 10631,
+  "2024-01-21": 10631,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 465964,
       "name": "A Thing With Feathers",
       "url": "https://open.spotify.com/track/25patDyUz6247RVEzsEOpx"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 287750,
       "name": "Coast",
       "url": "https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 394746,
       "name": "Decoration - Alternative Version",
       "url": "https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228506,
       "name": "demolish, transform",
       "url": "https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 231710,
       "name": "Hover",
       "url": "https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat"
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 288254,
       "name": "Reida",
       "url": "https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK"
@@ -3689,7 +3689,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 404120,
       "name": "Vanhatie",
       "url": "https://open.spotify.com/track/2CKL9mnBSVyp25XD262LMM"
@@ -3829,6 +3829,36 @@
       "duration_ms": 337102,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx"
+    },
+    {
+      "album": {
+        "name": "Dahill Road",
+        "url": "https://open.spotify.com/album/1J3Um9qVAVl0xQd1LBYNwZ"
+      },
+      "artists": [
+        {
+          "name": "Kari Antila",
+          "url": "https://open.spotify.com/artist/4PkrAe6yjQa2FnOLJgRYeV"
+        },
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        },
+        {
+          "name": "Kaisa M\u00e4ensivu",
+          "url": "https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck"
+        },
+        {
+          "name": "Tuomas Timonen",
+          "url": "https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380084,
+      "name": "Wild Rooster",
+      "url": "https://open.spotify.com/track/4UMscCyJiimMbU2DAQTPxP"
     },
     {
       "album": {

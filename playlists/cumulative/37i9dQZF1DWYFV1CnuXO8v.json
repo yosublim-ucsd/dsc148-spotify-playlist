@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
@@ -1336,6 +1336,24 @@
       "duration_ms": 218322,
       "name": "El Okd",
       "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
+    },
+    {
+      "album": {
+        "name": "Elshamkh El Gowwani",
+        "url": "https://open.spotify.com/album/3AMNAJajdOaMy0HCXgKNEv"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184804,
+      "name": "Elshamkh El Gowwani",
+      "url": "https://open.spotify.com/track/4fZaR5eB12ZEJ8amHPq5Xy"
     },
     {
       "album": {
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 195535,
       "name": "Ya Bakhty Beh",
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 289123,
       "name": "\u0628\u0637\u0645\u0646\u0643",
       "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"

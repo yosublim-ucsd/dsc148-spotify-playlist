@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 73655,
+  "2024-01-21": 73666,
   "date_first_scraped": "2022-06-02",
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
@@ -856,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Corridos Autenticos",
+        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "La Venganza del Tah\u00far",
+      "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9mame Los Ojos (Remasterizado)",
         "url": "https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1"
       },
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 211226,
       "name": "Quisiera Tener Alas",
       "url": "https://open.spotify.com/track/2HTIJanLHMBCu6PpzvpruE"

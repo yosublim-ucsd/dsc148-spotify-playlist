@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 217039,
+  "num_followers": 217068,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQ1MzA0NWVjMDZmNTA2MGViODI3YTA3ZDNlYmIwZTY4NTJkYzNh",
+  "snapshot_id": "MCxkZWE4ZDZiNmYyNzhjMmU2ZDc4NzBjMjRiZTgxZjliNTA4ZTlmYjY1",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Sinf\u00f3nico 3",
-        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 512626,
-      "name": "Huapango de Moncayo",
-      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 324365,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Sinf\u00f3nico 3",
+        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 512626,
+      "name": "Huapango de Moncayo",
+      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Exitos De Chava Flores",
-        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
+        "name": "Antologia Musical 30 Exitos",
+        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
       },
       "artists": [
         {
-          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
-          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
+          "name": "Los Montanes Del Alamo",
+          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
         }
       ],
-      "duration_ms": 115013,
-      "name": "La Bartola",
-      "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
+      "duration_ms": 148986,
+      "name": "El Barrilito",
+      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Antologia Musical 30 Exitos",
-        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
+        "name": "Exitos De Chava Flores",
+        "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
       },
       "artists": [
         {
-          "name": "Los Montanes Del Alamo",
-          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
+          "name": "Chava Flores Con Mariachi Azteca Y Grupo La Miel",
+          "url": "https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Barrilito",
-      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
+      "duration_ms": 115013,
+      "name": "La Bartola",
+      "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Sus Mas Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 188654,
       "name": "Navegar",
       "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Colas",
-      "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Sus Mas Grandes Exitos",
-        "url": "https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS"
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
       },
       "artists": [
         {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
         }
       ],
-      "duration_ms": 164080,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
+      "duration_ms": 216133,
+      "name": "Colas",
+      "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
     },
     {
       "added_at": "2022-11-19 17:26:23",

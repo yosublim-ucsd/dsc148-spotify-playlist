@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 765071,
+  "num_followers": 765115,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWJhYTM0YjY3OWU1Mzk4NzFjMTBhMzViMzIzZmI4ZTNhYTI5YzA0",
+  "snapshot_id": "MCxlYTc5ZDcxODFkNjU0OTQwNDhkMWNkMmJlOTg4YzUwNWMyYjk5NTUy",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "BRING BACK THE COLOR (feat. AURORA)",
-        "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 168545,
-      "name": "BRING BACK THE COLOR (feat. AURORA)",
-      "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "BRING BACK THE COLOR (feat. AURORA)",
+        "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 168545,
+      "name": "BRING BACK THE COLOR (feat. AURORA)",
+      "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "feelthisway / 3000 miles",
-        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "feelthisway",
-      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Uh Uh",
         "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Silent Assassin",
-        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+        "name": "feelthisway / 3000 miles",
+        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 127880,
-      "name": "Silent Assassin",
-      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+      "duration_ms": 212307,
+      "name": "feelthisway",
+      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1303,6 +1283,26 @@
       "duration_ms": 221772,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1371,38 +1371,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "pullmecloser",
-        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         },
         {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
         }
       ],
-      "duration_ms": 150909,
-      "name": "pullmecloser",
-      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Nobody Compares",
-        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Nobody Compares",
-      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Nobody Compares",
+        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Nobody Compares",
+      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
       },
@@ -1443,6 +1443,26 @@
       "duration_ms": 294826,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "pullmecloser",
+        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "pullmecloser",
+      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1491,42 +1511,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 180668,
-      "name": "RUN INTO MY ARMS",
-      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "see u",
         "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
       },
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "The Art Of Change",
+        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 216222,
+      "name": "Downside Up",
+      "url": "https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "rampage (Pocket Remix)",
         "url": "https://open.spotify.com/album/2RHyf7lkHLzL4mqNI66s4V"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 141897,
       "name": "rampage - Pocket Remix",
       "url": "https://open.spotify.com/track/2meSgISukA3j8KOfRbU4AT"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "The Art Of Change",
-        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
-        }
-      ],
-      "duration_ms": 216222,
-      "name": "Downside Up",
-      "url": "https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Arrived too early / Have you",
-        "url": "https://open.spotify.com/album/3I4Nk1wslBKALwENz11oea"
+        "name": "deep in the water",
+        "url": "https://open.spotify.com/album/70GCYDi0vauSbd8AVTHDHI"
       },
       "artists": [
         {
-          "name": "Meridian",
-          "url": "https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm"
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
         }
       ],
-      "duration_ms": 172487,
-      "name": "Have you",
-      "url": "https://open.spotify.com/track/5ZPAYylfnIJJLAcH9uAvIg"
+      "duration_ms": 136000,
+      "name": "deep in the water",
+      "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
     },
     {
       "added_at": "2024-01-18 23:00:00",

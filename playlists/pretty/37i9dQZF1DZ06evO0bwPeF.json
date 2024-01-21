@@ -1,15 +1,15 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 7575,
+  "num_followers": 7574,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Mjc3NjUsMDAwMDAwMDBjYWFlOGI2MDBlMGM4MmMyNWJhOThiY2Y5NDAyYzNiMQ==",
+  "snapshot_id": "Mjg0Mjk0NzQsMDAwMDAwMDAzNDU2Yzk5MmVjMWQyZTY1NjMxNTU5MjJmYzdjNDlmZQ==",
   "tracks": [
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Exactly What You Wanted",
-      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
-    },
-    {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -73,39 +57,7 @@
       "url": "https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
-    },
-    {
-      "added_at": "2024-01-19 12:05:07",
-      "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Biscuits For Smut",
-      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
-    },
-    {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -121,7 +73,39 @@
       "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
+    },
+    {
+      "added_at": "2024-01-20 16:34:18",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Biscuits For Smut",
+      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
+    },
+    {
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Unsung: The Best Of Helmet 1991-1997",
         "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Exactly What You Wanted",
+      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
+    },
+    {
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -173,23 +173,7 @@
       "url": "https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Renovation",
-      "url": "https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq"
-    },
-    {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
@@ -205,7 +189,23 @@
       "url": "https://open.spotify.com/track/0EV6881kagOULo42517dMX"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Renovation",
+      "url": "https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq"
+    },
+    {
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Born Annoying",
         "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/4RssOVgoIlIeiEntLWc4fS"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Born Annoying",
         "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Left",
         "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA"
     },
     {
-      "added_at": "2024-01-19 12:05:07",
+      "added_at": "2024-01-20 16:34:18",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"

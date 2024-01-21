@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-525 songs - 1 day 2 hr 1 min
+526 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Freedom Reign](https://open.spotify.com/track/1JtoUj5crGlArogzjngLRp) | [Cat Rea](https://open.spotify.com/artist/2p5dxSCkyWzMfgCc77ulwi), [Joshua Luke Smith](https://open.spotify.com/artist/7mmASPkwqvMm4OKlncqud3) | [Freedom Reign](https://open.spotify.com/album/5dYFYlaAj5dEXybeo8hnVI) | 3:05 | 2022-02-04 | 2022-07-29 |
 | [FRONT ROW](https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [FRONT ROW](https://open.spotify.com/album/2OJbLHFcmhmEYLKXm5BByp) | 3:15 | 2022-02-04 | 2022-07-29 |
 | [FRONT ROW](https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:15 | 2022-07-17 | 2024-01-13 |
-| [Full Metal](https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Full Metal](https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp) | 3:20 | 2024-01-12 |  |
+| [Full Metal](https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Full Metal](https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp) | 3:20 | 2024-01-12 | 2024-01-21 |
 | [Futuro](https://open.spotify.com/track/5vdPe3HuuqPqBf6zEDFjf4) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Futuro](https://open.spotify.com/album/2sPGwed7st73dAYGJUwIIi) | 4:43 | 2022-02-04 | 2022-04-29 |
 | [FYE FYE](https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [FYE FYE](https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU) | 3:52 | 2022-02-04 | 2023-08-12 |
 | [Get It, Get It](https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [MAKEBA](https://open.spotify.com/artist/298U4nSkh4Zbb68nPuBYTn), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:10 | 2022-02-04 | 2022-07-09 |
@@ -355,6 +355,7 @@
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2022-02-04 | 2022-12-17 |
 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 | 2022-04-30 | 2023-08-12 |
 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\)](https://open.spotify.com/album/22fzYOuvqFYwtYGzsXn6SO) | 2:42 | 2022-02-04 | 2022-04-30 |
+| [PIM](https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [PIM](https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd) | 2:59 | 2024-01-12 |  |
 | [PLAN PLAN](https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [PLAN PLAN](https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX) | 2:48 | 2023-08-11 |  |
 | [Please](https://open.spotify.com/track/5TCAzaYt4Sem3GBIz84kCt) | [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Please](https://open.spotify.com/album/6HE02Rkx6slJ3lCdTmHlpL) | 3:00 | 2022-09-03 | 2022-11-05 |
 | [Poison](https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Poison](https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk) | 2:51 | 2022-04-30 | 2022-05-29 |

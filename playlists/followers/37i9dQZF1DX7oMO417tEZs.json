@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 146415,
+  "2024-01-21": 146441,
   "date_first_scraped": "2022-02-20",
-  "description": "new gems by artists carving their own lane. cover: Loukeman",
+  "description": "new gems by artists carving their own lane. cover: METTE, Sam Gellaitry",
   "name": "outliers",
   "tracks": [
     {
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 222585,
       "name": "attraction",
       "url": "https://open.spotify.com/track/4MrNdvDEin8XChCHaCzrlR"
@@ -4146,6 +4146,28 @@
     },
     {
       "album": {
+        "name": "DARLING DRIVE",
+        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199497,
+      "name": "DARLING DRIVE",
+      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "album": {
         "name": "Das U",
         "url": "https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf"
       },
@@ -5561,7 +5583,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 218093,
       "name": "Estrogen",
       "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
@@ -5867,6 +5889,28 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "album": {
+        "name": "Ezekiel's Wheel",
+        "url": "https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Ezekiel's Wheel",
+      "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
     },
     {
       "album": {
@@ -8119,6 +8163,24 @@
       "duration_ms": 185026,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb"
+    },
+    {
+      "album": {
+        "name": "Hold Him",
+        "url": "https://open.spotify.com/album/4DU0NqdcK5B0nWrrxYj4Ss"
+      },
+      "artists": [
+        {
+          "name": "Jesse Mac Cormack",
+          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235444,
+      "name": "Hold Him",
+      "url": "https://open.spotify.com/track/05PrnPGWceL8GlsdfkXeH3"
     },
     {
       "album": {
@@ -10638,6 +10700,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/4UoA00qH9Y1ik8Tn51wDdb"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150539,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1nnumC87suSMEnsL8aPlyL"
+    },
+    {
+      "album": {
         "name": "Look At What I'm Doing To You",
         "url": "https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H"
       },
@@ -10827,6 +10907,24 @@
       "duration_ms": 325828,
       "name": "Love Proceeding",
       "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
+    },
+    {
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
       "album": {
@@ -11785,7 +11883,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 255412,
       "name": "MODERN JAM (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
@@ -13135,7 +13233,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 128615,
       "name": "Olympian",
       "url": "https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF"
@@ -16049,7 +16147,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 127880,
       "name": "Silent Assassin",
       "url": "https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40"
@@ -16241,7 +16339,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203955,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/3aL5ZnB59jfM9Y3XJSICAu"
@@ -17010,6 +17108,24 @@
     },
     {
       "album": {
+        "name": "Staying here",
+        "url": "https://open.spotify.com/album/4DDUVn5H8hF2uf070myTWS"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Staying here",
+      "url": "https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v"
+    },
+    {
+      "album": {
         "name": "STEPMOM",
         "url": "https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ"
       },
@@ -17674,6 +17790,24 @@
     },
     {
       "album": {
+        "name": "take yr time",
+        "url": "https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0"
+      },
+      "artists": [
+        {
+          "name": "dad sports",
+          "url": "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236193,
+      "name": "take yr time",
+      "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
+    },
+    {
+      "album": {
         "name": "Talk To Myself",
         "url": "https://open.spotify.com/album/2tN4zvY9XDYJ3i2c4VtmWM"
       },
@@ -18095,7 +18229,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 212933,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
@@ -19377,7 +19511,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 255419,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca"
@@ -20683,6 +20817,24 @@
       "duration_ms": 157466,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"
+    },
+    {
+      "album": {
+        "name": "You Can Do Anything",
+        "url": "https://open.spotify.com/album/19rlZHkqLH1HQ8pS1Bnuyl"
+      },
+      "artists": [
+        {
+          "name": "Devon Welsh",
+          "url": "https://open.spotify.com/artist/7yGm0QgT6pUFP7LRgsIRiC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208244,
+      "name": "You Can Do Anything",
+      "url": "https://open.spotify.com/track/07tAjh5F3HTOFumG2XqMbc"
     },
     {
       "album": {

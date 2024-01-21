@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 24968,
+  "2024-01-21": 24990,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=LHfmiRwVRfaO-rRmOrHnUw\"> Ssaru</a> ",
   "name": "Gengetone Fire",
@@ -711,6 +711,24 @@
       "duration_ms": 209560,
       "name": "Big Bumpa",
       "url": "https://open.spotify.com/track/5Cz0TBJtKm79Q3X325U1Gc"
+    },
+    {
+      "album": {
+        "name": "Bigi Bigi Heavy Heavy",
+        "url": "https://open.spotify.com/album/4ZkPlwa5dSryOboM41jc6a"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Bigi Bigi Heavy Heavy",
+      "url": "https://open.spotify.com/track/3AUAjCbT8K7wzgGW5bqSCP"
     },
     {
       "album": {
@@ -3442,6 +3460,24 @@
     },
     {
       "album": {
+        "name": "Lele",
+        "url": "https://open.spotify.com/album/4ateNzAHL5OsXC3WunUgbu"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Lele",
+      "url": "https://open.spotify.com/track/1NlqheYPuFb5LveKKQA7dd"
+    },
+    {
+      "album": {
         "name": "LELE",
         "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
       },
@@ -4637,7 +4673,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 213288,
       "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
       "url": "https://open.spotify.com/track/4mmCwOqDjsHc60WUSA5hDB"
@@ -7365,7 +7401,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 151560,
       "name": "Watoto",
       "url": "https://open.spotify.com/track/1jrmvHoBCmufoYYCAP6A92"

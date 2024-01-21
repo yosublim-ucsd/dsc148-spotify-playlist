@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "CONVERSATIONS",
+        "url": "https://open.spotify.com/album/2iHT5ztZf8K1MSBEHYSaD4"
+      },
+      "artists": [
+        {
+          "name": "Ben Mitkus",
+          "url": "https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "CONVERSATIONS",
+      "url": "https://open.spotify.com/track/1pVK5e5Ho07k8qYsyyF9sA"
+    },
+    {
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt"
       },
@@ -7474,7 +7492,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 189356,
       "name": "If you wanna",
       "url": "https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE"
@@ -9253,6 +9271,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5ngt Fr\u00e5n Oss",
+        "url": "https://open.spotify.com/album/77GSL4W7WB7f3K5SoJfDIj"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "L\u00e5ngt fr\u00e5n oss",
+      "url": "https://open.spotify.com/track/4hpT7UuBHTfJPsvBhvk2ZF"
+    },
+    {
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -10770,7 +10806,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 187263,
       "name": "Oh My Gosh - Radio Edit",
       "url": "https://open.spotify.com/track/2Lkinol3uHMW16xzcxXmpK"

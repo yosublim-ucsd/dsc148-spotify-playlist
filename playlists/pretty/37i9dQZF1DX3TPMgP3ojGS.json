@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 400302,
+  "num_followers": 400496,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmM5MzE1NTc5ZTBmZmQ0ODRiNjY5Y2M3OWY2ZWE3NGFhZTQzMjBm",
+  "snapshot_id": "MCxkYzVlNGM5OGRhYTY2ZjdkYTliMjY5ZTY2YWY4NzNkNDUxMWY2MDU2",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
       },
       "artists": [
         {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
         }
       ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+      "duration_ms": 175492,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Adieux",
-        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
         }
       ],
-      "duration_ms": 175492,
-      "name": "Adieux",
-      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -267,22 +283,6 @@
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Autumn Sky",
-        "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Autumn Sky",
-      "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Schutter",
         "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+        "name": "Autumn Sky",
+        "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
       "artists": [
         {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+      "duration_ms": 158723,
+      "name": "Autumn Sky",
+      "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 173520,
       "name": "Diaphanous",
       "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
       "artists": [
         {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
         }
       ],
-      "duration_ms": 151750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
-      },
-      "artists": [
-        {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Brume Matinale",
         "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 166910,
       "name": "Brume Matinale",
       "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
-      },
-      "artists": [
-        {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 150898,
       "name": "Pines and Cedars",
       "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Whispering Oaks",
         "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
       },
@@ -1183,22 +1167,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -1211,22 +1179,6 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1247,6 +1199,38 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Valse Naturelle",
         "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Peggy's Cove",
+        "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 135344,
+      "name": "Peggy's Cove",
+      "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Peggy's Cove",
-        "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
       },
       "artists": [
         {
-          "name": "Sarah Watson",
-          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 135344,
-      "name": "Peggy's Cove",
-      "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 131451,
       "name": "Sonnet 1",
       "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "Felt Improv No. 4",
+        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 125500,
+      "name": "Felt Improv No. 4",
+      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
     }
   ],
   "unique_name": "Coffee and Piano",

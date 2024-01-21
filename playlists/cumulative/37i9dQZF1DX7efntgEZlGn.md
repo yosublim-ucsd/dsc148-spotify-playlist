@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-67 songs - 3 hr 59 min
+68 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [Adoration](https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc) | [Dafari](https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x) | [Preacher Bwoy](https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu) | 3:57 | 2022-04-13 |  |
 | [Anaweza](https://open.spotify.com/track/0kjoe34OL34ON1BiilcX2e) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Mwinda](https://open.spotify.com/artist/385E4qebI5ISB89FLVuP1w), [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [Shani](https://open.spotify.com/artist/6KYXhgWVbPSFpndvKW0jVe) | [Anaweza](https://open.spotify.com/album/6ihadbtYKqtsTJMWWBY3n3) | 3:20 | 2022-04-13 | 2023-10-13 |
 | [Anza Na Mimi](https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anza Na Mimi](https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL) | 3:42 | 2022-04-13 |  |
-| [Backslide](https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q) | 3:53 | 2022-04-13 |  |
+| [Backslide](https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q) | 3:53 | 2022-04-13 | 2024-01-21 |
 | [Backslide](https://open.spotify.com/track/6XGUIaVkvoyc5An6h0uotV) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/1SfBM3PER9TurMOWK7GC0S) | 3:53 | 2022-04-13 | 2022-11-12 |
+| [Backslide](https://open.spotify.com/track/6QTmofmaXx6UhmZoBUhEm2) | [Ringtone Apoko](https://open.spotify.com/artist/6sSiI4bXbeB2NvFuNQfZdd), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Zoea Mawe](https://open.spotify.com/album/2WCTcbQVS4ULy60l1cxwsB) | 3:53 | 2023-10-12 |  |
 | [Bless Me](https://open.spotify.com/track/0pBoHMgxGSbffE3GXHTOTw) | [Alemba](https://open.spotify.com/artist/6seiRQSfruP9bJmmLAxo9k) | [Bless Me](https://open.spotify.com/album/6kFhQl2OOFDdzxXx3NIHss) | 3:41 | 2022-04-13 |  |
 | [Blessings](https://open.spotify.com/track/1TFlHktKw98b1v1fnp7Ivx) | [Exodus Ug](https://open.spotify.com/artist/3y5h8SoIQSra1VQX5qWQoI) | [Blessings](https://open.spotify.com/album/4lzj9zBDLZQbhZxjx3PtUr) | 2:32 | 2022-04-13 |  |
 | [Breakthrough](https://open.spotify.com/track/75PIDjhtJiLKMMLzpZMMPR) | [Engincan Onar](https://open.spotify.com/artist/08WRe2gvrGn6UczJKbU9Il), [Havoc](https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ) | [Breakthrough](https://open.spotify.com/album/4u3F02QumGxaRq7GtQ3l7Z) | 2:19 | 2022-04-13 |  |

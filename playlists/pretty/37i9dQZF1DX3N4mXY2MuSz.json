@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 63765,
+  "num_followers": 63751,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg4ZTgxODQ3YWYyZGViYWUzNmY2YTYzNDMzYmJmNmQ2ZGMyMzYz",
+  "snapshot_id": "MCxkMTRmYWYyM2I0MjgzOGZkZDk1YTg4Y2JhMzQ4YmUxOTUyMTk1MTg2",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Merry MeX-mas",
-        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
-          "name": "El Vez",
-          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+      "duration_ms": 215293,
+      "name": "Deadbeat Holiday",
+      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Merry MeX-mas",
+        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+      },
+      "artists": [
+        {
+          "name": "El Vez",
+          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "The Goldfinger Christmas EP",
         "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 86386,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Deadbeat Holiday",
-      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Somewhere in My Memory",
-        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 149173,
-      "name": "Somewhere in My Memory",
-      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 200573,
       "name": "Punk Rawk Christmas",
       "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Somewhere in My Memory",
+        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 149173,
+      "name": "Somewhere in My Memory",
+      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Angels We Have Heard On High",
-        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 158475,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Don't Worry About Me",
         "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 122093,
       "name": "Spirit In My House",
       "url": "https://open.spotify.com/track/5S87B7MXk64ZQWCcY0rNUO"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 158475,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
     },
     {
       "added_at": "2023-11-18 13:41:26",

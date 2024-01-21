@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 16,
+  "2024-01-21": 16,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -16148,6 +16148,28 @@
     },
     {
       "album": {
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+    },
+    {
+      "album": {
         "name": "RAVE IN PARADISE (Official Free Festival 2023 Anthem)",
         "url": "https://open.spotify.com/album/78F9VFy8YV7AkrNnR9MO1h"
       },
@@ -16491,6 +16513,24 @@
       "duration_ms": 260405,
       "name": "Reignite",
       "url": "https://open.spotify.com/track/66WTBnBeDPlXFnVyAlQnLu"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/4M6c70SdokQgF2Rk4TydLZ"
+      },
+      "artists": [
+        {
+          "name": "Synergy",
+          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234497,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/25zILlagMmi16cFCsL5QtR"
     },
     {
       "album": {

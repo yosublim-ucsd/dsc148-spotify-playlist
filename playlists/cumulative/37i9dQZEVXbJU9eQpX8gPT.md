@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,303 songs - 2 day 23 hr 39 min
+1,304 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Apocalypse](https://open.spotify.com/track/1UuhP4ld1PizaMNCEyMjKW) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:54 | 2022-05-28 | 2022-05-30 |
 | [Arabi](https://open.spotify.com/track/6l9szU9SbBqJKLU3L2QXmi) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:56 | 2021-03-27\* | 2021-04-30 |
 | [ARABIA](https://open.spotify.com/track/6Fftfi28Rhi62jdy7jOnIC) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:34 | 2023-12-16 | 2023-12-30 |
-| [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 | 2023-01-05 |  |
+| [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 | 2023-01-05 | 2024-01-21 |
 | [Arahmini](https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:48 | 2022-10-22 | 2023-01-06 |
 | [Argent sal](https://open.spotify.com/track/4Jr3bWulhjhWAP3UlY3AdI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:14 | 2021-11-28 | 2021-11-28 |
 | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY) | 3:39 | 2022-11-22 | 2022-12-28 |
@@ -1303,6 +1303,7 @@
 | [Φ\. THEVIE RADIO](https://open.spotify.com/track/4URf8X1z0ZGaPemh0dKx2M) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:54 | 2021-04-30 | 2021-05-06 |
 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 | 2023-02-23 | 2023-05-28 |
 | [درجة درجة](https://open.spotify.com/track/1GrF2SzPPCOVyWHEhUrKUU) | [Lefaa](https://open.spotify.com/artist/0RmVpYw1xZbaawRQlwNGHW), [Amine Semma](https://open.spotify.com/artist/4DxhnaiklqCU8TSbG4UQrd) | [درجة درجة](https://open.spotify.com/album/3GJ9zOwjUAmZwOcazZLIYl) | 2:18 | 2022-03-15 | 2022-04-09 |
+| [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-20 |  |
 | [شوفو لامور مدار فيا](https://open.spotify.com/track/3c58Jl3ddpirlnR6mkEiED) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [شوفو لامور مدار فيا](https://open.spotify.com/album/1PTe3yvpsDEAOpN06oB0jv) | 3:06 | 2023-09-29 | 2023-10-04 |
 | [عُمر المُختار](https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [عُمر المُختار](https://open.spotify.com/album/4zdv7TVPcXeALi2xOPEOtE) | 2:36 | 2022-11-26 | 2022-12-06 |
 | [كازا ستريت](https://open.spotify.com/track/5I0qsItjiP7hBdl8tTxPxR) | [Dolly Pran](https://open.spotify.com/artist/1MfcuQQtxkJK7S9bzm9c4t) | [كازا ستريت](https://open.spotify.com/album/1wybKKtxNdfbYJpIgIBzmP) | 2:55 | 2023-02-14 | 2023-02-19 |

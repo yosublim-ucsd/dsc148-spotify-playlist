@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mumford & Sons \(pictured\), Nia Archives, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,406 likes - 122 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,458 likes - 122 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 49 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
 | 50 | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/album/4RZ6Y7BdFGtiqsDoIlFpum) | 3:52 |
 | 51 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
-| 52 | [Wasting Time with You](https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Triple Point](https://open.spotify.com/artist/45XSGhE6nqslKivrIYaAz5) | [Wasting Time With You](https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC) | 2:56 |
+| 52 | [Wasting Time with You](https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Triple Point](https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ) | [Wasting Time With You](https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC) | 2:56 |
 | 53 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 |
 | 54 | [EASY](https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [EASY](https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI) | 3:14 |
 | 55 | [Behind You](https://open.spotify.com/track/4YybzvfFAidKDqs7YKfQ4q) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Behind You](https://open.spotify.com/album/1dS7sSOYhA2rG8jxFWPO2Y) | 2:35 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [In Your Eyes](https://open.spotify.com/track/14qq1BqxguYojuOGaun0xW) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [In Your Eyes](https://open.spotify.com/album/5drImt8RdXUTgqSeFL12A8) | 3:49 |
 | 122 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
 
-Snapshot ID: `MCxhMDVmZjU2ODdlZWU0MzkyNjczZTdmNTE5Y2IxZWFkMzIyNTg0YTY2`
+Snapshot ID: `MCwxN2M3N2U5Njc3NTBiNWY3MjQzZDAzMWYzMWQ3MTg2ODk4OWYyZDdm`

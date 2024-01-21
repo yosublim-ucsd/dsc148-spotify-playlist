@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 118554,
+  "2024-01-21": 118549,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Austria.",
   "name": "Top 50 - Austria",
@@ -3983,6 +3983,32 @@
       "duration_ms": 171986,
       "name": "Be a Hoe/Break a Hoe",
       "url": "https://open.spotify.com/track/2NkKIjlfLa9o9Yfsq2tl99"
+    },
+    {
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4Vzf9MhOJ09RFDFbZoeXaG"
+      },
+      "artists": [
+        {
+          "name": "Musata",
+          "url": "https://open.spotify.com/artist/3hzvLkXg07qMzHEEPHwzSp"
+        },
+        {
+          "name": "Elle Mariachi",
+          "url": "https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY"
+        },
+        {
+          "name": "Rasoul Bahari",
+          "url": "https://open.spotify.com/artist/4fJ648yFf9KJsNtX7LoCOu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185639,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/25PdhSUDFc26Eb3pA9aOaz"
     },
     {
       "album": {
@@ -23191,7 +23217,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -25353,7 +25379,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -34891,6 +34917,24 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "album": {

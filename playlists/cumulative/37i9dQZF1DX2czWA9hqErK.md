@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-579 songs - 1 day 8 hr 32 min
+580 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Be Good Be Kind](https://open.spotify.com/track/4jASXavs4L1Z5p5QEfGD3e) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Be Good Be Kind](https://open.spotify.com/album/61cjUw6E7Jm1kfGRefBzS9) | 3:37 | 2022-02-14 | 2022-11-23 |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2021-12-16 | 2022-01-05 |
 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 | 2023-04-28 |  |
-| [Beach Song \- Demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Beach Song \(Demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 | 2023-11-21 |  |
+| [Beach Song \- Demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Beach Song \(Demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 | 2023-11-21 | 2024-01-21 |
 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 | 2022-01-17 | 2022-03-04 |
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2021-12-16 | 2022-02-22 |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-10-21 | 2023-02-16 |
@@ -310,6 +310,7 @@
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-03-25 | 2022-11-23 |
 | [Lies & Cheats](https://open.spotify.com/track/5CpAElXaFax1RVC8AU8dA4) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Lies & Cheats](https://open.spotify.com/album/4GWHyoDSIt73mzsGymN1Ey) | 3:46 | 2022-02-21 | 2022-07-13 |
 | [Life Goes On](https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:30 | 2023-05-16 |  |
+| [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-19 |  |
 | [Like I Do](https://open.spotify.com/track/7gL0h7uIZ6JA2tPv5OLTI8) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Like I Do](https://open.spotify.com/album/0AaaRwz24KqFzKlqYUfUuZ) | 3:12 | 2021-12-16 | 2021-12-28 |
 | [Lilah's Lullaby](https://open.spotify.com/track/6wKMPjmKoeXddZpRIapfPk) | [Lilah](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo) | [Lilah's Lullaby](https://open.spotify.com/album/2EabJgMuDeSBBBokB3l8QJ) | 2:52 | 2022-03-25 | 2022-04-10 |
 | [Limit](https://open.spotify.com/track/10YmqsYYIRO5x1ZS0h4DBg) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [issues, 1](https://open.spotify.com/album/2nzFjEnp0873I46TTiVy6Q) | 3:20 | 2022-03-25 | 2022-07-29 |

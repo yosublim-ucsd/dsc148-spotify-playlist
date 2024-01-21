@@ -4,7 +4,7 @@
 
 > pov, you ask for your Martini shaken...
 
-50 songs - 2 hr 38 min
+51 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,11 @@
 | [Perfume from Panama](https://open.spotify.com/track/7FDf7bbsUsjMA5rs8ogC7Q) | [Syd Dale](https://open.spotify.com/artist/3zIU8LPjTkHA4kvYK4UrM4) | [Kpm Brownsleeves: Kpmlpb 40](https://open.spotify.com/album/0sUArLCg49QIhiquQuT8zh) | 2:36 | 2021-10-21 |  |
 | [Prestige Production](https://open.spotify.com/track/0V4KebkV3eBkb5FbsnHlC9) | [Neil Richardson](https://open.spotify.com/artist/7EkKwcqYPySE4sq6H4wjae) | [Kpm 1000 Series: Impact and Action \- Volume II](https://open.spotify.com/album/0ZPW807OV3f8XgnpJ7YGIs) | 2:08 | 2021-10-21 |  |
 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 | 2021-10-21 |  |
-| [Snowman's Stomp](https://open.spotify.com/track/0SSY1p3h2sQQ2QCz5BEVWk) | [Steve Gray](https://open.spotify.com/artist/2ITKeobWesOAd2RVpagAKu) | [Kpm 1000 Series: Light Intimations IV](https://open.spotify.com/album/3ISBOxXyGunLSTi2L0tDn7) | 2:27 | 2021-10-21 |  |
+| [Snowman's Stomp](https://open.spotify.com/track/0SSY1p3h2sQQ2QCz5BEVWk) | [Steve Gray](https://open.spotify.com/artist/2ITKeobWesOAd2RVpagAKu) | [Kpm 1000 Series: Light Intimations IV](https://open.spotify.com/album/3ISBOxXyGunLSTi2L0tDn7) | 2:27 | 2021-10-21 | 2024-01-21 |
 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 | 2021-10-21 |  |
 | [Solstice](https://open.spotify.com/track/6zaXiO68HYdJZY8skqLjSG) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Voyage \(Expanded Edition\)](https://open.spotify.com/album/1Joy0x6RhvcpifPV0LESG5) | 6:20 | 2021-10-21 |  |
 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 | 2022-04-17 |  |
+| [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2021-10-21 |  |
 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 | 2021-10-21 |  |
 | [Survivor](https://open.spotify.com/track/413Iz32UCzyMh7AAPdUtLB) | [Klaus Weiss](https://open.spotify.com/artist/0KPSMJaJZl9IpAIVsXkrDz) | [Time Signals](https://open.spotify.com/album/6KwO3tSkwEzoknDeb8ABwS) | 2:43 | 2021-10-21 |  |
 | [Tha Boogee](https://open.spotify.com/track/4eh6JnrqfUX7mg335YvAIT) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze Of Sounds](https://open.spotify.com/album/4BZG7akPQogYTeomJQ363I) | 7:08 | 2021-10-21 |  |

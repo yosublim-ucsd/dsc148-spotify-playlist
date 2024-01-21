@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 174678,
+  "2024-01-21": 174943,
   "date_first_scraped": "2022-05-19",
   "description": "Instrumental Smooth Jazz for relaxing.",
   "name": "Smooth Jazz Chill",
@@ -507,6 +507,24 @@
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
     },
     {
       "album": {
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 264440,
       "name": "When You Love Somebody",
       "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"

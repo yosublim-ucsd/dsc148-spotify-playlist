@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 595451,
+  "2024-01-21": 595498,
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4FGuhMc7yWmxgyIZNGSKN7\">Christ For The Nations Worship</a> y <a href=\"spotify:artist:6C0t2XuoPExvGxcVfo7aHc\">Waleska Morales</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2gaFnEQydJdWNkT17NLZm3\">Su Presencia</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -669,6 +669,24 @@
       "duration_ms": 357785,
       "name": "Aleluya (Gloria al Rey) - Live",
       "url": "https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT"
+    },
+    {
+      "album": {
+        "name": "Alfa y Omega",
+        "url": "https://open.spotify.com/album/30ehu6FY25gNWwenvfomRJ"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235208,
+      "name": "Alfa y Omega",
+      "url": "https://open.spotify.com/track/7oNR16Yh6UQCcWOhATDBWv"
     },
     {
       "album": {
@@ -3125,7 +3143,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 174757,
       "name": "DIOS HA SIDO BUENO",
       "url": "https://open.spotify.com/track/7sEy4iTAuRNq3aPxWlDwFT"
@@ -6365,7 +6383,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228645,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
@@ -6413,6 +6431,24 @@
       "duration_ms": 213626,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/36x553RD2lK8K06dk5PrBu"
+    },
+    {
+      "album": {
+        "name": "Mi Dios",
+        "url": "https://open.spotify.com/album/68S4U4EgrNATOAXJlIUE5d"
+      },
+      "artists": [
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153111,
+      "name": "Mi Dios",
+      "url": "https://open.spotify.com/track/38eCF3e9p6t5gdI7yekbLe"
     },
     {
       "album": {
@@ -6801,7 +6837,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189075,
       "name": "M\u00e1s De Ti - En Vivo",
       "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
@@ -8032,6 +8068,24 @@
     },
     {
       "album": {
+        "name": "VEINTITRES (Deluxe)",
+        "url": "https://open.spotify.com/album/77cKQFZipHsTUGlJUCzCe8"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142527,
+      "name": "QUE TIENE DE MALO",
+      "url": "https://open.spotify.com/track/2XkZoV77TGMaAF8IR5w4I4"
+    },
+    {
+      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/0xJK9fV0Kj0D5LQsVFOtbK"
       },
@@ -8941,7 +8995,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 191620,
       "name": "So Good (Cu\u00e1n Bueno) (feat. Lilly Goodman)",
       "url": "https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1"
@@ -10064,6 +10118,28 @@
     },
     {
       "album": {
+        "name": "Tu Presencia Es Mi Todo",
+        "url": "https://open.spotify.com/album/3rryHlPPzzzrfOlKXRHw1W"
+      },
+      "artists": [
+        {
+          "name": "Patricio Vasquez",
+          "url": "https://open.spotify.com/artist/7rvS0KknOkxbvgeQyHi5gW"
+        },
+        {
+          "name": "Franco Figueroa",
+          "url": "https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344779,
+      "name": "Tu Presencia Es Mi Todo",
+      "url": "https://open.spotify.com/track/63i8lYUFY79ES7y3OICBD1"
+    },
+    {
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -10586,6 +10662,32 @@
     },
     {
       "album": {
+        "name": "Vida Entera",
+        "url": "https://open.spotify.com/album/3GR6VDh5t9VOJRUUZ54V95"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Vida Entera",
+      "url": "https://open.spotify.com/track/6XPBzkZhTkExDvmAoNNIfg"
+    },
+    {
+      "album": {
         "name": "Viento Fresco",
         "url": "https://open.spotify.com/album/7k8lpoxrvk6P3QLRq1lfT9"
       },
@@ -10853,7 +10955,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226519,
       "name": "Yo Creo",
       "url": "https://open.spotify.com/track/0CvHQgWdxvSQmdwSeS38qf"

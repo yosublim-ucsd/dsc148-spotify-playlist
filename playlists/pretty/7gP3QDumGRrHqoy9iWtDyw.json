@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22460,
+  "num_followers": 22461,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "MjIxOSxiZTQyOGIwZGJjYTFkYjEzNDAwZTI3Yjg1MzljNmYwZTEwMjNhMGI3",
+  "snapshot_id": "MjIzNyw4ODk1ZDEyMzRmMmIwNWQ3YjMwOTIxYjc2OTlkMTg2ODM0MWIwMzdk",
   "tracks": [
     {
       "added_at": "2024-01-01 21:03:03",
@@ -27,6 +27,22 @@
       "duration_ms": 205454,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm"
+    },
+    {
+      "added_at": "2024-01-20 10:59:32",
+      "album": {
+        "name": "Its a House Thing",
+        "url": "https://open.spotify.com/album/31C15JvMgxiEl8CWAIe343"
+      },
+      "artists": [
+        {
+          "name": "Trimtone",
+          "url": "https://open.spotify.com/artist/4vkaR1SopziU4PUeEvhnoI"
+        }
+      ],
+      "duration_ms": 350375,
+      "name": "Its a House Thing - Extended Mix",
+      "url": "https://open.spotify.com/track/4OPPXzt27suid0jPCAKiHS"
     },
     {
       "added_at": "2024-01-19 21:11:17",
@@ -59,6 +75,22 @@
       "duration_ms": 285000,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/2aAUJ4tTjFHrQ3VGta9JHl"
+    },
+    {
+      "added_at": "2024-01-20 11:14:17",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw"
+      },
+      "artists": [
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
     },
     {
       "added_at": "2024-01-19 21:21:28",
@@ -165,22 +197,6 @@
       "url": "https://open.spotify.com/track/6MQQus7RpPd8ctQUnUwTnf"
     },
     {
-      "added_at": "2023-12-26 19:40:48",
-      "album": {
-        "name": "Paris Is Burnin'",
-        "url": "https://open.spotify.com/album/3NWTdCmKURYI7K5vm8tvKa"
-      },
-      "artists": [
-        {
-          "name": "Clyde P",
-          "url": "https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1"
-        }
-      ],
-      "duration_ms": 214530,
-      "name": "Paris Is Burnin'",
-      "url": "https://open.spotify.com/track/17Com92EPIIZXW3rajxS7t"
-    },
-    {
       "added_at": "2024-01-19 21:43:37",
       "album": {
         "name": "You & Me (Rivo Remix)",
@@ -225,6 +241,38 @@
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
     },
     {
+      "added_at": "2024-01-19 21:17:36",
+      "album": {
+        "name": "Thalasso",
+        "url": "https://open.spotify.com/album/42Mhw6cVuq6uRi9BDlqTED"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Thalasso - Original Mix",
+      "url": "https://open.spotify.com/track/5pQowej3sfwIJpr4YSu60e"
+    },
+    {
+      "added_at": "2023-12-26 19:40:48",
+      "album": {
+        "name": "Paris Is Burnin'",
+        "url": "https://open.spotify.com/album/3NWTdCmKURYI7K5vm8tvKa"
+      },
+      "artists": [
+        {
+          "name": "Clyde P",
+          "url": "https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1"
+        }
+      ],
+      "duration_ms": 214530,
+      "name": "Paris Is Burnin'",
+      "url": "https://open.spotify.com/track/17Com92EPIIZXW3rajxS7t"
+    },
+    {
       "added_at": "2023-12-26 19:42:01",
       "album": {
         "name": "You Know Where The Floor Is",
@@ -243,38 +291,6 @@
       "duration_ms": 228661,
       "name": "You Know Where The Floor Is",
       "url": "https://open.spotify.com/track/1RnEVv1M950IEiklbd01j1"
-    },
-    {
-      "added_at": "2024-01-19 21:17:36",
-      "album": {
-        "name": "Thalasso",
-        "url": "https://open.spotify.com/album/42Mhw6cVuq6uRi9BDlqTED"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Thalasso - Original Mix",
-      "url": "https://open.spotify.com/track/5pQowej3sfwIJpr4YSu60e"
-    },
-    {
-      "added_at": "2023-12-26 19:45:50",
-      "album": {
-        "name": "Renegade 2.1",
-        "url": "https://open.spotify.com/album/1ZUbEH6WN7mb313k8jTZfi"
-      },
-      "artists": [
-        {
-          "name": "DOUG!",
-          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Renegade 2.1",
-      "url": "https://open.spotify.com/track/5e5fpGZ2dy3aiJZ4clylAt"
     },
     {
       "added_at": "2023-12-26 19:43:53",
@@ -470,6 +486,10 @@
         {
           "name": "Nick Curly",
           "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
+        },
+        {
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
         }
       ],
       "duration_ms": 206254,
@@ -2669,58 +2689,6 @@
       "url": "https://open.spotify.com/track/1WXqBRHwlkNGHHeSzw2tjA"
     },
     {
-      "added_at": "2022-10-21 08:52:14",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller",
-          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
-        }
-      ],
-      "duration_ms": 192411,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9"
-    },
-    {
-      "added_at": "2022-10-01 15:56:25",
-      "album": {
-        "name": "Don Malaa",
-        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Discipline (with Tchami)",
-      "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
-    },
-    {
-      "added_at": "2022-10-21 08:54:21",
-      "album": {
-        "name": "Raw In",
-        "url": "https://open.spotify.com/album/5nogzArwmDwiUTFu0V6LWN"
-      },
-      "artists": [
-        {
-          "name": "Mr. Cookie",
-          "url": "https://open.spotify.com/artist/2hu3E0yzrDIbf0i4l4NIvn"
-        }
-      ],
-      "duration_ms": 178063,
-      "name": "Raw Wave in My House - Fun Mix",
-      "url": "https://open.spotify.com/track/4JxEv3XQCUCqwgVx9eC3vh"
-    },
-    {
       "added_at": "2022-10-03 20:34:37",
       "album": {
         "name": "Don Malaa",
@@ -2743,42 +2711,6 @@
       "duration_ms": 150000,
       "name": "Die Hard (with Ghostface Killah & A-Trak)",
       "url": "https://open.spotify.com/track/0AjeEIFvdzjn4AtAtzzwBH"
-    },
-    {
-      "added_at": "2022-08-20 12:27:48",
-      "album": {
-        "name": "Afraid To Feel (CID Remix)",
-        "url": "https://open.spotify.com/album/1QxcMxNHAkFTSULS2RbRck"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        },
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Afraid To Feel - CID Remix",
-      "url": "https://open.spotify.com/track/1mvypEtmZxHz1GT6zaW67g"
-    },
-    {
-      "added_at": "2022-08-20 14:52:49",
-      "album": {
-        "name": "Get After It",
-        "url": "https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 178837,
-      "name": "Get After It",
-      "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
     },
     {
       "added_at": "2022-09-09 18:22:42",
@@ -2829,58 +2761,6 @@
       "url": "https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy"
     },
     {
-      "added_at": "2022-08-23 18:55:51",
-      "album": {
-        "name": "In My System EP",
-        "url": "https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 368840,
-      "name": "The Feeling - 2022 Remaster",
-      "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
-    },
-    {
-      "added_at": "2022-08-23 13:21:45",
-      "album": {
-        "name": "Da Fonk (feat. Joni)",
-        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "Joni",
-          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
-        }
-      ],
-      "duration_ms": 366141,
-      "name": "Da Fonk (feat. Joni)",
-      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
-    },
-    {
-      "added_at": "2022-08-20 14:50:42",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/2nsc6sXh3kcuNLh7aI6XAC"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 444578,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/09ZvCPAcFmFBGDAMS23Gc0"
-    },
-    {
       "added_at": "2022-08-23 18:50:55",
       "album": {
         "name": "No Worries '22",
@@ -2911,22 +2791,6 @@
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
-    },
-    {
-      "added_at": "2022-08-20 15:01:21",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/1bH1PACzw0Q1JkI6szxA4m"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/5tHokMQ1Hf1zmr6gQFe5ix"
     },
     {
       "added_at": "2022-08-11 18:29:57",
@@ -2991,26 +2855,6 @@
       "duration_ms": 152669,
       "name": "Dancing Clich\u00e9",
       "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
-    },
-    {
-      "added_at": "2020-08-21 15:39:58",
-      "album": {
-        "name": "Tequila Sunrise",
-        "url": "https://open.spotify.com/album/3D1LBVUW3Qnjrc9ApJmwF9"
-      },
-      "artists": [
-        {
-          "name": "MKJAY",
-          "url": "https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC"
-        },
-        {
-          "name": "Cesar Nardini",
-          "url": "https://open.spotify.com/artist/0a7dijn46vYeuOxZ31dH1R"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Tequila Sunrise - Radio Edit",
-      "url": "https://open.spotify.com/track/0l2PuFGq2AjyKOHCLbT3Pa"
     },
     {
       "added_at": "2020-05-21 10:16:56",

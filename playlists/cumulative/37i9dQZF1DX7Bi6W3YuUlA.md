@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-372 songs - 18 hr 38 min
+373 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-05-28 | 2022-07-24 |
 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-11-18 |  |
 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 | 2023-02-18 |  |
+| [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2023-02-18 |  |
 | [Grateful](https://open.spotify.com/track/71zr0NvefhBcxGr3I1tz9n) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Grateful](https://open.spotify.com/album/0bOUYrO3nah1TG2foN7xAg) | 3:48 | 2021-12-11 | 2022-07-24 |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2022-11-18 |  |
 | [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-02-18 |  |
@@ -302,7 +303,7 @@
 | [Shine On](https://open.spotify.com/track/4dFqFcPnrG6JvK9etOgPaG) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Des Monroe](https://open.spotify.com/artist/4ibVa9XbiwphvO1r8TkslV) | [Shine On](https://open.spotify.com/album/3mF8bo5vU8c4HfEvi3TGDl) | 3:48 | 2021-12-11 | 2022-07-29 |
 | [SHINING](https://open.spotify.com/track/3Ng0ZXSlo5E1CAgE6AhDhJ) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [SHINING](https://open.spotify.com/album/4xXHhKvDWcxLJop14TEv53) | 3:20 | 2022-11-18 | 2023-01-12 |
 | [Shots Fired](https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 3:47 | 2021-12-11 | 2022-05-17 |
-| [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 | 2022-11-18 |  |
+| [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 | 2022-11-18 | 2024-01-21 |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2022-11-18 |  |
 | [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 | 2022-11-18 |  |
 | [Solar System](https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Solar System](https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5) | 2:57 | 2022-03-19 | 2022-11-19 |

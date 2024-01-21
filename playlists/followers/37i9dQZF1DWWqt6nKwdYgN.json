@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 12670,
+  "2024-01-21": 12683,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
   "name": "Rimas Frescas ",
@@ -761,6 +761,28 @@
       "duration_ms": 130289,
       "name": "BAJO PRESI\u00d3N",
       "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
+    },
+    {
+      "album": {
+        "name": "Barless",
+        "url": "https://open.spotify.com/album/1tlyqcvUEoQKD2np5clBk3"
+      },
+      "artists": [
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        },
+        {
+          "name": "Pezcatore",
+          "url": "https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200842,
+      "name": "Barless",
+      "url": "https://open.spotify.com/track/6DKZE52bxRiJTCzALO8Tnu"
     },
     {
       "album": {
@@ -1885,7 +1907,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202162,
       "name": "Cuando te miro",
       "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
@@ -2009,7 +2031,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 339692,
       "name": "Cumbia Guanajuato",
       "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
@@ -2777,7 +2799,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 201000,
       "name": "En Abril",
       "url": "https://open.spotify.com/track/1nyP1aYcgxrpCPXg09DP0W"
@@ -3291,7 +3313,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 152231,
       "name": "Finomeno #33 A.K.A Inimaini",
       "url": "https://open.spotify.com/track/0rqjXJjiL7oAGYx2Py5pLM"
@@ -3365,7 +3387,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
@@ -4519,10 +4541,32 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 256459,
       "name": "La Vecindad del Vago",
       "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "album": {
@@ -5730,6 +5774,24 @@
     },
     {
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
+    },
+    {
+      "album": {
         "name": "El Club de los Corazones Rotos",
         "url": "https://open.spotify.com/album/2ca7B1O0x0BvhPol7TZPw9"
       },
@@ -6159,6 +6221,32 @@
       "duration_ms": 206764,
       "name": "Nazar\u00e9",
       "url": "https://open.spotify.com/track/4iXU5c8qfR7gafp6BncoIS"
+    },
+    {
+      "album": {
+        "name": "Ni Con Money",
+        "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Ni Con Money",
+      "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
     },
     {
       "album": {
@@ -7836,6 +7924,28 @@
     },
     {
       "album": {
+        "name": "Rest in beat",
+        "url": "https://open.spotify.com/album/0FF1yX4VTl0n9XhvPUb0ln"
+      },
+      "artists": [
+        {
+          "name": "El Fil\u00f3sofo Mc",
+          "url": "https://open.spotify.com/artist/14NnDazYqxol1WrVeS0NWH"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Rest in beat",
+      "url": "https://open.spotify.com/track/0q9SbutFAlwCp9rLeA7sTt"
+    },
+    {
+      "album": {
         "name": "Resurgir",
         "url": "https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx"
       },
@@ -8149,6 +8259,28 @@
       "duration_ms": 198666,
       "name": "Session 1 (Mucho Bla Bla)",
       "url": "https://open.spotify.com/track/5eMRlGxzc6Ffg2aGt1Epn3"
+    },
+    {
+      "album": {
+        "name": "Si La Ven",
+        "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Radio MC",
+          "url": "https://open.spotify.com/artist/1T4LhoAQYA8Wqy9VdwX4gg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Si La Ven",
+      "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
     },
     {
       "album": {
@@ -8668,6 +8800,32 @@
     },
     {
       "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246785,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
+    },
+    {
+      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
       },
@@ -8763,7 +8921,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 144000,
       "name": "Trendi",
       "url": "https://open.spotify.com/track/0RdBFw9TfRCXJsqQNimbM3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mitchell Tenpenny, Megan Moroney, Chase Matthew and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,070 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,333 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 24 | [Lasso The Moon](https://open.spotify.com/track/5hyHTO27LElrlEUVXTfTxB) | [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [Lasso The Moon](https://open.spotify.com/album/6i0yllilua31yVEQBrf5N2) | 2:55 |
 | 25 | [american dream](https://open.spotify.com/track/6Koj5ejCeCF8yoxqql8lb2) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [dear dolly](https://open.spotify.com/album/6t9kuRQWETA62U9tUH2Qxi) | 3:24 |
 | 26 | [Toxic](https://open.spotify.com/track/2dMW5A1yK8inDm51HmDK9o) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Toxic](https://open.spotify.com/album/0OGuRRahO6PnZ2FZ96bJSV) | 3:03 |
-| 27 | ["Fall For You"](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | ["Fall For You"](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 |
+| 27 | [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 |
 | 28 | [Take Me Home, Country Roads](https://open.spotify.com/track/1FoSW84RqEgKq7PImq6EZe) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Take Me Home, Country Roads](https://open.spotify.com/album/3cWsp8KzGgpcMsnHIJ2j8P) | 2:56 |
 | 29 | [Bless the Broken Road](https://open.spotify.com/track/28AHuDDyNG9Qv5y1x4oiYO) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Bless the Broken Road](https://open.spotify.com/album/7bh9FtIvWvRLMzI3K8fH0a) | 3:50 |
 | 30 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 76 | [Man Made Money](https://open.spotify.com/track/00WXFJrE35kAuxbXVyAPvl) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Man Made Money](https://open.spotify.com/album/6Ysz6yS037oMTh0ShtHY2v) | 3:11 |
 | 77 | [They Both Know](https://open.spotify.com/track/0yARtajL88QrQy72rS1Kbt) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG) | [They Both Know](https://open.spotify.com/album/3GCvJTWom3oUOcUD5SzIux) | 2:55 |
 
-Snapshot ID: `MCwwYzNkZTdjZjM4M2ZhODQ4OTU3NWQ0ZTI4OTI0MTMyNzA0ZDQzNjIx`
+Snapshot ID: `MCw1NmUyOGY4NGRlMjEzODUzMTYyOTQ1OGE3OGU3YTkyYTFiZTBjMWRl`

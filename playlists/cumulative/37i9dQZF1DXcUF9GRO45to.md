@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-293 songs - 18 hr 38 min
+294 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 | 2023-02-28 |
 | [Keep Up Until It Bleeds](https://open.spotify.com/track/7FMF5tM8SyGbw7o6pCOKYZ) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Keep Up Until It Bleeds](https://open.spotify.com/album/4wyMHDo55NpyDa14Bc5S4c) | 4:31 | 2022-06-30 | 2023-03-11 |
 | [Khalil](https://open.spotify.com/track/2R0p97M11bb2W7vBKBLA5i) | [Rescue Rangers](https://open.spotify.com/artist/6erPxLLPCkVjBrW6BTylq0) | [Join Hate](https://open.spotify.com/album/2nng9pWpHHSSGGLJnROHTP) | 3:43 | 2022-01-14 | 2022-04-18 |
-| [Killing God](https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 3:35 | 2023-07-05 | 2024-01-18 |
+| [Killing God](https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 3:35 | 2023-07-05 |  |
 | [Killing Hallelujah](https://open.spotify.com/track/4tOw9SWHCcg9oDROjeuJlJ) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 6:00 | 2023-06-29 |  |
 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 | 2021-12-31 |  |
 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 | 2021-12-31 |  |
@@ -175,7 +175,7 @@
 | [Mr\. Perfect](https://open.spotify.com/track/43XPO9j08EgaPyGwsCjxpz) | [Holy Fake News](https://open.spotify.com/artist/6HGor9KJpMcOImEhrQpWy4) | [Holy Fake News](https://open.spotify.com/album/5ZBR50XOCNosCl7XB2vi15) | 3:36 | 2022-01-03 | 2022-07-25 |
 | [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2022-07-28 |
 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 | 2022-04-17 |  |
-| [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 |  |
+| [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 | 2024-01-21 |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2022-04-17 | 2023-04-14 |
 | [Negativity](https://open.spotify.com/track/0hwG6egZXGibubr52Av5df) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Negativity](https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t) | 3:57 | 2023-06-29 | 2023-10-13 |
 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 | 2022-06-30 | 2022-11-06 |
@@ -254,7 +254,7 @@
 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 | 2021-12-15 | 2023-02-03 |
 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 | 2021-12-15 |  |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-06-30 | 2022-11-29 |
-| [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-11-16 |  |
+| [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-11-16 | 2024-01-21 |
 | [Strike a Match](https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future Is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 3:05 | 2023-06-29 | 2024-01-05 |
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2024-01-19 |  |
 | [Sunrise](https://open.spotify.com/track/5zDnFCQy804gmYYe02VZ9F) | [Decasia](https://open.spotify.com/artist/7HuU0xtOHlU4CPZs4sGoUW) | [Sunrise](https://open.spotify.com/album/0uZPHLJrKG5hv8bS6BCPe8) | 6:05 | 2022-04-04 | 2022-07-14 |
@@ -272,6 +272,7 @@
 | [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 | 2023-11-11 |
 | [The Party](https://open.spotify.com/track/763AHSnGhS2mBy5jhdGUio) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/449OW4ceXx64cWDDCrHM0i) | 3:15 | 2022-01-27 | 2022-04-20 |
 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 | 2022-03-24 |  |
+| [The Second Take](https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W) | [Do Not Machine](https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE) | [The Second Take](https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf) | 3:40 | 2024-01-19 |  |
 | [The Shining of My Soul](https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [The Shining of My Soul](https://open.spotify.com/album/2S8lZl5Y49kMG4UiXpdhvn) | 3:30 | 2021-12-15 | 2023-01-15 |
 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 | 2022-04-27 | 2023-04-25 |
 | [Till the end](https://open.spotify.com/track/65P1Nt30UcP5dXuhqlCe5C) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Human disorder](https://open.spotify.com/album/7pqfT0igQtjHaDnYChZjCl) | 2:32 | 2023-08-24 | 2023-10-13 |

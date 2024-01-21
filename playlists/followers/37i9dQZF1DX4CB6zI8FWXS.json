@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 87425,
+  "2024-01-21": 87428,
   "date_first_scraped": "2023-03-19",
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Joey Bada$$",
   "name": "Groovin' R&B",
@@ -4643,10 +4643,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208000,
       "name": "Rio Tokyo",
       "url": "https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL"
+    },
+    {
+      "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz"
+      },
+      "artists": [
+        {
+          "name": "Celeina Ann",
+          "url": "https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Rio Tokyo",
+      "url": "https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c"
     },
     {
       "album": {

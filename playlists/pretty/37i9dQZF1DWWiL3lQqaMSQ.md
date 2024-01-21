@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the 2023 nominees in one playlist! More info on this year's event can be found at <a href="https://www.thestellarawards.com/index.html">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 69 | [I Will Rejoice](https://open.spotify.com/track/1ySFwD8zFrEbrBQEXD2Po4) | [Dulaneyland Music](https://open.spotify.com/artist/4lPHaqNFHpsvmZqggig0dq), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Morning Songs](https://open.spotify.com/album/6KK9TRZHA5WvYyjQmtjYG2) | 4:10 |
 | 70 | [Confidence \- Live](https://open.spotify.com/track/2VfZzYhwL2OwmPlXPNrkvJ) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:55 |
 
-Snapshot ID: `MCxkNGVjZDhhYTJhMmFlMDY0OGFiNTljMTllMDUzNTQ3ODYxODlmNzBm`
+Snapshot ID: `MCxlOGRjNTU0YzlkMjk3NGQ3OTk4ZTE1MWMyZmRjYzNiYjRjNmI4ZjM4`

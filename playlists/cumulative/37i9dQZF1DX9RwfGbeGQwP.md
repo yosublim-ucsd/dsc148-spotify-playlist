@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,373 songs - 2 day 3 hr 44 min
+1,375 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 |  |
 | [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 |  |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
+| [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-01-27 | 2023-06-06 |
 | [all again](https://open.spotify.com/track/59N3AFjJ6JrlILv9abN5SQ) | [mujikaa](https://open.spotify.com/artist/7ylJb6yLYp3fGiFa7eUXUu) | [lo\-fi bloom](https://open.spotify.com/album/2sZbTPl0U0XmSlmw9bxkiW) | 1:43 | 2022-01-27 | 2022-04-22 |
 | [All of My](https://open.spotify.com/track/2FTn8uoxQPtHc3tHrTkmHh) | [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC), [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx) | [All of My](https://open.spotify.com/album/5Ctug9h4CKEKispjW1n5de) | 1:38 | 2022-08-12 | 2022-11-12 |
@@ -647,7 +648,7 @@
 | [latte](https://open.spotify.com/track/6f2j3y74n9nztWFvKuMwNb) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/1VkZdEEAkDyY3pYzFy7fsx) | 2:00 | 2022-10-28 | 2022-12-10 |
 | [latte time](https://open.spotify.com/track/1XFeczt2nYur7cAxxnC1mG) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [latte time](https://open.spotify.com/album/1to60A5CYjiJKc7QLCsB48) | 1:46 | 2022-09-02 | 2023-01-13 |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-01-27 | 2022-11-12 |
-| [Lean Back](https://open.spotify.com/track/2xrFmzSL2VKbf7PxIOE5s7) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [Lean Back](https://open.spotify.com/album/6DuQ9alpD26asTgqRodl7D) | 1:57 | 2022-09-02 |  |
+| [Lean Back](https://open.spotify.com/track/2xrFmzSL2VKbf7PxIOE5s7) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [Lean Back](https://open.spotify.com/album/6DuQ9alpD26asTgqRodl7D) | 1:57 | 2022-09-02 | 2024-01-21 |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-01-27 | 2022-09-03 |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2022-01-27 | 2022-08-19 |
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2022-01-27 | 2022-10-29 |
@@ -658,6 +659,7 @@
 | [Lets go](https://open.spotify.com/track/60kWezFmMkvKndSPlkUtO7) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Lets go](https://open.spotify.com/album/5I9zMXmiaovGux5O6Qb9VN) | 1:56 | 2022-10-08 | 2023-04-28 |
 | [LIFE](https://open.spotify.com/track/6CEfKrDJPDNKHvnCcQjfkd) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [LIFE](https://open.spotify.com/album/2AlBd43zrdIshx5p8DUvti) | 2:16 | 2023-11-17 |  |
 | [Lifeguard](https://open.spotify.com/track/1Bx2usZFWr6xzXLCu17MTR) | [Blasty B](https://open.spotify.com/artist/1d9unz08ZslrvFZyb0qJQH) | [Lifeguard](https://open.spotify.com/album/4su70VtgbqTigwJaRlxuG4) | 1:39 | 2023-06-05 | 2023-09-29 |
+| [lifeless](https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [lifeless](https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW) | 1:26 | 2024-01-19 |  |
 | [lighthouse](https://open.spotify.com/track/6GaYn3Z1Eyz4xjA0Nuw98k) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [lighthouse](https://open.spotify.com/album/7hJQ6X9HRM1tq0xISbWYVZ) | 1:58 | 2022-10-08 | 2023-09-05 |
 | [Lights Down](https://open.spotify.com/track/0rjbtVM8enAg85s1zc4Bpt) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Lights Down](https://open.spotify.com/album/4xCrjBY0N8JF8Tdqt4vLLu) | 1:40 | 2022-09-02 |  |
 | [Lights Out](https://open.spotify.com/track/0RPC5TjgZ2J8ILaeO9Z60B) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Lights Out](https://open.spotify.com/album/3jo6GWMSzyU8HckHKNUxSO) | 1:57 | 2022-11-25 | 2023-09-29 |
@@ -937,7 +939,7 @@
 | [Post Truth](https://open.spotify.com/track/71UZNO2eVE8dqoThogxIin) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Post Truth](https://open.spotify.com/album/064VOoFuTQLCSlfGccJAjq) | 1:23 | 2023-04-11 | 2023-09-29 |
 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 | 2022-01-27 | 2022-09-23 |
 | [Pressure](https://open.spotify.com/track/4vAz4u1ThUJULhu7wySGrs) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Pressure](https://open.spotify.com/album/3NOAjaGP9BiEuyN5jUaPSE) | 2:34 | 2023-11-17 |  |
-| [preview](https://open.spotify.com/track/4mPYGec9TWUSvow9OhU59v) | [merīkurisumasu!](https://open.spotify.com/artist/2W33hxf87SFO6umcqFGOuO) | [preview](https://open.spotify.com/album/5rdIaM518SZWB9nf2IzGHU) | 1:30 | 2022-09-30 |  |
+| [preview](https://open.spotify.com/track/4mPYGec9TWUSvow9OhU59v) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [preview](https://open.spotify.com/album/5rdIaM518SZWB9nf2IzGHU) | 1:30 | 2022-09-30 |  |
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2022-03-04 | 2023-05-20 |
 | [Private Room](https://open.spotify.com/track/3pw1MCuiKn7szIVEzJV2Qt) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Private Room](https://open.spotify.com/album/5UWzqfmBQBt1rY10gVG1Gk) | 3:18 | 2022-08-12 |  |
 | [Promenade](https://open.spotify.com/track/3JDOvZ4CWTKkutg1Yb7jaU) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Promenade](https://open.spotify.com/album/1ANpESUR6OSsyGpreUnGKE) | 2:20 | 2022-09-16 | 2023-03-09 |
@@ -1380,6 +1382,6 @@
 | [Zeal](https://open.spotify.com/track/7gWksPQCd3aSdB7phjMTXy) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal](https://open.spotify.com/album/1mPNHtXpRMDp6W9Xj2ShMB) | 2:21 | 2022-11-11 | 2023-04-28 |
 | [Zeal, Pt\. 2](https://open.spotify.com/track/1Z3PDHNa9EQHjuJT3mWrqW) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal, Pt\. 2](https://open.spotify.com/album/53mnKSs3Q0K8vXUXk5RV1M) | 2:16 | 2023-05-19 | 2023-10-13 |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2022-01-27 | 2022-06-03 |
-| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 |  |
+| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 | 2024-01-21 |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

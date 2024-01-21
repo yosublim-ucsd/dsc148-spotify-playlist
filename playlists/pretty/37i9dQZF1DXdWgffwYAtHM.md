@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6yTHTc5kaZj85vstsFV7GP">fiz o que pude ¯\\\_\(ツ\)\_/¯</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxjMDdmYzY5YTdmMjQ1NjcxMmE3MGYyZDMxNTFmMzA5MjFjMTkyN2U0`
+Snapshot ID: `MCwyN2E4Zjg2OTcxZGI0Y2Q4MTFjYTY3M2Y3ODhmZDBjYzBmOTg3NzEw`

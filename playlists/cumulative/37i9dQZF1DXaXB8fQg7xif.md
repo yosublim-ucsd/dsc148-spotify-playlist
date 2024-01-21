@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,037 songs - 2 day 8 hr 5 min
+1,038 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All Cried Out \(feat\. Alex Newell\) \- Don Diablo Remix](https://open.spotify.com/track/5wusiZe1lYYfgfrMZPo3bJ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Reconstructions](https://open.spotify.com/album/4bMk4WQ6nRNkmNLofkqfts) | 4:29 | 2020-05-22\* | 2020-09-06 |
 | [All I Know](https://open.spotify.com/track/122vZqxDr7xtRuNhZZPUda) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [All I Know](https://open.spotify.com/album/1HflDVwmJaYYJCvnusHcAw) | 2:28 | 2020-05-22\* | 2020-09-06 |
 | [All Night](https://open.spotify.com/track/5aUmuq6558VklXn7ccDEgs) | [Soundstream](https://open.spotify.com/artist/06Bb7O2LqLNb7kRayt2tfV) | [All Night](https://open.spotify.com/album/68NuE55yBJanWp9SVwns6B) | 8:33 | 2020-07-01 | 2021-12-21 |
+| [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-19 |  |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-23 | 2023-07-29 |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-04-06 | 2023-06-29 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
@@ -523,7 +524,7 @@
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-07-25 | 2022-07-29 |
 | [Lift](https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz) | [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Lift](https://open.spotify.com/album/6GgFm8wYjyE2GOR1FLwmQB) | 2:50 | 2021-02-28 | 2022-01-11 |
 | [Lights Out](https://open.spotify.com/track/0ftR6PhIBwtcDc7Kp7dqT1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Lights Out](https://open.spotify.com/album/0ayE4BTYcnHcKykmbMzWB1) | 2:58 | 2020-11-14 | 2021-11-07 |
-| [Like A Prayer](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Like A Prayer](https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87) | 3:49 | 2023-12-15 |  |
+| [Like A Prayer](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Like A Prayer](https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87) | 3:49 | 2023-12-15 | 2024-01-21 |
 | [Like I Used To](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Like I Used To](https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6) | 3:06 | 2023-05-19 | 2023-09-09 |
 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-02-18 | 2023-03-27 |
 | [Like This](https://open.spotify.com/track/1vV4T6tvTn4FIrwdvom3rf) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Like This](https://open.spotify.com/album/6ags5DWWEfEkqgozlPGQVY) | 2:43 | 2020-09-20 | 2021-11-20 |

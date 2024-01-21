@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 39554,
+  "2024-01-21": 39563,
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Beyries",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -747,7 +747,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 169017,
       "name": "500",
       "url": "https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa"
@@ -1328,7 +1328,7 @@
     },
     {
       "album": {
-        "name": "Akrapo 7",
+        "name": "AKRAPO 7",
         "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
       },
       "artists": [
@@ -1341,7 +1341,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189618,
-      "name": "Akrapo 7",
+      "name": "AKRAPO 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
     },
     {
@@ -3571,7 +3571,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
@@ -3673,7 +3673,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 176906,
       "name": "Bectance",
       "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
@@ -7385,7 +7385,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 246173,
       "name": "Coca Cola",
       "url": "https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe"
@@ -8680,6 +8680,28 @@
     },
     {
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/6s31gbMevOSPgE2f7i6q8t"
+      },
+      "artists": [
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        },
+        {
+          "name": "Akhenaton",
+          "url": "https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/7LrK0NDfAdHv7HV2NUGvxA"
+    },
+    {
+      "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
       },
@@ -9907,6 +9929,28 @@
       "duration_ms": 181543,
       "name": "Derni\u00e8re fois",
       "url": "https://open.spotify.com/track/4PJtgFWghFBHGD6J4q5lhp"
+    },
+    {
+      "album": {
+        "name": "Derri\u00e8re le jour",
+        "url": "https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Derri\u00e8re le jour",
+      "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
     },
     {
       "album": {
@@ -14176,6 +14220,24 @@
     },
     {
       "album": {
+        "name": "Focus / 21 Grammes",
+        "url": "https://open.spotify.com/album/0bZwYhsQX0JtWp5v3yeW4B"
+      },
+      "artists": [
+        {
+          "name": "Joe Rocca",
+          "url": "https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/0yN4tK3KOWMrgCcN9IEITZ"
+    },
+    {
+      "album": {
         "name": "Au bon endroit (Deluxe)",
         "url": "https://open.spotify.com/album/1GGOY5jNb309UbiXqVONLi"
       },
@@ -14615,7 +14677,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 219293,
       "name": "Fuir",
       "url": "https://open.spotify.com/track/2yElXwqHtmkIrKm0rxsppD"
@@ -15573,7 +15635,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 185066,
       "name": "Hang On (Rester l\u00e0)",
       "url": "https://open.spotify.com/track/2l5dwj0kYFr99f4zob5zet"
@@ -16399,6 +16461,24 @@
       "duration_ms": 152571,
       "name": "I know",
       "url": "https://open.spotify.com/track/4tBrnx0X5qGbkDhNPsBaWS"
+    },
+    {
+      "album": {
+        "name": "I Lost My Baby",
+        "url": "https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133721,
+      "name": "I Lost My Baby",
+      "url": "https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw"
     },
     {
       "album": {
@@ -17997,6 +18077,24 @@
       "duration_ms": 163200,
       "name": "Jacuzzi",
       "url": "https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu"
+    },
+    {
+      "album": {
+        "name": "Jamais la nuit",
+        "url": "https://open.spotify.com/album/5mYwka8wP6ftFwj1URha9z"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Jamais la nuit",
+      "url": "https://open.spotify.com/track/0ikCDE1hdQYutykveFe0QM"
     },
     {
       "album": {
@@ -22141,6 +22239,24 @@
       "duration_ms": 222839,
       "name": "Le ciel",
       "url": "https://open.spotify.com/track/1T3QVEBWgWXKjnlosNt8Eo"
+    },
+    {
+      "album": {
+        "name": "La somme des \u00eatres aim\u00e9s",
+        "url": "https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Poulin",
+          "url": "https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Le ciel o\u00f9 je me terre",
+      "url": "https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J"
     },
     {
       "album": {
@@ -27478,6 +27594,24 @@
     },
     {
       "album": {
+        "name": "Mort de rire",
+        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246818,
+      "name": "Mort de rire",
+      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
+    },
+    {
+      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46"
       },
@@ -29593,7 +29727,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 193070,
       "name": "Oseille Des Francs-Ma\u00e7ons",
       "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"
@@ -32481,6 +32615,28 @@
       "duration_ms": 155571,
       "name": "Pretty Girl Era - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
+    },
+    {
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "EDGE",
+          "url": "https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
     },
     {
       "album": {
@@ -35911,7 +36067,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 162920,
       "name": "Sensations",
       "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"

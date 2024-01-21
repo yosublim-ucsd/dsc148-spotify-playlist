@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 975863,
+  "2024-01-21": 975917,
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics and Rezz",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 149603,
       "name": "Big In The Game (feat. Snowy and Manga Saint Hilare)",
       "url": "https://open.spotify.com/track/4iJkmySR14Sgy9nq4dpFnN"
@@ -4000,6 +4000,28 @@
     },
     {
       "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+    },
+    {
+      "album": {
         "name": "Ease Your Mind",
         "url": "https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN"
       },
@@ -5775,7 +5797,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 136800,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb"
@@ -5885,7 +5907,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 231529,
       "name": "Going Insane",
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
@@ -6107,7 +6129,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 264827,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/094tCgchiXY2srShd51TvA"
@@ -7913,6 +7935,28 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "Left For Dead EP",
+        "url": "https://open.spotify.com/album/6pe2A5zjY8E9jsNW7N4aci"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "David Vance",
+          "url": "https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264903,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/6NdLcYW52VTforkwIJZ1Nn"
     },
     {
       "album": {
@@ -10248,6 +10292,32 @@
     },
     {
       "album": {
+        "name": "OneHundred",
+        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189376,
+      "name": "OneHundred",
+      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
+    },
+    {
+      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/0hlXsQLYWsZBTcL5sReHrl"
       },
@@ -11867,6 +11937,24 @@
       "duration_ms": 195414,
       "name": "SABERNETIKS",
       "url": "https://open.spotify.com/track/6GiCwfKusZTPy6COKbNsQi"
+    },
+    {
+      "album": {
+        "name": "Sabre",
+        "url": "https://open.spotify.com/album/4JCGFU1WbtyR5dNuqQBNwh"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176395,
+      "name": "Sabre",
+      "url": "https://open.spotify.com/track/62BMIBlCzq0jONLulf7EcB"
     },
     {
       "album": {
@@ -13898,6 +13986,28 @@
     },
     {
       "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Bejalvin",
+          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Teeth (feat. Bejalvin)",
+      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
+    },
+    {
+      "album": {
         "name": "Terrabot",
         "url": "https://open.spotify.com/album/4ubvzMcNnsIsYU9S78zb2h"
       },
@@ -15509,7 +15619,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0DhKFPcJHBS89YwgD5Oz5B"

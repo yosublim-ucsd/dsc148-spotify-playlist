@@ -4,7 +4,7 @@
 
 > 150%
 
-292 songs - 12 hr 39 min
+293 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [BALENCI FLEECE](https://open.spotify.com/track/5znKhweP1MFPlZLCR4VFFA) | [LUC](https://open.spotify.com/artist/4eO5uWzhurHz9CBH42W2gc), [Mumble](https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb) | [BALENCI FLEECE](https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb) | 1:29 | 2023-02-10 | 2023-06-30 |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 | 2023-03-22 |
 | [Blonde Chaya \- Sped up](https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped up\)](https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY) | 3:01 | 2023-11-16 | 2023-11-18 |
-| [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 | 2023-11-16 |  |
+| [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 | 2023-11-16 | 2024-01-21 |
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-06-09 | 2023-05-06 |
 | [Cali4nia \(sped up\)](https://open.spotify.com/track/3xswzs1u96atRKqj1ciOpU) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Cali4nia \(alt versions\)](https://open.spotify.com/album/4roCZCqx5Ua1T8xHm6bhJ7) | 2:37 | 2022-12-09 | 2022-12-14 |
 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 | 2022-09-09 | 2023-04-09 |
@@ -127,6 +127,7 @@
 | [I WANNA BE SAVED \- Remix](https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [I WANNA BE SAVED \(Remix\)](https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu) | 4:02 | 2023-01-18 | 2023-04-01 |
 | [I WANNA BE SAVED \- REMIX](https://open.spotify.com/track/3b1635xagibchjaavUiuVZ) | [ENDarchive](https://open.spotify.com/artist/7imGSQjHembdkWoB4iGOMG) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/4CSEOyxJQY7W0U2pa3OE8K) | 4:02 | 2023-04-25 | 2023-06-10 |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-06-09 | 2023-11-17 |
+| [I Wouldn't Mind \- Sped Up](https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [I Wouldn't Mind \(Sped Up\)](https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y) | 2:49 | 2024-01-19 |  |
 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-06-09 | 2022-07-29 |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 | 2022-06-24 | 2022-12-14 |

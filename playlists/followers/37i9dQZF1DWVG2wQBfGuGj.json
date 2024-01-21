@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 70842,
+  "2024-01-21": 70952,
   "date_first_scraped": "2023-05-16",
   "description": "Surrender to the chill of the White Island with these laid-back house and nu-disco groovers. ",
   "name": "Ibiza Lounge",
@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Bit of Window",
+        "url": "https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap"
+      },
+      "artists": [
+        {
+          "name": "Conte Prad",
+          "url": "https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121121,
+      "name": "Bit of Window",
+      "url": "https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2"
+    },
+    {
+      "album": {
         "name": "bite",
         "url": "https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb"
       },
@@ -439,6 +457,24 @@
       "duration_ms": 160984,
       "name": "Cala Pada",
       "url": "https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq"
+    },
+    {
+      "album": {
+        "name": "Cap",
+        "url": "https://open.spotify.com/album/49RS1FSRlFrsmA6PpzjZSN"
+      },
+      "artists": [
+        {
+          "name": "Floral Gloam",
+          "url": "https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cap",
+      "url": "https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H"
     },
     {
       "album": {
@@ -817,6 +853,24 @@
       "duration_ms": 183000,
       "name": "Delineate",
       "url": "https://open.spotify.com/track/4qeoXvocd4Dkl9XtYmPMeN"
+    },
+    {
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/4d5yLHUY1m9cfbc8kuOoJX"
+      },
+      "artists": [
+        {
+          "name": "Tendoi",
+          "url": "https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE"
     },
     {
       "album": {

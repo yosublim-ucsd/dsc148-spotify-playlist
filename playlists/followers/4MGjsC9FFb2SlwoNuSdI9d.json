@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 31791,
+  "2024-01-21": 31788,
   "date_first_scraped": "2023-12-14",
   "description": "Shake up your day at the office with this mix of old faves and new hits! #Hits  #NewMusic",
   "name": "Office Music (New & Old Hits!)",
@@ -761,6 +761,28 @@
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+    },
+    {
+      "album": {
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/6XQZyagHN8Q2roq0TCQF3P"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/6SEvLVoKQDmrITAv6B3muJ"
     },
     {
       "album": {
@@ -1787,6 +1809,24 @@
       "duration_ms": 184160,
       "name": "Seven (feat. Latto) (Clean Ver.)",
       "url": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
+    },
+    {
+      "album": {
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
       "album": {

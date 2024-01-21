@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Rusherking, Boza, Lunay & Revol
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,186 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,217 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hora y Lugar](https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Hora y Lugar](https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4) | 3:48 |
+| 1 | [Hora y Lugar](https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Hora y Lugar](https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4) | 3:48 |
 | 2 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 |
 | 3 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
 | 4 | [Karma](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Karma](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 |
 | 51 | [Pretender](https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pretender](https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho) | 3:33 |
 | 52 | [That's The Way \(I Like It\) \- Tropical Version](https://open.spotify.com/track/3Ox8sL2sumSmzWPe1FKAUI) | [Aymée Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY) | [That's The Way \(I Like It\) \[Tropical Version\]](https://open.spotify.com/album/3gTwvTCI9cWVIn3tUs78t9) | 3:49 |
-| 53 | [para mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
-| 54 | [Aacho](https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Aacho](https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX) | 3:13 |
+| 53 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
+| 54 | [AACHO](https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [AACHO](https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX) | 3:13 |
 | 55 | [BEBECITA SHAWTY](https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [BEBECITA SHAWTY](https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk) | 2:30 |
 
-Snapshot ID: `MCxlZGU5NDNlNGI2ZTFiNDZmOTYxZDgwY2RjZWM3YjBkYzZmZjQwODhk`
+Snapshot ID: `MCwwYWQxNDMzY2FkNGE5MjI5OTcwYTA0NDA3MWYyODE0NTk5YmMzMjNj`

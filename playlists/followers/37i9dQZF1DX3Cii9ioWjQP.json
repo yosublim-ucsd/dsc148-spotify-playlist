@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 16859,
+  "2024-01-21": 16886,
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Mia & Yeore(\ubbf8\uc544 & \uc5ec\ub808))",
+  "description": "All about Korean Jazz hits & new (Cover: Minna Seo(\uc11c\ubbfc\uc544))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -101,6 +101,24 @@
       "duration_ms": 328539,
       "name": "A good thing",
       "url": "https://open.spotify.com/track/5wshBiqIBASdItBlwSN1PI"
+    },
+    {
+      "album": {
+        "name": "A Lovers\u2019 Waltz",
+        "url": "https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5"
+      },
+      "artists": [
+        {
+          "name": "Minna Seo",
+          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "A Lovers\u2019 Waltz",
+      "url": "https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj"
     },
     {
       "album": {

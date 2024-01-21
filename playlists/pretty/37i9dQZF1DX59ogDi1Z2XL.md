@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Preme
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,894 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,948 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Beams Don't Lose Balance](https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU) | [Zeuce](https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj) | [Beams Don't Lose Balance](https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv) | 1:51 |
 | 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCxiMWE2ZGUzNDRjMmJlOTEwMWM0ZTY0YWU0NzNlZTY2YTJiN2I5ZWVm`
+Snapshot ID: `MCxlNDJmZmM5N2FiZDczZWRiNmRmMGY1N2FkNTM0YjRlMzg1ODgxZGI5`

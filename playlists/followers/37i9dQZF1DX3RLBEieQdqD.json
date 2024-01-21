@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 123075,
+  "2024-01-21": 123154,
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Manuel Turizo & Grupo Frontera",
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Arelys Henao",
   "name": "Ranchenato",
   "tracks": [
     {
@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Amarga Despedida",
+        "url": "https://open.spotify.com/album/5JKWUGWkFVrIgC4NvMVDjE"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Amarga Despedida",
+      "url": "https://open.spotify.com/track/6BdFSbbBaQ1EbnccsbfdNE"
+    },
+    {
+      "album": {
         "name": "Diomedes - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2VccvTUqLh6SMYgAHKVMuS"
       },
@@ -385,6 +403,28 @@
       "duration_ms": 190230,
       "name": "Bendecida",
       "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
+    },
+    {
+      "album": {
+        "name": "Billete Verde (Remix)",
+        "url": "https://open.spotify.com/album/4NAfxnNREhY6klEaiMAQ2q"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Los Internacionales Rayos De Mexico",
+          "url": "https://open.spotify.com/artist/5fmCeiITnEcbYxrlmeyjc6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249903,
+      "name": "Billete Verde - Remix",
+      "url": "https://open.spotify.com/track/2L97B598y4utDrOox16h0M"
     },
     {
       "album": {
@@ -722,6 +762,24 @@
     },
     {
       "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159456,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT"
+    },
+    {
+      "album": {
         "name": "De Los Besos Que Te Di",
         "url": "https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey"
       },
@@ -791,7 +849,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189551,
       "name": "Demalas (Versi\u00f3n Popular)",
       "url": "https://open.spotify.com/track/0vLu56tq0xPdClMMPiBDeQ"
@@ -845,7 +903,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 160386,
       "name": "Dif\u00edcil Tu Caso",
       "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
@@ -1067,7 +1125,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 170297,
       "name": "El Jefe",
       "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
@@ -1169,7 +1227,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
@@ -1220,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "En un and\u00e9n",
+        "url": "https://open.spotify.com/album/3HbK3Byyhn8rW8oCfuc3mW"
+      },
+      "artists": [
+        {
+          "name": "Sotomonte",
+          "url": "https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "En un and\u00e9n",
+      "url": "https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s"
+    },
+    {
+      "album": {
         "name": "Entre Copa y Copa",
         "url": "https://open.spotify.com/album/06gQzNIkKd9u3iLqDUoflD"
       },
@@ -1253,7 +1329,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -1831,7 +1907,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 199489,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6"
@@ -1893,6 +1969,24 @@
       "duration_ms": 143018,
       "name": "Necesito Un Segundo",
       "url": "https://open.spotify.com/track/5GNaL2WTTktz5QBFncqVHQ"
+    },
+    {
+      "album": {
+        "name": "NI UNA L\u00c1GRIMA M\u00c1S",
+        "url": "https://open.spotify.com/album/5O9V9wZKwIzQn4Q4vvsKPU"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "NI UNA L\u00c1GRIMA M\u00c1S",
+      "url": "https://open.spotify.com/track/5v4bZeKS5BLHbIFL53FzXP"
     },
     {
       "album": {
@@ -2709,6 +2803,28 @@
       "duration_ms": 197322,
       "name": "T\u00fa Solo T\u00fa",
       "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
+    },
+    {
+      "album": {
+        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177654,
+      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
+      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
     },
     {
       "album": {

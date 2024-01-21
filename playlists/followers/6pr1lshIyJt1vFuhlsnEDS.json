@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1182,
+  "2024-01-21": 1182,
   "date_first_scraped": "2023-02-19",
   "description": "<a>https://bit.ly/2WYLxJM </a>",
   "name": "THE TECHNO METHOD",
@@ -1159,6 +1159,28 @@
       "duration_ms": 270447,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a"
+    },
+    {
+      "album": {
+        "name": "Ibu 3000 (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/27VNnOoz1oPkQjJcjS94vx"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338090,
+      "name": "Ibu 3000 - Metodi Hristov Remix",
+      "url": "https://open.spotify.com/track/6CcSPBapdwm6nw6kntZX9z"
     },
     {
       "album": {

@@ -1994,10 +1994,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 217622,
       "name": "Hours",
       "url": "https://open.spotify.com/track/38v0lk7Ghia2mPZU8Qhv7q"
+    },
+    {
+      "album": {
+        "name": "Immersed Elements 07",
+        "url": "https://open.spotify.com/album/2vVABpMPsW6fkXUkzm46jJ"
+      },
+      "artists": [
+        {
+          "name": "Motives",
+          "url": "https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217622,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/7HVrblhM5xKEx5BO4ONClM"
     },
     {
       "album": {

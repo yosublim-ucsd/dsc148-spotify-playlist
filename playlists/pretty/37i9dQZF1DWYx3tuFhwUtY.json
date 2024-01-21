@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 141358,
+  "num_followers": 141343,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTU4YzkzZGM0MmU3OGMyNmEzOGE2NDY3MDY4M2RlMTFjZTMwN2Q0",
+  "snapshot_id": "MCw4NzMxNjg4Y2VjODk2MWM2YTBmNjExZmY4ZjJjOGI2N2RjYjlhMjA1",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "We Are the 21st Century Ambassadors of Peace & Magic",
         "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227906,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Guided By Angels",
+      "url": "https://open.spotify.com/track/4M7o0cOEvDFiJ7I8PXJ3bA"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "Carrion Crawler / The Dream",
         "url": "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 273854,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
-        "name": "Comfort To Me",
-        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Guided By Angels",
-      "url": "https://open.spotify.com/track/4M7o0cOEvDFiJ7I8PXJ3bA"
     },
     {
       "added_at": "2023-10-23 19:19:23",

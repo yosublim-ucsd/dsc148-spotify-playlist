@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 60639,
+  "2024-01-21": 60633,
   "date_first_scraped": "2022-06-10",
   "description": "Rock out while you work out! Follow for updates!",
   "name": "Hard Rock Workout",
@@ -101,6 +101,24 @@
       "duration_ms": 202761,
       "name": "A Crime To Remember",
       "url": "https://open.spotify.com/track/4YsnD5GTI8nVBUXkmlqur4"
+    },
+    {
+      "album": {
+        "name": "A Different Kind of Year",
+        "url": "https://open.spotify.com/album/4jAeOZ3qAjHxj8nsLor5nD"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234783,
+      "name": "A Different Kind of Year",
+      "url": "https://open.spotify.com/track/3GnTWJSfDr96JJMxCGUUuu"
     },
     {
       "album": {
@@ -2425,6 +2443,24 @@
       "duration_ms": 247154,
       "name": "Idol (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
+    },
+    {
+      "album": {
+        "name": "IF IT DOESN'T HURT",
+        "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "IF IT DOESN'T HURT",
+      "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
     },
     {
       "album": {

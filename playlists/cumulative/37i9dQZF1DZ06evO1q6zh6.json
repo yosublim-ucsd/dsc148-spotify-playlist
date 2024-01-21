@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+    },
+    {
+      "album": {
         "name": "Angel Of Retribution",
         "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 66266,
       "name": "Guardians",
       "url": "https://open.spotify.com/track/0yO4LQ2u0Y9Wc9SFI22KzW"

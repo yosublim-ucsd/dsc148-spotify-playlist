@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Oaks, Robin Schulz, Topic
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,105 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,202 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 40 | [Wish I Didn't Love You](https://open.spotify.com/track/3mIjD2PrB9cPnWPG4F77MQ) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/4BKVp8Bt21w9keQInMqnhd) | 2:25 |
 | 41 | [Creep](https://open.spotify.com/track/0TcawfHfPaVCfgPUOLQDmv) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Creep](https://open.spotify.com/album/5p2TfFTmi6ywBdC3hcEgGR) | 2:13 |
 | 42 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
-| 43 | [Sweet Home Alabama](https://open.spotify.com/track/1NB8u662ZTTpvxkhQGlb5z) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/0yopD72HfVqqnu9PULIjTX) | 2:22 |
+| 43 | [Sweet Home Alabama](https://open.spotify.com/track/2eGPCjrVzdijWEC02FJOCD) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/1E29W4B1FRDd5ZdZdzoZ80) | 2:22 |
 | 44 | [Weekend](https://open.spotify.com/track/1AwSmnJem4UF8dHyLRlKPL) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Karl8 & Andrea Monta](https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC) | [Weekend](https://open.spotify.com/album/6XdtH90FpMDM4QOIUcfaFR) | 2:24 |
 | 45 | [Ouverture](https://open.spotify.com/track/1DQDnypjr8J1rfO3hQWo2k) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Saad Ayub](https://open.spotify.com/artist/2ulEOi17CGvnTNd9RpY9AR), [Elevation](https://open.spotify.com/artist/5H94wuXGxYZC5IQ5LC74U4) | [Ouverture](https://open.spotify.com/album/5ZAZBpm6eHGJnCL68bMap0) | 3:56 |
 | 46 | [When We Were Young](https://open.spotify.com/track/7C3cK5wqBwxbFeso2yE1gW) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [When We Were Young](https://open.spotify.com/album/5upOtXFwe0FsOKm8CtR60F) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Time Travel](https://open.spotify.com/track/4ol1XBvP2Wh2kPhWcgCUAk) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Time Travel](https://open.spotify.com/album/5DcSoQ1pMWTVvzn6jB4lBK) | 2:47 |
 | 75 | [Broke](https://open.spotify.com/track/2tMNhlNZVGwSwYi8UwdMVr) | [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Broke](https://open.spotify.com/album/5XnIfTsEP0jOrnTpyJKybi) | 2:40 |
 
-Snapshot ID: `MCw2ZTg3MzQ3MzFiNzRmNzZkNGUyZjE5MTA0NzA0Njk0YmI5Mjg0ZmM4`
+Snapshot ID: `MCwzOTkzZWE5NzNiN2Y3YmM3NTcyNDczMDEzZjYxN2VjZWM5ZTFiMjY1`

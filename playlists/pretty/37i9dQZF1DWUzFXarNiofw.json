@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Naomi Sharon",
-  "num_followers": 1032406,
+  "num_followers": 1032504,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTE4M2E0OTIzMWQ3MjUzNDgzZWRiMDFjOTc4MjFlNDkxMjY0M2Uy",
+  "snapshot_id": "MCxmODBiMzA3ZGYyNzdhMTIxM2JiZTcxNWJkZTE1Mjc2Y2RjMDQ0MjFi",
   "tracks": [
     {
       "added_at": "2024-01-19 05:23:06",
@@ -235,6 +235,26 @@
       "duration_ms": 207386,
       "name": "Beautiful Day [Feat. PJ Morton]",
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
+    },
+    {
+      "added_at": "2024-01-20 01:39:52",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/3PJTM9AZNAMKSpSPx0p6Ne"
+      },
+      "artists": [
+        {
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "SHRETA",
+          "url": "https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/205vIudEsOhPEozChgIv03"
     },
     {
       "added_at": "2024-01-19 05:23:06",

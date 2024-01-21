@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12512,
+  "num_followers": 12529,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0",
+  "snapshot_id": "MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Precious Seed",
-        "url": "https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV"
-      },
-      "artists": [
-        {
-          "name": "The McKameys",
-          "url": "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Unspoken Request",
-      "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Good Morning Mercy",
         "url": "https://open.spotify.com/album/6UU1YPHof0qz9JI6YZrWAU"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 198511,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/4XDfUFceoSfpXRKrWYcOHc"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Precious Seed",
+        "url": "https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV"
+      },
+      "artists": [
+        {
+          "name": "The McKameys",
+          "url": "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Unspoken Request",
+      "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
       },
       "artists": [
         {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 231066,
-      "name": "Cast My Care",
-      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1087,18 +1087,50 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
         }
       ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+      "duration_ms": 231066,
+      "name": "Cast My Care",
+      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
+      },
+      "artists": [
+        {
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
+      },
+      "artists": [
+        {
+          "name": "Wisecarvers",
+          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
+        }
+      ],
+      "duration_ms": 219867,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1135,38 +1167,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
-      },
-      "artists": [
-        {
-          "name": "Wisecarvers",
-          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
-        }
-      ],
-      "duration_ms": 219867,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Lord's Prayer",
         "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
       "artists": [
         {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",

@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Shouse",
-  "num_followers": 139759,
+  "num_followers": 139771,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGVhM2VlZWJiYzZmNGUzNjg0YmY2NWQwNGI1ZTA1ODVhZTZhYWNi",
+  "snapshot_id": "MCw5MTI3ZTZjNzVkZmU2MjA0ODc1NWY3NzI4ODE4ODQzMTVhZWEzZDkx",
   "tracks": [
     {
       "added_at": "2024-01-18 13:00:00",
@@ -598,6 +598,10 @@
         {
           "name": "Pieter T",
           "url": "https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3"
+        },
+        {
+          "name": "Sean Richards",
+          "url": "https://open.spotify.com/artist/0CLH4Fh45wT0RGUXT6FIsf"
         }
       ],
       "duration_ms": 149999,
@@ -721,7 +725,7 @@
         }
       ],
       "duration_ms": 191694,
-      "name": "The Best Part of Breaking Up",
+      "name": "The Best Part Of Breaking Up",
       "url": "https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz"
     },
     {

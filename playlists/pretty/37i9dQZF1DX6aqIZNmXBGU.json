@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17425,
+  "num_followers": 17422,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y1YWFiMmM3YjU4YjMyNjUyOTVkZWQ1ZTU2ZGYwOTMwYmMwNmEz",
+  "snapshot_id": "MCxhMWZiYjdhZjBhZGMzMThlYWJhZTY2YTE2MmM3MzQ4Y2NlZWIwYjJh",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pennyroyal Tea",
-      "url": "https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Their Satanic Majesties' Second Request",
         "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 334466,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pennyroyal Tea",
+      "url": "https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Carter",
-        "url": "https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660"
-      },
-      "artists": [
-        {
-          "name": "Bleached",
-          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
-        }
-      ],
-      "duration_ms": 161156,
-      "name": "Think Of You",
-      "url": "https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Onion",
         "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 182786,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Carter",
+        "url": "https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660"
+      },
+      "artists": [
+        {
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+        }
+      ],
+      "duration_ms": 161156,
+      "name": "Think Of You",
+      "url": "https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY"
     },
     {
       "added_at": "2021-04-09 06:19:31",

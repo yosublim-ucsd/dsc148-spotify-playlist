@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 1705949,
+  "2024-01-21": 1706749,
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this Cover: NIKI",
+  "description": "heartbreak feels good in a place like this Cover: Henry Moodie",
   "name": "sad hour",
   "tracks": [
     {
@@ -2977,7 +2977,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 170182,
       "name": "face to face",
       "url": "https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83"
@@ -9293,6 +9293,24 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "album": {
+        "name": "you taught me to read between the lines",
+        "url": "https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh"
+      },
+      "artists": [
+        {
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195445,
+      "name": "Sorry Ain't Enough",
+      "url": "https://open.spotify.com/track/4Rdnh0sq0Xs4d9wKE8Edn2"
     },
     {
       "album": {

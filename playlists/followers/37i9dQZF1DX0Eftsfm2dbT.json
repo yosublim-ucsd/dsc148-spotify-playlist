@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 129689,
+  "2024-01-21": 129722,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: AK-69, \u00a5ellow Bucks",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -6693,10 +6693,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208000,
       "name": "Rio Tokyo",
       "url": "https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL"
+    },
+    {
+      "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz"
+      },
+      "artists": [
+        {
+          "name": "Celeina Ann",
+          "url": "https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Rio Tokyo",
+      "url": "https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c"
     },
     {
       "album": {

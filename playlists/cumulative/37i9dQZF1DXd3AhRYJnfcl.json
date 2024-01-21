@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 199328,
       "name": "3atma",
       "url": "https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 146571,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm"
@@ -3219,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Woseltelha",
+        "url": "https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248241,
+      "name": "Woseltelha",
+      "url": "https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS"
+    },
+    {
+      "album": {
         "name": "Ya 3araf",
         "url": "https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi"
       },
@@ -3580,6 +3598,28 @@
       "duration_ms": 152440,
       "name": "\u0627\u0644\u0639\u062f\u0644 \u0641\u0648\u0642 \u0627\u0644\u062c\u0645\u064a\u0639",
       "url": "https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0644\u064a \u062c\u0627\u064a \u0628\u062a\u0627\u0639\u0646\u0627",
+        "url": "https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        },
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "\u0627\u0644\u0644\u064a \u062c\u0627\u064a \u0628\u062a\u0627\u0639\u0646\u0627",
+      "url": "https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4"
     },
     {
       "album": {

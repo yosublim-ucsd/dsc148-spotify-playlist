@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Qing Madi
 
-492 songs - 1 day 0 hr 43 min
+493 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |
 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 | 2023-09-29 |  |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2022-02-10 | 2022-02-17 |
-| [Jam One Kele](https://open.spotify.com/track/3R3XBfOodpYHAJolKLqpLN) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [The Sarz Academy Presents: Memories That Last Forever 2](https://open.spotify.com/album/7l1Ew4Exi14LMaosXJW6rf) | 2:29 | 2024-01-19 |  |
+| [Jam One Kele](https://open.spotify.com/track/3R3XBfOodpYHAJolKLqpLN) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [The Sarz Academy Presents: Memories That Last Forever 2](https://open.spotify.com/album/7l1Ew4Exi14LMaosXJW6rf) | 2:29 | 2024-01-19 | 2024-01-21 |
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-26 | 2023-11-28 |
 | [Jara](https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Emotions](https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr) | 2:40 | 2023-09-14 |  |
 | [Jegede Remix](https://open.spotify.com/track/0tCDL7WyvA3gjFZZzgA3BH) | [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Jegede Remix](https://open.spotify.com/album/6rIyCrt5aKkZvsJUrsyJHp) | 2:40 | 2023-12-15 |  |
@@ -291,6 +291,7 @@
 | [Miniskirt \- Remix](https://open.spotify.com/track/5jP4KOemrliC4wgExGkgBg) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Miniskirt \(Remix\)](https://open.spotify.com/album/0miuahO6ByhPG1biEV4Gem) | 2:36 | 2022-07-22 | 2022-07-25 |
 | [Minor Notes](https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 2:56 | 2021-10-14 | 2022-07-27 |
 | [Money For Hand](https://open.spotify.com/track/0vmB4AeK2fdL0kRnCfB0O3) | [Ade James](https://open.spotify.com/artist/39EFuDa5XKCmoh09xK0687), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Money For Hand](https://open.spotify.com/album/2CVxaCbqnviwpLhqw0w4Pl) | 2:54 | 2022-01-13 | 2022-03-01 |
+| [More](https://open.spotify.com/track/0FYmBLrrsrVzUHUIeof0Wu) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw) | [More](https://open.spotify.com/album/5AOkntTGdK2nMGvQjk8IM0) | 3:03 | 2024-01-19 |  |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-03-31 |
 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 | 2023-01-27 | 2023-02-04 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-08-25 |

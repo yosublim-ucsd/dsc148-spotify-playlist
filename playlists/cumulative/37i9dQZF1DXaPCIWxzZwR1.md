@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Kali Uchis
 
-1,841 songs - 3 day 17 hr 35 min
+1,842 songs - 3 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,8 @@
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-06-03 | 2022-06-25 |
 | [ex i never had](https://open.spotify.com/track/1NAyq9TrQIpLHWStUX4xAQ) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 3:21 | 2021-09-04 | 2021-10-16 |
 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 | 2021-02-16\* | 2021-03-23 |
-| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-17 |  |
+| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-17 | 2024-01-21 |
+| [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2023-12-01 |  |
 | [Exless](https://open.spotify.com/track/4UJYasyUJsxLUCyQRMgl2H) | [Kate Stephenson](https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne) | [Exless](https://open.spotify.com/album/00SHrNpeVnT4icrvmUnOxx) | 3:25 | 2021-04-17 | 2021-05-29 |
 | [Exorcism](https://open.spotify.com/track/6S9JEY1hpKyMFtRCFIczYE) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Exorcism](https://open.spotify.com/album/6Eqwc27gNF9nJSIurpd70r) | 2:29 | 2023-10-20 |  |
 | [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 | 2023-07-21 | 2023-09-02 |

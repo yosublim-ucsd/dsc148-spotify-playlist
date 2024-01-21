@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 185330,
+  "2024-01-21": 185423,
   "date_first_scraped": "2022-05-23",
   "description": "Las rolas para escuchar mientras trabajas.",
   "name": "Chambeando",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"

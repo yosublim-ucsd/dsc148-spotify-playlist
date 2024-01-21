@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,469 likes - 34 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,493 likes - 34 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 | 29 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 |
 | 30 | [Po' encima \(feat\. Bryant Myers\)](https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Po' encima \(feat\. Bryant Myers\)](https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf) | 3:31 |
 | 31 | [Tu Me Enamoraste \- Remix](https://open.spotify.com/track/7b6QP0Pz2sqyW7yyXodpm6) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Anuel](https://open.spotify.com/artist/6CIUdwl1brQZzk33fgmE1g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Tu Me Enamoraste \(Remix\)](https://open.spotify.com/album/4uA0PdlRCnd0zpodu1K5qM) | 5:41 |
-| 32 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
-| 33 | [0 Sentimientos \(Remix\) \[feat\. Baby Rasta, Noriel, Darkiel, Messiah & Lyan\]](https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [LYAN](https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ) | [Chosen Few: New Generation](https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj) | 5:35 |
+| 32 | [0 Sentimientos \(Remix\) \[feat\. Baby Rasta, Noriel, Darkiel, Messiah & Lyan\]](https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [LYAN](https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ) | [Chosen Few: New Generation](https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj) | 5:35 |
+| 33 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
 | 34 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
 
-Snapshot ID: `MCxjMWZhMWY5ZTlhNmE5NzliYzQ2YzExZGI4YTYxZGNkYzc5ZmYzZjk3`
+Snapshot ID: `MCxjODEwY2IyOWMyNzRjZWY4MDEwYzIzNTNmMjY5YTZmZDMzOTc1MmUw`

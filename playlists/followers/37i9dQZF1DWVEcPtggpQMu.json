@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 73791,
+  "2024-01-21": 73819,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=IgW7s1DITrCiFOfUmYULMA\">Wordz</a>",
+  "description": "Only the hottest South African rap from the streets. Cover:  <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=_Epj3HVxQwW4sdJ-ktvdXA\">Wordz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -993,7 +993,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203160,
       "name": "Askies Ta",
       "url": "https://open.spotify.com/track/482GKebxCgfhCaISuCidRV"
@@ -8554,6 +8554,24 @@
     },
     {
       "album": {
+        "name": "No Plans",
+        "url": "https://open.spotify.com/album/7EBCR3OnkGQHs9GWqnCwqB"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "No Plans",
+      "url": "https://open.spotify.com/track/0ST19SQogRJXZm0ejBte9c"
+    },
+    {
+      "album": {
         "name": "No Stopping",
         "url": "https://open.spotify.com/album/2Pz05T6ug5SNFtCpyJYcw4"
       },
@@ -8953,6 +8971,28 @@
       "duration_ms": 181098,
       "name": "OMG",
       "url": "https://open.spotify.com/track/6m3QKwFZ3rEJKriwlSmlcv"
+    },
+    {
+      "album": {
+        "name": "ON GOD ( Freestyle )",
+        "url": "https://open.spotify.com/album/4sXNONIW66LSk2rfdFJELw"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "Scarface Panda",
+          "url": "https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98115,
+      "name": "ON GOD ( Freestyle )",
+      "url": "https://open.spotify.com/track/1rUGL6UimoXNYm8tvBX3nk"
     },
     {
       "album": {
@@ -11661,6 +11701,28 @@
       "duration_ms": 147692,
       "name": "SUN",
       "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
+    },
+    {
+      "album": {
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+      },
+      "artists": [
+        {
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
+        },
+        {
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "album": {

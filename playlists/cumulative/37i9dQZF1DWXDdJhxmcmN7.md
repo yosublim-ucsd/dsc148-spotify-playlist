@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-126 songs - 5 hr 4 min
+127 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Conchitas](https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7) | [Camosmic](https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae) | [Conchitas](https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5) | 2:29 | 2023-05-05 |  |
 | [Construction In The Rain](https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Oceanside](https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg) | 4:23 | 2023-05-05 |  |
 | [Copihue](https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Copihue](https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR) | 2:37 | 2023-05-05 |  |
-| [crying](https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [crying](https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ) | 2:12 | 2023-10-09 | 2023-12-23 |
+| [crying](https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [crying](https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ) | 2:12 | 2023-10-09 |  |
 | [Cumbia Don Juan](https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbia Don Juan](https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0) | 2:14 | 2023-05-05 |  |
 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 | 2023-05-05 |  |
 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 | 2023-05-05 | 2023-09-05 |
@@ -63,6 +63,7 @@
 | [Hide n Seek](https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Hide n Seek](https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4) | 2:10 | 2023-05-05 |  |
 | [i shouldn't have done that...](https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r) | [AGM](https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg) | [somewhere, nowhere.](https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC) | 1:52 | 2023-12-22 |  |
 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 | 2023-05-05 |  |
+| [jazmin](https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines, Vol.1](https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc) | 2:33 | 2023-12-22 |  |
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-05-05 | 2024-01-12 |
 | [jazz y cdmx](https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [jazz y cdmx](https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z) | 2:01 | 2023-09-04 |  |
 | [Just A Cool Day](https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Just A Cool Day](https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI) | 1:55 | 2023-05-05 |  |
@@ -131,8 +132,8 @@
 | [van life](https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [van life](https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt) | 2:15 | 2023-05-05 |  |
 | [Vibrando Alto En Tulum](https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:53 | 2023-05-05 |  |
 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 | 2023-05-05 |  |
-| [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 |  |
-| [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 |  |
+| [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 | 2024-01-21 |
+| [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 | 2024-01-21 |
 | [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

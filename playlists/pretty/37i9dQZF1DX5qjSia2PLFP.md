@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,308 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,347 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCw3YzQ5NmVlZmE3ZTRhOTNjOTliZTVhMjIxZDM4ZDA5MjdkYzc3YjQ2`
+Snapshot ID: `MCxmM2RiMWMyYmIzN2FhYTQ3NjE2Mjc5YjZmODM3NWE1NTdjMWUyZjIy`

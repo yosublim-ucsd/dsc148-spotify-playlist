@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 1343945,
+  "2024-01-21": 1344895,
   "date_first_scraped": "2022-03-24",
-  "description": "o melhor do trap d\u00e1 o play e aumenta! Foto: Borges, MC Cabelinho, Veigh",
+  "description": "o melhor do trap d\u00e1 o play e aumenta! Foto: Tz da Coronel",
   "name": "Trapperz Brasil",
   "tracks": [
     {
@@ -351,6 +351,40 @@
       "duration_ms": 180923,
       "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
       "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
+    },
+    {
+      "album": {
+        "name": "La Carga",
+        "url": "https://open.spotify.com/album/3mwuiDpG96OCXlPCgr5JLX"
+      },
+      "artists": [
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Bren Oficial",
+          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "70 Gramas",
+      "url": "https://open.spotify.com/track/6rHsGUU8PEmuHEB5EQIhan"
     },
     {
       "album": {
@@ -1121,7 +1155,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226427,
       "name": "ARRUME-SE COMIGO",
       "url": "https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ"

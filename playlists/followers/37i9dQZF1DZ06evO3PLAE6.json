@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 9836,
+  "2024-01-21": 9842,
   "date_first_scraped": "2023-06-18",
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
   "name": "This Is Kasey Chambers",
@@ -415,6 +415,28 @@
       "duration_ms": 220266,
       "name": "If We Had A Child",
       "url": "https://open.spotify.com/track/1vMyByVaRTqcb6YLwf4cfp"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220258,
+      "name": "If We Had a Child (with Keith Urban)",
+      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
     },
     {
       "album": {

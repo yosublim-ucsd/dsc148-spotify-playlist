@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 144605,
+  "2024-01-21": 144685,
   "date_first_scraped": "2022-01-02",
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
   "name": "Nashville Stripped",
@@ -677,6 +677,24 @@
       "duration_ms": 189672,
       "name": "Broken Up - Acoustic",
       "url": "https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s"
+    },
+    {
+      "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Burn (Spotify OUTSIDE Version) - Live from Nashville",
+      "url": "https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe"
     },
     {
       "album": {
@@ -3139,7 +3157,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182692,
       "name": "Outskirts - Acoustic",
       "url": "https://open.spotify.com/track/31biT4mpfWsydnwXihioIH"

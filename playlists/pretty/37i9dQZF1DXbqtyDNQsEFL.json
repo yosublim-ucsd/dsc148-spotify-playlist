@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 59788,
+  "num_followers": 59859,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODkyOWUzZDNhYjUzZTYzMmI3YTRjYjJjOWVlYzY5YzdmZmJlMzlm",
+  "snapshot_id": "MCxjNzhjMjBjYjUyZDQ5YmQyZGE4YWJhZTE1ZGYxZDJhNmVlOTUxY2E4",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "This New Year",
-        "url": "https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
-        }
-      ],
-      "duration_ms": 251769,
-      "name": "This New Year",
-      "url": "https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Apostolos (Sounds of Transition)",
         "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "This New Year",
+        "url": "https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        },
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        }
+      ],
+      "duration_ms": 251769,
+      "name": "This New Year",
+      "url": "https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Ah Yami",
-        "url": "https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy"
-      },
-      "artists": [
-        {
-          "name": "Saint Realest",
-          "url": "https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs"
-        },
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Kelvin Sings",
-          "url": "https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC"
-        }
-      ],
-      "duration_ms": 193890,
-      "name": "Tate",
-      "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "OL\u00d9GB\u00c8J\u00c0",
         "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 888000,
       "name": "OL\u00d9GB\u00c8J\u00c0",
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Ah Yami",
+        "url": "https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy"
+      },
+      "artists": [
+        {
+          "name": "Saint Realest",
+          "url": "https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Kelvin Sings",
+          "url": "https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC"
+        }
+      ],
+      "duration_ms": 193890,
+      "name": "Tate",
+      "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"
     },
     {
       "added_at": "2023-12-15 00:01:00",

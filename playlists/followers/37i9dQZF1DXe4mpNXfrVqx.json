@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 106409,
+  "2024-01-21": 106399,
   "date_first_scraped": "2022-03-24",
   "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Mc Morena",
   "name": "S\u00f3 as Minas",
@@ -545,7 +545,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 138139,
       "name": "Borboleta",
       "url": "https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf"
@@ -1862,6 +1862,28 @@
     },
     {
       "album": {
+        "name": "LADIES NIGHT",
+        "url": "https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "LADIES NIGHT",
+      "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
+    },
+    {
+      "album": {
         "name": "Lealdade",
         "url": "https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G"
       },
@@ -2075,7 +2097,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 185524,
       "name": "Making Luv",
       "url": "https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C"
@@ -2459,6 +2481,28 @@
       "duration_ms": 186000,
       "name": "Na Onda do Boldo",
       "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+    },
+    {
+      "album": {
+        "name": "Por Que os Homens Amam as Vadias?",
+        "url": "https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "otrashy",
+          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154206,
+      "name": "Negra Tipo A",
+      "url": "https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU"
     },
     {
       "album": {

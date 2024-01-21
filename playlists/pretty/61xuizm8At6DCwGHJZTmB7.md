@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Banjamin William Hastings</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,121 likes - 111 songs - 10 hr 31 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,135 likes - 111 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

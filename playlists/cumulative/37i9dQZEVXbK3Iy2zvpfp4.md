@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-1,763 songs - 3 day 17 hr 48 min
+1,764 songs - 3 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 | 2023-09-26 | 2023-10-28 |
 | [Brutus \(Instrumental\)](https://open.spotify.com/track/0m5xMNMK48sQVjASd4YPPt) | [The Buttress](https://open.spotify.com/artist/61pcWUzNqpHNWc21SuHP1J) | [Brutus \(Instrumental\)](https://open.spotify.com/album/6ycznwLRYJKTDsPJOxmb8U) | 3:20 | 2023-10-23 | 2023-11-26 |
 | [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-06-09 | 2022-07-22 |
+| [Bublina](https://open.spotify.com/track/4lQq1sjwJX4RSucTpJVJCx) | [Lorien](https://open.spotify.com/artist/4k7DGZxvv6NPUQsCL9io9z) | [Bublina](https://open.spotify.com/album/6HlG6c0IFFYbfmk1ZaDDut) | 2:01 | 2024-01-20 |  |
 | [BUDE ZLE](https://open.spotify.com/track/74UATNIJ0ENAP0fDUm0tSS) | [Freez247](https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [BUDE ZLE](https://open.spotify.com/album/0hsH8qrA5ROEMC26FtukXP) | 2:40 | 2023-11-28 | 2023-11-30 |
 | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7) | 9:42 | 2022-07-31 | 2022-08-02 |
 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 | 2022-06-29 | 2022-08-02 |
@@ -1739,7 +1740,7 @@
 | [Ľadová](https://open.spotify.com/track/5OuGQrf4kd0EJILg4O4n4r) | [Seky](https://open.spotify.com/artist/4o8pPLk6wwgYbqalY24hQu) | [Jazvy](https://open.spotify.com/album/6QqmK5HRJFVhVLBXw78dGl) | 2:39 | 2023-05-29 | 2023-10-22 |
 | [ŠECKY LOVE NA HANDRY](https://open.spotify.com/track/0dYpmr7uNyZikBJEln1UCD) | [Frayer Flexking](https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [ŠECKY LOVE NA HANDRY](https://open.spotify.com/album/7IVe1xsQUATKaBhYlARUwv) | 4:08 | 2022-11-08 | 2022-11-16 |
 | [Šedá Hus](https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [Šedá Hus](https://open.spotify.com/album/0fyEaBDJ3NaYkTvWHVeroO) | 2:48 | 2023-06-13 | 2023-08-20 |
-| [škola](https://open.spotify.com/track/4rTbitlP7d9JjXooLWgoZa) | [spánok v lese letargie](https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q) | [volume 3](https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po) | 2:12 | 2024-01-07 |  |
+| [škola](https://open.spotify.com/track/4rTbitlP7d9JjXooLWgoZa) | [spánok v lese letargie](https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q) | [volume 3](https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po) | 2:12 | 2024-01-07 | 2024-01-21 |
 | [Špatný Sny](https://open.spotify.com/track/3hnVZOWlMs5WU7iWo8tZyT) | [Dominik Grey](https://open.spotify.com/artist/2IaLWIDRffUrEklC1qniDM) | [Špatný Sny](https://open.spotify.com/album/5aIsTYccjrPr7iD37hVBZo) | 3:00 | 2023-02-20 | 2023-03-18 |
 | [štokholm](https://open.spotify.com/track/1dislHcDKIfdiqyhxvb9I2) | [LUISA](https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H) | [28](https://open.spotify.com/album/1SlAHO2SOs1edF6qCMxkob) | 3:13 | 2023-09-12 | 2023-09-16 |
 | [Šukar gili](https://open.spotify.com/track/2j6WTMYO3AoNpLYphCCFiQ) | [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt), [Anita Soul](https://open.spotify.com/artist/5cU5Lr1p6OalQuRj6rWRDN), [Monika Bagarova](https://open.spotify.com/artist/0S3fK826BwWKNWHsomoocy) | [Wonder Woman](https://open.spotify.com/album/1FFmxc0ZSiUSsobPvjIzff) | 3:07 | 2024-01-02 |  |

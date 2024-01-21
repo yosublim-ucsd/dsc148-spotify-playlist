@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1652618,
+  "num_followers": 1653067,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjMzZDRlY2JlM2M1YjNmMWQzMGI1ZjgzM2Y2NjUxYWQ5NmQyZDRl",
+  "snapshot_id": "MCxmOWEwOTZiNzdmMWFhMDRkNTI0OWFmZTJhYTk2MjE3NDcyMDQ1ZWQx",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Best Buds",
-        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Death Cup",
-      "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Good Charlotte",
         "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Death Cup",
+      "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Diary (2009 Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 148120,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Diary (2009 Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 203240,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "No Really, I'm Fine (Standard Version)",
         "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 202573,
       "name": "All over You",
       "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Everything In Transit",
-        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "The Mixed Tape - 2015 Remastered",
-      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The Lonesome Crowded West",
         "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 209960,
       "name": "Polar Opposites",
       "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Everything In Transit",
+        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "The Mixed Tape - 2015 Remastered",
+      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "L.G. FUAD",
-      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "What To Do When You Are Dead",
         "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 228706,
       "name": "Car Underwater",
       "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "L.G. FUAD",
+      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1839,50 +1839,18 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+        "name": "Menos El Oso",
+        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
         }
       ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Phantoms",
-        "url": "https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM"
-      },
-      "artists": [
-        {
-          "name": "Acceptance",
-          "url": "https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "So Contagious",
-      "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Scary Kids Scaring Kids",
-        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+      "duration_ms": 215373,
+      "name": "Pachuca Sunrise",
+      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1903,18 +1871,50 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Menos El Oso",
-        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM"
       },
       "artists": [
         {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+          "name": "Acceptance",
+          "url": "https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW"
         }
       ],
-      "duration_ms": 215373,
-      "name": "Pachuca Sunrise",
-      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
+      "duration_ms": 184440,
+      "name": "So Contagious",
+      "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Scary Kids Scaring Kids",
+        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
     },
     {
       "added_at": "2023-10-22 18:43:11",

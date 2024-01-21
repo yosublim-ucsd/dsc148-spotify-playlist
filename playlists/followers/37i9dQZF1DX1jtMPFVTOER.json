@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 92296,
+  "2024-01-21": 92346,
   "date_first_scraped": "2022-01-01",
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
@@ -5375,6 +5375,28 @@
       "duration_ms": 307240,
       "name": "JAZZ IS DEAD (feat. Gary Bartz & Kassa Overall)",
       "url": "https://open.spotify.com/track/2I1W4oyGhq8bIEkmVjD6UZ"
+    },
+    {
+      "album": {
+        "name": "Jes' Grew in Osaka",
+        "url": "https://open.spotify.com/album/50VQyLVeMuOcE1SpRUvsCE"
+      },
+      "artists": [
+        {
+          "name": "R.A.P. Ferreira",
+          "url": "https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb"
+        },
+        {
+          "name": "Fumitake Tamura",
+          "url": "https://open.spotify.com/artist/41SItxhAnaousMYdgHn3rt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140956,
+      "name": "Jes' Grew in Osaka",
+      "url": "https://open.spotify.com/track/53zSIKyb1KsBsb9EmFerpM"
     },
     {
       "album": {

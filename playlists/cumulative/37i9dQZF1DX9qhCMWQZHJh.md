@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 5 hr 11 min
+82 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Rush \- Lil Silva Remix](https://open.spotify.com/track/6pi4cYFpxWkGxKrj0RmjWW) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [New Me, Same Us Remix EP](https://open.spotify.com/album/6k1Dz3KDGr2XsWJ2qArace) | 3:29 | 2022-04-11 |  |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2022-04-11 |  |
 | [Stevie](https://open.spotify.com/track/2VH9zir3JjJNDEECSKgvFd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Stevie](https://open.spotify.com/album/4RYXNq7msQqx3CFPGVY0x3) | 4:03 | 2022-04-11 |  |
-| [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 | 2022-05-06 |  |
+| [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 | 2022-05-06 | 2024-01-21 |
+| [strata](https://open.spotify.com/track/39I1adbbHU7r5bzDrDZ6bu) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [old dreams new planets](https://open.spotify.com/album/1Kl7ZKIPjaPKc6JjSTuhbV) | 5:36 | 2022-05-06 |  |
 | [Sunday Love](https://open.spotify.com/track/4hwTiqTNpXprf5oOPICwuh) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Bride](https://open.spotify.com/album/0FOJVGWk7r4QKYCP1hCCEq) | 4:13 | 2022-04-11 |  |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2022-05-06 |  |
 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 | 2022-04-11 |  |

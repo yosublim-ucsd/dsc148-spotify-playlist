@@ -4,12 +4,13 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-244 songs - 15 hr 33 min
+245 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24K Light](https://open.spotify.com/track/2bikDeo4RddR28fZ9GuN2u) | [Low Heat](https://open.spotify.com/artist/4hAT5em3xWFwCuxSNDCKHr) | [Greenery](https://open.spotify.com/album/0Bw5KL8C8Jf28moFmYkJbt) | 3:34 | 2022-08-05 | 2022-08-23 |
 | [333](https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:08 | 2022-04-25 | 2022-08-23 |
+| [338 \- REMIX E \* DIMOND SAINTS](https://open.spotify.com/track/38ortR9BWXqpvAIhynD1yo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [3:38 \(remixes\)](https://open.spotify.com/album/1mr7A4pEAe14qISXJNKmeU) | 3:43 | 2024-01-20 |  |
 | [422](https://open.spotify.com/track/4jPhy12lzftn5RFhocn0eb) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [140 ALLSTARS Vol\. 3](https://open.spotify.com/album/6bsB2ByjsiEuGhm482lttz) | 4:12 | 2022-09-17 | 2022-10-17 |
 | [A+ Mentality](https://open.spotify.com/track/6SUpiUkn6Cithp0ofyoh5g) | [Willdabeast](https://open.spotify.com/artist/4naFHw38cWUbiBKizrxaQx), [Glyph](https://open.spotify.com/artist/6VREHBNeXScftrRNu4RQQ5) | [A+ Mentality](https://open.spotify.com/album/2eVBTqjm5X9Hh0VFKEewge) | 4:34 | 2023-02-07 | 2023-05-10 |
 | [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 | 2022-08-04 | 2022-10-17 |

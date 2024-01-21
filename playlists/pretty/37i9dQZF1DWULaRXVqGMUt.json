@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 45792,
+  "num_followers": 45840,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2YyOGI5ZDE5OTIwYTA1MzIzZmU2OGEwNmI1OGU5OTBlYjk0NTJh",
+  "snapshot_id": "MCwzMjc5OTIzZGJiMjVkY2NmMzM2OWQxNzdjNWZjNDkyZDVmMTBhYzNi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 150571,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 188360,
       "name": "Slider",
       "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 150571,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "New Way",
         "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
       "artists": [
         {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
         }
       ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
       "artists": [
         {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
         }
       ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Storm",
         "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Bluegrass Boogie Woogie",
-      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "This Is Boogie Woogie!",
         "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
         }
       ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
+      "duration_ms": 200040,
+      "name": "Bluegrass Boogie Woogie",
+      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1075,6 +1059,22 @@
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Detroit Rocks",
-        "url": "https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH"
-      },
-      "artists": [
-        {
-          "name": "Montana Taylor",
-          "url": "https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Detroit Rocks",
-      "url": "https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Chicken Shack Boogie",
         "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 165408,
       "name": "Let Me Go Home, Whiskey",
       "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Detroit Rocks",
+        "url": "https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH"
+      },
+      "artists": [
+        {
+          "name": "Montana Taylor",
+          "url": "https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Detroit Rocks",
+      "url": "https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "St. Louis Blues Piano Man",
-        "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
-      },
-      "artists": [
-        {
-          "name": "James Crutchfield",
-          "url": "https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Piggly Wiggly Blues",
-      "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "St. Louis Blues Piano Man",
+        "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
       },
       "artists": [
         {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+          "name": "James Crutchfield",
+          "url": "https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Yancey Stomp",
-      "url": "https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx"
+      "duration_ms": 248226,
+      "name": "Piggly Wiggly Blues",
+      "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1287,6 +1271,22 @@
       "duration_ms": 177933,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 202,
+  "2024-01-21": 202,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC\">Ging FKA Frank Dukes</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ging FKA Frank Dukes",
@@ -775,7 +775,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -793,10 +793,40 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 303808,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2ADMJWa3Qq5iPA2tvMKyPD"
+    },
+    {
+      "album": {
+        "name": "Cold Dayz",
+        "url": "https://open.spotify.com/album/6D6n3LQi7JuFIpnrunYRlq"
+      },
+      "artists": [
+        {
+          "name": "Easturn Vantage",
+          "url": "https://open.spotify.com/artist/384vZPro6gLdrkQJyQ96gi"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308619,
+      "name": "Built for This",
+      "url": "https://open.spotify.com/track/57dqa4ca0qEFZBAJLpzy5D"
     },
     {
       "album": {
@@ -1053,7 +1083,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226309,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7AH5pivzIXEriMZuXAUwiJ"
@@ -1991,6 +2021,24 @@
       "duration_ms": 170640,
       "name": "I Forgot That You Existed",
       "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199718,
+      "name": "I Lie Awake Every Night",
+      "url": "https://open.spotify.com/track/1a5jmqiiVfoNmAjy9Y0F6h"
     },
     {
       "album": {
@@ -3013,7 +3061,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 208708,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6HWhCZfP4JJiDWFVRjA4Sc"
@@ -3031,7 +3079,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209722,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
@@ -3911,7 +3959,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -3929,7 +3977,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 199741,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7Mv9xyVPvrnoV3fKIWYoyo"

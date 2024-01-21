@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 10387,
+  "2024-01-21": 10391,
   "date_first_scraped": "2022-10-29",
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
   "name": "This Is EST Gee",
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204533,
       "name": "Hmhmm (feat. EST Gee)",
       "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
@@ -1575,6 +1575,28 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "album": {
+        "name": "Youngest N Charge 2",
+        "url": "https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx"
+      },
+      "artists": [
+        {
+          "name": "GMO Stax",
+          "url": "https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164488,
+      "name": "Roll Em Up (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/60eNYiXDmnc8Lv0Grqsqm7"
     },
     {
       "album": {

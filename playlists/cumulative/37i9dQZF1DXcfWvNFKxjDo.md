@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Oaks, Robin Schulz, Topic
 
-708 songs - 1 day 8 hr 41 min
+709 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,8 @@
 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-05 | 2023-11-11 |
 | [Sweet Dreams](https://open.spotify.com/track/5ZUB0BNuzPR9xC1r5VcLrl) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Sweet Dreams](https://open.spotify.com/album/0xvLMGLEn1M4htJcFKXbpE) | 2:40 | 2023-11-09 | 2023-11-18 |
 | [Sweet Home Alabama](https://open.spotify.com/track/05hOX8A1I5uztCq7gR9WDn) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/5bfbJ6R4hxWm1BcCfviyM5) | 2:22 | 2024-01-18 | 2024-01-20 |
-| [Sweet Home Alabama](https://open.spotify.com/track/1NB8u662ZTTpvxkhQGlb5z) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/0yopD72HfVqqnu9PULIjTX) | 2:22 | 2024-01-18 |  |
+| [Sweet Home Alabama](https://open.spotify.com/track/1NB8u662ZTTpvxkhQGlb5z) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/0yopD72HfVqqnu9PULIjTX) | 2:22 | 2024-01-18 | 2024-01-21 |
+| [Sweet Home Alabama](https://open.spotify.com/track/2eGPCjrVzdijWEC02FJOCD) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj) | [Sweet Home Alabama](https://open.spotify.com/album/1E29W4B1FRDd5ZdZdzoZ80) | 2:22 | 2024-01-18 |  |
 | [Take Me Back](https://open.spotify.com/track/36I7g7C0zVnM78qaJRBdSi) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Sound Factory](https://open.spotify.com/artist/7mstKZCPc7v5AgIYfx2aGD) | [Take Me Back](https://open.spotify.com/album/4i2EkwMggchEtSs5ea8Mp7) | 2:27 | 2023-09-07 | 2023-09-29 |
 | [Take Your Mind](https://open.spotify.com/track/3QSX2qZNZ8xRX9dFuWYOzF) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [MICAH](https://open.spotify.com/artist/2YrneHqbMOEKtGG6SxP8FL) | [Take Your Mind](https://open.spotify.com/album/0IAcgp4fhILfHlbgCjmQBU) | 2:54 | 2023-11-09 | 2023-11-18 |
 | [Talk to Me](https://open.spotify.com/track/1yeMXuBolknaRy9pbFEWyR) | [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5), [Neika](https://open.spotify.com/artist/68FFgnelfY75QdZ6RmctYh) | [Talk to Me](https://open.spotify.com/album/5lwugwwYwGOPvmzx70QFQ9) | 4:12 | 2023-12-08 | 2023-12-15 |

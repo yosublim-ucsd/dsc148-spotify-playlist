@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 801956,
+  "2024-01-21": 802075,
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Avenoir",
+  "description": "Smooth joints. Cover: Naomi Sharon",
   "name": "BUTTER",
   "tracks": [
     {
@@ -251,7 +251,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 206856,
       "name": "311!",
       "url": "https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG"
@@ -385,6 +385,24 @@
       "duration_ms": 294146,
       "name": "A Handmade Card",
       "url": "https://open.spotify.com/track/5KbxqOKDWG085zmuTn7qsa"
+    },
+    {
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "album": {
@@ -6833,7 +6851,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 152755,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"
@@ -7951,7 +7969,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
@@ -11804,6 +11822,24 @@
     },
     {
       "album": {
+        "name": "L\u2019Anthropofemme",
+        "url": "https://open.spotify.com/album/2rdk5oMRB4g6yBMxzXPv7I"
+      },
+      "artists": [
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190156,
+      "name": "L\u2019Anthropofemme",
+      "url": "https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri"
+    },
+    {
+      "album": {
         "name": "Allstars #1",
         "url": "https://open.spotify.com/album/1jVsDrzQqBOmyPsKNu1sxn"
       },
@@ -12083,6 +12119,32 @@
       "duration_ms": 206052,
       "name": "MARY",
       "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+    },
+    {
+      "album": {
+        "name": "Massamba Afundance",
+        "url": "https://open.spotify.com/album/6bqrt2uydI0J3aeJrqptbL"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Massamba Afundance",
+      "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
     },
     {
       "album": {
@@ -13765,6 +13827,24 @@
       "duration_ms": 150663,
       "name": "Nothing Nice (feat. Kojey Radical and Gaidaa)",
       "url": "https://open.spotify.com/track/79LkW0H9OrEtuLiJVcHVcG"
+    },
+    {
+      "album": {
+        "name": "Nothing Sweeter",
+        "url": "https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265386,
+      "name": "Nothing Sweeter",
+      "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
     },
     {
       "album": {
@@ -15749,7 +15829,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
@@ -16485,7 +16565,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 174400,
       "name": "SELF CARE",
       "url": "https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq"
@@ -16533,6 +16613,28 @@
       "duration_ms": 226096,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/5OhkVfh9tiZ5MmK60sqkKt"
+    },
+    {
+      "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Serena - Feat. Samm Henshaw",
+      "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
     },
     {
       "album": {
@@ -19123,7 +19225,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 160554,
       "name": "the evidence",
       "url": "https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n"
@@ -21239,6 +21341,24 @@
       "duration_ms": 160250,
       "name": "When It's Sweet",
       "url": "https://open.spotify.com/track/3b54cV4Vim1d4YhlDPkVj2"
+    },
+    {
+      "album": {
+        "name": "When You Can't Resist",
+        "url": "https://open.spotify.com/album/1wWvfKINIkaChVHxusBPEO"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292762,
+      "name": "When You Can't Resist",
+      "url": "https://open.spotify.com/track/5ugz3Qoe8jaIu4dfy30g9x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-37 songs - 2 hr 0 min
+38 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/4vNwP4hi3Ep76kQ4fTx7P6) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/album/1gRsdrNctsEVt119Ehyf7M) | 3:30 | 2022-10-18 | 2022-11-20 |
 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/5FXxHdzu0WW1ArMWrvlgHt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/album/3JdRTT9xQikqUp7pvkNDes) | 3:30 | 2022-10-18 |  |
 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/6eFldLL9bU3XZHJXdSkCnq) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:30 | 2022-10-18 | 2022-11-21 |
-| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-10-18 |  |
+| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-10-18 | 2024-01-21 |
+| [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2022-10-18 |  |
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2022-10-18 |  |
 
 \*This playlist was first scraped on 2022-10-21. Prior content cannot be recovered.

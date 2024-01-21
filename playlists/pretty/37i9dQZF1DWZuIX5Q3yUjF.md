@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: STE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,136 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,141 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Usa La Memoria](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 |
 | 3 | [INDELEBILE](https://open.spotify.com/track/4OhRX1lmUhy7MRlsU53bNB) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [The Ceasars](https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw) | [INDELEBILE](https://open.spotify.com/album/0rwcM8qV94f15hRbXlDxMP) | 4:04 |
 | 4 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
-| 5 | [Candeline](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
+| 5 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
 | 6 | [MEDUSA](https://open.spotify.com/track/5j5xkOryUnxtARjVzpqrN5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [MEDUSA](https://open.spotify.com/album/2YYlMDMoqDgCvqGEmuibiX) | 2:55 |
 | 7 | [Labirinto](https://open.spotify.com/track/1558E3L8hQXfsFGwEz8e1N) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940), [Pellerito](https://open.spotify.com/artist/7l6pS28UBNcLASGW2LsKC5) | [Elisir](https://open.spotify.com/album/4JWKkR4KvAB4LrrOetczfj) | 2:48 |
 | 8 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
 | 65 | [Ma non adesso](https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Ma non adesso](https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k) | 2:59 |
 
-Snapshot ID: `MCxkY2Y1NjhmNmViNjllMTEzN2JkYmQ4YWYxYWQ2OGMyY2EwMjJiNDA3`
+Snapshot ID: `MCwxODU2NGIwMDRkZjk3ZGU5NGEzMmVkMTViZWM2MzVlZGE5OWFjYmZl`

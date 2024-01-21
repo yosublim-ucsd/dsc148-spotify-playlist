@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=ms0XCo5OQJOv5d21BFq0WA">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,824 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,921 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 14 | [Yonke](https://open.spotify.com/track/4yLeoshAxRX9Ao1r9NliBt) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Yonke](https://open.spotify.com/album/4m0ubMiJF6R8IVU9HyJLU4) | 5:59 |
 | 15 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 16 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
-| 17 | [My Heart, My Home](https://open.spotify.com/track/19pv7AjNVnPEpJGVLwLQJi) | [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV), [Masuda](https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl), [Zinhle Madela](https://open.spotify.com/artist/19CWnkNr9aTKCUIOglaDos), [Tim Lewis](https://open.spotify.com/artist/0ZJxKCeZFz1jb126t88uYL) | [My Heart, My Home](https://open.spotify.com/album/0ITqHhywnautGH3NbsHIsF) | 3:53 |
+| 17 | [My Heart, My Home](https://open.spotify.com/track/19pv7AjNVnPEpJGVLwLQJi) | [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV), [Masuda](https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl), [Zinhle Madela](https://open.spotify.com/artist/19CWnkNr9aTKCUIOglaDos), [Tim Lewis](https://open.spotify.com/artist/3JEFursGA74y8fu9WA8U0X) | [My Heart, My Home](https://open.spotify.com/album/0ITqHhywnautGH3NbsHIsF) | 3:53 |
 | 18 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 |
 | 19 | [Nguwe](https://open.spotify.com/track/5FoOsxC0RXU5Qr7GFJEUBi) | [DJ Stoks](https://open.spotify.com/artist/7bodPHNFw5XQ3UVfqP7cUP), [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C), [Nandi Ndathane](https://open.spotify.com/artist/2YaRxeAjiN0Sj4PQQx3KAk) | [Nguwe](https://open.spotify.com/album/10qI4UtVFnajf95jtywehe) | 7:13 |
 | 20 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Travelers](https://open.spotify.com/track/6wxarX9bnQDgWdaiPhuot7) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Travelers](https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO) | 2:39 |
 | 50 | [Do it Lekka \- 2023 Remastered Version](https://open.spotify.com/track/1KlOoA2nNqfL08WhhPW5xf) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg), [DAMZA](https://open.spotify.com/artist/1Q3PoGaqJSR4jUby2Fgba6) | [Do it Lekka \(2023 Remastered Version\)](https://open.spotify.com/album/2nHLLZ8ep3YtyQApxHJ5AE) | 7:04 |
 
-Snapshot ID: `MCw5MDAyYmU2YTM0Y2Q1ZTExMWNiZjg4MTQ3YWRiZDRmYmE4NzdkZGM5`
+Snapshot ID: `MCw0NTAxODg1ZGUxMGZlYjVhNThkZTliYTBlMDg1MjY0YjUwY2RlZGQy`

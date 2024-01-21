@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Joey Bada$$, Fivio Foreign, Blxst and more\. Cover: Rob49 & Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,420 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,722 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 19 | [Dat Business](https://open.spotify.com/track/3OcGYX2gjvVTcU3OVCE9iZ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I'm Sad](https://open.spotify.com/album/1sNFQJdjahycBFQrPVW2RN) | 2:00 |
 | 20 | [Adderall](https://open.spotify.com/track/0YiRaRTzeYZijTUsYDnBSL) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Kenny World](https://open.spotify.com/album/2m6SZ6zZKGGk2nfmvChy28) | 3:41 |
 | 21 | [HUNDRED MILLION \(with Project Pat\)](https://open.spotify.com/track/3pmLATyOVXvgdYAhPDQ0XM) | [Happy Monday](https://open.spotify.com/artist/78LQKQIW6fmoKO7brWMrUq), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [HUNDRED MILLION \(with Project Pat\)](https://open.spotify.com/album/7zC7xCIVm9gwLjdQAm4dEK) | 2:30 |
-| 22 | [PYSCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
+| 22 | [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
 | 23 | [2011](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
 | 24 | [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 |
 | 25 | [sora](https://open.spotify.com/track/3bgGs4yIhwhzXsPI61TYO9) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [sora](https://open.spotify.com/album/0SUvjOraoJpKlM2y2qxIQP) | 2:24 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Humble](https://open.spotify.com/track/77Q9ibvJ6ejNWQkIrJgK6J) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Humble](https://open.spotify.com/album/0lDyXt2w6hKkjQKbQkJ4Yt) | 2:01 |
 | 36 | [Deja Vu](https://open.spotify.com/track/1Hn5A1HounSuEAxZyRB6EL) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR), [Hooligan Lou](https://open.spotify.com/artist/2iZvqlLIyW2ze4hOGi0BG9) | [Deja Vu](https://open.spotify.com/album/0Mib8YdYQZWPnYPKHRKWOh) | 2:19 |
 | 37 | [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 |
-| 38 | [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 3:53 |
+| 38 | [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 2:53 |
 | 39 | [Audacity](https://open.spotify.com/track/38lSvWAlDergXoGUPXsgM8) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Audacity](https://open.spotify.com/album/4ykPW3Stp1sxdM0WEqhRp5) | 3:14 |
 | 40 | [WHO AM I](https://open.spotify.com/track/7dYlzIpwTpcuV53z2D6eTC) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [WHO AM I](https://open.spotify.com/album/2DPeAIzefUfnTotr3hGJx6) | 2:28 |
 | 41 | [Shoot](https://open.spotify.com/track/0USWqltIVFvCfM3TRzmzGW) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Shoot](https://open.spotify.com/album/00vuHXtgPFzONXA5Z5cdlY) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got It on Me](https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Got It on Me](https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk) | 2:14 |
 | 50 | [No Cuffin](https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [No Cuffin](https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV) | 1:31 |
 
-Snapshot ID: `MCw4M2IxNTQ4MGE4MDM3MDFjYWEyYjQ4YzJkMzgxOGQ2ZTdjNjk2NzRm`
+Snapshot ID: `MCwwZjUzNGY3ZDFkZjM1MDYwZWYzZjZmNjhmZTczNzdhZWNhMjY5MTA4`

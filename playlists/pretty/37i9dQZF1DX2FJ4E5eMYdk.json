@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 158105,
+  "num_followers": 158148,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjhlMDQ1NDlmZjZhZTc5Yjg3MmJiNDA5YzVhM2U5YjUzNzFhZmY4",
+  "snapshot_id": "MCwxMGIxNDIyZWRjNDZlNTNiOWZjNzNlY2ExYzMzOWVjM2FiZWY1Yjcz",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -127,18 +127,26 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Amoeba - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -223,26 +231,18 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
       "artists": [
         {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 260090,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+      "duration_ms": 224946,
+      "name": "Amoeba - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Do What Feeds Your Soul",
-        "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
       },
       "artists": [
         {
-          "name": "Kyshona",
-          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
-        },
-        {
-          "name": "Shannon LaBrie",
-          "url": "https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7"
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Do What Feeds Your Soul",
-      "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
     }
   ],
   "unique_name": "Psych & Groove",

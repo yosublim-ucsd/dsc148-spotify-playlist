@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 54461,
+  "num_followers": 54490,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI5MDUzYzg1ZDVmYTdiMGJlOTUyMDgzMmE1ZDVjYzk1YTBmN2M0",
+  "snapshot_id": "MCxkNzcxMjczNzI5ZDcxNDIwZTIwOGFjZGU4YmVhZTlmNWJmNGVjODc4",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+        "name": "Vai dar Bom",
+        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+      "duration_ms": 204500,
+      "name": "VAI DAR BOM",
+      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Vai dar Bom",
-        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 204500,
-      "name": "VAI DAR BOM",
-      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
       "artists": [
         {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
         },
         {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
       "artists": [
         {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
         },
         {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
         }
       ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Onda (Remix)",
-        "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 346939,
-      "name": "Onda - Remix",
-      "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -763,6 +743,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Onda (Remix)",
+        "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 346939,
+      "name": "Onda - Remix",
+      "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Candeia",
         "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 199186,
       "name": "Candeia",
       "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -835,42 +835,6 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
-      },
-      "artists": [
-        {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -895,6 +859,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "DEJAVU PRIMAVERA",
         "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 171500,
       "name": "DESLIGA O TELEFONE",
       "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2024-01-19 03:01:00",

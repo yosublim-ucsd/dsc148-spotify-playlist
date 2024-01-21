@@ -4,7 +4,7 @@
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-269 songs - 16 hr 40 min
+270 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 | 2022-10-28 | 2023-11-23 |
 | [¡Ay, Mi Corazón!](https://open.spotify.com/track/0GausS98RDplDHbITzyRMJ) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3qSj9um4kvtXA0ghXomqQw) | 3:55 | 2022-04-20 | 2022-10-29 |
 | [¡Ay, Mi Corazón!](https://open.spotify.com/track/1D8664oUPv5el6VLBkzi7e) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3SYeXGtFmXnwVQ10k0fRJ5) | 3:55 | 2022-04-20 | 2022-10-01 |
-| [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 | 2023-11-22 |  |
+| [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 | 2024-01-16 |  |
+| [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 | 2023-11-22 | 2024-01-21 |
 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 | 2021-10-20 | 2023-11-03 |
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw) | 3:47 | 2023-05-09 | 2023-11-23 |
 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-11-22 |  |

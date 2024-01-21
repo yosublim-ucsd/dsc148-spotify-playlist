@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 346817,
+  "2024-01-21": 346837,
   "date_first_scraped": "2022-01-18",
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
   "name": "Divina MPB",
@@ -145,6 +145,24 @@
       "duration_ms": 201486,
       "name": "A fila",
       "url": "https://open.spotify.com/track/7AWjDlpdAML5IQxXY3dHpa"
+    },
+    {
+      "album": {
+        "name": "Euf\u00f3tico",
+        "url": "https://open.spotify.com/album/0dFqIyj6yuJz3BWCeznW8U"
+      },
+      "artists": [
+        {
+          "name": "Adriano Grineberg",
+          "url": "https://open.spotify.com/artist/2599bDGK4Ajb35fL2P2iev"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "A Lenda do Abaet\u00e9",
+      "url": "https://open.spotify.com/track/3xGv2WGYRCpHPVj7aEUSXY"
     },
     {
       "album": {
@@ -1866,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Caixas",
+        "url": "https://open.spotify.com/album/0lasXYU6iEWxpf8OZTCgXe"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173168,
+      "name": "Caixas",
+      "url": "https://open.spotify.com/track/0yJpjl50dWrBXFAM5PkHqZ"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
@@ -2819,7 +2855,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 215173,
       "name": "Dan\u00e7a Do Amor",
       "url": "https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB"
@@ -3419,7 +3455,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
@@ -8176,6 +8212,32 @@
     },
     {
       "album": {
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+    },
+    {
+      "album": {
         "name": "Pecado Capital",
         "url": "https://open.spotify.com/album/00i3UWxEfm6XG0hbnt7dYL"
       },
@@ -9231,6 +9293,28 @@
       "duration_ms": 194752,
       "name": "Querer Bem",
       "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+    },
+    {
+      "album": {
+        "name": "Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149517,
+      "name": "Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
     },
     {
       "album": {
@@ -11539,7 +11623,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 218958,
       "name": "Tupinamb\u00e1",
       "url": "https://open.spotify.com/track/6SFJWtpZhmSqwMxRa6JW8l"

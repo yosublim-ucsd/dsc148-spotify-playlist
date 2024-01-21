@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Green Day",
-  "num_followers": 386308,
+  "num_followers": 386270,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg2NmU0Mjc0ODIxOTNkNmE0OTE5ODkzODQwOGQ1YzhiNWY3OTBh",
+  "snapshot_id": "MCw0YmM3YTU4NGZhMDFkY2JmNTk5MGRhOGZhNGM5ZjE4NDM5ZDdjMjY4",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -908,10 +908,6 @@
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
@@ -922,6 +918,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "duration_ms": 228267,

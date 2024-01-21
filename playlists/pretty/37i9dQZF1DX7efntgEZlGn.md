@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,971 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,973 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 39 | [Praise God Lalala](https://open.spotify.com/track/4OIHpTzlgweG0KAtHrGAWi) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr), [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Praise God Lalala](https://open.spotify.com/album/3is3xI92tpOefQmnmmITrv) | 3:04 |
 | 40 | [Wanitazama](https://open.spotify.com/track/33LoZtHwsnaJsCTu9TAIep) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 4:13 |
 | 41 | [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 |
-| 42 | [Backslide](https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q) | 3:53 |
+| 42 | [Backslide](https://open.spotify.com/track/6QTmofmaXx6UhmZoBUhEm2) | [Ringtone Apoko](https://open.spotify.com/artist/6sSiI4bXbeB2NvFuNQfZdd), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Zoea Mawe](https://open.spotify.com/album/2WCTcbQVS4ULy60l1cxwsB) | 3:53 |
 | 43 | [Adoration](https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc) | [Dafari](https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x) | [Preacher Bwoy](https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu) | 3:57 |
 | 44 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 |
 | 45 | [Breakthrough](https://open.spotify.com/track/75PIDjhtJiLKMMLzpZMMPR) | [Engincan Onar](https://open.spotify.com/artist/08WRe2gvrGn6UczJKbU9Il), [Havoc](https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ) | [Breakthrough](https://open.spotify.com/album/4u3F02QumGxaRq7GtQ3l7Z) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Yeah](https://open.spotify.com/track/1KxhoSzSYTM1EWNFEe8iBk) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Yeah](https://open.spotify.com/album/6EvSEGPSfl9vnGyXmWSbzm) | 3:37 |
 | 50 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 |
 
-Snapshot ID: `MCwwYmU0NjY3NGEzNTgwNWE4NjIwZWZjZDg0YjY5ZTgyNWNmOWY4ODk2`
+Snapshot ID: `MCwyNTVhZmNiMjU5N2Q3NzhmNDU5NzIzZGZjNmUwOTA5MDRlNTU0Zjhk`

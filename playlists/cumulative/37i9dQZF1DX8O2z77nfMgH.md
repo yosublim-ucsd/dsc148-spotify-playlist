@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Prince Royce y Gabito Ballesteros
 
-6,450 songs - 14 day 10 hr 17 min
+6,451 songs - 14 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Boyfriend](https://open.spotify.com/track/2NDzTgfBOyikPB8xqgmySv) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Boyfriend](https://open.spotify.com/album/33Qi0M44cAuRUCzmnDWJC8) | 2:42 | 2022-10-07 | 2022-10-15 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 | 2022-01-28 | 2022-02-05 |
 | [Boyz In Da House](https://open.spotify.com/track/2CEYNYeK5uiVvPensolF6n) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8) | [Boyz In Da House](https://open.spotify.com/album/5YiSBGrupAnOHU8KTqRVAh) | 3:49 | 2022-08-26 | 2022-09-03 |
+| [Brattiputy](https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Brattiputy](https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f) | 3:50 | 2024-01-20 |  |
 | [Break](https://open.spotify.com/track/5w2vDEM6rRpIyOOYFuyNnm) | [Foreign](https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Break](https://open.spotify.com/album/2q5ojFbm8BdMTQicV0VsQw) | 3:36 | 2022-03-18 | 2022-03-26 |
 | [Break In](https://open.spotify.com/track/5eRjEIaNVUL3Ahua8uy4B0) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Break In](https://open.spotify.com/album/7JkZY7aFLeIMjjIjydgw13) | 3:42 | 2023-06-16 | 2023-06-24 |
 | [Brickell](https://open.spotify.com/track/0ptX5UGfC8dQ2sZn452sEd) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [Brickell](https://open.spotify.com/album/6zfN6EebQwWUzx7Eg9bUHj) | 3:34 | 2022-02-04 | 2022-02-12 |

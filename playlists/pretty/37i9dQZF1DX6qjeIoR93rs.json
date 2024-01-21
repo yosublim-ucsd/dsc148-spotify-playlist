@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 58704,
+  "num_followers": 58772,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM4NmI4ODJjN2I3NzgwNGNjNzRkOGFkYzQ3Yzc3NjFhZGE3Nzk4",
+  "snapshot_id": "MCwzYzZmYmRhMDlkMGY3NThlYjM0MTdjYWQwMGFjNzY2Nzc0YTVjNTg0",
   "tracks": [
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Al Rozana",
+      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
         "url": "https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 152000,
       "name": "From Here",
       "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Na'na' Ya Na'na'",
-        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Al Rozana",
-      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
     },
     {
       "added_at": "2023-11-11 14:44:03",

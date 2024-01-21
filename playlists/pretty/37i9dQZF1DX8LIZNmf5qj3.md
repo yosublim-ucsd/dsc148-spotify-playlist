@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,999 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,000 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Pull Over](https://open.spotify.com/track/2Z8Bs1coB5jruX75pmBG7F) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Pull Over](https://open.spotify.com/album/0t7F6632fADm90Kbd1V25j) | 3:41 |
 | 50 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 
-Snapshot ID: `MCw4OWIzYTc1MzEyZjNjMzRiOTkyYzY0ZjliYWRhY2Y3MGMzMDc4MGJi`
+Snapshot ID: `MCwxYmU2MzU0ODlmZTFhMzI4MzhmNzg0ZWJhODU2OTg0NmNmYzAyMzIz`

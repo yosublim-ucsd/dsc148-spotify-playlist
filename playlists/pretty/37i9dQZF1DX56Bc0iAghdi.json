@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 28841,
+  "num_followers": 28862,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTdiMzhjMGE5MmYxYWM2M2I5OGEwOGI3YmE2NmViOTMwODBlMzlm",
+  "snapshot_id": "MCwzMTViZjU4ODY2YTJmNmE5OTQ4MjdmMzE0Mzk2NGFmMWI2NWQyNzc2",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Weakness",
+      "url": "https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Only Have One",
         "url": "https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4ar0FB87jliCm8gfaiTwds"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Weakness",
-      "url": "https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M"
     },
     {
       "added_at": "2023-02-18 06:22:02",

@@ -4569,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062e\u0644\u0637\u0647",
+        "url": "https://open.spotify.com/album/5Yy7pst7P0EU2HD3hdJd9f"
+      },
+      "artists": [
+        {
+          "name": "3ab3az",
+          "url": "https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132912,
+      "name": "\u0627\u0644\u062e\u0644\u0637\u0647",
+      "url": "https://open.spotify.com/track/6gp6662FXHbmmZbM64y1vC"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u062e\u0644\u0637\u0647 - El Khalta",
         "url": "https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju"
       },
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 132889,
       "name": "\u0627\u0644\u062e\u0644\u0637\u0647 - El Khalta",
       "url": "https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF"

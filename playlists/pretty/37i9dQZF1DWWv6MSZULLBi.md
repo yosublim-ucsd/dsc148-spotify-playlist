@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,603 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,619 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 |
 | 100 | [Feel This Way Too](https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 4:32 |
 
-Snapshot ID: `MCxlNWJlNDlmNmYyMjUyMjU4Njc4OTkxMzc3NTQ1NTdjM2EwNTAyMTZl`
+Snapshot ID: `MCxiMmQ4Y2U1OTk4NGFlMmE5Zjk4MTBmZmE5ZTgzNWM3ZjAwYzdlY2Zh`

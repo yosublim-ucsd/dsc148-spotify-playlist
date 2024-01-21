@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 221603,
+  "2024-01-21": 221652,
   "date_first_scraped": "2022-04-20",
   "description": "Work and study to the sound of soft electronic music.",
   "name": "Electronic Focus",
@@ -1011,6 +1011,24 @@
       "duration_ms": 167005,
       "name": "Clearance",
       "url": "https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx"
+    },
+    {
+      "album": {
+        "name": "Coconut Bay",
+        "url": "https://open.spotify.com/album/5GKBXgc1tGzwNW9UOaVXWA"
+      },
+      "artists": [
+        {
+          "name": "Pink Villa",
+          "url": "https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137894,
+      "name": "Coconut Bay",
+      "url": "https://open.spotify.com/track/6KxsUf9Dz6rxM3OxyfSl59"
     },
     {
       "album": {
@@ -5099,6 +5117,24 @@
       "duration_ms": 303688,
       "name": "The Time",
       "url": "https://open.spotify.com/track/1t977rzwRbiibn2OJb0xvF"
+    },
+    {
+      "album": {
+        "name": "Thin Minute",
+        "url": "https://open.spotify.com/album/5cuS22pdRRHpQnBE9D5baF"
+      },
+      "artists": [
+        {
+          "name": "Gloster Gladiator",
+          "url": "https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125405,
+      "name": "Thin Minute",
+      "url": "https://open.spotify.com/track/4ocQtMV5xbPtGyCnP0YifT"
     },
     {
       "album": {

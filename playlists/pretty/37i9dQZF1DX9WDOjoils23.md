@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,618 likes - 35 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,645 likes - 35 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 25 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
 | 26 | [Akhiyan Udeek Diyaan](https://open.spotify.com/track/34I8KaDsPoVv6F6gItatrz) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Mystic Rahat](https://open.spotify.com/album/4wtUXYCYE2gdwT8qiJ0wy8) | 13:41 |
 | 27 | [Bawa](https://open.spotify.com/track/7MMZySuMHhENxAWnSiJahb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 5:20 |
-| 28 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 |
+| 28 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/0Ibco1p94QkiiZ7NE8qmci) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/0UiADrDM427r2gBguo8Rg5) | 21:10 |
 | 29 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 6:54 |
 | 30 | [Ishq](https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 3:40 |
 | 31 | [Sone Yaar](https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Aa Mil Yaar](https://open.spotify.com/album/6nzQRybk8TXsl30nIYR3Vt) | 5:15 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 34 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 |
 | 35 | [Ae Athra Ishq Naeen Saun Denda](https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ishq, Vol\. 60](https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM) | 15:25 |
 
-Snapshot ID: `MCw5NzIwZjQwYmNkNzQ2ODg5Y2Q1NjljNjk3YzgwMWFhY2YwOTkzMjQy`
+Snapshot ID: `MCw2ZmJhZjUyMDA2YThkNDI4YTYwM2I5MDc2ZmY4NTFkYzQ3ZTA2ZmI1`

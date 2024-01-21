@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 725965,
+  "2024-01-21": 725974,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: The Game & Big Hit",
   "name": "Westside Story",
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 162500,
       "name": "Cruisin In LA",
       "url": "https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP"
@@ -3172,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Dipped In Butter",
+        "url": "https://open.spotify.com/album/4CpTVcyoyKVnZF0k0burfc"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135403,
+      "name": "Dipped In Butter",
+      "url": "https://open.spotify.com/track/1O15hl9EZPMycWH8Of75l3"
+    },
+    {
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
@@ -3191,6 +3209,28 @@
       "duration_ms": 231818,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+    },
+    {
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "album": {
@@ -4380,6 +4420,24 @@
     },
     {
       "album": {
+        "name": "Forever On That",
+        "url": "https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128630,
+      "name": "Forever On That",
+      "url": "https://open.spotify.com/track/2DUuNEHxyeRz1JOZb9URyV"
+    },
+    {
+      "album": {
         "name": "Foster",
         "url": "https://open.spotify.com/album/37NzzTlMGxMD0oqAm5cjjf"
       },
@@ -4910,6 +4968,32 @@
     },
     {
       "album": {
+        "name": "Ghetto Clicc",
+        "url": "https://open.spotify.com/album/2yDXVrACoYkEXfnn9U592m"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133311,
+      "name": "Ghetto Clicc",
+      "url": "https://open.spotify.com/track/3IpCm81pYbPf1iv4mzu733"
+    },
+    {
+      "album": {
         "name": "Ghetto Lullaby (feat. Jehkai)",
         "url": "https://open.spotify.com/album/2igr9F4M6J6hbfOSVuWop1"
       },
@@ -5167,6 +5251,28 @@
       "duration_ms": 214615,
       "name": "Gossip",
       "url": "https://open.spotify.com/track/7xb7wYyWhmyAlrqQZP9kHQ"
+    },
+    {
+      "album": {
+        "name": "Got It on Me",
+        "url": "https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk"
+      },
+      "artists": [
+        {
+          "name": "Conradfrmdaaves",
+          "url": "https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134478,
+      "name": "Got It on Me",
+      "url": "https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K"
     },
     {
       "album": {
@@ -5527,6 +5633,24 @@
       "duration_ms": 303385,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
+    },
+    {
+      "album": {
+        "name": "Heart Ain't Empty",
+        "url": "https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177204,
+      "name": "Heart Ain't Empty",
+      "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
     },
     {
       "album": {
@@ -8063,7 +8187,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 130343,
       "name": "Money Dance",
       "url": "https://open.spotify.com/track/7uVs1Q4gRCR7RFLNz2zOTe"
@@ -8715,6 +8839,24 @@
       "duration_ms": 100752,
       "name": "NFAMOUS",
       "url": "https://open.spotify.com/track/6muxzIVzK5Jt3BVRM6G5Q2"
+    },
+    {
+      "album": {
+        "name": "No Cuffin",
+        "url": "https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV"
+      },
+      "artists": [
+        {
+          "name": "1takejay",
+          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91428,
+      "name": "No Cuffin",
+      "url": "https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh"
     },
     {
       "album": {
@@ -9911,7 +10053,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165913,
       "name": "Phunky Ex / Ballout",
       "url": "https://open.spotify.com/track/3j7oZroY6LTdzm75fXY0Wi"
@@ -12202,6 +12344,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/60AT3ZGGOzzSgHoMdnrsHw"
+      },
+      "artists": [
+        {
+          "name": "Aflacko",
+          "url": "https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2WjZUIsUntwoOjqEeSVGOT"
+    },
+    {
+      "album": {
         "name": "Tell The Truth (with Shordie Shordie)",
         "url": "https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz"
       },
@@ -12539,7 +12699,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 135382,
       "name": "The One",
       "url": "https://open.spotify.com/track/0KPe2Kbminv6Lb7Ev9GVJy"
@@ -12685,6 +12845,28 @@
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
+    },
+    {
+      "album": {
+        "name": "To Da Face (feat. Ohgeesy)",
+        "url": "https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "To Da Face (feat. Ohgeesy)",
+      "url": "https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8"
     },
     {
       "album": {
@@ -13209,7 +13391,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 184434,
       "name": "Vince Lombardi",
       "url": "https://open.spotify.com/track/2Ml2qllKy419ewvDa5xcs7"
@@ -13579,6 +13761,28 @@
       "duration_ms": 169708,
       "name": "Where's Remble?",
       "url": "https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV"
+    },
+    {
+      "album": {
+        "name": "Free Blueface",
+        "url": "https://open.spotify.com/album/4EweJqbgiOGIzI2B0hDnsE"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158139,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/7qJ0p9gRH2EU5KgRZZjMC2"
     },
     {
       "album": {

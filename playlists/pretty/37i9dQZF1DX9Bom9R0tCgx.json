@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 359517,
+  "num_followers": 359753,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWM3YmI3NmE1YjQ5MDljNTRmYWQ5ZGIzY2IyYzk1ZjA3ZmJjYjkx",
+  "snapshot_id": "MCwyZTkzZDMzOWRmZjYxNjk3YTM4ZTBiODdmMzY5ZWZjNzE1Y2I4MTQ5",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Love Is A Drug",
-        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Love Is A Drug",
+        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Mirror Mirror (Showtek 360 Blue Edit)",
         "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 187132,
       "name": "Mirror Mirror (Showtek 360 Blue Edit)",
       "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Hyper Hyper",
         "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 178153,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Adeste Fideles",
-        "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
-        },
-        {
-          "name": "Shibui",
-          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
-        }
-      ],
-      "duration_ms": 121029,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1539,6 +1515,30 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Adeste Fideles",
+        "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 121029,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Better Off Alone (Hardstyle)",
         "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 161000,
       "name": "Better Off Alone - Hardstyle",
       "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1583,26 +1603,6 @@
       "duration_ms": 177600,
       "name": "Superman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/2qdiwQikjxIOVHppVZd2r9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "My Crew (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "My Crew (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "O Fortuna",
         "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
       },
@@ -1711,26 +1695,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Tell Me Secrets",
-        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        },
-        {
-          "name": "Joker Bra",
-          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 136299,
-      "name": "Tell Me Secrets",
-      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1759,6 +1735,30 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Tell Me Secrets",
+        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Joker Bra",
+          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+        }
+      ],
+      "duration_ms": 136299,
+      "name": "Tell Me Secrets",
+      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Chasing Highs (LIZOT Remix)",
         "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
       },
@@ -1779,6 +1779,54 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Alors On Danse",
+        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+        },
+        {
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
+        }
+      ],
+      "duration_ms": 135565,
+      "name": "Alors On Danse",
+      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Jiggy",
         "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
       },
@@ -1791,30 +1839,6 @@
       "duration_ms": 189878,
       "name": "Jiggy",
       "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "ALONE (HYPERTECHNO)",
-        "url": "https://open.spotify.com/album/6oxP7oaH3KeE5lvZQuBgl9"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Robbe",
-          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
-        },
-        {
-          "name": "HYPER DEMON",
-          "url": "https://open.spotify.com/artist/0FANj0502DHdbObVXrNYeM"
-        }
-      ],
-      "duration_ms": 114352,
-      "name": "ALONE - HYPERTECHNO",
-      "url": "https://open.spotify.com/track/0VGExAT58nOZpXzNbmM9jB"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1867,26 +1891,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+        "name": "ALONE (HYPERTECHNO)",
+        "url": "https://open.spotify.com/album/6oxP7oaH3KeE5lvZQuBgl9"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
         },
         {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
         },
         {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+          "name": "HYPER DEMON",
+          "url": "https://open.spotify.com/artist/0FANj0502DHdbObVXrNYeM"
         }
       ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+      "duration_ms": 114352,
+      "name": "ALONE - HYPERTECHNO",
+      "url": "https://open.spotify.com/track/0VGExAT58nOZpXzNbmM9jB"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1931,30 +1955,6 @@
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Alors On Danse",
-        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Hyper Hamster",
-          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
-        },
-        {
-          "name": "PET3RPUNX",
-          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
-        }
-      ],
-      "duration_ms": 135565,
-      "name": "Alors On Danse",
-      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -2055,30 +2055,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Smooth Operator (feat. HYPERTEKKNO) [Techno Remix]",
-        "url": "https://open.spotify.com/album/3eqvSCsySNNJE0refJZJOD"
+        "name": "HEDEGAARD Remix Vol. 1",
+        "url": "https://open.spotify.com/album/0fVVjZoDaJDd71je03IjDJ"
       },
       "artists": [
         {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         },
         {
-          "name": "Danny Ores",
-          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
-        },
-        {
-          "name": "YKATI",
-          "url": "https://open.spotify.com/artist/2FOTwZJ9lsI3mpT68nqc10"
-        },
-        {
-          "name": "HYPERTEKKNO",
-          "url": "https://open.spotify.com/artist/63T5Y64mh5wbcLszlPycPT"
+          "name": "KEAN DYSSO",
+          "url": "https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5"
         }
       ],
-      "duration_ms": 131400,
-      "name": "Smooth Operator (feat. HYPERTEKKNO) - Techno Remix",
-      "url": "https://open.spotify.com/track/5RBdfbnu4h8EzIabEJGYnn"
+      "duration_ms": 141668,
+      "name": "Astronaut In The Ocean - HEDEGAARD & KEAN DYSSO Remix",
+      "url": "https://open.spotify.com/track/0Gd2CZ7X7c5u1aY9i9C0zL"
     }
   ],
   "unique_name": "Bass Explosion",

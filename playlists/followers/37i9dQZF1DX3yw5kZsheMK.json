@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 11403,
+  "2024-01-21": 11406,
   "date_first_scraped": "2022-04-19",
   "description": "Lyrical lullabies for your bedtime routine.",
   "name": "Lullabies for Little Ones",
@@ -549,6 +549,10 @@
         {
           "name": "Annie Wiggins",
           "url": "https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB"
+        },
+        {
+          "name": "Pippi Longstocking",
+          "url": "https://open.spotify.com/artist/1UsNaDhmpcOTS6j6OCyyAw"
         }
       ],
       "date_added": "2023-05-05",

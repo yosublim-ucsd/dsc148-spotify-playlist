@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 52075,
+  "num_followers": 52091,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTVhZTA3M2IzYWNkNTNkZTQxMjNkNGExN2I2ZGZjYzljYWEzOTkx",
+  "snapshot_id": "MCwzMzdlOTU4ZTMzZjk5YWI1NjAwODViYjg2NzU1ZDE1OGNlYjA1OGRl",
   "tracks": [
     {
       "added_at": "2024-01-18 15:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 209680,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1067,18 +1067,26 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
         }
       ],
-      "duration_ms": 192079,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1131,26 +1139,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
       },
       "artists": [
         {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 267400,
-      "name": "The Fight",
-      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Streets Of Heaven",
-        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 188854,
-      "name": "Streets Of Heaven",
-      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
+      "duration_ms": 267400,
+      "name": "The Fight",
+      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1523,6 +1523,38 @@
       "duration_ms": 219951,
       "name": "1995",
       "url": "https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx"
+    },
+    {
+      "added_at": "2024-01-18 15:00:00",
+      "album": {
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+    },
+    {
+      "added_at": "2024-01-18 15:00:00",
+      "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 242391,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1547,18 +1579,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "warm",
-        "url": "https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg"
       },
       "artists": [
         {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+          "name": "katsuya mouri",
+          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
         }
       ],
-      "duration_ms": 242391,
-      "name": "warm",
-      "url": "https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI"
+      "duration_ms": 222454,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1579,38 +1611,6 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg"
-      },
-      "artists": [
-        {
-          "name": "katsuya mouri",
-          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
-        }
-      ],
-      "duration_ms": 222454,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
         "name": "Nocturne (piano at home ver.)",
         "url": "https://open.spotify.com/album/3Ro9buqMb0i8rcryaGkqwG"
       },
@@ -1627,34 +1627,34 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Streets Of Heaven",
+        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 188854,
+      "name": "Streets Of Heaven",
+      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
     },
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "How I Got Home",
-        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
+        "name": "Lanterns",
+        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 219247,
-      "name": "How I Got Home",
-      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
+      "duration_ms": 184773,
+      "name": "The Longest Goodbye",
+      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE"
+        "name": "How I Got Home",
+        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ"
+      "duration_ms": 219247,
+      "name": "How I Got Home",
+      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Lanterns",
-        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 184773,
-      "name": "The Longest Goodbye",
-      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

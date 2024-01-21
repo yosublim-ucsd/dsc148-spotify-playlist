@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
+  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "D\u00e9dalo",
-        "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
-      },
-      "artists": [
-        {
-          "name": "Laura Di Vaio",
-          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
-        }
-      ],
-      "duration_ms": 122275,
-      "name": "D\u00e9dalo",
-      "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Sleeping In",
         "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 180543,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "D\u00e9dalo",
+        "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "duration_ms": 122275,
+      "name": "D\u00e9dalo",
+      "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 143733,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 141504,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "When Sarah Returned",
-      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Broken Sky",
         "url": "https://open.spotify.com/album/0TnxaPHs6kY6CpS1kT1xun"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
       "artists": [
         {
-          "name": "Wanderer's Trove",
-          "url": "https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1"
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
         }
       ],
-      "duration_ms": 235752,
-      "name": "Empty Sky",
-      "url": "https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL"
+      "duration_ms": 156010,
+      "name": "When Sarah Returned",
+      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -923,6 +907,22 @@
       "duration_ms": 139022,
       "name": "L'heure de l'harmonie",
       "url": "https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
+      },
+      "artists": [
+        {
+          "name": "Wanderer's Trove",
+          "url": "https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Empty Sky",
+      "url": "https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Jewel",
-        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
-      },
-      "artists": [
-        {
-          "name": "American Legion",
-          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
-        }
-      ],
-      "duration_ms": 200011,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 219428,
       "name": "The Bones - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Jewel",
+        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "duration_ms": 200011,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
       },
       "artists": [
         {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
         }
       ],
-      "duration_ms": 170847,
-      "name": "Isla de Pascua",
-      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
+      "duration_ms": 145635,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Alloa",
         "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
@@ -2031,18 +2015,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Breakwater",
-        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
       },
       "artists": [
         {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Breakwater",
-      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+      "duration_ms": 170847,
+      "name": "Isla de Pascua",
+      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2063,6 +2047,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Breakwater",
+        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Breakwater",
+      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
       },
@@ -2075,22 +2075,6 @@
       "duration_ms": 147317,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Solitaria",
-        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2115,6 +2099,22 @@
       "duration_ms": 216850,
       "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
       "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Mirabella",
-        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
-      },
-      "artists": [
-        {
-          "name": "Oleks Rudenko",
-          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Mirabella",
-      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 191308,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
+      },
+      "artists": [
+        {
+          "name": "Oleks Rudenko",
+          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Senderos",
-        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Senderos",
-      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Within You, Within Me",
         "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 164390,
       "name": "Within You, Within Me",
       "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Senderos",
+        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Senderos",
+      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
     },
     {
       "added_at": "2023-09-15 09:04:35",

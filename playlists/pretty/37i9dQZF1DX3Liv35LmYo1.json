@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106733,
+  "num_followers": 106720,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
+  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 312029,
-      "name": "Skulled",
-      "url": "https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 242545,
       "name": "RUSH (Blush)",
       "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 312029,
+      "name": "Skulled",
+      "url": "https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Call of the Whipbird",
         "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 388735,
       "name": "Whipbird Dub",
       "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "You Need Somebody",
-        "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
-      },
-      "artists": [
-        {
-          "name": "Puppy Mountain",
-          "url": "https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH"
-        }
-      ],
-      "duration_ms": 200830,
-      "name": "You Need Somebody",
-      "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Jewels from the Sun EP",
         "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 290847,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "You Need Somebody",
+        "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
+      },
+      "artists": [
+        {
+          "name": "Puppy Mountain",
+          "url": "https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH"
+        }
+      ],
+      "duration_ms": 200830,
+      "name": "You Need Somebody",
+      "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "The Work",
+        "url": "https://open.spotify.com/album/3HfmS1eNJ3vFscFrdNauiK"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/5GzpptZJBMst5MWl77EBw8"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 266853,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/3HfmS1eNJ3vFscFrdNauiK"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/5GzpptZJBMst5MWl77EBw8"
     },
     {
       "added_at": "2023-08-31 14:00:00",

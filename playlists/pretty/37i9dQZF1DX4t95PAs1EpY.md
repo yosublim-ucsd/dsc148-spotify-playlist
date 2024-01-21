@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,194 likes - 259 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,348 likes - 259 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 99 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 |
 | 100 | [SimplyShtick](https://open.spotify.com/track/6A6TfXAAh1lqB63v0gVECk) | [Rutah](https://open.spotify.com/artist/5vUhQrdzOINvk93ov2uMep) | [SimplyShtick](https://open.spotify.com/album/5sMrp4rgsAOFlC8CpS4F5h) | 1:25 |
 | 101 | [Mosaic Forest](https://open.spotify.com/track/70KirfSGTOx9ndISuiEEe9) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Mosaic Forest](https://open.spotify.com/album/6dS6dGaLg7W1DnqrDyy6FJ) | 2:15 |
-| 102 | [Puddles](https://open.spotify.com/track/2AUCIO8f9WjCvFcDJnx7tg) | [Näver](https://open.spotify.com/artist/5X3jilHb8aLEMK8xh3NuZC) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:05 |
+| 102 | [Puddles](https://open.spotify.com/track/2AUCIO8f9WjCvFcDJnx7tg) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:05 |
 | 103 | [Unencumbered](https://open.spotify.com/track/4fb9chYMC6ExF1eSd4Q9Uu) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [What is Earth](https://open.spotify.com/album/3pSKpzmlqKf3skN687fm7X) | 2:32 |
 | 104 | [Fingers Crossed](https://open.spotify.com/track/2gQmlDrCMN49X5E2tiKT5I) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Fingers Crossed](https://open.spotify.com/album/54VqTA5zvV38BXk4W5FjcX) | 1:25 |
 | 105 | [mid autumn](https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [mid autumn](https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW) | 2:16 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 258 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
 | 259 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 |
 
-Snapshot ID: `MCw5ZGUxMzkyOTVmZDRjZjk2NmYwYmMyNGZkMDk1MTRhZjJlMTM1ZGRl`
+Snapshot ID: `MCxlODdmZjJhMGY4NzUxNTI3OGJlNDY4OGFjMDIzN2M0MzUzOTg5OTA4`

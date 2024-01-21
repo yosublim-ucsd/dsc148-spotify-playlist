@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,499 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,506 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 5 | [Confident](https://open.spotify.com/track/18xfL5bAbwy1IhIOaaHf57) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/2plkDryrrvLh6gUY7Zx1tA) | 3:25 |
 | 6 | [I Mean Business](https://open.spotify.com/track/0tzpXnGooqb7YE9C11Fm1B) | [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [I Mean Business](https://open.spotify.com/album/5gsw8wyz1iMwQ9LDFmOx5N) | 2:41 |
 | 7 | [Strut](https://open.spotify.com/track/5CUNO96wb0rjvt3h4C1AtR) | [DITA](https://open.spotify.com/artist/6XhR7UoRyqdjauw1nFY6AO) | [Confidence](https://open.spotify.com/album/5ZB3OYHRlTNQeRITz9rIuM) | 3:04 |
-| 8 | [Do My Thing](https://open.spotify.com/track/5HYCCX2HnyuOvogKbGTUXD) | [PRTY ANML](https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5) | [Get Wild](https://open.spotify.com/album/5rcoDnkpulKC60YFPUhNlI) | 3:12 |
+| 8 | [Do My Thing](https://open.spotify.com/track/762ame4LyTtTCW0QKpVI5S) | [PRTY ANML](https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5) | [Get Wild](https://open.spotify.com/album/08QFHHRgXHx0l7mk2LrFSd) | 3:12 |
 | 9 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 |
 | 10 | [Makin' Moves](https://open.spotify.com/track/19gUgBfEtGJsYWYV9cRt97) | [Louis II](https://open.spotify.com/artist/0i387pRmgJfOoxYD3oDeFW) | [Lucky](https://open.spotify.com/album/1wpAJT7LZziSuzNaWUdWA1) | 3:10 |
 | 11 | [Free \(Live Your Life\) \- Felix Da Housecat x Chris Trucher Remix](https://open.spotify.com/track/2OjvbtKacpulegyLGJdL7l) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [Free \(Live Your Life\) \[Felix Da Housecat x Chris Trucher Remix\]](https://open.spotify.com/album/15Cvo3poVwlD6JycDIpwV7) | 2:56 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 144 | [I Want to Know What Love Is \- Acoustic](https://open.spotify.com/track/0wUVwtui3Se9kGUfSD7gaU) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Want to Know What Love Is \(Acoustic\)](https://open.spotify.com/album/1erqPjuceZMoyG0KXvXvFs) | 2:51 |
 | 145 | [Eternal](https://open.spotify.com/track/37prc0NEjJhD62tns24wOt) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Elena Westermann](https://open.spotify.com/artist/4aqCciNWbqvgOfq3ys6bni), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Eternal](https://open.spotify.com/album/0QFpJroV1JB3PjYWFot9Xo) | 4:17 |
 | 146 | [Rise Up](https://open.spotify.com/track/6LyIrqjgZ7xhs1qFo1AIN9) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Rise Up](https://open.spotify.com/album/6u6gPevBy3FDQQMyzLv8K2) | 2:51 |
-| 147 | [Pandora](https://open.spotify.com/track/5fKnbvuXyMMKhQnl0UJr7A) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/3N6MTgVwtgSmsCqAVEvtYP) | 3:41 |
+| 147 | [Pandora](https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/0CNTA1D3BQGQMkz38po4IC) | 3:41 |
 | 148 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
 | 149 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 150 | [Ok Love You Bye](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:34 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCxlN2Y5NzU3OTk2MjkzMzQwMjA0YzNkNzg5NjlhYWMzNDY4N2ZmZTI5`
+Snapshot ID: `MCwyNjEwZDdkMzk2MzkzNTY4OTczZmViZjRiNDc3ZWY2NGM3ZGI4Njli`

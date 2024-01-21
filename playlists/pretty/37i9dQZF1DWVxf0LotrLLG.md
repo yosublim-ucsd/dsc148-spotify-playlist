@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,863 likes - 202 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,894 likes - 202 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 202 | [POR UN AMOR](https://open.spotify.com/track/7kUxcqnZn7UAv0XaSHPkJL) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:21 |
 
-Snapshot ID: `MCxkZjEzNGFlMDNkZmUzZjE3M2M5N2UwM2NkODI0ZWEyMDcwN2NkMTA2`
+Snapshot ID: `MCxmNjZkYjFhMDkyODA3YmQwODk3Yzc0ZWY1ZjI3YWVkY2MzYzhhMWY3`

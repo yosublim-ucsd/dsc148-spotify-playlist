@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/0J7YunAJPwXBvV55O8XOqH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
+    },
+    {
+      "album": {
         "name": "Aubade",
         "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
       },
@@ -584,7 +606,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 148860,
       "name": "Diamond Sparkle",
       "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"

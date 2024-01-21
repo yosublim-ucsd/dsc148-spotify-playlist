@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 100421,
+  "2024-01-21": 100420,
   "date_first_scraped": "2022-02-06",
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
   "name": "All A Cappella",
@@ -547,6 +547,24 @@
       "duration_ms": 155500,
       "name": "Craniotomy",
       "url": "https://open.spotify.com/track/2Gpx84GNP3ERUdlFoWn39f"
+    },
+    {
+      "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/5IiFFb7dMatUEFiE0S23Jb"
+      },
+      "artists": [
+        {
+          "name": "Acappology",
+          "url": "https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0ZVivTbJr2MeY07efGHgvq"
     },
     {
       "album": {
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 154146,
       "name": "Trebles Finals: Bright Lights Bigger City/Magic",
       "url": "https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE"

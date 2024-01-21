@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196005,
+  "num_followers": 196001,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQyM2Y1MTIyNGE4NWI3YmNkZTU4NDU3ODk2ZmQ1YjNmMjU0OWZl",
+  "snapshot_id": "MCxmYTFmYjg0MDA4NjYwOWIxZWQ4MzkwNWRkZDgxN2Y3ZWJiZTZhNTRh",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Vakna (Wake Me Up)",
+        "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Vakna (Wake Me Up)",
+      "url": "https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 186354,
       "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
       "url": "https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Vakna (Wake Me Up)",
-        "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        },
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Vakna (Wake Me Up)",
-      "url": "https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+        "url": "https://open.spotify.com/album/6tXvfkYROWTQMEogumpH6l"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 195665,
+      "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+      "url": "https://open.spotify.com/track/2g8XBeoofozyEskURWikFb"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Tjuvjakt",
         "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 186663,
       "name": "Fan va dyrt",
       "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
-        "url": "https://open.spotify.com/album/6tXvfkYROWTQMEogumpH6l"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 195665,
-      "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
-      "url": "https://open.spotify.com/track/2g8XBeoofozyEskURWikFb"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1059,6 +1059,38 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Hj\u00e4rtan i sanden",
+        "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sunday",
+          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Hj\u00e4rtan i sanden",
+      "url": "https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "b\u00e4stis",
+        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
+      },
+      "artists": [
+        {
+          "name": "IMAN",
+          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
+        }
+      ],
+      "duration_ms": 208832,
+      "name": "b\u00e4stis",
+      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Losing a Friend",
         "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
       },
@@ -1075,18 +1107,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Hj\u00e4rtan i sanden",
-        "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
       },
       "artists": [
         {
-          "name": "Lucas Sunday",
-          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Hj\u00e4rtan i sanden",
-      "url": "https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3"
+      "duration_ms": 171354,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1115,34 +1147,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "b\u00e4stis",
-        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
+        "name": "Tr\u00e4ffa andra",
+        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
       },
       "artists": [
         {
-          "name": "IMAN",
-          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
         }
       ],
-      "duration_ms": 208832,
-      "name": "b\u00e4stis",
-      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        }
-      ],
-      "duration_ms": 171354,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
+      "duration_ms": 163361,
+      "name": "Tr\u00e4ffa andra",
+      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 135652,
       "name": "Faller l\u00e5gt",
       "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Tr\u00e4ffa andra",
-        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
-      },
-      "artists": [
-        {
-          "name": "Sebbe Hauta",
-          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Tr\u00e4ffa andra",
-      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1207,6 +1207,22 @@
       "duration_ms": 232688,
       "name": "F\u00f6rlorarna vann",
       "url": "https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "CONVERSATIONS",
+        "url": "https://open.spotify.com/album/2iHT5ztZf8K1MSBEHYSaD4"
+      },
+      "artists": [
+        {
+          "name": "Ben Mitkus",
+          "url": "https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "CONVERSATIONS",
+      "url": "https://open.spotify.com/track/1pVK5e5Ho07k8qYsyyF9sA"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "don't look at the moon...",
-        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
-      },
-      "artists": [
-        {
-          "name": "Zikai",
-          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Come Get Me Out",
-      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Misemotional",
         "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
       },
@@ -1291,38 +1291,34 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Tusen & en natt",
-        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
+        "name": "don't look at the moon...",
+        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
       },
       "artists": [
         {
-          "name": "Teck Noir",
-          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Tusen & en natt",
-      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
+      "duration_ms": 202293,
+      "name": "Come Get Me Out",
+      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
     },
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Tillsammans",
-        "url": "https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t"
+        "name": "SL\u00c5R",
+        "url": "https://open.spotify.com/album/6YmJBPayCJHX0eoXqjkcKY"
       },
       "artists": [
         {
-          "name": "Tim Damerau",
-          "url": "https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ"
-        },
-        {
-          "name": "Linnea Andersson",
-          "url": "https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4"
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Tillsammans",
-      "url": "https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ"
+      "duration_ms": 152941,
+      "name": "SL\u00c5R",
+      "url": "https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1359,6 +1355,42 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Tillsammans",
+        "url": "https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t"
+      },
+      "artists": [
+        {
+          "name": "Tim Damerau",
+          "url": "https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ"
+        },
+        {
+          "name": "Linnea Andersson",
+          "url": "https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Tusen & en natt",
+        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
+      },
+      "artists": [
+        {
+          "name": "Teck Noir",
+          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tusen & en natt",
+      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
@@ -1375,38 +1407,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "TRENCH",
-        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "TRENCH",
-      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "SL\u00c5R",
-        "url": "https://open.spotify.com/album/6YmJBPayCJHX0eoXqjkcKY"
-      },
-      "artists": [
-        {
-          "name": "Gamebojj",
-          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "SL\u00c5R",
-      "url": "https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Kick Off",
         "url": "https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 214125,
       "name": "Br\u00e4nnvin",
       "url": "https://open.spotify.com/track/42MiqIBN5TvEvcT6UeS6fB"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "TRENCH",
+        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Ska du l\u00e4mna mig d\u00e5?",
-        "url": "https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs"
+        "name": "Helt allena",
+        "url": "https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG"
       },
       "artists": [
         {
-          "name": "Byz",
-          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
         }
       ],
-      "duration_ms": 197473,
-      "name": "Ska du l\u00e4mna mig d\u00e5?",
-      "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
+      "duration_ms": 144339,
+      "name": "Helt allena",
+      "url": "https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Helt allena",
-        "url": "https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG"
+        "name": "Ska du l\u00e4mna mig d\u00e5?",
+        "url": "https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs"
       },
       "artists": [
         {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+          "name": "Byz",
+          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
         }
       ],
-      "duration_ms": 144339,
-      "name": "Helt allena",
-      "url": "https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG"
+      "duration_ms": 197473,
+      "name": "Ska du l\u00e4mna mig d\u00e5?",
+      "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Siri",
-        "url": "https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        }
-      ],
-      "duration_ms": 243703,
-      "name": "Siri",
-      "url": "https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Ensamheten \u00e4r h\u00e4r",
         "url": "https://open.spotify.com/album/5ELkU1A2tWQBlFYpzFuSqY"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 194415,
       "name": "Ensamheten \u00e4r h\u00e4r",
       "url": "https://open.spotify.com/track/4UrIGdxIJco8q1sjDm3dTx"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Siri",
+        "url": "https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        }
+      ],
+      "duration_ms": 243703,
+      "name": "Siri",
+      "url": "https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1635,34 +1651,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Oh My Gosh (Radio Edit)",
-        "url": "https://open.spotify.com/album/3qTU0a1gPO6VC3RA4VQZ8G"
+        "name": "L\u00e5ngt Fr\u00e5n Oss",
+        "url": "https://open.spotify.com/album/77GSL4W7WB7f3K5SoJfDIj"
       },
       "artists": [
         {
-          "name": "XOV",
-          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Oh My Gosh - Radio Edit",
-      "url": "https://open.spotify.com/track/2Lkinol3uHMW16xzcxXmpK"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "If you wanna",
-        "url": "https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "If you wanna",
-      "url": "https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE"
+      "duration_ms": 210937,
+      "name": "L\u00e5ngt fr\u00e5n oss",
+      "url": "https://open.spotify.com/track/4hpT7UuBHTfJPsvBhvk2ZF"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 54866,
+  "2024-01-21": 54883,
   "date_first_scraped": "2021-12-28",
   "description": "Best of South Asian diaspora. Cover: Jonita Gandhi, Ali Sethi",
   "name": "No Borders",
@@ -29,6 +29,28 @@
       "duration_ms": 173727,
       "name": "15 Story Jump",
       "url": "https://open.spotify.com/track/7FK86IVz2pRQAZbh9ShKgl"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "album": {

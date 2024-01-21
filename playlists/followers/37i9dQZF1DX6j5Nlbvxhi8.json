@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 27529,
+  "2024-01-21": 27526,
   "date_first_scraped": "2023-12-14",
   "description": "2023\u5e74\u306e<a href=\"spotify:user:spotify:playlist:37i9dQZF1DXayDMsJG9ZBv\">Hot Hits Japan</a>\u7dcf\u307e\u3068\u3081\uff01\u4eca\u5e74Hot Hits Japan\u3067\u518d\u751f\u3055\u308c\u305f\u697d\u66f2\u30d9\u30b9\u30c8100!  <a href=\"https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag_click\">#Spotify\u307e\u3068\u3081</a> cover: Charlie Puth",
   "name": "Best of Hot Hits Japan 2023",
@@ -1113,10 +1113,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 237739,
       "name": "rendez-vous",
       "url": "https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn"
+    },
+    {
+      "album": {
+        "name": "Hors d'oeuvre",
+        "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
+      },
+      "artists": [
+        {
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "rendez-vous",
+      "url": "https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy"
     },
     {
       "album": {

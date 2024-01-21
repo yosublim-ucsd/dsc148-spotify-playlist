@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-130 songs - 7 hr 17 min
+131 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 | 2023-10-12 |  |
 | [El Malo](https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:54 | 2023-10-12 |  |
 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 | 2023-10-12 |  |
-| [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 | 2023-10-12 |  |
+| [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 | 2023-10-12 | 2024-01-21 |
 | [El Oro Verde](https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Oro Verde](https://open.spotify.com/album/4WKy8eNXEaCNI6UCWaOtaa) | 5:02 | 2023-10-12 |  |
 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 | 2023-10-12 |  |
 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 | 2023-10-12 |  |
@@ -109,6 +109,7 @@
 | [Ojos Negros Nunca Engañan](https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Enganan](https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ) | 3:12 | 2023-10-12 | 2024-01-19 |
 | [Ojos Negros Nunca Engañan](https://open.spotify.com/track/76SbTjQL9nn1fGSR8yXq6F) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Engañan \- Single](https://open.spotify.com/album/2L9oyZLSMBgtEGqehCewiM) | 3:12 | 2023-10-12 |  |
 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 | 2023-10-12 |  |
+| [Para el Amor de Mi Vida](https://open.spotify.com/track/2v0arlA4BS2RHrdp6zkdL5) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Entre Copa y Copa](https://open.spotify.com/album/1D7zhkYRBiSsOB2p6090Jk) | 4:00 | 2023-10-12 |  |
 | [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 | 2023-10-12 | 2024-01-19 |
 | [Pena Clavada](https://open.spotify.com/track/1OD4MgwfniF8fl8VAhomS7) | [Many Perez “El Canario”](https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq) | [Pena Clavada](https://open.spotify.com/album/6G5vT77S7CVspowXXQEetG) | 2:49 | 2023-10-12 |  |
 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 | 2023-10-12 |  |

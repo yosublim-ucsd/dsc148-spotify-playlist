@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 64608,
+  "2024-01-21": 64685,
   "date_first_scraped": "2023-09-29",
   "description": "Les classiques du zouk. Photo : Fanny J",
   "name": "Zouk All Stars",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld"
+    },
+    {
+      "album": {
+        "name": "Snake Me",
+        "url": "https://open.spotify.com/album/6vPq8K3BvGoFD1vN4Rqvaa"
+      },
+      "artists": [
+        {
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288946,
+      "name": "A Fleur De Vous",
+      "url": "https://open.spotify.com/track/4WQRqy7TUvQv9R2Mk5NAGR"
     },
     {
       "album": {
@@ -198,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Juste Moi (Part 1)",
+        "url": "https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo"
+      },
+      "artists": [
+        {
+          "name": "Princess' Lover",
+          "url": "https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310733,
+      "name": "Dans La Vie",
+      "url": "https://open.spotify.com/track/2KMMtKJWRQT7TJtrxHu2F4"
+    },
+    {
+      "album": {
         "name": "Serial Lover, l'int\u00e9grale de Medhy Custos",
         "url": "https://open.spotify.com/album/43zxwBEznArhA3U9sTfpcA"
       },
@@ -227,7 +263,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 326959,
       "name": "Emm\u00e8ne moi",
       "url": "https://open.spotify.com/track/5kxKBb0icDE6kzSYRmdZLg"
@@ -1022,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Priscillia",
+        "url": "https://open.spotify.com/album/2kh0wI26kprk0O8mui3uX9"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307386,
+      "name": "Tu Me Manqueras Toujours - Feat. Marvin",
+      "url": "https://open.spotify.com/track/2DpbIobTNEMtM1xMhpMbIx"
+    },
+    {
+      "album": {
         "name": "Entre vous et moi (32 Hits)",
         "url": "https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB"
       },
@@ -1055,7 +1109,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 276375,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt"

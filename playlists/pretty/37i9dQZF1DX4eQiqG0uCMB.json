@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 27223,
+  "num_followers": 27242,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjU3YTkyOGJiY2ZlNWYyOGU4NDJjZTkxMmE3OTE4OTRlMjQ2ZDBh",
+  "snapshot_id": "MCxhYzg4ZGExY2I1Y2Q1MjkxYzA4MzE5NWM0ZGIxNGNjNTJhY2I0NzU3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:52:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-12 05:52:00",
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "added_at": "2024-01-12 05:52:00",
+      "album": {
         "name": "Bad Boy Etiquette 101",
         "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
-    },
-    {
-      "added_at": "2024-01-12 05:52:00",
-      "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "added_at": "2024-01-12 05:52:00",
@@ -851,18 +851,26 @@
     {
       "added_at": "2024-01-12 05:52:00",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+      "duration_ms": 149457,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
     },
     {
       "added_at": "2024-01-12 05:52:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,399 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,430 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 13 | [Ready for It](https://open.spotify.com/track/29HpBx2DOjT9y6BpBQ4itU) | [Rayelle](https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c) | [Ready for It](https://open.spotify.com/album/1QCGloL6t0yeDLoFA2G0yL) | 2:59 |
 | 14 | [HERE CoMES TROUBLE](https://open.spotify.com/track/4a29OGFFyujnR6iOjqm8HK) | [STRIKING VIPERS](https://open.spotify.com/artist/4Wz9QHADy9XhAjDGoTchTU) | [STRiKiNG ViPERS](https://open.spotify.com/album/5DxmHJwrZYgaGkCqMOo31g) | 2:38 |
 | 15 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
-| 16 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
+| 16 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
 | 17 | [Vision \(feat\. Zelooperz\)](https://open.spotify.com/track/79N9aDPDWEWND2oySCsTTa) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:14 |
 | 18 | [mememe](https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:46 |
 | 19 | [Delicious Demon](https://open.spotify.com/track/7xUfx7xVgxt4wsIN0eQJ8e) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 2:41 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 25 | [Gregor's Third Fail](https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:31 |
 | 26 | [True Love](https://open.spotify.com/track/4lCH00JMunFbuaySSm66HV) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:59 |
 
-Snapshot ID: `MCwxYjEwOWRiOWQ1M2RjODgzYzIwOGNjMzMyZjNiZGQzNmM4NGJmN2Iz`
+Snapshot ID: `MCxkOTExYTQ0MDgxYWVjOWNjNWM4M2EwZDNkNTNlOGY4ODU5MDdjNzlm`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
+  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Stadt Gespr\u00e4ch",
-        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Stadt Gespr\u00e4ch",
-      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "God Invented The Radio",
         "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 250814,
       "name": "Not For The Ewigkeit",
       "url": "https://open.spotify.com/track/693iZrYelWorntvBaZWbpn"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Stadt Gespr\u00e4ch",
+        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Stadt Gespr\u00e4ch",
+      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 161954,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/6Te7u1x6u2uBGaEbWelpgr"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 122034,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/203dC8cfQJfxcfqzKBppZZ"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Paralysed",
-        "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 161954,
-      "name": "Paralysed",
-      "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Golf Coup\u00e9",
-        "url": "https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw"
-      },
-      "artists": [
-        {
-          "name": "Mathea",
-          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
-        }
-      ],
-      "duration_ms": 167819,
-      "name": "Golf Coup\u00e9",
-      "url": "https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "TROUBLESHOOTER",
         "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 140029,
       "name": "CRISIS QUEEN",
       "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Golf Coup\u00e9",
+        "url": "https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "duration_ms": 167819,
+      "name": "Golf Coup\u00e9",
+      "url": "https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 193259,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 140952,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 193259,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV"
     },
     {
       "added_at": "2024-01-09 23:00:00",

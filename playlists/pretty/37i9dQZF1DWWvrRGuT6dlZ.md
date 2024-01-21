@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Islandeer\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,390 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,392 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 119 | [Anxiety](https://open.spotify.com/track/3VY294BowMa8tWNu1MrVg9) | [Naomi G](https://open.spotify.com/artist/26QQ1WkFkynFLtkcTULKLP) | [Anxiety](https://open.spotify.com/album/3hPck6L3LHzRBeLZuHZx1K) | 2:27 |
 | 120 | [Delorean](https://open.spotify.com/track/6GLuYP7cXv91HyyPUy7jdq) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Delorean](https://open.spotify.com/album/6w97lrGzG41UxqiP53rhmj) | 3:30 |
 
-Snapshot ID: `MCw1NDM1NjI2M2U2MzIwNjgyMGE5ZGNjMzY5YjA4ODE2MDg0MTg2Mjhl`
+Snapshot ID: `MCxlOTczYTNlMDA3YWE3NGJkODFiNzFkY2IzZTQ2MzkwMDU3MGNlNGRj`

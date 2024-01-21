@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 107152,
+  "2024-01-21": 107311,
   "date_first_scraped": "2023-03-30",
   "description": "Mic check, 1, 2. ",
   "name": "Freestyle Beats",
@@ -1219,6 +1219,24 @@
       "duration_ms": 174000,
       "name": "OneTwo",
       "url": "https://open.spotify.com/track/0BzXb43npjCoedlPHH3W2X"
+    },
+    {
+      "album": {
+        "name": "Over 'n Out",
+        "url": "https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL"
+      },
+      "artists": [
+        {
+          "name": "Trice",
+          "url": "https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231224,
+      "name": "Over 'n Out",
+      "url": "https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN"
     },
     {
       "album": {

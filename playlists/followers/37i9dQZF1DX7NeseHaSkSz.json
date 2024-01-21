@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 21523,
+  "2024-01-21": 21596,
   "date_first_scraped": "2023-08-12",
   "description": "Indian flute and nature sounds transport you to a hidden sacred place deep in the woods... Escape to your inner sanctuary to find recovery, healing and tranquility. ",
   "name": "Temple of Dreams",
@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Bansuri Whispers",
+        "url": "https://open.spotify.com/album/3uKSx4cczfqaaHuUQXvf5l"
+      },
+      "artists": [
+        {
+          "name": "Regentum",
+          "url": "https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106381,
+      "name": "Bansuri Whispers",
+      "url": "https://open.spotify.com/track/0ii0MGP2OVVPgSwUvXo7z4"
+    },
+    {
+      "album": {
         "name": "Breathe Deep",
         "url": "https://open.spotify.com/album/6TQhNqh95efIgkLWcBn0kf"
       },
@@ -183,6 +201,24 @@
       "duration_ms": 199117,
       "name": "Calm Garden",
       "url": "https://open.spotify.com/track/3TuoN9z8tuHuL8p6djZqVU"
+    },
+    {
+      "album": {
+        "name": "Chamakana",
+        "url": "https://open.spotify.com/album/0gNkBfc7zPaHTF5rOUIOek"
+      },
+      "artists": [
+        {
+          "name": "Ijaya Gupta",
+          "url": "https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209625,
+      "name": "Chamakana",
+      "url": "https://open.spotify.com/track/3ERADo8PGb5qQMxKpOZRYe"
     },
     {
       "album": {
@@ -255,6 +291,24 @@
       "duration_ms": 136039,
       "name": "Conscious Journey",
       "url": "https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW"
+    },
+    {
+      "album": {
+        "name": "Cosmic Major",
+        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Cosmic Major",
+      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
     },
     {
       "album": {
@@ -766,6 +820,42 @@
     },
     {
       "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6NX5Nh01k1BBu7IENujReY"
+      },
+      "artists": [
+        {
+          "name": "Zen Portal",
+          "url": "https://open.spotify.com/artist/5eedNZsISJXCHZyaHXebd4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/5bs2UEUkkoogMbRocaj5d8"
+    },
+    {
+      "album": {
+        "name": "Light Between the Trees",
+        "url": "https://open.spotify.com/album/6OmRhFkBfa8vCib5Z6eu3A"
+      },
+      "artists": [
+        {
+          "name": "Kanta Khatri",
+          "url": "https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256502,
+      "name": "Light Between the Trees",
+      "url": "https://open.spotify.com/track/2EIMh1P8NyPtrY6pOUAEac"
+    },
+    {
+      "album": {
         "name": "Light Happening",
         "url": "https://open.spotify.com/album/24BFF84joh234Ri9oX5kK8"
       },
@@ -874,6 +964,42 @@
     },
     {
       "album": {
+        "name": "Milega",
+        "url": "https://open.spotify.com/album/2NzRpi1dmGCMm9xzEgu9EE"
+      },
+      "artists": [
+        {
+          "name": "Whispers of Jivatma",
+          "url": "https://open.spotify.com/artist/1bLxPj7W9KyYOB0LPdS6dC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154288,
+      "name": "Milega",
+      "url": "https://open.spotify.com/track/2XK7Lsj5i38sGUrUmiava3"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2c2l7iMeNgdgSgw26TTQyR"
+      },
+      "artists": [
+        {
+          "name": "Ayam Zen",
+          "url": "https://open.spotify.com/artist/0EslPdmWZVTpl1RHx7smJe"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0NUR7oztJlOzENsuyDC03n"
+    },
+    {
+      "album": {
         "name": "Moksha",
         "url": "https://open.spotify.com/album/0CG5Yzs5aXI007ATXc5Rzy"
       },
@@ -961,6 +1087,24 @@
       "duration_ms": 280116,
       "name": "Mystery of Buddha",
       "url": "https://open.spotify.com/track/3Csuh7QQRVnhcPZKBgZmrN"
+    },
+    {
+      "album": {
+        "name": "Mystical Flute Meditation",
+        "url": "https://open.spotify.com/album/0jCMSNyYb5ctbVFwYIGNGg"
+      },
+      "artists": [
+        {
+          "name": "Yakamora",
+          "url": "https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Mystical Flute Meditation",
+      "url": "https://open.spotify.com/track/5L1pWVP4ZrtjYuqoLqhScu"
     },
     {
       "album": {
@@ -1069,6 +1213,24 @@
       "duration_ms": 176000,
       "name": "Passionate Aura",
       "url": "https://open.spotify.com/track/63bxtTDtQmWI8hZBadAvTA"
+    },
+    {
+      "album": {
+        "name": "Passionate Aura (Sound Bath)",
+        "url": "https://open.spotify.com/album/4S4p2DwHIlMJ3tzqMhO7MS"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180416,
+      "name": "Passionate Aura (Sound Bath)",
+      "url": "https://open.spotify.com/track/3hw8KMhzw8MNkkhqDA2CNb"
     },
     {
       "album": {
@@ -1414,6 +1576,24 @@
     },
     {
       "album": {
+        "name": "Sunset Serenade",
+        "url": "https://open.spotify.com/album/0t8ePABbNpUKQtMOkTxjUG"
+      },
+      "artists": [
+        {
+          "name": "Amber Virena",
+          "url": "https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145503,
+      "name": "Sunset Serenade",
+      "url": "https://open.spotify.com/track/0wwvMn0YrGweJXky5ZUgLc"
+    },
+    {
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/3VNX9FCO6F03WLcUX32cuH"
       },
@@ -1591,6 +1771,24 @@
       "duration_ms": 130675,
       "name": "Tranquil Dreams",
       "url": "https://open.spotify.com/track/2FlOQI5Jdh2U3TWA4srxQz"
+    },
+    {
+      "album": {
+        "name": "Tranquil Legacy",
+        "url": "https://open.spotify.com/album/6KUZocllyfysPnl1t5CxXL"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175279,
+      "name": "Tranquil Legacy",
+      "url": "https://open.spotify.com/track/1gjsP7P6hwxB29ot3MVOru"
     },
     {
       "album": {

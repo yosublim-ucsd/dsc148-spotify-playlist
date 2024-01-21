@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,294 likes - 91 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,438 likes - 91 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 77 | [Drive and Get Down](https://open.spotify.com/track/075hDJMUGL0JoPpHw385iU) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Drive and Get Down](https://open.spotify.com/album/6eE4Z5VF2Qh3URCiMlYtWV) | 2:54 |
 | 78 | [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 |
 | 79 | [Melodic Flow](https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 6:11 |
-| 80 | [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 |
+| 80 | [Zulu](https://open.spotify.com/track/72JL5YYqI41JDrgpXOqiwg) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/3WAAfWzOK6GDzmWBwWDgid) | 3:37 |
 | 81 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 |
 | 82 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
 | 83 | [Deep Breaths](https://open.spotify.com/track/76CZ2QsN9I65OgsUHICRRg) | [ysurgi](https://open.spotify.com/artist/19hEr5cdWJEUO9p9aNk6lk) | [Deep Breaths](https://open.spotify.com/album/4Wcwbs5TobD4hmI6PG4QuJ) | 2:36 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 90 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 91 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCwwYzVhYzI2NjU0NGM5YjliNWQzOWU0ZDVhOTY4MWRhZjJkMzE5OGM1`
+Snapshot ID: `MCwzZDhjNWNiZmE3NTJkYzIzNmM3N2I3NjJlZTc3NDFkMWNkOTMyYmU1`

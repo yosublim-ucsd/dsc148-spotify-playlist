@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1585005,
+  "2024-01-21": 1585043,
   "date_first_scraped": "2021-12-21",
   "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:5WcisvYoq6332gCUX039Jd\">We Are Messengers</a> ",
   "name": "Top Christian & Gospel",
@@ -115,6 +115,24 @@
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
+    },
+    {
+      "album": {
+        "name": "A Way For Us",
+        "url": "https://open.spotify.com/album/7JsaHljx1p4GA1cnRGvRH0"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199890,
+      "name": "A Way For Us",
+      "url": "https://open.spotify.com/track/4tkNhyuG4WHv6aakY5HU8J"
     },
     {
       "album": {
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 219266,
       "name": "Cornerstone (feat. Zach Williams)",
       "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228539,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1BvftxMNfcEp9nDYxCNRTc"
@@ -5435,7 +5453,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 152307,
       "name": "I'm Not There Yet",
       "url": "https://open.spotify.com/track/4a4wtjkAxRRDOFirDkPLDJ"
@@ -6830,6 +6848,24 @@
     },
     {
       "album": {
+        "name": "Real Me",
+        "url": "https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172621,
+      "name": "Learning To Let Go",
+      "url": "https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm"
+    },
+    {
+      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -6853,6 +6889,28 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "album": {
+        "name": "Pray For Atlanta",
+        "url": "https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Let Go Let God",
+      "url": "https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC"
     },
     {
       "album": {
@@ -7311,7 +7369,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202159,
       "name": "Love Won't Let Me Go - Acoustic Version",
       "url": "https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI"
@@ -7757,7 +7815,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 185675,
       "name": "Missing Jesus",
       "url": "https://open.spotify.com/track/2wMNwqN4qVedqkBH2EXsEf"
@@ -8359,6 +8417,28 @@
       "duration_ms": 182600,
       "name": "New Creation",
       "url": "https://open.spotify.com/track/66CqLV4jBPFGoN8kx78J15"
+    },
+    {
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "album": {
@@ -8972,6 +9052,28 @@
     },
     {
       "album": {
+        "name": "People Like Us (feat. Emerson Day)",
+        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226348,
+      "name": "People Like Us (feat. Emerson Day)",
+      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
+    },
+    {
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -9189,7 +9291,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 198745,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
@@ -9573,7 +9675,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 221403,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
@@ -10629,6 +10731,24 @@
       "duration_ms": 200653,
       "name": "Stand In Faith",
       "url": "https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0"
+    },
+    {
+      "album": {
+        "name": "START AGAIN",
+        "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181944,
+      "name": "START AGAIN",
+      "url": "https://open.spotify.com/track/52Vy5fDKlXOzCLzguIyOkT"
     },
     {
       "album": {

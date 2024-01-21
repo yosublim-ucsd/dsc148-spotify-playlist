@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 85996,
+  "num_followers": 85992,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2",
+  "snapshot_id": "MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "ROMANT\u0130K",
-        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 197696,
-      "name": "O'NU",
-      "url": "https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221217,
       "name": "Favela",
       "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 197696,
+      "name": "O'NU",
+      "url": "https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4"
     },
     {
       "added_at": "2023-08-31 21:00:00",

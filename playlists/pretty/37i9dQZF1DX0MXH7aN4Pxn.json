@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 679306,
+  "num_followers": 679239,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGU3N2E2ZGE2ZjAwNzYwZDQ5ZDNlZjRiMjkzMzRkNjVlOGY2OTEz",
+  "snapshot_id": "MCwzZWU1OGNmMmE4ZTM3MjI5NjFjMzU5NDAxMWFiNGFlMTQyYzFlNTA2",
   "tracks": [
     {
       "added_at": "2024-01-17 12:13:06",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2024-01-17 12:13:06",
+      "album": {
         "name": "Against The Wall",
         "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 205061,
       "name": "Against The Wall",
       "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2024-01-17 12:13:06",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2024-01-17 12:13:06",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
+        "name": "Foreign Ororo (Special Edition)",
+        "url": "https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 151229,
+      "name": "Rinse & Repeat",
+      "url": "https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa"
+    },
+    {
+      "added_at": "2024-01-17 12:13:06",
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
-    },
-    {
-      "added_at": "2024-01-17 12:13:06",
-      "album": {
-        "name": "Foreign Ororo (Special Edition)",
-        "url": "https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 151229,
-      "name": "Rinse & Repeat",
-      "url": "https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa"
     },
     {
       "added_at": "2024-01-17 12:13:06",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
+        "name": "Every Little Time",
+        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Every Little Time",
+      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
+    },
+    {
+      "added_at": "2024-01-17 12:13:06",
+      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2024-01-17 12:13:06",
-      "album": {
-        "name": "Every Little Time",
-        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
-      },
-      "artists": [
-        {
-          "name": "Matt Guy",
-          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Every Little Time",
-      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     },
     {
       "added_at": "2024-01-17 12:13:06",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
-        "name": "Better Me (feat. Lily Mckenzie)",
-        "url": "https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l"
-      },
-      "artists": [
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        },
-        {
-          "name": "Lily Mckenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Better Me (feat. Lily Mckenzie)",
-      "url": "https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B"
-    },
-    {
-      "added_at": "2024-01-17 12:13:06",
-      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 158692,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
+    },
+    {
+      "added_at": "2024-01-17 12:13:06",
+      "album": {
+        "name": "Better Me (feat. Lily Mckenzie)",
+        "url": "https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        },
+        {
+          "name": "Lily Mckenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Better Me (feat. Lily Mckenzie)",
+      "url": "https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B"
     },
     {
       "added_at": "2024-01-17 12:13:06",

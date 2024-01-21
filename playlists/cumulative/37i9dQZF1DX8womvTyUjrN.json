@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "A Oscuras",
+        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159935,
+      "name": "A Oscuras",
+      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
+    },
+    {
+      "album": {
         "name": "A Poca Luz",
         "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
       },
@@ -4217,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "hasta la luna y de regreso",
+        "url": "https://open.spotify.com/album/5schejrJrPuz2SQxjWNreW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "hasta la luna y de regreso",
+      "url": "https://open.spotify.com/track/6Z6px53TMyEHaJKeRHYaH3"
+    },
+    {
+      "album": {
         "name": "Himalaya",
         "url": "https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN"
       },
@@ -5883,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "Mi Coraz\u00f3n (feat. Camilo)",
+        "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185853,
+      "name": "Mi Coraz\u00f3n (feat. Camilo)",
+      "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -7300,7 +7362,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 201182,
       "name": "Palabras De Papel (Veneno)",
       "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
@@ -8386,7 +8448,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 142211,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/6ernDdQLWWFD8aiABjLCqC"
@@ -8444,7 +8506,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 143007,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/4CqfdrcGylPGzQHtXwXyzm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,477 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,491 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [No Sirven Conmigo](https://open.spotify.com/track/2bnC2O6GypWJSIuyGCcXb2) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [No Sirven Conmigo](https://open.spotify.com/album/4DGGMTZTtxVTLxq0FsWRit) | 2:46 |
 | 60 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 
-Snapshot ID: `MCxhN2YyMjIyMmViYzhjNjc0YmIyMTc0ZmUzNTQ3ODdjMTIyZTNhMDhm`
+Snapshot ID: `MCxlYmMwYzMyNjQzNmQ2YjA1NTc4ODllYjBlZmQzYzQ2MjhkOTM0YjEz`

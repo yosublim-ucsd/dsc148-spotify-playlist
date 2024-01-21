@@ -4,7 +4,7 @@
 
 > love peace techno
 
-201 songs - 13 hr 38 min
+202 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 | 2023-03-10 | 2023-04-19 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 | 2023-03-10 | 2023-07-01 |
-| [My Little White Pony](https://open.spotify.com/track/33yObVbcqIYJp9P2KqxpRr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/3efBd0Ks3qLk0pL1S98BXb) | 4:59 | 2023-12-22 |  |
+| [My Little White Pony](https://open.spotify.com/track/33yObVbcqIYJp9P2KqxpRr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/3efBd0Ks3qLk0pL1S98BXb) | 4:59 | 2023-12-22 | 2024-01-21 |
+| [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 | 2024-01-19 |  |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Neon Bliss](https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Neon Bliss](https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh) | 5:24 | 2023-09-21 | 2023-09-30 |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-10 | 2023-05-06 |

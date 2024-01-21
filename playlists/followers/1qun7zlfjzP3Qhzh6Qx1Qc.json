@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 35179,
+  "2024-01-21": 35172,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs",
   "name": "Country Smash Hits",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189253,
       "name": "amen",
       "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Breaking My Heart",
+        "url": "https://open.spotify.com/album/6JPhvVl0yTlDB1MoUNFea1"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220143,
+      "name": "Breaking My Heart",
+      "url": "https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP"
+    },
+    {
+      "album": {
         "name": "Bury Me in Georgia",
         "url": "https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo"
       },
@@ -237,7 +255,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 211761,
       "name": "Don't Make Me Get Over You",
       "url": "https://open.spotify.com/track/03QcpHj9HH6RzSqRhlY4Oy"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 195546,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF"
@@ -648,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Hold Your Horses",
+        "url": "https://open.spotify.com/album/0egbApJm7p39peGp215L7X"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Hold Your Horses",
+      "url": "https://open.spotify.com/track/54zFROMkZLUBUX3p2IjvrA"
+    },
+    {
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
       },
@@ -731,7 +767,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 195488,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
@@ -771,6 +807,24 @@
       "duration_ms": 286040,
       "name": "Little Bit Crazy",
       "url": "https://open.spotify.com/track/0mxbf0VhKWQEJP7EOreW7S"
+    },
+    {
+      "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
     },
     {
       "album": {
@@ -854,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Other Side of 25",
+        "url": "https://open.spotify.com/album/2fpUZ6HCdlgE4ijURcHlAA"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180407,
+      "name": "Other Side of 25",
+      "url": "https://open.spotify.com/track/58xOX6VOxQw3HEZjtM7C2S"
+    },
+    {
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe"
       },
@@ -869,6 +941,24 @@
       "duration_ms": 208746,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3"
+    },
+    {
+      "album": {
+        "name": "Rest of Your Life",
+        "url": "https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Rest of Your Life",
+      "url": "https://open.spotify.com/track/1bB7sNIQG3yBhlP9XSIccf"
     },
     {
       "album": {
@@ -962,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Stoned in Bridge Creek",
+        "url": "https://open.spotify.com/album/34UP11wojrp6YFBlmWIy3O"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "Stoned in Bridge Creek",
+      "url": "https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5"
+    },
+    {
+      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -1049,7 +1157,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 197767,
       "name": "The Country Kind",
       "url": "https://open.spotify.com/track/3d7Qsk8D4HqrCBcolQX4HC"

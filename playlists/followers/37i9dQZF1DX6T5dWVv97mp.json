@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 30646,
+  "2024-01-21": 30651,
   "date_first_scraped": "2023-05-15",
   "description": "Get into a morning flow with this focus playlist.",
   "name": "Productive Morning",
@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "Between Waves (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cFV4YoInzQuimip3brPEp"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293373,
+      "name": "Ambo",
+      "url": "https://open.spotify.com/track/0yDQoVQ15g73SGIUit1WZ6"
+    },
+    {
+      "album": {
         "name": "Between Waves (Deluxe Version)",
         "url": "https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 293506,
       "name": "Ambo",
       "url": "https://open.spotify.com/track/3GmIpLMTwp72sei8B2qrvL"
@@ -1299,6 +1317,24 @@
     {
       "album": {
         "name": "Plvces",
+        "url": "https://open.spotify.com/album/3ySeJFbPc6eVZat5DNUcd4"
+      },
+      "artists": [
+        {
+          "name": "PLVCES",
+          "url": "https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178812,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4ECODNiieWhlZ7E6Fut5d1"
+    },
+    {
+      "album": {
+        "name": "Plvces",
         "url": "https://open.spotify.com/album/4wNQhd6jbidx84H03iyK04"
       },
       "artists": [
@@ -1309,7 +1345,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 178812,
       "name": "Paris",
       "url": "https://open.spotify.com/track/65obxF26LTi94E0YvxBg8U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Digital Astro, Baby Gang, ANNA, Rondo, Boro, Q40 e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,983 likes - 85 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,034 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 23 | [Mediaset](https://open.spotify.com/track/1WTvu7hnPnWayJfg6qB5V8) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Mediaset](https://open.spotify.com/album/1SsWKaUceW83r2Z4yA5Ax5) | 2:21 |
 | 24 | [Ritorno al futuro](https://open.spotify.com/track/1he78Z3TKvbIIIi5tZLljO) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Dead Poets 4 \- Ad Honorem](https://open.spotify.com/album/0OIJxt12ved8sJMBV5yD5d) | 3:42 |
 | 25 | [Fiori+Spine](https://open.spotify.com/track/3DG5oZ1xWCPaRIY120TZwh) | [Seife](https://open.spotify.com/artist/4xxLUfiwrWWKUEMo1vNqbJ), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Keep quiet, Stormy night](https://open.spotify.com/album/0RUwIxVg87S3NPoTaE0YTy) | 3:26 |
-| 26 | [Candeline](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
+| 26 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
 | 27 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 28 | [BÂTIMENT \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BhhV1ImaKVr1YwsyYIBWJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 3:24 |
 | 29 | [Jet\-ski](https://open.spotify.com/track/6hC0KkmMYt3EdOQHhLtsqD) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Jet\-ski](https://open.spotify.com/album/3VHOtIACKGyBW7zcpAOc4T) | 2:12 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Real Talk Cypher \- Liguria](https://open.spotify.com/track/5WTOboLMIbK0nGYD8a9IIp) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Gorka](https://open.spotify.com/artist/5WSgrT7SJvF9mGM9n4pXI3), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Vago](https://open.spotify.com/artist/56N8hLxOJ0bKCCMpU9c1Fj), [Saint Lorent](https://open.spotify.com/artist/6zSI0kna06qz9A7Ovkr4sI) | [Real Talk Cypher \- Liguria](https://open.spotify.com/album/2iCUZwHm2F98Zo7688gZ51) | 4:48 |
 | 85 | [Note Blues](https://open.spotify.com/track/2UV8nrdwtPPW9QHJ2sVcKN) | [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE) | [Note Blues](https://open.spotify.com/album/3YTNwsF8JhYkxyMyeX9HPt) | 2:52 |
 
-Snapshot ID: `MCwxMzVkZmFiYzYyOTMxNDIzODIzZGFlMjliMDRlYTEyZjU0Njc1NzQ3`
+Snapshot ID: `MCw4OGZiNmRhY2E0MTAwNzI4MGIwOGE5OWE2ZGRhOGRjOTFhMWNmMTNi`

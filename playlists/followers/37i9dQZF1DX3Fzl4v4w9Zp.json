@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 608998,
+  "2024-01-21": 609018,
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Jess Williamson",
+  "description": "Keep your finger on the pulse of Americana. Cover: The Red Clay Strays",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1400,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Burn (Spotify OUTSIDE Version) - Live from Nashville",
+      "url": "https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe"
+    },
+    {
+      "album": {
         "name": "C'mon America",
         "url": "https://open.spotify.com/album/20d5m4EhOkMvp0xQgS7RiZ"
       },
@@ -2308,6 +2326,24 @@
     },
     {
       "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
+    },
+    {
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI"
       },
@@ -2701,6 +2737,24 @@
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
+    },
+    {
+      "album": {
+        "name": "F*ck My Life Up Again",
+        "url": "https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258626,
+      "name": "F*ck My Life Up Again",
+      "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
     },
     {
       "album": {
@@ -7351,7 +7405,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 229447,
       "name": "Rebel Child",
       "url": "https://open.spotify.com/track/6dXaVKAmAwZOkjZMAvXiqy"
@@ -9189,7 +9243,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 191626,
       "name": "The Palace",
       "url": "https://open.spotify.com/track/1Knh1qiwsq5Rt0EUJC36MM"

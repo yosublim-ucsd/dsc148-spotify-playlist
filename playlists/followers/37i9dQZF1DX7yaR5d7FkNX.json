@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 125585,
+  "2024-01-21": 125605,
   "date_first_scraped": "2022-04-22",
   "description": "Disfrutemos del amor en los tiempos del rock.",
   "name": "Rocanlovers",
@@ -1919,10 +1919,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "album": {
+        "name": "Inhabitable",
+        "url": "https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Inhabitable",
+      "url": "https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 284269,
+  "2024-01-21": 284395,
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: The Game, Big Hit",
+  "description": "Damn son, where'd ya find this? Cover: MF DOOM",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "The Patience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170007,
+      "name": "2011",
+      "url": "https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD"
+    },
+    {
+      "album": {
         "name": "23 Freestyle",
         "url": "https://open.spotify.com/album/43aLpxH4lSekSX4DMxlchQ"
       },
@@ -213,6 +231,28 @@
       "duration_ms": 323302,
       "name": "30 Hours",
       "url": "https://open.spotify.com/track/2CHmgtK8OCL28WtIK96u4N"
+    },
+    {
+      "album": {
+        "name": "360\u00b0",
+        "url": "https://open.spotify.com/album/4YptsPP3fx66GTCnuCtZAJ"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170712,
+      "name": "360\u00b0",
+      "url": "https://open.spotify.com/track/1VFTnRcVwKHOc32s0wOFaO"
     },
     {
       "album": {
@@ -649,7 +689,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 193541,
       "name": "All the Bodies",
       "url": "https://open.spotify.com/track/7k3uGY23tBS23OxVldzuzG"
@@ -3311,7 +3351,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 245651,
       "name": "EisenHower / MultiVerse",
       "url": "https://open.spotify.com/track/3iYdz8eO8aIK0LF9W7eHik"
@@ -8470,6 +8510,28 @@
     },
     {
       "album": {
+        "name": "Passports & Suitcases (feat. KayCyy)",
+        "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Passports & Suitcases (feat. KayCyy)",
+      "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
+    },
+    {
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/63OTcaIP41YxalBJxLLmAI"
       },
@@ -9859,7 +9921,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"

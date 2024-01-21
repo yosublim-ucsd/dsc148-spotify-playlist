@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7405242,
+  "num_followers": 7411519,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODI1NjJjZmIxMWNhMDEzZDcxMGM3YTMxNTFlZmQwNzMwYTc1M2Fh",
+  "snapshot_id": "MCxiMjhmYmE5YTFlNzYzZTQ5Y2IzOWI0ODZjOTIyMzk2MmU5OTViY2Yy",
   "tracks": [
     {
       "added_at": "2023-10-20 10:30:53",
@@ -827,18 +827,26 @@
     {
       "added_at": "2023-12-01 14:11:37",
       "album": {
-        "name": "robot rock",
-        "url": "https://open.spotify.com/album/4LsaHLgUewiHLWEzeqgQwN"
+        "name": "Robot Rock (Funk Remix)",
+        "url": "https://open.spotify.com/album/2Nus2h0JQmdCxs2jHHVzfp"
       },
       "artists": [
         {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
           "name": "alper6nen",
           "url": "https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
         }
       ],
-      "duration_ms": 153564,
-      "name": "robot rock",
-      "url": "https://open.spotify.com/track/3yhv4I91mB3ykLImccAXXV"
+      "duration_ms": 153520,
+      "name": "Robot Rock - Funk Remix",
+      "url": "https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W"
     },
     {
       "added_at": "2022-05-13 04:02:00",

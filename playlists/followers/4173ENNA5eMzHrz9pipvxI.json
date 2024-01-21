@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 121073,
+  "2024-01-21": 121073,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Sander van Doorn x Jantine",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -689,7 +689,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 136228,
       "name": "ALARMA! (Onur Atli Hyper Mix)",
       "url": "https://open.spotify.com/track/5Ftf7wFHkFeW6lrtHddkCL"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 146974,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 201048,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT"
@@ -3141,7 +3141,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 152800,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6Qb2N7m4ZTvthTrTsI99qM"
@@ -3347,6 +3347,36 @@
       "duration_ms": 264891,
       "name": "Can't Believe",
       "url": "https://open.spotify.com/track/6S4yeVDYDvVuGfLtpKHqxV"
+    },
+    {
+      "album": {
+        "name": "Can't Find My Friends (feat. Midian)",
+        "url": "https://open.spotify.com/album/40hddZxqn0C00ATkCx6xio"
+      },
+      "artists": [
+        {
+          "name": "SAYMYNITTI",
+          "url": "https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d"
+        },
+        {
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Midian",
+          "url": "https://open.spotify.com/artist/5zTsZXNXAEZ3eir3cvsaBq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Can't Find My Friends (feat. Midian)",
+      "url": "https://open.spotify.com/track/32cxRQ0zD63AdWFKCqe1Fg"
     },
     {
       "album": {
@@ -3713,7 +3743,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131830,
       "name": "Cheri Cheri Lady",
       "url": "https://open.spotify.com/track/5y8vRm4njsp6CJDDrSIqFw"
@@ -4036,6 +4066,32 @@
     },
     {
       "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/7a006nzCmUu6ZfaqKQqQd4"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        },
+        {
+          "name": "Sunlike Brothers",
+          "url": "https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx"
+        },
+        {
+          "name": "ToneNation",
+          "url": "https://open.spotify.com/artist/6vOhTSLHpmIlGK8IeS2caU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131246,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/0CSV3CbzC0tlIINQMRhfHw"
+    },
+    {
+      "album": {
         "name": "Club Sound",
         "url": "https://open.spotify.com/album/42CRuLjPlRuJD21zOiDJSF"
       },
@@ -4117,6 +4173,28 @@
       "duration_ms": 131274,
       "name": "Colors Of The Rainbow",
       "url": "https://open.spotify.com/track/5ALzFD9BNabZAQrzN9rCYU"
+    },
+    {
+      "album": {
+        "name": "Combinator",
+        "url": "https://open.spotify.com/album/36mZdz6bGigTDujLhkznrL"
+      },
+      "artists": [
+        {
+          "name": "DESTRO",
+          "url": "https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo"
+        },
+        {
+          "name": "Din & Vic",
+          "url": "https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184765,
+      "name": "Combinator",
+      "url": "https://open.spotify.com/track/1y38XyAHV1MYjjfhBtWd3U"
     },
     {
       "album": {
@@ -4421,7 +4499,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 212903,
       "name": "Crazy (ASHER SWISSA Remix)",
       "url": "https://open.spotify.com/track/3xGFvawrOKoit7eNW6FUJN"
@@ -4501,6 +4579,28 @@
       "duration_ms": 158000,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/44YT19yOF92NZvM78bErHu"
+    },
+    {
+      "album": {
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/2eIUTbijLZp5fTb2W5eghF"
+      },
+      "artists": [
+        {
+          "name": "Basstrologe",
+          "url": "https://open.spotify.com/artist/6OMAZu0PYOsl3kONOQV9Zk"
+        },
+        {
+          "name": "D.N.S",
+          "url": "https://open.spotify.com/artist/0a4v4FxuMsYSSc4PXbgKkc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152758,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/3rgTtY3yfOtJas1hxTye3x"
     },
     {
       "album": {
@@ -4629,6 +4729,36 @@
       "duration_ms": 146310,
       "name": "Dance Dance [Gabry Ponte VIP MIX]",
       "url": "https://open.spotify.com/track/1UMWdBvnHybdNir8fAyKyc"
+    },
+    {
+      "album": {
+        "name": "Dance Is The Answer (feat. Raja Ram)",
+        "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Ticon",
+          "url": "https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1"
+        },
+        {
+          "name": "Raja Ram",
+          "url": "https://open.spotify.com/artist/5jBTxtjj3Y3cDgoqWbFJxy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329165,
+      "name": "Dance Is The Answer (feat. Raja Ram)",
+      "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
     },
     {
       "album": {
@@ -5033,6 +5163,32 @@
       "duration_ms": 157000,
       "name": "Derni\u00e8re Danse (Aaxis HYPER Mix)",
       "url": "https://open.spotify.com/track/7ajJeUkUltHkIQ0lI0bG7J"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1KVnJQosRymvL1urEH5Wsc"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "Jake Silva",
+          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
+        },
+        {
+          "name": "Bruno Wolff",
+          "url": "https://open.spotify.com/artist/0pn6XJi2YF35lsPYokfM5B"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/02wLZcPEl7xt0L9OpBKpS0"
     },
     {
       "album": {
@@ -6675,7 +6831,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 139862,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0mZNmGCeTuWYf9qjpuZT9G"
@@ -10548,6 +10704,24 @@
     },
     {
       "album": {
+        "name": "In The Weekend",
+        "url": "https://open.spotify.com/album/422FYZRqfIfMaR2YIK0A3V"
+      },
+      "artists": [
+        {
+          "name": "Surya",
+          "url": "https://open.spotify.com/artist/3S9iXX8tMEbBrkMU8PmmjN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157619,
+      "name": "In The Weekend",
+      "url": "https://open.spotify.com/track/4o0GYoWybEPL1fTb31rkii"
+    },
+    {
+      "album": {
         "name": "Infinity (Khira Li Remix)",
         "url": "https://open.spotify.com/album/1aECSnrFFtEd839ZxNNEW7"
       },
@@ -12950,6 +13124,32 @@
     },
     {
       "album": {
+        "name": "Lost Without You (Tom & Jame Remix)",
+        "url": "https://open.spotify.com/album/1ZBsSC0GElDPegAe58QKih"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        },
+        {
+          "name": "Tom & Jame",
+          "url": "https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Lost Without You (Tom & Jame Remix)",
+      "url": "https://open.spotify.com/track/4qlOEEFmKVb9kjfgjjljJ0"
+    },
+    {
+      "album": {
         "name": "Lost Your Love",
         "url": "https://open.spotify.com/album/5Hj66Z2Mj6Jjf8x3EGtRRD"
       },
@@ -13603,7 +13803,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131123,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj"
@@ -14333,7 +14533,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 187132,
       "name": "Mirror Mirror (Showtek 360 Blue Edit)",
       "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
@@ -15954,6 +16154,28 @@
     },
     {
       "album": {
+        "name": "No Limit To Our Love (feat. Jantine)",
+        "url": "https://open.spotify.com/album/2nQ2dpnzdS2pKR6cRHqGR5"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "No Limit To Our Love (feat. Jantine)",
+      "url": "https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ"
+    },
+    {
+      "album": {
         "name": "No Love, No Life",
         "url": "https://open.spotify.com/album/42x5j34Hcxm0puZv92VnDH"
       },
@@ -16369,7 +16591,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 172158,
       "name": "Off Switch",
       "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
@@ -16655,6 +16877,32 @@
       "duration_ms": 280000,
       "name": "One Two Three (feat. Ellivia)",
       "url": "https://open.spotify.com/track/5f8QUgSguQomd6SeHOz7SG"
+    },
+    {
+      "album": {
+        "name": "OneHundred",
+        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189376,
+      "name": "OneHundred",
+      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
     },
     {
       "album": {
@@ -17185,6 +17433,24 @@
       "duration_ms": 160476,
       "name": "Paralyzed By Your Eyes",
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/0QxzLDrb3YKNjWB1F5RfMx"
+      },
+      "artists": [
+        {
+          "name": "The MVI",
+          "url": "https://open.spotify.com/artist/3lNndpXHpx4oVT4rEt5MB4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6ZVj7rTW2lkgR69LO4OO1r"
     },
     {
       "album": {
@@ -17925,6 +18191,28 @@
       "duration_ms": 194000,
       "name": "Pyramid - Michael Calfan Remix",
       "url": "https://open.spotify.com/track/0sjQPSuO2Q2qR8lBsmVCkd"
+    },
+    {
+      "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "album": {
@@ -23541,7 +23829,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 207096,
       "name": "Uninvited (feat. Yasmin Jane)",
       "url": "https://open.spotify.com/track/5VFd0TVXh4OH3fOwjs0JGi"

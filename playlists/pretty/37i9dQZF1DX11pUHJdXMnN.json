@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 62934,
+  "num_followers": 62953,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDdkYTdkMDcxNWI2YTRmNjQ0YzBlMzgwMTE5ODQ5NTVmYTBhYmMw",
+  "snapshot_id": "MCxkMjBhMDI2NDUwZWIzMjFjOWQ2ZDc1M2JlMDU5NDg4YTAwNWU2YWFm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Unleashed Tapes Vol. 1",
-        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
-      },
-      "artists": [
-        {
-          "name": "Delphi",
-          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
-        }
-      ],
-      "duration_ms": 385361,
-      "name": "Blue Tuesday",
-      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS"
       },
@@ -331,22 +315,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Giving Up On (Alan Dixon Remix)",
-        "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
+        "name": "Unleashed Tapes Vol. 1",
+        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        },
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+          "name": "Delphi",
+          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
         }
       ],
-      "duration_ms": 452566,
-      "name": "Giving Up On - Alan Dixon Remix",
-      "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
+      "duration_ms": 385361,
+      "name": "Blue Tuesday",
+      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -371,6 +351,26 @@
       "duration_ms": 288000,
       "name": "Nefertiti - Red Axes Remix",
       "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Giving Up On (Alan Dixon Remix)",
+        "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "duration_ms": 452566,
+      "name": "Giving Up On - Alan Dixon Remix",
+      "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 212903,
       "name": "Ardore",
       "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -735,6 +735,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Inglorious Express EP",
+        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
+        {
+          "name": "Vandesande",
+          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
+        }
+      ],
+      "duration_ms": 400259,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 444514,
       "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
       "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Inglorious Express EP",
-        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
-      },
-      "artists": [
-        {
-          "name": "Biesmans",
-          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
-        },
-        {
-          "name": "Vandesande",
-          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
-        }
-      ],
-      "duration_ms": 400259,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
     },
     {
       "added_at": "2021-08-27 15:45:01",

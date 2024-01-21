@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-69 songs - 3 hr 36 min
+70 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Hey Stranger](https://open.spotify.com/track/0eeAX51QrPPoA3DjCIgYZ0) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:23 | 2023-02-27 |  |
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2023-02-27 |  |
 | [Into the Wave](https://open.spotify.com/track/1GMJxMsvRTRTENbb8Q2nF8) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [San Lazarus](https://open.spotify.com/album/3OfcDtpu9DMW29t930KvSG) | 3:00 | 2023-02-27 |  |
-| [It's My World](https://open.spotify.com/track/1IlAWu3mDOFcfQuvwmzEw1) | [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [Victor](https://open.spotify.com/album/6hvca4gghoSjsUNbXUIexE) | 2:10 | 2023-02-27 |  |
+| [It's My World](https://open.spotify.com/track/1IlAWu3mDOFcfQuvwmzEw1) | [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [Victor](https://open.spotify.com/album/6hvca4gghoSjsUNbXUIexE) | 2:10 | 2023-02-27 | 2024-01-21 |
+| [It's My World](https://open.spotify.com/track/6gbidcxKKpJV7B57qEm7Xw) | [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [Victor](https://open.spotify.com/album/00mCJ4soyejUyK0wqbQlwJ) | 2:10 | 2023-02-27 |  |
 | [Itz Eazy](https://open.spotify.com/track/0hoPzRRdFRvrQwRttp6s2c) | [The Nah](https://open.spotify.com/artist/63fuNEcSBix7lr7qVZGRP5) | [Itz Eazy](https://open.spotify.com/album/59ifg1Mbgm5ssJe168XR6h) | 2:27 | 2023-02-27 |  |
 | [Jheeze](https://open.spotify.com/track/1gcbrVKjdNkp0iDNdmKKAH) | [Zines](https://open.spotify.com/artist/3dKDLrcOBAqhFM0Btokf3c) | [Jheeze](https://open.spotify.com/album/5fzeK1GldcR3Y1pGL8CBAr) | 2:42 | 2023-02-27 |  |
 | [Killin It](https://open.spotify.com/track/1Ee0c6iEpkC3gNtW5jtiZO) | [Ønders](https://open.spotify.com/artist/35mhC6Qg4amFBLtkBGFZ6U), [Mighty](https://open.spotify.com/artist/7nBlM2HOOf2IfRSNYn06MN) | [Killin It](https://open.spotify.com/album/5fVIYb9IOgPVeRp9PLvoNH) | 3:06 | 2023-02-27 |  |

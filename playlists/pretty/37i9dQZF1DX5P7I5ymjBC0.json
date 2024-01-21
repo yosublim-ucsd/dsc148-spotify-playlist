@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 67799,
+  "num_followers": 67816,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDdmOGQ4MTViMDkyYmUxN2Q2YjlmZDllOTRhYmE3NmFiZmNhODZh",
+  "snapshot_id": "MCw4NGY1ZmYwMzlmNzc0MGY5OTY3Mjg4ZDE5M2E1MDFjZTdjY2U4YjQ5",
   "tracks": [
     {
       "added_at": "2024-01-10 11:09:49",
@@ -435,30 +435,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Aaj Rang Hai",
-        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
-      },
-      "artists": [
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "Aaj Rang Hai",
-      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Naina Morey (Redefined)",
         "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 202838,
       "name": "Naina Morey - Redefined",
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Aaj Rang Hai",
+        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
+      },
+      "artists": [
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "Aaj Rang Hai",
+      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Classical Unwind",
-        "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
-      },
-      "artists": [
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
-        }
-      ],
-      "duration_ms": 239813,
-      "name": "Lat Ulajhi",
-      "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Classical Unwind",
+        "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
+      },
+      "artists": [
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+        }
+      ],
+      "duration_ms": 239813,
+      "name": "Lat Ulajhi",
+      "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Krishna Murari",
         "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225353,
       "name": "Krishna Murari",
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -991,18 +991,26 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
       "artists": [
         {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
         }
       ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
+      "duration_ms": 253636,
+      "name": "Bhagirathi",
+      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
     },
     {
       "added_at": "2024-01-10 11:09:49",

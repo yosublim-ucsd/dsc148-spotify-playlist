@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-565 songs - 2 day 6 hr 6 min
+566 songs - 2 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Horizon Red](https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb) | 4:19 | 2023-02-24 | 2023-11-05 |
 | [Horizon Red](https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc) | 4:19 | 2023-11-03 |  |
 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 | 2024-01-05 |  |
+| [Howl](https://open.spotify.com/track/4lkLsglTs7eccuclitXPxH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Howl](https://open.spotify.com/album/035PQLE8Al9oFmTACBwtky) | 3:00 | 2024-01-19 |  |
 | [Human Aura \- Massano Remix](https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Human Aura](https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8) | 6:44 | 2022-08-05 |  |
 | [Hummingbird \- Arnas D Remix](https://open.spotify.com/track/4vwO2jLIsbKPH5Ra3BEJja) | [Wolf Ear & Fassbender](https://open.spotify.com/artist/3WoHhepzRb4A1m5esS2v2r), [Arnas D](https://open.spotify.com/artist/0Kx8kDxWUfetjFFkeQLcoX) | [Hummingbird](https://open.spotify.com/album/7vitgaCxhbUcK7mPaxsihV) | 7:58 | 2021-04-21 | 2022-07-02 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
@@ -278,7 +279,7 @@
 | [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 | 2023-02-20 |
 | [Let's Pretend](https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Let's Pretend](https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K) | 3:40 | 2022-11-18 |  |
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
-| [Like Forever](https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Like Forever / Little Void](https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA) | 6:20 | 2023-12-15 |  |
+| [Like Forever](https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Like Forever / Little Void](https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA) | 6:20 | 2023-12-15 | 2024-01-21 |
 | [Like That](https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Like That](https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq) | 3:42 | 2023-10-20 |  |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 | 2023-09-30 |

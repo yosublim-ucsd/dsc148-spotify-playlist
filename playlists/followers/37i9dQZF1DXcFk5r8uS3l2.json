@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 442881,
+  "2024-01-21": 442934,
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Danielle Nicole",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Marcus King",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -1467,6 +1467,24 @@
       "duration_ms": 217678,
       "name": "Everybody Wants To Be My Friend",
       "url": "https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e"
+    },
+    {
+      "album": {
+        "name": "F*ck My Life Up Again",
+        "url": "https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258626,
+      "name": "F*ck My Life Up Again",
+      "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
     },
     {
       "album": {
@@ -4140,6 +4158,24 @@
     },
     {
       "album": {
+        "name": "Put Your Hand Up",
+        "url": "https://open.spotify.com/album/0AXruhIxdOMJnMuivekJ4c"
+      },
+      "artists": [
+        {
+          "name": "The Bacon Brothers",
+          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Put Your Hand Up",
+      "url": "https://open.spotify.com/track/7wsNOaMLXYcJXSrKJupSEB"
+    },
+    {
+      "album": {
         "name": "Queen Bee",
         "url": "https://open.spotify.com/album/6tnrIHGY8sgqVyYnAfqHf1"
       },
@@ -4571,7 +4607,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
@@ -5337,7 +5373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"

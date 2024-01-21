@@ -4,7 +4,7 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-184 songs - 13 hr 26 min
+185 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Still of the Night](https://open.spotify.com/track/70vHYpoQTYiaZEP5vwGzop) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [I Remember You \- 80's Rock Memories](https://open.spotify.com/album/38f9XHzd0isyb3ebOPVFme) | 6:34 | 2022-07-05 | 2022-11-13 |
 | [Still of the Night \- 2017 Remastered Version](https://open.spotify.com/track/5PLPlz2rQlwMTFQqnQAPgu) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Remaster\)](https://open.spotify.com/album/0CCJc4HNZTsrGFQfI7lnx9) | 6:39 | 2020-10-08 | 2022-07-29 |
 | [Still of the Night \- 2018 Remaster](https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 6:37 | 2022-07-05 |  |
-| [Summertime Girls \- Studio Version](https://open.spotify.com/track/2kR3B09M6KeJnchOkxwszt) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Best Of '81 To '85](https://open.spotify.com/album/5xIW0nuj53BTZaeLx9KePE) | 3:29 | 2020-10-08 |  |
+| [Summertime Girls \- Studio Version](https://open.spotify.com/track/2kR3B09M6KeJnchOkxwszt) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Best Of '81 To '85](https://open.spotify.com/album/5xIW0nuj53BTZaeLx9KePE) | 3:29 | 2020-10-08 | 2024-01-21 |
+| [Summertime Girls \- Studio Version](https://open.spotify.com/track/2KzvbRdB8qRMItIBDBU60F) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Earthquake \- The A&M Years](https://open.spotify.com/album/61RDXYzPiJBu45fMcs0UCR) | 3:29 | 2022-07-05 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-07-05 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 5:56 | 2020-10-08 | 2022-07-29 |
 | [Talk Dirty To Me](https://open.spotify.com/track/473dVAB97y06dfl6OBb1uj) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Double Dose: Ultimate Hits](https://open.spotify.com/album/1AyHmo89P5cOTi7kHkqzJF) | 3:44 | 2020-10-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Salin\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,343 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,439 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 39 | [disconnected](https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Disconnected](https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz) | 2:02 |
 | 40 | [matter](https://open.spotify.com/track/5zvkuCpPtkP3iW5GdubZCa) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Chloe Kibble](https://open.spotify.com/artist/5cQSNL47g1aGl81nwFAxJy) | [matter](https://open.spotify.com/album/1KuGOEYZFDDzxjVj4w5PlO) | 3:05 |
 
-Snapshot ID: `MCw2NmUxMjQ3MjhkZWUwMTViMmE5MmFkMjAwM2ZiNjZjYmJiNGE5Yjhi`
+Snapshot ID: `MCw5YzhhZjg0NWY1MWZmM2NiOGQwZjA3N2Y1ZjJkNGJiNzM4ZTdjNGMz`

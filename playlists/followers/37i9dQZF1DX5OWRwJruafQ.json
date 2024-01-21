@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 76518,
+  "2024-01-21": 76544,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Kaka",
   "name": "Ghaint Flow",
@@ -2752,6 +2752,32 @@
     },
     {
       "album": {
+        "name": "Jalwa",
+        "url": "https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg"
+      },
+      "artists": [
+        {
+          "name": "Jot Ladhar",
+          "url": "https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR"
+        },
+        {
+          "name": "Kash Ladhar",
+          "url": "https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186839,
+      "name": "Jalwa",
+      "url": "https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S"
+    },
+    {
+      "album": {
         "name": "Jamanta",
         "url": "https://open.spotify.com/album/1vgvePwrcyUGI8iczJp3WZ"
       },
@@ -4383,7 +4409,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6"

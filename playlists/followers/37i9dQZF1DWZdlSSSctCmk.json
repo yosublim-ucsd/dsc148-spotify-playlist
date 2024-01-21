@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 116398,
+  "2024-01-21": 116438,
   "date_first_scraped": "2022-09-17",
   "description": "A mediterranean sundown soundtrack.",
   "name": "Balearic Beats",
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228159,
       "name": "Give It To You - Ralf GUM Radio Edit",
       "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
@@ -2583,6 +2583,24 @@
       "duration_ms": 284139,
       "name": "Salut Les Copines!",
       "url": "https://open.spotify.com/track/4r9eG1cNJDhM3Ytk4Q9IDw"
+    },
+    {
+      "album": {
+        "name": "Cerebral Hemispheres",
+        "url": "https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279224,
+      "name": "Sands of Aruba",
+      "url": "https://open.spotify.com/track/7DNpkhHwYqLpegThVQxwUB"
     },
     {
       "album": {

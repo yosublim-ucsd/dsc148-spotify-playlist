@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Rezz
 
-739 songs - 1 day 18 hr 27 min
+739 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-12-17 | 2022-03-12 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-20 | 2023-06-10 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-15 |  |
-| [Left For Dead](https://open.spotify.com/track/6NdLcYW52VTforkwIJZ1Nn) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [David Vance](https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB) | [Left For Dead EP](https://open.spotify.com/album/6pe2A5zjY8E9jsNW7N4aci) | 4:24 | 2024-01-19 |  |
+| [Left For Dead \(feat\. David Vance\)](https://open.spotify.com/track/6NdLcYW52VTforkwIJZ1Nn) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [David Vance](https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB) | [Left For Dead EP](https://open.spotify.com/album/6pe2A5zjY8E9jsNW7N4aci) | 4:24 | 2024-01-19 |  |
 | [LEFT TO RIGHT \- Subsonic Remix](https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [LEFT TO RIGHT \(Subsonic Remix\)](https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm) | 2:59 | 2023-03-10 | 2023-11-25 |
 | [Let Go](https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Jessy Covets](https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV) | [Let Go](https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp) | 4:00 | 2023-08-04 | 2023-11-04 |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 | 2023-07-29 |
@@ -648,7 +648,7 @@
 | [Take Your Throne](https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Play With You](https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w) | 3:34 | 2023-09-15 | 2023-11-17 |
 | [Takin' Over](https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Takin' Over](https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY) | 2:19 | 2021-12-17 | 2022-05-07 |
 | [Tear Jerker](https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Tear Jerker](https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu) | 2:35 | 2023-11-03 |  |
-| [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 3:08 | 2024-01-19 |  |
+| [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 2:13 | 2024-01-19 |  |
 | [Terrabot](https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Terrabot](https://open.spotify.com/album/4ubvzMcNnsIsYU9S78zb2h) | 3:18 | 2022-03-18 | 2023-01-04 |
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-13 | 2022-12-03 |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-12-02 | 2023-07-29 |

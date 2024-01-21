@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Apashe
 
-632 songs - 1 day 10 hr 51 min
+633 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-27 |  |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
 | [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-08 |  |
+| [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-05 |  |
 | [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 | 2022-08-06 |
 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-14 | 2023-10-28 |
@@ -292,7 +293,7 @@
 | [Jam It Up](https://open.spotify.com/track/4YT1eGbADFVUk5GyDD9ox3) | [The Evening After](https://open.spotify.com/artist/4HXiAIXVyuvuf6pRx9BGFP) | [Jam It Up](https://open.spotify.com/album/3KPgLNfJZicZRUeQM4Ru2W) | 5:13 | 2022-08-26 | 2022-11-19 |
 | [Joker](https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Joker](https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t) | 2:07 | 2022-03-11 | 2022-06-25 |
 | [JUICE](https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [JUICE](https://open.spotify.com/album/4YH7LDtcPK6K69yY1nPrbh) | 1:56 | 2022-04-08 | 2022-04-20 |
-| [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 |  |
+| [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-01-21 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2022-01-14 | 2022-02-12 |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-06-23 | 2023-08-19 |
 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 | 2023-01-20 | 2023-03-10 |

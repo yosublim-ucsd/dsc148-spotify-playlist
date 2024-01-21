@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-5,027 songs - 12 day 16 hr 25 min
+5,028 songs - 12 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/track/1BJkswUzqciMiHbMC4Wbhm) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/album/48DoKisq4sGOtKMf2vlPc7) | 3:01 | 2022-10-10 | 2022-10-25 |
 | [antidote](https://open.spotify.com/track/01RsTBZYjhCZK0zpXZchBl) | [Mastarrja](https://open.spotify.com/artist/1WCRsxr7C2xVKovIr0tG4B) | [antidote](https://open.spotify.com/album/1AG9IoVUVmwF6NUou71kJC) | 3:48 | 2021-12-01 | 2021-12-21 |
 | [Antithesis Kisama \-kai\-](https://open.spotify.com/track/0OmfaGcA7apk49uVlzmWwC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Antithesis Kisama \-kai\-](https://open.spotify.com/album/7Fe8AR257yKmXZfM7osje4) | 3:13 | 2022-10-03 | 2022-10-11 |
-| [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-09 |  |
+| [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-09 |  |
 | [Anytime Smokin' Cigarette](https://open.spotify.com/track/6KWrSoIUZxApxs09qucsWN) | [Raychell](https://open.spotify.com/artist/0FTF48kXaOulk41ck7pOK2) | [Don't Give Up!](https://open.spotify.com/album/77iOZX8nzfnHpBHu0j6qpX) | 8:40 | 2022-11-21 | 2022-11-30 |
 | [Aoitobari feat\. Haku.](https://open.spotify.com/track/1dUpgMtMwBo6Cw6fBirbb0) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [Aoitobari feat\. Haku.](https://open.spotify.com/album/6ELBUmQyrhBFeoyHw4lJlE) | 4:01 | 2022-12-12 | 2023-01-10 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-02-06 | 2023-02-21 |
@@ -1471,7 +1471,8 @@
 | [Lilt](https://open.spotify.com/track/0oG01y2pbxdX8KHS5wsKBd) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Lilt](https://open.spotify.com/album/2LiURHIClvEBdDNzazsEj2) | 3:06 | 2022-09-20 | 2022-09-28 |
 | [Lime Country](https://open.spotify.com/track/1kZ4nX1PQtSyuGV2o0m5fr) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Lime Country](https://open.spotify.com/album/0yYgBALOxNmQn6xhSUlNds) | 3:09 | 2022-10-17 | 2022-11-09 |
 | [lime light](https://open.spotify.com/track/0piFojMx2tRk1Uk5vCNqpT) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:09 | 2022-12-27 | 2023-01-17 |
-| [limit](https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [limit](https://open.spotify.com/album/0RxQZZwGASpfg7OH2OkxIK) | 4:23 | 2024-01-15 |  |
+| [limit](https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [limit](https://open.spotify.com/album/0RxQZZwGASpfg7OH2OkxIK) | 4:23 | 2024-01-15 | 2024-01-21 |
+| [limit](https://open.spotify.com/track/6ri9G2hnu8zhA71sMCVfVk) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [shin zen bi](https://open.spotify.com/album/3auUQy4uLMntgH8F71vHxR) | 4:23 | 2024-01-15 |  |
 | [limited](https://open.spotify.com/track/74jYww0k8mh5uLSKgQZMg1) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [one way](https://open.spotify.com/album/7xsX8mLdItSnc9Vom4VkgS) | 2:43 | 2023-03-27 | 2023-04-18 |
 | [LIMITLESS](https://open.spotify.com/track/7DvzkZNxWEYZIudAxLhqaM) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [LIMITLESS](https://open.spotify.com/album/2qMhbVGzV3CbDoqfYxqfIh) | 3:10 | 2022-03-14 | 2022-03-22 |
 | [LINK](https://open.spotify.com/track/5cYePSWrMUdwLJZEuJRnNc) | [te'resa](https://open.spotify.com/artist/4VQfi1PjERe7qCFca5xboT) | [predawn](https://open.spotify.com/album/6LGWEXqvqVyxA9Aa1dRmoN) | 3:41 | 2021-10-27 | 2021-11-10 |

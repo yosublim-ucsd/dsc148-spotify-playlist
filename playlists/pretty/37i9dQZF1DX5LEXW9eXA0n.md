@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Solar\(솔라\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,001 likes - 102 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,000 likes - 102 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 44 | [Not Lonely](https://open.spotify.com/track/6qxNNoaaKKshw34ZdTrVV2) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Lonely](https://open.spotify.com/album/1c8fuugcDBjVstYX9RcI8q) | 4:11 |
 | 45 | [It's okay](https://open.spotify.com/track/4B4Fi07IQMGEjvCFis7KTS) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It's okay](https://open.spotify.com/album/74DHtTm05OxjkGVLUa4GjE) | 4:37 |
 | 46 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 |
-| 47 | [내일이 아름답도록](https://open.spotify.com/track/0OITGPkCdFYTkCLvgdcAV2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [내일이 아름답도록](https://open.spotify.com/album/1rPNn1nnr7UYmwB4wBrHX1) | 3:40 |
+| 47 | [내일이 아름답도록 \(졸업식 노래\)](https://open.spotify.com/track/0OITGPkCdFYTkCLvgdcAV2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [내일이 아름답도록 \(졸업식 노래\)](https://open.spotify.com/album/1rPNn1nnr7UYmwB4wBrHX1) | 3:40 |
 | 48 | [Looking for you](https://open.spotify.com/track/5ub0sMPEBU7J5yXrd7xFEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Looking for you](https://open.spotify.com/album/7L2uNsrUyZJzYbVdW6vGN1) | 3:49 |
 | 49 | [알지 못하는 너에게](https://open.spotify.com/track/3lCdUc9VIBKL527AS3xerq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [알지 못하는 너에게](https://open.spotify.com/album/4RS2Q5NXRVOrApadj2If3l) | 3:42 |
 | 50 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 101 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 |
 | 102 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 |
 
-Snapshot ID: `MCw5NGNmMmMwZTRjMDhlZDNhNzgzMjFhOGQzM2Y3YTk1NDEwZDYyMjY2`
+Snapshot ID: `MCxjYjZiZmQyM2NkZGJlMTY3YTVmMzg4YzJiYWMyNDdhNDQyYzFlZDIw`

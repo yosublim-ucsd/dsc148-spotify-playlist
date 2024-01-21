@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 29501,
+  "2024-01-21": 29509,
   "date_first_scraped": "2022-02-25",
   "description": "New Rock & Alt driving the current, every week. Cover: Meet Me @ The Altar",
   "name": "Rock Frequency",
@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/3mFFL4AvGi0t2RhZ66GtYC"
+    },
+    {
+      "album": {
         "name": "ALL COPS ARE BASTARDS*",
         "url": "https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr"
       },
@@ -191,6 +209,28 @@
       "duration_ms": 170708,
       "name": "Alone In December",
       "url": "https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m"
+    },
+    {
+      "album": {
+        "name": "EKKSTACY",
+        "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129880,
+      "name": "alright (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
     },
     {
       "album": {
@@ -282,6 +322,24 @@
     },
     {
       "album": {
+        "name": "BACKSTABBER",
+        "url": "https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM"
+      },
+      "artists": [
+        {
+          "name": "Ergo, Bria",
+          "url": "https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188808,
+      "name": "BACKSTABBER",
+      "url": "https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R"
+    },
+    {
+      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -333,6 +391,36 @@
       "duration_ms": 187563,
       "name": "Better Off Without You",
       "url": "https://open.spotify.com/track/3rh08vqgwBzbRawiLjQk4O"
+    },
+    {
+      "album": {
+        "name": "Big Bank (feat. Billy Lemos)",
+        "url": "https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Big Bank",
+      "url": "https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4"
     },
     {
       "album": {
@@ -401,10 +489,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
+    },
+    {
+      "album": {
+        "name": "Chronicles Of The Kid",
+        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
     },
     {
       "album": {
@@ -662,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Cancer Culture",
+        "url": "https://open.spotify.com/album/6NFbxxTMWwClMqD899KnBO"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Cancer Culture",
+      "url": "https://open.spotify.com/track/516AojuldUfpp7HCk1CIA0"
+    },
+    {
+      "album": {
         "name": "care about myself",
         "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
       },
@@ -699,6 +823,24 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "album": {
+        "name": "catf!sh",
+        "url": "https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175474,
+      "name": "catf!sh",
+      "url": "https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj"
     },
     {
       "album": {
@@ -1313,7 +1455,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 144857,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp"
@@ -1491,6 +1633,24 @@
       "duration_ms": 259040,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu"
+    },
+    {
+      "album": {
+        "name": "Bro...it's not that deep",
+        "url": "https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Miller",
+          "url": "https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Fight 4 luv",
+      "url": "https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO"
     },
     {
       "album": {
@@ -1895,7 +2055,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 236536,
       "name": "Hi-De-Ho",
       "url": "https://open.spotify.com/track/3GkZwRXM2Dsd8c25qYSmGU"
@@ -2101,7 +2261,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 136506,
       "name": "i want to die in your arms",
       "url": "https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq"
@@ -2144,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
+    },
+    {
+      "album": {
         "name": "If Only You Knew",
         "url": "https://open.spotify.com/album/5A4eMP13R4xBxuSH69L54e"
       },
@@ -2159,7 +2337,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140293,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/7qOmxHqPGd1tPEI9CbGlnA"
@@ -2177,10 +2355,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 181316,
       "name": "im fine, thx 4 asking",
       "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
     },
     {
       "album": {
@@ -2390,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "keep a window open//",
+        "url": "https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150329,
+      "name": "keep a window open//",
+      "url": "https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j"
+    },
+    {
+      "album": {
         "name": "Keep It Rolling",
         "url": "https://open.spotify.com/album/7KWJ8TMxVkGV3NNxrzgDt1"
       },
@@ -2578,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "Melanin Punk",
+        "url": "https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193136,
+      "name": "Look Alive (Netic)",
+      "url": "https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg"
+    },
+    {
+      "album": {
         "name": "Loststar / Want & Need",
         "url": "https://open.spotify.com/album/3PQ99cQC5sMhEUQfqrC2oC"
       },
@@ -2640,6 +2872,24 @@
     },
     {
       "album": {
+        "name": "MAKE IT UP",
+        "url": "https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "MAKE IT UP",
+      "url": "https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd"
+    },
+    {
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -2655,7 +2905,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
@@ -2832,6 +3082,24 @@
     },
     {
       "album": {
+        "name": "Never Need Me",
+        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
+    },
+    {
+      "album": {
         "name": "New York Transit Queen",
         "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
       },
@@ -2959,6 +3227,24 @@
       "duration_ms": 253791,
       "name": "Ours",
       "url": "https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK"
+    },
+    {
+      "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav"
     },
     {
       "album": {
@@ -3537,6 +3823,24 @@
       "duration_ms": 149547,
       "name": "So Sentimental",
       "url": "https://open.spotify.com/track/0e6cllU5p2HDCFm2cyKSai"
+    },
+    {
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "album": {

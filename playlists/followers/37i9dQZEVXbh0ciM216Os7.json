@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 0,
+  "2024-01-21": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 211858,
       "name": "2024 (Freestyle)",
       "url": "https://open.spotify.com/track/4PIucCm13InnDwukJEVUL3"
@@ -598,6 +598,24 @@
     },
     {
       "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+    },
+    {
+      "album": {
         "name": "A World Without Love",
         "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 184058,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/3w9WnM30pp0TEby6LupUX8"
@@ -921,6 +939,24 @@
       "duration_ms": 172213,
       "name": "Always Gonna Be",
       "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "album": {
+        "name": "Am Falkenstein",
+        "url": "https://open.spotify.com/album/6hAKjATeeoNdkm5Q2WwR1z"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Am Falkenstein",
+      "url": "https://open.spotify.com/track/0bMMVhsfY09wf54alspNTR"
     },
     {
       "album": {
@@ -1381,6 +1417,54 @@
       "duration_ms": 155179,
       "name": "Asteroids",
       "url": "https://open.spotify.com/track/1jtM7Xnl89XD1FgANm7qYs"
+    },
+    {
+      "album": {
+        "name": "Astro Warrior Anthem",
+        "url": "https://open.spotify.com/album/0rEWFB9d2jKqKhhNSa4TmS"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410000,
+      "name": "Astro Warrior Anthem",
+      "url": "https://open.spotify.com/track/4Qp4wucpbsfOewvvXUdaFD"
+    },
+    {
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/1Gz1Y0tDeqlwyTo6wlK0KI"
+      },
+      "artists": [
+        {
+          "name": "Paper Napkin",
+          "url": "https://open.spotify.com/artist/1nXwOss4BQdS89elhu6uI1"
+        },
+        {
+          "name": "Yung Booke",
+          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Pill",
+          "url": "https://open.spotify.com/artist/3Gr3VowS86A6dNdKvs7qH6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231601,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/1INY3UvxJIjbIcEhSJ1KfK"
     },
     {
       "album": {
@@ -1911,6 +1995,24 @@
       "duration_ms": 555386,
       "name": "Beautiful Black Eyes",
       "url": "https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0"
+    },
+    {
+      "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
       "album": {
@@ -2605,6 +2707,24 @@
       "duration_ms": 150507,
       "name": "BOBBY ON THE DIGITAL",
       "url": "https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN"
+    },
+    {
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "album": {
@@ -3349,7 +3469,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202758,
       "name": "Change",
       "url": "https://open.spotify.com/track/0FjYlctTPFz0SR6XgcxXKa"
@@ -3513,7 +3633,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226391,
       "name": "Chipi Chipi Chapa Chapa",
       "url": "https://open.spotify.com/track/69bOOQb6gRMrRUUPLpapUL"
@@ -3725,6 +3845,32 @@
     {
       "album": {
         "name": "Cold Blues",
+        "url": "https://open.spotify.com/album/4UcgXAfh4eGSqYM1elyEvX"
+      },
+      "artists": [
+        {
+          "name": "Blacklovefresh",
+          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Jaemez9",
+          "url": "https://open.spotify.com/artist/3xFADbFLxNQXXMv41lbXdZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Cold Blues",
+      "url": "https://open.spotify.com/track/7n7DJcOMSfXKsrigSl6Flb"
+    },
+    {
+      "album": {
+        "name": "Cold Blues",
         "url": "https://open.spotify.com/album/5tF0USGac3Q1uzKxRlRaCB"
       },
       "artists": [
@@ -3903,6 +4049,24 @@
       "duration_ms": 153264,
       "name": "Crocadillaz (feat. De La Soul and Dawn Penn)",
       "url": "https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q"
+    },
+    {
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "album": {
@@ -4740,6 +4904,24 @@
     },
     {
       "album": {
+        "name": "Dim the lights",
+        "url": "https://open.spotify.com/album/63r4pOZyLIitMCZrOwEhkE"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114264,
+      "name": "Dim the lights",
+      "url": "https://open.spotify.com/track/3me3bUUEDkJNKRM8WaRl2A"
+    },
+    {
+      "album": {
         "name": "Dirty Diana (Metal Version)",
         "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
       },
@@ -5347,7 +5529,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 120034,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4"
@@ -6713,7 +6895,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 184957,
       "name": "Five Seven",
       "url": "https://open.spotify.com/track/2sUBfSrXHRe4Gbb3DUYtCO"
@@ -8036,6 +8218,24 @@
     },
     {
       "album": {
+        "name": "Penith (The DAVE Soundtrack)",
+        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243033,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F"
+    },
+    {
+      "album": {
         "name": "Halloween Theme (Metal Version)",
         "url": "https://open.spotify.com/album/1UFUjZGwRgtCQ0TXUFhQrH"
       },
@@ -8263,7 +8463,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
@@ -8281,7 +8481,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 139857,
       "name": "Heather On The Hill",
       "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
@@ -9215,7 +9415,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -9233,7 +9433,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 158000,
       "name": "ILLEGALS IN MY YARD",
       "url": "https://open.spotify.com/track/6s490uEVJ3t0OwCkKIVBze"
@@ -9820,6 +10020,36 @@
     },
     {
       "album": {
+        "name": "IV. Allegro ma non troppo",
+        "url": "https://open.spotify.com/album/7fIwHpPgROpAhD5dseIoJt"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426746,
+      "name": "IV. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/73I2679GOdAPb0eWpQTdZH"
+    },
+    {
+      "album": {
         "name": "Ken The EP",
         "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
       },
@@ -9933,6 +10163,28 @@
       "duration_ms": 208793,
       "name": "Jealous (feat. Snoop Dogg) - Instrumental",
       "url": "https://open.spotify.com/track/4PUBPtUymTVXYR6DUaA3C3"
+    },
+    {
+      "album": {
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
     },
     {
       "album": {
@@ -10595,7 +10847,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
@@ -10643,7 +10895,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217500,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
@@ -11810,6 +12062,24 @@
     },
     {
       "album": {
+        "name": "Matthew McConaughey",
+        "url": "https://open.spotify.com/album/5Zcphiddm6lNmE9BMJ5ZW2"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189428,
+      "name": "Matthew McConaughey",
+      "url": "https://open.spotify.com/track/7KLXIod5EkVEOmTtZ0nwPv"
+    },
+    {
+      "album": {
         "name": "Mavhoko (feat. Optimist Music ZA, Agzo & Thama Tee)",
         "url": "https://open.spotify.com/album/4kgCbZRmRnpG3OkPEazJEv"
       },
@@ -12265,7 +12535,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 144059,
       "name": "Million Cash",
       "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J"
@@ -13732,6 +14002,24 @@
     },
     {
       "album": {
+        "name": "Ohrgasmus",
+        "url": "https://open.spotify.com/album/0d5lbdamsEbdf075fD8rzK"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "Ohrgasmus",
+      "url": "https://open.spotify.com/track/6Rr7oxlhiC3zG6fUniyKJf"
+    },
+    {
+      "album": {
         "name": "Older ft Jimmie Allen & Dixie D'Amelio",
         "url": "https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO"
       },
@@ -14338,6 +14626,36 @@
     },
     {
       "album": {
+        "name": "Pasame La Botella",
+        "url": "https://open.spotify.com/album/5nXFr1sJiXv7Kx0zDniuP0"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209329,
+      "name": "Pasame La Botella",
+      "url": "https://open.spotify.com/track/6Y2JmUPmMFzAdqrDYKXFlF"
+    },
+    {
+      "album": {
         "name": "Past and Present",
         "url": "https://open.spotify.com/album/2Ro7ot6kaTFHKToSombkLV"
       },
@@ -14459,7 +14777,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 109634,
       "name": "PERCEPTION CHECK",
       "url": "https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb"
@@ -14950,6 +15268,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In the Moonlight",
+        "url": "https://open.spotify.com/album/0qfAcDn9aXlohYxPP4KF9i"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "Praise Jah In the Moonlight",
+      "url": "https://open.spotify.com/track/5CS5r04tRKIUTLlugDWqFr"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -14961,7 +15297,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -15827,7 +16163,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165634,
       "name": "Rompe La Dompe",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
@@ -16158,6 +16494,24 @@
     },
     {
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -16365,7 +16719,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 151933,
       "name": "SEVEN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/0l5Hh5W4VybexZ0hXEj2jD"
@@ -17641,7 +17995,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7zkz7Y2mYNg6rWxQDUQM2J"
@@ -18116,6 +18470,36 @@
     },
     {
       "album": {
+        "name": "Swingin' Swordz",
+        "url": "https://open.spotify.com/album/0sfksws0s8mhz5aaUC6RdH"
+      },
+      "artists": [
+        {
+          "name": "Loco Mic",
+          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
+        },
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Anno Domini Beats",
+          "url": "https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205100,
+      "name": "Swingin' Swordz",
+      "url": "https://open.spotify.com/track/0m7ZD84GZ4R4S2NBee13cO"
+    },
+    {
+      "album": {
         "name": "Live At The Piano",
         "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
       },
@@ -18467,7 +18851,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 185429,
       "name": "Tha Rebels",
       "url": "https://open.spotify.com/track/4xQHINetdiU2CvBawXz2GF"
@@ -19101,6 +19485,28 @@
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
+    },
+    {
+      "album": {
+        "name": "The Precision Of Infinity",
+        "url": "https://open.spotify.com/album/2RD5ym22K355PAGIEUkH78"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280200,
+      "name": "The Precision Of Infinity",
+      "url": "https://open.spotify.com/track/0deJe09XxL1usW0WCKiT5S"
     },
     {
       "album": {
@@ -19793,7 +20199,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 89538,
       "name": "Trailer Park Alien",
       "url": "https://open.spotify.com/track/2cUNR9pD2yt5360rMafy9d"
@@ -20802,6 +21208,28 @@
     },
     {
       "album": {
+        "name": "Wassam Baby (with Lil Wayne)",
+        "url": "https://open.spotify.com/album/27A1wlQGudHpxfDRVaorOS"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Wassam Baby (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/1S9s9KeoM7RrXfIMb5SebB"
+    },
+    {
+      "album": {
         "name": "Wassup (Dj Ko Remix)",
         "url": "https://open.spotify.com/album/7eKKJ4fvgIHsYis0rF1qFu"
       },
@@ -20989,7 +21417,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209665,
       "name": "We sell weed",
       "url": "https://open.spotify.com/track/62c82cEDfgwjXUSGsJ8qjj"
@@ -21819,10 +22247,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/5hfpuuhPtlarfANhl0zasp"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/3Ex1Gd9g0b9Gk2hGxvlFQn"
     },
     {
       "album": {
@@ -21849,6 +22295,32 @@
       "duration_ms": 295755,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"
+    },
+    {
+      "album": {
+        "name": "You Know I'm With You (with Claire Wright & Mellodose)",
+        "url": "https://open.spotify.com/album/5AOOwKmkHHT9UY9JamyMLY"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "Mellodose",
+          "url": "https://open.spotify.com/artist/6nlxcJwoRgruZzDaNLxyjh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189952,
+      "name": "You Know I'm With You (with Claire Wright & Mellodose)",
+      "url": "https://open.spotify.com/track/4XsEZRVQTLXiu4motye7bj"
     },
     {
       "album": {

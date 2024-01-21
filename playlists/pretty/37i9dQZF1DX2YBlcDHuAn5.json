@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6776,
+  "num_followers": 6783,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5",
+  "snapshot_id": "MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy",
   "tracks": [
     {
       "added_at": "2023-12-01 08:47:54",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 191760,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 299306,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
@@ -739,22 +719,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Safe in the Suburbs",
-        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
-      },
-      "artists": [
-        {
-          "name": "Femke",
-          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
-        }
-      ],
-      "duration_ms": 178163,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Safe in the Suburbs",
+        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
+      },
+      "artists": [
+        {
+          "name": "Femke",
+          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
+        }
+      ],
+      "duration_ms": 178163,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
     },
     {
       "added_at": "2023-12-01 08:47:54",

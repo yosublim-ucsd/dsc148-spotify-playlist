@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,154 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,164 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 2 | [すべてがそこにありますように。](https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [すべてがそこにありますように。](https://open.spotify.com/album/0jXyshoedPS2dP4xTBtsiK) | 3:44 |
 | 3 | [Winding Road](https://open.spotify.com/track/1X1zGR5z4HQbdJjwJmUwo0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Take Me Under / Winding Road](https://open.spotify.com/album/0ucSy38HOq1jRTtbHVgtZV) | 3:46 |
 | 4 | [レイメイ](https://open.spotify.com/track/3D8dMWN3O6hbIlts9FXi9Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [レイメイ](https://open.spotify.com/album/2IvwlWOCgabwi9iELRtMZ6) | 5:15 |
-| 5 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 |
+| 5 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [eastern youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 |
 | 6 | [旅の幕開け](https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:43 |
 | 7 | [呼応](https://open.spotify.com/track/4cYBGyT7xgtPa7PzvY9y80) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 4:48 |
 | 8 | [Grey](https://open.spotify.com/track/5NKLg5YJdaSfUGfSKbgdCI) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Grey](https://open.spotify.com/album/5heJSMSLkBUvAj8s3xGOmF) | 2:40 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 42 | [狙撃](https://open.spotify.com/track/24jpZeiUN7GWzpZrZNpZ8k) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:39 |
 | 43 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 |
 
-Snapshot ID: `MCxmOGFhZmVkNmI1YWViMGE5NjE1NmMyMjI4NmUwNzNhNDM4Zjk3NGQx`
+Snapshot ID: `MCw0ZGE4MmIwMGMzOTJjYTIwNmFlNGI0NWI5ODNmZWY0Yjk2ZGUyZjQx`

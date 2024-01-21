@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/77WnBXLuQTrejRUDfvMYtj"
+      },
+      "artists": [
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208699,
+      "name": "Wendigo",
+      "url": "https://open.spotify.com/track/6twXcof6Q2HB1cKQm6dyWq"
+    },
+    {
+      "album": {
         "name": "when the world end",
         "url": "https://open.spotify.com/album/6aIoYMoYwbLR6PTfgSp61m"
       },

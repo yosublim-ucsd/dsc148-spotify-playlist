@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 271305,
+  "num_followers": 271807,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjhhODY4Yjc0YzJhMDU5NThhNWQ1MWUwYmUwMzA2OTAwNDVjNDAx",
+  "snapshot_id": "MCwyNTMyMmNiNTA1NjlmMTlmNGZkZDYwMGIyMzhkYmFhMjQ0YzA1OWFk",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Techno Acid 303",
         "url": "https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 230142,
       "name": "Techno Acid 303",
       "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Platia",
-        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
-      },
-      "artists": [
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Platia",
-      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
     }
   ],
   "unique_name": "Techno Workout",

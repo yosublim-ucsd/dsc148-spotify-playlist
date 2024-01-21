@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 299611,
+  "num_followers": 299777,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDMwZGE1MTQ5MjhmZjQ1NWJjNDI5OWNjYTFmZDI0ZjJlODU1MDdi",
+  "snapshot_id": "MCw3NThkZmEwMTIwMjM4NjFkNjI5ZTgyYzg0NGQxODE2YjI2MTYwYTlj",
   "tracks": [
     {
       "added_at": "2024-01-18 18:18:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
-      },
-      "artists": [
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+      },
+      "artists": [
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -631,6 +631,30 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+        }
+      ],
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 166556,
       "name": "Bodv\u00e1r",
       "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -815,26 +815,22 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
       },
       "artists": [
         {
-          "name": "Melih Aydogan",
-          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         },
         {
-          "name": "Georgia Alexandra",
-          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 166416,
-      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -855,22 +851,26 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Melih Aydogan",
+          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Georgia Alexandra",
+          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
         }
       ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+      "duration_ms": 166416,
+      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
-      },
-      "artists": [
-        {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
         "name": "Ksser Essouk",
         "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 326557,
       "name": "Ksser Essouk",
       "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
-      },
-      "artists": [
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
-        }
-      ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
         "name": "Dahlia Girl",
         "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 197052,
       "name": "Dahlia Girl",
       "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
+        }
+      ],
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2024-01-18 18:18:16",
+      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
@@ -1843,18 +1859,22 @@
     {
       "added_at": "2024-01-18 18:18:16",
       "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+        "name": "all the things i got",
+        "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
       },
       "artists": [
         {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+          "name": "Faruk Orakci",
+          "url": "https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe"
+        },
+        {
+          "name": "Ceren Toks\u00f6z",
+          "url": "https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+      "duration_ms": 145210,
+      "name": "all the things i got",
+      "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
     },
     {
       "added_at": "2024-01-18 18:18:16",
@@ -1887,26 +1907,6 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2024-01-18 18:18:16",
-      "album": {
-        "name": "all the things i got",
-        "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
-      },
-      "artists": [
-        {
-          "name": "Faruk Orakci",
-          "url": "https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe"
-        },
-        {
-          "name": "Ceren Toks\u00f6z",
-          "url": "https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT"
-        }
-      ],
-      "duration_ms": 145210,
-      "name": "all the things i got",
-      "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
     },
     {
       "added_at": "2024-01-18 18:18:16",

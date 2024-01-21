@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 64233,
+  "2024-01-21": 64221,
   "date_first_scraped": "2023-11-08",
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
   "name": "Wellness",
@@ -607,6 +607,32 @@
       "duration_ms": 189098,
       "name": "blood orange",
       "url": "https://open.spotify.com/track/7DP7g9bHXwa9QI5CEMxC0v"
+    },
+    {
+      "album": {
+        "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138040,
+      "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
     },
     {
       "album": {
@@ -1764,6 +1790,28 @@
     },
     {
       "album": {
+        "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/1dQlFlTGJs2BuWTiEfxfNK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/7AUNWrmMYa8zdPUKlimGkx"
+    },
+    {
+      "album": {
         "name": "Komorebi (Luce Che Filtra Tra Le Foglie Degli Alberi)",
         "url": "https://open.spotify.com/album/2LJeX46cQ42OyxXkncQXCP"
       },
@@ -2041,6 +2089,28 @@
       "duration_ms": 178697,
       "name": "L\u00f8vfald",
       "url": "https://open.spotify.com/track/4XTplEwraobWZts4Ooxnth"
+    },
+    {
+      "album": {
+        "name": "Memories of the Moldau (After \"Vltava\", JB 1:112/2; T.111)",
+        "url": "https://open.spotify.com/album/2bMVvy7PnKJkRC7wygNSum"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Bed\u0159ich Smetana",
+          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182208,
+      "name": "Memories of the Moldau (After \"Vltava\", JB 1:112/2; T.111)",
+      "url": "https://open.spotify.com/track/01WARO7EI1wjhJTLVH0zr4"
     },
     {
       "album": {
@@ -2564,6 +2634,36 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pavane, Op. 50 (Trio Version)",
+        "url": "https://open.spotify.com/album/2XaTKzgPLVEhTzZ0QcIjM6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "Pavane, Op. 50 (Arr. for Violin, Cello and Piano by Ehsan Mohagheghi Fard)",
+      "url": "https://open.spotify.com/track/0hVl0ef4yDfvp19ymr53zi"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
@@ -2741,6 +2841,28 @@
       "duration_ms": 211765,
       "name": "Portal (Solo Piano Version)",
       "url": "https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4"
+    },
+    {
+      "album": {
+        "name": "Handel: Praise (After Israel in Egypt, HWV 54: Dank sei Dir, Herr) [Short Version]",
+        "url": "https://open.spotify.com/album/5eHczmdKV0EhErUm2FEoxp"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102187,
+      "name": "Praise (After Israel in Egypt, HWV 54: Dank sei Dir, Herr) - Short Version",
+      "url": "https://open.spotify.com/track/4fyIQOO6VAM29vy013lgxY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-533 songs - 1 day 5 hr 8 min
+535 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Devil Inside](https://open.spotify.com/track/5VHLyvcMd0g5xdcyMSddds) | [CRMNL](https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ) | [II](https://open.spotify.com/album/0YLWiVksa2Laa3JNbc4xJd) | 2:55 | 2022-08-08 | 2022-10-13 |
 | [Devil Inside](https://open.spotify.com/track/6hGd5mkeqtuuQEyaj7LInC) | [CRMNL](https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ) | [II](https://open.spotify.com/album/28pm9MW7riJV2LtFmOfP0n) | 2:55 | 2022-08-08 | 2023-07-19 |
 | [Dirty Little Secret](https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:13 | 2022-08-08 | 2023-07-19 |
-| [Do My Thing](https://open.spotify.com/track/5HYCCX2HnyuOvogKbGTUXD) | [PRTY ANML](https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5) | [Get Wild](https://open.spotify.com/album/5rcoDnkpulKC60YFPUhNlI) | 3:12 | 2023-07-19 |  |
+| [Do My Thing](https://open.spotify.com/track/5HYCCX2HnyuOvogKbGTUXD) | [PRTY ANML](https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5) | [Get Wild](https://open.spotify.com/album/5rcoDnkpulKC60YFPUhNlI) | 3:12 | 2023-07-19 | 2024-01-21 |
+| [Do My Thing](https://open.spotify.com/track/762ame4LyTtTCW0QKpVI5S) | [PRTY ANML](https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5) | [Get Wild](https://open.spotify.com/album/08QFHHRgXHx0l7mk2LrFSd) | 3:12 | 2023-09-13 |  |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/7iogzI63n0krNMjNDDvo48) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/5TsOq6NsaIaEvq676QTIvf) | 2:51 | 2022-08-26 | 2023-07-19 |
 | [Downfall](https://open.spotify.com/track/4s5VqyX7siQx98GGZUjl8k) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Tina Parol](https://open.spotify.com/artist/4Zds9MBMtEgBdze6Jzvmrb) | [Downfall](https://open.spotify.com/album/0oHV4B249PRzsiIsabn10Y) | 3:45 | 2022-07-23 | 2023-07-19 |
 | [Dynamite](https://open.spotify.com/track/7DI54QaNfAP5wpn92jXhwh) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Dynamite](https://open.spotify.com/album/0Fg4ZQUPKZdyxiJRTFXDSe) | 2:52 | 2022-08-05 | 2023-07-19 |
@@ -363,7 +364,8 @@
 | [Out of Time](https://open.spotify.com/track/1jWfEWkb2w0BHPNgB160Jc) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [Celestine](https://open.spotify.com/album/7CohFRMmjkWkgav0hhNH5J) | 3:24 | 2023-08-22 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-11 | 2023-11-18 |
 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-09-13 |  |
-| [Pandora](https://open.spotify.com/track/5fKnbvuXyMMKhQnl0UJr7A) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/3N6MTgVwtgSmsCqAVEvtYP) | 3:41 | 2023-08-16 |  |
+| [Pandora](https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/0CNTA1D3BQGQMkz38po4IC) | 3:41 | 2023-09-13 |  |
+| [Pandora](https://open.spotify.com/track/5fKnbvuXyMMKhQnl0UJr7A) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/3N6MTgVwtgSmsCqAVEvtYP) | 3:41 | 2023-08-16 | 2024-01-21 |
 | [Part Of Me](https://open.spotify.com/track/3aOgskwxDLNY9Xz6hE2zzm) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:22 | 2023-08-09 |  |
 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 | 2023-09-13 |  |
 | [Perfect](https://open.spotify.com/track/74LJ0t33ePHb7Ybi7wQXrR) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Perfect](https://open.spotify.com/album/7tzzqJZgZcfkU8HL44S7Wn) | 3:39 | 2022-07-21 | 2023-07-19 |

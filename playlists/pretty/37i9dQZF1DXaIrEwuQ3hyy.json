@@ -1,12 +1,12 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1038913,
+  "num_followers": 1038942,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTA3ZDYxNGY0ZmI4ZWIwMjEyMTg3ODhkNzhiNjQ1MmI4MjdiNTU2",
+  "snapshot_id": "MCwwYjA0MGU2ODg2YjAyYTgyY2JjZmU4YWQ0MjVkMGI0OGYyYmNkZGU2",
   "tracks": [
     {
       "added_at": "2024-01-19 10:27:46",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-01-19 10:27:46",
       "album": {
-        "name": "1000 Mal",
-        "url": "https://open.spotify.com/album/6TEMyjBHnYZlUseeszRv1g"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "1000 Mal",
-      "url": "https://open.spotify.com/track/3cO96muC5c7P2mJURgYFBS"
-    },
-    {
-      "added_at": "2024-01-19 10:27:46",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -487,18 +467,22 @@
     {
       "added_at": "2024-01-19 10:27:46",
       "album": {
-        "name": "Changes - EP",
-        "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
+        "name": "1000 Mal",
+        "url": "https://open.spotify.com/album/6TEMyjBHnYZlUseeszRv1g"
       },
       "artists": [
         {
-          "name": "Hayd",
-          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
         }
       ],
-      "duration_ms": 184559,
-      "name": "Head In The Clouds",
-      "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
+      "duration_ms": 152586,
+      "name": "1000 Mal",
+      "url": "https://open.spotify.com/track/3cO96muC5c7P2mJURgYFBS"
     },
     {
       "added_at": "2024-01-19 10:27:46",
@@ -515,6 +499,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2024-01-19 10:27:46",
+      "album": {
+        "name": "Changes - EP",
+        "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "Head In The Clouds",
+      "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
     },
     {
       "added_at": "2024-01-19 10:27:46",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-19 10:27:46",
       "album": {
-        "name": "she goes",
-        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "she goes",
-      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2024-01-19 10:27:46",
-      "album": {
         "name": "Get It Done",
         "url": "https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 204144,
       "name": "Washed Up",
       "url": "https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9"
+    },
+    {
+      "added_at": "2024-01-19 10:27:46",
+      "album": {
+        "name": "she goes",
+        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "she goes",
+      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
     },
     {
       "added_at": "2024-01-19 10:27:46",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-01-19 10:27:46",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+        "name": "Island of the Sun",
+        "url": "https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+      "duration_ms": 190253,
+      "name": "Piano in the Sky",
+      "url": "https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4"
     }
   ],
   "unique_name": "Winter Chillout",

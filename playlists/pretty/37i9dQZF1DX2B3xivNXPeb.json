@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 37641,
+  "num_followers": 37710,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjcwMTNkMzg1N2IzMzZjMjRiZDgxOWIxNjVmNWNhYmFiZWVhYTM2",
+  "snapshot_id": "MCwxNmIxNWI2NjE3YjZlZGMxOTg3ZmYxZTUzOTY5ZWJkZDIxYjk0NTJj",
   "tracks": [
     {
       "added_at": "2023-11-10 17:37:13",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "If It Feels Good (Then It Must Be)",
-      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "The Iron Pot Cooker",
         "url": "https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 253574,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "If It Feels Good (Then It Must Be)",
+      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/65PxIf97kRctYT8rshapFc"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 242732,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/65PxIf97kRctYT8rshapFc"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Caustic Love",
+        "url": "https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 189566,
+      "name": "Scream (Funk My Life Up)",
+      "url": "https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Caustic Love",
-        "url": "https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 189566,
-      "name": "Scream (Funk My Life Up)",
-      "url": "https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Dance With You Again",
+        "url": "https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Dance With You Again",
+      "url": "https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Siesta (feat. Emeli Sand\u00e9)",
         "url": "https://open.spotify.com/album/2mLz1qJnElGlzVDpBV8PQI"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Dance With You Again",
-        "url": "https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Dance With You Again",
-      "url": "https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX"
     },
     {
       "added_at": "2023-11-10 17:37:13",

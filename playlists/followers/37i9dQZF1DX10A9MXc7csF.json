@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 104477,
+  "2024-01-21": 104491,
   "date_first_scraped": "2022-05-23",
   "description": "The new school of M\u00fasica Mexicana. Cover: Delilah",
   "name": "M\u00fasica Mexicana Rising",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 195771,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 136250,
       "name": "Choro",
       "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
@@ -8746,6 +8746,24 @@
     },
     {
       "album": {
+        "name": "MMV",
+        "url": "https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Ojos De Estrella",
+      "url": "https://open.spotify.com/track/49UYxziMHhV9KHWfE0p89Y"
+    },
+    {
+      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK"
       },
@@ -11354,6 +11372,24 @@
     },
     {
       "album": {
+        "name": "MMV",
+        "url": "https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Tijuana",
+      "url": "https://open.spotify.com/track/18TvLULqB8FSbuRIVWzTfm"
+    },
+    {
+      "album": {
         "name": "TMP",
         "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
       },
@@ -12723,7 +12759,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 175453,
       "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
       "url": "https://open.spotify.com/track/0aDdzzPlhsbIuveJAM0mOw"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 8 hr 38 min
+79 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,10 @@
 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-10-13 |  |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2023-08-10 | 2023-11-05 |
 | [Glitch In Time](https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Glitch In Time EP](https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih) | 8:35 | 2023-11-06 |  |
-| [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 | 2023-08-10 |  |
-| [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-11-06 |  |
+| [Green Rework](https://open.spotify.com/track/1b56eDVjuNFPHBcxEwZtyk) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/7jERHcEeC3fhP6uUB6QfKl) | 7:13 | 2023-11-24 |  |
+| [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 | 2023-08-10 | 2024-01-21 |
+| [Hera \- Radio Edit](https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y) | 3:25 | 2023-11-24 |  |
+| [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-11-06 | 2024-01-21 |
 | [Himalaya](https://open.spotify.com/track/1xDo7ZRJGusfMXSrbkPA9N) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/1hMcj58nfxMRslx8c25qmG) | 6:18 | 2023-10-13 |  |
 | [Himalaya](https://open.spotify.com/track/7vFdnywjtZrVLXplNl4Id6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/7LZKTkLR6aytEvpYRaHbB6) | 6:18 | 2023-08-10 | 2023-11-05 |
 | [Hollow](https://open.spotify.com/track/16vesqKrocX8YaTyZR0Mvq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Hollow](https://open.spotify.com/album/01z46tluY9725bHJhs48in) | 3:27 | 2023-08-10 | 2023-09-07 |

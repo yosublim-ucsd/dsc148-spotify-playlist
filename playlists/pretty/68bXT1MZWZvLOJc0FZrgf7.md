@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: BUNT.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 107,763 likes - 133 songs - 6 hr 49 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 107,714 likes - 133 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

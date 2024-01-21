@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 28034,
+  "2024-01-21": 28076,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
   "name": "Modern Jam Band",
@@ -213,6 +213,24 @@
       "duration_ms": 289612,
       "name": "Blow You Away",
       "url": "https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4"
+    },
+    {
+      "album": {
+        "name": "Bottom of the Hill",
+        "url": "https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C"
+      },
+      "artists": [
+        {
+          "name": "River Spell",
+          "url": "https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383200,
+      "name": "Bottom of the Hill",
+      "url": "https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS"
     },
     {
       "album": {
@@ -935,7 +953,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 288648,
       "name": "Fuzzy Ride",
       "url": "https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd"

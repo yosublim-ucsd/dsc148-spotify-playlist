@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg"> Lege\-Cy </a> : اجمد التراكات كلها على ملوك السين غلاف
 
-268 songs - 13 hr 39 min
+269 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 | 2022-12-27 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-10 | 2022-11-09 |
 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2022-06-01 | 2022-07-26 |
-| [الخلطه \- El Khalta](https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه \- El Khalta](https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju) | 2:12 | 2023-08-17 |  |
+| [الخلطه](https://open.spotify.com/track/6gp6662FXHbmmZbM64y1vC) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه](https://open.spotify.com/album/5Yy7pst7P0EU2HD3hdJd9f) | 2:12 | 2024-01-18 |  |
+| [الخلطه \- El Khalta](https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه \- El Khalta](https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju) | 2:12 | 2023-08-17 | 2024-01-21 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-23 |  |
 | [انا زعلتك](https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [انا زعلتك](https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H) | 2:36 | 2023-10-03 |  |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2022-05-10 | 2023-02-24 |

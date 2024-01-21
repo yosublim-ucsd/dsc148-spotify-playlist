@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,280 likes - 55 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,310 likes - 55 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 11 | [Obsidian \- Oscar L Remix](https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Obsidian \(Oscar L Remix\)](https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP) | 6:33 |
 | 12 | [Soulstice](https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Soulstice](https://open.spotify.com/album/0SuGNn5zkJSHyiJA1Q4rbe) | 3:51 |
 | 13 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
-| 14 | [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 |
+| 14 | [Hera \- Radio Edit](https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y) | 3:25 |
 | 15 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 |
 | 16 | [UTOPIA](https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [UTOPIA](https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX) | 6:12 |
 | 17 | [Caladan \- Edit](https://open.spotify.com/track/3Rsv47Db2XpO3AvGL0yQmm) | [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb), [Entel](https://open.spotify.com/artist/7GGwx6zEvL8TPiU4lP7bwa) | [Caladan EP \(Edits\)](https://open.spotify.com/album/6uKMK7ogAWsf7Kjj7lLNtx) | 4:08 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 30 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
 | 31 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 |
 | 32 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 |
-| 33 | [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 |
+| 33 | [Green Rework](https://open.spotify.com/track/1b56eDVjuNFPHBcxEwZtyk) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/7jERHcEeC3fhP6uUB6QfKl) | 7:13 |
 | 34 | [Romba](https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi) | 7:15 |
 | 35 | [Libertas](https://open.spotify.com/track/1iAa5CqBdlaoexOHjXxLjt) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Libertas EP](https://open.spotify.com/album/55zffYkCjgLJxzPOLSUhWM) | 7:03 |
 | 36 | [Mitsno Stoyaty](https://open.spotify.com/track/40gYiwafL92KAXN0Jv1t29) | [DeVante](https://open.spotify.com/artist/25rT8k7V7EwL1k5e5fqC4x) | [Mitsno Stoyaty](https://open.spotify.com/album/3TQ5sd1tepBJIx0V1XJkAz) | 6:34 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [Bam Bam Bam](https://open.spotify.com/track/6eqETh5hUY97kVWmX9LQuU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/309YqMFysiuxHcOJppcCme) | 5:25 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCxlNDg5ZmQwODkzY2YzOGQ5Yjc1MjkxODM3ZTJjNDBkMjEzNjUyZWEw`
+Snapshot ID: `MCxjODNlNGU2NmRhNmJmZDk2ZDJiNjU1NTE5ZWUxOTFiN2U5MGY2NWU1`

@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 258180,
+  "2024-01-21": 258246,
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: B\u00e9la Fleck",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Town Mountain",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 137426,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 214226,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/6lppKNQ2cJmxITiSRs2952"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 289497,
       "name": "Big Iron",
       "url": "https://open.spotify.com/track/7ykYzVrLJzL3TgWvLGHrnD"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 285920,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5B4aDOvZnl4A9JYBYAksIl"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 455973,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 214500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182360,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/5vqMxpcsEzarRT1RSNM52X"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 283200,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt"
@@ -1135,6 +1135,36 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
+    },
+    {
+      "album": {
+        "name": "Elderly Woman Behind the Counter in a Small Town",
+        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
+      },
+      "artists": [
+        {
+          "name": "Drunken Hearts",
+          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Silas Herman",
+          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221913,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
+      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
     },
     {
       "album": {
@@ -1185,7 +1215,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 265266,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT"
@@ -1239,7 +1269,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 205049,
       "name": "Fake Empire",
       "url": "https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8"
@@ -2287,7 +2317,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 196000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2NAxj5QpHT7YqpxQdil0jF"
@@ -2395,7 +2425,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 242346,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/6QgSrNAJU5w3JhyucHXGdk"
@@ -2489,7 +2519,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 177367,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ"
@@ -2583,7 +2613,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 230360,
       "name": "Lord I Hope this Day is Good",
       "url": "https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF"
@@ -2898,6 +2928,24 @@
     },
     {
       "album": {
+        "name": "No Rain",
+        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203810,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -2999,7 +3047,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202841,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ"
@@ -3107,7 +3155,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 213120,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB"
@@ -3545,7 +3593,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 219546,
       "name": "Some Might Say",
       "url": "https://open.spotify.com/track/5n7jdlBdFRB8Qey6hVNJQu"
@@ -3581,7 +3629,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 222500,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/2oxMa9gOociOuL8Dl3ba90"
@@ -3759,7 +3807,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 215093,
       "name": "Steady as She Goes",
       "url": "https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF"
@@ -4019,7 +4067,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 224773,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS"
@@ -4217,7 +4265,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 293017,
       "name": "The Devil Went Down to Utah",
       "url": "https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv"
@@ -4243,7 +4291,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 269146,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O"
@@ -4261,7 +4309,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 172151,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/09PGZSbPdDDg1K1wbltwm5"
@@ -4279,7 +4327,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 193093,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/11q3nuWgsWqcrlyiJHUanA"
@@ -4605,7 +4653,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 278533,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL"
@@ -4739,7 +4787,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
@@ -4779,7 +4827,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 200106,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59"
@@ -4927,7 +4975,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 295067,
       "name": "You\u2019ll Never Leave Harlan Alive",
       "url": "https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW"

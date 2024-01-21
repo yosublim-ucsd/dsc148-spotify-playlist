@@ -4,7 +4,7 @@
 
 > leggings, walking pads, water tumblers \- that's hot
 
-210 songs - 11 hr 59 min
+211 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Everytime We Touch](https://open.spotify.com/track/1eOHw1k2AoluG4VyjBHLzX) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch](https://open.spotify.com/album/6lKJ28PcwG7lPfBZss1RZG) | 3:16 | 2022-01-12 | 2022-07-29 |
 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 | 2022-01-12 | 2023-02-03 |
 | [Everytime We Touch \- Radio Edit](https://open.spotify.com/track/0JbZk8LQm3hCecAykIwAPn) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch](https://open.spotify.com/album/2YxS1nDQuLZHorSEL91WH2) | 3:17 | 2022-01-12 | 2022-11-13 |
-| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-12-26 |  |
+| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-12-26 | 2024-01-21 |
+| [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-13 |  |
 | [Fake I.D.](https://open.spotify.com/track/3X0ScZffN8bYs9NE3SYHVy) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Defected Miami 2018](https://open.spotify.com/album/2cnvEVvgbnpQ34Ygj6eh4Y) | 4:06 | 2022-01-12 | 2022-11-13 |
 | [Fake ID](https://open.spotify.com/track/4qq73N1TKocRaYGQS23b9u) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5wfam3DHsK7cduTO0VCHQB) | 4:06 | 2022-01-12 | 2023-02-03 |
 | [Fake ID](https://open.spotify.com/track/5mr06ofu0NYuw3XpiokMct) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fake ID](https://open.spotify.com/album/6br1zYHdMWECx7CSjaWwB4) | 4:06 | 2022-01-12 | 2022-07-29 |

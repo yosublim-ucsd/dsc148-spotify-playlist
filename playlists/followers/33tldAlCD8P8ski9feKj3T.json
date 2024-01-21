@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 22224,
+  "2024-01-21": 22222,
   "date_first_scraped": "2023-11-08",
   "description": "The best in new Modern Music. Artist Image: <a href=\"https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph?si=J9U2u3f7QEeZS9qdsgartg\">Mother Mother</a>",
   "name": "Alternative Indie Today",
@@ -21,6 +21,24 @@
       "duration_ms": 216724,
       "name": "999",
       "url": "https://open.spotify.com/track/5xbt3rpxhFWXEFM9LrR5rO"
+    },
+    {
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 231560,
       "name": "burner phone",
       "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 218664,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1Yh8t61sDHIrUjj9Ud3Fc9"
@@ -607,6 +625,24 @@
       "duration_ms": 273520,
       "name": "Gemini Sun",
       "url": "https://open.spotify.com/track/6AI1JxtJeI1FNXEl5eVbTn"
+    },
+    {
+      "album": {
+        "name": "Girl Shaped Crater",
+        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182855,
+      "name": "Girl Shaped Crater",
+      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
     },
     {
       "album": {
@@ -848,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Like You (feat. Balu Brigada)",
+        "url": "https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        },
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185758,
+      "name": "Like You (feat. Balu Brigada)",
+      "url": "https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H"
+    },
+    {
+      "album": {
         "name": "Live For Me",
         "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
       },
@@ -938,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Never Need Me",
+        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
+    },
+    {
+      "album": {
         "name": "newrules",
         "url": "https://open.spotify.com/album/2blDLfji74IFcz24chuzCU"
       },
@@ -1007,6 +1083,24 @@
       "duration_ms": 224398,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW"
+    },
+    {
+      "album": {
+        "name": "Nobody Escapes",
+        "url": "https://open.spotify.com/album/4A5YVlI0YUn2adU3tK7qjb"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "Nobody Escapes",
+      "url": "https://open.spotify.com/track/1IqRZsXV47xow1ZSdihWDK"
     },
     {
       "album": {
@@ -1133,7 +1227,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 175113,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
@@ -1375,7 +1469,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
@@ -1440,6 +1534,24 @@
     },
     {
       "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
+    },
+    {
+      "album": {
         "name": "To My Heart",
         "url": "https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW"
       },
@@ -1451,7 +1563,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 185754,
       "name": "To My Heart",
       "url": "https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb"
@@ -1577,7 +1689,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 160613,
       "name": "Why You?",
       "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"

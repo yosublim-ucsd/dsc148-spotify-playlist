@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extrarodinárias artistas, como Marisa Liz, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,324 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,328 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 4 | [Amigos Com Benefícios](https://open.spotify.com/track/5DW7AcLhPqI2p7SBDVU0dz) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Amigos Com Benefícios](https://open.spotify.com/album/0pZlWAS6dUptCfrH0YELgb) | 2:54 |
 | 5 | [Bossy Girl](https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bossy Girl](https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM) | 2:34 |
 | 6 | [Vou Ficar Neste Quadrado](https://open.spotify.com/track/11efCi7W9W2JO3RO9iubg0) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Vou Ficar Neste Quadrado](https://open.spotify.com/album/1r0ckasxiKTt1ftkuihne1) | 2:39 |
-| 7 | [Ginger Ale Special Edition](https://open.spotify.com/track/7cXnzN9dlBA5vsz6EShLPM) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B), [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Diana Castro](https://open.spotify.com/artist/2t3v2bgUBkSgqDI6uxrFy5), [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [Ginger Ale Special Edition](https://open.spotify.com/album/0fhnKKYvZWzAUAgqv3BblF) | 2:50 |
+| 7 | [Ginger Ale Special Edition](https://open.spotify.com/track/7cXnzN9dlBA5vsz6EShLPM) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B), [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Diana Castro](https://open.spotify.com/artist/2t3v2bgUBkSgqDI6uxrFy5), [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [Ginger Ale Special Edition](https://open.spotify.com/album/0fhnKKYvZWzAUAgqv3BblF) | 2:50 |
 | 8 | [LEIRIA NÃO EXISTE](https://open.spotify.com/track/0G3Pv8D1gRj3Pd7NvdXPDI) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ) | [LEIRIA NÃO EXISTE](https://open.spotify.com/album/7M1tsvYNfWgnKZ3DXQ06JJ) | 2:56 |
 | 9 | [Wasteland](https://open.spotify.com/track/4F3N3Dwy7JO3kZdGS5bfsz) | [Monday](https://open.spotify.com/artist/2rZoIMzwPb8Z3C2aMpwwjG) | [Wasteland](https://open.spotify.com/album/181VZqeqUWWp0UmhXYQ6LN) | 3:22 |
 | 10 | [Deixa arder](https://open.spotify.com/track/79rbQfbjgyY6sZJ5JFgHtE) | [Mila Dores](https://open.spotify.com/artist/6Ra6l9xKZi4CqonCXfPoOr) | [Deixa arder](https://open.spotify.com/album/6xDVjXDZ5fWCoN9v1rNmqc) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Maria Rita](https://open.spotify.com/track/168Hfg65TrhkWOBDIfpA9Q) | [Rita Dias](https://open.spotify.com/artist/1Sz1D01Jw9BQq7fwW1yvqK), [Ro](https://open.spotify.com/artist/07LMQJ3Tmpa5DwQGFRIGqp) | [Maria Rita](https://open.spotify.com/album/6IVZzWeUiYFB8JqanKT7rC) | 3:30 |
 | 50 | [Chegou a Hora](https://open.spotify.com/track/3vOCLmV31A2c5BjE3d563u) | [Teresinha Landeiro](https://open.spotify.com/artist/2Lof3Mf5rHMLCKlQImYvKA) | [Chegou a Hora](https://open.spotify.com/album/7cSKAYBvvkxRLCJQu2YpJD) | 3:39 |
 
-Snapshot ID: `MCxiOWIzZWU1MzAzZTBkMGRiMTA3NTM1MzhjNGEzZDFkMzBhY2NkOWZl`
+Snapshot ID: `MCw5ZTRjYzcwM2MzNmIyMTFkNGY0MDEzNDYwYjJkZmMxZjE3ZWE2Mzg4`

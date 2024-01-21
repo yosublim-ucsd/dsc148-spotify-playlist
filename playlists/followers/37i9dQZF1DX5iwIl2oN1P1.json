@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 98787,
+  "2024-01-21": 98856,
   "date_first_scraped": "2022-05-11",
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
   "name": "Sundays Best",
@@ -57,6 +57,24 @@
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K"
     },
     {
       "album": {
@@ -801,7 +819,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203911,
       "name": "I'm All In",
       "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Green Day, Nicki Minaj, Bleachers, David Kushner, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,166,501 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,166,468 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 50 | [Beautiful Day \[Feat\. PJ Morton\]](https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Beautiful Day](https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes) | 3:27 |
 | 51 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 |
 | 52 | [SLOPES](https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SLOPES](https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ) | 2:42 |
-| 53 | [Hora y Lugar](https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Hora y Lugar](https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4) | 3:48 |
+| 53 | [Hora y Lugar](https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Hora y Lugar](https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4) | 3:48 |
 | 54 | [SOS](https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [SOS](https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB) | 3:16 |
 | 55 | [I Got Time](https://open.spotify.com/track/4rfLUhNLsNOwmbFR1iGDu7) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [I Got Time](https://open.spotify.com/album/0dE2J2otGtYTvaiRN0EMy3) | 3:53 |
 | 56 | [Foolish](https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Foolish](https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 |
 | 100 | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/track/3J09uhKXKITm0roetB1cL0) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/album/3G8b5QeeM4r9YwsPy6UahO) | 2:37 |
 
-Snapshot ID: `MCwzMmQ2ZjljMDNhMGI0OTE0ZTBjMDg5YTBlMDAwYmQ0NTFiN2RjYjU4`
+Snapshot ID: `MCxjNTliMmUyNWQzNDA1OWU1YWM1ZjdhN2EwNWQyN2Q1ZjA2N2FmNzAw`

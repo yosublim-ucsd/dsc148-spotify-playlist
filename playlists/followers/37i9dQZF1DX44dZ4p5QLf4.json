@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 477913,
+  "2024-01-21": 477989,
   "date_first_scraped": "2021-12-21",
   "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
   "name": "Next Wave Soul",
@@ -21,6 +21,28 @@
       "duration_ms": 204657,
       "name": "3AM",
       "url": "https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "album": {
@@ -3421,7 +3443,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226629,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB"

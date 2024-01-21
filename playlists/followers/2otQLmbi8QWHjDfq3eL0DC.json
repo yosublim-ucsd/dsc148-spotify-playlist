@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 1352243,
+  "2024-01-21": 1352147,
   "date_first_scraped": "2023-11-08",
   "description": "The hottest dance hits, updated every week.. All the biggest dance, house and electronic music to vibe to in 2023 and 2024!",
   "name": "HOUSE MUSIC 2024 | TOP 100 DANCE HITS",
@@ -395,6 +395,28 @@
       "duration_ms": 159916,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/5dUKR2mNRXBCwzWMf2V9AN"
+    },
+    {
+      "album": {
+        "name": "Blurred Energy (feat. Lavrentia)",
+        "url": "https://open.spotify.com/album/71zyCnYOB0pFn8U7z8AXjo"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Lavrentia",
+          "url": "https://open.spotify.com/artist/2mN7xZRMASh3a7uVBRXF8n"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171225,
+      "name": "Blurred Energy (feat. Lavrentia)",
+      "url": "https://open.spotify.com/track/28iilvlmcjJ17N8zHEcwcA"
     },
     {
       "album": {

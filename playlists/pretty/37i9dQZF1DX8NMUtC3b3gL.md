@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,900 likes - 206 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,894 likes - 206 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 99 | [LoFistory](https://open.spotify.com/track/3EHS4GucJsHj9zsryxZ4gp) | [Nomadic Focus](https://open.spotify.com/artist/6tZYiudQKCGp6IUbo9vAer) | [LoFistory](https://open.spotify.com/album/6vtCDfFFFN8duHnt2hBqnE) | 3:40 |
 | 100 | [forever more](https://open.spotify.com/track/0PMx2PH8D3kf44CX7T0kOg) | [bladecut](https://open.spotify.com/artist/1PkmXjtHF5wQCvN96FukFZ) | [school daze](https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km) | 1:55 |
 | 101 | [Soft Break](https://open.spotify.com/track/7wUsYTdSrTZUTkAeu9JXnU) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Soft Break](https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F) | 1:52 |
-| 102 | [Scuffle](https://open.spotify.com/track/6dhcMNhhIvZtNz6brQgrxH) | [Näver](https://open.spotify.com/artist/5X3jilHb8aLEMK8xh3NuZC) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:30 |
+| 102 | [Scuffle](https://open.spotify.com/track/6dhcMNhhIvZtNz6brQgrxH) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:30 |
 | 103 | [Sushi Wushi](https://open.spotify.com/track/2hP9nuLmOuTNnhUNjaLsaP) | [Monsieur Radieux](https://open.spotify.com/artist/5FTBkfH7lmVjF2Nu8PNIDB) | [Sushi Wushi](https://open.spotify.com/album/3HZWkHLFzxNGXta5uQTCbn) | 1:58 |
 | 104 | [Bukkla](https://open.spotify.com/track/5QM0fXFIyTIztACe2YNkk1) | [All High Fives](https://open.spotify.com/artist/4YG7rA1dxiUyeQvpNgKds2) | [Bukkla](https://open.spotify.com/album/2XTTbTvSYaVn8FYUeb3rqC) | 3:25 |
 | 105 | [Flush](https://open.spotify.com/track/7IaslbvFemsHF5eNiB3PMQ) | [Liit City](https://open.spotify.com/artist/3jbFAxekmZ5DY8CHuw5Uti) | [Flush](https://open.spotify.com/album/6zTUBqVufa7sOik1IBkjeX) | 1:54 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 205 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 |
 | 206 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 
-Snapshot ID: `MCxhNTJiMjlkOGFmN2VmOWNjMjNmMGNjY2Q1NDhiNGYyZTQwNzQ2M2Iw`
+Snapshot ID: `MCxmODM1MGYwMDk5MjIyMWMzMTE0OTllZGViNzYxOGVmZjIwMTY0NGQ3`

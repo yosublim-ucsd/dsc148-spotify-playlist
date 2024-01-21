@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,975 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,995 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 59 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 |
 | 60 | [Blenda](https://open.spotify.com/track/2x9rv3ELmU2aphoRSfdzKf) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:31 |
 | 61 | [My Hands](https://open.spotify.com/track/4iLmkoRupWwOd2MxyVfE5v) | [WWWater](https://open.spotify.com/artist/4WgCTKIMWlD3z6UASgxyht) | [La Falaise](https://open.spotify.com/album/5BYtiU8SUYK2gtaGQ4zgWN) | 4:40 |
-| 62 | [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 |
+| 62 | [strata](https://open.spotify.com/track/39I1adbbHU7r5bzDrDZ6bu) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [old dreams new planets](https://open.spotify.com/album/1Kl7ZKIPjaPKc6JjSTuhbV) | 5:36 |
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif) | 3:35 |
 
-Snapshot ID: `MCw0YWJlOTZjYjQ3MWNmMzA0ZDM1MjkwZThiODM4MjQyOWQxMzc1YzMx`
+Snapshot ID: `MCwzZDEwODhhZjNkMzJiYzYyYjIyZDU4ODBkZjI2NjYyZWUyYzE3ZWZj`

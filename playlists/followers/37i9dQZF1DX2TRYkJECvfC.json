@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 2693840,
+  "2024-01-21": 2694382,
   "date_first_scraped": "2021-12-21",
   "description": "Forget it and disappear with deep & melodic <a href=\"spotify:genre:edm_dance\">house</a>.",
   "name": "Deep House Relax",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 258000,
       "name": "Again",
       "url": "https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS"
@@ -2123,6 +2123,32 @@
       "duration_ms": 475454,
       "name": "Every Cow Has A Bird - original mix",
       "url": "https://open.spotify.com/track/1Gu8YosrIxq31SoQA1Nwfh"
+    },
+    {
+      "album": {
+        "name": "Every Lil'",
+        "url": "https://open.spotify.com/album/2TogfhcATG56txTlEoExoE"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181461,
+      "name": "Every Lil'",
+      "url": "https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5"
     },
     {
       "album": {

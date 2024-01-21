@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: Boeckner
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,119 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 |
 | 100 | [Always](https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Always](https://open.spotify.com/album/2Qxe83nN1Y8aBXIoUaxjBd) | 3:55 |
 
-Snapshot ID: `MCxlOTg5NjgzNjU2ZmFiZGI4Yjg4MTY0MzNlYzZiZWY2ZWM2ZDVkOGQ3`
+Snapshot ID: `MCw1NDgxZDBhZTljMWI4NjEwMDdhMWM4NmExODVlOTk3NjIxM2YyMWMy`

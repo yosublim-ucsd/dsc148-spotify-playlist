@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1104407,
+  "num_followers": 1104440,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjU2NTlhYmU0MjA0OGFlZWI5MDY1Yzg3N2Q3ZjNhYTk1NmI5MGY5",
+  "snapshot_id": "MCwzOTBlMjEzMDY4OTY0YTA3YTY3MDkxMTQ3ODdjZGM2ZjViNzYwZTY2",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -784,8 +784,8 @@
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Michelle",
+          "url": "https://open.spotify.com/artist/4Qt2cBvQHLoJi8GAjSqDDI"
         }
       ],
       "duration_ms": 219833,
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Spoonfed",
         "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230546,
       "name": "What Is Love? Tell Me, Is It Easy?",
       "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3"
-      },
-      "artists": [
-        {
-          "name": "Delorians",
-          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
-        }
-      ],
-      "duration_ms": 186913,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Apocalypse Wow",
         "url": "https://open.spotify.com/album/1pELXfkOv6BvizfMw3Y9T5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193401,
       "name": "Maple Syrup Tears",
       "url": "https://open.spotify.com/track/69ULhU2AqPoZXphQpI9h1X"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "duration_ms": 186913,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "baggage",
-        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
+        "name": "book of spells",
+        "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
       },
       "artists": [
         {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
         }
       ],
-      "duration_ms": 130093,
-      "name": "baggage",
-      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
+      "duration_ms": 108571,
+      "name": "book of spells",
+      "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1071,18 +1071,34 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "book of spells",
-        "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
+        "name": "baggage",
+        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
       },
       "artists": [
         {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
         }
       ],
-      "duration_ms": 108571,
-      "name": "book of spells",
-      "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
+      "duration_ms": 130093,
+      "name": "baggage",
+      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 239604,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Fit Me In",
         "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 122298,
       "name": "Young",
       "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1167,34 +1183,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
+        "name": "Chaos Calls",
+        "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
         }
       ],
-      "duration_ms": 239604,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+      "duration_ms": 236965,
+      "name": "Chaos Calls",
+      "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1215,18 +1215,34 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Chaos Calls",
-        "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 236965,
-      "name": "Chaos Calls",
-      "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 277312,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1311,38 +1327,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "July",
-      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 277312,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "an extended play",
         "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 298477,
       "name": "seabirds",
       "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "July",
+      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "NIGHTTIME",
-        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 147783,
-      "name": "NIGHTTIME",
-      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Robes",
         "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 187432,
       "name": "Robes",
       "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 147783,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
     },
     {
       "added_at": "2024-01-12 16:54:40",

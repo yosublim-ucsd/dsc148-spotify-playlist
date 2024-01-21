@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 160667,
+  "2024-01-21": 160776,
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Aqyila.",
+  "description": "This is R&B in Canada. Elevate your aura with Chikoruss.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 228352,
       "name": "Butterflies (feat. Jon Kabongo)",
       "url": "https://open.spotify.com/track/2VOKV4QkTWUiVffeEsyx4M"
@@ -4493,7 +4493,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 205619,
       "name": "Envy",
       "url": "https://open.spotify.com/track/1JsnOz8lPfHcKzoqPIQ8LV"
@@ -7080,6 +7080,24 @@
     },
     {
       "album": {
+        "name": "In 2 Deep",
+        "url": "https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135999,
+      "name": "In 2 Deep",
+      "url": "https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/6Oz3FlOiQkQpcuwQaicra8"
       },
@@ -7113,6 +7131,24 @@
       "duration_ms": 225943,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g"
+    },
+    {
+      "album": {
+        "name": "In My Way",
+        "url": "https://open.spotify.com/album/6E6cZ18yD2NMWuG7HAbC57"
+      },
+      "artists": [
+        {
+          "name": "Romee Maye",
+          "url": "https://open.spotify.com/artist/0VhRXgQCufsCJwD5v0htHr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/5idx4L1tuY9uhhNJJNOcCj"
     },
     {
       "album": {
@@ -7455,7 +7491,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 262714,
       "name": "jealous guy blues",
       "url": "https://open.spotify.com/track/4fv1EBWnHQV7eLz07Nn7Dh"
@@ -9222,6 +9258,24 @@
     },
     {
       "album": {
+        "name": "Millionth Time",
+        "url": "https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Lobban",
+          "url": "https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Millionth Time",
+      "url": "https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/02tL7M4eapTNEaogfQdXat"
       },
@@ -10676,6 +10730,28 @@
     },
     {
       "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT"
       },
@@ -11949,7 +12025,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 132272,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/3tnrEeCNKBpmu8RDD2pZhC"

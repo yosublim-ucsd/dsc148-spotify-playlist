@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-229 songs - 9 hr 15 min
+232 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-22 | 2024-01-09 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-22 |  |
 | [Afterglow](https://open.spotify.com/track/6dHozDVKUUc7fm26EgrP2E) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Afterglow](https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L) | 2:29 | 2022-04-22 |  |
+| [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
 | [Alright](https://open.spotify.com/track/7uf67VYsstjcVbZLUXcskp) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Alright](https://open.spotify.com/album/7ayPsHtJl3BvaLxSZO4VjG) | 2:03 | 2024-01-05 |  |
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-04-22 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-04-22 |  |
@@ -31,7 +32,7 @@
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-22 | 2023-01-11 |
 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2023-09-29 |  |
 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 | 2022-04-22 |  |
-| [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-22 |  |
+| [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-22 | 2024-01-21 |
 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 | 2022-04-22 | 2023-11-21 |
 | [Breezin](https://open.spotify.com/track/6BXhPCUV2kwSpOYOjUBRmT) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Breezin](https://open.spotify.com/album/4BdWqeHW6qyPGSAtTShuvT) | 2:10 | 2023-12-22 | 2024-01-20 |
 | [Brooding T\-Rex](https://open.spotify.com/track/2atx7EGXuT2Gi0m2M9ImyQ) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:37 | 2022-04-22 | 2023-04-12 |
@@ -81,6 +82,7 @@
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-04-22 |  |
 | [Have a Nice Day](https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N) | [RAEDY](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ) | [Have a Nice Day](https://open.spotify.com/album/56EBA098Divnw6538HnsJE) | 1:51 | 2023-09-29 |  |
 | [Herbstlich](https://open.spotify.com/track/0pN2sz6wJ4kjRlhqImZleX) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Herbstlich](https://open.spotify.com/album/4n4vKBDi58fD9lDpl7ATqs) | 1:58 | 2023-10-06 |  |
+| [Highly Overrated](https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg) | [Fremantle Doctor](https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX) | [Highly Overrated](https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l) | 2:22 | 2024-01-19 |  |
 | [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-22 |  |
@@ -103,6 +105,7 @@
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-22 | 2022-11-20 |
 | [LA Play](https://open.spotify.com/track/7uoP2fntlQ2QoZw5xzd5c7) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Sweet Love](https://open.spotify.com/album/1hdWxEs5MiHnFKVVU12hqg) | 2:14 | 2022-04-22 | 2023-10-25 |
 | [Life Strikes](https://open.spotify.com/track/4iyj7Yptcbp3Lje0bzBKmW) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Life Strikes](https://open.spotify.com/album/315FnS3Df4T5t8KAiVzljJ) | 2:00 | 2022-04-22 | 2023-10-14 |
+| [lifeless](https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [lifeless](https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW) | 1:26 | 2024-01-19 |  |
 | [Lifetime](https://open.spotify.com/track/0jZMq6RF5LxnnadddPlCSi) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Lifetime](https://open.spotify.com/album/06TSIPLCbmb6MyRAaqNXlP) | 2:30 | 2022-04-22 | 2024-01-18 |
 | [Lightways](https://open.spotify.com/track/2CPrRvxxnaiSgujFmCsS82) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Lightways](https://open.spotify.com/album/3a8JhY9MsBDSkPHb5oHAmz) | 2:47 | 2023-09-29 |  |
 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 | 2022-04-22 | 2023-12-09 |
@@ -133,7 +136,7 @@
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-22 |  |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-04-22 |  |
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-04-22 |  |
-| [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 |  |
+| [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 | 2024-01-21 |
 | [Night Ride](https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH) | [Ganther](https://open.spotify.com/artist/2XP4QAz4wvP1pOO7NprFbJ) | [Night Ride](https://open.spotify.com/album/0NVIX55zaGhZV7GlpMQPQe) | 3:17 | 2022-04-22 |  |
 | [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 | 2023-01-06 | 2023-09-09 |
 | [No Worries](https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [No Worries](https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk) | 2:15 | 2023-10-27 |  |
@@ -150,7 +153,7 @@
 | [Overjoyed](https://open.spotify.com/track/45PnHB5hvvieNVYE5UnGKa) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Overjoyed](https://open.spotify.com/album/3GIwh9JOwT3dvcoWlc6uwR) | 2:00 | 2023-12-22 |  |
 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 | 2023-09-08 |  |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-22 |  |
-| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 |  |
+| [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 | 2024-01-21 |
 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 | 2023-09-29 |  |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-22 |  |

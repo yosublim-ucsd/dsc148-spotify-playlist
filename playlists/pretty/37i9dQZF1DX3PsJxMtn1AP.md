@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,979 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,057 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Its me \( g 8 \)](https://open.spotify.com/track/2aYOhvPxurV3vVHMxKuY6a) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [LXXXVIII](https://open.spotify.com/album/4jMtRqpTc30H2oEPDbnKC4) | 5:17 |
 | 50 | [Encaix](https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 1:59 |
 
-Snapshot ID: `MCwyODRjNWYzNjkwNGE5MWE5MDFhNTlkM2RhNThhNGI0NzQ3MTlhM2Nj`
+Snapshot ID: `MCxiZWY2MDBmMDY5NGJiM2EyZWFmMzVjYTQxYjY5OThjMGI1NWI0ZDA3`

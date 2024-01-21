@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 57084,
+  "num_followers": 57217,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDcwYjVlNWUyYjhlYTZjN2RhZDMxMDdmODRhZWY1MjVhNjgxMzJi",
+  "snapshot_id": "MCxiYmI4ZmUxNmQxYTMxYTlmNjM1MjhiZmE2ODRiYzExNjhjNzI5ZDQx",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "East Side Story Volume 5",
-        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
-      },
-      "artists": [
-        {
-          "name": "Don Julian & The Larks",
-          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "I Want You Back - Remastered",
-      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 171506,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "East Side Story Volume 5",
+        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
+      },
+      "artists": [
+        {
+          "name": "Don Julian & The Larks",
+          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "I Want You Back - Remastered",
+      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Disco Nights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
@@ -1083,22 +1067,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Do You Love",
-        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
+        "name": "Disco Nights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
       "artists": [
         {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
         }
       ],
-      "duration_ms": 270856,
-      "name": "Do You Love",
-      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
+      "duration_ms": 288733,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1115,6 +1095,26 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Do You Love",
+        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
+      },
+      "artists": [
+        {
+          "name": "Trish Toledo",
+          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 270856,
+      "name": "Do You Love",
+      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216760,
       "name": "Hey There Lonely Girl",
       "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Whatcha Know",
-        "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 234593,
-      "name": "Whatcha Know",
-      "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Whatcha Know",
+        "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 234593,
+      "name": "Whatcha Know",
+      "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "All Time Favorites: Sunny & the Sunglows",
-        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunglows",
-          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "All Time Favorites: Sunny & the Sunglows",
+        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunglows",
+          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
     },
     {
       "added_at": "2024-01-05 17:02:31",

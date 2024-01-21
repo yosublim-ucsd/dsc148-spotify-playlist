@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 35906,
+  "2024-01-21": 35939,
   "date_first_scraped": "2022-03-24",
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
   "name": "Malandro Posturado",
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 169130,
       "name": "Faixa Preta",
       "url": "https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3"
@@ -2397,6 +2397,24 @@
       "duration_ms": 176848,
       "name": "Love Drill",
       "url": "https://open.spotify.com/track/6kUxUiIPcQkFqvU1DVeZ3C"
+    },
+    {
+      "album": {
+        "name": "Mais Preciso",
+        "url": "https://open.spotify.com/album/4CblFwqBXxuBE4Bub9XPsv"
+      },
+      "artists": [
+        {
+          "name": "MC Murilo ZS",
+          "url": "https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88154,
+      "name": "Mais Preciso",
+      "url": "https://open.spotify.com/track/4rz6sfePVV4bYWInrvaJnc"
     },
     {
       "album": {

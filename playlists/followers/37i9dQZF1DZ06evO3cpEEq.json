@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 326,
+  "2024-01-21": 326,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 170560,
       "name": "As You Lay Sleeping",
       "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 248729,
       "name": "Fly By Night",
       "url": "https://open.spotify.com/track/1aXAG1r1nWbwTT5R0kkv7x"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 199880,
       "name": "I Fall",
       "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 202546,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 232916,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/4OpC3368bjLs30zFWmzfKl"
@@ -1071,6 +1071,24 @@
       "duration_ms": 253920,
       "name": "Rain Fall",
       "url": "https://open.spotify.com/track/2YoaUpKgLpouPql0iD7UEl"
+    },
+    {
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/4bUjw05kVItWjRxaklJKYw"
     },
     {
       "album": {
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192226,
       "name": "Summerfly",
       "url": "https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 219746,
       "name": "Sweet Music Man",
       "url": "https://open.spotify.com/track/5rMwZbObDXMfJPQsbCmbQ8"

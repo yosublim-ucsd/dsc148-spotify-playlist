@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-36 songs - 5 hr 19 min
+37 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 9:38 | 2023-02-15 |  |
-| [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 | 2023-02-15 |  |
+| [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 | 2023-02-15 | 2024-01-21 |
+| [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/0Ibco1p94QkiiZ7NE8qmci) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/0UiADrDM427r2gBguo8Rg5) | 21:10 | 2023-12-18 |  |
 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 | 2023-02-15 |  |
 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 | 2023-02-15 |  |
 | [Merian Gallan Yaad Karengee](https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 6:35 | 2023-02-15 |  |

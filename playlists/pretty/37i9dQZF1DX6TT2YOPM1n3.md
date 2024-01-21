@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Hasan Raheem, Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,239 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,327 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Kamli](https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Kamli](https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr) | 3:19 |
 | 60 | [Me & You](https://open.spotify.com/track/5PlvEOKEO40fwk1qHXGuH0) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Therapy](https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH) | 4:57 |
 
-Snapshot ID: `MCw0Y2Q1ZjU4NGRjN2QyMzdjNmJhNGViZTU4MjVkZWJlZjE0ZWI1Mjk3`
+Snapshot ID: `MCwwZTA1MjkzNTM4MGI5Y2JhNTdkNTUwNjljMGY5YWViNDRjOGJkNDky`

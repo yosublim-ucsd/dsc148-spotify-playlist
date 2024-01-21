@@ -1,7 +1,7 @@
 {
-  "2024-01-20": 68660,
+  "2024-01-21": 68676,
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Prateeksha Srivastava, A$AD",
+  "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 218342,
       "name": "Barbaad",
       "url": "https://open.spotify.com/track/63vqn1STGPk3GMH5QTwTyp"
@@ -1585,6 +1585,32 @@
       "duration_ms": 167023,
       "name": "Co2 - Acoustic",
       "url": "https://open.spotify.com/track/7w6ktqybXgEYNdZejaASOd"
+    },
+    {
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/5jTO8Eb7W6O4hUAY8CLwRJ"
+      },
+      "artists": [
+        {
+          "name": "Chirag Todi",
+          "url": "https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE"
+        },
+        {
+          "name": "Chezin",
+          "url": "https://open.spotify.com/artist/46zvagZgUEnyRmaXbVkKwi"
+        },
+        {
+          "name": "Divyang Arora",
+          "url": "https://open.spotify.com/artist/4w6eeBoQaF9NVK0CP6owzS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215944,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/1yOqAssdmviFjeKPv0BDRO"
     },
     {
       "album": {
@@ -2800,6 +2826,24 @@
     },
     {
       "album": {
+        "name": "Jaadu Tone",
+        "url": "https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Jaadu Tone",
+      "url": "https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2"
+    },
+    {
+      "album": {
         "name": "Jaan Leva",
         "url": "https://open.spotify.com/album/4hOEs7Bjpngl8hzvCUYwOb"
       },
@@ -3164,6 +3208,32 @@
     },
     {
       "album": {
+        "name": "Kaala Doriyaa",
+        "url": "https://open.spotify.com/album/3INC2colH1nJtjnAqd8T8z"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180294,
+      "name": "Kaala Doriyaa",
+      "url": "https://open.spotify.com/track/02dWjHFf7JhbqZh2HsLIo8"
+    },
+    {
+      "album": {
         "name": "Kaash",
         "url": "https://open.spotify.com/album/6B66bHV1ibylL8HpXxjdJJ"
       },
@@ -3179,6 +3249,24 @@
       "duration_ms": 261840,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/3QRE57ecyZLkMGwziBq5dl"
+    },
+    {
+      "album": {
+        "name": "Kaash",
+        "url": "https://open.spotify.com/album/0lc99amF6gyQb0vwmX7wuv"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143888,
+      "name": "Kaash",
+      "url": "https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI"
     },
     {
       "album": {
@@ -3701,7 +3789,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 190990,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0mX8gWZVROtRhvvPCUuU9p"
@@ -3825,6 +3913,24 @@
       "duration_ms": 200537,
       "name": "Khudaya",
       "url": "https://open.spotify.com/track/4EnZhmCpz5cfWW2LnYG5LT"
+    },
+    {
+      "album": {
+        "name": "Khul Ja",
+        "url": "https://open.spotify.com/album/445KmsOofBfkjw2qO3FJQq"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Khul Ja",
+      "url": "https://open.spotify.com/track/4wLE1GQIGPBZh9HRdJ1RZI"
     },
     {
       "album": {
@@ -4569,7 +4675,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 395165,
       "name": "Mehsoos",
       "url": "https://open.spotify.com/track/1CpPNLb6wX0VRDki8JsFuu"
@@ -5357,7 +5463,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 158608,
       "name": "plenty",
       "url": "https://open.spotify.com/track/0e1TFDvXPzceghzVBtrSzo"
@@ -6692,6 +6798,24 @@
     },
     {
       "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ"
+    },
+    {
+      "album": {
         "name": "Tere Layi / For you",
         "url": "https://open.spotify.com/album/69Nn5zn89TCCUyfWPOSBzm"
       },
@@ -6725,7 +6849,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 187118,
       "name": "Tere Peeche Peeche",
       "url": "https://open.spotify.com/track/5cC8SNiAi7SLcrJ4hlejMi"
@@ -7303,7 +7427,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 243805,
       "name": "Tu Mileya Ve",
       "url": "https://open.spotify.com/track/6dYVPyx5AQnOAmFOyJljIz"

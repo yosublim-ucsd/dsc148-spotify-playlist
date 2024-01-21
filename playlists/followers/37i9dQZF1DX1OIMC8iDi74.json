@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 891097,
+  "2024-01-21": 891079,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: TWERL",
   "name": "Trap Mojito",
@@ -360,6 +360,28 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/5MF8KLs3egM4ea3krP7zZl"
+      },
+      "artists": [
+        {
+          "name": "HIJINX",
+          "url": "https://open.spotify.com/artist/47DX1AQEVG0zYbhGbSiOet"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310030,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3UoWxiHQMHebriOEF6aBud"
+    },
+    {
+      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
       },
@@ -715,7 +737,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 249090,
       "name": "Breach",
       "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
@@ -1132,7 +1154,7 @@
     },
     {
       "album": {
-        "name": "COWBOYGHOST3024",
+        "name": "COWBOYGHOST 3024",
         "url": "https://open.spotify.com/album/6GofzBjywo2DFV2QTuYw5F"
       },
       "artists": [
@@ -1145,7 +1167,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195520,
-      "name": "COWBOYGHOST3024",
+      "name": "COWBOYGHOST 3024",
       "url": "https://open.spotify.com/track/1CjcWmbdwBLOdrhwWkC9vh"
     },
     {
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189295,
       "name": "DIY - Old Skool Mix",
       "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
@@ -1689,6 +1711,28 @@
       "duration_ms": 192000,
       "name": "Dum Dee Dum",
       "url": "https://open.spotify.com/track/6uwgCWzAKwA4Asu2sCVYTT"
+    },
+    {
+      "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
     },
     {
       "album": {
@@ -2275,6 +2319,28 @@
       "duration_ms": 212631,
       "name": "Forget It (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+    },
+    {
+      "album": {
+        "name": "freeworld",
+        "url": "https://open.spotify.com/album/4hlEHLcPxKeeYIfNDM6TJY"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "Nessly",
+          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "freeworld",
+      "url": "https://open.spotify.com/track/3HBHVolxiWQzQzYFkcwsng"
     },
     {
       "album": {
@@ -2985,6 +3051,24 @@
       "duration_ms": 180923,
       "name": "HOOLIGAN",
       "url": "https://open.spotify.com/track/3SR00E4UULH7jt6fRPjdPo"
+    },
+    {
+      "album": {
+        "name": "HOT MESS",
+        "url": "https://open.spotify.com/album/0lKC0QywhXL10pvNZgTnyd"
+      },
+      "artists": [
+        {
+          "name": "Tsuruda",
+          "url": "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "HOT MESS",
+      "url": "https://open.spotify.com/track/33BwCfvKWzQR3J7m5mLfYH"
     },
     {
       "album": {
@@ -3699,7 +3783,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 325720,
       "name": "Lights Go Down - Peekaboo Remix",
       "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
@@ -4460,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152651,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina",
         "url": "https://open.spotify.com/album/0ncUAncYZNDg0678jPIMWM"
       },
@@ -5047,7 +5149,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209016,
       "name": "Pour All Night",
       "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
@@ -5269,7 +5371,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192000,
       "name": "REKT - Effin Remix",
       "url": "https://open.spotify.com/track/1Pd1yo5pRPsfVJVNxVGNyx"

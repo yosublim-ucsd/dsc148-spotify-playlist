@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Joey Bada$$, Fivio Foreign, Blxst and more\. Cover: Rob49 & Lil Wayne
 
-4,288 songs - 8 day 7 hr 52 min
+4,288 songs - 8 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2998,6 +2998,7 @@
 | [Psane \(feat\. Don Toliver\)](https://open.spotify.com/track/44SFX0JI00vMoyIemTQDtN) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 4:15 | 2022-09-02 | 2022-09-10 |
 | [Psilocybin](https://open.spotify.com/track/0ON7bBXpaFPRoWzaHhBrDl) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Psilocybin](https://open.spotify.com/album/6ACPzspbhvbgb9vvh7MvF1) | 2:18 | 2023-09-29 | 2023-10-07 |
 | [PSSYONFT](https://open.spotify.com/track/2eMoahIB5Pe0d9wMAgbUbQ) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [PSSYONFT](https://open.spotify.com/album/7GrHxNj9AuJV7yIXQEAJMv) | 1:43 | 2023-02-10 | 2023-02-18 |
+| [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 | 2024-01-19 |  |
 | [PTDOM](https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [PTDOM](https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh) | 1:48 | 2022-07-01 | 2022-07-09 |
 | [PTPOM \- Shemix](https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [PTPOM \(Shemix\)](https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym) | 2:02 | 2022-03-11 | 2022-03-18 |
 | [Publicity Stunt](https://open.spotify.com/track/1SKkHYkGqhadpciJKXfRhU) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Publicity Stunt](https://open.spotify.com/album/12XcAM4LFALAk3I3h9M9of) | 3:16 | 2022-03-04 | 2022-03-12 |
@@ -3035,7 +3036,6 @@
 | [PUT YOU ON GAME](https://open.spotify.com/track/31UEIDEnR72bsUiavstcof) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [PUT YOU ON GAME](https://open.spotify.com/album/2F9w1TeWYelRUUb9YN1Ll6) | 2:39 | 2023-01-06 | 2023-01-21 |
 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 | 2022-08-19 | 2022-08-27 |
 | [Pyrex Kids](https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Pyrex Kids](https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX) | 1:52 | 2023-10-27 | 2023-11-04 |
-| [PYSCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 | 2024-01-19 |  |
 | [Pz Don't Trip](https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Pz Don't Trip](https://open.spotify.com/album/0cgRf1y5HysQvQJs63yLDp) | 2:59 | 2023-07-14 | 2023-07-29 |
 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 | 2022-08-15 | 2022-08-27 |
 | [Q\-Pid \- Sped Up Version](https://open.spotify.com/track/2Kxl4T771DNEOinm15F5UU) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid \(Sped Up Version\)](https://open.spotify.com/album/5PRQViHcLw6e2sOZ0XRvmo) | 2:00 | 2022-09-02 | 2022-09-10 |
@@ -3828,7 +3828,7 @@
 | [Thru The Town](https://open.spotify.com/track/7Cojm688CxexwiESIjZ2Ou) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Thru The Town](https://open.spotify.com/album/1aMsSHYGis79SWIKjulvhg) | 2:49 | 2023-04-21 | 2023-04-29 |
 | [Thru The Week](https://open.spotify.com/track/2hKPymvrEGzloa4dShEMkw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Thru The Week](https://open.spotify.com/album/2gUrIbJA00fdERuqhLEKit) | 2:50 | 2023-01-06 | 2023-01-21 |
 | [Thug Baby](https://open.spotify.com/track/2nEyZM4iSPuee4dYpedJ4t) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Thug Baby](https://open.spotify.com/album/7tCNeY4GFxcqThtHuiq6nq) | 2:09 | 2023-02-24 | 2023-03-04 |
-| [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 3:53 | 2024-01-19 |  |
+| [Thug Diary](https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Thug Diary](https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT) | 2:53 | 2024-01-19 |  |
 | [Thug Life](https://open.spotify.com/track/21sslpaT7AtU53ElPjZZKi) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Thug Life](https://open.spotify.com/album/5TJxl5ZwgnVK7eEQNlmxZ1) | 2:27 | 2023-04-14 | 2023-04-22 |
 | [Thug Like Me](https://open.spotify.com/track/2nbxCY07NE3meTIUEBv8ZH) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Like Me](https://open.spotify.com/album/2vx6gCFc96sgM3to951iuc) | 2:17 | 2023-02-24 | 2023-03-04 |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-04-08 | 2022-04-16 |

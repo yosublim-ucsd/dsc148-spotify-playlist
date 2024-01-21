@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 340866,
+  "2024-01-21": 340780,
   "date_first_scraped": "2022-01-18",
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Dead Fish",
   "name": "P\u00e1tria Rock",
@@ -2303,6 +2303,24 @@
       "duration_ms": 273232,
       "name": "D\u00favida",
       "url": "https://open.spotify.com/track/0k3EZCbCi8iZwi9RKytLZT"
+    },
+    {
+      "album": {
+        "name": "E Foi Assim",
+        "url": "https://open.spotify.com/album/35I7xwlS2UKao7pU9GSQt0"
+      },
+      "artists": [
+        {
+          "name": "No Gabiru",
+          "url": "https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137748,
+      "name": "E Foi Assim",
+      "url": "https://open.spotify.com/track/7elsjWBo5jzqJQ3SLePYBj"
     },
     {
       "album": {
@@ -4672,6 +4690,28 @@
     },
     {
       "album": {
+        "name": "Nosso Som",
+        "url": "https://open.spotify.com/album/0FVQMLEZpioP9cRrDKJNXU"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Nin-jitsu",
+          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128578,
+      "name": "Nosso Som",
+      "url": "https://open.spotify.com/track/3E5HZ6gbxQu9sJXLF7FF0q"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Existe Salvador da P\u00e1tria",
         "url": "https://open.spotify.com/album/05sxsDhMYcRdpjLaPxWL18"
       },
@@ -5777,7 +5817,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 146920,
       "name": "Pode Crer (Ao Vivo no Sonast\u00e9rio)",
       "url": "https://open.spotify.com/track/1HVRQk7cVPqS0YZ8WjCklH"
@@ -6267,7 +6307,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 225454,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2DhYBCdjldHp7YIEFVHkJW"

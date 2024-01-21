@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 4193,
+  "2024-01-21": 4198,
   "date_first_scraped": "2023-07-04",
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
   "name": "ALL THINGS HOUSE - CURBI PRESENTS",
@@ -427,6 +427,28 @@
       "duration_ms": 173887,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6waVErr7nm6sBhed69hloa"
+    },
+    {
+      "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/6EokM7m1tOvwJx3kqlAXuL"
+      },
+      "artists": [
+        {
+          "name": "Soundwars",
+          "url": "https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw"
+        },
+        {
+          "name": "Samy Asuik",
+          "url": "https://open.spotify.com/artist/5FtBSjFFBBQibSQSTLm1NI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/5ralRkbBY59WfmPjTS3qhH"
     },
     {
       "album": {
@@ -1054,6 +1076,46 @@
     },
     {
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "album": {
+        "name": "Kill The Lights",
+        "url": "https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200451,
+      "name": "Kill The Lights",
+      "url": "https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK"
+    },
+    {
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/4j5P3SsyLB5jW24cpPiqdi"
       },
@@ -1505,7 +1567,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 122857,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3Xa11anZWV00L8cB0dtJpL"
@@ -2171,7 +2233,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 137255,
       "name": "State Of Euphoria",
       "url": "https://open.spotify.com/track/1YwbgtVDGHtFWvD8x5J6pS"

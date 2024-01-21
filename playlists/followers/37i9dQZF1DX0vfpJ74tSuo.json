@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 66585,
+  "2024-01-21": 66605,
   "date_first_scraped": "2022-05-26",
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
   "name": "Morning Blues",
@@ -2529,6 +2529,24 @@
     {
       "album": {
         "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/2qDwiHJGbhNWSjBHdU4TEu"
+      },
+      "artists": [
+        {
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/0wZjNvRyk3gSOfWhndf5Lw"
+    },
+    {
+      "album": {
+        "name": "Acoustic Burnside",
         "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
       },
       "artists": [
@@ -3221,7 +3239,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 241529,
       "name": "Shake and Bake",
       "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"

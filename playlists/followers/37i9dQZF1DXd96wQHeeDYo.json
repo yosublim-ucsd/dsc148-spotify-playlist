@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 71997,
+  "2024-01-21": 72005,
   "date_first_scraped": "2023-12-14",
   "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Bad Gyal, Anitta",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
@@ -503,6 +503,28 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx"
+    },
+    {
+      "album": {
+        "name": "GAFITA Y CHOMBA",
+        "url": "https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GAFITA Y CHOMBA",
+      "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
     },
     {
       "album": {
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 130746,
       "name": "Sin Ganas",
       "url": "https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB"

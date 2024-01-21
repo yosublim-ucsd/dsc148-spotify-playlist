@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,035,038 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,036,116 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
 | 50 | [Lackin](https://open.spotify.com/track/6lasIWLndqFchulQMIH5Cm) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [Simon Said.](https://open.spotify.com/artist/1ZoJcQjLukYdKLfOcoEVn9) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:50 |
 
-Snapshot ID: `MCwyYTU5YjE2ZDEyMDkyYTZjNDU2NDQwYmZjNGNjZTZmZjg3NGY1NjBj`
+Snapshot ID: `MCw1MjgzZGZhMDhiZjQ2NjRmZGM3MGZlN2Q2N2ZiMzliNGIxOTZkOWU1`

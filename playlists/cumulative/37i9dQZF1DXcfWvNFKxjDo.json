@@ -13422,10 +13422,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 142000,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/1NB8u662ZTTpvxkhQGlb5z"
+    },
+    {
+      "album": {
+        "name": "Sweet Home Alabama",
+        "url": "https://open.spotify.com/album/1E29W4B1FRDd5ZdZdzoZ80"
+      },
+      "artists": [
+        {
+          "name": "Blaikz",
+          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Toby DEE",
+          "url": "https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/2eGPCjrVzdijWEC02FJOCD"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,665 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,661 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ICEY ICEY](https://open.spotify.com/track/5WRg0aYTGQjSxDsCIkx5dn) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [ICEY ICEY](https://open.spotify.com/album/37Fb9oGq9GOPkxC5a9MaBa) | 2:21 |
 | 2 | [Tesla](https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kacha](https://open.spotify.com/artist/3AsYAOJY7ZcWPGoBbEJWAj) | [Tesla](https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH) | 3:02 |
 | 3 | [GaD \#24](https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [GaD \#24](https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil) | 3:16 |
-| 4 | [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 |
+| 4 | [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 |
 | 5 | [No Me Quieren](https://open.spotify.com/track/3p1Ai6RRQm30uf2oOgWqQ6) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [No Me Quieren](https://open.spotify.com/album/0sLgMiJoybUIcM2pk0neay) | 3:11 |
 | 6 | [Otro Año Más](https://open.spotify.com/track/1Q8HXylcZFujuLtUlxJ2c3) | [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Otro Año Más](https://open.spotify.com/album/2WYkE3aHETy7z27SYm1uge) | 3:40 |
 | 7 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCxiYmUxMWQwMDZhZjBlZmVmYTVkYzFhMWZjZGFiOTdmNTBkM2JlMGE0`
+Snapshot ID: `MCxhZTUwNTU4ZWJiMDM1MTgyZDgwMjM2YmNiZTgwMGE5YTEzNmQ0YjIx`

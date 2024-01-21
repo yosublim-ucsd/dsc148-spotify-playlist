@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 58380,
+  "2024-01-21": 58524,
   "date_first_scraped": "2022-05-30",
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Amble | Visual Artist: Bailey Elder",
   "name": "Fresh Finds Folk ",
@@ -9923,6 +9923,24 @@
       "duration_ms": 270983,
       "name": "Learning My Ways",
       "url": "https://open.spotify.com/track/4tNT31r5LYaOzWlsUDlh5l"
+    },
+    {
+      "album": {
+        "name": "Leather Wallet (Acoustic)",
+        "url": "https://open.spotify.com/album/1glNmXjE2oT6nhgD8yG5xF"
+      },
+      "artists": [
+        {
+          "name": "Crowe Boys",
+          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283573,
+      "name": "Leather Wallet - Acoustic",
+      "url": "https://open.spotify.com/track/6xFREfS2P82P0SYlOaiFqJ"
     },
     {
       "album": {

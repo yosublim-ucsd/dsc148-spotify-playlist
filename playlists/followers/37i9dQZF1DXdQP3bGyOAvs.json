@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 291724,
+  "2024-01-21": 291779,
   "date_first_scraped": "2022-05-26",
   "description": "Great chilled house.",
   "name": "100% Lounge",
@@ -723,6 +723,24 @@
       "duration_ms": 198556,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6w65VLrEUjdJWogZOrxkQK"
+    },
+    {
+      "album": {
+        "name": "Brownstone",
+        "url": "https://open.spotify.com/album/5vYcTF1iOy83MvlOsKDhGx"
+      },
+      "artists": [
+        {
+          "name": "grenedine",
+          "url": "https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163714,
+      "name": "Brownstone",
+      "url": "https://open.spotify.com/track/0vCwMTRAzNvCHa0RF4ihrP"
     },
     {
       "album": {
@@ -4933,6 +4951,24 @@
       "duration_ms": 179590,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2"
+    },
+    {
+      "album": {
+        "name": "Shinzo",
+        "url": "https://open.spotify.com/album/0xsdFHxLomV4Kv3sBvwCPK"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169038,
+      "name": "Shinzo",
+      "url": "https://open.spotify.com/track/0Nrl3S3aMRGSK3DTcirXSa"
     },
     {
       "album": {

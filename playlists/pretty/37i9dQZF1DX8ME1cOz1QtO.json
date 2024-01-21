@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 83983,
+  "num_followers": 84050,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM4NDExNjFlYjExNzNmMjJiOTMzNGY0OGQ2MzI1MjY3MmM0YWVh",
+  "snapshot_id": "MCwyZDY5MzdlYWYyNjQ4ZjlhZjc3NGEyYzM3ZDBkNmU5ZjU2Yzk1YmM3",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -431,22 +431,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ambient 3: Day Of Radiance",
-        "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
       },
       "artists": [
         {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
         }
       ],
-      "duration_ms": 1127173,
-      "name": "Meditation No. 1",
-      "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
+      "duration_ms": 185773,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+        "name": "Ambient 3: Day Of Radiance",
+        "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 185773,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
+      "duration_ms": 1127173,
+      "name": "Meditation No. 1",
+      "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Alpha Centauri",
-        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "Sunrise in the Third System",
-      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Desert Dawn Song",
         "url": "https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 512466,
       "name": "Canyon Sunrise",
       "url": "https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Alpha Centauri",
+        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "Sunrise in the Third System",
+      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
-      },
-      "artists": [
-        {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
-        }
-      ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Pathless Path",
         "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 226826,
       "name": "Koto",
       "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+      },
+      "artists": [
+        {
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+        }
+      ],
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
     },
     {
       "added_at": "2023-08-18 14:02:54",

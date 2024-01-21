@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-527 songs - 1 day 9 hr 41 min
+528 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/3I9jByU1f1o45YfxPrsCWI) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Somewhere Over the Rainbow](https://open.spotify.com/album/2zTKHtbXJclLO5YKvLTITF) | 2:57 | 2021-03-26 | 2022-06-30 |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-01-12 |  |
 | [Sooner or Later](https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Sooner or Later](https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs) | 3:25 | 2023-10-06 |  |
+| [Soulful Serenade](https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [Soulful Serenade](https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S) | 3:50 | 2024-01-19 |  |
 | [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-17 |  |
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-04-26 | 2023-03-25 |
@@ -461,7 +462,7 @@
 | [The Worn Evening](https://open.spotify.com/track/6dsAFpaM3SyAZB0y7L8pKa) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [The Worn Evening](https://open.spotify.com/album/7w1Gulf7cveXWUYtgt9OV8) | 2:52 | 2023-09-22 |  |
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [Theme For Ernie](https://open.spotify.com/track/0nKb0vq42f1y3CuikU00vF) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/22afwFb9s4NeLLKBlKrZ8T) | 5:16 | 2023-09-22 | 2023-09-24 |
-| [Theme For Ernie](https://open.spotify.com/track/2vzWSK7e2pDTDSiRgjqvy7) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/7yb47QV1FEV34EfgMnN6xo) | 5:16 | 2024-01-12 |  |
+| [Theme For Ernie](https://open.spotify.com/track/2vzWSK7e2pDTDSiRgjqvy7) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/7yb47QV1FEV34EfgMnN6xo) | 5:16 | 2024-01-12 | 2024-01-21 |
 | [Theme for Ernie](https://open.spotify.com/track/7BBjGMkN02GH8apJ7hobZp) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/11M7ItdqUALh6mbcE8I2Rs) | 5:16 | 2021-02-03 | 2022-07-04 |
 | [There Was Nothing Wrong](https://open.spotify.com/track/65C7E1ayf2iyyemUNA9DwY) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [There Was Nothing Wrong](https://open.spotify.com/album/6SkYp9Iq0B5ZjlIGBUozyW) | 3:34 | 2023-10-27 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |

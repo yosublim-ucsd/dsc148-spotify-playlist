@@ -1,5 +1,5 @@
 {
-  "2024-01-20": 2244,
+  "2024-01-21": 2251,
   "date_first_scraped": "2022-10-01",
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rosa Ree",
   "name": "Bongo Bars",
@@ -473,6 +473,28 @@
       "duration_ms": 236325,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5K9DKSXdqEQRFv9EYsJli4"
+    },
+    {
+      "album": {
+        "name": "Confidence (feat. Shedy)",
+        "url": "https://open.spotify.com/album/4Lmet0AQ9PM6WldvPRB5O8"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Shedy",
+          "url": "https://open.spotify.com/artist/3ub6zdgQaWjBih5mxEKDzB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207844,
+      "name": "Confidence (feat. Shedy)",
+      "url": "https://open.spotify.com/track/2S795TGQ8bFnF3JyvGRIIg"
     },
     {
       "album": {
@@ -1012,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207531,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C"
+    },
+    {
+      "album": {
         "name": "Israel & Palestine Tears (Freestyle)",
         "url": "https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF"
       },
@@ -1149,7 +1189,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 156342,
       "name": "Kesho Njoo Dar",
       "url": "https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h"
@@ -1189,6 +1229,24 @@
       "duration_ms": 200411,
       "name": "Kick-Off",
       "url": "https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe"
+    },
+    {
+      "album": {
+        "name": "Let it burn",
+        "url": "https://open.spotify.com/album/2E7xLOgHzFwPRmamiT9cnz"
+      },
+      "artists": [
+        {
+          "name": "TKLA",
+          "url": "https://open.spotify.com/artist/6RVLKP28vQb5yC3s2kbmdb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "Let it burn",
+      "url": "https://open.spotify.com/track/60obQuxUCQdPaNEmPEw0Mk"
     },
     {
       "album": {
@@ -1287,6 +1345,24 @@
       "duration_ms": 169263,
       "name": "Makasia",
       "url": "https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3"
+    },
+    {
+      "album": {
+        "name": "Mali Safi",
+        "url": "https://open.spotify.com/album/4052FovkK8LYyRyZ6cJ5Rl"
+      },
+      "artists": [
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Mali Safi",
+      "url": "https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98"
     },
     {
       "album": {
@@ -1481,10 +1557,36 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 167741,
       "name": "MOTHERLAND",
       "url": "https://open.spotify.com/track/7eV8MXnMxQUM2ekPOWTtBR"
+    },
+    {
+      "album": {
+        "name": "Mr Xmas III",
+        "url": "https://open.spotify.com/album/1XwFNhqHCMroHW8wBcUTlL"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        },
+        {
+          "name": "Roma Mkatoliki",
+          "url": "https://open.spotify.com/artist/5vt0v1SOjFGt55GNikLTGf"
+        },
+        {
+          "name": "Stamina Shorwebwenzi",
+          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413306,
+      "name": "Mr Xmas III",
+      "url": "https://open.spotify.com/track/3UIKevjNLmMIAMIQ6gqaJb"
     },
     {
       "album": {
@@ -1842,6 +1944,28 @@
     },
     {
       "album": {
+        "name": "Pull up",
+        "url": "https://open.spotify.com/album/4j2truHj2SPA15iAecfIl8"
+      },
+      "artists": [
+        {
+          "name": "Cde Hambagen",
+          "url": "https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U"
+        },
+        {
+          "name": "KG OG KUSH",
+          "url": "https://open.spotify.com/artist/6yhz6DTQE8XiTp2jU70it3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "Pull up",
+      "url": "https://open.spotify.com/track/3E3niL8NqvGoerOJyYzw6G"
+    },
+    {
+      "album": {
         "name": "S.V",
         "url": "https://open.spotify.com/album/3ntZ2rPZ93OhhYpc7DKULv"
       },
@@ -2183,7 +2307,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 162474,
       "name": "So High",
       "url": "https://open.spotify.com/track/1XzjqXtFVheynh51nt2n6Y"
@@ -2259,7 +2383,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 197802,
       "name": "Statement",
       "url": "https://open.spotify.com/track/1ofdmUVbuHEob1qsT7IX6p"
@@ -2485,7 +2609,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 163186,
       "name": "Tujirushe",
       "url": "https://open.spotify.com/track/0YQxyebbH1upzt6dxwVzPK"
@@ -2562,6 +2686,24 @@
     },
     {
       "album": {
+        "name": "Vitasa",
+        "url": "https://open.spotify.com/album/6ku6iXnTyY0yLMxXSNhrMa"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Vitasa",
+      "url": "https://open.spotify.com/track/4bmJwAdMUhPxvwL4lp4rrW"
+    },
+    {
+      "album": {
         "name": "Vitu Vingi",
         "url": "https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b"
       },
@@ -2609,7 +2751,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140869,
       "name": "Wave",
       "url": "https://open.spotify.com/track/29JgTNh9OT8095ohykOeC0"
@@ -2649,7 +2791,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203102,
       "name": "WoW",
       "url": "https://open.spotify.com/track/20GFlJ8bvqn9rVMY5VbSVz"

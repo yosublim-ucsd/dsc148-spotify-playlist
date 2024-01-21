@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,069 likes - 138 songs - 7 hr 59 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,075 likes - 138 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 8 | [Satellite](https://open.spotify.com/track/5D8w1fo6RHCVMXIMGGxIyI) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Satellite](https://open.spotify.com/album/46Wf6aq7QGM5q0KhK7ByTG) | 3:25 |
 | 9 | [Bullet In The Gun](https://open.spotify.com/track/0dok66k0nNtCDUsNsLtyDW) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Bullet In The Gun](https://open.spotify.com/album/3FIpkOxhugh05Uw962sbXI) | 3:14 |
 | 10 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 |
-| 11 | [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 3:08 |
+| 11 | [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 2:13 |
 | 12 | [Stuck \- TroyBoi Remix](https://open.spotify.com/track/0HG9ID7PJXnpaYXtniKJdC) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Stuck \(TroyBoi Remix\)](https://open.spotify.com/album/6V5Jsyz6a2StX7rmcnR4R3) | 2:54 |
 | 13 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
 | 14 | [freeworld](https://open.spotify.com/track/3HBHVolxiWQzQzYFkcwsng) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [freeworld](https://open.spotify.com/album/4hlEHLcPxKeeYIfNDM6TJY) | 2:54 |

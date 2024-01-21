@@ -2150,10 +2150,28 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 192144,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/5HYCCX2HnyuOvogKbGTUXD"
+    },
+    {
+      "album": {
+        "name": "Get Wild",
+        "url": "https://open.spotify.com/album/08QFHHRgXHx0l7mk2LrFSd"
+      },
+      "artists": [
+        {
+          "name": "PRTY ANML",
+          "url": "https://open.spotify.com/artist/7nvA4cO7bHj8ULpwRGe1E5"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192144,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/762ame4LyTtTCW0QKpVI5S"
     },
     {
       "album": {
@@ -6856,6 +6874,28 @@
     {
       "album": {
         "name": "Pandora",
+        "url": "https://open.spotify.com/album/0CNTA1D3BQGQMkz38po4IC"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221757,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9"
+    },
+    {
+      "album": {
+        "name": "Pandora",
         "url": "https://open.spotify.com/album/3N6MTgVwtgSmsCqAVEvtYP"
       },
       "artists": [
@@ -6870,7 +6910,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 221757,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/5fKnbvuXyMMKhQnl0UJr7A"
