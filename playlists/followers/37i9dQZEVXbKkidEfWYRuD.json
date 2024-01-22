@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 28150,
+  "2024-01-22": 28158,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -6868,6 +6868,24 @@
     },
     {
       "album": {
+        "name": "LaLaLa",
+        "url": "https://open.spotify.com/album/4MkoEVlKNiZxdmu0MMzRqg"
+      },
+      "artists": [
+        {
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "LaLaLa",
+      "url": "https://open.spotify.com/track/6oZX1Z7ENQhHQIF9do8mdz"
+    },
+    {
+      "album": {
         "name": "ROCK-STAR",
         "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
       },
@@ -8051,7 +8069,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11612,6 +11630,24 @@
     },
     {
       "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+    },
+    {
+      "album": {
         "name": "skyline ryodan",
         "url": "https://open.spotify.com/album/2946ME8Qq8jZ0ONyqtSW7a"
       },
@@ -13771,7 +13807,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -19586,6 +19622,28 @@
     },
     {
       "album": {
+        "name": "\u041b\u0443\u0433\u0438",
+        "url": "https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        },
+        {
+          "name": "Do Sliz",
+          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187312,
+      "name": "\u041b\u0443\u0433\u0438",
+      "url": "https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW"
+    },
+    {
+      "album": {
         "name": "\u041f\u0441\u0438\u0445\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u044e\u0442 \u0432 \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1"
       },
@@ -22965,7 +23023,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 93257,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy"

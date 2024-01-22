@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-79 songs - 13 hr 14 min
+80 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [Edumare Lon Pese](https://open.spotify.com/track/1CXTFyrMaGRK6MboiNuQIp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |
 | [Edumare Soro Mi Dayo](https://open.spotify.com/track/4pEkHTDnQCL8ZueyeUytzL) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Board Members](https://open.spotify.com/album/1AjpzZFOINVgNGQT9FmEG5) | 18:51 | 2021-12-28 |  |
 | [Egba \(Juju Yoruba\)](https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:24 | 2021-12-28 |  |
+| [Eni Duro Railway Medle \(Part 2\)](https://open.spotify.com/track/2NSXDpuRC58pOaKp5rY8WG) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Eni Duro Railway](https://open.spotify.com/album/1QAKz6PEAUnkIcDNib6Z9B) | 19:38 | 2024-01-21 |  |
 | [Eni to Ba Mbe Laye Medley \(Part 1\)](https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Victory](https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX) | 17:25 | 2022-09-22 |  |
 | [Enia Lasan](https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:10 | 2021-12-28 |  |
 | [Ero Mi Ko Lonso](https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |
 | [Eto Igbeyawo Medley \(Part 2\)](https://open.spotify.com/track/0SFGLsLGJPGHWYYkcj1uV9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [What God Has joined Together](https://open.spotify.com/album/5UjlIAVqMMzxlirjeDU5Wg) | 17:58 | 2023-12-21 |  |
-| [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 | 2021-12-28 |  |
+| [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 | 2021-12-28 | 2024-01-22 |
 | [Eyi Yato](https://open.spotify.com/track/4rA4sGmKw1B3jLfF71QUO6) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 31](https://open.spotify.com/album/1FRuvCuE2w3g62pdK23o56) | 17:36 | 2021-12-28 | 2022-02-04 |
 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 | 2022-04-12 |  |
 | [Gbe Bemi Oluwa](https://open.spotify.com/track/1cvpTxtzz7QXNk6ptyfUNX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |

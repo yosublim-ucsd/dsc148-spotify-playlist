@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,593 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,051 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 95 | [Last Hurrah \- David Guetta Remix](https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Last Hurrah \(David Guetta Remix\)](https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG) | 3:11 |
 | 96 | [Obsessed \- Tiësto Remix](https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Obsessed \(Tiësto Remix\)](https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj) | 4:20 |
 | 97 | [Ruin My Life \- Steve James Remix](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Ruin My Life \(Remixes\)](https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN) | 2:57 |
-| 98 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Remixes\)](https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5) | 3:02 |
-| 99 | [Nothing Breaks Like a Heart \- Don Diablo Remix](https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Nothing Breaks Like a Heart \(Don Diablo Remix\)](https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF) | 3:36 |
-| 100 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 |
+| 98 | [Final Song \- Diplo & Jauz Remix](https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Final Song \(Diplo & Jauz Remix\)](https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK) | 3:10 |
+| 99 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Remixes\)](https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5) | 3:02 |
+| 100 | [Nothing Breaks Like a Heart \- Don Diablo Remix](https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Nothing Breaks Like a Heart \(Don Diablo Remix\)](https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF) | 3:36 |
 
-Snapshot ID: `MCwyNjhhYTIwOWI4MTI3YjA0MGFkMjBhZTI3ZTAxODI4ZDI0ZTIxMzIx`
+Snapshot ID: `MCw3YTRiMzc1ZTIxNDVkZjExMWZjNmNjNDA0NDZhNmY3Y2ViOWM3N2Qx`

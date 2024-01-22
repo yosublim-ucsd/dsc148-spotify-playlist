@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,165,244 likes - 91 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,165,796 likes - 91 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 90 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 | 91 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
 
-Snapshot ID: `MCw4ODc3NmJmZWJjZmJiZDc4ZWRjYmYxZGZlMmNlYzdiOWM1ZjkwMDBh`
+Snapshot ID: `MCxkOWU5ZDM2NWViNGNhYzA4MDI5NjAzOTkwMDEzZjY4YmUzMTM0Njhh`

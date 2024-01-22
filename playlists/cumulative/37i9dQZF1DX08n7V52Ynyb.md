@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-196 songs - 14 hr 39 min
+197 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 | 2022-04-13 | 2022-04-22 |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-04-13 | 2023-01-05 |
 | [Easy Come, Easy Go Blues](https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Easy Come, Easy Go Blues](https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp) | 2:32 | 2022-04-13 |  |
+| [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 | 2024-01-19 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 | 2022-04-13 | 2022-08-18 |
 | [Every Time I See You \- 2007 Remaster](https://open.spotify.com/track/6HOXlpC38ANCHssiqnEcz7) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 3:01 | 2022-04-13 | 2022-10-12 |
 | [Everybody Knows](https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Everybody Knows](https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT) | 2:48 | 2022-04-13 |  |
@@ -71,7 +72,7 @@
 | [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 |  |
 | [I Can't Get Started](https://open.spotify.com/track/6hYK6zZdmTBDwiZAy7ztN5) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [For Connoisseurs Only](https://open.spotify.com/album/57jlLW5snTeDKnJPIuO0Kk) | 5:00 | 2022-05-19 | 2022-08-12 |
 | [I Didn't Know About You](https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn) | [Jocelyn Barth](https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX) | [Tell Him I Said Hello](https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J) | 4:26 | 2022-04-13 |  |
-| [I Don't Know Why](https://open.spotify.com/track/4s4tbZEEwajYebvutrSmcm) | [Andrea Pozza Trio](https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh), [Mila Ogliastro](https://open.spotify.com/artist/6Rsg9ZGqFqpNm7JtDgv4N4) | [Blue Toy](https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe) | 3:31 | 2023-09-15 |  |
+| [I Don't Know Why](https://open.spotify.com/track/4s4tbZEEwajYebvutrSmcm) | [Andrea Pozza Trio](https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh), [Mila Ogliastro](https://open.spotify.com/artist/6Rsg9ZGqFqpNm7JtDgv4N4) | [Blue Toy](https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe) | 3:31 | 2023-09-15 | 2024-01-22 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8) | [Yotam Ishay](https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs) | [SEED](https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg) | 5:28 | 2022-04-13 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 | 2022-07-21 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You should have told me](https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp) | 3:32 | 2022-04-13 | 2022-07-29 |

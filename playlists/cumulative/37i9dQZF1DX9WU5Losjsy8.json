@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Delfin",
+        "url": "https://open.spotify.com/album/2iQfLRK1JiGkgIHcbtgyGY"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175984,
+      "name": "Delfin",
+      "url": "https://open.spotify.com/track/5WJEoex0MzOYDk66Knt2iz"
+    },
+    {
+      "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
       },
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 127989,
       "name": "Ich schie\u00df mich weg",
       "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
@@ -1224,6 +1246,24 @@
       "duration_ms": 153956,
       "name": "Inselfieber",
       "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
+    },
+    {
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
+        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
     },
     {
       "album": {
@@ -2162,7 +2202,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 201859,
       "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
       "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"

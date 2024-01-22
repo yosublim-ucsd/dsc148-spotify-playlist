@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,965 songs - 6 day 7 hr 36 min
+3,966 songs - 6 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1277,6 +1277,7 @@
 | [Glint](https://open.spotify.com/track/4yLh1AgaQhxdgIOhCPAMAp) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Glint](https://open.spotify.com/album/5W4BbFuX8md3xhNHRTfW7g) | 1:52 | 2022-07-07 | 2023-10-20 |
 | [Glissade](https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:27 | 2022-11-17 | 2023-05-19 |
 | [Glissade](https://open.spotify.com/track/7wckVgqFimHFAQA5GzGSGS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Glissade](https://open.spotify.com/album/3hr8SY2rU7UGqZMAcDpf4j) | 2:27 | 2022-07-14 | 2022-11-20 |
+| [Glistening](https://open.spotify.com/track/59PS2o5OLuxUvycfcaSkdm) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I) | [Glistening](https://open.spotify.com/album/51Z15o8lPxPuDaNuKLRAsB) | 2:43 | 2024-01-18 |  |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-02 | 2022-06-17 |
 | [Glow](https://open.spotify.com/track/2O0ZxPTJLVj1R8dZ0IjiM7) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Glow](https://open.spotify.com/album/0b5fGd2uojcaID4Zrh5QYI) | 1:57 | 2019-07-24 | 2020-02-11 |
 | [Glow](https://open.spotify.com/track/2HNF4N9Dep2Fdr3YR0encL) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Glow](https://open.spotify.com/album/5m1YUh7jIls9AVRXSkp7Zc) | 1:53 | 2023-08-24 | 2023-09-15 |
@@ -2652,7 +2653,7 @@
 | [Point Nemo With You](https://open.spotify.com/track/79xcWzUPupP8YIT1QULBZg) | [Wolberts](https://open.spotify.com/artist/697fJExlsqviukdMhEvHGC) | [Point Nemo With You](https://open.spotify.com/album/6Fsbon5bbHtkkNdgXJVIxg) | 2:05 | 2021-09-03 | 2022-11-21 |
 | [Point Of No Return](https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Ambient Drift](https://open.spotify.com/album/0tHb7jpm4n4kcJn3VhZnJj) | 2:48 | 2021-06-12 | 2022-01-14 |
 | [Poker Night](https://open.spotify.com/track/0jFjQyMN1jnTphUux37LjF) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Poker Night](https://open.spotify.com/album/2oUWlAhCMrJcr6cBrCN5UU) | 2:12 | 2023-08-24 | 2023-09-15 |
-| [Pokka](https://open.spotify.com/track/1uHnK0h6XKzlRZrH4TG0Lg) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [Pokka](https://open.spotify.com/album/16XV0TMwtcCI6rPGsPmGMk) | 2:12 | 2024-01-11 |  |
+| [Pokka](https://open.spotify.com/track/1uHnK0h6XKzlRZrH4TG0Lg) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [Pokka](https://open.spotify.com/album/16XV0TMwtcCI6rPGsPmGMk) | 2:12 | 2024-01-11 | 2024-01-22 |
 | [Poko](https://open.spotify.com/track/3SdlVeyoK4YlDTiBPNIHWv) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Poko](https://open.spotify.com/album/6IswL3a4RuHkMjcEwlQyyQ) | 2:41 | 2021-08-14 | 2022-05-13 |
 | [Pokémon Center](https://open.spotify.com/track/0B0Uf2JZsO1QtNthcsmKz1) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Pokémon Center](https://open.spotify.com/album/6DfOkOYeJGdkqEKlqg0cOA) | 2:53 | 2021-05-21 | 2021-05-28 |
 | [pomegranate](https://open.spotify.com/track/5eOwvzNi8szbYfOIYwhf8y) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [pomegranate](https://open.spotify.com/album/3HFFNdAC5otcM8YIAbX1at) | 1:46 | 2021-08-20 | 2021-09-09 |

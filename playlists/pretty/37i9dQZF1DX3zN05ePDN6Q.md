@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,466 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,520 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 | 75 | [A Volta por Baixo](https://open.spotify.com/track/7Eh9GH4NJJWYEPZ51tjF9y) | [Digmanybeats](https://open.spotify.com/artist/6S3UKXF6SJpHxa0IAsiFrf), [Mascote](https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h), [Dej@ Vu](https://open.spotify.com/artist/5hOzHF5795K4MIkzb5t5At), [Dj WillCutz](https://open.spotify.com/artist/2ruuaPdNES9RSkFG0tsryU), [Mundiko](https://open.spotify.com/artist/23rOBipODsgo3Mw3zMF8Hf) | [Ligue os Pontos](https://open.spotify.com/album/6xHVSiBuJAhWB9bg3G8eG8) | 3:14 |
 
-Snapshot ID: `MCxhOTdlNjkyNGIzYjg0YWQ3NTc5ZGYxYzY2YjlmY2Y1ZjkwMjA2Y2E4`
+Snapshot ID: `MCw4YTUyZjBjMzljZmY1MzMxN2FkZGUyZjFiZjQ3MThhMzFmMmE5OTMx`

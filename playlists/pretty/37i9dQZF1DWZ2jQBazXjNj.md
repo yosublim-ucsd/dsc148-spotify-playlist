@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,884 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,065 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 59 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
 | 60 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
 | 61 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
-| 62 | [Ignorantes](https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 2:44 |
-| 63 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
+| 62 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
+| 63 | [Ignorantes](https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 2:44 |
 | 64 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
 | 65 | [Rosa Pastel](https://open.spotify.com/track/1WMK7SsidKdhRvApju1jAI) | [Karla Orellana](https://open.spotify.com/artist/3pi4RbA9ReDJ7uTCTRF3dx) | [Rosa Pastel](https://open.spotify.com/album/1Pw82F3xWXBW3iswNWW3dv) | 2:43 |
 | 66 | [La Curiosidad](https://open.spotify.com/track/750Jft4koW1yoribM3DtzT) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Convencido](https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 | 75 | [Prometiste](https://open.spotify.com/track/7dZNRyiEOdT6JpxaPeRE7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Prometiste](https://open.spotify.com/album/5aSblmvsZAN9250TELsLeW) | 3:27 |
 
-Snapshot ID: `MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm`
+Snapshot ID: `MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw`

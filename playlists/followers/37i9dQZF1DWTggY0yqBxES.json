@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 945795,
+  "2024-01-22": 945800,
   "date_first_scraped": "2021-12-21",
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kid Cudi",
   "name": "Alternative Hip-Hop",
@@ -10704,6 +10704,28 @@
     },
     {
       "album": {
+        "name": "PSYCHWARD SYMPHONY",
+        "url": "https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "PSYCHWARD SYMPHONY",
+      "url": "https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq"
+    },
+    {
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -10803,28 +10825,6 @@
       "duration_ms": 165333,
       "name": "Purr (feat. Kari Faux)",
       "url": "https://open.spotify.com/track/4ApwuKgd7lEopLTxSA8oDZ"
-    },
-    {
-      "album": {
-        "name": "PSYCHWARD SYMPHONY",
-        "url": "https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA"
-      },
-      "artists": [
-        {
-          "name": "Fat Nick",
-          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
-        },
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135272,
-      "name": "PYSCHWARD SYMPHONY",
-      "url": "https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq"
     },
     {
       "album": {

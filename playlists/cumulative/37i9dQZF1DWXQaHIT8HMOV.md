@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-191 songs - 9 hr 53 min
+192 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 | 2023-12-08 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2024-01-08 |
 | [Leega](https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2) | 3:34 | 2023-04-14 | 2023-05-03 |
-| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 |  |
+| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 | 2024-01-22 |
 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 | 2023-06-09 | 2023-07-24 |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 | 2023-02-05 |
 | [Local User](https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Local User](https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK) | 2:32 | 2023-11-10 |  |
@@ -182,6 +182,7 @@
 | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl) | [XpressionsUG](https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem) | 2:46 | 2023-04-07 | 2023-07-01 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 | 2023-01-04 |
+| [Thursday](https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [Thursday](https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ) | 3:16 | 2024-01-19 |  |
 | [Tok Tok](https://open.spotify.com/track/3ec8B63feV7XSlJ2qgKJK1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Pesh Fisher](https://open.spotify.com/artist/26iiAIe5xTwPLOEtVcb1zV) | [Tok Tok](https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh) | 2:36 | 2023-03-03 | 2023-04-28 |
 | [Toora Love](https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Toora Love](https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE) | 3:06 | 2022-11-25 | 2022-12-25 |
 | [True Love](https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ) | [Bright Sun UG](https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr), [Green Daddy](https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm) | [Love Hearted](https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk) | 3:10 | 2022-11-17 | 2023-02-05 |

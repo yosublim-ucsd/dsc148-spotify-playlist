@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 59859,
+  "num_followers": 59960,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzhjMjBjYjUyZDQ5YmQyZGE4YWJhZTE1ZGYxZDJhNmVlOTUxY2E4",
+  "snapshot_id": "MCw0ODkyOWUzZDNhYjUzZTYzMmI3YTRjYjJjOWVlYzY5YzdmZmJlMzlm",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
-        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
       "artists": [
         {
           "name": "Joe Mettle",
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 320902,
-      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
-      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1155,46 +1151,42 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
       "artists": [
         {
           "name": "Joe Mettle",
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "A Sound from Heaven",
-        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         },
         {
-          "name": "Danny Nettey",
-          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
-        },
-        {
-          "name": "Emmit Jim Konadu",
-          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
-        },
-        {
-          "name": "Negar Wujanji",
-          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Yes You Are the Lord",
-      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1239,6 +1231,34 @@
       "duration_ms": 852572,
       "name": "Oba Ni - Live",
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        },
+        {
+          "name": "Danny Nettey",
+          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
+        },
+        {
+          "name": "Emmit Jim Konadu",
+          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Yes You Are the Lord",
+      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "This New Year",
-        "url": "https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
-        }
-      ],
-      "duration_ms": 251769,
-      "name": "This New Year",
-      "url": "https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 740413,
       "name": "Okaka",
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1449,42 +1465,6 @@
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
-      "added_at": "2023-12-22 08:57:34",
-      "album": {
-        "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
-        "url": "https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw"
-      },
-      "artists": [
-        {
-          "name": "Worship House",
-          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
-        },
-        {
-          "name": "Mahazel",
-          "url": "https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA"
-        }
-      ],
-      "duration_ms": 591930,
-      "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
-      "url": "https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Way\u03b5 Me Yie",
@@ -1499,6 +1479,26 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "This New Year",
+        "url": "https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        },
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        }
+      ],
+      "duration_ms": 251769,
+      "name": "This New Year",
+      "url": "https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1553,48 +1553,40 @@
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-22 08:57:34",
       "album": {
-        "name": "Never Ending Love",
-        "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
+        "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
+        "url": "https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+          "name": "Worship House",
+          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
         },
         {
-          "name": "The Excentric",
-          "url": "https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Mahazel",
+          "url": "https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA"
         }
       ],
-      "duration_ms": 174995,
-      "name": "Never Ending Love",
-      "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
+      "duration_ms": 591930,
+      "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
+      "url": "https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
+        "name": "Broken (Live)",
+        "url": "https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+      "duration_ms": 571328,
+      "name": "Broken (Live)",
+      "url": "https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH"
     }
   ],
   "unique_name": "Be Lifted ",

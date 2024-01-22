@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-232 songs - 9 hr 21 min
+233 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,12 +233,13 @@
 | [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 | 2022-09-16 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-22 | 2023-09-09 |
 | [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 | 2023-10-27 |  |
+| [winter creek](https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [winter creek](https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ) | 2:44 | 2024-01-19 |  |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-16 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2022-04-22 |  |
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-22 | 2023-04-12 |
 | [yessir](https://open.spotify.com/track/11NYe41SBy23zohFN71kWG) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [yessir](https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7) | 2:12 | 2024-01-05 |  |
-| [Zen Garden](https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [Zen Garden](https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U) | 2:45 | 2022-04-22 |  |
+| [Zen Garden](https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [Zen Garden](https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U) | 2:45 | 2022-04-22 | 2024-01-22 |
 | [Zero Kid](https://open.spotify.com/track/2KqytWnOq1LQiIdcQo9F6o) | [Cade Farrow](https://open.spotify.com/artist/5TQdkMfx0iTM2E4esccYaL) | [Zero Kid](https://open.spotify.com/album/2xmauxQf9b99OJKrppq6lb) | 2:19 | 2022-04-22 | 2023-09-09 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

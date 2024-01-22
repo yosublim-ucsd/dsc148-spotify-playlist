@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-466 songs - 1 day 3 hr 48 min
+467 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Make It Alright](https://open.spotify.com/track/6INDyfmhqhJfAxWi84O6al) | [SAINT](https://open.spotify.com/artist/0TA3tF7JmKckxwD869HhEs), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Here At Last](https://open.spotify.com/album/2QBuw9lsZA3bOQfBzQx7dz) | 4:50 | 2022-02-27 | 2022-06-20 |
 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 | 2023-01-20 |  |
 | [Manifest](https://open.spotify.com/track/3pbTHEZoomOPXINAp2Seht) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Purpose](https://open.spotify.com/artist/3uqT5AC2OSsfU6HZ1RqAHo), [John Mcclure](https://open.spotify.com/artist/5II5vxi6ROvaKrNefa8aUQ) | [Thank You Lord / Manifest](https://open.spotify.com/album/1eFT6N7PAMO6FjMPMyKbrs) | 6:11 | 2022-02-19 | 2022-02-28 |
-| [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 | 2024-01-12 |  |
+| [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 | 2024-01-12 | 2024-01-22 |
 | [Memories](https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM) | [Memories](https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD) | 3:08 | 2023-11-03 |  |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 | 2023-04-28 |
 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-06-25 | 2023-10-31 |
@@ -469,6 +469,7 @@
 | [You Your Love](https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7) | [Cornerstone](https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R) | 3:57 | 2024-01-12 |  |
 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 | 2023-01-20 |  |
 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 | 2022-06-25 | 2023-10-22 |
+| [Your Arms](https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [Your Arms](https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v) | 2:37 | 2024-01-12 |  |
 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 | 2022-02-27 | 2022-06-05 |
 | [Your Love Is Simple \- Chris Howland Remix](https://open.spotify.com/track/5tGLlErR37eyo9Md7rdEe8) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Your Love Is Simple \(Chris Howland Remix\)](https://open.spotify.com/album/2EyMMxClHFpDYVBmRGhdwf) | 3:05 | 2022-02-27 | 2022-06-16 |
 | [Your Love Will Never Change](https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change](https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu) | 4:22 | 2023-10-31 |  |

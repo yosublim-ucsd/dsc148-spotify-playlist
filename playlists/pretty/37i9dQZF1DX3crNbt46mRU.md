@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,091 likes - 107 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,094 likes - 107 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Desaster](https://open.spotify.com/track/6f6yX7lrI5v8RYwRlIACrO) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Beko101](https://open.spotify.com/artist/5TZCyHGuv4RuDILMG72k53), [Teuterekordz](https://open.spotify.com/artist/0dKNwVc2gaxqvpAl2Hy5Ic) | [Desaster](https://open.spotify.com/album/1g9mFIqMwOTNpm08foPJnv) | 3:06 |
 | 107 | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/track/2ONW7LwTEMUP3A8SnfyI51) | [Georg Auf Lieder](https://open.spotify.com/artist/5hXV2QeBwQNt2sgRxHyXJC) | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/album/7il0SctFrvS0B7hXIjzRZV) | 2:35 |
 
-Snapshot ID: `MCw5MThjZmI4YzZiYjg3Y2M2ODg3YzY2ZTg4MDU2OTgxZTBkMTE4NGQy`
+Snapshot ID: `MCxhMThkNGNkN2YwNDQ2MTUzMWRkMThlNjFjMzRiMWI4OWE3OTAwMWJl`

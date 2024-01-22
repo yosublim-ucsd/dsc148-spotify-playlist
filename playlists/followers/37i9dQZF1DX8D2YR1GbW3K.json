@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 212523,
+  "2024-01-22": 212573,
   "date_first_scraped": "2022-01-05",
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
   "name": "Headliners",
@@ -1867,6 +1867,14 @@
         {
           "name": "TNGHT",
           "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
         }
       ],
       "date_added": "2022-06-09",

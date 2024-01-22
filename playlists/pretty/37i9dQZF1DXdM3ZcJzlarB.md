@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,553 likes - 55 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,562 likes - 55 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 54 | [Fake Reflected](https://open.spotify.com/track/2SxYWDmLEWVyR7yTJt0GFG) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Roto y Oxidado EP.](https://open.spotify.com/album/0CCltLVZP7XSul3NtUrM8P) | 4:52 |
 | 55 | [Overflow \- Fiama Molina Remix](https://open.spotify.com/track/2spNlmReyMDsZanz79yjQG) | [Miss Adk](https://open.spotify.com/artist/1P8ulwWeuGIL12delhvGEz), [Fiama Molina](https://open.spotify.com/artist/2O2QR0JbQ4Rkv9fN3HvRew) | [Overflow](https://open.spotify.com/album/58E9QSlo17wnE07iXwpzIo) | 6:27 |
 
-Snapshot ID: `MCwyNmQxZTEyZjBkYTNkY2VlMTIwOWNkZTNmYzVlMmEyNGFmNDU5OWVj`
+Snapshot ID: `MCw5ZTExNzVmYzFhNGYwNTg1ZWNmNDJhYzg4OTg2NmNiOWVkMTUzNTNl`

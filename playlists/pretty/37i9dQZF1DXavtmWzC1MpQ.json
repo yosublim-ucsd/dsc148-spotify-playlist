@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129488,
+  "num_followers": 129509,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzdhNjEzZTk5MTA3YWZhNzMxZTQwY2Q5YWVkYTI3ZWQ5ZDgyZDZl",
+  "snapshot_id": "MCxmMjY0MWIzODIzMGFiZGNkMTM3OWJlMGQ4Yzk4OWMyYjU1OTMzM2Jk",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Stream",
-        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
+        "name": "Country Birds",
+        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
       },
       "artists": [
         {
-          "name": "Sound and Waves",
-          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Gentle River Sounds",
-      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
+      "duration_ms": 142000,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
+        "name": "Ocean Stream",
+        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
       },
       "artists": [
         {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
+          "name": "Sound and Waves",
+          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
+      "duration_ms": 196000,
+      "name": "Gentle River Sounds",
+      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
     },
     {
       "added_at": "2023-06-19 13:01:14",

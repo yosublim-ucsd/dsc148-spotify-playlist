@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 14540,
+  "2024-01-22": 14574,
   "date_first_scraped": "2023-01-07",
   "description": "This is \u7d50\u675f\u30d0\u30f3\u30c9. The essential tracks, all in one playlist.",
   "name": "This Is \u7d50\u675f\u30d0\u30f3\u30c9",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 232600,
       "name": "\u3072\u307f\u3064\u57fa\u5730 -\u6052\u661f- Live ver.",
       "url": "https://open.spotify.com/track/1Zq49Kh37VwebGNvLfMRNA"
@@ -435,6 +435,24 @@
       "duration_ms": 258173,
       "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
+    },
+    {
+      "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9LIVE-\u6052\u661f- at Zepp Haneda\uff08TOKYO\uff09",
+        "url": "https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -\u6052\u661f- Live ver.",
+      "url": "https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc"
     },
     {
       "album": {

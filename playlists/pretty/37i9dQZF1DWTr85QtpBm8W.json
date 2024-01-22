@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 19642,
+  "num_followers": 19720,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
+  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -435,42 +435,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Vir\u00f0ulegu forsetar",
-        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
       },
       "artists": [
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Gu\u00f0mundur Sigur\u00f0sson",
-          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
-        },
-        {
-          "name": "H\u00f6r\u00f0ur Bragason",
-          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Matth\u00edas M.D. Hemstock",
-          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
-        },
-        {
-          "name": "Caput Ensemble",
-          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
-        },
-        {
-          "name": "Gu\u00f0ni Franzson",
-          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 78579,
-      "name": "Part 1.2",
-      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+      "duration_ms": 131400,
+      "name": "Opalescent",
+      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -539,34 +515,42 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+        "name": "Vir\u00f0ulegu forsetar",
+        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Opalescent",
-      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Gu\u00f0mundur Sigur\u00f0sson",
+          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
+        },
+        {
+          "name": "H\u00f6r\u00f0ur Bragason",
+          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Matth\u00edas M.D. Hemstock",
+          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
+        },
+        {
+          "name": "Caput Ensemble",
+          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
+        },
+        {
+          "name": "Gu\u00f0ni Franzson",
+          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
         }
       ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
+      "duration_ms": 78579,
+      "name": "Part 1.2",
+      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -583,6 +567,22 @@
       "duration_ms": 137826,
       "name": "Sin Nanna",
       "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "An Imaginary Country",
-        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Borderlands",
-      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+        "name": "An Imaginary Country",
+        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+      "duration_ms": 286626,
+      "name": "Borderlands",
+      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
-      },
-      "artists": [
-        {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
-        }
-      ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Utop\u00eda",
         "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
+      },
+      "artists": [
+        {
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
+        }
+      ],
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
       "artists": [
         {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 231240,
-      "name": "The Mist",
-      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
       "artists": [
         {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
         }
       ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+      "duration_ms": 231240,
+      "name": "The Mist",
+      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Through the Cardial Window",
         "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 236333,
       "name": "Into Stressa",
       "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 378840,
       "name": "Welk",
       "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+        }
+      ],
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-08-04 12:53:28",

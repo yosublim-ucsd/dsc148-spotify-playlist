@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 160768,
+  "num_followers": 160872,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc1MjgzNDJkN2M0NzAzYTI2Y2M0Y2IwMDcxNTI2MmI3MWRlMGU1",
+  "snapshot_id": "MCw2ZTg4MzU4OTU3YmQ4MWY4MGMxZDI1Y2EyNDMzZDc5ZjE0OTk2Mzcw",
   "tracks": [
     {
       "added_at": "2023-12-13 12:56:56",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Everglow",
         "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Unfurl",
-        "url": "https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "YaYaYa",
-      "url": "https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 295493,
       "name": "How Can I Do",
       "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Unfurl",
+        "url": "https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "YaYaYa",
+      "url": "https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Best Of & Variations",
         "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 159706,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB"
     },
     {
       "added_at": "2023-12-13 12:56:56",

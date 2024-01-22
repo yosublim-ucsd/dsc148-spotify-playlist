@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Magnolia Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,551 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,813 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [thieves of virtue](https://open.spotify.com/track/3zDdUiSL0k7szyWtUMEoJ6) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [thieves of virtue](https://open.spotify.com/album/0iY4q3066UsWq2uUds42OG) | 2:49 |
 | 50 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 |
 
-Snapshot ID: `MCwyYWIwMTVjMGZkOWQ1NTAyZDZjNDgzZjkyNGQ4OGYxMDY0ZmU0ZmU1`
+Snapshot ID: `MCwwYzVkZmJhZjU0MDU3YTkyOTMzOWRiMjkxY2QxZDlkZjAwODU1MDQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Red Clay Strays
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,018 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,972 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Rhinestone](https://open.spotify.com/track/7dHy8LL7YpI69ZtmfmI83n) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Underground Forever](https://open.spotify.com/album/2EJv943X8gpKSdw82Hwhyb) | 3:32 |
 | 150 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 |
 
-Snapshot ID: `MCw5ZDJlZDZkNjg5NDI3MWQ3ZDlmNjZkMDYzNGM3OTExZTA5OTQ4OWUw`
+Snapshot ID: `MCxiMTE2OTA5YjFkMmRhMDJiZDg4MWJlNDIzMjE4Y2NjZTIwNjM3YmU2`

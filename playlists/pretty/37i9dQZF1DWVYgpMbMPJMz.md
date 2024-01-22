@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:6qk2W9h3eE5UtPJlIatzsY">Meredith Andrews</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,863 likes - 90 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,797 likes - 90 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 33 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 |
 | 34 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 35 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Yahweh Will Manifest \(Live From San Juan PR\)](https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ) | 8:33 |
-| 36 | [Faithful and True \- Live](https://open.spotify.com/track/1fnylnKIJrU67ZuWe0JGNU) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g) | [Faithful and True \(Live\)](https://open.spotify.com/album/4zLFYng21rIyQIdros8Zyf) | 4:03 |
+| 36 | [Faithful and True \- Live](https://open.spotify.com/track/1fnylnKIJrU67ZuWe0JGNU) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Faithful and True \(Live\)](https://open.spotify.com/album/4zLFYng21rIyQIdros8Zyf) | 4:03 |
 | 37 | [Your Love Will Never Change \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M) | 5:04 |
 | 38 | [Never Been](https://open.spotify.com/track/2GA5R0AVGt0DIf1cY2APhv) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Been](https://open.spotify.com/album/0tuajk7f2pPvbAvzgef4jM) | 5:54 |
 | 39 | [Thunder In The Desert](https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [TIME](https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5) | 5:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Jesus Now \- Live](https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Jesus Now](https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W) | 5:16 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCwwZjg5ZDMyYmJiMjU0MGUxYjk1NDQxNjJjMTlhYTMwNjFhMTJkODM3`
+Snapshot ID: `MCxmNjBlMjA3ODE5M2Y2NWFiODcyOWJmOGQxOWZkMzY4NTJmNzA2ODg5`

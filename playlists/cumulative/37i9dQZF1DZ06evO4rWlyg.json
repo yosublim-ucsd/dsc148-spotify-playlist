@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf"
+    },
+    {
+      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
       },

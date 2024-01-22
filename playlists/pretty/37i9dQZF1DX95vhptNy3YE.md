@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,372 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,378 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Me Assume Ou Me Esquece \- Ao Vivo](https://open.spotify.com/track/71clr6L0EOTBfZPHh5MwM9) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Me Assume Ou Me Esquece \(Ao Vivo\)](https://open.spotify.com/album/0xJauJ0qBAVldQXvI3yJux) | 3:14 |
 | 50 | [ETAPAS](https://open.spotify.com/track/0x06HxrYMORavjLJ3dqwNv) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [EU TIVE UM SONHO](https://open.spotify.com/album/12QqwradopCY1XRLm866Aw) | 1:58 |
 
-Snapshot ID: `MCwxZGRjNTY4NGQ2NWQ1MGFmODY3N2RiNTc1OTk1NjQ3NDlmYWYwNjMz`
+Snapshot ID: `MCxkNTE0NjY4M2EwMjQ0NTJlODNmNDc5OGI1ZjE5MTYzMDRkMDFlODNl`

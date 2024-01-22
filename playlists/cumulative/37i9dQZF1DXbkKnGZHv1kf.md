@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-78 songs - 3 hr 53 min
+79 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Baby Please Don't Go](https://open.spotify.com/track/1vjHFgIdNuLXojpkzysoV8) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Going Back to Crawford](https://open.spotify.com/album/2C4LCaMK6gc8zzMuHrEPvg) | 2:44 | 2018-03-28 |  |
 | [Baby Please Don't Go](https://open.spotify.com/track/3lpj1UVCPnohjqGEwY0Lfl) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [And Friends, Going Back To Crawford](https://open.spotify.com/album/5Q4xMv1EGymfAz7gLMDJqN) | 2:44 | 2018-03-28 | 2022-07-29 |
 | [Back Door Blues](https://open.spotify.com/track/2mGnouFybpiIEWnzKq50fr) | [James Kokomo Arnold](https://open.spotify.com/artist/4zoZrRYkyH0mhppqcyM1ib) | [Kokomo Arnold \- His 20 Greatest Songs](https://open.spotify.com/album/5yanQWFSoZ5Ny2mQfKaWe2) | 3:24 | 2018-03-28 |  |
-| [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2018-03-28 |  |
+| [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2018-03-28 | 2024-01-22 |
 | [Boogie Chillen](https://open.spotify.com/track/0sPES3zMG5FaGO8sNmmsu2) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL) | 3:10 | 2018-03-28 | 2022-07-29 |
+| [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 | 2018-03-28 |  |
 | [Call It Stormy Monday \(But Tuesday Is Just As Bad\)](https://open.spotify.com/track/2N3ppRkdOeZ75RwEqSz7nu) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/2HtbNXkeoKEuCyBImiyb2c) | 3:03 | 2018-03-28 | 2022-07-29 |
 | [Call It Stormy Monday But Tuesday Is Just As Bad](https://open.spotify.com/track/53zNJpvUZ7DsHkgFedfhfD) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/6WgNm0qYlz2yLyH2zk93Ur) | 3:03 | 2018-03-28 | 2023-02-21 |
 | [Call It Stormy Monday But Tuesday Is Just As Bad](https://open.spotify.com/track/7uMiAVsZy9Iash5gPsoTxe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Classics In Jazz \(Expanded Edition\)](https://open.spotify.com/album/47CNQ2a7dqBAxxC2nFnueW) | 3:03 | 2018-03-28 |  |

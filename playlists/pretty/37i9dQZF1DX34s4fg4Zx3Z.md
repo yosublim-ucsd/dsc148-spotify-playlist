@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: NÂN
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,428 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,442 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [Chàng Trai Bất Tử](https://open.spotify.com/track/18iADruKMXIloyA9vCJXFE) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34), [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh) | [Chàng Trai Bất Tử](https://open.spotify.com/album/5lFQA0FkLiuI3aCvvaRLN6) | 3:52 |
 | 99 | [Ha Va Oai](https://open.spotify.com/track/7m3XEa7rP33gsjeYJYoRBl) | [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch), [STRANGE H](https://open.spotify.com/artist/65d2rn78XJ1xpeFfbeWXmF), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU) | [GOLDEN BOY](https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH) | 4:13 |
 
-Snapshot ID: `MCxmMjU4MmI4MGQ3MDVjZDY3ZjBlOTJmYmExY2E4NjljNWE1ZTczYTE3`
+Snapshot ID: `MCw0OThlMzFiZGRlYmU5ZjQxN2MyODViZDQ5YWM4MWJjZTk5ZDYyNDRk`

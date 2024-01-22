@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 297119,
+  "num_followers": 297167,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3",
+  "snapshot_id": "MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "A C\u00e9u Aberto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Dan\u00e7a do Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "A C\u00e9u Aberto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Dan\u00e7a do Tempo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
     },
     {
       "added_at": "2023-10-20 03:01:00",

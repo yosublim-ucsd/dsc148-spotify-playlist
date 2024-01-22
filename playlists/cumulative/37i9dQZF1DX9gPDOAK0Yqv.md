@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-422 songs - 1 day 11 hr 30 min
+423 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Free Your Mind](https://open.spotify.com/track/2o2pdKXhWnlDfwLp61koTb) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:37 | 2023-02-10 | 2023-02-18 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 | 2023-12-01 |
+| [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-18 |  |
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
 | [Future Call](https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Future Call](https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y) | 3:29 | 2023-09-07 | 2023-10-03 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
@@ -179,7 +180,7 @@
 | [In The Bleak Midwinter](https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [In The Bleak Midwinter](https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v) | 3:54 | 2023-03-10 | 2023-03-22 |
 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-10-13 |  |
 | [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-23 | 2023-08-21 |
-| [Inception](https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Inception](https://open.spotify.com/album/4zt9MIGqd7tgXn3iTBsjUs) | 3:58 | 2023-11-30 |  |
+| [Inception](https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Inception](https://open.spotify.com/album/4zt9MIGqd7tgXn3iTBsjUs) | 3:58 | 2023-11-30 | 2024-01-22 |
 | [Infinity](https://open.spotify.com/track/4h867FJKioG1h0nZZ7hwgN) | [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Euphoria](https://open.spotify.com/album/2QTLHBhDtEm7HwOsCBk9Tk) | 3:14 | 2022-12-28 | 2023-01-06 |
 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-23 | 2023-02-01 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-11-23 | 2022-11-28 |

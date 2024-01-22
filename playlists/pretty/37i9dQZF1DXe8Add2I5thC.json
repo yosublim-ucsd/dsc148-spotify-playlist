@@ -1,12 +1,12 @@
 {
   "description": "the golden era of the \ud835\ude92\ud835\ude97\ud835\ude9d\ud835\ude8e\ud835\ude9b\ud835\ude97\ud835\ude8e\ud835\ude9d",
-  "num_followers": 25323,
+  "num_followers": 25351,
   "original_name": "the blog era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTIwY2Q3ZDM3YjI2NGJhNWE3OGU4NmRiOWY4ZWUxMDU2YjA5NmQx",
+  "snapshot_id": "MCxmM2U4MWJmN2MzYTc2YWFmMTNjMDNiNzhlOGU4OWFmZmI0YzA2NWY3",
   "tracks": [
     {
       "added_at": "2023-10-22 00:51:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 155320,
-      "name": "Date With The Night",
-      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 366866,
       "name": "Magic Spells",
       "url": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 155320,
+      "name": "Date With The Night",
+      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
+        "name": "It's Not Me, It's You",
+        "url": "https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "The Fear",
+      "url": "https://open.spotify.com/track/7bW6MqAdTclmHVHAOkIyPS"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
         "name": "We Are Your Friends",
         "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Darkbloom",
-        "url": "https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 324042,
-      "name": "Vanessa",
-      "url": "https://open.spotify.com/track/2cEFHXXBfVEMUcTAaz2jVO"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "It's Not Me, It's You",
-        "url": "https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8"
+        "name": "Darkbloom",
+        "url": "https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 207120,
-      "name": "The Fear",
-      "url": "https://open.spotify.com/track/7bW6MqAdTclmHVHAOkIyPS"
+      "duration_ms": 324042,
+      "name": "Vanessa",
+      "url": "https://open.spotify.com/track/2cEFHXXBfVEMUcTAaz2jVO"
     }
   ],
   "unique_name": "the blog era",

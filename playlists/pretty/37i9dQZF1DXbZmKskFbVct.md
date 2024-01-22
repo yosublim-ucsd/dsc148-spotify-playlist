@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,417 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,427 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 39 | [Relax and Close Your Eyes](https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ) | 7:00 |
 | 40 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
 | 41 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP) | 3:26 |
-| 42 | [Guided Visualization for Sleep, Pt\. 1](https://open.spotify.com/track/5KLEQb0UkkzqAaLFrxb8ft) | [ASMR Blossom](https://open.spotify.com/artist/6HpWebq041QRizskcykHPH) | [ASMR Guided Visualisation for Sleep](https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We) | 2:15 |
+| 42 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
 | 43 | [Milk Bath](https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F) | 6:44 |
-| 44 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
+| 44 | [Guided Visualization for Sleep, Pt\. 1](https://open.spotify.com/track/5KLEQb0UkkzqAaLFrxb8ft) | [ASMR Blossom](https://open.spotify.com/artist/6HpWebq041QRizskcykHPH) | [ASMR Guided Visualisation for Sleep](https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We) | 2:15 |
 | 45 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 |
 | 46 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF) | 5:03 |
 | 47 | [Do You Have Plans?](https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Whispers and Dry Ear Massage](https://open.spotify.com/track/7M2eaTwjc4tnuvfnrd8df6) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [10 Triggers To Help Relax Your Brain At Night](https://open.spotify.com/album/4f3eL2qfREaFIBo6uwreba) | 9:44 |
 | 50 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
 
-Snapshot ID: `MCwwNTRhMmYwN2I5NzE4YTQxMGYxNDkxMzVjMmViNjBkMWJiMDkwNTFi`
+Snapshot ID: `MCw3MzgzZmIxYjJmMDViOTIxODNmOWJiYjI3MTA5MTE0NDQyMjBjYzI4`

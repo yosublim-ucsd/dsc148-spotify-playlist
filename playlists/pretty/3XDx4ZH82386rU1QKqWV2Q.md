@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,062,614 likes - 149 songs - 6 hr 14 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,062,823 likes - 149 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 106 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 107 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 |
 | 108 | [True Faith \- 2011 Total Version](https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [TOTAL](https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD) | 4:12 |
-| 109 | [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 |
+| 109 | [blackbride](https://open.spotify.com/track/63wZyjdxEJXWalSTdhsiLw) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 3:24 |
 | 110 | [Ты и Я \- TikTok Remix](https://open.spotify.com/track/22sQjY9bOaw2ZaIvD0WXZY) | [Mooney Tunes](https://open.spotify.com/artist/6E0mkX5e82a2mza83653qh), [yeanix](https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e) | [Ты и Я \(TikTok Remix\)](https://open.spotify.com/album/7JGf5iNkvRJXWztNIKLXVm) | 3:02 |
 | 111 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
 | 112 | [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 148 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
 | 149 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 
-Snapshot ID: `MjY5MSw1YmYxOThmYzI4NjNlYTY3Mjc5ZDBjZDE2YmRjN2JlYzExODVlMzJi`
+Snapshot ID: `MjY5MyxhYjI0Y2Y3YjgxMzAzMTNkZTQ5MTZhYzQyZGYyMmViMTQyMDM3NzY0`

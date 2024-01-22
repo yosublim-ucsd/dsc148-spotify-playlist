@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Disco Lines, Anabel Englund & J\. Worra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,992,166 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991,571 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Look At Me Dance](https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Look At Me Dance](https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML) | 3:05 |
 | 75 | [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 |
 
-Snapshot ID: `MCxkM2ZlMzg1MjM2Mjg1YTE3MjM3MmQxZmQ1Zjc0ZTUwZjgwYmEyZTIz`
+Snapshot ID: `MCw5MWZkN2NjNGUxNDg1NjI0MzNjZTJhYjdiMzY1NGM0YzA4NjZhZDQ0`

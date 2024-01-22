@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Meth Math\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,753 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,744 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 6 | [Desesperación Prometida](https://open.spotify.com/track/3PCsgEJeTSbDXGMmTCa6iV) | [16 bits](https://open.spotify.com/artist/4PefhG70jWB8GdR6eD9mG3) | [Desesperación Prometida](https://open.spotify.com/album/48wiHrs8WOS8o9q54QwwMf) | 3:43 |
 | 7 | [Argumentos](https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Argumentos](https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v) | 3:31 |
 | 8 | [Para Siempre](https://open.spotify.com/track/0o8NRG3aSCKbQOeSuhB7tp) | [Los Flamingos](https://open.spotify.com/artist/5juYUputFarzc3bykFVV9e) | [Para Siempre](https://open.spotify.com/album/3FOZfEHf2nrgWnMBPj6S4n) | 3:30 |
-| 9 | [Cenita en Komodo](https://open.spotify.com/track/0I3XYzVy6BQEvbtPUPbpXS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Dj Maff](https://open.spotify.com/artist/1bPqRsnm0EOVC8vVaslV3x) | [Cenita en Komodo](https://open.spotify.com/album/63q9OyRPPciHpVSF5tVM6S) | 2:28 |
+| 9 | [Cenita en Komodo](https://open.spotify.com/track/0I3XYzVy6BQEvbtPUPbpXS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu) | [Cenita en Komodo](https://open.spotify.com/album/63q9OyRPPciHpVSF5tVM6S) | 2:28 |
 | 10 | [Me Pierdo Yo](https://open.spotify.com/track/0ss1nQ3rQl5jyHHBJpwKEX) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Me Pierdo Yo](https://open.spotify.com/album/6PHA7tivv4luhNiMm54hUp) | 2:48 |
 | 11 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 12 | [Quedate](https://open.spotify.com/track/6n9pbyxTdL98JGnsPzT4x9) | [Carter](https://open.spotify.com/artist/7sbnpAsOQCpnrlKmYc0bj8) | [Quedate](https://open.spotify.com/album/1qAhKrwG6EgZyXpyyViAwI) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Flores Ardientes](https://open.spotify.com/track/5mqj7IIp28OzoyxKgSf5Ie) | [SUA](https://open.spotify.com/artist/0OZqJ1PE4eMJ5rqz5TPMaJ) | [Flores Ardientes](https://open.spotify.com/album/27FpGzVfanxcadOLFiSgMA) | 3:16 |
 | 50 | [El cuarto espejo](https://open.spotify.com/track/4S0HEH6LquxEG1oUIMPTOn) | [AnagramA](https://open.spotify.com/artist/1gGrMnLqaLGprrw2CEGxVu), [Julia](https://open.spotify.com/artist/5Jcfh2ctTxgAI8OxmlSRhS) | [El cuarto espejo](https://open.spotify.com/album/3AtvqFofk7OKfeGaHDDxzk) | 4:08 |
 
-Snapshot ID: `MCw5MThmOWY3NjdkNzAzZDkyZDMwZTZiNjc1ZTYyZDY2Y2IwNzI1Yzll`
+Snapshot ID: `MCxhYmRlMDk2YTg3MTYxYzE1MDMyMmFhNmY2NzMyNTM4MjU5MTQ0NGIz`

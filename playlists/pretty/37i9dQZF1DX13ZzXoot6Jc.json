@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Benjamin Dakota Rogers",
-  "num_followers": 456369,
+  "num_followers": 456347,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDRlY2U2YzViODk5NWU2YWUzZmQ3NjZkMjA0YWM5OWJkM2RlZjMy",
+  "snapshot_id": "MCw4ZGZhZTAzNDk3YjhmYmI3ZDVhYWJkYTM0YTIyOTE5MmNlNjkwYTQ3",
   "tracks": [
     {
       "added_at": "2024-01-19 05:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "If We Were A Love Song",
-        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Daylight Savings",
-      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
         "name": "The Whiskey's Gone",
         "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 177186,
       "name": "The Whiskey's Gone",
       "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "If We Were A Love Song",
+        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
+        "name": "No Bad Days (featuring Jimmie Allen)",
+        "url": "https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 145499,
+      "name": "No Bad Days (featuring Jimmie Allen)",
+      "url": "https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
         "name": "Katie's Song",
         "url": "https://open.spotify.com/album/7EmpwNuutUbRVXItuf4eV7"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 166956,
       "name": "Shoulda Known Better",
       "url": "https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "No Bad Days (featuring Jimmie Allen)",
-        "url": "https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 145499,
-      "name": "No Bad Days (featuring Jimmie Allen)",
-      "url": "https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR"
     }
   ],
   "unique_name": "Country Favourites",

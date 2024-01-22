@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "AACHO",
+        "url": "https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX"
+      },
+      "artists": [
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "AACHO",
+      "url": "https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ"
+    },
+    {
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -2546,6 +2564,24 @@
       "duration_ms": 172500,
       "name": "In Da Getto - House Remix",
       "url": "https://open.spotify.com/track/3oF3vtJIOGoATqj4FaHdfs"
+    },
+    {
+      "album": {
+        "name": "MMV",
+        "url": "https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "International",
+      "url": "https://open.spotify.com/track/2bUknRSiVEwkyf91EtbkEt"
     },
     {
       "album": {

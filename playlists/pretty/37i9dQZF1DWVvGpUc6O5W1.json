@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42050,
+  "num_followers": 42067,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
+  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Percepc\u00edon",
-        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
         }
       ],
-      "duration_ms": 260812,
-      "name": "Qu\u00e8 Voy Hacer",
-      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
+      "duration_ms": 181386,
+      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
+      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
-      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
+      "duration_ms": 260812,
+      "name": "Qu\u00e8 Voy Hacer",
+      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Haci\u00e9ndola Buena",
+        "url": "https://open.spotify.com/album/7ucHxUOmlvCLkbhp8dISp6"
+      },
+      "artists": [
+        {
+          "name": "Xitlali Sarmiento",
+          "url": "https://open.spotify.com/artist/2iVFtC4FIq50YlHICk9FwG"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "\u00c9l Es Mejor Que T\u00fa",
+      "url": "https://open.spotify.com/track/7Bzv0zQH7p6QSot9M0kL4h"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Ladr\u00f3n",
         "url": "https://open.spotify.com/album/7pHm8lNVjsM8xJi0FqXbUs"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 194040,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/2PFGPKbUxaXSvCVY50XztN"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Haci\u00e9ndola Buena",
-        "url": "https://open.spotify.com/album/7ucHxUOmlvCLkbhp8dISp6"
-      },
-      "artists": [
-        {
-          "name": "Xitlali Sarmiento",
-          "url": "https://open.spotify.com/artist/2iVFtC4FIq50YlHICk9FwG"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "\u00c9l Es Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/7Bzv0zQH7p6QSot9M0kL4h"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+      },
+      "artists": [
+        {
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 209333,
       "name": "No Merec\u00edas Tanto Amor",
       "url": "https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
-      },
-      "artists": [
-        {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ni Mas Ni Menos",
-        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Escolta",
-          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
-        }
-      ],
-      "duration_ms": 177141,
-      "name": "Disque Amigos",
-      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Por Qu\u00e9 No Cambiamos",
         "url": "https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 181800,
       "name": "\u00bfPorqu\u00e9 No Cambiamos?",
       "url": "https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ni Mas Ni Menos",
+        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Escolta",
+          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
+        }
+      ],
+      "duration_ms": 177141,
+      "name": "Disque Amigos",
+      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Seguimos Firmes",
+        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucitos",
+          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Y Lo Que Le Sigue",
         "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 248866,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/1H1MOSnAIVLImWFDlIFYjW"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Seguimos Firmes",
-        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
-      },
-      "artists": [
-        {
-          "name": "Banda Saucitos",
-          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
-        }
-      ],
-      "duration_ms": 221638,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Seguimos Firmes",
+        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucitos",
+          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
+        }
+      ],
+      "duration_ms": 206928,
+      "name": "Vas a Recordarme",
+      "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Prohibido El Amor",
         "url": "https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 200983,
       "name": "Pude",
       "url": "https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Ese Soy Yo",
-        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Si Te Ven Conmigo",
-      "url": "https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU"
     }
   ],
   "unique_name": "Cancionero Joss Favela",

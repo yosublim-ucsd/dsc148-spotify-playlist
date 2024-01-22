@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 51646,
+  "2024-01-22": 51664,
   "date_first_scraped": "2022-10-27",
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
   "name": "This Is X Ambassadors",
@@ -461,7 +461,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 288826,
       "name": "forever, now",
       "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
@@ -949,6 +949,24 @@
       "duration_ms": 201773,
       "name": "Naked",
       "url": "https://open.spotify.com/track/3qHzSBZ4gVVZZmV3XB089s"
+    },
+    {
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "album": {

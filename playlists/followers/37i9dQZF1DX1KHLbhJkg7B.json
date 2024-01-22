@@ -1,27 +1,9 @@
 {
-  "2024-01-21": 104188,
+  "2024-01-22": 104253,
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
   "name": "Country Covers",
   "tracks": [
-    {
-      "album": {
-        "name": "\"Fall For You\"",
-        "url": "https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176061,
-      "name": "\"Fall For You\"",
-      "url": "https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh"
-    },
     {
       "album": {
         "name": "Rockstar",
@@ -1499,6 +1481,24 @@
       "duration_ms": 211208,
       "name": "Everybody's Talkin'",
       "url": "https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS"
+    },
+    {
+      "album": {
+        "name": "Fall For You",
+        "url": "https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176061,
+      "name": "Fall For You",
+      "url": "https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh"
     },
     {
       "album": {

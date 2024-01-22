@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0K0IoIF0ARUBsCeRrIs6iw">Daria Huber</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,886 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,893 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 45 | [Potrei](https://open.spotify.com/track/4SsIglycFBzyJs5V62NBDz) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Potrei](https://open.spotify.com/album/6ZZSMhzUcrdp8dyQKNy9Iz) | 2:22 |
 | 46 | [Zidane](https://open.spotify.com/track/4VpIutGlss4dinKTrA7EOG) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Zidane](https://open.spotify.com/album/7eSwAqy2xnaOLvz8yMkKP3) | 4:11 |
 | 47 | [Marchigiano](https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar) | [SANTO STEFANO](https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1) | [Marchigiano](https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp) | 2:43 |
-| 48 | [Philosophia / Save Me](https://open.spotify.com/track/5nraD9KqPszQmuT0wCSSUS) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Emotional Phases / Fasi Emotive](https://open.spotify.com/album/7cDzkluTZ5HTF5GPGNkxCa) | 3:31 |
+| 48 | [Philosophia/Save Me](https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Philosophia/Save Me](https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ) | 3:31 |
 | 49 | [Super9](https://open.spotify.com/track/3hqhK6p7w8dobyP6nlTRjN) | [Erika Lei](https://open.spotify.com/artist/2UgoJ1vvaUXjKXn7C8BXp0) | [Super9](https://open.spotify.com/album/3x909N70YmnXQDa55csaej) | 3:09 |
 | 50 | [JOKIC](https://open.spotify.com/track/2n2a2z8zvJiW0SCFpfUyAz) | [Medho Laine](https://open.spotify.com/artist/1FPlZpA48XK8WvFJ3vHvrm) | [JOKIC](https://open.spotify.com/album/3muiUloDTKnQ4XlVFFnirZ) | 2:07 |
 | 51 | [Film nella mia testa](https://open.spotify.com/track/0KAagoqqvBC9jJdGdp6cWZ) | [Tina Platone](https://open.spotify.com/artist/1Pr4XzbIFSYnKSTiABRRMH) | [Film nella mia testa](https://open.spotify.com/album/5apt1eiCXSwDtE6jEYcrfy) | 2:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [COLTRANE](https://open.spotify.com/track/5W6RMuWxrvcdVaaF0hcRYI) | [IRA](https://open.spotify.com/artist/6MwFkxrIKasel8oMaH2h9V) | [COLTRANE](https://open.spotify.com/album/3Ppcr4dDCSjfbqks18yD31) | 2:31 |
 | 55 | [CAMICIA](https://open.spotify.com/track/1w0VFCBAwFRHlrtIJ28kQY) | [Mazinga Paddon](https://open.spotify.com/artist/41hE2XbxlMwh2jpfUhHjLG) | [CAMICIA](https://open.spotify.com/album/6zfwL3VPDjpjFigvkdohBt) | 3:35 |
 
-Snapshot ID: `MCw2NjM2M2ZkOTdhZjQxNzgwNGJmZTA2ZDEzMDM2ZWE1OGVkNmU5ODQy`
+Snapshot ID: `MCxkMWEyOGZjOTM3NTBiOGUyY2YxNjM2YTFlODlkYzJiOTc4NWM2OWIx`

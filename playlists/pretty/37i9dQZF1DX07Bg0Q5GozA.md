@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,319 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,293 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 |
 | 75 | [Forevermore](https://open.spotify.com/track/4aSwhF2daSyaCqUYPSbrqh) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Forevermore](https://open.spotify.com/album/1MJ8xDif5W7wGQIQz63Dhi) | 3:09 |
 
-Snapshot ID: `MCwwZTZiNDYxZGMzM2VkN2ZkMDdmOGIxNDg5NmE2NGUzYTNkMDNkY2Ex`
+Snapshot ID: `MCw3N2FjYjEyNTM5ZTkyNTA3NzQ0MmQ0YTc2N2U0ZDc3YzcwNTFiMDFl`

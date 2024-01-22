@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,923 likes - 51 songs - 2 hr 46 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,967 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 13 | [Diva Drums](https://open.spotify.com/track/6f7fDS9gIPKCNB6MVijLsQ) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Diva Drums](https://open.spotify.com/album/5bo5yDSoZKDrZbkhj6eOgz) | 2:41 |
 | 14 | [What I Do](https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [What I Do](https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ) | 2:28 |
 | 15 | [Move With Tha](https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Move With Tha](https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ) | 3:06 |
-| 16 | [U Got Me \- CHANNE Remix](https://open.spotify.com/track/3f76KJi6flJjOsj3yIpRFN) | [Banju](https://open.spotify.com/artist/7ACx75gSxTQkBnRyB8oeKb), [CHANNE](https://open.spotify.com/artist/4yMPMUqchnqWSxwau0CHPE) | [U Got Me: CHANNE Remix](https://open.spotify.com/album/0ix1CuQl0cL9NOcWKnGhuo) | 5:52 |
-| 17 | [Worship Technology](https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Skonka](https://open.spotify.com/artist/7prWNv2plXHCHWTkQa4dDM), [TheConnect](https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0) | [Worship Technology](https://open.spotify.com/album/59BIcecdsJYLnQEnu0ihZ5) | 3:48 |
-| 18 | [To The Beat](https://open.spotify.com/track/5BpEAhjqs0rnyGS0NiNe0B) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [To The Beat](https://open.spotify.com/album/23wLWlhLPXxBgc0mvVnynb) | 2:01 |
-| 19 | [Lollipop](https://open.spotify.com/track/2lbFgAmsgEcRCEDJ2Yzjtf) | [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Lollipop](https://open.spotify.com/album/0HiQnInI5G5q2kwsgmyevx) | 3:33 |
-| 20 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 |
+| 16 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
+| 17 | [U Got Me \- CHANNE Remix](https://open.spotify.com/track/3f76KJi6flJjOsj3yIpRFN) | [Banju](https://open.spotify.com/artist/7ACx75gSxTQkBnRyB8oeKb), [CHANNE](https://open.spotify.com/artist/4yMPMUqchnqWSxwau0CHPE) | [U Got Me: CHANNE Remix](https://open.spotify.com/album/0ix1CuQl0cL9NOcWKnGhuo) | 5:52 |
+| 18 | [Worship Technology](https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Skonka](https://open.spotify.com/artist/7prWNv2plXHCHWTkQa4dDM), [TheConnect](https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0) | [Worship Technology](https://open.spotify.com/album/59BIcecdsJYLnQEnu0ihZ5) | 3:48 |
+| 19 | [To The Beat](https://open.spotify.com/track/5BpEAhjqs0rnyGS0NiNe0B) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [To The Beat](https://open.spotify.com/album/23wLWlhLPXxBgc0mvVnynb) | 2:01 |
+| 20 | [Lollipop](https://open.spotify.com/track/2lbFgAmsgEcRCEDJ2Yzjtf) | [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Lollipop](https://open.spotify.com/album/0HiQnInI5G5q2kwsgmyevx) | 3:33 |
 | 21 | [Body Music](https://open.spotify.com/track/4CZMw21KNrUidU6S3L5GqU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Body Music](https://open.spotify.com/album/3N0R6pwcb92mzIpo0b8Ri3) | 2:58 |
 | 22 | [What I'm Sayin](https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [What I'm Sayin](https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu) | 3:20 |
 | 23 | [Orange Soda](https://open.spotify.com/track/7KVcbULu13Gsweu8vVW44F) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Orange Soda](https://open.spotify.com/album/4Xs1ZoQaUlvpbcQ0r5aw60) | 3:46 |
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 49 | [Side To Side](https://open.spotify.com/track/6kWcaNlZLj4jNgWVtgbPVF) | [Raffee](https://open.spotify.com/artist/4C5gEJPoGCLKrky96WWelc) | [Los Chicos Del Arbol Vol\. 15](https://open.spotify.com/album/24VF1cndS0QcN1OVsVg9ku) | 5:25 |
 | 50 | [Do It Like Me](https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz) | [Logan Camin](https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o) | [Do It Like Me](https://open.spotify.com/album/2nrliuY92znfzFnihbY20f) | 3:04 |
 | 51 | [Dynamites \- Radio Edit](https://open.spotify.com/track/7xEqJeQfyxTiLadzqva6my) | [Jonk & Spook](https://open.spotify.com/artist/6iIYgGL8ey9QXv82z41c5c) | [Dynamites](https://open.spotify.com/album/62ts1jNjvFpBHwUmXPOi9e) | 3:35 |
+| 52 | [Like WTF](https://open.spotify.com/track/1VsntaYUROfIQfeMDFEfXJ) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 3:02 |
 
-Snapshot ID: `ODI4NiwxNTRjOGQwMDRhZjY2NmEwZDA1Yjg0NThlMmY0YTI5YWUwNGUyZGE4`
+Snapshot ID: `ODI5MCwxZWUyYjczMGRmN2NhYTU2ZWQ5ZGM2ZGRhOTA0MDk5YjhlMjczMzgy`

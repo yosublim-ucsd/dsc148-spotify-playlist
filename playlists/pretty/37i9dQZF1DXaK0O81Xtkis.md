@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Crash Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,872 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,876 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 6 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 7 | [Look Mom](https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP), [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Look Mom](https://open.spotify.com/album/67EduQ0YlRpR9YKyEvsztu) | 2:29 |
 | 8 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 |
-| 9 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 |
+| 9 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
 | 10 | [Good Times](https://open.spotify.com/track/6xmC6hWdB1AB9diRWOvPqF) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc), [Sebastian Portillo](https://open.spotify.com/artist/7bPLLsPQtnx0caBHfFaHnT) | [Good Times](https://open.spotify.com/album/1gVuRWBqlFYBvKTCtpAVlD) | 2:56 |
 | 11 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 12 | [Think That You're Lonely](https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [Think That You're Lonely](https://open.spotify.com/album/546p326ke1CQwiEda6E9ZL) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 |
 | 50 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
 
-Snapshot ID: `MCw5NTQ1ZGIxMzg2NGJlYmYwODhjYjNlM2YxMThhNjZmZmZmNjc3N2Vi`
+Snapshot ID: `MCxkNDhmMTQzZGRhMzk3NmMzNGY1NGMzZWY5YTk2NmNkZjU3MGUwNmRl`

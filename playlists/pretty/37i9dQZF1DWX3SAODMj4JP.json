@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 134300,
+  "num_followers": 134347,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDU3MTk2YjEzYWVmM2Y0YzAyZjA0ZmRjNGMzZjFjMDY0OTZhNDYx",
+  "snapshot_id": "MCxmNzQzMTlkOTM5ZjZkOGY2NjQ4YTIzNjljZTRlMmVlYTAzMDNkNDNi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Dear God (Acoustic)",
+        "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Anna Asbury",
+          "url": "https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Dear God - Acoustic",
+      "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Todos Um",
         "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Dear God (Acoustic)",
-        "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        },
-        {
-          "name": "Anna Asbury",
-          "url": "https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Dear God - Acoustic",
-      "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Tributo A Iehovah (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        }
-      ],
-      "duration_ms": 367530,
-      "name": "Tributo A Iehovah - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "M\u00e3o No Arado",
         "url": "https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 210495,
       "name": "M\u00e3o No Arado",
       "url": "https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Tributo A Iehovah (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "duration_ms": 367530,
+      "name": "Tributo A Iehovah - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
     },
     {
       "added_at": "2023-10-06 04:04:27",

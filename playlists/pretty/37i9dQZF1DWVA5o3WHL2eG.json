@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32987,
+  "num_followers": 32982,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
+  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Stadt Gespr\u00e4ch",
-        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Stadt Gespr\u00e4ch",
-      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Sneaky Link",
         "url": "https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 157582,
       "name": "Sneaky Link",
       "url": "https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Stadt Gespr\u00e4ch",
+        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Stadt Gespr\u00e4ch",
+      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 194461,
       "name": "Places",
       "url": "https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Nothing's Set In Stone",
-        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
-      },
-      "artists": [
-        {
-          "name": "Krak\u00f3w Loves Adana",
-          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
-        }
-      ],
-      "duration_ms": 199844,
-      "name": "Nothing's Set In Stone",
-      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Allerletzter Tag",
         "url": "https://open.spotify.com/album/6nemsAh2qUgGijKAoAjIfm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 179922,
       "name": "Allerletzter Tag",
       "url": "https://open.spotify.com/track/0ScRAPcV190fYvLeSAIVZw"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Nothing's Set In Stone",
+        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
+      },
+      "artists": [
+        {
+          "name": "Krak\u00f3w Loves Adana",
+          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
+        }
+      ],
+      "duration_ms": 199844,
+      "name": "Nothing's Set In Stone",
+      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
     },
     {
       "added_at": "2024-01-09 23:00:00",

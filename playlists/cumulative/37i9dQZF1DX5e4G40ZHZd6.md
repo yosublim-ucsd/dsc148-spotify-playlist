@@ -4,7 +4,7 @@
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-61 songs - 4 hr 10 min
+62 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Can't See, Baby](https://open.spotify.com/track/3emq1lvTCfXAzD1HjuA9xw) | [Jack Owens](https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5), [Bud Spires](https://open.spotify.com/artist/0y8ILRe8bg3IOiv64dF4z9) | [It Must Have Been The Devil](https://open.spotify.com/album/55H4wEobYEm5G4AhpeyT1V) | 6:05 | 2021-06-24 |  |
 | [Catfish Blues, No\. 3 \(Take 2\)](https://open.spotify.com/track/2VOhiaWNPoLsFTdlhTQyNX) | [Asie Payton](https://open.spotify.com/artist/6ufKm1SiYNIca3hTeRtx0t) | [Blues At Home 13](https://open.spotify.com/album/5HUleHoFAd5xXhslNKk7jU) | 3:48 | 2021-06-24 |  |
 | [Coal Black Mattie](https://open.spotify.com/track/4WRxKKnvqA8ZgPLtAjc4mC) | [Ranie Burnette](https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU) | [Ranie Burnette](https://open.spotify.com/album/3Tg4j9RP1V2SB6bNXsvO4B) | 4:43 | 2021-06-24 |  |
-| [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2021-06-24 |  |
+| [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2021-06-24 | 2024-01-22 |
+| [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 | 2021-06-24 |  |
 | [Crawling King Snake](https://open.spotify.com/track/54sDLGJbVFD6tpRewZuxJZ) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Sad Days, Lonely Nights](https://open.spotify.com/album/2g1i64zCARGWm8i2k3ipGK) | 4:50 | 2021-06-24 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2021-06-24 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-06-24 | 2022-07-29 |

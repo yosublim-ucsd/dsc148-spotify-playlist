@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 49018,
+  "num_followers": 49074,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhMDQ2NTllZTQ0ZWM3ZTUxODViOTFlNGM5ZTRmMTcwODg0MGEy",
+  "snapshot_id": "MCxmNTI2Y2Y5MzkwODI0MTk0NzE5MjdjMzhkYzk2ODhkZTExNzlhYzQ5",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 233351,
       "name": "Bawalah Cintaku",
       "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Bukan Cinta Biasa",
+      "url": "https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Kenyataan Perasaan",
-        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 270671,
-      "name": "Tapi Bukan Aku",
-      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "07 Des",
         "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
       },
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
         }
       ],
-      "duration_ms": 251480,
-      "name": "Bukan Cinta Biasa",
-      "url": "https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m"
+      "duration_ms": 270671,
+      "name": "Tapi Bukan Aku",
+      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Yang Terpilih",
         "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 248133,
       "name": "Terlalu Cinta",
       "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Tak Lekang Oleh Waktu",
-        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 282474,
-      "name": "Demi Cinta",
-      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+        "name": "Tak Lekang Oleh Waktu",
+        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
         }
       ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+      "duration_ms": 282474,
+      "name": "Demi Cinta",
+      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 245232,
+      "name": "Jodoh Pasti Bertemu",
+      "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 279289,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Seperti Kisah",
-        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 279031,
-      "name": "Seperti Kisah",
-      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 245232,
-      "name": "Jodoh Pasti Bertemu",
-      "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Kisah Klasik Untuk Masa Depan",
         "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 295520,
       "name": "Sephia",
       "url": "https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Seperti Kisah",
+        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 279031,
+      "name": "Seperti Kisah",
+      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
         }
       ],
-      "duration_ms": 274539,
-      "name": "Panah Asmara",
-      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
+      "duration_ms": 285693,
+      "name": "Sumpah dan Cinta Matiku",
+      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "King of Soundtrack",
-        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Nidji",
-          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 285693,
-      "name": "Sumpah dan Cinta Matiku",
-      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
+      "duration_ms": 274539,
+      "name": "Panah Asmara",
+      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
     },
     {
       "added_at": "2024-01-12 06:34:07",

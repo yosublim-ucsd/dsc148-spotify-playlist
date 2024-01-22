@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from EKKSTACY & The Kid Laroi, Green Day, LU KALA, Owen Riegling and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,380 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,354 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Too Slow](https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Too Slow](https://open.spotify.com/album/7KuDTDQQGfC5rVqt9J23rw) | 2:07 |
 | 100 | [Honest Love](https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Honest Love](https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV) | 3:54 |
 
-Snapshot ID: `MCw5NTViMmM0YWExZTgwZTM4NWQ2YmZjMTRjM2EzN2VjZTg2MDBlNjZl`
+Snapshot ID: `MCw4NDUzZTAwNzI5ZmI1MGM1NzQ4NGUxMjg1NGRhY2YxNDFkMDZjOTg1`

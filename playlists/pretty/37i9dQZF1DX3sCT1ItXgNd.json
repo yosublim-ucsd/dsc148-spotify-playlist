@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: \u00c1lvaro de Luna",
-  "num_followers": 979306,
+  "num_followers": 979101,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDg2ZjY5ZTFjYTU0YmRmNTAyN2ZkODM2Mjk5OTU3YzMzNzc0NGRh",
+  "snapshot_id": "MCwxNGY5MTA3MzAzYzMwZWRjMDRjMTY4NzYzZTdiY2IyZWZiYTk4MjEx",
   "tracks": [
     {
       "added_at": "2024-01-18 23:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -467,6 +483,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "Lo Que Queda de M\u00ed",
+        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 230867,
+      "name": "Lo Que Queda de M\u00ed",
+      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "SUPERH\u00c9ROES",
         "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
       },
@@ -487,18 +519,18 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Lo Que Queda de M\u00ed",
-        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
       "artists": [
         {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 230867,
-      "name": "Lo Que Queda de M\u00ed",
-      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -519,38 +551,6 @@
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "ALICANTINA",
+        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "ALICANTINA",
+      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "S\u00e9 lo Que Hicisteis",
         "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 209265,
       "name": "S\u00e9 lo Que Hicisteis",
       "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "ALICANTINA",
-        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "ALICANTINA",
-      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "PELO RIZAO",
         "url": "https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 194136,
       "name": "PELO RIZAO",
       "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -967,6 +967,30 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "LAS BURBUJAS DEL JACUZZI",
+        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 156917,
+      "name": "LAS BURBUJAS DEL JACUZZI",
+      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "La Balada",
         "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
       },
@@ -979,6 +1003,26 @@
       "duration_ms": 225750,
       "name": "La Balada",
       "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1047,26 +1091,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -1087,46 +1111,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "La \u00daltima",
-        "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 203528,
-      "name": "La \u00daltima",
-      "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "LAS BURBUJAS DEL JACUZZI",
-        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 156917,
-      "name": "LAS BURBUJAS DEL JACUZZI",
-      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "A Oscuras",
         "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "La \u00daltima",
+        "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 203528,
+      "name": "La \u00daltima",
+      "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
     },
     {
       "added_at": "2024-01-18 23:01:00",

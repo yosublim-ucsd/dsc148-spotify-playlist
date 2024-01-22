@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 160384,
+  "num_followers": 160438,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWE2Mjk4NmU5YzMwZTgwNDYzMTk2MWI3Mzk1NjYxYzJhNzYxYWZh",
+  "snapshot_id": "MCw1N2Y0NmFhZTQ4MTFmOTBhNjI4YTNhODMzODhjOWYyMjQyMWQzODM0",
   "tracks": [
     {
       "added_at": "2024-01-05 13:31:22",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 185430,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Joquebede",
         "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 169306,
       "name": "Joquebede",
       "url": "https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Reino",
-      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Paracetamol (Divisa de Fogo)",
-        "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 161701,
-      "name": "Paracetamol (Divisa de Fogo)",
-      "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 160062,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Paracetamol (Divisa de Fogo)",
+        "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 161701,
+      "name": "Paracetamol (Divisa de Fogo)",
+      "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
+        "name": "100 Versos",
+        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
+      "duration_ms": 158663,
+      "name": "100 Versos",
+      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -575,34 +575,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "100 Versos",
-        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         }
       ],
-      "duration_ms": 158663,
-      "name": "100 Versos",
-      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Viv\u00e3o",
-      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -619,6 +603,22 @@
       "duration_ms": 114580,
       "name": "Filho Pr\u00f3digo",
       "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 162272,
+      "name": "Viv\u00e3o",
+      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Iluminado",
         "url": "https://open.spotify.com/album/3abfGJFzmLauIG9MMgKVCj"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 212000,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/1y1CYkm1NQ8porSxBVK4B1"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Love Jesus #1 - Caminhos da Vida",
         "url": "https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN"
       },
@@ -1403,22 +1379,26 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
       "artists": [
         {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1439,6 +1419,26 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
       },
       "artists": [
         {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Azero",
+          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+      "duration_ms": 180000,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1563,46 +1567,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Senhor",
-        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 218342,
-      "name": "Senhor",
-      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Meu Primeiro Amor",
-        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Azero",
-          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -1627,6 +1591,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "eu vi",
         "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 179310,
       "name": "eu vi",
       "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Senhor",
+        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 218342,
+      "name": "Senhor",
+      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
     },
     {
       "added_at": "2024-01-05 13:31:22",

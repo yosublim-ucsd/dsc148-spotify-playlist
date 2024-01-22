@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 54538,
+  "2024-01-22": 54584,
   "date_first_scraped": "2022-05-13",
   "description": "Go hard or go home. Cover: Skepsis",
   "name": "Jump Up!",
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 167441,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK"
@@ -2635,6 +2635,28 @@
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
+    },
+    {
+      "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204171,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
     },
     {
       "album": {

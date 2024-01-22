@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem LUDMILLA, Hugo & Guilherme, Grupo Menos é Mais, Vintage Culture e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,734 likes - 96 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,568 likes - 96 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Tô Amando Isso](https://open.spotify.com/track/4a5fKGSR9naapuPTrYrYTf) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [LOCOS](https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE) | [Tô Amando Isso](https://open.spotify.com/album/4qaH6y4Fxoei7reA1IDJ5K) | 1:58 |
 | 96 | [Me Carregue](https://open.spotify.com/track/07pGqu5f1tfPPZ5ia6KhXg) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Pequenas Mortes](https://open.spotify.com/album/2IGWSRNMe4d2ANxRa6NQh7) | 3:53 |
 
-Snapshot ID: `MCw3MGIwZmRkNmFiY2YwMDAxYzdiYjIzNWE1NmYxODk0YjM2ZGI0Zjlj`
+Snapshot ID: `MCxmM2Y2YmNhNzYwNmYyYjFjOTUwYmM0MzRhM2FmZjQ3ZDIwOGRmZjNh`

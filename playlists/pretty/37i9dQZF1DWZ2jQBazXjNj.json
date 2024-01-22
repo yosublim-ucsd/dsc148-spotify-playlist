@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 56884,
+  "num_followers": 57065,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm",
+  "snapshot_id": "MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw",
   "tracks": [
     {
       "added_at": "2024-01-12 07:10:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Mientras Otros Duermen",
-        "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 164823,
-      "name": "Ignorantes",
-      "url": "https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 246682,
       "name": "Antolog\u00eda",
       "url": "https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Mientras Otros Duermen",
+        "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "duration_ms": 164823,
+      "name": "Ignorantes",
+      "url": "https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D"
     },
     {
       "added_at": "2024-01-12 07:10:12",

@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 46321,
+  "2024-01-22": 46360,
   "date_first_scraped": "2023-10-23",
   "description": "Uma chuva calma e tranquila para te fazer companhia.",
   "name": "Chuva Leve",
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 183791,
       "name": "Morning Rain",
       "url": "https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP"
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 180000,
       "name": "Pastures (Rain)",
       "url": "https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ"

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207690,
+  "num_followers": 207639,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
+  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Esp\u00edritu Combativo",
-        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
-      },
-      "artists": [
-        {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
-        }
-      ],
-      "duration_ms": 218729,
-      "name": "Castigador por Herencia",
-      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Khafra",
         "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 182323,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Esp\u00edritu Combativo",
+        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 218729,
+      "name": "Castigador por Herencia",
+      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Bajo la Cruz",
-        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6rihen",
-          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
-        }
-      ],
-      "duration_ms": 295263,
-      "name": "Vida Eterna",
-      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Plan Mundial Para La Destrucci\u00f3n",
         "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Bajo la Cruz",
+        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6rihen",
+          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
+        }
+      ],
+      "duration_ms": 295263,
+      "name": "Vida Eterna",
+      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
     },
     {
       "added_at": "2023-04-28 03:00:00",

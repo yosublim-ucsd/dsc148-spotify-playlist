@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 138281,
+  "2024-01-22": 138437,
   "date_first_scraped": "2022-01-26",
   "description": "A soft and slow soundtrack to play in the background to all your activities.",
   "name": "Soft Jazz",
@@ -2914,6 +2914,24 @@
     },
     {
       "album": {
+        "name": "Comin' Home",
+        "url": "https://open.spotify.com/album/6ncZ5omXi25febQFNuXSAs"
+      },
+      "artists": [
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239462,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/37TT49ibO443nURgjFI5wd"
+    },
+    {
+      "album": {
         "name": "Conceptions",
         "url": "https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw"
       },
@@ -5611,7 +5629,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 207209,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1xT1oXKgaP2ClNUPioeFdi"
@@ -7269,7 +7287,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 240574,
       "name": "It Could Be You",
       "url": "https://open.spotify.com/track/2FaDx6Rg1XlZddCJhkP7r1"
@@ -7515,6 +7533,24 @@
       "duration_ms": 192549,
       "name": "It\u2019s not a novel",
       "url": "https://open.spotify.com/track/2328JsPTUOHvx7eiEaIxJN"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll pass it on",
+        "url": "https://open.spotify.com/album/5TaXOrq4aq7T4CtyfB6nbB"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214635,
+      "name": "I\u2019ll pass it on",
+      "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
     },
     {
       "album": {
@@ -9819,7 +9855,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 292874,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/16IH7Ql0HSpkAA12Qy40Kv"
@@ -9837,7 +9873,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 206338,
       "name": "My Perennial Companion",
       "url": "https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh"
@@ -10363,6 +10399,24 @@
       "duration_ms": 220380,
       "name": "Nothing You Can't Do",
       "url": "https://open.spotify.com/track/6xRFZWwjRW2AIGtM8Bnsfx"
+    },
+    {
+      "album": {
+        "name": "November Fall",
+        "url": "https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE"
+      },
+      "artists": [
+        {
+          "name": "Farmer Street Quartet",
+          "url": "https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238562,
+      "name": "November Fall",
+      "url": "https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad"
     },
     {
       "album": {
@@ -12171,7 +12225,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 176680,
       "name": "Slow Motion Blues - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz"
@@ -12524,6 +12578,24 @@
     },
     {
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
+    },
+    {
+      "album": {
         "name": "Somewhere Only We Go",
         "url": "https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ"
       },
@@ -12669,7 +12741,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 230232,
       "name": "Soulful Serenade",
       "url": "https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA"
@@ -13727,7 +13799,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 238681,
       "name": "The Big Year",
       "url": "https://open.spotify.com/track/3Di1FOtznFLCR1EMqAP0B4"
@@ -15725,7 +15797,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 276642,
       "name": "When the Gods Awake",
       "url": "https://open.spotify.com/track/0GFpLuRPlyCRCDHBgcF6gB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,495 likes - 138 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,533 likes - 138 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 47 | [GLITTER HORIZON by Ray\_Oh](https://open.spotify.com/track/46YNhz2iikVKZnSwYnKLGn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Ray\_Oh](https://open.spotify.com/artist/0Fj8TqIKuZMy6jV6Rh3ksg) | [Sukatto natubare!☀hachamecha beach de do\-n da Yo !](https://open.spotify.com/album/7eF4gHUz3mQ2b9PqmTtmp8) | 3:13 |
 | 48 | [PRECIOUS NIGHT](https://open.spotify.com/track/70E8iQmFwLKzYDdaGlyyrO) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ハレトキドキ](https://open.spotify.com/artist/6nU3k3VQREJ4fiUafZzmwH), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [PRECIOUS NIGHT](https://open.spotify.com/album/7tIumwmVAVf6PilLZ1s7sX) | 4:32 |
 | 49 | [Sweet Illusion](https://open.spotify.com/track/3NS4FZSiLcwkVrgGdSUIEI) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw) | [Sweet Illusion](https://open.spotify.com/album/5UkeLvWAFmmCo4ogCKQ2ZL) | 3:57 |
-| 50 | [Cinderella Magic Stage](https://open.spotify.com/track/4i5Z3kLt4j7wrsp0HdhSVU) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [Cinderella Magic Stage](https://open.spotify.com/album/0RwGN4h39P816HrnYrKhf6) | 4:39 |
+| 50 | [Cinderella Magic Stage](https://open.spotify.com/track/7GnxRIkFRDwUIf1ochdAmj) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [Angel Gelato](https://open.spotify.com/album/51cK6Xcabb1gscFpfvqt6e) | 4:38 |
 | 51 | [Be All Right](https://open.spotify.com/track/3bYDKIuE1iwwwUTrZQxiyC) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [Be All Right](https://open.spotify.com/album/1YHbPuMhTiamHXWmF00iK5) | 4:31 |
 | 52 | [Fantasia of Salvation](https://open.spotify.com/track/30BZO8w8Il1gQhJP6PhUAn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Fantasia of Salvation](https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18) | 3:41 |
 | 53 | [THE ONE](https://open.spotify.com/track/5G7iWfLidPNFKgnq2M5Klw) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [THE ONE](https://open.spotify.com/album/0Zu5SmlTbjp1pHRbBFkcuu) | 3:33 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 137 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 138 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCw3YzU4YmE5YjI2OGJhOGE4ZDEwNWU3YmYxYTJjZGFjYTBhZmQyNjk3`
+Snapshot ID: `MCwyMjBkN2UwMzliMzgxNzcxNGNiMmZkMGM4OGU0YjU2MzRmNjdiNThh`

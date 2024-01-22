@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Tripolare in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,477 likes - 86 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,475 likes - 86 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 85 | [Blondie](https://open.spotify.com/track/2GgxYlSLifYY64m0wM05un) | [Veronica+](https://open.spotify.com/artist/4mdUjVc6TvMQqIpMe8HaBo) | [Blondie](https://open.spotify.com/album/18blAWeu1dFxh1G3TEum84) | 2:39 |
 | 86 | [DAG](https://open.spotify.com/track/67kIdMby8nlaFAWMpiYoEz) | [Silly Sam](https://open.spotify.com/artist/2Xt16y9iLI16gSYQ0yhkHm), [Charlie Amendola](https://open.spotify.com/artist/4EvzRasrLVWFgXQkWbqLYG), [ZEEGO](https://open.spotify.com/artist/0PLjcUmz6lzISMUChTBMhy) | [DAG](https://open.spotify.com/album/2V9yHswrCXhEPchn0pxYul) | 2:55 |
 
-Snapshot ID: `MCwwNDQzZTk2NmYyNTM3YzViZTdiMjY4MzMwNmIxYmU5NGNlNmEzZGY2`
+Snapshot ID: `MCxiNWEwODU1YTNjMWRjODg1MTExOTBhOTA4NGM4NWU2MDg0ZjljZDdk`

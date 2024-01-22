@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,238 songs - 3 day 0 hr 14 min
+1,239 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [Indian Summer](https://open.spotify.com/track/3YZJIHIX3kPd5wLwKLWIZA) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Indian Summer](https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0) | 3:20 | 2020-10-30 | 2021-09-25 |
 | [Indian Summer](https://open.spotify.com/track/42nkVBjWYVhiijbof5zySm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/2afNG92zO2m0WT1FvU8PvA) | 4:08 | 2019-08-09\* | 2019-08-27 |
 | [Indigo](https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Indigo](https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq) | 3:13 | 2023-08-18 |  |
-| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-11-18 |  |
+| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-11-18 | 2024-01-22 |
 | [Innocence](https://open.spotify.com/track/55tgN8h3WLm7cgVEFoc3UB) | [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [The Lost Youth](https://open.spotify.com/album/0BVWINRI9mlPUFHkdXvCH4) | 1:52 | 2020-06-04 | 2021-09-11 |
 | [Inside Out](https://open.spotify.com/track/4GdYM1hIvRfK8keBF2eQ1a) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Collage EP](https://open.spotify.com/album/22rp3PnM3q2mtTI0OGCzpq) | 3:53 | 2020-04-16 | 2021-05-08 |
 | [Inside Out](https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Inside Out](https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV) | 3:53 | 2019-08-09\* | 2019-09-04 |
@@ -933,6 +933,7 @@
 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 | 2019-08-09\* | 2019-10-14 |
 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 | 2022-12-02 |  |
 | [Somebody](https://open.spotify.com/track/46hzMcgAeemcnGmMUAfX93) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Somebody](https://open.spotify.com/album/3o6cqWZ80KnWs99pG2EShI) | 3:30 | 2020-03-29 | 2021-09-11 |
+| [Somebody \(feat\. upsidedownhead\)](https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO), [upsidedownhead](https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB) | [Midnight Highlight](https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm) | 3:14 | 2024-01-19 |  |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-06-17 | 2022-11-26 |
 | [Somebody Like U](https://open.spotify.com/track/4WRuXBk6nAFxOZ4l8Pxzpl) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 3:11 | 2022-11-18 | 2022-11-30 |
 | [Somebody Like U](https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 3:11 | 2022-11-18 | 2023-04-09 |

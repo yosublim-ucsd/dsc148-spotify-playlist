@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ahlan Wa Sahlan",
+        "url": "https://open.spotify.com/album/4fkLIVBIc2i2Vb0jJtXItO"
+      },
+      "artists": [
+        {
+          "name": "Al-Qasar",
+          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184682,
+      "name": "Ahlan Wa Sahlan",
+      "url": "https://open.spotify.com/track/6BDTIKl7bRtdm199pjvCQS"
+    },
+    {
+      "album": {
         "name": "Arabic Rock Orchestra",
         "url": "https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 222156,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"

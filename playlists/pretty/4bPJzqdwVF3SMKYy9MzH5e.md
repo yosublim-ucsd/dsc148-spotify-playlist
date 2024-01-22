@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,850 songs - 4 day 4 hr 0 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,852 songs - 4 day 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -872,7 +872,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 862 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 863 | [Methatonin](https://open.spotify.com/track/6ZMdte1fFEnDcaUndKs8TA) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:03 |
 | 864 | [Straight To Video](https://open.spotify.com/track/1og9xlfpYrCNnVGRqSBHWs) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:43 |
-| 865 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 |
+| 865 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/7wwbjLs0cXSVT3jb33e95G) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 |
 | 866 | [OUTSIDE](https://open.spotify.com/track/193WM8SfGp3y5ZQjD0qSOD) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [BEST HOUSE ON A BAD BLOCK](https://open.spotify.com/album/20S2pxu7617ZzH7lJA4kKL) | 2:32 |
 | 867 | [July](https://open.spotify.com/track/30cRWMiTcYCezJEZ7nsUAo) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:08 |
 | 868 | [Birthday Bitch](https://open.spotify.com/track/6oGC8yJo0FAd4L7Cqp4zJ8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Birthday Bitch](https://open.spotify.com/album/6ydhoN0onFh7MArs9PiGey) | 3:36 |
@@ -1858,5 +1858,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1848 | [What Was Really Said](https://open.spotify.com/track/7dO1Pnoy2Evv4QyL1fimWc) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:33 |
 | 1849 | [Alto Saxophone Sonatina: III\. Allegretto](https://open.spotify.com/track/6UDByt65uoaq4HPtsRpzWp) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 2:21 |
 | 1850 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/67d61xaEAHgejORdRW1Bxt) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM \(SLOW & HARD VERSION\)](https://open.spotify.com/album/5Y2ksEFO3x9uS88JKIhbGy) | 3:30 |
+| 1851 | [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 |
+| 1852 | [I'Il die next summer \(no joke\)](https://open.spotify.com/track/6Srw8p5X0jYa6fU8nV0x7X) | [DRXG ADXICTION](https://open.spotify.com/artist/0bpNZLmtUlD2ziShWYEVUi), [RAGEIX](https://open.spotify.com/artist/2TxcnTACuVJ1wA1f7U6G4Y) | [I'Il die next summer \(no joke\)](https://open.spotify.com/album/4jbsTDSSba0q1gbKPyhlp5) | 2:53 |
 
-Snapshot ID: `NzAxLGNhYmRjNjE2YzdkNDczMmM3OGEyM2VhMGU5MjllMzJlOTRkYmM5MGI=`
+Snapshot ID: `NzAzLDU0Yzc0YTAzNjljNjY4ZDE4ZmQ1M2E5M2VhNmM5ODQ3MTdiYTEwZmI=`

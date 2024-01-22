@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-227 songs - 12 hr 3 min
+228 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [In My Mind \(feat\. Crystal Waters\)](https://open.spotify.com/track/5oE4XVIk2BM2M6f2KBFiNQ) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [In My Mind \(feat\. Crystal Waters\)](https://open.spotify.com/album/4fUxC04ujnMOcB6q6gJD48) | 2:32 | 2022-04-22 | 2022-05-12 |
 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 | 2023-03-14 | 2023-04-26 |
 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2021-12-03 | 2023-12-02 |
-| [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-11-13 |  |
+| [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-11-13 | 2024-01-22 |
+| [IT GIRL \- Sped up Version](https://open.spotify.com/track/3dtzk6pwRzb9OTlInQGEdo) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/6Vo7CAjDxSElpcVrAklmMp) | 2:35 | 2024-01-19 |  |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2021-12-03 | 2022-04-17 |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-24 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 | 2023-11-14 |

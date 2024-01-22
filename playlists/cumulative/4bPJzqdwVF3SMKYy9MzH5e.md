@@ -4,7 +4,7 @@
 
 > 
 
-1,853 songs - 4 day 4 hr 12 min
+1,855 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Amor de red social](https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor de red social](https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz) | 3:50 | 2021-08-05 |  |
 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 | 2021-08-05 |  |
 | [AMV](https://open.spotify.com/track/2tCzoavZgN8Hnoy31NNGNi) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/60xhnCT75qhoZJOobUrLVP) | 2:18 | 2021-08-05 |  |
+| [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 | 2024-01-21 |  |
 | [Anaesthetic](https://open.spotify.com/track/6lRdovH3VyWlCgOTTShr3A) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [&&&&&](https://open.spotify.com/album/0KcW8BN4ogk6Rx8QjiCQk6) | 2:13 | 2021-12-30 |  |
 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 | 2021-08-05 |  |
 | [Angel Angel Down We Go Together \- 2011 Remaster](https://open.spotify.com/track/3BKHNOsYCU7YTHQ0jJM5wQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 1:39 | 2022-04-03 |  |
@@ -816,6 +817,7 @@
 | [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 | 2021-08-05 |  |
 | [I'd Love To Change The World \- Matstubs Remix](https://open.spotify.com/track/6ce17pZwsMcYNab5IaC5MQ) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d) | [I'd Love To Change The World \(Matstubs Remix\)](https://open.spotify.com/album/6Rrkbe2xgFPfCF2frnzUg3) | 3:09 | 2021-08-05 |  |
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2021-08-05 |  |
+| [I'Il die next summer \(no joke\)](https://open.spotify.com/track/6Srw8p5X0jYa6fU8nV0x7X) | [DRXG ADXICTION](https://open.spotify.com/artist/0bpNZLmtUlD2ziShWYEVUi), [RAGEIX](https://open.spotify.com/artist/2TxcnTACuVJ1wA1f7U6G4Y) | [I'Il die next summer \(no joke\)](https://open.spotify.com/album/4jbsTDSSba0q1gbKPyhlp5) | 2:53 | 2024-01-22 |  |
 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 | 2021-08-05 |  |
 | [I'll Go Home Then \- Radio Edit](https://open.spotify.com/track/50vAi3hmxhTMtPCUQFPN8t) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 1:53 | 2022-09-02 |  |
 | [I'm a Slave 4 U](https://open.spotify.com/track/7x48rVuxpQAsaoQ56XX8bx) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 3:23 | 2022-04-26 |  |
@@ -1166,7 +1168,7 @@
 | [Nothing Special](https://open.spotify.com/track/653D64DIGoDXYlODZWRYKC) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:59 | 2023-04-13 |  |
 | [Noticed I Cried](https://open.spotify.com/track/5w9YU63asHqNFyWq3nCsSl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:22 | 2021-11-14 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2021-12-30 |  |
-| [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2021-08-05 |  |
+| [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/7wwbjLs0cXSVT3jb33e95G) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2021-08-05 |  |
 | [NTR Ending \(Cardiac Arrest Due To Overdose\)](https://open.spotify.com/track/0MW6BQ2nXZL1cngFIsqSol) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Sewer//Slvt](https://open.spotify.com/album/2lsyvCgoYFeXdfffX9Bl4T) | 3:22 | 2022-08-08 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2021-08-05 |  |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2021-08-05 |  |

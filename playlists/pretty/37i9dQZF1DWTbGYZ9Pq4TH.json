@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174329,
+  "num_followers": 174326,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjg4Yjk2NDA4OWMwOWNiYzI1NjU4YjUxZjAxNDYzOTQ4OTQ2OWM4",
+  "snapshot_id": "MCwxNDFlODNlYzViZjNjMmEwY2RlZTk3YThjYmExZjg1Y2RiY2E1YzY2",
   "tracks": [
     {
       "added_at": "2024-01-17 10:21:34",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Mi Fai Stare Bene",
         "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 238413,
       "name": "Iris (Tra Le Tue Poesie)",
       "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
@@ -575,18 +559,34 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
+      },
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Umberto Tozzi",
-          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 251413,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
-      },
-      "artists": [
-        {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Nessuno \u00e8 solo",
         "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 272946,
       "name": "Ti scatter\u00f2 una foto",
       "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
+        "name": "111 Centoundici",
+        "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Sere nere",
+      "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 211093,
       "name": "Una finestra tra le stelle",
       "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "111 Centoundici",
-        "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Sere nere",
-      "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
     },
     {
       "added_at": "2024-01-17 10:21:34",

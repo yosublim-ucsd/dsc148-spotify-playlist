@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 911918,
+  "2024-01-22": 911497,
   "date_first_scraped": "2022-01-02",
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. En portada: Prince Royce y Gabito Ballesteros",
   "name": "Novedades Viernes Latinoam\u00e9rica",
@@ -16565,6 +16565,44 @@
       "duration_ms": 229017,
       "name": "Boyz In Da House",
       "url": "https://open.spotify.com/track/2CEYNYeK5uiVvPensolF6n"
+    },
+    {
+      "album": {
+        "name": "Brattiputy",
+        "url": "https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230816,
+      "name": "Brattiputy",
+      "url": "https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7"
     },
     {
       "album": {

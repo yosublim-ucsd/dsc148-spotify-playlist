@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 3505005,
+  "2024-01-22": 3505663,
   "date_first_scraped": "2021-12-21",
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
   "name": "I Love My '90s R&B",
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 243360,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 236906,
       "name": "Still Not a Player (feat. Joe)",
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"

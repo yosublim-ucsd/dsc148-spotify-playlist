@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15161,
+  "num_followers": 15172,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDJhODU5ODM3MzRkZjg2MjExNjNjODRkMzJjOTU1MjA0NTliNzVl",
+  "snapshot_id": "MCw2OTVlY2I4Yzg1M2IyMWM4YzM4YzU1NWUwZWQ1MWYwZDE1NTczYWNh",
   "tracks": [
     {
       "added_at": "2024-01-19 15:13:46",
@@ -199,6 +199,30 @@
     {
       "added_at": "2024-01-19 15:13:46",
       "album": {
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 244571,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2024-01-19 15:13:46",
+      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 216000,
       "name": "Proveito",
       "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
-    },
-    {
-      "added_at": "2024-01-19 15:13:46",
-      "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
     },
     {
       "added_at": "2024-01-19 15:13:46",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-01-19 15:13:46",
       "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Oh N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
+    },
+    {
+      "added_at": "2024-01-19 15:13:46",
+      "album": {
         "name": "Do Mesmo Lado",
         "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 158109,
       "name": "Do Mesmo Lado",
       "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2024-01-19 15:13:46",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Oh N\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
     },
     {
       "added_at": "2024-01-19 15:13:46",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-01-19 15:13:46",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2024-01-19 15:13:46",
-      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+    },
+    {
+      "added_at": "2024-01-19 15:13:46",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2024-01-19 15:13:46",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2024-01-19 15:13:46",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
-      },
-      "artists": [
-        {
-          "name": "Neittan",
-          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
-        },
-        {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "AlmaViva M\u00fasica",
-          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
-    },
-    {
-      "added_at": "2024-01-19 15:13:46",
-      "album": {
         "name": "PAM PAM PAM",
         "url": "https://open.spotify.com/album/2UTdGdcWNA4B4NCoIfe7Ge"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 212727,
       "name": "PAM PAM PAM",
       "url": "https://open.spotify.com/track/0Jy98AVBQ0EFiACEwQV4dm"
+    },
+    {
+      "added_at": "2024-01-19 15:13:46",
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+      },
+      "artists": [
+        {
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+        },
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "added_at": "2024-01-19 15:13:46",

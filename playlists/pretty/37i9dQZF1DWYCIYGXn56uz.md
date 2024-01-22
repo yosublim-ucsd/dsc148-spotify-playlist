@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Valerio Mazzei
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,830 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,769 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 59 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
 | 60 | [sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 |
 
-Snapshot ID: `MCw2ZDE0OGIyM2RmYWJiYjBjMzc4NTJhOWQ5OTExOGYxM2Y0MDIxYzkz`
+Snapshot ID: `MCxkNTAzM2QwZTJmNzAwYjYxY2FiZjk3MmU4Yjg3MWE1NmM3ZTk4YjU3`

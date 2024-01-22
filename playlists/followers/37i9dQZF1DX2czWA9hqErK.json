@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 429309,
+  "2024-01-22": 429441,
   "date_first_scraped": "2021-12-21",
   "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
@@ -821,7 +821,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 195111,
       "name": "Beach Song - Demo",
       "url": "https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7"
@@ -5535,6 +5535,24 @@
       "duration_ms": 210208,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191963,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
     },
     {
       "album": {

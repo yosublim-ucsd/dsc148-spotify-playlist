@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Cabelinho, Borges, A.R, Amorim, Brutos, Vinicin, MANO R7
 
-1,062 songs - 2 day 4 hr 54 min
+1,063 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,7 +922,8 @@
 | [Sonhos \(Intro\)](https://open.spotify.com/track/6H6tKjl8GmNyUFjxDtqZYd) | [Young Mafia](https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [2K23](https://open.spotify.com/album/3eut5147c7K668slIQAx7Y) | 1:40 | 2023-11-10 | 2023-11-25 |
 | [Sorrisão](https://open.spotify.com/track/4ZjLylWITRdfTPWhKLad4U) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0) | [Sorrisão](https://open.spotify.com/album/11c9WB4jTJuduY81B34b9h) | 2:39 | 2022-05-20 | 2022-05-28 |
 | [Sozinho](https://open.spotify.com/track/0nNYbrbitdEFOOdDaWfAca) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Sozinho](https://open.spotify.com/album/6PkMsrQPEEzVor6iq8G7aT) | 2:36 | 2023-12-15 | 2024-01-13 |
-| [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 | 2024-01-02 |  |
+| [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 | 2024-01-02 | 2024-01-22 |
+| [Space Ship](https://open.spotify.com/track/5X3WZeWLdhyEYiFilIEiCG) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/3Gp37OenCK7hEaNxEenq7w) | 3:18 | 2024-01-19 |  |
 | [SPIKE LEE](https://open.spotify.com/track/0PiyUsdP12jF2N1gj0KBsg) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px) | [LACREAM](https://open.spotify.com/album/7dPJwJLPSAj6hF9XhgHDCY) | 3:24 | 2023-09-15 | 2023-09-30 |
 | [Sport Life](https://open.spotify.com/track/1i57ZA960RqieOFadfunOZ) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Sport Life](https://open.spotify.com/album/6AH2oPe5oHzCfIjQ7E4zRf) | 3:39 | 2022-03-18 | 2022-03-26 |
 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 | 2022-10-10 | 2022-10-22 |

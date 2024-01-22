@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 738 songs - 2 day 9 hr 11 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 740 songs - 2 day 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -746,5 +746,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 736 | [Tango Hustle](https://open.spotify.com/track/1qTQ7D2jxQKcPU3mbAUJQ0) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Kilowatt \(Expanded Version\)](https://open.spotify.com/album/0IZJ170J6qqNHDTgZ44Goa) | 4:29 |
 | 737 | [Habbanera](https://open.spotify.com/track/0OmFRQr31vUvAIDd1Hjg3v) | [James Senese](https://open.spotify.com/artist/1X8A68bKIKdFWmOWYs3Fch) | [James Senese \(Remastered\)](https://open.spotify.com/album/2jNgtUUP3XeF9YkiRHOvmL) | 3:53 |
 | 738 | [Va' Fanculo Con Chi Vuo' Tu](https://open.spotify.com/track/5jPIT1lfFqDX4jH9WxCr0M) | [Squallor](https://open.spotify.com/artist/3GugYoehnJyYjrWcOSZkUO) | [Squallor](https://open.spotify.com/album/7kOyOuz45JgKVaBSrzTiHx) | 3:43 |
+| 739 | [Köroğlu Dağları](https://open.spotify.com/track/5mETTpAx7Ccmpd6FUwycRb) | [İstanbul Şarkıcıları](https://open.spotify.com/artist/3dAWWhURuoeND0OPcwrOpR) | [Ayva Çiçek Açmış](https://open.spotify.com/album/3ogoUyugtlKcOHTByhOF2b) | 3:43 |
+| 740 | [Bir Sigara İç Oğlan](https://open.spotify.com/track/67NxBj77Rbm4PN6n4snKic) | [Grup Turbo](https://open.spotify.com/artist/0agXNZlTPQIPMdf8KzQbZB) | [Mavi Mavi](https://open.spotify.com/album/2er0A1hN4sJP6prI41s1un) | 3:02 |
 
-Snapshot ID: `ODMwLGI5MDJkODg1YWJkYzQyOGIzY2U1MTEzOTNkNjk0YWZhMGMxY2Y2MDU=`
+Snapshot ID: `ODMyLDFjOWM4NTFlMjNmNjJmYTZiYmYxOTkyOTIwM2NmMGY0ZDk2MmI0MTI=`

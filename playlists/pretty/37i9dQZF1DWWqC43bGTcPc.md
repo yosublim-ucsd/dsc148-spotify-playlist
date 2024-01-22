@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 周杰倫 \(Jay Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,333 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,357 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [总会有人](https://open.spotify.com/track/1JUvV9eEZuws2YpA1p0e6o) | [向思思](https://open.spotify.com/artist/7jlM8w6yhqvHOYZ7y32CNX) | [总会有人](https://open.spotify.com/album/64ltqQrDRCyssMx3VG9Fzf) | 3:30 |
 | 50 | [其实都没有](https://open.spotify.com/track/1w3iXvTL1LRBxl6vEdLNgP) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [其实都没有](https://open.spotify.com/album/63xd1BuaPLuG152V9WjxXQ) | 3:42 |
 
-Snapshot ID: `MCw3NzFjMGYwOWE5YzE5M2RhYzMyZGJlMTMzOGY1YjE5ZmZkZGM3ODY5`
+Snapshot ID: `MCw5MDgyZDZmMTczNDk5MTNhYmY3ZTNlYjkzNDQ5MzA4NmUxZjFjOWVh`

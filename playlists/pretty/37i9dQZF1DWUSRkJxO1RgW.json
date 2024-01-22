@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 285939,
+  "num_followers": 286002,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTczNjZiMThkYTVlNDI4NDcwMGU3MzBlM2FlNDA4ZDE0YmM3NmQ3",
+  "snapshot_id": "MCxhMjI1MTIzNzIyNmUxMGQwMmI3NTEyY2U5ZjQzMjEyOTI2M2IyM2Ix",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -171,8 +171,8 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+      "duration_ms": 313840,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -299,8 +299,8 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "GIT, El Album",
-        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Es Por Amor",
-      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Nadie Sale Vivo de Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pasemos a Otro Tema",
-      "url": "https://open.spotify.com/track/40raAOaR57uIMomRKtPsZz"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 247066,
       "name": "La Bestia Pop",
       "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Nadie Sale Vivo de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Pasemos a Otro Tema",
+      "url": "https://open.spotify.com/track/40raAOaR57uIMomRKtPsZz"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Bajo Belgrano",
-        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
-      },
-      "artists": [
-        {
-          "name": "Spinetta Jade",
-          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Maribel Se Durmi\u00f3",
-      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 259026,
       "name": "Barbazul Versus el Amor Letal",
       "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Bajo Belgrano",
+        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Jade",
+          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Maribel Se Durmi\u00f3",
+      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -799,6 +799,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Corderos en la Noche",
         "url": "https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 278693,
       "name": "Sin Hilo",
       "url": "https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Entreg\u00e1 el Marr\u00f3n",
-      "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -847,18 +847,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
-        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada - 1994 Remastered Version",
-      "url": "https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y"
+      "duration_ms": 142373,
+      "name": "Entreg\u00e1 el Marr\u00f3n",
+      "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
     },
     {
       "added_at": "2020-03-13 14:40:50",

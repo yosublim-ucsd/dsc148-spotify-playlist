@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,754 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,802 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 29 | [Seriously](https://open.spotify.com/track/2tZydIqc9WGEXu7CMQDvWO) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Seriously](https://open.spotify.com/album/49mC0ME53Low2Uw4EbzPuq) | 2:50 |
 | 30 | [Hypnotized](https://open.spotify.com/track/5GqANk3WgnTmAjTzGB0ND0) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Hypnotized](https://open.spotify.com/album/0ZFc4caLxI1TwCH0jPFKkb) | 3:30 |
 | 31 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
-| 32 | [Love is BS](https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Love is BS](https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc) | 3:12 |
+| 32 | [Love Is BS](https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Love Is BS](https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc) | 3:12 |
 | 33 | [happy 4 u](https://open.spotify.com/track/1hfrYkixh0whgfp6R1z61c) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [happy 4 u](https://open.spotify.com/album/6He8d3005jfh6m5BtcvVOO) | 2:34 |
 | 34 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 |
 | 35 | [Sick of Self Love](https://open.spotify.com/track/7EA7nZrgakwruKBPTI5SW9) | [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Sick of Self Love](https://open.spotify.com/album/37NC1sKPMLNSwcoRc19HFP) | 3:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 |
 | 99 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
 
-Snapshot ID: `MCw5YTUwZDU3NmIwNTVkMTI3NmI0MjVhYjBhNWIyMWM5N2MxZWRhMjMy`
+Snapshot ID: `MCwyNmExODcwNmE5ODdkNWY0YzRkYjdhZGU3MWY0MjZjZjE0MTc3YWYw`

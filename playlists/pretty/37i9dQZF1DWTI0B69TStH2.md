@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:1alcdAcSxQfrx5GmgWAqGk">RAF</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,929 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,926 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 89 | [NIE MA NIC ZA DARMO / MIEJSKI SYF](https://open.spotify.com/track/1gSyLEmBaTPUaIzrALt4Hr) | [$andro](https://open.spotify.com/artist/3qgIvOMz1aQ5LoWDTKxfbA), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [EFEKT MOTYLA](https://open.spotify.com/album/5nrsuDRFwagMoMTMyQc4Ip) | 3:37 |
 | 90 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCxiOWE1ZWI3YmQ1NzUyM2ZmYWMzZGEwYTFiZTZhY2JjMjExMjAzYTg5`
+Snapshot ID: `MCwyNjZlNDI3MWE2MmQyMTNiYzNjMGI4ZjNiNzUxZGE5NjFmNTY4NWMy`

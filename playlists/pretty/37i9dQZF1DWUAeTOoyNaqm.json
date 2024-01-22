@@ -1,12 +1,12 @@
 {
   "description": "Relax and fall asleep to ASMR trigger sounds (no talking).",
-  "num_followers": 245463,
+  "num_followers": 245455,
   "original_name": "ASMR Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGYyMDVhYWM5NTkzMzhlOTUwNjFkYzRkYzY1ZjdiNTlhYTk0OGI2",
+  "snapshot_id": "MCxkYTA0NjU0ZDcyODNlYjFjMjQwNWE4OGI2MmU2OGRmNjMxZWZkMmU1",
   "tracks": [
     {
       "added_at": "2023-09-08 11:50:59",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "ASMR Plastic",
-        "url": "https://open.spotify.com/album/1h3ZFqNc6dN9RL1ywE1dx4"
-      },
-      "artists": [
-        {
-          "name": "Donna Elizabeth",
-          "url": "https://open.spotify.com/artist/24kQ4acClf5y4bbFpK30e4"
-        }
-      ],
-      "duration_ms": 189498,
-      "name": "Playing with Plastic Beads in a Cup",
-      "url": "https://open.spotify.com/track/15oRLd0H3ooRIJ4e5oF9iH"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Butterbrain",
         "url": "https://open.spotify.com/album/00yNdBE8ZLUJSqjYEwFZVt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 379000,
       "name": "Wooden Brush 1",
       "url": "https://open.spotify.com/track/4yDH6sGPzeQBnGNSQUpcHZ"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "ASMR Plastic",
+        "url": "https://open.spotify.com/album/1h3ZFqNc6dN9RL1ywE1dx4"
+      },
+      "artists": [
+        {
+          "name": "Donna Elizabeth",
+          "url": "https://open.spotify.com/artist/24kQ4acClf5y4bbFpK30e4"
+        }
+      ],
+      "duration_ms": 189498,
+      "name": "Playing with Plastic Beads in a Cup",
+      "url": "https://open.spotify.com/track/15oRLd0H3ooRIJ4e5oF9iH"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "ASMR ~ Slow & Controlled Tapping (Ultra Calming with Whisper)",
-        "url": "https://open.spotify.com/album/3TpBXHzy1S3ZpnLNqFTsiI"
-      },
-      "artists": [
-        {
-          "name": "ASMR Blossom",
-          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
-        }
-      ],
-      "duration_ms": 519625,
-      "name": "Blue Box",
-      "url": "https://open.spotify.com/track/7zjdanFlPOnIqTlkNYvfIE"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
-        "name": "Crunchy Tings ASMR",
-        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
-      },
-      "artists": [
-        {
-          "name": "ASMR Gemma",
-          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
-        }
-      ],
-      "duration_ms": 239017,
-      "name": "Duct Tape",
-      "url": "https://open.spotify.com/track/1oksoz8Zv50M42I76vAISY"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
         "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
       },
@@ -815,6 +783,22 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
+        "name": "ASMR ~ Slow & Controlled Tapping (Ultra Calming with Whisper)",
+        "url": "https://open.spotify.com/album/3TpBXHzy1S3ZpnLNqFTsiI"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "duration_ms": 519625,
+      "name": "Blue Box",
+      "url": "https://open.spotify.com/track/7zjdanFlPOnIqTlkNYvfIE"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
         "name": "What's on my iPad? Part #1",
         "url": "https://open.spotify.com/album/0lJsxlX8Vsk9yDaDQBAg6W"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 438000,
       "name": "What's on my iPad? Part #1, Pt. 2",
       "url": "https://open.spotify.com/track/5f1sJbcEYOxdR6hiXimfEu"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Crunchy Tings ASMR",
+        "url": "https://open.spotify.com/album/1NA0R6V2R0BS0oDMKl0L2d"
+      },
+      "artists": [
+        {
+          "name": "ASMR Gemma",
+          "url": "https://open.spotify.com/artist/6w9qZHndDCsJ8ctlPAVinf"
+        }
+      ],
+      "duration_ms": 239017,
+      "name": "Duct Tape",
+      "url": "https://open.spotify.com/track/1oksoz8Zv50M42I76vAISY"
     },
     {
       "added_at": "2023-09-08 11:50:59",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-08 11:50:59",
       "album": {
-        "name": "Little Triggers",
-        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
-      },
-      "artists": [
-        {
-          "name": "ASMR Universe",
-          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
-        }
-      ],
-      "duration_ms": 234725,
-      "name": "Playing with Rubber Cat Toy",
-      "url": "https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo"
-    },
-    {
-      "added_at": "2023-09-08 11:50:59",
-      "album": {
         "name": "Dreams in ASMR",
         "url": "https://open.spotify.com/album/1mNdthvtI5W5sOlNc6WlV7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 297441,
       "name": "Playing with Small Phone",
       "url": "https://open.spotify.com/track/1hoOVYXHpeJyEJdXXuGruO"
+    },
+    {
+      "added_at": "2023-09-08 11:50:59",
+      "album": {
+        "name": "Little Triggers",
+        "url": "https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y"
+      },
+      "artists": [
+        {
+          "name": "ASMR Universe",
+          "url": "https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89"
+        }
+      ],
+      "duration_ms": 234725,
+      "name": "Playing with Rubber Cat Toy",
+      "url": "https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo"
     },
     {
       "added_at": "2023-09-08 11:50:59",

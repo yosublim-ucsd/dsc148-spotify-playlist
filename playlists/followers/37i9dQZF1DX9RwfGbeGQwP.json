@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 438635,
+  "2024-01-22": 438715,
   "date_first_scraped": "2022-02-05",
   "description": "chill beats for cool coffeehouse vibes.",
   "name": "lofi cafe",
@@ -689,6 +689,24 @@
       "duration_ms": 131265,
       "name": "aldo",
       "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
+    },
+    {
+      "album": {
+        "name": "alice in dreamland",
+        "url": "https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "alice in dreamland",
+      "url": "https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS"
     },
     {
       "album": {
@@ -12259,7 +12277,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 117282,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2xrFmzSL2VKbf7PxIOE5s7"
@@ -12463,6 +12481,24 @@
       "duration_ms": 99324,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/1Bx2usZFWr6xzXLCu17MTR"
+    },
+    {
+      "album": {
+        "name": "lifeless",
+        "url": "https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86666,
+      "name": "lifeless",
+      "url": "https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R"
     },
     {
       "album": {
@@ -17866,7 +17902,7 @@
       "artists": [
         {
           "name": "mer\u012bkurisumasu!",
-          "url": "https://open.spotify.com/artist/2W33hxf87SFO6umcqFGOuO"
+          "url": "https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97"
         }
       ],
       "date_added": "2022-09-30",
@@ -26297,7 +26333,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 132307,
       "name": "Zeppelin Hike",
       "url": "https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer"

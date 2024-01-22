@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2023\. Cover: Terrace Martin \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,446 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,463 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 7 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 |
 | 8 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
 | 9 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
-| 10 | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\) \- Single Edit](https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Jean Baylor](https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa) | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\)](https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN) | 4:30 |
+| 10 | [Find Your Peace \- Single Edit](https://open.spotify.com/track/22qi7AtTgWBHecJv8qU1DU) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Jean Baylor](https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa) | [Foreverland](https://open.spotify.com/album/4NOCSGPCk0qUHadIR7unkf) | 4:30 |
 | 11 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 12 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 13 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [your intuition is your friend \(radio edit\)](https://open.spotify.com/track/1dcwRKcZEmYVEhC6LQhwka) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/2fcTch13GHkeNdarAzmuH7) | 3:36 |
 | 75 | [borealis dancing](https://open.spotify.com/track/7LMjaI9q3JmYyraATLNXxS) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [Fly or Die Fly or Die Fly or Die \(\(world war\)\)](https://open.spotify.com/album/2JVEwFxlm2BcTtEeYnB5zr) | 7:01 |
 
-Snapshot ID: `MCxiOWE1YzU1MTQ1OGQxYTExNjVlY2E4NTI1N2EwZTQwNTU4MDZhZmNi`
+Snapshot ID: `MCxiNThlNjJkMjM5ZTBhOTc4MDM4MWY3MGQxZWQxODhjMmVkNjkxZjE5`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,304 songs - 5 day 3 hr 26 min
+2,305 songs - 5 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1221,6 +1221,7 @@
 | [Lyfe](https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC) | 1:39 | 2022-08-06 | 2022-08-09 |
 | [Lyfe](https://open.spotify.com/track/55RLW5BjsIz5VTBryDxy18) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/4lHBj1O8zuxdNKlDWULo3P) | 1:39 | 2022-08-24 | 2022-08-30 |
 | [Lyfe](https://open.spotify.com/track/3M4bxiR326LWnfMwTRoJbe) | [squigglydiggly](https://open.spotify.com/artist/6thaOahBPQeiywU3zVsjzt) | [Lyfe](https://open.spotify.com/album/0TarHyidiDryGISnipfWtG) | 1:39 | 2022-08-08 | 2022-08-12 |
+| [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-21 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-15 | 2022-12-04 |
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-04-26 | 2022-05-04 |
 | [Magic](https://open.spotify.com/track/1H5A1GNZUv4eUf1t9RFdid) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 4:29 | 2022-08-13 | 2022-08-17 |
@@ -2054,7 +2055,7 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-11-08 | 2023-11-11 |
 | [TOO MUCH](https://open.spotify.com/track/100fbGocyqbBPQkTDchi2g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:23 | 2023-11-11 | 2023-11-16 |
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5BJUEEgABE4mB2WzVITSHH) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:08 | 2022-10-01 | 2022-10-09 |
-| [Too Much And Not Enough](https://open.spotify.com/track/7bQT8090ylcidAsUStU5Zk) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:00 | 2024-01-19 |  |
+| [Too Much And Not Enough](https://open.spotify.com/track/7bQT8090ylcidAsUStU5Zk) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:00 | 2024-01-19 | 2024-01-22 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-07 | 2023-01-18 |
 | [Top Gun Anthem](https://open.spotify.com/track/1ZkmPku85veww4fF66aUFF) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2022-06-21 | 2022-06-25 |
 | [Top Gun Anthem \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/0Eodsilv1jAn83TGezUzaE) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 4:10 | 2022-06-01 | 2022-06-12 |

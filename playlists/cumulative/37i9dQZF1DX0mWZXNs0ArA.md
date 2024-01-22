@@ -4,7 +4,7 @@
 
 > 150%
 
-293 songs - 12 hr 42 min
+294 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Infinity \- Sped Up Version](https://open.spotify.com/track/5s0dNKonnbNTOYiTkSuNbR) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Infinity \(Sped Up Version\)](https://open.spotify.com/album/2esUhLkQgcPXVy8hH0qpGx) | 2:49 | 2022-11-18 | 2023-08-12 |
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-06-09 | 2022-12-14 |
 | [isolation \- sped up](https://open.spotify.com/track/3FlwFheL7mcHFRkypdoD5R) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [isolation](https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO) | 3:19 | 2023-03-21 | 2023-04-09 |
-| [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-10-06 |  |
+| [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-10-06 | 2024-01-22 |
+| [IT GIRL \- Sped up Version](https://open.spotify.com/track/3dtzk6pwRzb9OTlInQGEdo) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/6Vo7CAjDxSElpcVrAklmMp) | 2:35 | 2024-01-19 |  |
 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-13 |  |
 | [IT'S GETTING HOT \- Sped Up](https://open.spotify.com/track/6bBM9dDbqCDTLAxcxokQTf) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [IT'S GETTING HOT \(Sped Up\)](https://open.spotify.com/album/6oRQXevG9QBbXKKV0upvjS) | 1:48 | 2023-08-31 | 2023-11-17 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 | 2023-11-17 |

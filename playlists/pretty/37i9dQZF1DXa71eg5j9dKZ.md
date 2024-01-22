@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Joy Orbison
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,224 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,249 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 | 100 | [Move](https://open.spotify.com/track/0sMA84maKqnwS2uuQs7Qdo) | [RUG](https://open.spotify.com/artist/01QFGC1QsaQBzXOzthLN0g), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Move](https://open.spotify.com/album/1j4zEZkzGbGa34peFHFare) | 2:49 |
 
-Snapshot ID: `MCw5YzcwODJjYmQ5NWEzMDI4M2U5ZDQ5OTkyY2Q5NzU0NjI3OWI0MDdk`
+Snapshot ID: `MCw1ZTFiZGNmNWQ3ZjY5YTMyODk4NTUyNDZjZTgxMTRjYzllOTdmNWU3`

@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 254800,
+  "2024-01-22": 254868,
   "date_first_scraped": "2021-12-21",
   "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "i need to be honest",
+        "url": "https://open.spotify.com/album/7uThFJ6puvpMeikhMVlwwl"
+      },
+      "artists": [
+        {
+          "name": "lexialw",
+          "url": "https://open.spotify.com/artist/0uWvOwnCxjlKSyeLrwCrRF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50673,
+      "name": "i need to be honest",
+      "url": "https://open.spotify.com/track/1vbfC8pO4qEjZvEdXkpQxn"
+    },
+    {
+      "album": {
         "name": "im fine i promise",
         "url": "https://open.spotify.com/album/5IZx8gvWoXufbLsUGFyvZ2"
       },
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 157974,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91"

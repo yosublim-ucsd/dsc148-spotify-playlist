@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Prince Royce, Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,086 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,165 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Amor de Telenovela](https://open.spotify.com/track/4Vy3IdyOYw0t7Nlc4aR3za) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Amor de Telenovela](https://open.spotify.com/album/3s3kUz30dHKlA1l9m7JB35) | 5:25 |
 | 12 | [Herida](https://open.spotify.com/track/2vujPBdAmZH3gFzflfB0Z6) | [Gira Prohibida](https://open.spotify.com/artist/4iWPbVwCqqJCBRb8T8kUvi), [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [GIRA PROHIBIDA \#6: Gladys "La bomba tucumana"](https://open.spotify.com/album/1yRAT7GOLmQZzhqhGvAUrM) | 3:47 |
 | 13 | [Vida Entera](https://open.spotify.com/track/6XPBzkZhTkExDvmAoNNIfg) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Vida Entera](https://open.spotify.com/album/3GR6VDh5t9VOJRUUZ54V95) | 3:42 |
-| 14 | [Se Armará La Rumba](https://open.spotify.com/track/1j5hHmfdvwV1l8EbNMReg1) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Se Armará La Rumba](https://open.spotify.com/album/0yBRWAohKlyGGqC83a7hFV) | 3:49 |
+| 14 | [Se Armará La Rumba](https://open.spotify.com/track/6Gd0Pf51qZIa4oplA2IyYm) | [Ángel Venegas y su Orquesta con Sabor](https://open.spotify.com/artist/4gEYOoeFdxOOpuIWuzOigv) | [¡Y Seguimos Aquí!](https://open.spotify.com/album/2VY0ifywK8Qgbg3vKm6zPO) | 3:51 |
 | 15 | [NO SEAS MALA](https://open.spotify.com/track/1DounytqPy1Z1Ogi6aqrb7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP) | [NO SEAS MALA](https://open.spotify.com/album/7tttwlmWAFOzroZIHDisVf) | 2:15 |
 | 16 | [Cual Hacemos?](https://open.spotify.com/track/6lB6ge6Eh0VJTXTllh3VSN) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu) | [Cual Hacemos?](https://open.spotify.com/album/21IQ6QnHClnoE4lr4tYN6g) | 2:03 |
 | 17 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Martes 13](https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Martes 13](https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd) | 2:17 |
 | 50 | [Me Sobrabas Tú \- En Vivo](https://open.spotify.com/track/03kUKWdfKHlNN7fh5ZZO5L) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Me Sobrabas Tú \(En Vivo\)](https://open.spotify.com/album/2h0rPzd10rXCSQ1n3lmphQ) | 3:10 |
 
-Snapshot ID: `MCw2NWQyNDhhMzYwOWZjZDY4OTcyYjZiYjJmMjViNzc5NWJmNjViYzdj`
+Snapshot ID: `MCwzMDAzN2M1Y2JkNGFlODNkYzdhMmU3ZTdkZWYwMDI5ZGUzMzdmNmJj`

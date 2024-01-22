@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-461 songs - 19 hr 49 min
+462 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bicha](https://open.spotify.com/track/2iRwOS4wiZsxU8uIMwbVJX) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Bicha](https://open.spotify.com/album/7IQIjSO2J0FGKqVzjLg364) | 3:54 | 2023-07-29 | 2023-08-28 |
 | [BITCH, DON'T F\*\*K MY VIBE UP](https://open.spotify.com/track/4BnriIuDfaf0tzJDYsrtCs) | [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp), [A1billionaire](https://open.spotify.com/artist/6nUBJCI9rJCAFiSgrKhxR4) | [NOCTURNAL](https://open.spotify.com/album/6sSqHUZQVSJvQIspz7vbLC) | 3:07 | 2023-12-08 |  |
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |
+| [blackbride](https://open.spotify.com/track/63wZyjdxEJXWalSTdhsiLw) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 3:24 | 2024-01-21 |  |
 | [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 | 2023-07-11 |
 | [bloodx3!](https://open.spotify.com/track/3C5owNHtJBwusCD9TQfzEt) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [bloodx3!](https://open.spotify.com/album/7p16Ih4p2KX76NVaGG68yW) | 2:02 | 2023-09-05 | 2023-12-14 |
 | [BLUE LOCK EKI](https://open.spotify.com/track/5qyuI1VzAeHukRQh5ogji6) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [BLUE LOCK EKI](https://open.spotify.com/album/0lzhzO6VU7BY3z9DOdQWQ7) | 1:22 | 2024-01-13 |  |
@@ -325,7 +326,7 @@
 | [PUTARIA](https://open.spotify.com/track/0xOuAMyUc8UKkDl2ZpsDqu) | [L3Ve](https://open.spotify.com/artist/6CmtLxTDl7985oQASZBzEr), [MADNIIIT](https://open.spotify.com/artist/0chNt2yaYcI6vj9x2IN79j) | [PUTARIA](https://open.spotify.com/album/75tn78tiOrnuqca83XEHxG) | 2:31 | 2023-12-08 |  |
 | [QUATTRO](https://open.spotify.com/track/0XyQa2TUE5fjpITSPTSC8C) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [NIGHTMORSS](https://open.spotify.com/artist/6xaUh9kl4cB9sMxp1exAjh) | [QUATTRO](https://open.spotify.com/album/30Cx6E5zusgxSoPmk6sEEA) | 1:56 | 2023-12-08 | 2023-12-17 |
 | [R3bl](https://open.spotify.com/track/5BhWIRuIblTjH2VA5XpCkm) | [RHV3R](https://open.spotify.com/artist/75CoJ6yTXIBFwESdObIvTv) | [R3bl](https://open.spotify.com/album/5JmG4OrGxqXhusY7QpKoOi) | 1:56 | 2023-08-25 | 2023-09-26 |
-| [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 |  |
+| [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 | 2024-01-22 |
 | [Racks Blue](https://open.spotify.com/track/7evoJVkktXH36rhbBw95pC) | [Lil Kizzle](https://open.spotify.com/artist/53UPF2IP4pQRQduL2oXbzN) | [Racks Blue](https://open.spotify.com/album/4kJm18IJ2j5ii0QZpWKtWz) | 1:47 | 2023-06-12 | 2023-06-26 |
 | [Raider](https://open.spotify.com/track/3cmHxxOJgpSKJiH5U0ENnU) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Raider](https://open.spotify.com/album/7ntUhBGypXjFtBoZBAJODo) | 2:25 | 2023-07-07 | 2023-08-08 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2023-06-12 |  |

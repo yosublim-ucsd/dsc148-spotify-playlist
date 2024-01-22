@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,814 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,823 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 79 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 80 | [Bad Magic](https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h) | 5:54 |
 
-Snapshot ID: `MCw2YmU3NDk2OTk5NDBjNzQyNmNiNjQyNjE5MTUwZGYzNTE2ZDQ4MjY4`
+Snapshot ID: `MCw4ZDQ1YzNiMzQ3M2ViZTVjYjczOGUwM2ExZWZiZTEwZDY2ZjM4NGRi`

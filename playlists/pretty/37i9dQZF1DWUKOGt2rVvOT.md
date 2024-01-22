@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 李榮浩 \(Li Rong Hao\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,409 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,499 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [在沒有你以後 \(feat\. 張智成\)](https://open.spotify.com/track/4mDGkFRAqaYosoyWUI7QzM) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw) | [要你知道](https://open.spotify.com/album/79RVoXUiYqAjGcBJ5Y7Tx0) | 3:53 |
 | 50 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 |
 
-Snapshot ID: `MTcwNDY4NjIxOCwwMDAwMDAwMDRiYTQyZGQ4ZjM5NjUwMmJiODVhY2QxZjM2YjdlNDUy`
+Snapshot ID: `MCw4MGI2YjBlOTRiNmZmNThmOGI0MDM1NTRiYmZjYjk1YzE5NDMxNzMy`

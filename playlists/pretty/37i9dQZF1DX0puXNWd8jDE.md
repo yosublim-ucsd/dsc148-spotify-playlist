@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,057 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,082 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 64 | [SUGAR HIGH](https://open.spotify.com/track/5I0Bq41k3gNqXiobhbLjHm) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 2:39 |
 | 65 | [十年](https://open.spotify.com/track/1b6IRkQ6owDaUYRwmHxr3W) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [你的陳奕迅 \(國語精選\)](https://open.spotify.com/album/3YpIH5mASoFetVQjgvazZa) | 3:25 |
 
-Snapshot ID: `MCwzZDVlNzk5YmI3MzgzNWRkM2Q1ZjdiMTNkZmQyYmJkODEwZDc3ZDU0`
+Snapshot ID: `MCwyYmVjMmM1NGJiMTRiZDY4N2RhNGNjZWZmM2ZkMjliMTY5OGU0OGU3`

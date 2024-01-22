@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
+    },
+    {
+      "album": {
         "name": "&&&&&",
         "url": "https://open.spotify.com/album/0KcW8BN4ogk6Rx8QjiCQk6"
       },
@@ -15253,6 +15271,28 @@
     },
     {
       "album": {
+        "name": "I'Il die next summer (no joke)",
+        "url": "https://open.spotify.com/album/4jbsTDSSba0q1gbKPyhlp5"
+      },
+      "artists": [
+        {
+          "name": "DRXG ADXICTION",
+          "url": "https://open.spotify.com/artist/0bpNZLmtUlD2ziShWYEVUi"
+        },
+        {
+          "name": "RAGEIX",
+          "url": "https://open.spotify.com/artist/2TxcnTACuVJ1wA1f7U6G4Y"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173622,
+      "name": "I'Il die next summer (no joke)",
+      "url": "https://open.spotify.com/track/6Srw8p5X0jYa6fU8nV0x7X"
+    },
+    {
+      "album": {
         "name": "L.P.",
         "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
       },
@@ -21871,7 +21911,7 @@
       "artists": [
         {
           "name": "Stegosaurus Rex",
-          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
+          "url": "https://open.spotify.com/artist/7wwbjLs0cXSVT3jb33e95G"
         }
       ],
       "date_added": "2021-08-05",

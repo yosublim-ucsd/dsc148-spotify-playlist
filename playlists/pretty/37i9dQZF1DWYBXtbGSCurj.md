@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Cabelinho, Borges, A.R, Amorim, Brutos, Vinicin, MANO R7
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,480 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,456 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 62 | [Balmain 2](https://open.spotify.com/track/1hcnkTWqICP6yiHbAlYR0v) | [MC Malle](https://open.spotify.com/artist/4GeGSnDYUFO4PsnnRAGghF), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Kaéssi](https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Balmain 2](https://open.spotify.com/album/6BSWsmePlxCv8yaEDgFj2N) | 6:52 |
 | 63 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 64 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
-| 65 | [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 |
+| 65 | [Space Ship](https://open.spotify.com/track/5X3WZeWLdhyEYiFilIEiCG) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/3Gp37OenCK7hEaNxEenq7w) | 3:18 |
 | 66 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 | 67 | [Chocolate](https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Chocolate](https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy) | 2:52 |
 | 68 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 75 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
 
-Snapshot ID: `MCw0NDFlNDM5ZWJmMTU5M2UxNThiZjhmMjAyOWQ0NmUyZjUwNDc4NDU2`
+Snapshot ID: `MCwzMmFjMjljNTg2NzNlNzQ1YWNmZDViN2E3MDZjMzNkM2YxZDdlZTBl`

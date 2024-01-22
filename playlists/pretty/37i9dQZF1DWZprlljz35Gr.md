@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,299 likes - 69 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,300 likes - 69 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 62 | [John The Revelator](https://open.spotify.com/track/7dMvX09kC2aTr1xlSEdWdC) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/6y02mgEYFdBIlR2w3OjWm2) | 2:32 |
 | 63 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 |
 | 64 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
-| 65 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
+| 65 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/2oTHtSfjzbVlhTyDqVls7d) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:46 |
 | 66 | [Xotic](https://open.spotify.com/track/5zT0oYIpruDMbverZ28esj) | [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Bluestronica EP nr 2](https://open.spotify.com/album/5CnJQvhMyM5qtHoRBjVvC3) | 4:05 |
 | 67 | [Multiball](https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8) | [Vidar Busk](https://open.spotify.com/artist/7bbkRaebsI7fzfa9l5LWG3) | [Starfish](https://open.spotify.com/album/4vhocdV6eNQnR7Rq4CB3Vi) | 3:17 |
 | 68 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
 | 69 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
 
-Snapshot ID: `MCxlZDE3ZjMxNDYzOGI4MTE2ZDg0MDcxYWRhZTZmMDkxMGVmOWU1OGM2`
+Snapshot ID: `MCwwNTRiNjlkYjBhYWRiYWE2MDA2OGQ0Mjg1MjAzMDNlOWE3NGZiNTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Malik Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,352 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,396 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [pls help me](https://open.spotify.com/track/0CHHKvtT48UIsiC7bgxcBw) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [pls help me](https://open.spotify.com/album/1NUcER0oDMzkYOrEYGcapm) | 2:45 |
 | 50 | [JOEY TRIBBIANI](https://open.spotify.com/track/5fLvitH2z3igxp5haldJhc) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [2038: WARSZAWA](https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7) | 3:28 |
 
-Snapshot ID: `MCw2MzQ0YzdkMWQwMjY5YjExNmZiMzIzNTlkZDdhMzJkMzc5YjJhOTEy`
+Snapshot ID: `MCwxMDkwOTU1ZGYzZjM5ZDZmMmVjZTUzYzk1N2RhZjQzZGZmNzUzYTI2`

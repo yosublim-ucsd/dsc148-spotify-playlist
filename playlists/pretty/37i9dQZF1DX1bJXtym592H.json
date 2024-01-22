@@ -1,12 +1,12 @@
 {
   "description": "n3xt l3v3l gaming beats. ",
-  "num_followers": 37215,
+  "num_followers": 37243,
   "original_name": "lofi gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y4NGFhYTE1NDBkYzk0OWRlMDM4NjFkOTE4ZTA4OWE0MThlZjA0",
+  "snapshot_id": "MCwxNTBmY2QwNmI5MWZkZjY5ZTU4OGI3YTRiNmIxZDA3OGU2MzEwYzRk",
   "tracks": [
     {
       "added_at": "2024-01-19 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Look After Yourself",
-        "url": "https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL"
-      },
-      "artists": [
-        {
-          "name": "Bullseye Release",
-          "url": "https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Look After Yourself",
-      "url": "https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Look After Yourself",
+        "url": "https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL"
+      },
+      "artists": [
+        {
+          "name": "Bullseye Release",
+          "url": "https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Look After Yourself",
+      "url": "https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Tripping At The Amusement Park Vol. 3",
         "url": "https://open.spotify.com/album/4lqmoKeBB92p6Aq8WTJFLN"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 127058,
       "name": "una giornata al parco",
       "url": "https://open.spotify.com/track/5HzOxWnen6pE6l9KbSEQaq"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Five Buttons",
+        "url": "https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Five Buttons",
+      "url": "https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -563,18 +579,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Five Buttons",
-        "url": "https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST"
+        "name": "Industrial Skyfall",
+        "url": "https://open.spotify.com/album/2RzXG4oYdk8vSoTpCbQfwZ"
       },
       "artists": [
         {
-          "name": "Ramsey Road",
-          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
         }
       ],
-      "duration_ms": 115384,
-      "name": "Five Buttons",
-      "url": "https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P"
+      "duration_ms": 124500,
+      "name": "Industrial Skyfall",
+      "url": "https://open.spotify.com/track/3evbYbOixIUNCfOXSkrFsZ"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -607,22 +623,6 @@
       "duration_ms": 138562,
       "name": "Yahooee",
       "url": "https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Industrial Skyfall",
-        "url": "https://open.spotify.com/album/2RzXG4oYdk8vSoTpCbQfwZ"
-      },
-      "artists": [
-        {
-          "name": "poems",
-          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Industrial Skyfall",
-      "url": "https://open.spotify.com/track/3evbYbOixIUNCfOXSkrFsZ"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "lifeless",
+        "url": "https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "duration_ms": 86666,
+      "name": "lifeless",
+      "url": "https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Herbstlich",
         "url": "https://open.spotify.com/album/4n4vKBDi58fD9lDpl7ATqs"
       },
@@ -823,6 +839,22 @@
       "duration_ms": 118700,
       "name": "Herbstlich",
       "url": "https://open.spotify.com/track/0pN2sz6wJ4kjRlhqImZleX"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "alice in dreamland",
+        "url": "https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "duration_ms": 136744,
+      "name": "alice in dreamland",
+      "url": "https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -927,6 +959,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Highly Overrated",
+        "url": "https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l"
+      },
+      "artists": [
+        {
+          "name": "Fremantle Doctor",
+          "url": "https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX"
+        }
+      ],
+      "duration_ms": 142415,
+      "name": "Highly Overrated",
+      "url": "https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Week Line",
         "url": "https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror"
       },
@@ -975,22 +1023,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Sleepy Eve",
-        "url": "https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u"
-      },
-      "artists": [
-        {
-          "name": "Uneven Cream",
-          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
-        }
-      ],
-      "duration_ms": 92979,
-      "name": "Sleepy Eve",
-      "url": "https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "hop skip and a jump",
         "url": "https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza"
       },
@@ -1003,6 +1035,22 @@
       "duration_ms": 151058,
       "name": "hop skip and a jump",
       "url": "https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Sleepy Eve",
+        "url": "https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "duration_ms": 92979,
+      "name": "Sleepy Eve",
+      "url": "https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1135,22 +1183,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Have a Nice Day",
-        "url": "https://open.spotify.com/album/56EBA098Divnw6538HnsJE"
-      },
-      "artists": [
-        {
-          "name": "RAEDY",
-          "url": "https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ"
-        }
-      ],
-      "duration_ms": 111948,
-      "name": "Have a Nice Day",
-      "url": "https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "touching grass",
         "url": "https://open.spotify.com/album/1y27f6XuRQ9oVznatwkukz"
       },
@@ -1163,6 +1195,22 @@
       "duration_ms": 135529,
       "name": "touching grass",
       "url": "https://open.spotify.com/track/22vdcp24KUkLemk06PCpIP"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Have a Nice Day",
+        "url": "https://open.spotify.com/album/56EBA098Divnw6538HnsJE"
+      },
+      "artists": [
+        {
+          "name": "RAEDY",
+          "url": "https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ"
+        }
+      ],
+      "duration_ms": 111948,
+      "name": "Have a Nice Day",
+      "url": "https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1195,38 +1243,6 @@
       "duration_ms": 172242,
       "name": "Uptown Train",
       "url": "https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "lifeless",
-        "url": "https://open.spotify.com/album/48PY6eXKFO6PM2FOCTmBMW"
-      },
-      "artists": [
-        {
-          "name": "Flower Chanel.",
-          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
-        }
-      ],
-      "duration_ms": 86666,
-      "name": "lifeless",
-      "url": "https://open.spotify.com/track/4mGDLXepp3whnEuq7uz92R"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "alice in dreamland",
-        "url": "https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc"
-      },
-      "artists": [
-        {
-          "name": "drewbee",
-          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
-        }
-      ],
-      "duration_ms": 136744,
-      "name": "alice in dreamland",
-      "url": "https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 114943,
       "name": "Uhmbiguity",
       "url": "https://open.spotify.com/track/7LOeVEchwpe7YrHSh462GT"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Highly Overrated",
-        "url": "https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l"
-      },
-      "artists": [
-        {
-          "name": "Fremantle Doctor",
-          "url": "https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX"
-        }
-      ],
-      "duration_ms": 142415,
-      "name": "Highly Overrated",
-      "url": "https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk"
-      },
-      "artists": [
-        {
-          "name": "AHOSHI",
-          "url": "https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU"
-        }
-      ],
-      "duration_ms": 135899,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 156585,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk"
+      },
+      "artists": [
+        {
+          "name": "AHOSHI",
+          "url": "https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU"
+        }
+      ],
+      "duration_ms": 135899,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "winter creek",
+        "url": "https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ"
+      },
+      "artists": [
+        {
+          "name": "sozin",
+          "url": "https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj"
+        }
+      ],
+      "duration_ms": 164157,
+      "name": "winter creek",
+      "url": "https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "mushroom",
         "url": "https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 72058,
       "name": "mushroom",
       "url": "https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Deep Pockets",
-        "url": "https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG"
-      },
-      "artists": [
-        {
-          "name": "BLVKSHP",
-          "url": "https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g"
-        }
-      ],
-      "duration_ms": 166428,
-      "name": "Deep Pockets",
-      "url": "https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Street Of Gold",
-        "url": "https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH"
+        "name": "Deep Pockets",
+        "url": "https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG"
       },
       "artists": [
         {
-          "name": "ShinE",
-          "url": "https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH"
+          "name": "BLVKSHP",
+          "url": "https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g"
         }
       ],
-      "duration_ms": 183396,
-      "name": "Street Of Gold",
-      "url": "https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3"
+      "duration_ms": 166428,
+      "name": "Deep Pockets",
+      "url": "https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2195,6 +2195,22 @@
       "duration_ms": 197134,
       "name": "Night Ride",
       "url": "https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Street Of Gold",
+        "url": "https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH"
+      },
+      "artists": [
+        {
+          "name": "ShinE",
+          "url": "https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH"
+        }
+      ],
+      "duration_ms": 183396,
+      "name": "Street Of Gold",
+      "url": "https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2295,22 +2311,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Pacifica",
-        "url": "https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Pacifica",
-      "url": "https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS"
       },
@@ -2323,6 +2323,22 @@
       "duration_ms": 161853,
       "name": "Stonecutter",
       "url": "https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Pacifica",
+        "url": "https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Pacifica",
+      "url": "https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Supreme",
-        "url": "https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC"
-      },
-      "artists": [
-        {
-          "name": "Push & Play",
-          "url": "https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng"
-        }
-      ],
-      "duration_ms": 114362,
-      "name": "Liquorice",
-      "url": "https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/152ULMOGfi947QazWQOu57"
       },
@@ -2371,6 +2371,22 @@
       "duration_ms": 94687,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/1TRQg2ZdYj8NjJkRL3oSfE"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC"
+      },
+      "artists": [
+        {
+          "name": "Push & Play",
+          "url": "https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng"
+        }
+      ],
+      "duration_ms": 114362,
+      "name": "Liquorice",
+      "url": "https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2435,22 +2451,6 @@
       "duration_ms": 279278,
       "name": "Abime",
       "url": "https://open.spotify.com/track/00NUTfTiUGLhHwann5WK8E"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Zen Garden",
-        "url": "https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U"
-      },
-      "artists": [
-        {
-          "name": "TheDewk",
-          "url": "https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "Zen Garden",
-      "url": "https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP"
     }
   ],
   "unique_name": "lofi gaming",

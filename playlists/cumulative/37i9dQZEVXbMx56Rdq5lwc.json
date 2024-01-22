@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -1610,6 +1610,24 @@
       "duration_ms": 187000,
       "name": "Atidaviau Tau Visk\u0105",
       "url": "https://open.spotify.com/track/10D6xf5L2sNsNHaqcas3js"
+    },
+    {
+      "album": {
+        "name": "Verkiu Raudon\u0173 Vy\u0161ni\u0173 Sode",
+        "url": "https://open.spotify.com/album/2Ww3sadhLaKl4fscYZiQmE"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Atidaviau Tau Visk\u0105",
+      "url": "https://open.spotify.com/track/6Mv4IBNv1y841c1LckSaEg"
     },
     {
       "album": {
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -4862,6 +4880,32 @@
     {
       "album": {
         "name": "Daylight",
+        "url": "https://open.spotify.com/album/7hLE5RWzjEdZe1dwYp0LNz"
+      },
+      "artists": [
+        {
+          "name": "BERKO CHAMP",
+          "url": "https://open.spotify.com/artist/5kwaY7ov1Oy6CU2XyoJYCI"
+        },
+        {
+          "name": "LEXMENDY",
+          "url": "https://open.spotify.com/artist/4EMIl7p2d0SddxeHyzB6Xt"
+        },
+        {
+          "name": "citosxd",
+          "url": "https://open.spotify.com/artist/0Whs6LUh8PF4j8OHaRDmNK"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211301,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0"
+    },
+    {
+      "album": {
+        "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -8842,7 +8886,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
@@ -13654,7 +13698,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -16622,7 +16666,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 188411,
       "name": "Nieko Nieko",
       "url": "https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1"
@@ -18306,7 +18350,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
@@ -19958,7 +20002,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -21202,7 +21246,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -22688,7 +22732,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -25366,7 +25410,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Tyliai Paku\u017ed\u0117k",
       "url": "https://open.spotify.com/track/6RmV54gl0nByycqhTajiiZ"
@@ -25986,6 +26030,24 @@
       "duration_ms": 225000,
       "name": "Va\u017eiuoju Kur \u0160irdis",
       "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
+    },
+    {
+      "album": {
+        "name": "Verkiu Raudon\u0173 Vy\u0161ni\u0173 Sode",
+        "url": "https://open.spotify.com/album/2Ww3sadhLaKl4fscYZiQmE"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Va\u017eiuoju Kur \u0160irdis",
+      "url": "https://open.spotify.com/track/56dRTtIRW7JYJajIWp4aTg"
     },
     {
       "album": {

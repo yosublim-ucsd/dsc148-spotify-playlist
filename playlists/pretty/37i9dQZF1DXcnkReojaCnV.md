@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:74fkl73HDlCXw0l6cemB89">G\. Love</a> is taking over to share his blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,912 likes - 34 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,853 likes - 34 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 33 | [I Love You](https://open.spotify.com/track/4Oq9pMzxIL2t5NQA2FtuSO) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 3:31 |
 | 34 | [Don't Start Me To Talking](https://open.spotify.com/track/3mzHVjE0AuJBI3H7Wx75TY) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Unissued 1963 Blues Festivals](https://open.spotify.com/album/2eFjg3tTd19Cp9ix7mtifv) | 4:30 |
 
-Snapshot ID: `MCwwODQzMThhMzU0NTBlNTVkN2VhMWQwY2I4YzE4Mjc0N2NiNzQ3NzA1`
+Snapshot ID: `MCwyYTg3NGRhMTA4MTQ0NThlMTJmZDA0MTU2MGNiODIyZTg5NDY3ZTQ2`

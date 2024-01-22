@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 359753,
+  "num_followers": 359907,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTkzZDMzOWRmZjYxNjk3YTM4ZTBiODdmMzY5ZWZjNzE1Y2I4MTQ5",
+  "snapshot_id": "MCw2YWM3YmI3NmE1YjQ5MDljNTRmYWQ5ZGIzY2IyYzk1ZjA3ZmJjYjkx",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Better Than Gold",
         "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
-        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Vinylshakerz",
-          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
-        }
-      ],
-      "duration_ms": 207815,
-      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
-      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/3PAjzJeHTZw0OeG9miBhc0"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/0l6fM0B3KDdGRj7R8vo4hK"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Vinylshakerz",
+          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
+        }
+      ],
+      "duration_ms": 207815,
+      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
+      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Better Off Alone (Hardstyle)",
+        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        },
+        {
+          "name": "LEOJ",
+          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Better Off Alone - Hardstyle",
+      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Adeste Fideles",
         "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 121029,
       "name": "Adeste Fideles",
       "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Better Off Alone (Hardstyle)",
-        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        },
-        {
-          "name": "LEOJ",
-          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Better Off Alone - Hardstyle",
-      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Jiggy",
-        "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 189878,
-      "name": "Jiggy",
-      "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Low (Macon's HYPERTECHNO Remix)",
         "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 166666,
       "name": "Low (Macon's HYPERTECHNO Remix)",
       "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Jiggy",
+        "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Ravers Fantasy",
         "url": "https://open.spotify.com/album/05Lowz2HuhbXT3reAXODuo"
       },
@@ -1939,22 +1959,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+        "name": "Kayra",
+        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+      "duration_ms": 166909,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1975,22 +1991,6 @@
       "duration_ms": 183771,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Kayra",
-        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Kayra",
-      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
     },
     {
       "added_at": "2024-01-18 23:00:00",

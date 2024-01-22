@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 7040,
+  "2024-01-22": 7040,
   "date_first_scraped": "2021-11-28",
   "description": "Deep Bass - Melodic Bass - Dubstep - 140 - Downtempo - Dance Music - Tribal Trap - Grime - Future Bass",
   "name": "Deep Bass / Melodic Bass / 140",
@@ -39,6 +39,28 @@
       "duration_ms": 188062,
       "name": "333",
       "url": "https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF"
+    },
+    {
+      "album": {
+        "name": "3:38 (remixes)",
+        "url": "https://open.spotify.com/album/1mr7A4pEAe14qISXJNKmeU"
+      },
+      "artists": [
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        },
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "338 - REMIX E * DIMOND SAINTS",
+      "url": "https://open.spotify.com/track/38ortR9BWXqpvAIhynD1yo"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 10864441,
+  "2024-01-22": 10861102,
   "date_first_scraped": "2021-12-28",
   "description": "Reggaeton hits from Myke Towers, Feid, KAROL G, Bad Bunny and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
@@ -3263,10 +3263,6 @@
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
@@ -3277,6 +3273,10 @@
         {
           "name": "Revol",
           "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
       "date_added": "2024-01-19",

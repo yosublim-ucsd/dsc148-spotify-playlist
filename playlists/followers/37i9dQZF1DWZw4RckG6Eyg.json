@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 19111,
+  "2024-01-22": 19121,
   "date_first_scraped": "2022-12-09",
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
   "name": "Indie songs from 2023 you may have missed",
@@ -1285,7 +1285,7 @@
     {
       "album": {
         "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/4stpoGWquK8Zb2Xq41NA39"
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
       "artists": [
         {
@@ -1300,6 +1300,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131052,
+      "name": "GATA",
+      "url": "https://open.spotify.com/track/3Y8Y9GWlUBTTEY6ydINRtx"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/4stpoGWquK8Zb2Xq41NA39"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-21",
       "duration_ms": 131052,
       "name": "GATA",
       "url": "https://open.spotify.com/track/7bfsB9aEVuKUUZ7CTjmoGN"

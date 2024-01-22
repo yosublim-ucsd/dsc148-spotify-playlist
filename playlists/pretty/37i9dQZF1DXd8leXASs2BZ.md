@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Flat Line Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 39 | [YOUNG STAR](https://open.spotify.com/track/3nEqGsw6zXb8v0SG2sdqMA) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [YOUNG STAR](https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4) | 2:31 |
 | 40 | [HEAD LINER](https://open.spotify.com/track/1slaNIUTRwgRzPWutB2jGr) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [HEAD LINER](https://open.spotify.com/album/2LpDRKDUvuGxiYP0QB4XFH) | 2:06 |
 | 41 | ["23freestyle"](https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | ["23freestyle"](https://open.spotify.com/album/41lrer5TP42nzqlxLdju8a) | 2:08 |
-| 42 | [promise](https://open.spotify.com/track/76kUiu6Y1BBPs0OWapOhTS) | [MARSBOY](https://open.spotify.com/artist/0YDNw4EcA9BEJerGXgX35H), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/3Ra83t8m1eoTpvh4tb7R9c) | 1:50 |
+| 42 | [promise](https://open.spotify.com/track/76kUiu6Y1BBPs0OWapOhTS) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/3Ra83t8m1eoTpvh4tb7R9c) | 1:50 |
 | 43 | [tetote](https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [tetote](https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY) | 2:02 |
 | 44 | [pAinAwAy](https://open.spotify.com/track/2Mo4AbkKX6YIfmkVBPrSzu) | [Andre](https://open.spotify.com/artist/6AkDCp3yPFTgrLJ4hU78Jd) | [pAinAwAy](https://open.spotify.com/album/7JmNTpLm6xDgVXglLgxxC6) | 2:21 |
 | 45 | [Pay](https://open.spotify.com/track/3DgzRFDji9lqHeFRG11Q3n) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [Pay](https://open.spotify.com/album/29I2wbRPfFbexR3EjBJ4RS) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Yap Yap](https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Deech Got Yukichi 2](https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ) | 2:27 |
 | 100 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
 
-Snapshot ID: `MCxlMzliNGJjNmUxY2ExZjllYzIzOGQzM2U5OGI0ZDVjODBkZDRjODRm`
+Snapshot ID: `MCwzMWIxMGE5NmE0OGI0ZmUwNzZlNzQyMWIwMWJhYzUxMjM3ZjI1ODZk`

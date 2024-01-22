@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Westend and Max Styler
 
-1,433 songs - 3 day 9 hr 43 min
+1,434 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [All In](https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [All In](https://open.spotify.com/album/3dGNeMzMH6tllAiTGA2cLZ) | 2:13 | 2023-05-05 | 2023-05-27 |
 | [All My Friends](https://open.spotify.com/track/3cO31q0MpTtBIT8Esr0bsm) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [All My Friends](https://open.spotify.com/album/7I7oyqlMR8U4tvoXvVtH85) | 2:03 | 2023-09-22 | 2023-10-31 |
 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 | 2023-11-24 | 2024-01-06 |
-| [All Night](https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [All Night](https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS) | 2:57 | 2023-11-17 |  |
+| [All Night](https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [All Night](https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS) | 2:57 | 2023-11-17 | 2024-01-22 |
 | [All Over U](https://open.spotify.com/track/6hmwiviuIfeDy5MwWMVCQw) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [All Over U](https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor) | 3:03 | 2022-05-13 | 2022-06-11 |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-03-24 | 2023-08-12 |
 | [All The Night](https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [All The Night](https://open.spotify.com/album/2IMOvEknlvMR8XdyvyKF19) | 2:41 | 2022-12-02 | 2023-03-11 |
@@ -259,6 +259,7 @@
 | [Cosmic Witch \(feat\. Anané\) \- Todd Terry Remix](https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Cosmic Witch \(feat\. Anané\) \[Todd Terry Remix\]](https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV) | 6:17 | 2023-01-03 | 2023-01-06 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 | 2022-12-10 |
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 | 2023-04-22 |
+| [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 | 2024-01-19 |  |
 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 | 2022-12-23 | 2023-02-18 |
 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 | 2021-11-26 | 2022-01-06 |
 | [Cuddle \- Edit](https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Cuddle \(Edit\)](https://open.spotify.com/album/3i4unTugJPI0gIv5gFBj61) | 3:15 | 2023-10-27 | 2023-11-06 |

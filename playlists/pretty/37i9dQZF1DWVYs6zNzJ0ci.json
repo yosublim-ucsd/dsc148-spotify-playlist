@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Iseo & Dodosound",
-  "num_followers": 1227736,
+  "num_followers": 1227382,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzAxYmIxMjk3Njk2N2JmMTBhZTRkOThmYjA5OTgzZDg2MzUyNzc2",
+  "snapshot_id": "MCw5ZjBkYTFmMTZhMGJhYWY0NmY1OTY1ZmE4MTMxN2QzYmY0NzA2NGJj",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
+        "name": "Dance Forever",
+        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 305813,
       "name": "Sal a Caminar",
       "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Dance Forever",
-        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Dance Forever",
-      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Un Lustro Inyectando Ruido Positivo",
         "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 390173,
       "name": "Juego a Muerte",
       "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "El Playlist de Anoche",
-        "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Marea",
-      "url": "https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "El Playlist de Anoche",
+        "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
+        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
+        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "A Los Ojos",
+      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
-        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "A Los Ojos",
-      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 292552,
+      "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
         "name": "Pipa y Placa",
         "url": "https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS"
       },
@@ -1663,26 +1683,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 292552,
-      "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
-      "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "3 Caras",
         "url": "https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 134960,
       "name": "3 Caras",
       "url": "https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 231933,
       "name": "Celebration (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Ahora Lo S\u00e9",
-        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 256372,
-      "name": "Ahora Lo S\u00e9",
-      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "added_at": "2023-11-10 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Manga Saint Hilare, Kamakaze & MoreNight",
-  "num_followers": 741855,
+  "num_followers": 741798,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjllMDFiMTFiYzY5MmY5ZjUyZmZjMjZlZGZmYjM3YjNmM2Y4Nzk1",
+  "snapshot_id": "MCwxOGZiMDFiMjZmMjVmOTg2NzE2MGQ5YzY4NTZhYzU5ZDI4MDMzZTU5",
   "tracks": [
     {
       "added_at": "2023-11-24 10:18:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Only One King",
-        "url": "https://open.spotify.com/album/05BMT5JyxcH2j6V8t0XpG3"
-      },
-      "artists": [
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        }
-      ],
-      "duration_ms": 141441,
-      "name": "Only One King",
-      "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "Only One King",
+        "url": "https://open.spotify.com/album/05BMT5JyxcH2j6V8t0XpG3"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "duration_ms": 141441,
+      "name": "Only One King",
+      "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
+        "name": "Back on Smoke",
+        "url": "https://open.spotify.com/album/6so3sTls6BrScwIxUPwsm0"
+      },
+      "artists": [
+        {
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
+        },
+        {
+          "name": "Ruginz",
+          "url": "https://open.spotify.com/artist/7a2I24SpgOlsdcTOR2HsQD"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Back on Smoke",
+      "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
         "name": "c2c",
         "url": "https://open.spotify.com/album/27sSI2AzVhhO1ldaekF2Wz"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Back on Smoke",
-        "url": "https://open.spotify.com/album/6so3sTls6BrScwIxUPwsm0"
-      },
-      "artists": [
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        },
-        {
-          "name": "Ruginz",
-          "url": "https://open.spotify.com/artist/7a2I24SpgOlsdcTOR2HsQD"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Back on Smoke",
-      "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "Mitchtape 3",
         "url": "https://open.spotify.com/album/4mqE94UeYojA4jqno8Rm5G"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "No Safety",
-        "url": "https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i"
-      },
-      "artists": [
-        {
-          "name": "Devlin",
-          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
-        }
-      ],
-      "duration_ms": 180428,
-      "name": "No Safety",
-      "url": "https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "This One Freestyle",
         "url": "https://open.spotify.com/album/3aJ1IGANY6It23pA3xHxr9"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 195428,
       "name": "This One Freestyle",
       "url": "https://open.spotify.com/track/34w1JOx0yCOqq3UpaBhmhV"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "No Safety",
+        "url": "https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i"
+      },
+      "artists": [
+        {
+          "name": "Devlin",
+          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+        }
+      ],
+      "duration_ms": 180428,
+      "name": "No Safety",
+      "url": "https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Memories Over Money",
-        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
-      },
-      "artists": [
-        {
-          "name": "Kamakaze",
-          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Safe N Sound",
-      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "Country Bars",
         "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165428,
       "name": "Country Bars",
       "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "Memories Over Money",
+        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Safe N Sound",
+      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
-      },
-      "artists": [
-        {
-          "name": "Genesis Elijah",
-          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "Join Forces",
         "url": "https://open.spotify.com/album/5zj4H764r6vgCx1LMWcqxz"
       },
@@ -1323,38 +1307,18 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Chroma Freestyle",
-        "url": "https://open.spotify.com/album/0bUkpowwTe7bM1S3HyY8Lx"
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
       },
       "artists": [
         {
-          "name": "Tommy Saint",
-          "url": "https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH"
+          "name": "Genesis Elijah",
+          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
         }
       ],
-      "duration_ms": 87727,
-      "name": "Chroma Freestyle",
-      "url": "https://open.spotify.com/track/14NH0GUOIvk6jOvKs0XMW5"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
-        "name": "The Trials & Tribulations of C.E.O",
-        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
-      },
-      "artists": [
-        {
-          "name": "Chiedu Oraka",
-          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
-        },
-        {
-          "name": "Tawanda",
-          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "The Trials & Tribulations of C.E.O",
-      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
+      "duration_ms": 139285,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1379,6 +1343,22 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
+        "name": "Chroma Freestyle",
+        "url": "https://open.spotify.com/album/0bUkpowwTe7bM1S3HyY8Lx"
+      },
+      "artists": [
+        {
+          "name": "Tommy Saint",
+          "url": "https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH"
+        }
+      ],
+      "duration_ms": 87727,
+      "name": "Chroma Freestyle",
+      "url": "https://open.spotify.com/track/14NH0GUOIvk6jOvKs0XMW5"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
         "name": "AM TO PM",
         "url": "https://open.spotify.com/album/7d7Y3OyRxWiMlriJwBItKK"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 201357,
       "name": "Serious Mic Man",
       "url": "https://open.spotify.com/track/63gM9YT6O4LT2uJbldDSf5"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "The Trials & Tribulations of C.E.O",
+        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
+      },
+      "artists": [
+        {
+          "name": "Chiedu Oraka",
+          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
+        },
+        {
+          "name": "Tawanda",
+          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Trials & Tribulations of C.E.O",
+      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1435,6 +1435,22 @@
       "duration_ms": 245142,
       "name": "Cammy Riddim Freestyle",
       "url": "https://open.spotify.com/track/1L6ZvIrNlBiFDaElEM3WdU"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "Bars - EP",
+        "url": "https://open.spotify.com/album/2PGUpCZFixpr34VpXJIWM0"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Car Bars",
+      "url": "https://open.spotify.com/track/6QGQjFvpFeGrHLslKKgcAP"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1491,38 +1507,6 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0rsmS3dfX27WEqdf8RufwD"
-      },
-      "artists": [
-        {
-          "name": "Nasty Jack",
-          "url": "https://open.spotify.com/artist/2wPzo3ejtdLHhbhWq7y63R"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/6LPxYzY69hinTdGt8cvUgF"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
-        "name": "Bars - EP",
-        "url": "https://open.spotify.com/album/2PGUpCZFixpr34VpXJIWM0"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Car Bars",
-      "url": "https://open.spotify.com/track/6QGQjFvpFeGrHLslKKgcAP"
-    },
-    {
-      "added_at": "2023-11-24 10:18:13",
-      "album": {
         "name": "No Celebrations EP",
         "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 217674,
       "name": "Man Like Me (feat. D Double E & Jaykae)",
       "url": "https://open.spotify.com/track/7goZ0705OUmdES4HXeU1g8"
+    },
+    {
+      "added_at": "2023-11-24 10:18:13",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0rsmS3dfX27WEqdf8RufwD"
+      },
+      "artists": [
+        {
+          "name": "Nasty Jack",
+          "url": "https://open.spotify.com/artist/2wPzo3ejtdLHhbhWq7y63R"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/6LPxYzY69hinTdGt8cvUgF"
     },
     {
       "added_at": "2023-11-24 10:18:13",
@@ -1679,26 +1679,30 @@
     {
       "added_at": "2023-11-24 10:18:13",
       "album": {
-        "name": "Koz the Kid 3",
-        "url": "https://open.spotify.com/album/0F12am7OkKWdJgG2xQsvhn"
+        "name": "The Avengers LP",
+        "url": "https://open.spotify.com/album/0jk8Vl9bRBCvExE9trP4Rw"
       },
       "artists": [
         {
-          "name": "Kozzie",
-          "url": "https://open.spotify.com/artist/4DEP2Gftmem88C3JN8be77"
+          "name": "Mayhem NODB",
+          "url": "https://open.spotify.com/artist/4OvtTdyyTQJhVPiagIiSah"
         },
         {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+          "name": "Jammz",
+          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
         },
         {
-          "name": "Faze Miyake",
-          "url": "https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD"
+          "name": "Blay Vision",
+          "url": "https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ"
+        },
+        {
+          "name": "Buggsy",
+          "url": "https://open.spotify.com/artist/5bpN1MF5zqWwTY9JQRIAx3"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Bands on Bands",
-      "url": "https://open.spotify.com/track/1voopUIC1QtN1eyeCpBUCj"
+      "duration_ms": 214144,
+      "name": "Megazord",
+      "url": "https://open.spotify.com/track/2V529vFkZRVIWBnklvs8Er"
     },
     {
       "added_at": "2023-11-24 10:18:13",

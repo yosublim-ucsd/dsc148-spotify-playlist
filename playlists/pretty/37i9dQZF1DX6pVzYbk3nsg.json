@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 4835,
+  "num_followers": 4852,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRiMWU5OWY3ZjgxYTBhODg4ZmEzYmY3YjI4MjFhMTAxZmI1NmFi",
+  "snapshot_id": "MCxiYTVkNzQyOTFmZDczMmJkMDhmNDM3NThiZGRjZjRkYmYzZjE0NGQ0",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "duration_ms": 296628,
+      "name": "B\u00e1mbula",
+      "url": "https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Candela!",
         "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 174345,
       "name": "A La Buena S\u00ed",
       "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
-      },
-      "artists": [
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        }
-      ],
-      "duration_ms": 296628,
-      "name": "B\u00e1mbula",
-      "url": "https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
       },
       "artists": [
         {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
         }
       ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Org\u00e1nico y Medicinal",
         "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
       },
@@ -619,34 +635,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
       },
       "artists": [
         {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
         }
       ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
-      },
-      "artists": [
-        {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
-        }
-      ],
-      "duration_ms": 261386,
-      "name": "Preparate Reparada (Guembe) [Live]",
-      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+      "duration_ms": 214842,
+      "name": "Bomba para Afincar",
+      "url": "https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 214842,
-      "name": "Bomba para Afincar",
-      "url": "https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or"
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Si te preguntaran",
-      "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 289255,
       "name": "Mi Maria Luisa",
       "url": "https://open.spotify.com/track/1wvm0RlbYsW3FZWtmnHg2c"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Si te preguntaran",
+      "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
     },
     {
       "added_at": "2023-06-13 22:15:19",

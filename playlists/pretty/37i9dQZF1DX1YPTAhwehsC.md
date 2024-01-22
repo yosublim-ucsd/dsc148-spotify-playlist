@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,088 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,049 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 100 | [Too Rare](https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Too Rare](https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF) | 3:22 |
 
-Snapshot ID: `MCwzNjg4YTFmOGY0NTNiOTkwMTUyMDBiYTc1NmE4NDI4NjQxNjJhMWJj`
+Snapshot ID: `MCxiYjkzZTVjNWM1YzZlNmY4MmNkMWZmNmI0YTNmYWQwYmZiZjMzNjky`

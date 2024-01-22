@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 54466,
+  "2024-01-22": 54520,
   "date_first_scraped": "2022-03-24",
   "description": "boom bap renasce todo dia. Foto: Parteum",
   "name": "Boom Rap",
@@ -659,6 +659,28 @@
       "duration_ms": 163627,
       "name": "Ambicioso",
       "url": "https://open.spotify.com/track/4TbmRs8sJVW6FuBS826Rnp"
+    },
+    {
+      "album": {
+        "name": "Andarilha do Tempo",
+        "url": "https://open.spotify.com/album/6YUkBx9d3v6pmVjqDsvy1G"
+      },
+      "artists": [
+        {
+          "name": "ANABYA",
+          "url": "https://open.spotify.com/artist/6h24s9GjdLrcYHbJ81XkmK"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140054,
+      "name": "Andarilha do Tempo",
+      "url": "https://open.spotify.com/track/1Y3by7ZupeBXWVl4PRHLxN"
     },
     {
       "album": {
@@ -3720,6 +3742,32 @@
     },
     {
       "album": {
+        "name": "Individualista",
+        "url": "https://open.spotify.com/album/6A9pypv4j4aDHMMFVufQLk"
+      },
+      "artists": [
+        {
+          "name": "PTK OG",
+          "url": "https://open.spotify.com/artist/2az8mt2cDvhlwwizHoCydF"
+        },
+        {
+          "name": "HC",
+          "url": "https://open.spotify.com/artist/1lMQcybf05zgSd48GCPCLT"
+        },
+        {
+          "name": "prodbasti",
+          "url": "https://open.spotify.com/artist/5QTPbRSGSNYeda25Vcqafa"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Individualista",
+      "url": "https://open.spotify.com/track/4loexMkB3JfT0fYhg60lPr"
+    },
+    {
+      "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
       },
@@ -4035,6 +4083,32 @@
       "duration_ms": 211252,
       "name": "Lado Sujo, Pt. 2",
       "url": "https://open.spotify.com/track/05OORli4KkXy3evm4sGNkU"
+    },
+    {
+      "album": {
+        "name": "Lado Sul",
+        "url": "https://open.spotify.com/album/0auawK0pQ2eMKY9QlWRF1Q"
+      },
+      "artists": [
+        {
+          "name": "PH Original",
+          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
+        },
+        {
+          "name": "Liip Beats",
+          "url": "https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC"
+        },
+        {
+          "name": "MADDRUGA",
+          "url": "https://open.spotify.com/artist/5WTKBWeFY0In0q57BtzZUd"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "Lado Sul",
+      "url": "https://open.spotify.com/track/3oRnApxPuuDm1atizRli2p"
     },
     {
       "album": {
@@ -4665,7 +4739,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 189358,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/5NXRfSJcz8dKwJwswgF6GR"
@@ -5749,7 +5823,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 95121,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/59V8dcTq8zMG4WgeNYyKLY"
@@ -6035,7 +6109,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 193333,
       "name": "Posse",
       "url": "https://open.spotify.com/track/6uNwBWfI3DOTqAmSEtE4lV"

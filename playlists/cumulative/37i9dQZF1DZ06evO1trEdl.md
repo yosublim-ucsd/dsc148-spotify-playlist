@@ -4,13 +4,13 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 11 min
+102 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Tender Lie](https://open.spotify.com/track/01jqak2GWNeXgYfqzibrvr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Train](https://open.spotify.com/album/1nzZhYtbe8GFuZewHrba0h) | 4:23 | 2022-11-22 | 2022-11-24 |
 | [A Woman Needs A Good Man](https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:19 | 2022-05-25 | 2024-01-18 |
-| [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 | 2022-05-25 |  |
+| [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 | 2022-05-25 | 2024-01-22 |
 | [Can't You See What You're Doing To Me](https://open.spotify.com/track/7esa3lQi1Ixu8kK2lGF8YB) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:32 | 2022-05-25 |  |
 | [Caught Between Two Fires](https://open.spotify.com/track/66FHvvHSCv8eSFzGeQmJYL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:09 | 2023-11-10 | 2023-12-14 |
 | [Collage](https://open.spotify.com/track/6AI9Z7xC2Gf9kaIdx6lqD0) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 3:00 | 2022-05-25 | 2023-12-14 |
@@ -60,6 +60,7 @@
 | [Love the One Your With](https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Silvester 70er Hits](https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej) | 3:50 | 2024-01-01 | 2024-01-09 |
 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 | 2024-01-20 |
 | [Love Train \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6T19ChkTtuvJSKcg3xt0Mn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 6:48 | 2022-05-30 | 2022-06-01 |
+| [Loving Cup](https://open.spotify.com/track/1nFqUkXakLMxpRZzfYIcIj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 3:07 | 2024-01-21 |  |
 | [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 | 2022-05-25 | 2024-01-10 |
 | [Lowdown](https://open.spotify.com/track/5Yif0s3XbfCnznoFkvbQSG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:13 | 2022-11-26 | 2023-12-18 |
 | [MacArthur Park](https://open.spotify.com/track/5ORCXq29lxskGi0V082NBl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 6:44 | 2023-04-15 | 2023-05-03 |

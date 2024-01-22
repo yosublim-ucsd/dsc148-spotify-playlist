@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2433,
+  "num_followers": 2435,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGVlYzIxNzZmNDEzYTJkZTgwOTk1YzljYjZlZTI4NmUzZGUwN2U4",
+  "snapshot_id": "MCxiNmU3YTVlNTUyOTI1Y2I1MGQ4ZjY1Y2RmMGE0Y2ZkMzVjZGJmZjll",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -583,26 +583,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Mario",
-        "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
+        "name": "Sort' dovan (La compil)",
+        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
       },
       "artists": [
         {
-          "name": "IVANN",
-          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
-        },
-        {
-          "name": "Bomboclak",
-          "url": "https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf"
-        },
-        {
-          "name": "Frank J",
-          "url": "https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT"
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
         }
       ],
-      "duration_ms": 230817,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+      "duration_ms": 285431,
+      "name": "Ma demand aou pardon",
+      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -623,18 +615,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sort' dovan (La compil)",
-        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+        "name": "Mario",
+        "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
       "artists": [
         {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
+          "name": "IVANN",
+          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+        },
+        {
+          "name": "Bomboclak",
+          "url": "https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf"
+        },
+        {
+          "name": "Frank J",
+          "url": "https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT"
         }
       ],
-      "duration_ms": 285431,
-      "name": "Ma demand aou pardon",
-      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
+      "duration_ms": 230817,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
     },
     {
       "added_at": "2022-08-11 10:05:16",

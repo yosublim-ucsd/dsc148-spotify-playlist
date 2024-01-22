@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 206326,
+  "2024-01-22": 206555,
   "date_first_scraped": "2022-03-01",
   "description": "Faith without work[out]s is dead.  Get your beast mode on!",
   "name": "Beast Mode Christian",
@@ -3109,7 +3109,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 200314,
       "name": "Full Metal",
       "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
@@ -7197,6 +7197,24 @@
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO"
+    },
+    {
+      "album": {
+        "name": "PIM",
+        "url": "https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "PIM",
+      "url": "https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,581 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,619 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 48 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
 | 49 | [123 Enemies](https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [123 Enemies](https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW) | 3:30 |
 | 50 | [Palpitaciones \(Remix\)](https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Palpitaciones \(Remix\)](https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv) | 3:56 |
-| 51 | [Pura Alegría](https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Pura Alegría](https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk) | 3:06 |
+| 51 | [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 |
 | 52 | [Si Tú No Estas](https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Si Tu No Estas](https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW) | 3:45 |
-| 53 | [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 |
+| 53 | [Pura Alegría](https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Pura Alegría](https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk) | 3:06 |
 | 54 | [La Música](https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [La Música](https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M) | 4:14 |
 | 55 | [No Disparo](https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 2:45 |
 | 56 | [Sin Escalas](https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Sin Escalas](https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
 | 100 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
 
-Snapshot ID: `MCw1OGU3ZTk3N2IyNzQ0MzhmMzg5ZTQzMGRmOGM3MzFmMTZjNGUxY2U0`
+Snapshot ID: `MCw3YWJlZTQ2Njc5MjlhYjQ0ODFjNzI1NGZiNDY2YmQyNWUyNjYxMmQ0`

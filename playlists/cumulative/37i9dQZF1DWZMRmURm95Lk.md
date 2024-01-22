@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. DJ Shocca in cover.
 
-341 songs - 19 hr 47 min
+342 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bugie Bianche](https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz) | 3:13 | 2023-03-02 |  |
 | [By Myself](https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [Max](https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5) | 4:20 | 2022-07-28 |  |
 | [Camera mia](https://open.spotify.com/track/3nEwS4kH1G9QookCdI3W3w) | [Don Diegoh](https://open.spotify.com/artist/4EUJtRvapSIJrhtLlsrcIh), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Addio, a domani.](https://open.spotify.com/album/2wEopDdUpTn4Z7yBEzK0gu) | 4:22 | 2022-06-16 | 2022-07-27 |
+| [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 | 2024-01-18 |  |
 | [Cani sciolti](https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:55 | 2022-05-05 |  |
 | [Cani Sciolti \- 2006](https://open.spotify.com/track/5g4Umkk6CRSrixdPzeqIBr) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:38 | 2024-01-02 | 2024-01-12 |
 | [Caramelle da uno sconosciuto](https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:23 | 2022-06-16 |  |
@@ -139,7 +140,7 @@
 | [Indelebili](https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:18 | 2024-01-11 |  |
 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2022-05-12 |  |
 | [Intro 2023 \(5tate of Mind freestyle\)](https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Intro 2023 \(5tate of Mind freestyle\)](https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc) | 1:28 | 2023-09-28 | 2023-11-21 |
-| [Invisibili](https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \(Ultimate Edition\)](https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD) | 2:50 | 2023-09-28 |  |
+| [Invisibili](https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \(Ultimate Edition\)](https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD) | 2:50 | 2023-09-28 | 2024-01-22 |
 | [Invisibili \(feat\. Claver Gold\)](https://open.spotify.com/track/0mCZ8kuH5wRZ1t7sovDDxf) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \- Episodio Tre](https://open.spotify.com/album/3Rk9Z7j5nAzPSmg0OHPSSo) | 2:50 | 2022-05-12 | 2022-07-27 |
 | [Iron Maiden](https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Iron Maiden](https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx) | 2:38 | 2022-05-05 |  |
 | [John Rambo](https://open.spotify.com/track/0ZtqnQ7XfuAxHmFSXCJeEl) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Stallone](https://open.spotify.com/album/4InaOHjXVZitzYJ0wYUaI7) | 2:28 | 2023-03-09 | 2023-04-06 |

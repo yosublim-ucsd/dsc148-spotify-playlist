@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. <br/>Featuring some of our 2024 Artists to Watch across all genres!<br/> Cover: <a href="spotify:artist:5R1cUyk9ysrruOo4ErpGjg">LU KALA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,909 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,849 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Bridgeland Road](https://open.spotify.com/track/6gqlCXvtjFcBb87thnBt0D) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Michaela Coel](https://open.spotify.com/artist/0nVdOXyYCXDv8UNIkAprmw) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 5:20 |
 | 100 | [Air I Breathe](https://open.spotify.com/track/546AarSsNEMYLpLCRYqmB6) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:41 |
 
-Snapshot ID: `MCw1NzU4OWYwMjgwZWRkY2I1OGJiMjkyZjRkMzdlMmNhMzZiYTQ3MGQ4`
+Snapshot ID: `MCw0OGI5MTY2YzE5ODEzYTQ0OTVmNDRlZDI0MzJmZWI5YjZkZDhkNGEy`

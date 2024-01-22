@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,033 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,076 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 40 | [Travellin' Highway Man](https://open.spotify.com/track/5zvRTgNEcNk6pTPJPLSOuw) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 3:00 |
 | 41 | [Last Kind Words Blues](https://open.spotify.com/track/1o9D6eNx48cZyu5hlDnjNj) | [Geeshie Wiley](https://open.spotify.com/artist/1cKNtCaFs3dRO88WDOVTeg) | [Paramount Blues \- Lock and Key Blues](https://open.spotify.com/album/5IiApIz41TnFX0NNTmYNoC) | 3:02 |
 | 42 | [Catfish Blues](https://open.spotify.com/track/7d89sBzsw47LbdprUMNyfJ) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues \(1935\-1951\)](https://open.spotify.com/album/1tGPQ7JepAddVZ2506Wuu6) | 2:55 |
-| 43 | [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 |
+| 43 | [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 |
 | 44 | [By The Spoonful](https://open.spotify.com/track/7oqDaJiG7dUvf7oIQrzGGF) | [J.D\. Short](https://open.spotify.com/artist/5aTQqSNBX17uG0FZxvorSz) | [The Sonet Blues Story](https://open.spotify.com/album/13JqwxkZBFM3B8kp86QsfZ) | 3:49 |
 | 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
-Snapshot ID: `MCw0MjJlYWQxYzk3OGU1ZTBkNDM4NjRjY2NiYmUxYWYxODczNjVlZDll`
+Snapshot ID: `MCxlZGFkMzRlOWRlMzcyMmQwYzVjNDYwYTZkMmIxM2ZkMzc0YWRjMzc1`

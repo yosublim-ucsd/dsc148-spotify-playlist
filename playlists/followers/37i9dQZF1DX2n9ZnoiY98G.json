@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 3060,
+  "2024-01-22": 3076,
   "date_first_scraped": "2023-12-09",
   "description": "Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.",
   "name": "Leave The World Behind Official Playlist",
@@ -183,6 +183,14 @@
         {
           "name": "TNGHT",
           "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
         }
       ],
       "date_added": "2023-12-08",

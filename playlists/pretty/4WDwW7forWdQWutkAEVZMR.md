@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring IVE, Beyoncé, Harry Styles &amp; more! Cover: IVE &amp; Saweetie
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,356 likes - 35 songs - 1 hr 49 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,354 likes - 35 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 125748,
+  "num_followers": 125749,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWUwNTAyYzNmNmE3MDc2OGU0NDQ4YmQwMDBlMmIxMDcxNzQ4MzUz",
+  "snapshot_id": "MCw0MzczODQ5NDk3YWNhNTA5YzQ2ZTY0ZmJlN2MwYzMwNzM4ZDQ1NDU5",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Nothing Feels Good",
-        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
-      },
-      "artists": [
-        {
-          "name": "The Promise Ring",
-          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Red & Blue Jeans",
-      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Do You Know Who You Are?: The Complete Collection",
         "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 235466,
       "name": "Back And To The Left",
       "url": "https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Nothing Feels Good",
+        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
+      },
+      "artists": [
+        {
+          "name": "The Promise Ring",
+          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Red & Blue Jeans",
+      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
     },
     {
       "added_at": "2023-03-28 15:58:25",

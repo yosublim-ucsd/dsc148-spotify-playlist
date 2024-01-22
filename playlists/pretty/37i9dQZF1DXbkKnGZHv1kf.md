@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,583 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,480 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 35 | [Sent For You Yesterday](https://open.spotify.com/track/0jXSghMAEE2ImajlWNBoiT) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 2:58 |
 | 36 | [S.K\. Blues, Pt\. 1](https://open.spotify.com/track/6JrmYq8Fb16eU15qMNJfGk) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Atomic Boogie](https://open.spotify.com/album/2cHJiocUPJGUzGPadW5rKL) | 3:01 |
 | 37 | [I Can't Be Satisfied](https://open.spotify.com/track/0Q4qVBG7jAF3Ar4sheUidp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:42 |
-| 38 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 |
+| 38 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
 | 39 | [That's All Right](https://open.spotify.com/track/4C6KfxHdNt7x4LaqVa5pkD) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Rock Me Mama \- When The Sun Goes Down Series](https://open.spotify.com/album/1yKJIfbEdZkEMCMXmsgmGc) | 2:53 |
 | 40 | [Moanin' At Midnight](https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:56 |
 | 41 | [High And Lonesome](https://open.spotify.com/track/4uvdVSZSfDrXL09nFcrVTW) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 50 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 
-Snapshot ID: `MCw0NmE2N2I0ZGNmNTI2OWI4Yzc2MzdmNjJlNzlmMzZmZmU0M2UxMmM1`
+Snapshot ID: `MCw3ZDVhM2JmYjZjYjg5YWY1M2NmNzJhODVlNTE0NWRhM2FiNjI2MzI3`

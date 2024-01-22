@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,543 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,666 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/album/4511OYwmrYTxyIWeN06Pql) | 3:30 |
 
-Snapshot ID: `MCw2NjRjN2JiYmEwNzNjMTAwYjM0YzliNTg4NjI2MmFiNjdmZjAxM2Yx`
+Snapshot ID: `MCw0NTI5ODRjMWM2ZDgxOGMwMWQ4OWU5OWY0YjljOTM4NjY2OWIzMTFj`

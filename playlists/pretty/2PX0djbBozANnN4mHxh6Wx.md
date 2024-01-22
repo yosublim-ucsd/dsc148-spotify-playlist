@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,994 likes - 542 songs - 1 day 8 hr 36 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,988 likes - 542 songs - 1 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 252 | [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 |
 | 253 | [ナチュラルに恋して](https://open.spotify.com/track/2ZEA14B61B2AoVrMQzPiwd) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Perfume The Best "P Cubed"](https://open.spotify.com/album/2ys3daPjlHkDZqN3MuKXec) | 3:08 |
 | 254 | ['BIMMER'](https://open.spotify.com/track/46NbAamUC9bSoZVSBYqaSF) | [Passing Currents](https://open.spotify.com/artist/1IOfE2EZJLsJ5H87ucZmrq) | ['BIMMER'](https://open.spotify.com/album/3X25CAVJfkL8O335IYSTyV) | 2:16 |
-| 255 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 |
+| 255 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/7wwbjLs0cXSVT3jb33e95G) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 |
 | 256 | [Hawaiian Skies](https://open.spotify.com/track/3tc9IlORP98dshZpY8xXRs) | [CYBEREALITYライフ](https://open.spotify.com/artist/5wxQkBn8VmHggkeH94BdYf) | [v i r t u a l r e s o r t ™](https://open.spotify.com/album/7kW4XbYxzcR3ud7Kp6kzV7) | 2:16 |
 | 257 | [ROSE](https://open.spotify.com/track/5qt0EZnvAKYWfHjIMi10dr) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [INSPIRE](https://open.spotify.com/album/5FYmFPVEl7AZJEVp8z66Yt) | 5:34 |
 | 258 | [For the Sake of Making Games](https://open.spotify.com/track/5kUjMbk9YUhn2QGasNhje9) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [One](https://open.spotify.com/album/5P6bUwmfCbLIL01nYLHHgQ) | 1:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,800 likes - 98 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,796 likes - 98 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 97 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
 | 98 | [Two Generations of Excess](https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 7:26 |
 
-Snapshot ID: `MCwwYjVmOTI2NGI4Nzc1MjIwMDNkZTVlMDA5ZjdhYjFlNGE5MTgzYzYz`
+Snapshot ID: `MCwyZWNlNzY0ZGQ4N2Q2M2E2ZjE5NTA2MWQxMzJiODYwOWQxZGYyYzYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,499 likes - 76 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,506 likes - 76 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 41 | [Carro Filmado](https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty) | [AK SAITO](https://open.spotify.com/artist/7g2naiPJNLtDQg6hesnj6K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Carro Filmado](https://open.spotify.com/album/6aK7y6lZboIDRF3dnU4KbF) | 1:48 |
 | 42 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
 | 43 | [Dlpvc Intro!](https://open.spotify.com/track/6nVZXiuBae0HMMPB6LRj3x) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 1:40 |
-| 44 | [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 |
+| 44 | [Space Ship](https://open.spotify.com/track/5X3WZeWLdhyEYiFilIEiCG) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/3Gp37OenCK7hEaNxEenq7w) | 3:18 |
 | 45 | [não sou EU](https://open.spotify.com/track/4ugfY4IKYeP1hgcJj63qCU) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:46 |
 | 46 | [Toda estranha](https://open.spotify.com/track/2meJca6wSL6dDbe2SM0uI6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [\(EX\) POSTO](https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd) | 2:47 |
 | 47 | [Bb Simon$](https://open.spotify.com/track/7mC3yedRbAHl7XyVPiQGlH) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 2:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [GLORD](https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 1:18 |
 | 76 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCw2NjRmOWZkZTUwNDg5OTY2MWExYzJiYmRmYzFhODFkNmJlNGQ1NTk0`
+Snapshot ID: `MCxlOWU0NTMyODEzNTg2MjgwMGJmZGE1M2JkMTI4OGVlN2EzZjI3YTJl`

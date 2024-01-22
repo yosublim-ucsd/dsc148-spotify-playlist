@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 43532,
+  "num_followers": 43546,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzBlZjYyYmM1NDVmOWRhNDAwNDA0MzA2ZmY1M2UyNDNjMzEwMmY3",
+  "snapshot_id": "MCxhMTUxNTJhNjk1NDgzMGY3YTNmZTRlOTE0ZGMyMWYxZjkwM2I1MWI1",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 196701,
       "name": "11 Y ONCE",
       "url": "https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "Rumbo",
+        "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Nuestros Horarios",
+      "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 125333,
       "name": "...baby one more time",
       "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Rumbo",
-        "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Nuestros Horarios",
-      "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "DameLove (feat. Cuco)",
-      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 226844,
+      "name": "DameLove (feat. Cuco)",
+      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
     },
     {
       "added_at": "2023-12-12 22:35:32",

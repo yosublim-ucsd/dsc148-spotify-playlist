@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 112558,
+  "num_followers": 112580,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
+  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Estamos Arriba",
-        "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Estamos Arriba",
-      "url": "https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "47",
         "url": "https://open.spotify.com/album/22cKRyNqp6SOySriSHqnQH"
       },
@@ -2547,6 +2527,26 @@
       "duration_ms": 253800,
       "name": "47",
       "url": "https://open.spotify.com/track/34a6O6qdKdD1UwbGq9USEh"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Estamos Arriba",
+        "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Estamos Arriba",
+      "url": "https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW"
     },
     {
       "added_at": "2023-05-25 17:50:01",

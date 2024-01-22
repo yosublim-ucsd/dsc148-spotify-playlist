@@ -1,12 +1,12 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 17500,
+  "num_followers": 17516,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzMwY2ExMTc3MzNkMGY5ZjQ3ZGExOGM0YzQ5Njg5M2ZiOTA3NjQ1",
+  "snapshot_id": "MCxmOGMyYmY2OWM2NDExMDk3MmM0OTNmZWFjMmNkZmMzNGRkNzdkNGQ0",
   "tracks": [
     {
       "added_at": "2024-01-18 15:00:00",
@@ -807,18 +807,26 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "\u91d1\u6728\u7280",
-        "url": "https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX"
+        "name": "\u3070\u304b\u307e\u3058\u3081",
+        "url": "https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        },
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 275212,
-      "name": "\u91d1\u6728\u7280",
-      "url": "https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm"
+      "duration_ms": 172366,
+      "name": "\u3070\u304b\u307e\u3058\u3081",
+      "url": "https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

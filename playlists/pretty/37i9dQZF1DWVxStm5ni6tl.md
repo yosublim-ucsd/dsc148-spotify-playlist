@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Very Very
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,316 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 89 | [Mes années 2000](https://open.spotify.com/track/6af4DhMrAuwvVRljI0UrIB) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [Mes années 2000](https://open.spotify.com/album/59WMIKSURO2PPPRA4gHhly) | 3:23 |
 | 90 | [Te Veo](https://open.spotify.com/track/5hD8HXZmHbiwFvTvlxXH7w) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO) | [Te Veo](https://open.spotify.com/album/4iVptAMsjfr2kdL1MxeD9M) | 4:29 |
 
-Snapshot ID: `MCw3NjQ3NzMyZTNiOWRhNjYzMjY2OTI3MDJjZTNiOWYyODE0ZDliMGIy`
+Snapshot ID: `MCw5YThiMWUzOGFhYTc4MTZmNTkyYTkyOWZjMzJhYzkwOGU2MWJkMmZh`

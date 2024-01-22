@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-234 songs - 11 hr 23 min
+235 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Sardinian Sea Ocean Waves](https://open.spotify.com/track/20sJK5KxxmF8YJiWV2NBC3) | [Water Beds](https://open.spotify.com/artist/3y1CfQi9gq0ZAa4hgPkdYF) | [Sardinian Sea Waves](https://open.spotify.com/album/0UynWyzf0ZBKrafSpvgIs4) | 3:14 | 2023-06-19 | 2023-07-09 |
 | [Sea Foam](https://open.spotify.com/track/64jtkwpckVDG9StUHwN8Wx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:08 | 2021-11-11 | 2022-10-12 |
 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 | 2021-11-11 |  |
-| [Seaside In The Swedish Archipelago](https://open.spotify.com/track/3sXmZta98ClJzuGWrhclGy) | [Atlantic Waves \(For Sleep\)](https://open.spotify.com/artist/4pKwFBw3mP2KUmTGG49roD) | [Atlantic Waves For Relaxing 2](https://open.spotify.com/album/1lMGvTFElYnhV7ZtMLLcdv) | 2:39 | 2023-06-19 |  |
+| [Seaside In The Swedish Archipelago](https://open.spotify.com/track/3sXmZta98ClJzuGWrhclGy) | [Atlantic Waves \(For Sleep\)](https://open.spotify.com/artist/4pKwFBw3mP2KUmTGG49roD) | [Atlantic Waves For Relaxing 2](https://open.spotify.com/album/1lMGvTFElYnhV7ZtMLLcdv) | 2:39 | 2023-06-19 | 2024-01-22 |
 | [September Waves](https://open.spotify.com/track/3nsILhUrRMn7N2Ywfo3rkj) | [Ocean Nights](https://open.spotify.com/artist/7JqBVMtVSDBnbLDnzJC9N8) | [Soothing Ocean Waves](https://open.spotify.com/album/6TnGaEvEH21v6glgB7X467) | 2:53 | 2021-11-11 |  |
 | [Shoreline Sound](https://open.spotify.com/track/1K8VTg78Jo4BWAC1FAiGZz) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 5:42 | 2021-11-11 | 2022-10-12 |
 | [Sleep Refreshed](https://open.spotify.com/track/73zohs74P55sdkTRIzIuqN) | [Beach Top Sounders](https://open.spotify.com/artist/2MpXnqfEhxozPnAndJjTWM) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:32 | 2021-11-11 |  |
@@ -230,6 +230,7 @@
 | [Waves Of Green](https://open.spotify.com/track/5MtM0JZlnc9XkGFarLmh04) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Nature Sleep](https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo) | 1:34 | 2023-02-15 | 2023-06-20 |
 | [Waves of Hope](https://open.spotify.com/track/4WShV9ueF0eVdev69kRxyD) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Volume 1](https://open.spotify.com/album/457JbvsnuRxeVObXwIemfG) | 3:07 | 2021-11-11 |  |
 | [Waves Of The Ocean](https://open.spotify.com/track/5yQElZLGJPuYOOAAse57dT) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Natural Samples](https://open.spotify.com/album/7qsJsbbwvMNGz1vR5l8ILK) | 1:44 | 2021-11-11 | 2023-06-20 |
+| [Waves on the bay](https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC) | [Hamsin](https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV) | [Cottage by the sea](https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW) | 2:12 | 2023-06-19 |  |
 | [Waves on the Peninsula](https://open.spotify.com/track/4rZmara2XLS46Lalxe1hCi) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Shallow Waves on Sand](https://open.spotify.com/album/4dNOZum6fUUyf1VaI9Ue2u) | 2:54 | 2021-11-11 |  |
 | [Waves Special Selection](https://open.spotify.com/track/2eBhOON7YOyFbzuYaBRRvR) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 1:49 | 2021-11-11 | 2023-06-20 |
 | [Wavy Days](https://open.spotify.com/track/0pKPUn3hxt2MHxSR2T2YWj) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [Water Land](https://open.spotify.com/album/1XfCX6NBURid7fA4FT8M6f) | 2:38 | 2021-11-11 |  |

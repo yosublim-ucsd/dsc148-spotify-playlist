@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,238 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,315 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 77 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 |
 | 78 | [Shouldn't Be Doing This](https://open.spotify.com/track/0SCMoEjToRt0GL3eIFI8FV) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Shouldn't Be Doing This](https://open.spotify.com/album/12Y9kiAnxFxuBesMAE2bHW) | 3:17 |
 
-Snapshot ID: `MCwwYTVjYzQwMGEzNzkyZTYyNGEyNGQzMmIyMzNjNzc5YTdkMTIxZTQx`
+Snapshot ID: `MCw3YWJiNWQxOGJhNzg3NGYyMGMyZmMwOWYxZmNiZTU5MmNkMjFjMWYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 李聖傑 \(Sam Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,382 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,463 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [手放開](https://open.spotify.com/track/2Dd9EXYXI2NNrLG61OtWQv) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [絕對痴心.手放開](https://open.spotify.com/album/7i5rQCv4Ucs8p7lqhq5HfZ) | 4:25 |
 | 50 | [一公尺](https://open.spotify.com/track/3VhFGiJm9OKZNCexnYTG8A) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [第一次\(白天版\)](https://open.spotify.com/album/1s8LhNLb7wMe7cxZs4nfnZ) | 4:10 |
 
-Snapshot ID: `MCwyZWVmOGNhNjY2MjY3Y2UxMWYxMzM2NWQ4NWVlZTg5YjdmNGY4NTg2`
+Snapshot ID: `MCw3Yjk2OGVkNWZiNWJjZTFiN2U4M2JjOGM4ZmMzNjg3Mjc4MWFjYWEy`

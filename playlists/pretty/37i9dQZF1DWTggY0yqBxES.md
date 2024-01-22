@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,795 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,800 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [No Gimmix](https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [HOT VODKA 2](https://open.spotify.com/album/2dRkcZCXkFtqGO7gCO0FVd) | 2:45 |
 | 100 | [Grove](https://open.spotify.com/track/7ChGbr5eO2BKBz3cw3Kqsr) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Grove](https://open.spotify.com/album/6tG0BshFlg8Hm9eZqiWmRC) | 2:29 |
 
-Snapshot ID: `MCwxZGY3ZGZlOGZkMDk0YjlhMDc3YThhZTI1ZWQ1ZjU4NTcyYTNhZjhj`
+Snapshot ID: `MCxiNGFlODg5ZjI3ZjkwMjllZWE4ZWNkNmUxOWFhNGE4YWVhMTA0Y2Vj`

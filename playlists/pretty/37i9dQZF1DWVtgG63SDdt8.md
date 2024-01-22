@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:3HTHz4rj84gMMV8T3u81op">Kevin Quinn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,752 likes - 99 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,914 likes - 99 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 27 | [Praise Your Name](https://open.spotify.com/track/4HE0C1QJPhX9vzBqbJg5oT) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Praise Your Name](https://open.spotify.com/album/0OZoD6xavZhIqeJblkeasq) | 4:47 |
 | 28 | [The Lamb, The Lion, The King](https://open.spotify.com/track/0Ca2E2ULgxYOkldsff6YRh) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [The Lamb, The Lion, The King](https://open.spotify.com/album/5Fd13g2AYPFNYjBUiWBacx) | 4:43 |
 | 29 | [Jireh](https://open.spotify.com/track/31GM50Irod8OnsxOfwAmXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Jireh](https://open.spotify.com/album/6HMlAW4DbRIxCR93yYi2GT) | 3:26 |
-| 30 | [Faithful and True \- Live](https://open.spotify.com/track/1fnylnKIJrU67ZuWe0JGNU) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g) | [Faithful and True \(Live\)](https://open.spotify.com/album/4zLFYng21rIyQIdros8Zyf) | 4:03 |
+| 30 | [Faithful and True \- Live](https://open.spotify.com/track/1fnylnKIJrU67ZuWe0JGNU) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Faithful and True \(Live\)](https://open.spotify.com/album/4zLFYng21rIyQIdros8Zyf) | 4:03 |
 | 31 | [Broken \(Live\)](https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Broken \(Live\)](https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T) | 9:31 |
 | 32 | [Gift Of Our Father \- Live](https://open.spotify.com/track/4BNn4ZaArR6OIpLNOrbwqf) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Gift Of Our Father \(Live\)](https://open.spotify.com/album/1hb165uwqp1yk9vLtquERg) | 4:25 |
 | 33 | [Yahweh \- Live \- Single Version](https://open.spotify.com/track/7qF5TAuVLijvCWqcy9pugt) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Yahweh](https://open.spotify.com/album/2rMuE192w8LsMemQOH3OhB) | 5:02 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Your Strength](https://open.spotify.com/track/4peaKDznTRe3TgZVRT2FLR) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Your Strength](https://open.spotify.com/album/1GHxgSVWMM9vz0FVYOmEMx) | 3:06 |
 | 99 | [Take Over](https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take Over](https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB) | 2:57 |
 
-Snapshot ID: `MCwzOTA4YzM1Yzg5NmRmMjI5MTQ2NTg3NGIyNjRhOTAzNzBlZWU1ZDcy`
+Snapshot ID: `MCw1NjAwNWU5MzQ2NGFjZGRjOTEwMGYzZjdkZDZlOWJhMTJmMTBhMGQ1`

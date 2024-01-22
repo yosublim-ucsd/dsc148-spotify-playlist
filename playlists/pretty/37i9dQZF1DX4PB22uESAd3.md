@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,790 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,855 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 29 | [That's All Right](https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 2:56 |
 | 30 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 |
 | 31 | [Rock Me Mama](https://open.spotify.com/track/12LedD0MvtCtmVIsCAQlpC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Presenting Arthur "Big Boy" Crudup](https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ) | 2:29 |
-| 32 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 |
+| 32 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
 | 33 | [Rock It For Me](https://open.spotify.com/track/0C0H0Drjxe9gnQtYz2f5b6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chick Webb](https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb) | [The Early Years \- Part 1 \(1935\-1938\)](https://open.spotify.com/album/24lKvz4OOlIWhpYxBnHBTR) | 3:09 |
 | 34 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
 | 35 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 49 | [Sixty Minute Man](https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF) | [Billy Ward & The Dominoes](https://open.spotify.com/artist/5N6BX9UJbyuWlb4rxH8mJk) | [Sixty Minute Man](https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo) | 2:33 |
 | 50 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 
-Snapshot ID: `MCw4MzNkN2Y4NzUzZGJlY2MxMTIyMjBiNzQwNGE4ODMxNmUzZmQ5ZWFm`
+Snapshot ID: `MCwwM2FlMmVjODAxNTg0MDFlOWNjMjU0YzZiMmQ5NzEzNzgyMWJjZTUy`

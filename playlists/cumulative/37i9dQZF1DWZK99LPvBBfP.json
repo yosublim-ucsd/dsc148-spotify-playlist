@@ -266,6 +266,28 @@
     {
       "album": {
         "name": "Body Language",
+        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
+      },
+      "artists": [
+        {
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438013,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
+    },
+    {
+      "album": {
+        "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
       "artists": [
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 290030,
       "name": "Madan",
       "url": "https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e"

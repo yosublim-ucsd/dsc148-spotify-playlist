@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,723 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,729 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 27 | [Play That Beat Mr\. D.J\. \- 12" Full Length](https://open.spotify.com/track/3kWGNtHAzBgrgDxPLnQq2j) | [G.L.O.B.E.](https://open.spotify.com/artist/5GDs0v4x9bGA9XTiOtb19k), [Whiz Kid](https://open.spotify.com/artist/2AHK3SwBG25XRxsNGVp5aw) | [Play That Beat Mr\. D.J.](https://open.spotify.com/album/4k6IzdXEKMiQ8LiJUmsiDU) | 6:35 |
 | 28 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 |
 | 29 | [Loopzilla \- Broadcast Version; 2000 Digital Remaster](https://open.spotify.com/track/1uDo3aV0mG2SDkSMoPwm0m) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Greatest Hits: Straight Up](https://open.spotify.com/album/73RNO2BAAyYy4kq0gP9Szu) | 5:57 |
-| 30 | [Tight Jeans](https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L) | [Prince Charles And The City Beat Band](https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b) | [Gang War](https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK) | 5:39 |
-| 31 | [Body Work](https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO) | [Hot Streak](https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd) | [Breakin' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX) | 4:25 |
+| 30 | [Body Work](https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO) | [Hot Streak](https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd) | [Breakin' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX) | 4:25 |
+| 31 | [Tight Jeans](https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L) | [Prince Charles And The City Beat Band](https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b) | [Gang War](https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK) | 5:39 |
 | 32 | [Space is the Place](https://open.spotify.com/track/4bXCEav8yrgwAaHZzGXeUK) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:28 |
 | 33 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
 | 34 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 36 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
 | 37 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
 | 38 | [Call Me Up](https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW) | [Bromar](https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S) | [Call Me Up](https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d) | 6:43 |
-| 39 | [Haven't Been Funked Enough](https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR) | 6:42 |
-| 40 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
+| 39 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
+| 40 | [Haven't Been Funked Enough](https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR) | 6:42 |
 | 41 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
 | 42 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
 | 43 | [Love So Deep](https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR) | [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Star\-Funk, Vol\. 17](https://open.spotify.com/album/3FwORjUHzBX0kWcBgzsw7Z) | 7:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCxlY2I2NjI1ODZjZjU5ODNkYjFjZjVjNmU5MGNjNWI5YTZjNmZhNWJm`
+Snapshot ID: `MCw0ZTIxZTNlMjU2MGI4MjkxZDFkN2UyODUwNGIzMDQ5ZWZkM2I5OGEw`

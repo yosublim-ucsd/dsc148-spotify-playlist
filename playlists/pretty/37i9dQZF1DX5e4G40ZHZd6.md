@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,723 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,741 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 46 | [Can't See, Baby](https://open.spotify.com/track/3emq1lvTCfXAzD1HjuA9xw) | [Jack Owens](https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5), [Bud Spires](https://open.spotify.com/artist/0y8ILRe8bg3IOiv64dF4z9) | [It Must Have Been The Devil](https://open.spotify.com/album/55H4wEobYEm5G4AhpeyT1V) | 6:05 |
 | 47 | [I Know I Done You Wrong](https://open.spotify.com/track/4VpW9tI06wuIzY693ASWOo) | [Charles Caldwell](https://open.spotify.com/artist/1an9jjH7n92jCHWRTTxFQn) | [Remember Me](https://open.spotify.com/album/473xQAzYG6hHrC6AweJ9ne) | 2:49 |
 | 48 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
-| 49 | [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 |
+| 49 | [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 |
 
-Snapshot ID: `MCw4MzA5NjFkOTBiNzVkNzYwMmJkZjQ1MTU1ODQ4MmNlYTBlZDE3MTlh`
+Snapshot ID: `MCwyNWNlOTAyNGVhOWE0NDlmNDI2YzBkY2ZmMmVjYTUzN2Q0N2VkMmVi`

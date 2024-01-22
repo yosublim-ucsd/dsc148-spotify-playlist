@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 
 > The best of Detroit Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,231 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,239 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cry](https://open.spotify.com/track/4iG6VpSawq9Bi4oGtXL11x) | [Thornetta Davis](https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb) | [Sunday Morning Music](https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0) | 4:11 |
 | 2 | [Messin' Around With The Blues](https://open.spotify.com/track/08gLhLqlD1XrcBg7evt43F) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Blues From The Heart Volume 3](https://open.spotify.com/album/061VKoRfmEY8Tmzi8j7MBF) | 6:27 |
 | 3 | [Lonesome Feeling](https://open.spotify.com/track/0byftPfdqBARAkZR33O3aK) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO) | [Lonesome Feeling \(NL 1986\) \[Blues Reference\]](https://open.spotify.com/album/6gVNy0qKhpg4S4oa2283qU) | 4:47 |
-| 4 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 |
+| 4 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
 | 5 | [The Creeper Returns](https://open.spotify.com/track/4xyzQTA9AaXAM7uPn61Fit) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [New King Of The Blues Harmonica](https://open.spotify.com/album/39qo2SRPkczFmN3UMHomlI) | 4:15 |
 | 6 | [All My Kids Is Ugly](https://open.spotify.com/track/3gpJDvL4a0gGKSN37u33MB) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Havin' Nothin' Don't Bother Me](https://open.spotify.com/album/10aST35mvcMVuRKZxwtS6U) | 5:20 |
 | 7 | [I'd Rather Be Alone](https://open.spotify.com/track/0fBqfLS5c14e39BVrs7kIR) | [Thornetta Davis](https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb) | [Honest Woman](https://open.spotify.com/album/4s0TMynFd7n5A6yd6QH789) | 6:09 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 |
 | 40 | [Orange Driver](https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO), [Eddie Burns Blues Band](https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF), [Eddie Burns, guitar, harmonica, vocal](https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i), [Joe Hunter, piano](https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a), [Frank Bryant, bass](https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3), [Bobby Welch, drums](https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp) | [Detroit](https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI) | 4:26 |
 
-Snapshot ID: `MCxiYjI0YjI3NjNiNTQ3NTdjNmFlZGZkYTRiZWEwMWY2OTA1M2QwYTQ4`
+Snapshot ID: `MCwwY2ExYmE1ZDNiNGM5NjMzMTkzZTU0NDdkMGVhMDY4NWRjOWRjMGZh`

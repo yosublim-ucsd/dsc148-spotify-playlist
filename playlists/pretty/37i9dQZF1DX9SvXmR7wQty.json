@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Beyries",
-  "num_followers": 39563,
+  "num_followers": 39565,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjkzMjc4MDM5NTBkMWRiZWYxZmM0MTYyMzYwZWRhMzlkMDI3YTQw",
+  "snapshot_id": "MCxjN2I4ZmFmYjI2NjY1MmU0ODVhYzY3ZGU5NWQ4MmQ1YmE3ZGY1NDIw",
   "tracks": [
     {
       "added_at": "2024-01-19 17:11:13",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/66Z3wwW4F6cOEv9WuPFrIq"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Emmanuelle",
-      "url": "https://open.spotify.com/track/4avh1EtU350fsmKN4splZv"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 226726,
       "name": "Je suis fou",
       "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/66Z3wwW4F6cOEv9WuPFrIq"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Emmanuelle",
+      "url": "https://open.spotify.com/track/4avh1EtU350fsmKN4splZv"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 160858,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -507,6 +507,26 @@
       "duration_ms": 176160,
       "name": "Rashel",
       "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "Chambre 140 (Part.1)",
+        "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "\u00c7a m\u00e8ne \u00e0 rien",
+      "url": "https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -583,22 +603,18 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "Chambre 140 (Part.1)",
-        "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 198773,
-      "name": "\u00c7a m\u00e8ne \u00e0 rien",
-      "url": "https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g"
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -639,18 +655,18 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "PROTOCOLE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
+        "name": "Life Is Life (C'est la vie)",
+        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
       },
       "artists": [
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 177791,
-      "name": "PROTOCOLE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
+      "duration_ms": 145525,
+      "name": "Life Is Life (C'est la vie)",
+      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -675,6 +691,22 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
+        "name": "PROTOCOLE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "PROTOCOLE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N"
       },
@@ -687,82 +719,6 @@
       "duration_ms": 183981,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "Cesium",
-        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "\u00c0 La Faveur De L'automne",
-      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "Life Is Life (C'est la vie)",
-        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 145525,
-      "name": "Life Is Life (C'est la vie)",
-      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "HOOD VOLUME.1",
-        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "MODE HARDCORE",
-      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "I Got U (feat. Niska)",
-        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "I Got U (feat. Niska)",
-      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -803,6 +759,66 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
+        "name": "HOOD VOLUME.1",
+        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "MODE HARDCORE",
+      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "Cesium",
+        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "\u00c0 La Faveur De L'automne",
+      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "I Got U (feat. Niska)",
+        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "I Got U (feat. Niska)",
+      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
         "name": "Une bonne sant\u00e9 et grave des lards",
         "url": "https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f"
       },
@@ -835,6 +851,22 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
+        "name": "CONNEXION",
+        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "CONNEXION",
+      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
         "name": "Terminus",
         "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
       },
@@ -855,18 +887,18 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+        "name": "Pourvu qu'il pleuve",
+        "url": "https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Love de toi",
-      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
+      "duration_ms": 163013,
+      "name": "Shooter",
+      "url": "https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -887,38 +919,6 @@
       "duration_ms": 189626,
       "name": "POISON",
       "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "CONNEXION",
-        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
-      },
-      "artists": [
-        {
-          "name": "Kaza",
-          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "CONNEXION",
-      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "SALE \u00c9POQUE",
-        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "MAIN MOITE",
-      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

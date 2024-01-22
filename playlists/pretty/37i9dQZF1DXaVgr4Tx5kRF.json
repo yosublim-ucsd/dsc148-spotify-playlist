@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 640044,
+  "num_followers": 640052,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTJiZjExNzJlOTU3MjMyYmE2OTIyNzE0ODgyY2E3YTlkZmEyNjUw",
+  "snapshot_id": "MCw1MmQ4ODk0YzcxMzZkZTA2OTdjNmMwM2YyYjdiYWI0N2FmNTFlMDc0",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "In It for the Money",
-        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 240066,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "In It for the Money",
+        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Brimful Of Asha (Norman Cook Remix)",
+        "url": "https://open.spotify.com/album/6SRcSN9aHcfh99CfPzCfGJ"
+      },
+      "artists": [
+        {
+          "name": "Shamoryo",
+          "url": "https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq"
+        },
+        {
+          "name": "krmd",
+          "url": "https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht"
+        },
+        {
+          "name": "Retrib",
+          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Brimful of Asha - Norman Cook Remix",
+      "url": "https://open.spotify.com/track/3ufPAjcwTb7YLTw9OcJJJv"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Attack of the Grey Lantern",
         "url": "https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL"
       },
@@ -1031,22 +1055,6 @@
       "duration_ms": 271133,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "This Is My Truth Tell Me Yours",
-        "url": "https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "You Stole The Sun From My Heart",
-      "url": "https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS"
     }
   ],
   "unique_name": "Britpop, Etc.",

@@ -1,7 +1,7 @@
 {
-  "2024-01-21": 527054,
+  "2024-01-22": 526964,
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Billlie (\ube4c\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: H1-KEY (\ud558\uc774\ud0a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -834,6 +834,24 @@
     },
     {
       "album": {
+        "name": "UNIVERSE TICKET - FINAL STATION",
+        "url": "https://open.spotify.com/album/3NztH7vDAl1pFeJKMl3bKN"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSE TICKET",
+          "url": "https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4hmPTbTJGPgd5nnQfIAdeH"
+    },
+    {
+      "album": {
         "name": "LOVE GENERATION",
         "url": "https://open.spotify.com/album/2YC8M3B0hDBavlgzsAQrjf"
       },
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 204933,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica"
@@ -2188,6 +2206,24 @@
     },
     {
       "album": {
+        "name": "GOOD MORNING",
+        "url": "https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ"
+    },
+    {
+      "album": {
         "name": "Girls\u2019 Invasion",
         "url": "https://open.spotify.com/album/4PufOTc2kPEnF2uF4iDoJb"
       },
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 180883,
       "name": "HEARTRIS",
       "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
@@ -4995,7 +5031,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 194880,
       "name": "SHOWMEYOURLOVE",
       "url": "https://open.spotify.com/track/5729t1p6g6KCWsp4gWYqvZ"
@@ -5811,6 +5847,24 @@
       "duration_ms": 213377,
       "name": "THINK OF YOU",
       "url": "https://open.spotify.com/track/3WRc86I66w62pnfUpP9NHu"
+    },
+    {
+      "album": {
+        "name": "H1-KEYnote #1 [Thinkin' About You]",
+        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
     },
     {
       "album": {

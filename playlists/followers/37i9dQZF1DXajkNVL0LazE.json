@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 88882,
+  "2024-01-22": 88950,
   "date_first_scraped": "2022-04-09",
   "description": "Indie folk that defined the 2000s.",
   "name": "00s Indie Folk",
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 363000,
       "name": "Handshake Drugs",
       "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 135440,
       "name": "If I Were",
       "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"

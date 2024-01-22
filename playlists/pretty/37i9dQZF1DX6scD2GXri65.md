@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,396 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,472 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 77 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 |
 | 78 | [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 |
 | 79 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
-| 80 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 |
+| 80 | [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 |
 
-Snapshot ID: `MCxlZWM1NDI1NjQ1ODgxNjRmMzMwZWE1MmE0MTEzNWU1N2VkMjYwZmNj`
+Snapshot ID: `MCw3MTFjODBjZjYwNDhkYTY5MzViY2U2MDhjZjJjMDc2YmJkZDg2YTE1`

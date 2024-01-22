@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 427779,
+  "num_followers": 427845,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0",
+  "snapshot_id": "MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
         "url": "https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 154666,
       "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
       "url": "https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
-      },
-      "artists": [
-        {
-          "name": "Serani",
-          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Rum Behavior",
         "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 155919,
       "name": "Rum Behavior",
       "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
+      },
+      "artists": [
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Bruk off Yuh Back",
+        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Bruk off Yuh Back",
+      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 156842,
       "name": "Sha La La (Sunday Mawnin)",
       "url": "https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Bruk off Yuh Back",
-        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Bruk off Yuh Back",
-      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1271,22 +1271,6 @@
       "duration_ms": 231266,
       "name": "Romie",
       "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Dutty Whine",
         "url": "https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0"
       },
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Parts Of The Puzzle",
         "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
@@ -1487,18 +1455,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dancehall Hero Raw: Deluxe",
-        "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
         }
       ],
-      "duration_ms": 137021,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1515,6 +1483,38 @@
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Dancehall Hero Raw: Deluxe",
+        "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 137021,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Raw as Eva",
+        "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 162377,
+      "name": "Gyal Bruk Out",
+      "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 159000,
       "name": "Paddle Boat",
       "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Raw as Eva",
-        "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 162377,
-      "name": "Gyal Bruk Out",
-      "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+        "name": "Settle Down (Destiny)",
+        "url": "https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf"
       },
       "artists": [
         {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
+      "duration_ms": 189813,
+      "name": "Settle Down (Destiny)",
+      "url": "https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b"
     }
   ],
   "unique_name": "Dancehall Party",

@@ -4,7 +4,7 @@
 
 > The best of Detroit Blues
 
-49 songs - 3 hr 18 min
+50 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bacon Fat](https://open.spotify.com/track/73ib4L0PmYxDpdqWFPLJik) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Mr\. Rhythm Presents Bacon Fat](https://open.spotify.com/album/1qMIJgTCA5zSPLOjt6plA1) | 3:03 | 2020-10-13 |  |
 | [Bacon Fat](https://open.spotify.com/track/0SSzWxy7ddDtIwuhQ8bFqp) | [Andre' Williams](https://open.spotify.com/artist/1e1BLIWpSbtzNoDCOLxQny) | [Rock'n'Roll Boogie, Vol.2](https://open.spotify.com/album/5l8CBFtwzGHEK09UMwZK7f) | 3:03 | 2020-10-13 | 2022-11-13 |
 | [Boogie Chillen](https://open.spotify.com/track/5oyKFxTeInGiLn7MVTqmMR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hooker](https://open.spotify.com/album/3QSRtkfas8Gr0vDByhFvkE) | 3:09 | 2020-10-13 | 2022-07-29 |
-| [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2020-10-13 |  |
+| [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2020-10-13 | 2024-01-22 |
+| [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 | 2020-10-13 |  |
 | [Chains Of Love](https://open.spotify.com/track/02dGchMLatXsSM6B8IUaXc) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit's Queen Of The Blues](https://open.spotify.com/album/3F2QOyq76zLPL9zriSWVMz) | 6:54 | 2020-10-13 |  |
 | [Cobb's Blues](https://open.spotify.com/track/0Ld7H6BM85TM6uZgarKZLG) | [Detroit Gary Wiggins](https://open.spotify.com/artist/4yeSZwbRtllHD7AtTmH6bg) | [Saxin' the Blues](https://open.spotify.com/album/0OBCCZoN77d7dMKbTF3Do2) | 5:08 | 2020-10-13 |  |
 | [Cry](https://open.spotify.com/track/4iG6VpSawq9Bi4oGtXL11x) | [Thornetta Davis](https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb) | [Sunday Morning Music](https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0) | 4:11 | 2020-10-13 |  |

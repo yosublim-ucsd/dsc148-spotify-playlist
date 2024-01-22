@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Prince Royce, Gabito Ballesteros
 
-1,900 songs - 4 day 15 hr 45 min
+1,901 songs - 4 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1468,7 +1468,8 @@
 | [Salud Hermana \- Versión Salsa](https://open.spotify.com/track/5fuKpEjOTfqT7jRCr00RFT) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Salud Hermana \(Versión Salsa\)](https://open.spotify.com/album/1OQEHdzUth2x4jj3dCXhWD) | 3:59 | 2023-12-08 | 2023-12-16 |
 | [Sanjuanito Triste](https://open.spotify.com/track/4BCJl0E8E3b9TKrob8ztBx) | [Deleites Andinos](https://open.spotify.com/artist/6Owz2SXUBp3slqPm22V5ML) | [Sanjuanito Triste](https://open.spotify.com/album/5uvoRDgX6bkVIyh7lixHlP) | 3:11 | 2022-07-15 | 2022-07-23 |
 | [Santa Noche](https://open.spotify.com/track/5jRRLXMVj9Cr7wsIy4C6PV) | [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Santa Noche](https://open.spotify.com/album/6o2WXWqZrqCuRKrqjX074z) | 2:19 | 2023-09-15 | 2023-09-23 |
-| [Se Armará La Rumba](https://open.spotify.com/track/1j5hHmfdvwV1l8EbNMReg1) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Se Armará La Rumba](https://open.spotify.com/album/0yBRWAohKlyGGqC83a7hFV) | 3:49 | 2023-05-19 |  |
+| [Se Armará La Rumba](https://open.spotify.com/track/1j5hHmfdvwV1l8EbNMReg1) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Se Armará La Rumba](https://open.spotify.com/album/0yBRWAohKlyGGqC83a7hFV) | 3:49 | 2023-05-19 | 2024-01-22 |
+| [Se Armará La Rumba](https://open.spotify.com/track/6Gd0Pf51qZIa4oplA2IyYm) | [Ángel Venegas y su Orquesta con Sabor](https://open.spotify.com/artist/4gEYOoeFdxOOpuIWuzOigv) | [¡Y Seguimos Aquí!](https://open.spotify.com/album/2VY0ifywK8Qgbg3vKm6zPO) | 3:51 | 2024-01-19 |  |
 | [Se Me Acabó el Amor](https://open.spotify.com/track/7GKgUn4fNzrRmh38bN0RwI) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Me Acabó el Amor](https://open.spotify.com/album/5hFa7M7ywidEvQkRFcylzC) | 3:11 | 2022-08-12 | 2022-08-20 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Se Me Ha Perdido un Corazón](https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah) | 3:21 | 2022-12-02 | 2023-02-04 |
 | [Se Me Olvidó](https://open.spotify.com/track/0JIkVs4IO4RxrvkRp7ICmu) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2) | [Se Me Olvidó](https://open.spotify.com/album/61Nqhy3GKgEz75fvh65dtM) | 3:32 | 2023-01-27 | 2023-02-04 |

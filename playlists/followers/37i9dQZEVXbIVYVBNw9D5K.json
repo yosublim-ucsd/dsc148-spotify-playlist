@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 824574,
+  "2024-01-22": 824426,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 202424,
       "name": "Alt\u00fcst Olmu\u015fum",
       "url": "https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 155748,
       "name": "Ayr\u0131 Gitme",
       "url": "https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz"
@@ -2899,7 +2899,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -4179,7 +4179,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -6001,7 +6001,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -7986,6 +7986,28 @@
     },
     {
       "album": {
+        "name": "Silah Gibi",
+        "url": "https://open.spotify.com/album/4ktOuEyfPqsFTxNupKdXoV"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143004,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/0IwoMJSeyKvHncd3XDYboj"
+    },
+    {
+      "album": {
         "name": "\u0130stanbul",
         "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
       },
@@ -8001,7 +8023,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 143004,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
@@ -9835,7 +9857,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 185960,
       "name": "Manolya",
       "url": "https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3"
@@ -12187,6 +12209,24 @@
       "duration_ms": 113752,
       "name": "Pu\u015ft",
       "url": "https://open.spotify.com/track/0jTT901BlxBFF86h6W6pbZ"
+    },
+    {
+      "album": {
+        "name": "pVg",
+        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "pVg",
+      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
       "album": {
@@ -16275,7 +16315,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 106610,
       "name": "\u015ealteri Kapatt\u0131m",
       "url": "https://open.spotify.com/track/1PqVXQrffEeYMgcnrAs4Gb"

@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 542202,
+  "2024-01-22": 542168,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -967,6 +967,32 @@
       "duration_ms": 193170,
       "name": "All Night (BAR 2023) [feat. Draken & Slim Shahin]",
       "url": "https://open.spotify.com/track/5ZvbkHsbj4KE2TKiOhmdxy"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
       "album": {
@@ -2338,6 +2364,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
         "name": "Beautiful Wave",
         "url": "https://open.spotify.com/album/3N6aCvfvY4TYEj8csu460O"
       },
@@ -2911,7 +2955,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -2983,7 +3027,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 129130,
       "name": "Blendende Lys (Sprut)",
       "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
@@ -4017,7 +4061,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
@@ -4807,7 +4851,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -9719,7 +9763,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 172333,
       "name": "Goaskinviellja",
       "url": "https://open.spotify.com/track/678dUljUx1OwlipKUBgdAB"
@@ -13916,6 +13960,28 @@
     },
     {
       "album": {
+        "name": "Jeg Vil Ha (Parlamentet)",
+        "url": "https://open.spotify.com/album/4fmW2uDRJrCrdwkpDxEbL8"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        },
+        {
+          "name": "Roc Meiniac",
+          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183615,
+      "name": "Jeg Vil Ha (Parlamentet)",
+      "url": "https://open.spotify.com/track/1pSrMgCZXNg8Yicl0mJOnb"
+    },
+    {
+      "album": {
         "name": "Jente i Oslo",
         "url": "https://open.spotify.com/album/59Hwuvf6mtaILTwkxWbOyI"
       },
@@ -15109,7 +15175,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 243623,
       "name": "Kristoffer Robin",
       "url": "https://open.spotify.com/track/6qECeG4hIl0jXP4XaGUTaC"
@@ -18381,7 +18447,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -19530,6 +19596,28 @@
     },
     {
       "album": {
+        "name": "ok jeg lover",
+        "url": "https://open.spotify.com/album/5dvJFEvL2HVipJpcOlZj9k"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238550,
+      "name": "ok jeg lover",
+      "url": "https://open.spotify.com/track/63toIh9OgvWV32FAUMYiTO"
+    },
+    {
+      "album": {
         "name": "S\u00c5 KLART DET GJ\u00d8R VONDT",
         "url": "https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj"
       },
@@ -20043,7 +20131,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 135784,
       "name": "oslo",
       "url": "https://open.spotify.com/track/5GEkZwMVEbHvoEZU9cZtWl"
@@ -23414,6 +23502,24 @@
     },
     {
       "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -23815,6 +23921,28 @@
       "duration_ms": 208192,
       "name": "Snart Jul",
       "url": "https://open.spotify.com/track/3Q4I6aJiDWQ3OBbqz6USJj"
+    },
+    {
+      "album": {
+        "name": "MEST ELSKET & Hatet",
+        "url": "https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Martin Hazy",
+          "url": "https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193851,
+      "name": "Snop",
+      "url": "https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p"
     },
     {
       "album": {
@@ -26793,7 +26921,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 182733,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7"
@@ -27952,6 +28080,28 @@
     },
     {
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -28217,7 +28367,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 200225,
       "name": "Who Took You Away (Mu \u00c1hkku)",
       "url": "https://open.spotify.com/track/6xjZTRvcy7FgpgD93Hjbae"
@@ -28730,6 +28880,24 @@
     },
     {
       "album": {
+        "name": "You Love Who You Love",
+        "url": "https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185743,
+      "name": "You Love Who You Love",
+      "url": "https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -28861,7 +29029,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 266346,
       "name": "Zanotti",
       "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
@@ -29003,6 +29171,28 @@
       "duration_ms": 138250,
       "name": "\u00d6ver gr\u00e4nsen",
       "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
+    },
+    {
+      "album": {
+        "name": "\u00d6verallt (El Papi Remix)",
+        "url": "https://open.spotify.com/album/32BfwbuV96HOSVXUU4WFrx"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124882,
+      "name": "\u00d6verallt - El Papi Remix",
+      "url": "https://open.spotify.com/track/5IAuh9oWMz58zSBebAjstu"
     },
     {
       "album": {

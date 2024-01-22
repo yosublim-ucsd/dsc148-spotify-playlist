@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sini Sabotage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,016 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,007 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 |
 | 63 | [Meitä on niin moneksi](https://open.spotify.com/track/1RkhcamFYTUsJTjRfWdas7) | [ELLEN](https://open.spotify.com/artist/0FnBO1GgWyy799GIfGX9Pu), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta), [Antti Karsee](https://open.spotify.com/artist/6YijeCCZDuweMA7lm55yhS) | [Meitä on niin moneksi](https://open.spotify.com/album/7Ijt9DZbYnXPMyQXmRV4H9) | 3:03 |
 
-Snapshot ID: `MCxkN2ZjZGQzMTM5NzNlODJjNzNkZmU0YmE0ZDhmNDliZjNkMWQzYWE0`
+Snapshot ID: `MCxiNzU5YzJhYjA5YmI2MWYzMmIyZmYxMThjZTEwODgxMWIzMzdmMTM0`

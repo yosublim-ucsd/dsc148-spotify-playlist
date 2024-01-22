@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 601539,
+  "2024-01-22": 601576,
   "date_first_scraped": "2023-02-25",
   "description": "All your favourite mood boosting bangers...",
   "name": "Happy Pop Hits",
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"

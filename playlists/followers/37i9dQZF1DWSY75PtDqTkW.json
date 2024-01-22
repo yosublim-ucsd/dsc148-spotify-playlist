@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 89117,
+  "2024-01-22": 89195,
   "date_first_scraped": "2023-02-25",
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
   "name": "Quality Time",
@@ -1807,7 +1807,7 @@
       },
       "artists": [
         {
-          "name": "Kane",
+          "name": "KANE",
           "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
         },
         {
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 224573,
       "name": "High Places - Radio Edit",
       "url": "https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 224573,
       "name": "High Places - Radio Edit",
       "url": "https://open.spotify.com/track/61astKgCviWvZBzarzoLj3"

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 116774,
+  "num_followers": 116744,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTlhNzRmMDJhMGZlMWNjZDM5NTE3MGUyMTg2N2YxNWMyMjU4MjY4",
+  "snapshot_id": "MCwwODZjMzJiNjVjNjcxOGNiNmE1ODFhZmJhMDQxOGEzNzc5ZTJmYjMw",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 215276,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 215276,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
     },
     {
       "added_at": "2023-12-19 09:14:04",

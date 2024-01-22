@@ -4,7 +4,7 @@
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-45 songs - 2 hr 42 min
+46 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [True Love's Last Kiss](https://open.spotify.com/track/1bEKgHo3T22HwGHhrFt5rw) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 3:17 | 2023-08-16 |  |
 | [Unrequited Love](https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO) | [Ari Posner](https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4), [Amin Bhatia](https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv) | [Anne With An E \(Music From The Netflix Original Series\)](https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM) | 2:30 | 2023-08-02 |  |
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2023-08-02 |  |
-| [when the party's over](https://open.spotify.com/track/2arqmjBq0VGm1wNdCuNpnQ) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Sebastian Pecznik](https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx) | [Reprise](https://open.spotify.com/album/6BjlK1XHXrxBpXhhfLjLnF) | 3:14 | 2023-08-02 |  |
+| [when the party's over](https://open.spotify.com/track/2arqmjBq0VGm1wNdCuNpnQ) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Sebastian Pecznik](https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx) | [Reprise](https://open.spotify.com/album/6BjlK1XHXrxBpXhhfLjLnF) | 3:14 | 2023-08-02 | 2024-01-22 |
+| [when the party's over](https://open.spotify.com/track/3v9Tso2HrmjWU5SqFlQKkp) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Sebastian Pecznik](https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx) | [Reprise](https://open.spotify.com/album/3jXgIIuIHv8cje2rccEDNy) | 3:14 | 2023-10-12 |  |
 | [Whisper of a Thrill \- From "Meet Joe Black"](https://open.spotify.com/track/6qRuIMQhfOAGYENdhHukBG) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [The Film Music of Thomas Newman \(Special Edition\)](https://open.spotify.com/album/4BIOssgFmo3cEICbV9z3Ry) | 6:16 | 2023-08-02 |  |
 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 | 2023-08-02 |  |
 

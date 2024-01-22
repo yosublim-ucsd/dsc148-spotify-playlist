@@ -1,12 +1,12 @@
 {
   "description": "New music discovery is what we're about. Try it on for size. Cover: Niko Moon",
-  "num_followers": 1200322,
+  "num_followers": 1200552,
   "original_name": "New Boots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDQ2NGE3MTA4ZGJhNzgwYjNiMDZmNjBhZWIzZjkyMTYxYmUxMzUz",
+  "snapshot_id": "MCw3NWRjNTJhMTQxOWJjNTIzZjNkZTU1ZDA1YzM4MDYyODc3NTA5YTdl",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -396,12 +396,12 @@
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
       "duration_ms": 184173,

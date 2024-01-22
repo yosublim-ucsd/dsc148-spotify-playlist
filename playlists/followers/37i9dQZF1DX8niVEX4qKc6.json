@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 180043,
+  "2024-01-22": 180083,
   "date_first_scraped": "2023-08-25",
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
   "name": "Modo Ac\u00fastico",
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
@@ -1609,6 +1609,24 @@
       "duration_ms": 161559,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG"
+    },
+    {
+      "album": {
+        "name": "Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279994,
+      "name": "Paloma - Romaphonic",
+      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
     },
     {
       "album": {

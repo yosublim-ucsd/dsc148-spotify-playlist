@@ -4,7 +4,7 @@
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-65 songs - 3 hr 25 min
+66 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Come Back Baby](https://open.spotify.com/track/061qVrfyTW07DCB9B4BBmI) | [Doctor Ross](https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn) | [Come Back Baby / Chicago Breakdown](https://open.spotify.com/album/14WqCYoHNfJBr2GCdsees3) | 2:47 | 2021-10-29 |  |
 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 | 2018-02-27 |  |
 | [Cool Drink Of Water](https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd) | [Houston Stackhouse](https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb) | [The Devil's Music Vol\. 1](https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57) | 3:16 | 2016-03-22 |  |
-| [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2018-02-27 |  |
+| [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2018-02-27 | 2024-01-22 |
 | [Crawlin' King Snake](https://open.spotify.com/track/44MnBtzl9HSjWql6Bu1fON) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Original Folk Blues of John Lee Hooker](https://open.spotify.com/album/61gpX9twWkjKAE316DUPLk) | 3:01 | 2018-02-27 | 2022-11-13 |
+| [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 | 2018-02-27 |  |
 | [Crawlin' King Snake](https://open.spotify.com/track/3DQhvYiIPe7DrfTKuI2Uc6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL) | 3:02 | 2018-02-27 | 2022-07-29 |
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2016-03-22 |  |
 | [Cypress Grove Blues](https://open.spotify.com/track/3JPS9XaJtmBQXyJLKR2twp) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ), [Jack Owens](https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5) | [50 YEARS Mississippi Blues in Bentonia](https://open.spotify.com/album/4yYLSeTmtInZXtSuy1rGav) | 3:09 | 2018-02-27 |  |

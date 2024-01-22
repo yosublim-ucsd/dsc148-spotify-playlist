@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 50537,
+  "2024-01-22": 50604,
   "date_first_scraped": "2023-12-19",
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
   "name": "Tierra Caliente",
@@ -865,7 +865,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 145697,
       "name": "El Nudo (Parangaricutirimicuaro)",
       "url": "https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM"
@@ -1865,6 +1865,24 @@
       "duration_ms": 169906,
       "name": "Palomita De Alas Blancas",
       "url": "https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO"
+    },
+    {
+      "album": {
+        "name": "Entre Copa y Copa",
+        "url": "https://open.spotify.com/album/1D7zhkYRBiSsOB2p6090Jk"
+      },
+      "artists": [
+        {
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240143,
+      "name": "Para el Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/2v0arlA4BS2RHrdp6zkdL5"
     },
     {
       "album": {

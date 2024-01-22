@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,484 likes - 232 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,071 likes - 232 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 231 | [Brown Noise Ambient Music](https://open.spotify.com/track/37oGrZzNz0rlx9Eku8ayim) | [Ablation](https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD) | [Brown Noise for Focus](https://open.spotify.com/album/7m6H0VaqjftnVc7cUsdAHo) | 2:25 |
 | 232 | [Brown Noise Hibernation](https://open.spotify.com/track/44y7Vy4aMXcERazTG82Jgj) | [Alex Slumber](https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF) | [Lull To Brown Noise](https://open.spotify.com/album/5SNc4dgsOvkjPVwtoctXL7) | 3:10 |
 
-Snapshot ID: `MCwxZjM3OWIyMWNhNzE0NmZhOWQwNDUwYTQ5YzZmZGU2OTU0MTAyZjU3`
+Snapshot ID: `MCxlMDYwYWZjZTFkMTY1YTg5YTRiZmFhM2I0MTBmOGMyNDY3MTIzNWIy`

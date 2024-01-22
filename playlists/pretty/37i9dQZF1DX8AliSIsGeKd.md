@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adana Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,197 likes - 90 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,367 likes - 90 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Fusion](https://open.spotify.com/track/5ZSnQuZBgw9aYVFdYJsWVi) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Fusion](https://open.spotify.com/album/3SFsRlJFhaPDWNnSIlr2UA) | 5:37 |
 | 90 | [3 Minutes to Midnight](https://open.spotify.com/track/17vUDLauEwEjjU07yPfFke) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [3 Minutes to Midnight](https://open.spotify.com/album/27g2GDQgR5sWnPubtotYAJ) | 3:37 |
 
-Snapshot ID: `MCw4OGRlNGVmN2NhNGY1NjFiODdlYTBjNzc0YTMzYTcwMDAxMmJiOTc0`
+Snapshot ID: `MCxhODE4ZTRiZDVhOGE5NzkyOGJhY2FkNzQ2N2I3YTUyMDQwOGJmYjc2`

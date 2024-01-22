@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Beyries
 
-2,273 songs - 5 day 1 hr 23 min
+2,274 songs - 5 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1323,7 +1323,7 @@
 | [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 | 2023-11-25 |
 | [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-20 | 2023-10-27 |
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 | 2023-09-30 |
-| [MAIN MOITE](https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [SALE ÉPOQUE](https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2) | 3:03 | 2023-11-10 |  |
+| [MAIN MOITE](https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [SALE ÉPOQUE](https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2) | 3:03 | 2023-11-10 | 2024-01-22 |
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
 | [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 | 2023-10-27 | 2024-01-21 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |
@@ -1877,6 +1877,7 @@
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-04-23 |
 | [shoot](https://open.spotify.com/track/3YezPHKA3W9qk4fISAuLul) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [shoot](https://open.spotify.com/album/5CVphjoNSHUR7YRGrGk6zE) | 3:19 | 2023-03-24 | 2023-04-22 |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-01-28 | 2022-02-12 |
+| [Shooter](https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:43 | 2024-01-19 |  |
 | [Show Me Your Love](https://open.spotify.com/track/28FhvHsbYVt42ftSlJ15tA) | [Randy](https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g) | [Show Me Your Love](https://open.spotify.com/album/6QRZsooXS3WIkinpPbTQr5) | 2:24 | 2022-05-06 | 2022-05-20 |
 | [Si j'avais \(feat\. La Fouine\)](https://open.spotify.com/track/3uymlCR4UeQQvspZdk7tkW) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [Si j'avais \(feat\. La Fouine\)](https://open.spotify.com/album/1XtIE8Nq5SIk1S11wuXnfx) | 3:34 | 2023-03-31 | 2023-05-06 |
 | [Si j'savais](https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Si j'savais](https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC) | 3:43 | 2022-05-06 | 2022-05-20 |

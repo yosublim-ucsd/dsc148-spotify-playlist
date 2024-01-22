@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 80664,
+  "num_followers": 80741,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2I0NzQxZjUzYTA5NDRmNWE4YTExM2UwNTYyYWRlODZlYzUxZmM2",
+  "snapshot_id": "MCw2ZTFkYmNhY2Y2NjM5MmI5Mjc4MGI3OTM2ODA4OGQwODNlY2MwMWJi",
   "tracks": [
     {
       "added_at": "2024-01-19 05:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Maroon",
-        "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Pinch Me",
-      "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
         "name": "Recollection",
         "url": "https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 277240,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Maroon",
+        "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Pinch Me",
+      "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
         "name": "Driving",
         "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
         }
       ],
-      "duration_ms": 176997,
-      "name": "99 Nights",
-      "url": "https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE"
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "99 Nights",
+      "url": "https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Navy Blues",
-        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
-      },
-      "artists": [
-        {
-          "name": "Sloan",
-          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
-        }
-      ],
-      "duration_ms": 233916,
-      "name": "Money City Maniacs",
-      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
         "name": "Five Easy Pieces",
         "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 190946,
       "name": "I Don't Know - EP Version",
       "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2024-01-19 05:01:00",

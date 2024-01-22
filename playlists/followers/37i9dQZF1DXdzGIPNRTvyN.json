@@ -1,5 +1,5 @@
 {
-  "2024-01-21": 197217,
+  "2024-01-22": 197833,
   "date_first_scraped": "2023-02-09",
   "description": "Wander into the magical mix of music, water, birds, and calmness. ",
   "name": "Dreamy Forest Music",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-21",
       "duration_ms": 150884,
       "name": "432 Hz Omgivande",
       "url": "https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg"
@@ -2163,6 +2163,24 @@
       "duration_ms": 150000,
       "name": "Nocturne in the rain",
       "url": "https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171504,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-214 songs - 13 hr 2 min
+215 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |
 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-09-29 | 2023-05-19 |
 | [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 | 2022-06-16 | 2022-10-13 |
-| [Myself](https://open.spotify.com/track/2T4f9d9bO2rIZUVS5ZJnT8) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/0Cc8lcgSAIfCXazniLOFCc) | 2:49 | 2022-09-29 |  |
+| [Myself](https://open.spotify.com/track/1XJwwlluFBmcSvStCBjymn) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/3hn3bS37SO5BAPkBdu1sbF) | 2:49 | 2024-01-17 |  |
+| [Myself](https://open.spotify.com/track/2T4f9d9bO2rIZUVS5ZJnT8) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/0Cc8lcgSAIfCXazniLOFCc) | 2:49 | 2022-09-29 | 2024-01-22 |
 | [Next To You \- Acoustic version](https://open.spotify.com/track/5pid4PH5JuHZILuJtPBunP) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You \(Acoustic version\)](https://open.spotify.com/album/1mdBhSCSWMMvsWetFgKrnU) | 3:53 | 2021-12-09 | 2022-02-10 |
 | [No Clouds No Love](https://open.spotify.com/track/5XFbZWqWXasU1DGx5Xxfsl) | [whothefislou](https://open.spotify.com/artist/3wyFq7XvimcjTGC0RifBZW), [ambrozia](https://open.spotify.com/artist/7k6t9onDZKvbED454IY0Lm) | [Wavelength](https://open.spotify.com/album/4zFHXvzqE5erI4pwYZyohF) | 3:33 | 2023-11-09 |  |
 | [No Logic \(Acoustic\)](https://open.spotify.com/track/0kfg8qkgNNB13UZx7eJhRo) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic \(Acoustic\)](https://open.spotify.com/album/6BhR7hFBFu0MkS4jaq4xd7) | 2:50 | 2022-06-16 | 2023-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Digital Astro, Baby Gang, ANNA, Rondo, Boro, Q40 e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,034 likes - 85 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,074 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Real Talk Cypher \- Liguria](https://open.spotify.com/track/5WTOboLMIbK0nGYD8a9IIp) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Gorka](https://open.spotify.com/artist/5WSgrT7SJvF9mGM9n4pXI3), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Vago](https://open.spotify.com/artist/56N8hLxOJ0bKCCMpU9c1Fj), [Saint Lorent](https://open.spotify.com/artist/6zSI0kna06qz9A7Ovkr4sI) | [Real Talk Cypher \- Liguria](https://open.spotify.com/album/2iCUZwHm2F98Zo7688gZ51) | 4:48 |
 | 85 | [Note Blues](https://open.spotify.com/track/2UV8nrdwtPPW9QHJ2sVcKN) | [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE) | [Note Blues](https://open.spotify.com/album/3YTNwsF8JhYkxyMyeX9HPt) | 2:52 |
 
-Snapshot ID: `MCw4OGZiNmRhY2E0MTAwNzI4MGIwOGE5OWE2ZGRhOGRjOTFhMWNmMTNi`
+Snapshot ID: `MCwxMzVkZmFiYzYyOTMxNDIzODIzZGFlMjliMDRlYTEyZjU0Njc1NzQ3`

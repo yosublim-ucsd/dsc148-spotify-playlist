@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122483,
+  "num_followers": 122458,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3",
+  "snapshot_id": "MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "SRA",
+        "url": "https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "SRA",
+      "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Bemb\u00e9",
         "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 197560,
       "name": "Bemb\u00e9",
       "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "SRA",
-        "url": "https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb"
-      },
-      "artists": [
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "SRA",
-      "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Feel Like Honey",
-        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
       },
       "artists": [
         {
-          "name": "Future Feelings",
-          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 236130,
-      "name": "Feel Like Honey - Radio Edit",
-      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -367,6 +351,22 @@
       "duration_ms": 271573,
       "name": "Descanse",
       "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Feel Like Honey",
+        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
+      },
+      "artists": [
+        {
+          "name": "Future Feelings",
+          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "Feel Like Honey - Radio Edit",
+      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -627,38 +627,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Tierra del Fuego",
-        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
-      },
-      "artists": [
-        {
-          "name": "Tayhana",
-          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
-        }
-      ],
-      "duration_ms": 234468,
-      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
-      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nz\u00fambi",
         "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 238492,
       "name": "Platano Macho",
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Tierra del Fuego",
+        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
+      },
+      "artists": [
+        {
+          "name": "Tayhana",
+          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+        }
+      ],
+      "duration_ms": 234468,
+      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
+      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH"
+      },
+      "artists": [
+        {
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
+        }
+      ],
+      "duration_ms": 271928,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 252936,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271928,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

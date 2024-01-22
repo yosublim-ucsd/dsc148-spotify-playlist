@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 61658,
+  "num_followers": 61824,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODBiNmU0MTU0NGU3MjVlNGNmM2NhZjQ5ZDU4OGY1ODkxOWE0YTY3",
+  "snapshot_id": "MCw5M2MzYTg0MjljODczMTQ4OWY1ZGVlMTAzNTI2YTAwMDQzOTAxMWZh",
   "tracks": [
     {
       "added_at": "2024-01-05 04:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Coalescence",
-        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        },
-        {
-          "name": "Gabe Saltman",
-          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "Coalescence",
-      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Take 5 - Solips (Klaus Sahm Rework)",
         "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 175346,
       "name": "Take 5 - Solips - Klaus Sahm Rework",
       "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Coalescence",
+        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        },
+        {
+          "name": "Gabe Saltman",
+          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "Coalescence",
+      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -955,30 +955,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Circle 29",
-        "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
-      },
-      "artists": [
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 178951,
-      "name": "Circle 29",
-      "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Esja",
         "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 138529,
       "name": "Esja",
       "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Circle 29",
+        "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 178951,
+      "name": "Circle 29",
+      "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Lost Time - Strings Version",
-        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Lost Time - Strings Version",
-      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "the world is finally quiet",
         "url": "https://open.spotify.com/album/7lCUmeQ7puZK4IQ2BAchPq"
       },
@@ -1179,22 +1159,6 @@
       "duration_ms": 236394,
       "name": "Partisans",
       "url": "https://open.spotify.com/track/0vkkQav4MwEM0uGJNjMbDz"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1215,6 +1179,42 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Lost Time - Strings Version",
+        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Lost Time - Strings Version",
+      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "\u00c9closion",
+        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "\u00c9closion",
+      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Parkbench",
-        "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
       "artists": [
         {
-          "name": "Dear Gravity",
-          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
         }
       ],
-      "duration_ms": 221024,
-      "name": "Parkbench",
-      "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Parkbench",
+        "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Parkbench",
+      "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Waterfelt",
         "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223326,
       "name": "Waterfelt",
       "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
         "name": "Floreana",
         "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 263608,
       "name": "Leading Somewhere",
       "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Sweet Coast",
-        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sweet Coast",
-      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Tramlines",
         "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 226669,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
+        "name": "Agape",
+        "url": "https://open.spotify.com/album/6vNxKWNqLIjOS4mVu2RmMh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Scott Davis",
+          "url": "https://open.spotify.com/artist/7aVSFlFtPWfpMvELFDXWlB"
+        },
+        {
+          "name": "Asia Dojnikowska",
+          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
+        },
+        {
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
+        }
+      ],
+      "duration_ms": 306131,
+      "name": "Agape",
+      "url": "https://open.spotify.com/track/3pmjcsSMoIlKYYNc7BK0bG"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
         "name": "Satori by the Sea",
         "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
@@ -1719,30 +1743,6 @@
     {
       "added_at": "2024-01-05 04:00:00",
       "album": {
-        "name": "Agape",
-        "url": "https://open.spotify.com/album/6vNxKWNqLIjOS4mVu2RmMh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Scott Davis",
-          "url": "https://open.spotify.com/artist/7aVSFlFtPWfpMvELFDXWlB"
-        },
-        {
-          "name": "Asia Dojnikowska",
-          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
-        },
-        {
-          "name": "Glowworm",
-          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
-        }
-      ],
-      "duration_ms": 306131,
-      "name": "Agape",
-      "url": "https://open.spotify.com/track/3pmjcsSMoIlKYYNc7BK0bG"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
         "name": "Nomadland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 246257,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
-    },
-    {
-      "added_at": "2024-01-05 04:00:00",
-      "album": {
-        "name": "Notes of Longing",
-        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
-      },
-      "artists": [
-        {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
-        }
-      ],
-      "duration_ms": 195019,
-      "name": "The Young Weaver",
-      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     },
     {
       "added_at": "2024-01-05 04:00:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
+    },
+    {
+      "added_at": "2024-01-05 04:00:00",
+      "album": {
+        "name": "Notes of Longing",
+        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 195019,
+      "name": "The Young Weaver",
+      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     }
   ],
   "unique_name": "Not Quite Classical",

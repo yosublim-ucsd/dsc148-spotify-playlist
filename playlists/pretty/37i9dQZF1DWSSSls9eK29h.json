@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 131069,
+  "num_followers": 131190,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
+  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Ties That Bind",
-        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "For The Love Of You",
         "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 275333,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Ties That Bind",
+        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 317133,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
+      },
+      "artists": [
+        {
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 326933,
       "name": "West End",
       "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -811,18 +811,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
       },
       "artists": [
         {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
         }
       ],
-      "duration_ms": 280306,
-      "name": "Breakfast with Tiffany",
-      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+      "duration_ms": 301080,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -843,6 +843,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 280306,
+      "name": "Breakfast with Tiffany",
+      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 207000,
       "name": "Glass Dolphins",
       "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
     },
     {
       "added_at": "2020-08-19 00:00:21",

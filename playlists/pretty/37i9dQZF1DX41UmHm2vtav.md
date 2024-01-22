@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,168 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,283 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 4 | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk) | 3:37 |
 | 5 | [Cante por Nós](https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Cante por Nós](https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm) | 3:29 |
 | 6 | [Anunciação \- Jopin Remix](https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Anunciação \(Jopin Remix\)](https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs) | 3:25 |
-| 7 | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Lowsince](https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw) | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii) | 2:56 |
-| 8 | [Don't Let It Go](https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Don't Let It Go](https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6) | 3:03 |
+| 7 | [Don't Let It Go](https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Don't Let It Go](https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6) | 3:03 |
+| 8 | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Lowsince](https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw) | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii) | 2:56 |
 | 9 | [Table For 2](https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Table For 2](https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw) | 2:56 |
 | 10 | [Céu Azul \- Vintage Culture & Santti Remix](https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Vintage Culture & Friends 2](https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA) | 4:21 |
 | 11 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [A Dois Passos do Paraíso](https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h) | [SoFly](https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO), [Duckhandz](https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E) | [A Dois Passos do Paraíso](https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8) | 3:18 |
 | 70 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 
-Snapshot ID: `MCxmZDQ4NGFlZWQyM2U0MjNkNGY1MDI1MWRjMWZhYmZiYjYyZGIzM2Ey`
+Snapshot ID: `MCwwNWEzZTgzYTkxMDFmZjBhYmRiZTNmNjU3NDI2ZmE4YzkxMmE5ZDIy`
