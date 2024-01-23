@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VI VILL HA LÅDVIN UH DET ÄR VÅR BENSIN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,188 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,184 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FLICKORNA SOM BUSAR](https://open.spotify.com/track/2XuHrava3lXFaUVMIj95Jk) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [FLICKORNA SOM BUSAR](https://open.spotify.com/album/6DZRSld6n6JMb2ebNEFES0) | 2:13 |
 | 100 | [RULLA MED MIG](https://open.spotify.com/track/7AYd3bkvwgf4Z7lk8L9AG2) | [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh) | [RULLA MED MIG](https://open.spotify.com/album/46RVSyoZ87uLMJYc4Jo2YT) | 1:55 |
 
-Snapshot ID: `MCxjMmYzMTdmYjU3YTU5NDAzMWJmNmE1MmI2MWExMDM5NDc5YWE2OGIx`
+Snapshot ID: `MCwyNzk2Y2UyOGNiZDIwMjgyMmRmZDRjNTZhMzZhOGNiOTA4ZmMxZmYw`

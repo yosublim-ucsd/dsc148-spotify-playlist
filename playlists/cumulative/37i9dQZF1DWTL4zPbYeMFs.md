@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-83 songs - 6 hr 2 min
+84 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chhalka Chhalka Re](https://open.spotify.com/track/1xf8CRmSxglu1ikMhmdAiq) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF), [Shoma](https://open.spotify.com/artist/7CRk1A0vdDJmyvoA3I4SkN) | [Mardaani's Picks Vol\-3 \(Original\)](https://open.spotify.com/album/1jovWFh0n5lhPO6lMXe71T) | 5:46 | 2022-03-14 |  |
 | [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 | 2023-12-12 |  |
 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 | 2024-01-18 |  |
+| [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/track/1kTEGyqUJFgstwdgJFLqz1) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/album/1vaX8lnpErNywb6HwJBOsw) | 5:01 | 2024-01-22 |  |
 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 | 2022-03-14 |  |
 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 | 2022-03-14 |  |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2022-03-14 |  |
@@ -42,7 +43,7 @@
 | [Laung Da Lashkara](https://open.spotify.com/track/5pQODzb8j3xMQ1qvrQXJvo) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 5:04 | 2023-05-23 |  |
 | [Laung Gawacha](https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha \- Single](https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak) | 3:37 | 2023-05-23 | 2023-09-02 |
 | [Laung Gawacha](https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha](https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc) | 3:42 | 2023-08-08 |  |
-| [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 | 2022-03-14 |  |
+| [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 | 2022-03-14 | 2024-01-23 |
 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 | 2022-03-14 |  |
 | [Le Jaana](https://open.spotify.com/track/0fvM6VGLEvqEVGDMlvvrQu) | [Lekka](https://open.spotify.com/artist/4KZQDP37PjXuTFWaRwq3aT), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Le Jaana](https://open.spotify.com/album/0ND4RpJKxM00Mt1XuLMFhg) | 3:38 | 2023-02-15 | 2024-01-19 |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2023-10-12 | 2023-10-16 |

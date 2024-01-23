@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107779,
+  "num_followers": 107780,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy",
+  "snapshot_id": "MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Org\u00e1nico",
-        "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Sigo Mi Camino",
+        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Yo Te Esperare",
+      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Sigo Mi Camino",
-        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Yo Te Esperare",
-      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs"
     },
     {
-      "added_at": "2023-01-25 00:22:47",
-      "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
-    },
-    {
       "added_at": "2022-05-06 18:26:25",
       "album": {
         "name": "\u00c9xitos de Oro",
@@ -423,6 +407,22 @@
       "duration_ms": 196649,
       "name": "Y Como Es \u00c9l",
       "url": "https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK"
+    },
+    {
+      "added_at": "2023-01-25 00:22:47",
+      "album": {
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 186734,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -479,22 +479,6 @@
       "duration_ms": 292338,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 231521,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -639,6 +623,22 @@
       "duration_ms": 204216,
       "name": "Traicionero",
       "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -707,6 +707,22 @@
       "duration_ms": 249910,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
       },
@@ -844,22 +844,6 @@
       "added_at": "2022-05-06 18:26:25",
       "album": {
         "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Ya Me Enter\u00e9",
         "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
       },
       "artists": [
@@ -871,6 +855,22 @@
       "duration_ms": 158493,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Corazon, Perro Fiel, Echame La Culpa,",
-        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
-      },
-      "artists": [
-        {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
-        }
-      ],
-      "duration_ms": 193736,
-      "name": "Corazon, Perro Fiel, Echame La Culpa,",
-      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Escapate Conmigo",
         "url": "https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Corazon, Perro Fiel, Echame La Culpa,",
+        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
+      },
+      "artists": [
+        {
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+        }
+      ],
+      "duration_ms": 193736,
+      "name": "Corazon, Perro Fiel, Echame La Culpa,",
+      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Dulce (A La La La La Long)",
         "url": "https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
-      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 127128,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
+      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1155,22 +1155,6 @@
       "duration_ms": 215200,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
-      },
-      "artists": [
-        {
-          "name": "Latam Sonora",
-          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1227,6 +1211,38 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Felices Los 4 (Version Cumbia)",
         "url": "https://open.spotify.com/album/735ID4Ax2DldOpClH686PW"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 168375,
       "name": "Felices Los 4 - Version Cumbia",
       "url": "https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
-      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2022-05-06 18:26:25",

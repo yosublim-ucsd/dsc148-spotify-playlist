@@ -1,63 +1,15 @@
 {
   "description": "Elvis Presley's most romantic songs. ",
-  "num_followers": 74404,
+  "num_followers": 74450,
   "original_name": "Love Me Tender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjJiY2Q2MGUzOGUxMjJhODBkYmNjM2Y5ZmVjMDFmNDM1NzVjMDg2",
+  "snapshot_id": "MCxjOGJlM2M0OGJiYjA5NGMwMzNjNjE3ZTIzODBmNzdmMTVmY2NmNTJj",
   "tracks": [
     {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Blue Hawaii",
-        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Moody Blue",
-        "url": "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "Unchained Melody - Live at Ann Arbor, MI",
-      "url": "https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "G.I. Blues",
-        "url": "https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Pocketful of Rainbows",
-      "url": "https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
@@ -73,103 +25,7 @@
       "url": "https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "NBC-TV Special (Live)",
-        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Memories - Live from the '68 Comeback Special",
-      "url": "https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Kentucky Rain",
-      "url": "https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "(Marie's The Name) His Latest Flame",
-      "url": "https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis Is Back",
-        "url": "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Platinum - A Life In Music",
-        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Are You Lonesome Tonight?",
-      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
@@ -185,7 +41,7 @@
       "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
@@ -196,15 +52,15 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 170293,
-      "name": "Burning Love",
-      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+      "duration_ms": 218440,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "'68 Comeback Special (50th Anniversary Edition) [Live]",
-        "url": "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm"
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
       "artists": [
         {
@@ -212,35 +68,15 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Memories - Stereo Mix",
-      "url": "https://open.spotify.com/track/6jGzInaZ1QyKLNw61an9y5"
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "Something for Everybody",
-        "url": "https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Gently",
-      "url": "https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Love Letters from Elvis",
-        "url": "https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO"
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
       "artists": [
         {
@@ -248,12 +84,60 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/70VGbJWNkb6xZyjgR3GpQP"
+      "duration_ms": 186666,
+      "name": "Are You Lonesome Tonight?",
+      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Moody Blue",
+        "url": "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "Unchained Melody - Live at Ann Arbor, MI",
+      "url": "https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis Is Back",
+        "url": "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
+        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "I'll Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/4yT5usLhavd4mzP14LSiPU"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw"
@@ -269,71 +153,7 @@
       "url": "https://open.spotify.com/track/5ZKZ4wJsIRBCnVJAMXDJ94"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
-        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Raised On Rock",
-        "url": "https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "For Ol' Times Sake",
-      "url": "https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
-        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 127453,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Clambake",
-        "url": "https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 149960,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt"
@@ -349,7 +169,39 @@
       "url": "https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Today (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/62p6cgUc0cdguS1DttbfKU"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "(Marie's The Name) His Latest Flame",
+      "url": "https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis Country",
         "url": "https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN"
@@ -369,10 +221,10 @@
       "url": "https://open.spotify.com/track/0LoDU83vAUpVxYfJvyxxRc"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "Today (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x"
+        "name": "NBC-TV Special (Live)",
+        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
       },
       "artists": [
         {
@@ -380,28 +232,12 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 219066,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/62p6cgUc0cdguS1DttbfKU"
+      "duration_ms": 200353,
+      "name": "Memories - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis At Stax",
-        "url": "https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "She Wears My Ring",
-      "url": "https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "That's the Way It Is",
         "url": "https://open.spotify.com/album/5Daouulcid6tWztS39KWhc"
@@ -417,10 +253,10 @@
       "url": "https://open.spotify.com/track/3Kb4kr3DGzzU5OtYqycWvE"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
-        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
       "artists": [
         {
@@ -428,15 +264,15 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 152186,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ"
+      "duration_ms": 195720,
+      "name": "Kentucky Rain",
+      "url": "https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "Spinout",
-        "url": "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M"
+        "name": "G.I. Blues",
+        "url": "https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT"
       },
       "artists": [
         {
@@ -444,15 +280,15 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 165053,
-      "name": "I'll Remember You",
-      "url": "https://open.spotify.com/track/4yt0DRCLWr1608bGXGcD5u"
+      "duration_ms": 154533,
+      "name": "Pocketful of Rainbows",
+      "url": "https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
-        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
-        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
       "artists": [
         {
@@ -460,108 +296,12 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 224680,
-      "name": "I'll Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/4yT5usLhavd4mzP14LSiPU"
+      "duration_ms": 170293,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Have I Told You Lately That I Love You",
-      "url": "https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis",
-        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "I Want You, I Need You, I Love You",
-      "url": "https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "It's Midnight",
-      "url": "https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
-      "album": {
-        "name": "Elvis 30 #1 Hits (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 112226,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ"
-    },
-    {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
@@ -577,7 +317,87 @@
       "url": "https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80"
     },
     {
-      "added_at": "2023-02-06 12:23:34",
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 112226,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "I Want You, I Need You, I Love You",
+      "url": "https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Love Letters from Elvis",
+        "url": "https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/70VGbJWNkb6xZyjgR3GpQP"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
       "album": {
         "name": "Elvis: Close Up",
         "url": "https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C"
@@ -591,6 +411,186 @@
       "duration_ms": 145333,
       "name": "I Can't Stop Loving You - Live at Convention Center Arena, San Antonio, TX - April 18, 1972",
       "url": "https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Have I Told You Lately That I Love You",
+      "url": "https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Spinout",
+        "url": "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 165053,
+      "name": "I'll Remember You",
+      "url": "https://open.spotify.com/track/4yt0DRCLWr1608bGXGcD5u"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Elvis At Stax",
+        "url": "https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "She Wears My Ring",
+      "url": "https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
+        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 127453,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 168786,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Something for Everybody",
+        "url": "https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "'68 Comeback Special (50th Anniversary Edition) [Live]",
+        "url": "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Memories - Stereo Mix",
+      "url": "https://open.spotify.com/track/6jGzInaZ1QyKLNw61an9y5"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "It's Midnight",
+      "url": "https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Clambake",
+        "url": "https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7"
+    },
+    {
+      "added_at": "2024-01-22 12:48:18",
+      "album": {
+        "name": "Raised On Rock",
+        "url": "https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "For Ol' Times Sake",
+      "url": "https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd"
     }
   ],
   "unique_name": "Love Me Tender",

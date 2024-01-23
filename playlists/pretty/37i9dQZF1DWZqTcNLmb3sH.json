@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56911,
+  "num_followers": 56916,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTgyZjY0Y2RjNzNjZDZmZWJlMTE3ODM2ZmExOGM3ZDcyZTI3MmIz",
+  "snapshot_id": "MCw5ZWE0NzYzMGUxNzdjNjFhNjEzNGZjYjM0MDM4ODU1Mzk5MjMyZThj",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -85,6 +85,58 @@
       "url": "https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC"
     },
     {
+      "added_at": "2024-01-22 08:39:08",
+      "album": {
+        "name": "Haadada Haadu (From \"Mehbooba\")",
+        "url": "https://open.spotify.com/album/6HyxTreEoe1vebT5H4J54h"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Mathews Manu",
+          "url": "https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 231965,
+      "name": "Haadada Haadu (From \"Mehbooba\")",
+      "url": "https://open.spotify.com/track/7rig2O6TcRfWrlDzrLeymN"
+    },
+    {
+      "added_at": "2024-01-22 08:37:31",
+      "album": {
+        "name": "Romanchana (From \"Juni\")",
+        "url": "https://open.spotify.com/album/3olV402fAZaYtEXV144hLJ"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        }
+      ],
+      "duration_ms": 203714,
+      "name": "Romanchana (From \"Juni\")",
+      "url": "https://open.spotify.com/track/7rtkNIEoWbE6l1pS4G7gXX"
+    },
+    {
       "added_at": "2024-01-18 12:03:12",
       "album": {
         "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
@@ -103,6 +155,22 @@
       "duration_ms": 172020,
       "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
       "url": "https://open.spotify.com/track/09FHQjJvTHGz0xwN3dLuBW"
+    },
+    {
+      "added_at": "2024-01-22 08:42:35",
+      "album": {
+        "name": "Preethiya Maye (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/1Jsjpd7MwSz0gleVFxcRFZ"
+      },
+      "artists": [
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "duration_ms": 116515,
+      "name": "Preethiya Maye (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/3Cn8oH0ECkHGvlqObtYuZO"
     },
     {
       "added_at": "2024-01-19 12:46:26",
@@ -1517,46 +1585,6 @@
       "url": "https://open.spotify.com/track/09wh3jYi5473v4WIjkfYAh"
     },
     {
-      "added_at": "2023-11-17 13:22:50",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/13yrMhlXs2Xyx2iEgyBMt1"
-      },
-      "artists": [
-        {
-          "name": "Sathyam Keys",
-          "url": "https://open.spotify.com/artist/2bvf8E8XhFZDvy3m7BM0AE"
-        }
-      ],
-      "duration_ms": 130110,
-      "name": "He Is Ghost",
-      "url": "https://open.spotify.com/track/1vjl4mLAiMKpkdjYx646GR"
-    },
-    {
-      "added_at": "2023-11-27 07:28:34",
-      "album": {
-        "name": "ANIMAL (KANNADA)",
-        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Harshavardhan Rameshwar",
-          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 321675,
-      "name": "Nanna Ravi Neene",
-      "url": "https://open.spotify.com/track/5ydy6eHHqXTZmG0ODdDMdw"
-    },
-    {
       "added_at": "2023-11-07 07:43:50",
       "album": {
         "name": "Olave Olave (From \"Sapta Sagaradaache Ello - Side B\")",
@@ -1667,30 +1695,6 @@
       "duration_ms": 129009,
       "name": "Bham Bham Bole (From \"Cicada\")",
       "url": "https://open.spotify.com/track/53mRiu9ELgDp6PpbvKvEDJ"
-    },
-    {
-      "added_at": "2023-11-15 09:54:00",
-      "album": {
-        "name": "Jeevamaana (From \"Garadi\")",
-        "url": "https://open.spotify.com/album/3wy7tCMVwKKKX8dqikIXqr"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        }
-      ],
-      "duration_ms": 226434,
-      "name": "Jeevamaana (From \"Garadi\")",
-      "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
     }
   ],
   "unique_name": "Latest Kannada",

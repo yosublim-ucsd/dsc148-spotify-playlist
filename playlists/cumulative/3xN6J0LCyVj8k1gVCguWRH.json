@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/1WGgvoJLLdk2dTstjoAIX2"
+      },
+      "artists": [
+        {
+          "name": "Becca Hannah",
+          "url": "https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202176,
+      "name": "13",
+      "url": "https://open.spotify.com/track/5daNK6VX2ejilbwpwl8RAe"
+    },
+    {
+      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/2A7S0tgNAP15YFMd8vqrtJ"
       },
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 212880,
       "name": "Ain't Like Me",
       "url": "https://open.spotify.com/track/7hwOvz2bw8Id4ymKBta2JJ"
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 144000,
       "name": "Anything You Need",
       "url": "https://open.spotify.com/track/1aZl5fwUgjEbXAcK879VL0"
@@ -11226,7 +11244,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 195572,
       "name": "C\u00falpame",
       "url": "https://open.spotify.com/track/3V4KnzS51NS5H5xOAFoNoR"
@@ -11812,6 +11830,24 @@
       "duration_ms": 186017,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC"
+    },
+    {
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/7wToFoUAAE2DJuB1fvzB9J"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/5la4XzokHk20mBFEwsvoPc"
     },
     {
       "album": {
@@ -13649,6 +13685,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6s3Jqfp7KifWtCzWzt83xK"
+      },
+      "artists": [
+        {
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221747,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/7l5oDmgxDEhtZpdxeZzCg9"
+    },
+    {
+      "album": {
         "name": "Fire of Love",
         "url": "https://open.spotify.com/album/0aMEDEKyABJnk6igBA7hZs"
       },
@@ -14442,7 +14496,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 214750,
       "name": "Eleventh Hour",
       "url": "https://open.spotify.com/track/76u0TkiRQbd4Tn8gK7YZGs"
@@ -22388,7 +22442,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 220115,
       "name": "I Can't Wait Forever",
       "url": "https://open.spotify.com/track/2JumCkCV16a4Nk6CccGGRb"
@@ -24602,7 +24656,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 197508,
       "name": "into the blackhole",
       "url": "https://open.spotify.com/track/62dIc92wJsmNNEiMYTmDjG"
@@ -25026,6 +25080,24 @@
       "duration_ms": 251397,
       "name": "Jade",
       "url": "https://open.spotify.com/track/1EP5xEYpW1uEYHAZIVEQqc"
+    },
+    {
+      "album": {
+        "name": "Jaja",
+        "url": "https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80"
+      },
+      "artists": [
+        {
+          "name": "Tutipsy",
+          "url": "https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170542,
+      "name": "Jaja",
+      "url": "https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD"
     },
     {
       "album": {
@@ -36228,7 +36300,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 272173,
       "name": "Overgrown",
       "url": "https://open.spotify.com/track/707NYb26XutDGTooaeXMpt"
@@ -36684,7 +36756,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 192920,
       "name": "PASSION",
       "url": "https://open.spotify.com/track/7poeTqmLXXJC92wqbdRunV"
@@ -44842,7 +44914,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 253658,
       "name": "Summer Is Gone",
       "url": "https://open.spotify.com/track/74kh8ClAEu4aqr3ibvURxb"
@@ -48552,7 +48624,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 157374,
       "name": "time with u",
       "url": "https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs"
@@ -49222,7 +49294,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 150000,
       "name": "Trapalquimia",
       "url": "https://open.spotify.com/track/2FeJ6kbJqpkt8s6nvYwyYU"

@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 359907,
+  "num_followers": 360075,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWM3YmI3NmE1YjQ5MDljNTRmYWQ5ZGIzY2IyYzk1ZjA3ZmJjYjkx",
+  "snapshot_id": "MCwyZTkzZDMzOWRmZjYxNjk3YTM4ZTBiODdmMzY5ZWZjNzE1Y2I4MTQ5",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Mirror Mirror (Showtek 360 Blue Edit)",
-        "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187132,
-      "name": "Mirror Mirror (Showtek 360 Blue Edit)",
-      "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Baby When The Light",
         "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 155165,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+        "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187132,
+      "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+      "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1455,6 +1455,42 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Sensual, on Ecstasy (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 324718,
+      "name": "Sensual, on Ecstasy - Sped Up Version",
+      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Better Off Alone (Hardstyle)",
+        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        },
+        {
+          "name": "LEOJ",
+          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Better Off Alone - Hardstyle",
+      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
         "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
       },
@@ -1471,22 +1507,6 @@
       "duration_ms": 207815,
       "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
       "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Sensual, on Ecstasy (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 324718,
-      "name": "Sensual, on Ecstasy - Sped Up Version",
-      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Better Off Alone (Hardstyle)",
-        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        },
-        {
-          "name": "LEOJ",
-          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Better Off Alone - Hardstyle",
-      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "O Fortuna",
         "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
       },
@@ -1695,42 +1711,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+        "name": "Alors On Danse",
+        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Numb (Aftershock Remix)",
-        "url": "https://open.spotify.com/album/6w9952uhK6D5H5nGXt0YNp"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
         },
         {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
         },
         {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
         }
       ],
-      "duration_ms": 226075,
-      "name": "Numb - Aftershock Remix",
-      "url": "https://open.spotify.com/track/3npJiA8jl1eBs0nwxKlnVs"
+      "duration_ms": 135565,
+      "name": "Alors On Danse",
+      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1759,6 +1759,30 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Numb (Aftershock Remix)",
+        "url": "https://open.spotify.com/album/6w9952uhK6D5H5nGXt0YNp"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 226075,
+      "name": "Numb - Aftershock Remix",
+      "url": "https://open.spotify.com/track/3npJiA8jl1eBs0nwxKlnVs"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Chasing Highs (LIZOT Remix)",
         "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
       },
@@ -1775,30 +1799,6 @@
       "duration_ms": 133593,
       "name": "Chasing Highs - LIZOT Remix",
       "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Alors On Danse",
-        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Hyper Hamster",
-          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
-        },
-        {
-          "name": "PET3RPUNX",
-          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
-        }
-      ],
-      "duration_ms": 135565,
-      "name": "Alors On Danse",
-      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1867,26 +1867,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/1O6PuOIzcMjwsHjInZyBPz"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "BAYZY",
-          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
-        },
-        {
-          "name": "Oleria",
-          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 146482,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1915,22 +1911,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/1O6PuOIzcMjwsHjInZyBPz"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
         },
         {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+          "name": "BAYZY",
+          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+        },
+        {
+          "name": "Oleria",
+          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
         }
       ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+      "duration_ms": 146482,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
     },
     {
       "added_at": "2024-01-18 23:00:00",

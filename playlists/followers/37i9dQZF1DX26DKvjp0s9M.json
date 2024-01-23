@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 950801,
+  "2024-01-23": 951085,
   "date_first_scraped": "2021-12-21",
   "description": "The best of the best from oldies to new classics. Cover: Mac DeMarco",
   "name": "Essential Indie",
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"

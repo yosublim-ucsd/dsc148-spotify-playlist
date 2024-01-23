@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 76340,
+  "num_followers": 76401,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODdjNjE0ODEyZGRiMmM2ZDMzZWY2NWI2ZWIyNzdjYWRhYmFiNGMy",
+  "snapshot_id": "MCw2YTM3YjExYTM2MzAzYjlmMzNmMjMzYjEzNTg1YzczYjU4NTI5ZWJk",
   "tracks": [
     {
       "added_at": "2024-01-19 16:25:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
-        "name": "Girls Just Wanna",
-        "url": "https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 130478,
-      "name": "Girls Just Wanna",
-      "url": "https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
         "name": "the Rake (can\u2019t complain)",
         "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181714,
       "name": "the Rake (can\u2019t complain)",
       "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
+        "name": "Girls Just Wanna",
+        "url": "https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 130478,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
         "name": "Break From Jersey",
         "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 151874,
       "name": "Break From Jersey",
       "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
-        "name": "Throw Dat",
-        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Throw Dat",
-      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
         "name": "Cupid, Pt. 2",
         "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 102948,
       "name": "Cupid, Pt. 2",
       "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
-        "name": "Left Cheek (Doo Doo Blick)",
-        "url": "https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Left Cheek (Doo Doo Blick)",
-      "url": "https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+        "name": "Left Cheek (Doo Doo Blick)",
+        "url": "https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+      "duration_ms": 174757,
+      "name": "Left Cheek (Doo Doo Blick)",
+      "url": "https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
         "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
         "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2024-01-19 16:25:37",
@@ -1371,6 +1371,30 @@
     {
       "added_at": "2024-01-19 16:25:37",
       "album": {
+        "name": "Clout Chaser Pt. 4",
+        "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
+      },
+      "artists": [
+        {
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+        },
+        {
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        }
+      ],
+      "duration_ms": 150022,
+      "name": "Clout Chaser Pt. 4",
+      "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
+    },
+    {
+      "added_at": "2024-01-19 16:25:37",
+      "album": {
         "name": "BE FORREAL",
         "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
       },
@@ -1411,22 +1435,6 @@
       "duration_ms": 128000,
       "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
       "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
-    },
-    {
-      "added_at": "2024-01-19 16:25:37",
-      "album": {
-        "name": "The 90s Lied To Us",
-        "url": "https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95"
-      },
-      "artists": [
-        {
-          "name": "Dave Childz",
-          "url": "https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk"
-        }
-      ],
-      "duration_ms": 103781,
-      "name": "The 90s Lied To Us",
-      "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

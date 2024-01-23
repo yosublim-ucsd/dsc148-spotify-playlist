@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-667 songs - 1 day 1 hr 17 min
+669 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [ANTHEM](https://open.spotify.com/track/3HDtj6GdxPL6YsimJFT5DD) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ANTHEM](https://open.spotify.com/album/2v4VXge6cTbMn32CqtekaV) | 2:59 | 2022-07-22 | 2022-08-07 |
 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 | 2022-08-26 |  |
 | [ARCHANGEL](https://open.spotify.com/track/2C38tr7Qwrum8WJLnFnGVf) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [ARCHANGEL](https://open.spotify.com/album/4iLY9g8XHuDqIv5DHneCBo) | 2:48 | 2023-02-24 | 2023-03-18 |
-| [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 | 2023-09-29 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 | 2023-09-29 | 2024-01-23 |
+| [AREAMATE MIZ](https://open.spotify.com/track/2xIwyvnngUMIicY5S878bw) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/5oK1imDovp9wQucztWuafS) | 1:16 | 2023-09-29 |  |
 | [AREAMATE MIZ](https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3) | 1:20 | 2023-09-29 | 2023-11-08 |
 | [AREAMATE MIZ](https://open.spotify.com/track/53UBdhRf5D42DSvw0WXM1a) | [Anar](https://open.spotify.com/artist/1p9AqKDvau2vOdRPj04dGp) | [AREAMATE MIZ](https://open.spotify.com/album/2rSCvCqIW9US2DOhd7U5QY) | 1:20 | 2023-09-29 | 2023-12-07 |
 | [AREAMATE MIZ](https://open.spotify.com/track/0PW8SEPqoQGQPbQQQCuWk8) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3O8rLwUhaombLniabIsX5d) | 1:20 | 2023-09-29 | 2023-12-10 |
@@ -510,8 +511,9 @@
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
 | [robot rock](https://open.spotify.com/track/3yhv4I91mB3ykLImccAXXV) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [robot rock](https://open.spotify.com/album/4LsaHLgUewiHLWEzeqgQwN) | 2:33 | 2023-12-01 | 2024-01-21 |
 | [robot rock \(funk\)](https://open.spotify.com/track/6M5Zzk6BAbo4YTvUCTsIen) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29) | [robot rock \(funk\)](https://open.spotify.com/album/4doU2xxrxSK6BHe3TjsKdW) | 2:33 | 2023-12-01 | 2024-01-11 |
+| [Robot Rock \(funk\)](https://open.spotify.com/track/4WlO3Mb8cDzTVHxFQkP3pi) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [Robot Rock \(funk\)](https://open.spotify.com/album/5vNGbfKZZngxw51VUAzaIE) | 2:31 | 2023-12-01 |  |
 | [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 | 2023-12-01 | 2024-01-16 |
-| [Robot Rock \- Funk Remix](https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [Robot Rock \(Funk Remix\)](https://open.spotify.com/album/2Nus2h0JQmdCxs2jHHVzfp) | 2:33 | 2023-12-01 |  |
+| [Robot Rock \- Funk Remix](https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [Robot Rock \(Funk Remix\)](https://open.spotify.com/album/2Nus2h0JQmdCxs2jHHVzfp) | 2:33 | 2023-12-01 | 2024-01-23 |
 | [Robot Rock \- Remix](https://open.spotify.com/track/0fm4a0b9oDoLhhCSAtU8OH) | [Gatito Malo](https://open.spotify.com/artist/7JMpsXUQIJCt2l9o4BnBfF) | [Robot Rock \(Remix\)](https://open.spotify.com/album/1TJ6izayiTzSUAHznF1AgF) | 2:33 | 2023-12-01 | 2024-01-10 |
 | [ROGUE!](https://open.spotify.com/track/5VzcuUMmk1ElMCKQORCkC4) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [ROGUE!](https://open.spotify.com/album/0duKirYgihhKCEGnzXnPQm) | 2:06 | 2022-11-25 | 2023-02-18 |
 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 | 2022-02-18 | 2022-08-13 |

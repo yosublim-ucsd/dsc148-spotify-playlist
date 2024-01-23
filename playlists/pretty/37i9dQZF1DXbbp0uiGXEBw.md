@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Mỹ Tâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,113 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,126 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 | 50 | [Cho Em Xin Lỗi Đi Mà](https://open.spotify.com/track/6ZOe2ZJdRUtnwamMOUWM8p) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [LoveLY](https://open.spotify.com/album/0DXeyDmPnzqDmusQDfunGp) | 3:48 |
 
-Snapshot ID: `MCxjYzQ5NTQ1ZjdmYmQzMGJlMTBhMjZlZjA3ZTc5ZmM0OWI1NDdjZWRi`
+Snapshot ID: `MCwyMWZkMWZjMWRlZWZjZjBhN2NlNGUxYjMyM2NhOWJjZDAwNTlmZTQ1`

@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-330 songs - 1 day 5 hr 29 min
+331 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 | 2021-02-25 | 2022-09-17 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2022-07-29 |
 | [Dietrofront](https://open.spotify.com/track/3wiXVSR84GM7qZnorfK7md) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Dietrofront](https://open.spotify.com/album/5VyZvAfaPCj6MVASqP7FnD) | 6:17 | 2020-11-21 | 2022-07-29 |
-| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 |  |
+| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 | 2024-01-23 |
 | [Dream//Expanse](https://open.spotify.com/track/1eZkqX08AurtH7oDQIZjda) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1) | 6:20 | 2020-12-03 | 2022-07-29 |
 | [Duet 2](https://open.spotify.com/track/6V98lrVuD5LClmIyoDT0jV) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 5:02 | 2021-07-26 | 2022-07-29 |
 | [Electric Garden](https://open.spotify.com/track/0ahbYEKQ71Jur2y1O6M9GI) | [Conrad Schnitzler](https://open.spotify.com/artist/79f49kyfxgPm1WF8EHz2vf) | [Ballet Statique](https://open.spotify.com/album/7srWOayQ40gjqHdc0UpNNa) | 12:49 | 2021-02-25 | 2021-03-06 |
@@ -331,6 +331,7 @@
 | [White Cyclosa](https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:13 | 2021-02-24 | 2023-02-02 |
 | [White Cyclosa](https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:13 | 2021-10-20 |  |
 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2020-10-20 | 2023-12-24 |
+| [Wind On Water](https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 5:29 | 2021-10-20 |  |
 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 | 2023-03-31 | 2023-05-09 |
 | [Yes! Come Parade With Us](https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 4:54 | 2021-10-20 | 2023-02-05 |
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2020-07-07\* | 2022-07-28 |

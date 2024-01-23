@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 535563,
+  "2024-01-23": 535548,
   "date_first_scraped": "2022-01-01",
   "description": "Nothing but the best in modern country music. Cover: Wyatt Flores",
   "name": "All About Country",
@@ -1451,12 +1451,12 @@
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
       "date_added": "2023-11-17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,824 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,978 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Stitched Up](https://open.spotify.com/track/4Ggs9ddCiXMhjSYmvBBUuU) | [Beerwolf](https://open.spotify.com/artist/3B1fGSgxcPnDHGEloDLyi5) | [Common Grief](https://open.spotify.com/album/74P1BOFZGOxKgtaXnO7NJw) | 3:07 |
 | 100 | [Mirror Game](https://open.spotify.com/track/6yqxM7jzslZdhNzUHvb8YG) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [Mirror Game](https://open.spotify.com/album/2xLjjPv1UimaUAeBqUQCvE) | 2:54 |
 
-Snapshot ID: `MCw0N2ZjMDAzYzA2ZTA3MDE3YjdiZDQzNzg5ODkxYTgyYzg3ZTRiODMx`
+Snapshot ID: `MCwzNGNiYjkxYjJiODQzOWM0YjVhNzYyNTcyMDU0OTk0NDU2ODY5ZDdm`

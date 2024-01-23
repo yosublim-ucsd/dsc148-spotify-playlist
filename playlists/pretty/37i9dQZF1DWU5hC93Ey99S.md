@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,581 likes - 146 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,704 likes - 146 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 145 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
 | 146 | [Part Of Me](https://open.spotify.com/track/2RoSWh7aLeK5XA1iDKuv1s) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Part Of Me](https://open.spotify.com/album/1zDzf9fXQ9SVxxsmgoyYQx) | 2:23 |
 
-Snapshot ID: `MCwyZmM0OTU0ZDc4YzJiY2UyNjkwMzM3MDExOGU3YTllMjI2ZmEyNTJi`
+Snapshot ID: `MCw5OGE2ODNmMjYxNGI2OGI5NzkzNmQ4ZmUyMjM2Nzk3ZDFjODNmZDI5`

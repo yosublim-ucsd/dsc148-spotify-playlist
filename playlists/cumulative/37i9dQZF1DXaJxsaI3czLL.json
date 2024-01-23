@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Hors d'oeuvre",
+        "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
+      },
+      "artists": [
+        {
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128216,
+      "name": "Hors d'oeuvre",
+      "url": "https://open.spotify.com/track/4AxN2IvyWimakIFXvSmXuS"
+    },
+    {
+      "album": {
         "name": "la RINASCENTE",
         "url": "https://open.spotify.com/album/5lF6oP8XkIndSxM4ZsBWV3"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 251826,
       "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
       "url": "https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t"
@@ -7128,7 +7146,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
@@ -7342,7 +7360,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 337898,
       "name": "\u8679\u3068\u30ab\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"

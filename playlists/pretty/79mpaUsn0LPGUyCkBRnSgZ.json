@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTMyMSxiZDNlY2Q2ZWFiM2Q4NjhkZTA1YzJlYzYwM2JlYWRiNGVkOThlZjE0",
+  "snapshot_id": "MTMyMixiNzAyZTVhOWVlZjFlMWY2ZDg3YWYxZTk1ZmRkYmYyMjI1NmUzYzVi",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -6931,6 +6931,22 @@
       "duration_ms": 239000,
       "name": "Kuwakaribisha (Welcome)",
       "url": "https://open.spotify.com/track/6VbNofC5FUPe5Zl62bx1wX"
+    },
+    {
+      "added_at": "2024-01-22 16:59:35",
+      "album": {
+        "name": "If I Sit Here Long Enough",
+        "url": "https://open.spotify.com/album/2TcTUQz8kWFf0wXT7dgWAz"
+      },
+      "artists": [
+        {
+          "name": "Violet Pine",
+          "url": "https://open.spotify.com/artist/6wmZyabjfKGIsSiQQxj93r"
+        }
+      ],
+      "duration_ms": 408584,
+      "name": "Rhododendron Overlook",
+      "url": "https://open.spotify.com/track/01zy9hOX1ZcvF1qjQC3EJr"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: LeeHi",
-  "num_followers": 796512,
+  "num_followers": 796551,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmMxZmQ3ZTY3YzRlZGU5YjYwZTIwMzlkYjM0NDgyZGI1MzQyNTgy",
+  "snapshot_id": "MCxkMjNhMDllNThmMWFlZjIxNWRiNTE0NDVkYTJjYTViYTI5MzM3YmEy",
   "tracks": [
+    {
+      "added_at": "2024-01-22 09:02:21",
+      "album": {
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
     {
       "added_at": "2024-01-19 05:56:48",
       "album": {
@@ -823,22 +839,6 @@
       "duration_ms": 166560,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
-    },
-    {
-      "added_at": "2024-01-16 09:00:00",
-      "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh"
     }
   ],
   "unique_name": "K-Pop Rising",

@@ -1,12 +1,12 @@
 {
   "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya",
-  "num_followers": 68696,
+  "num_followers": 68707,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmQyY2Q2YjA2YWM1MWYyMGVkZjY4NzI1MGY1NDUwM2U0ZGMzNDA3",
+  "snapshot_id": "MCxjMGY4ZDZmMDhiMzkxOGFhNDNmNWY3NTJlOTViNzliZTkzN2FjMmI1",
   "tracks": [
     {
       "added_at": "2024-01-19 07:54:49",
@@ -95,6 +95,42 @@
       "duration_ms": 170500,
       "name": "Khul Ja",
       "url": "https://open.spotify.com/track/4wLE1GQIGPBZh9HRdJ1RZI"
+    },
+    {
+      "added_at": "2024-01-22 12:11:42",
+      "album": {
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        },
+        {
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Hrishi Giridhar",
+          "url": "https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc"
+        },
+        {
+          "name": "The Rajasthani Choro",
+          "url": "https://open.spotify.com/artist/4VjWbWfTifUdOCkNYuCzOR"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Tham Zaraa",
+      "url": "https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK"
     },
     {
       "added_at": "2024-01-19 07:54:49",
@@ -759,22 +795,6 @@
       "duration_ms": 222121,
       "name": "Mere Ranjhana",
       "url": "https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
-        "name": "Yaad hai?",
-        "url": "https://open.spotify.com/album/1hbxIkhKdanaIt4I3baxm0"
-      },
-      "artists": [
-        {
-          "name": "Abhiruchi Singh",
-          "url": "https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4"
-        }
-      ],
-      "duration_ms": 152074,
-      "name": "Yaad hai?",
-      "url": "https://open.spotify.com/track/1EosQq2rAflF6CPRAuGTI2"
     },
     {
       "added_at": "2023-12-22 06:52:38",

@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5729,
+  "num_followers": 5735,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTIxZTNlMjU2MGI4MjkxZDFkN2UyODUwNGIzMDQ5ZWZkM2I5OGEw",
+  "snapshot_id": "MCxlY2I2NjI1ODZjZjU5ODNkYjFjZjVjNmU5MGNjNWI5YTZjNmZhNWJm",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Lost in Space",
-        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
-      },
-      "artists": [
-        {
-          "name": "Jonzun Crew",
-          "url": "https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59"
-        }
-      ],
-      "duration_ms": 383541,
-      "name": "We are the Jonzun Crew",
-      "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Prelude Mastermixes, Vol.3",
         "url": "https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 686266,
       "name": "Mega-Mix \"Prelude #1\" - Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train (Dub) & Body Music",
       "url": "https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
+      },
+      "artists": [
+        {
+          "name": "Jonzun Crew",
+          "url": "https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59"
+        }
+      ],
+      "duration_ms": 383541,
+      "name": "We are the Jonzun Crew",
+      "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
     },
     {
       "added_at": "2020-08-28 18:46:05",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,555 songs - 4 day 11 hr 3 min
+1,556 songs - 4 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2020-03-16 | 2021-03-06 |
 | [Girl](https://open.spotify.com/track/4QFEUktWf0JfhpFr2RZc8A) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/1AQE19wKZonTmYjOFOJKTJ) | 4:01 | 2020-05-18 | 2020-07-03 |
 | [Give It Back](https://open.spotify.com/track/0CBa8Q66dSMUkxk2Ctd8jY) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-01-12 |
+| [Give It Up](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Give It Up](https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u) | 5:16 | 2024-01-19 |  |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-07-18 | 2020-10-09 |
 | [Gliding](https://open.spotify.com/track/6pQlrYdRh9ok8RH2KjERCR) | [Man with Roses](https://open.spotify.com/artist/0BBbzYKSv3a8JcZKmQ1sEK) | [Shadows](https://open.spotify.com/album/1HnPer7GKwHxaGYendApBx) | 3:37 | 2020-11-13 | 2021-03-06 |
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-05-20 | 2022-12-29 |
@@ -650,7 +651,7 @@
 | [I SEE IT COMING](https://open.spotify.com/track/6SOaduO5kMDbwJf7obaBVi) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [PIRILAMPO](https://open.spotify.com/album/249ymAktXFSKOCAe1IRy5i) | 3:04 | 2022-08-26 | 2022-09-10 |
 | [I Still Need You](https://open.spotify.com/track/3WM935x8fQpvSskUP1LHPB) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Still Need You](https://open.spotify.com/album/0y0HmUGFAEhTS62TlZI3Rj) | 2:58 | 2021-09-03 | 2022-12-29 |
 | [I Still See Your Face \- Flaws Remix](https://open.spotify.com/track/0LM454mldaBTzxFQl3hOHi) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Flaws](https://open.spotify.com/artist/0DX1pMk1b22S536hNGtFDY) | [I Still See Your Face \- The Remixes](https://open.spotify.com/album/6ByapU4JtyCZxL0GrHDgB9) | 3:04 | 2020-03-30 | 2020-07-03 |
-| [I Talk To Water \(with Perry Farrell\)](https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:57 | 2023-10-27 |  |
+| [I Talk To Water \(with Perry Farrell\)](https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:57 | 2023-10-27 | 2024-01-23 |
 | [I Think About](https://open.spotify.com/track/1bRoG7iTZOaZ25oAebXueO) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [I Think About](https://open.spotify.com/album/1FGjc4yboCGRimMrWZkebe) | 3:47 | 2021-06-11 | 2022-07-29 |
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2021-03-27 | 2022-09-24 |
 | [I Wanna Know](https://open.spotify.com/track/4XgIfTSrjbyLTa71j8HRva) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [I Wanna Know](https://open.spotify.com/album/6mJWG8zHzWVAegZGOaWpto) | 3:04 | 2020-05-19 | 2020-07-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:3u2W429W7BHf3rjbdHUir1">"El Obama" Carlos Anderson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,909 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,932 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Esperanza](https://open.spotify.com/track/37zkaEhKEIpUoRSHSWgLlq) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Esperanza](https://open.spotify.com/album/6Zl0rlh2PTqFXrH2dH55rI) | 3:28 |
 | 100 | [JE NE SAIS QUOI](https://open.spotify.com/track/3ZcAEpfrD1N1TMMwtJevGx) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [JE NE SAIS QUOI](https://open.spotify.com/album/33AUHnT9FampCjPsiBlKtY) | 3:06 |
 
-Snapshot ID: `MCxmYThhYzUzOTJiYzI0N2JhOTYwZTMyMTBlZTFjMGQ1MDNjNGU2OWJh`
+Snapshot ID: `MCw4ZDIyNTIzNWEyNTBkYzQyNWM5NWI5OWVjN2YzMWJhNzgwYTVlNWMy`

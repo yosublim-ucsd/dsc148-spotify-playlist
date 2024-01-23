@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Isla Mujeres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,608 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,618 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Canción para Julisa](https://open.spotify.com/track/4IfZutD0wM94Z1ZSRgOs61) | [Las Himalayas](https://open.spotify.com/artist/5pSf62Wri4TGYAqxXUpnrZ) | [Canción para Julisa](https://open.spotify.com/album/4ZJQBjSdUWnuEeLYShlJwG) | 4:02 |
 | 50 | [Poco conocidos](https://open.spotify.com/track/31KZQ7ARCrcTh8EccEkXhv) | [Polaroid](https://open.spotify.com/artist/0hEtJNpcxV8mSifel0SKuv) | [Poco conocidos](https://open.spotify.com/album/3mvc1ha94TkNz0NsB8Pddf) | 3:20 |
 
-Snapshot ID: `MCwwYTYwMjJjYmYxNzc3MmRkYWU3MTBiZDFjYWE5ZDgwMTU4YjI4OTdi`
+Snapshot ID: `MCxhYmUyZTAzNzVjM2U0ZjA5YTY2YmIwNDNiM2I2MDlmMjhlY2VkMjQw`

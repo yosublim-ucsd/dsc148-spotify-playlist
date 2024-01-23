@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: ANADIE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,451 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,453 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Sin Buscar](https://open.spotify.com/track/6t86NqJsQfJOEv45tg64RJ) | [Roger BG](https://open.spotify.com/artist/2Fkxq4GIDdtGOj2sQqBiXP), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx) | [Sin Buscar](https://open.spotify.com/album/1WqgH4OEUt3gnH7HJkrWMj) | 2:25 |
 | 50 | [TU Y YO](https://open.spotify.com/track/6LwBovXiSWyGNuKEXtR4rD) | [Sanzzz](https://open.spotify.com/artist/1vVjd1HIXSvhQKsRfCLg18), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [TU Y YO](https://open.spotify.com/album/20nTVzI2onyXSGXrOSSuWP) | 2:33 |
 
-Snapshot ID: `MCxlY2ZhMzkxNzdhMTA0MTU2MzRhY2VhODU4MjUwMTE2YTMzZDgyYzA0`
+Snapshot ID: `MCwwM2VmYWVkYmQxYzg2YWU0NGVkYzIyMDQwNzQ0ZGU4Y2NjZGFkZWJi`

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32982,
+  "num_followers": 32973,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
+  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "BLa*_*",
+        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "BLa*_*",
+      "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Liebe ist laut",
         "url": "https://open.spotify.com/album/1TRfC92EI3Hu8nQFzZINMA"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 149250,
       "name": "Liebe ist laut",
       "url": "https://open.spotify.com/track/4LsesejjZmoZgxdbrO5vGf"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "BLa*_*",
-        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
-      },
-      "artists": [
-        {
-          "name": "futurebae",
-          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "BLa*_*",
-      "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "TROUBLESHOOTER",
         "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 140029,
       "name": "CRISIS QUEEN",
       "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Just Us Going",
-        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Just Us Going",
-      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193259,
       "name": "Love",
       "url": "https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Just Us Going",
+        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Just Us Going",
+      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Wie New York",
-        "url": "https://open.spotify.com/album/52Nau5AyIfvUzSjgGEj97p"
-      },
-      "artists": [
-        {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
-        }
-      ],
-      "duration_ms": 186636,
-      "name": "Wie New York",
-      "url": "https://open.spotify.com/track/7vP14AWYzBgM13lKtNsh50"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "next time",
         "url": "https://open.spotify.com/album/3eHMIIdbSoISDJp8Ty9uqZ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 140000,
       "name": "next time",
       "url": "https://open.spotify.com/track/1jBlZEZ3sFtgT5T9v4nGDl"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Wie New York",
+        "url": "https://open.spotify.com/album/52Nau5AyIfvUzSjgGEj97p"
+      },
+      "artists": [
+        {
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
+        }
+      ],
+      "duration_ms": 186636,
+      "name": "Wie New York",
+      "url": "https://open.spotify.com/track/7vP14AWYzBgM13lKtNsh50"
     },
     {
       "added_at": "2024-01-09 23:00:00",

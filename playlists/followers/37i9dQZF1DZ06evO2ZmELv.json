@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 174,
+  "2024-01-23": 174,
   "date_first_scraped": "2023-03-11",
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
   "name": "This Is Cheli Madrid",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 186407,
       "name": "Confidente",
       "url": "https://open.spotify.com/track/32StLAvbilS0zxhgqfWLww"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 173365,
       "name": "Destino Cruel - En Vivo",
       "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 209392,
       "name": "Har\u00e9 de Cuenta",
       "url": "https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 193546,
       "name": "La Diferencia - En Vivo",
       "url": "https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb"

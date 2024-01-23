@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:3HTHz4rj84gMMV8T3u81op">Kevin Quinn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,914 likes - 99 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,053 likes - 99 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Your Strength](https://open.spotify.com/track/4peaKDznTRe3TgZVRT2FLR) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Your Strength](https://open.spotify.com/album/1GHxgSVWMM9vz0FVYOmEMx) | 3:06 |
 | 99 | [Take Over](https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take Over](https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB) | 2:57 |
 
-Snapshot ID: `MCw1NjAwNWU5MzQ2NGFjZGRjOTEwMGYzZjdkZDZlOWJhMTJmMTBhMGQ1`
+Snapshot ID: `MCwzOTA4YzM1Yzg5NmRmMjI5MTQ2NTg3NGIyNjRhOTAzNzBlZWU1ZDcy`

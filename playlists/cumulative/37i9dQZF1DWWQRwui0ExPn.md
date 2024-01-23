@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,472 songs - 10 day 5 hr 14 min
+6,473 songs - 10 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1256,7 +1256,7 @@
 | [Coves](https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Coves](https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr) | 2:45 | 2022-07-29 | 2022-11-11 |
 | [Cozier](https://open.spotify.com/track/4dQkIxZr4Mx9WTOODMEkET) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz) | [Cozier](https://open.spotify.com/album/3bnzouzKMrNTz2h21ZSQbp) | 1:30 | 2020-06-24 | 2021-04-17 |
 | [Cozy](https://open.spotify.com/track/0gRZnSZ53Q3lMGAx5IMcXL) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Cozy](https://open.spotify.com/album/66MjnGl13VxwidORsKd6Vu) | 2:21 | 2022-05-27 | 2022-09-23 |
-| [cozy](https://open.spotify.com/track/2wU9QpFQgrXOJZUzS9lGNy) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cozy](https://open.spotify.com/album/6tz2UDYCjmghAbJSlXmrwC) | 1:12 | 2024-01-19 |  |
+| [cozy](https://open.spotify.com/track/2wU9QpFQgrXOJZUzS9lGNy) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cozy](https://open.spotify.com/album/6tz2UDYCjmghAbJSlXmrwC) | 1:12 | 2024-01-19 | 2024-01-23 |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-11-24 |  |
 | [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-24 | 2023-04-13 |
 | [Cozy On The Sky](https://open.spotify.com/track/4gbRhISXzWAfgEaTDOtpDX) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [Cozy On The Sky](https://open.spotify.com/album/2cLV0jcukUGFSmhPQjwrnp) | 2:49 | 2022-04-08 | 2022-09-02 |
@@ -1519,7 +1519,7 @@
 | [Double](https://open.spotify.com/track/7I0QLtkEscU68mcBlPn8sc) | [Apothec](https://open.spotify.com/artist/3DvsqBR04BLwIV09F2j9m7) | [Double](https://open.spotify.com/album/1U8o8zYP9lZzXQe09JuPev) | 3:07 | 2023-01-20 | 2023-03-26 |
 | [Double Scoop](https://open.spotify.com/track/2kfuSaLpF8f7JHDgrO73YG) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Double Scoop](https://open.spotify.com/album/2NlLnpQv3caQArs3iXLJL0) | 2:40 | 2023-09-29 | 2023-12-15 |
 | [Dove](https://open.spotify.com/track/1fwUMTDD8Xsf5JlDtr3xlN) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [berj](https://open.spotify.com/artist/7xR93JftiLRnLgZfKwD4Oi) | [Dove](https://open.spotify.com/album/1OYBlHR9P8DVNdMiAfMeNw) | 2:30 | 2022-05-27 | 2022-09-23 |
-| [down](https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [down](https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p) | 2:01 | 2024-01-19 | 2024-01-22 |
+| [down](https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [down](https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p) | 2:01 | 2024-01-19 |  |
 | [Down by the River](https://open.spotify.com/track/7A7LsOfLIvvhRq0okcY8P5) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Inside Yourself](https://open.spotify.com/album/5blmviT255GIiUc5q6AwWs) | 1:49 | 2022-12-09 | 2024-01-12 |
 | [Down Low](https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J) | [typographicc](https://open.spotify.com/artist/33yCrt6g1gckis4sCmxfzC) | [Down Low](https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP) | 2:16 | 2021-07-11 | 2022-03-12 |
 | [Down the street](https://open.spotify.com/track/1xpX1C5rAiRiZboENqrxdb) | [SlowFly](https://open.spotify.com/artist/2Pi1SjVtZboevr4pxULaLb) | [Down the street](https://open.spotify.com/album/7cL0lSHdbEtTIhZrqRd99C) | 2:32 | 2022-07-22 | 2022-12-03 |
@@ -2741,7 +2741,7 @@
 | [Introduction](https://open.spotify.com/track/0nFs6889dSVMlQTV5GOfOL) | [The Jazzister](https://open.spotify.com/artist/6LOBP6YumzpuOnDRDVJt8o) | [The Lost Jazz Tapes \- Vol\. 1](https://open.spotify.com/album/4zUEL5v57wsOHG2wrdQHhq) | 2:45 | 2020-05-03 | 2021-10-02 |
 | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/track/5cZa4r5cgR9krvDrMA2KRS) | [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/album/5CIvGXPKxjBSJRbQOWZgno) | 2:54 | 2022-08-05 | 2022-11-18 |
 | [Invierno Solitario](https://open.spotify.com/track/21sV7KSahkzxD9R9o3Cz5y) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Invierno Solitario](https://open.spotify.com/album/0vcH0VZmpLMMzKw8fsajaF) | 2:24 | 2021-12-17 | 2022-07-01 |
-| [Invisibility](https://open.spotify.com/track/5UVEkE6YiK12v125Pbgn2H) | [Kanzan](https://open.spotify.com/artist/56VRNuuhxCIqj5Vsi3lbXv), [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH) | [Invisibility](https://open.spotify.com/album/3WB78ZqNMapYc0LhlzA9N4) | 1:56 | 2024-01-19 |  |
+| [Invisibility](https://open.spotify.com/track/5UVEkE6YiK12v125Pbgn2H) | [Kanzan](https://open.spotify.com/artist/56VRNuuhxCIqj5Vsi3lbXv), [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH) | [Invisibility](https://open.spotify.com/album/3WB78ZqNMapYc0LhlzA9N4) | 1:56 | 2024-01-19 | 2024-01-23 |
 | [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 | 2022-12-11 |
 | [invisible](https://open.spotify.com/track/10wh7RPmiDo9tLlEanBw8t) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/6By1S4R5WehZI40pM64oKJ) | 3:06 | 2023-01-20 | 2023-02-14 |
 | [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 | 2023-01-20 | 2023-03-25 |
@@ -2952,6 +2952,7 @@
 | [Kowakute](https://open.spotify.com/track/02f2jKQOqPUIPKIiYYJL64) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd) | [Maebashi](https://open.spotify.com/album/62dzgFlJgdqZEErqpUSUFT) | 2:15 | 2021-07-31 | 2022-03-12 |
 | [Kowloon](https://open.spotify.com/track/4lmPnCerPn4A73VP10yWTo) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [Kowloon](https://open.spotify.com/album/19hDwOJGI82mLnAV4JVc2Z) | 3:39 | 2021-10-26 | 2022-04-24 |
 | [kramar](https://open.spotify.com/track/4l8uBxDRWo6gQKVxWUkj6l) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [kramar](https://open.spotify.com/album/5CspwDpUtZM3NEswwJWaCz) | 2:48 | 2022-12-23 |  |
+| [Kreate](https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Kreate](https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv) | 2:30 | 2024-01-19 |  |
 | [Krink](https://open.spotify.com/track/1DcMWwoC3D1qIjfEJtN7h3) | [vast ness.](https://open.spotify.com/artist/4kfONgoGA0louAD0dYfrpB) | [Vandal Vast](https://open.spotify.com/album/6g4B7PHwGtNClFJOCaYJQf) | 2:01 | 2022-01-07 | 2022-07-08 |
 | [Krispl Alone](https://open.spotify.com/track/0Xy6qQ6CkxU52vscFNyawQ) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Krispl Alone](https://open.spotify.com/album/3XJXU8X7rT1mE9HAM2x8r1) | 2:19 | 2022-06-17 | 2022-10-07 |
 | [Kujibythesea](https://open.spotify.com/track/1ClMgaLyTjbhNc4gNt1id4) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Kujibythesea](https://open.spotify.com/album/5PP61Igi0n16TEEIDqCTg5) | 2:02 | 2022-07-08 | 2022-10-21 |

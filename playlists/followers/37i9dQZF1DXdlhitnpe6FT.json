@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 212893,
+  "2024-01-23": 213069,
   "date_first_scraped": "2022-01-21",
   "description": "The notes that will make you long for those days of yore.",
   "name": "Golden Instrumentals",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 146133,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 158973,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
@@ -3538,6 +3538,24 @@
     },
     {
       "album": {
+        "name": "Presentando a Ricardo Juarez",
+        "url": "https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Juarez",
+          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
+    },
+    {
+      "album": {
         "name": "Happy Time Cha Chas",
         "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
       },
@@ -3675,7 +3693,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"

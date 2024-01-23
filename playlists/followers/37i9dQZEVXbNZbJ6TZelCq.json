@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 32410,
+  "2024-01-23": 32411,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -3503,7 +3503,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 145001,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
@@ -9687,7 +9687,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -11185,13 +11185,13 @@
       },
       "artists": [
         {
-          "name": "Bogdan De La Ploiesti",
-          "url": "https://open.spotify.com/artist/1uRZ4uQbQbzWAHozLnUxIj"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 182959,
       "name": "Hitana",
       "url": "https://open.spotify.com/track/5ad1dak323elhUk1w99Bui"
@@ -19221,7 +19221,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 192000,
       "name": "Pentru ca",
       "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"
@@ -21301,7 +21301,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 143225,
       "name": "Roma",
       "url": "https://open.spotify.com/track/4FQ6Mw7EkwP2AtwF6dmAFY"
@@ -23175,7 +23175,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 166764,
       "name": "Skinny",
       "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
@@ -25241,7 +25241,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 170898,
       "name": "Taramul interzis",
       "url": "https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr"
@@ -25653,7 +25653,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 150957,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"

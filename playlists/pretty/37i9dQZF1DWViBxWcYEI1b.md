@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: LOONY
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,532 likes - 111 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,495 likes - 111 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 110 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 |
 | 111 | [Broken Hearted](https://open.spotify.com/track/0qUkLPmdkTAEqcT6Bl5Lok) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Broken Hearted](https://open.spotify.com/album/31nzRdy29f41xSsV1ConUk) | 3:10 |
 
-Snapshot ID: `MCw3MmExMmY3ZWYyNWNhZjM5Yzc3YmZhY2UxZDE2NWY0NmI1Y2I3NWMz`
+Snapshot ID: `MCwzMzY4ZjE3MjZjYjYwMWFkMDM2OGI2M2I2NTk3OTg3MmEyMzZmMzli`

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: AK\-69, ¥ellow Bucks
 
-406 songs - 21 hr 2 min
+407 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Pages](https://open.spotify.com/track/4v6Cp73vv8xj2K5MEKvx4u) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [BASH da RIPPA](https://open.spotify.com/artist/1xLx6wlhUSJTvK4BF6Rn5g), [Dumbperson](https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS), [DAI](https://open.spotify.com/artist/1Vq4jwzr7WSvWcbLFnGt3k) | [Pages](https://open.spotify.com/album/6SIaENCsuIn4O0x9zCwDYr) | 3:19 | 2023-09-26 | 2023-09-28 |
 | [Pages](https://open.spotify.com/track/5hYooZ5lGHSFXvHZ4riu3n) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [BASH da RIPPA](https://open.spotify.com/artist/1xLx6wlhUSJTvK4BF6Rn5g), [Dumbperson](https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS), [DAI](https://open.spotify.com/artist/5wOXiOq2BTVTZypg7kr5fP) | [Pages](https://open.spotify.com/album/5N3W0A73KpAHtZ0rRD8wPe) | 3:19 | 2023-09-26 | 2023-10-11 |
 | [Panic Run](https://open.spotify.com/track/3L2XRKRxXvP7GeKhJQgvbF) | [Pitch Odd Mansion](https://open.spotify.com/artist/3Aks1TyXpLoozPFKjmxJre), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Warbo](https://open.spotify.com/artist/6qUWO5oN0ev54RCRiNa6eK), [Yuya Sato](https://open.spotify.com/artist/4NWx6cmVpPKjmFvEHZ0PND) | [THE MANSION](https://open.spotify.com/album/3pFqzj5N6FALjSdlf4paQ2) | 2:59 | 2023-09-21 | 2023-09-29 |
+| [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 | 2024-01-22 |  |
 | [pen and note](https://open.spotify.com/track/5GpmiEzd0BgavQ20ZWcm7V) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [pen and note](https://open.spotify.com/album/7IsrYa1ReyfTE22L7y0lWv) | 2:29 | 2023-10-31 | 2023-11-22 |
 | [Perfect](https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Perfect](https://open.spotify.com/album/6OfpvSOqtJgdaeik9xlhAS) | 2:18 | 2023-09-21 | 2023-09-27 |
 | [Pierce Snake](https://open.spotify.com/track/7yUaFzFJWNryC6IcvkXyPp) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pierce Snake](https://open.spotify.com/album/60joKvUnAOwWC0dBaua7vp) | 3:10 | 2023-11-14 | 2023-12-06 |
@@ -332,7 +333,7 @@
 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 | 2024-01-11 |  |
 | [STREET PAIN](https://open.spotify.com/track/1wUiccguJBdBWQOsf98ZK1) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [STREET PAIN](https://open.spotify.com/album/6ohL3LKXPvrSxZbFrlyFOc) | 2:38 | 2023-11-16 | 2023-12-20 |
 | [Suisei](https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [CINEMA](https://open.spotify.com/album/0GENh5wpCaj351vVUu4Pty) | 3:39 | 2023-12-06 | 2023-12-13 |
-| [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 | 2023-12-06 |  |
+| [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 | 2023-12-06 | 2024-01-23 |
 | [Sweet Wine](https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Youth of Roots](https://open.spotify.com/artist/6Dvq7MDtnyy0Q2Xx8MH5gR) | [Sweet Wine](https://open.spotify.com/album/7f6xQvKgBsfnmXzixKDnvg) | 3:39 | 2023-09-21 | 2023-10-11 |
 | [TAMAROU \- 2023 Remix](https://open.spotify.com/track/04KiAYckwbH4dmjrI50E1D) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [DJ JAM](https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [GORE\-TEX](https://open.spotify.com/artist/3tFoTCvKyb9SKtLAuN60Mr) | [TAMAROU \(2023 Remix\)](https://open.spotify.com/album/3r7naNQhjDJy51WDhqvOP2) | 2:39 | 2023-10-24 | 2023-11-01 |
 | [TARAREBA](https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [TARAREBA](https://open.spotify.com/album/3CesSiD2smtYiNsgVWyihT) | 3:21 | 2023-11-14 | 2024-01-17 |

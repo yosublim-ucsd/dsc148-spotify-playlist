@@ -4,10 +4,11 @@
 
 > Have yourself a little cozy Christmas.
 
-212 songs - 12 hr 49 min
+212 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p) | 0:00 | 2023-12-01 |  |
 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/6KWhYyuzKStMgcvDdRJFwW) | 3:35 | 2021-11-09 | 2023-10-29 |
 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/6Tq3Dme2AbZJGNqAVu0YNp) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/575hRObiltYxjwWXWryhc2) | 3:35 | 2021-11-09 | 2022-07-29 |
 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/1mcK8CwRiYfxW3Bq0yaZQr) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:35 | 2023-10-16 |  |
@@ -146,7 +147,6 @@
 | [Rest](https://open.spotify.com/track/5sgxxHfmmaqfddsVq9v5Ba) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Sister Winter B/W Rest](https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa) | 3:06 | 2021-11-09 |  |
 | [Rexroth's Daughter](https://open.spotify.com/track/0Yj8SWQh7DAKlzLmvFjkyD) | [Winterbloom](https://open.spotify.com/artist/7px8GPCFd83A8CWTstThGQ) | [Winterbloom: Traditions Rearranged](https://open.spotify.com/album/5aAsQgYXJADCo6JUcw9iww) | 4:18 | 2021-11-09 |  |
 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 | 2021-11-09 | 2024-01-20 |
-| [River](https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht) | [Blue](https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p) | 4:05 | 2023-12-01 |  |
 | [River](https://open.spotify.com/track/6I6JOi3mf6q68dE7JxzYUC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [River](https://open.spotify.com/album/0hm7I34cnO0hGhLEIe0xlB) | 4:02 | 2021-11-09 |  |
 | [Rocking Around The Christmas Tree](https://open.spotify.com/track/7kvlamNp9t5EhZumhf2bYt) | [Oxford & Co.](https://open.spotify.com/artist/1eJEB18LdtPqjCJgSNUEGy) | [Rocking Around The Christmas Tree](https://open.spotify.com/album/4XtVyTbGgeLLoi7L340ZYT) | 2:46 | 2021-11-09 |  |
 | [Room by the Fire](https://open.spotify.com/track/2jOlAI3c4ubECAoO6ZMnM9) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:18 | 2021-11-09 | 2022-10-19 |

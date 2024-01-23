@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 228445,
+  "2024-01-23": 228448,
   "date_first_scraped": "2021-12-21",
   "description": "Slip into slumber with soothing sea sounds.",
   "name": "Deep Ocean Deep Sleep",
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 159273,
       "name": "Seaside In The Swedish Archipelago",
       "url": "https://open.spotify.com/track/3sXmZta98ClJzuGWrhclGy"
@@ -3999,6 +3999,24 @@
       "duration_ms": 104025,
       "name": "Waves Of The Ocean",
       "url": "https://open.spotify.com/track/5yQElZLGJPuYOOAAse57dT"
+    },
+    {
+      "album": {
+        "name": "Cottage by the sea",
+        "url": "https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW"
+      },
+      "artists": [
+        {
+          "name": "Hamsin",
+          "url": "https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Waves on the bay",
+      "url": "https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC"
     },
     {
       "album": {

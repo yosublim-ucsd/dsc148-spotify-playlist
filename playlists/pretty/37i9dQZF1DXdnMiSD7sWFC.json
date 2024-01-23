@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 68099,
+  "num_followers": 68342,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWZhNzA2MTU4MTY2NGVhODkxMjcwZGFlM2NlMWU2ZTRkMTdiYjhl",
+  "snapshot_id": "MCwzMzY4ODIzNjMyZjU4M2RiNTIwMmZkNjI0MzViOGU0ZTI0NmQ5ODA1",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 196988,
-      "name": "Multiple Endings",
-      "url": "https://open.spotify.com/track/2aULK5mtJaeb4KF0xnAuyU"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 319213,
       "name": "Rest (Acoustic)",
       "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Multiple Endings",
+      "url": "https://open.spotify.com/track/2aULK5mtJaeb4KF0xnAuyU"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Piano Salt",
         "url": "https://open.spotify.com/album/7sUZiGol5Ihy11am0fSCip"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 349386,
       "name": "If You Call",
       "url": "https://open.spotify.com/track/4ImBNQHgRaXLKrGO8XGDWZ"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
     },
     {
       "added_at": "2023-11-10 05:00:00",

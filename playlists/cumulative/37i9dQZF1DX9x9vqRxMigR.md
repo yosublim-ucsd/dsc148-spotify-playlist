@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-640 songs - 1 day 17 hr 50 min
+641 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Come a Little Closer](https://open.spotify.com/track/6TvPx0i01vs5KDWMohTCzd) | [Jessica Rhaye](https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By), [The Ramshackle Parade](https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB) | [Sunshine Baby](https://open.spotify.com/album/3vhPcTVAVaUKTAEGh8Kole) | 3:35 | 2024-01-03 |  |
 | [Compassion to the Nth Degree](https://open.spotify.com/track/5ukSGbK9ZmGK4HGYNSY0ic) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Compassion to the Nth Degree](https://open.spotify.com/album/7du6ukn8BvYElLCehBPlbX) | 3:27 | 2023-01-24 | 2024-01-04 |
 | [Concentrate On Breathing](https://open.spotify.com/track/6nhEpaoBxclmsR34aI3s85) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Wonderful Oblivion](https://open.spotify.com/album/7DQRcBviD8fwA2K4AwzkLu) | 3:39 | 2022-04-25 | 2023-01-25 |
+| [Cry Hallelujah](https://open.spotify.com/track/3HyDnr3CXf5g9IY6xZ2yMn) | [Karyn Oliver](https://open.spotify.com/artist/2cElCfhPH03bAfeRNfCCdt) | [Cry Hallelujah](https://open.spotify.com/album/0zXtH9QY3d6umW6ES4we1g) | 3:40 | 2024-01-03 |  |
 | [Cut the Ties](https://open.spotify.com/track/0M2upcLdbMI5hsDqrjCEsD) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Don't You Dare Make Me Jaded](https://open.spotify.com/album/6427clTKUdr7qc1Us3ZtTH) | 3:34 | 2024-01-03 |  |
 | [Dance](https://open.spotify.com/track/7xXGbUhci1C5Tp417i1gHE) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [We Imagined an Ending](https://open.spotify.com/album/4r9S3TgRpwlf5ubv3gdAgv) | 2:44 | 2024-01-03 |  |
 | [Dancin' in the Kitchen \(feat\. The Savoy Cajun Band\)](https://open.spotify.com/track/7e2VdzzbWOQbIAGYsl6Vwe) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr), [The Savoy Cajun Band](https://open.spotify.com/artist/1ck0DhcVJAU7s43rr9jl83) | [Dancin' in the Kitchen](https://open.spotify.com/album/72YOeGD1ouKL2ka3yXirOC) | 3:24 | 2023-01-24 | 2024-01-04 |
@@ -178,7 +179,7 @@
 | [Fjellets melodi](https://open.spotify.com/track/6wUtm5F2lR1ugWR17vHcsk) | [Gangar](https://open.spotify.com/artist/0kz6mmacynWiQVWyK8m6wR) | [Fjellets melodi](https://open.spotify.com/album/1IthcxznlkkgyKyEdu85mW) | 4:25 | 2023-01-24 | 2024-01-04 |
 | [Flor](https://open.spotify.com/track/4M0WTePX6DzOMyt0f8rFiY) | [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Mamselle Ruiz](https://open.spotify.com/artist/4SVRrRAunBB4Ss5x3bApCS) | [Bandidas](https://open.spotify.com/album/4kcH3y96y2qRbxict8sNoZ) | 3:06 | 2021-02-23 | 2022-04-26 |
 | [Fluxo \(Mulher do Futuro\)](https://open.spotify.com/track/2kVIIvuPSypJdDEmUjbWx1) | [Gali Galó](https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8), [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3) | [Fluxo \(Mulher do Futuro\)](https://open.spotify.com/album/700U60d1kArPGHACl1zFA3) | 3:37 | 2021-02-23 | 2022-04-26 |
-| [Follow the Drinking Gourd](https://open.spotify.com/track/22RrRdcdr24zScC2Dx0hUn) | [Walter Parks & The Unlawful Assembly](https://open.spotify.com/artist/13aQvltgDqHnswRZOIhpfb) | [The Unlawful Assembly](https://open.spotify.com/album/4TouwoacfyhenReH4bADfB) | 5:54 | 2024-01-03 |  |
+| [Follow the Drinking Gourd](https://open.spotify.com/track/22RrRdcdr24zScC2Dx0hUn) | [Walter Parks & The Unlawful Assembly](https://open.spotify.com/artist/13aQvltgDqHnswRZOIhpfb) | [The Unlawful Assembly](https://open.spotify.com/album/4TouwoacfyhenReH4bADfB) | 5:54 | 2024-01-03 | 2024-01-23 |
 | [Follow the Love](https://open.spotify.com/track/2UyLEEmjnxdk7DSBsSuex7) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Follow the Love](https://open.spotify.com/album/0YucyEXauM05RvXbQ5Nc8z) | 2:27 | 2022-04-25 | 2023-01-25 |
 | [Follow You Down](https://open.spotify.com/track/65XWjpLCTwNbPvgUdDWOIR) | [Hanna Enlöf](https://open.spotify.com/artist/3iIr6LFj0N66nOOut9UziK) | [Follow You Down](https://open.spotify.com/album/2R8AzcHLXWDA3W7wyb2HqX) | 4:40 | 2021-02-23 | 2022-04-26 |
 | [Frame by Frame](https://open.spotify.com/track/4Z3xC2vQNWyrFMsUqZEdJJ) | [T\. Buckley](https://open.spotify.com/artist/3uMfRdAAdTRyi0Kg2qCxmo) | [Frame By Frame](https://open.spotify.com/album/2Rj0QUYnqTVdGCoU2odcRE) | 4:23 | 2022-04-25 | 2023-01-25 |

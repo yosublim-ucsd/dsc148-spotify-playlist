@@ -1,12 +1,12 @@
 {
   "description": "The rap soundtrack to the internet. Cover: Barretta",
-  "num_followers": 1393334,
+  "num_followers": 1393417,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTBiNTgyODdjYjU1MGQ0MmFhZDNiZjI1ZWU1Y2I3NDFiMWE3NWI5",
+  "snapshot_id": "MCwzYjU4ODBkNTM4NmU3NmNkYTRlOGI2YzljZjEzYjQxNWVmYzVjYmU5",
   "tracks": [
     {
       "added_at": "2023-12-18 18:17:54",
@@ -57,28 +57,24 @@
       "url": "https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-01-22 18:32:49",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt"
+        "name": "Hi_TEK MZK, VOL. 1",
+        "url": "https://open.spotify.com/album/3x7AHIYqDUbE84OhOuRxrm"
       },
       "artists": [
         {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
         },
         {
-          "name": "xaviersobased",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+          "name": "Rizz Capolatti",
+          "url": "https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj"
         }
       ],
-      "duration_ms": 64614,
-      "name": "40",
-      "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
+      "duration_ms": 108387,
+      "name": "TRBO",
+      "url": "https://open.spotify.com/track/0lLnzX6WFk3neqxwOcAwRG"
     },
     {
       "added_at": "2024-01-16 15:48:20",
@@ -155,26 +151,6 @@
       "duration_ms": 117603,
       "name": "MOVE YO BODY - sped up",
       "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "TANGO",
-        "url": "https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "TANGO",
-      "url": "https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd"
     },
     {
       "added_at": "2023-12-13 20:39:33",
@@ -261,6 +237,30 @@
       "url": "https://open.spotify.com/track/64teDenGW4qlIoe6Iiv9Pk"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 64614,
+      "name": "40",
+      "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
+    },
+    {
       "added_at": "2024-01-08 15:48:58",
       "album": {
         "name": "ONE IN A MILLION",
@@ -275,6 +275,26 @@
       "duration_ms": 119133,
       "name": "ONE IN A MILLION",
       "url": "https://open.spotify.com/track/0we7yhOp1144AJcgZb16H9"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "TANGO",
+        "url": "https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd"
     },
     {
       "added_at": "2023-12-29 17:46:36",
@@ -1515,6 +1535,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "CODEINE CRAZY",
+        "url": "https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 157611,
+      "name": "CODEINE CRAZY",
+      "url": "https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "DTD",
         "url": "https://open.spotify.com/album/4f625P2oWOihcyjhPNYVlx"
       },
@@ -1723,38 +1759,6 @@
       "duration_ms": 140316,
       "name": "2017",
       "url": "https://open.spotify.com/track/3yl7WqiswUejJddFqErYPV"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "22Joeyy",
-        "url": "https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 140794,
-      "name": "melanin",
-      "url": "https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "CODEINE CRAZY",
-        "url": "https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "CODEINE CRAZY",
-      "url": "https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3"
     }
   ],
   "unique_name": "Internet People",

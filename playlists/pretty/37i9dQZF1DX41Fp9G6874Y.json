@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 113873,
+  "num_followers": 113893,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzkyZTM4OTFkZDhlYTRhM2I1ZTU2MDUxZjRkMWVlMjA0NWRhYmFj",
+  "snapshot_id": "MCw5NTQ5NDk0MmMzOGQ2MzllM2U5ZjIzZjRjODJmMDhlYmM3M2Y5Njc2",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -127,6 +127,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 173560,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -271,26 +271,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "El Incre\u00edble Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/0M7RJ9iPlraVp71heibBWB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        },
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Anoche No Dorm\u00ed",
-      "url": "https://open.spotify.com/track/5xvwLuxrgyxOVXKgikb8rJ"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Buen Rock Esta Noche",
         "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
       },
@@ -355,34 +335,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 132458,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Los 5 Grandes del Rock",
-        "url": "https://open.spotify.com/album/1QvD59dOUvZjajFvxzrKmY"
+        "name": "El Incre\u00edble Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/0M7RJ9iPlraVp71heibBWB"
       },
       "artists": [
         {
           "name": "Enrique Guzman",
           "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        },
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Tu Cabeza en Mi Hombro",
-      "url": "https://open.spotify.com/track/6nh1jLT0OpOrqgHVwhtvk9"
+      "duration_ms": 145813,
+      "name": "Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5xvwLuxrgyxOVXKgikb8rJ"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -399,6 +367,38 @@
       "duration_ms": 191216,
       "name": "Desencadena Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GtQgwI0Yp5qel9R4Kzd5J"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 132458,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 141572,
+      "name": "Con Un Beso Peque\u00f1isimo",
+      "url": "https://open.spotify.com/track/3NSoccXNlR0igm0a2Igxy3"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -471,6 +471,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Tesoros De Colecci\u00f3n - Los 5 Grandes del Rock",
+        "url": "https://open.spotify.com/album/1QvD59dOUvZjajFvxzrKmY"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/6nh1jLT0OpOrqgHVwhtvk9"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 135706,
       "name": "Amorcito",
       "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 141572,
-      "name": "Con Un Beso Peque\u00f1isimo",
-      "url": "https://open.spotify.com/track/3NSoccXNlR0igm0a2Igxy3"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -535,22 +535,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
-        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
-      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Glamour (Remastered 2015)",
         "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
       },
@@ -563,26 +547,6 @@
       "duration_ms": 157800,
       "name": "Cu\u00e1ndo, cu\u00e1ndo, cu\u00e1ndo (Swing) - Remastered 2015",
       "url": "https://open.spotify.com/track/4SPrqvpEt9s9610XNN1UDW"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/6LBidnqJag1vXDiNCMYXIu"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 138631,
-      "name": "Dulces Tonterias",
-      "url": "https://open.spotify.com/track/0VexJnnOkihunQtGSyPt3Y"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -615,6 +579,90 @@
       "duration_ms": 157226,
       "name": "La Favorita del Profesor (Teacher's Pet)",
       "url": "https://open.spotify.com/track/24nhRNpFhLfWU8z7gYQHCK"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
+        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
+      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/6LBidnqJag1vXDiNCMYXIu"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 138631,
+      "name": "Dulces Tonterias",
+      "url": "https://open.spotify.com/track/0VexJnnOkihunQtGSyPt3Y"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "A D\u00f3nde Va Nuestro Amor?",
+      "url": "https://open.spotify.com/track/4PaLGURH5C9OfHn3ehPWt5"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 139533,
+      "name": "Tombola",
+      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Los Cinco Latinos",
+        "url": "https://open.spotify.com/album/6z2IMZNqVkOPnRfYkyFJRY"
+      },
+      "artists": [
+        {
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Quiereme Siempre (Love Me Forever)",
+      "url": "https://open.spotify.com/track/3beXSl75AZaBHxVxDRGZ63"
     },
     {
       "added_at": "2022-03-30 15:46:23",
@@ -651,50 +699,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
         }
       ],
-      "duration_ms": 179066,
-      "name": "A D\u00f3nde Va Nuestro Amor?",
-      "url": "https://open.spotify.com/track/4PaLGURH5C9OfHn3ehPWt5"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Los Cinco Latinos",
-        "url": "https://open.spotify.com/album/6z2IMZNqVkOPnRfYkyFJRY"
-      },
-      "artists": [
-        {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Quiereme Siempre (Love Me Forever)",
-      "url": "https://open.spotify.com/track/3beXSl75AZaBHxVxDRGZ63"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 149681,
-      "name": "Muchacho Solitario",
-      "url": "https://open.spotify.com/track/7mSSpmOLEnULFBfnhQJcmr"
+      "duration_ms": 162011,
+      "name": "El Primer Beso",
+      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -715,8 +731,8 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
+        "name": "Glamour (Remastered 2015)",
+        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
         }
       ],
-      "duration_ms": 139533,
-      "name": "Tombola",
-      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
+      "duration_ms": 122280,
+      "name": "Estaba escrito (Mambo moruno) - Remastered 2015",
+      "url": "https://open.spotify.com/track/6aAgMvYI20KMsge17suey0"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -747,34 +763,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 162011,
-      "name": "El Primer Beso",
-      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Glamour (Remastered 2015)",
-        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 122280,
-      "name": "Estaba escrito (Mambo moruno) - Remastered 2015",
-      "url": "https://open.spotify.com/track/6aAgMvYI20KMsge17suey0"
+      "duration_ms": 149681,
+      "name": "Muchacho Solitario",
+      "url": "https://open.spotify.com/track/7mSSpmOLEnULFBfnhQJcmr"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
-      },
-      "artists": [
-        {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "D\u00edmelo T\u00fa",
-      "url": "https://open.spotify.com/track/3VT0jt1qyl5XTzRHraac14"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Disco Conmemorativo 40 Aniversario El Disco de Oro de Rock",
         "url": "https://open.spotify.com/album/2cK8ZVic0S4a039K7SSLMl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 118960,
       "name": "Ruedas (Wheels)",
       "url": "https://open.spotify.com/track/1vu89S6yJ3ipXJp1I4fxWO"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
+      },
+      "artists": [
+        {
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "D\u00edmelo T\u00fa",
+      "url": "https://open.spotify.com/track/3VT0jt1qyl5XTzRHraac14"
     }
   ],
   "unique_name": "Romance Rocanrol",

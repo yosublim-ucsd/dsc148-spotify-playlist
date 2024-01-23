@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 224497,
+  "num_followers": 224555,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWI4ZTUwM2M1NzRiY2RlOTY3MDdhYWExMDBlZWMwY2I3ZDk0NDU2",
+  "snapshot_id": "MCw1ZTAwZmQ2Yjg5ZWQ2ZGYwNDhhZDY2ODRhMDlhYjdhZjgyYWEwN2Uy",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -287,6 +287,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 295253,
       "name": "Old and Wise",
       "url": "https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Boadicea",
-      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 350293,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Boadicea",
+      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -819,22 +819,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Watermark (2009 Remaster)",
-        "url": "https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 261786,
-      "name": "Exile - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -899,22 +883,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Legend (2003 - Remaster)",
         "url": "https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 201866,
       "name": "Lady Marian (2003 - Remaster)",
       "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Watermark (2009 Remaster)",
+        "url": "https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 261786,
+      "name": "Exile - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/06mr4v7HULh34HDsYbBner"
-      },
-      "artists": [
-        {
-          "name": "Toyah",
-          "url": "https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "It's A Mystery",
-      "url": "https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/06mr4v7HULh34HDsYbBner"
+      },
+      "artists": [
+        {
+          "name": "Toyah",
+          "url": "https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "It's A Mystery",
+      "url": "https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 180960,
       "name": "Two Faces",
       "url": "https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "MLK - Remastered 2009",
-      "url": "https://open.spotify.com/track/7i9bu8l7zFppFNxPZVpsQ6"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1171,6 +1155,22 @@
       "duration_ms": 223266,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "MLK - Remastered 2009",
+      "url": "https://open.spotify.com/track/7i9bu8l7zFppFNxPZVpsQ6"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "4th Of July - Remastered 2009",
-      "url": "https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Hats",
         "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 304280,
       "name": "Over the Hillside",
       "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Vini Reilly",
+        "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Requiem Again",
+      "url": "https://open.spotify.com/track/673do07xdvVTt65SIwRtc3"
     }
   ],
   "unique_name": "Chilled 80s",

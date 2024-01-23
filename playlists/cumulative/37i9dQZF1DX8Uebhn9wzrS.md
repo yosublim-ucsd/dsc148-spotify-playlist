@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,797 songs - 2 day 20 hr 24 min
+1,798 songs - 2 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Always On Time](https://open.spotify.com/track/0k2i7sMuEFtFgJoZsaqodx) | [Milo the Cat](https://open.spotify.com/artist/2f9Z69FJqZkUrUdi5zuCK9) | [Always On Time](https://open.spotify.com/album/6G9UyeGZAkvFLs2Sv7a9tH) | 2:31 | 2022-04-15 | 2022-08-12 |
 | [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 |  |
 | [Amsterdam](https://open.spotify.com/track/5mH8y8JKcR4EFnjE0gptQv) | [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Amsterdam](https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd) | 1:39 | 2022-07-08 | 2022-12-03 |
-| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 |  |
+| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 | 2024-01-23 |
 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 | 2022-10-28 | 2023-04-21 |
 | [And That Was It](https://open.spotify.com/track/3p3OPAGKwZVDX9wq6fRiQl) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [A Time for Dinosaurs](https://open.spotify.com/album/7uhhF93AA2bkzVxkmMK1cQ) | 3:00 | 2023-04-20 |  |
 | [And the guitar plays on](https://open.spotify.com/track/5Vs3zHvwNJn03ZN5Qg7NBE) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [Baker's Dozen](https://open.spotify.com/album/5oKbjKVE9c4SRo9Ny0lKf6) | 2:35 | 2022-04-15 | 2022-10-01 |
@@ -965,6 +965,7 @@
 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 | 2022-07-15 | 2023-01-13 |
 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-07-01 | 2022-11-26 |
 | [meadows](https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x) | [meadows](https://open.spotify.com/album/0heqR7c9kusR5RbP6fZwUh) | 2:36 | 2023-06-06 |  |
+| [Meatloafi](https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN) | [Parcs](https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH) | [Meatloafi](https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS) | 2:34 | 2024-01-19 |  |
 | [Medow](https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Medow](https://open.spotify.com/album/0MpOBAnxzBzNlvkszZrq80) | 2:10 | 2022-11-18 |  |
 | [Meet me in paris](https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Meet me in paris](https://open.spotify.com/album/4F7siuXjnxmx3sspOLn6Qw) | 2:11 | 2023-01-20 |  |
 | [Mellowly](https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Mellowly](https://open.spotify.com/album/0ctjkoVtkNRRNLlW24w0OQ) | 2:18 | 2022-10-07 |  |

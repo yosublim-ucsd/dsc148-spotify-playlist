@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,640 likes - 87 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,647 likes - 87 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [Day And Night](https://open.spotify.com/track/4wWuRSnUyZZPprLWffFxIp) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd), [LEER](https://open.spotify.com/artist/3APFeaxXlhPVZ5RTsu4Be9) | [Day And Night](https://open.spotify.com/album/6svQEeA2c9W0PKbuygmRw8) | 3:17 |
 | 87 | [Always There](https://open.spotify.com/track/1pM6pmS5mG40hw3E9OZGQE) | [Ben Hazlewood](https://open.spotify.com/artist/3DWjEOfsm596u6OdskLe4t) | [Always There](https://open.spotify.com/album/6onHFMlLQPuGCGxLqmntL5) | 2:52 |
 
-Snapshot ID: `MCw0ZWM1OGQ0ZGVmODU5ZWRhYmEwODFhN2FhZGViOWNjZTg0NjgxOWY0`
+Snapshot ID: `MCw1MDY0MTY5Mzc3YzE5MzM2ZDBhYzA1M2ExMmRiMjFmYTQzZjRlYzQx`

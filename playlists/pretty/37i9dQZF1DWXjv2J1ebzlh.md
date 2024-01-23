@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,662 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,682 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1123,7 +1123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1113 | [El Carretero](https://open.spotify.com/track/105o5Qruu5bJurKqnSxtRN) | [Amara Touré](https://open.spotify.com/artist/5RGtAYEsGnRFhqcZeWIyOd) | [Senegal 70: Sonic Gems & Previously Unreleased Recordings From the '70s \(Analog Africa No\. 19\)](https://open.spotify.com/album/4qW3wMTPRLH5lMsjtZxnDs) | 5:22 |
 | 1114 | [Cordeiro De Nanã](https://open.spotify.com/track/59HAcR0hVejI7Od0kgibFg) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Os Tincoãs](https://open.spotify.com/album/66E3E9DaAxpGPE4SgrOBDX) | 2:57 |
 | 1115 | [Wanderlove](https://open.spotify.com/track/0VJX2Cxisf3BHciKl5BuRm) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Claudine](https://open.spotify.com/album/6eUxnGVDnws6EWuzaNS39C) | 2:36 |
-| 1116 | [You Can't Change a Man](https://open.spotify.com/track/0swVeq1CQJZjKfNen02SeR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/7KPrWMK1Fu40vyAbasI2h2) | 4:01 |
+| 1116 | [You Can't Change a Man](https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/77DsUverMpDFGfuT8Esc6M) | 4:01 |
 | 1117 | [Kamakumba](https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Isle Of Magic](https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6) | 4:06 |
 | 1118 | [Panier su la tête, ni chanté](https://open.spotify.com/track/22wgfaFRI3QGjvJMB7PfMO) | [Alain Péters](https://open.spotify.com/artist/2xVquVgh0jd7miRn4BbulQ) | [Vavanguèr](https://open.spotify.com/album/7Hlo3Hcq4zBxmsbXLuCKea) | 3:47 |
 | 1119 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`
+Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`

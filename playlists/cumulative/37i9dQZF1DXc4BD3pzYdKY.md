@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-898 songs - 1 day 20 hr 36 min
+899 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [TRENDING](https://open.spotify.com/track/2uwErdBFk3sFlfKQPQFBbU) | [Jeremiah Bonds](https://open.spotify.com/artist/3z6G8rh5Hw6IEHMZjDVh0C), [GodzG](https://open.spotify.com/artist/3oizJnQDLNfSeWwsOUOpM2) | [S7AVE](https://open.spotify.com/album/1GNcEMo76kfhrDH1PQ2cho) | 3:38 | 2021-12-11 | 2022-02-04 |
 | [Trends](https://open.spotify.com/track/4TrNr02SZNyAtgxCzSkBH3) | [Stevie Valentine](https://open.spotify.com/artist/5S5Vx1BSH6bJf2Iwm2VQpE) | [Trends](https://open.spotify.com/album/2pYYC8BzboVPNeVSdYqawu) | 3:10 | 2022-02-27 | 2022-03-01 |
 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 | 2022-08-06 | 2022-09-12 |
-| [Troops](https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Troops](https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A) | 2:22 | 2024-01-19 |  |
+| [Troops](https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Troops](https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A) | 2:22 | 2024-01-19 | 2024-01-23 |
 | [Trophy Gvng](https://open.spotify.com/track/1Sqk0qcuR6LjO3sEZ9u4cG) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Trophy Gvng](https://open.spotify.com/album/4XtdoRCSPmYXCGzfppSsM8) | 2:35 | 2022-04-29 | 2022-08-07 |
 | [Truth Is](https://open.spotify.com/track/2TIh3Qm02Nm5rxgnOZc0dR) | [Butterfly Ali](https://open.spotify.com/artist/3kjcPBROf41pWXnGJFU8Oi) | [Truth Is](https://open.spotify.com/album/1CPKTm68pKVIhAEL7ho4uG) | 2:23 | 2021-12-11 | 2022-01-04 |
 | [TRY AGAIN](https://open.spotify.com/track/5KqhLk0flQp4TM8QIMArAX) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:49 | 2021-12-11 | 2022-04-29 |
@@ -847,6 +847,7 @@
 | [we are not the same.](https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Pishko](https://open.spotify.com/artist/16dnHAXP1cxzQJkiPqp6eS) | [we are not the same.](https://open.spotify.com/album/0plwRQPja2ffJTaV456WSx) | 1:53 | 2022-04-29 | 2022-08-07 |
 | [We Are The Culture](https://open.spotify.com/track/0VCuE9mdmEZqnpKugQgFcs) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [We Are The Culture](https://open.spotify.com/album/2h3CNW0i03oB9rDly9NVP2) | 3:34 | 2021-12-11 | 2022-01-28 |
 | [We Go On](https://open.spotify.com/track/6QgOkpZuQeXir9VuZ1XQpS) | [JohnO](https://open.spotify.com/artist/54UStWacHNCX7BuP0mcd0f), [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv), [Ashley Merrell](https://open.spotify.com/artist/0oCCluoBZH1RG3WOp64SGa) | [We Go On](https://open.spotify.com/album/39IS2G3B2dc1zzeTZ2oWNT) | 3:32 | 2022-04-29 | 2022-07-29 |
+| [We Know](https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [We Know](https://open.spotify.com/album/3uf57UIYtHoATjGCrL35h9) | 2:06 | 2024-01-19 |  |
 | [We Overcame](https://open.spotify.com/track/5qoSrcRnRi3LXVqtRODOHM) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [We Overcame](https://open.spotify.com/album/2WJVZBh1ir72oR4XAAzl2Z) | 2:57 | 2023-12-15 | 2024-01-20 |
 | [We Still Believe](https://open.spotify.com/track/4gTB45ZsPSNLKZGFkh9CG0) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [We Still Believe](https://open.spotify.com/album/3ihKRUPr2GjEeZEKY0FHhI) | 3:02 | 2021-12-11 | 2022-01-31 |
 | [We Will Go](https://open.spotify.com/track/66ADl7724WUNkdXwJmln3X) | [Cephas](https://open.spotify.com/artist/6ullBRZTTK0lT7fUqbgbKD), [J\. Carter](https://open.spotify.com/artist/0Gq2IlEai18gmLgBfJrnEL) | [We Will Go](https://open.spotify.com/album/2Fa85qISOjGwCQE14bko4N) | 1:58 | 2021-12-11 | 2022-02-05 |

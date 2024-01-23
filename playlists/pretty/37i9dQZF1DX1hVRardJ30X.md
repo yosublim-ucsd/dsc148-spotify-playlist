@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Rusherking, Boza, Lunay & Revol
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,172 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,149 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [AACHO](https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [AACHO](https://open.spotify.com/album/2f0IZIIkAsAzpgKuSWfcRX) | 3:13 |
 | 55 | [BEBECITA SHAWTY](https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [BEBECITA SHAWTY](https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk) | 2:30 |
 
-Snapshot ID: `MCxlZGU5NDNlNGI2ZTFiNDZmOTYxZDgwY2RjZWM3YjBkYzZmZjQwODhk`
+Snapshot ID: `MCwwYWQxNDMzY2FkNGE5MjI5OTcwYTA0NDA3MWYyODE0NTk5YmMzMjNj`

@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 4631,
+  "2024-01-23": 4631,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ\">Missy Elliott</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Missy Elliott",
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3qYbFcdGwTDulw6zVFOT2b"
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"

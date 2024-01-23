@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw?si=ly521BE\-TXir6gSzDDYnQA">Annelie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,682 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,707 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Wyn](https://open.spotify.com/track/5BODeqZ9b4hekIqt465IU0) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Wyn](https://open.spotify.com/album/1aMOz9dCGypaewrzobd7dX) | 2:38 |
 | 50 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
 
-Snapshot ID: `MCxjMzJmZTM3ZTU5MDlhMGQ0YzcyZDIwOWRiMmZlYmRiZTEyZDQ2NmY5`
+Snapshot ID: `MCwzOTg5YjI5MmYwYWM2YjkzMTA0ODNiMzFlYTMzMTI5MGJmZTQxNTAy`

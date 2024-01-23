@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 712,
+  "2024-01-23": 711,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp\">JonTheProducer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JonTheProducer",
@@ -102,6 +102,32 @@
     },
     {
       "album": {
+        "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora - Official Video)",
+        "url": "https://open.spotify.com/album/1RhudL3gXc7jLvG9qQEdlQ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230016,
+      "name": "3 de La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0L4qvHchTR1PkfwehJOGdx"
+    },
+    {
+      "album": {
         "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
       },
@@ -121,7 +147,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 220773,
       "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
       "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
@@ -247,7 +273,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 180624,
       "name": "Besos en Cualquier Horario",
       "url": "https://open.spotify.com/track/3jmcOU72m5T7B4DaUYALuf"
@@ -273,7 +299,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 204501,
       "name": "Besos en Cualquier Horario",
       "url": "https://open.spotify.com/track/0aiJ4t6JYzLN5V9RSj6h2N"
@@ -361,7 +387,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
@@ -383,7 +409,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 190376,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/0zGbhbTSsXJihtQweRSR4J"
@@ -587,7 +613,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 203861,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/43dGfZIUUpi31ZiZe1ym90"
@@ -613,7 +639,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -727,7 +753,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 175808,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/7elxtubhDzD7mWxyA9dqTl"
@@ -745,7 +771,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
@@ -1003,7 +1029,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
@@ -1021,7 +1047,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 154922,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/3TeolhkLiUxnMlNeyIskah"
@@ -1253,7 +1279,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 219711,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/1YfMT1kT3hWTyWdEHP6w5L"
@@ -1289,7 +1315,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 158708,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/2FM5hCiv6FE8b7d0KIjABb"
@@ -1307,7 +1333,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 173205,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/6u6m9vEfEGjspOT69PcZYL"
@@ -1497,7 +1523,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 231765,
       "name": "Llorar y Llorar",
       "url": "https://open.spotify.com/track/5D7Zuye7QyZapke73ppm8l"
@@ -1519,7 +1545,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
@@ -1701,7 +1727,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -1719,7 +1745,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 159210,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/5BbdgD9dflK5rQgXjsNizB"
@@ -1781,7 +1807,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 168167,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
@@ -1817,7 +1843,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 181311,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/1sn93I0KEmGp9IBitEpSbc"
@@ -2145,7 +2171,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
@@ -2167,7 +2193,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 220202,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq"
@@ -2225,7 +2251,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 200851,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/1q1sjzJpUYEkTbA9Uz0qrU"
@@ -2243,7 +2269,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 202922,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/6IMginNB6XuHac0Ks164Zr"
@@ -2411,7 +2437,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 193825,
       "name": "PAP\u00c1S",
       "url": "https://open.spotify.com/track/5k06NOShiGa9ZxXHtavS2p"
@@ -2429,7 +2455,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 197994,
       "name": "PAP\u00c1S",
       "url": "https://open.spotify.com/track/2PON306vxEvIdohnhp7Xfk"
@@ -2447,7 +2473,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 255786,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/4CpW2IVnZ0ooRFUb4vPeoR"
@@ -2465,7 +2491,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 257079,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb"
@@ -2629,7 +2655,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 157623,
       "name": "Si Estoy Contigo",
       "url": "https://open.spotify.com/track/6nTIchACfHZWP2zrGOVYFa"
@@ -2647,7 +2673,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 163200,
       "name": "Si Estoy Contigo",
       "url": "https://open.spotify.com/track/5LDgfSxN2Jey2CBsQc1BiC"
@@ -2721,7 +2747,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
@@ -2743,7 +2769,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 216320,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/5XslJPC2aLkXxqyPCOtVsr"
@@ -2981,7 +3007,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU"
@@ -3003,7 +3029,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 199466,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/016PgM2tBnXkKfoaXg0WBA"
@@ -3079,7 +3105,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 193600,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/0LTcMkl0IhBSRWYmHQ8mkY"
@@ -3101,7 +3127,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/3ldgkMriNO5qTaIJ4zlNCL"

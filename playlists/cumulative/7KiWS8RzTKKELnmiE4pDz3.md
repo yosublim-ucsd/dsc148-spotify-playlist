@@ -4,7 +4,7 @@
 
 > 
 
-583 songs - 1 day 3 hr 14 min
+584 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2023-03-12 |  |
 | [Esham's Boomin](https://open.spotify.com/track/2m70KuxevOmwQhVbg2CHVk) | [Esham](https://open.spotify.com/artist/2eQPDhVoSa5aeWROa5wfxZ) | [Boomin' Words from Hell \(Classics Remastered\)](https://open.spotify.com/album/0b3VGaoEN6nVMg5iOTUnyh) | 4:12 | 2022-09-11 | 2023-04-12 |
+| [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 | 2024-01-22 |  |
 | [Everyday](https://open.spotify.com/track/6ssFHrOdxTZvbwP1AHkVZi) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Everyday](https://open.spotify.com/album/24CUaKU2lwY3M9OFOXsFjB) | 2:24 | 2022-11-02 | 2023-04-12 |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 | 2023-08-28 |

@@ -900,7 +900,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 239521,
       "name": "Fight The Power",
       "url": "https://open.spotify.com/track/1dpxObzxjyy6BRRuFo7nAX"
@@ -3596,13 +3596,17 @@
           "url": "https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO"
         },
         {
+          "name": "AathiRaja",
+          "url": "https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE"
+        },
+        {
           "name": "Reon",
           "url": "https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt"
         }
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 184711,
       "name": "Sound of Pain",
       "url": "https://open.spotify.com/track/4tSC1rkB4RRHmaz3G5skEa"

@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/24CUaKU2lwY3M9OFOXsFjB"
       },

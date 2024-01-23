@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mica Sotera\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,191 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,234 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Orange Squeeez](https://open.spotify.com/track/6IocvbgXz5gecqaraNlfsM) | [Orange House](https://open.spotify.com/artist/1PslRfYqNE2oXlbe0hD8XX) | [Orange Squeeez](https://open.spotify.com/album/23BTek7q5nyuhDsTcVdu2B) | 3:13 |
 | 100 | [hahaha](https://open.spotify.com/track/4dGoPqkVE9GyJFA0TaEP40) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [hahaha](https://open.spotify.com/album/4c534WbdQk2RCMCdU3SGMS) | 3:05 |
 
-Snapshot ID: `MCxmNDZlYjUyMDI2Njg1ODk1NDE4MGU1MzcwYTgwYTViZDhmOGQyODIz`
+Snapshot ID: `MCw4YjczYWEzYWM4ODUwODBkOWJjYWM2MGZhYTQ1ZDlkNDUyYjhjMzgx`

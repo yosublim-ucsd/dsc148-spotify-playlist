@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126678,
+  "num_followers": 126675,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUyNCw2YmFkZmMxOTBiYmRiZGM3OGU5YWEyOTE2ZmI1MGJkMDBkNDgzM2Qw",
+  "snapshot_id": "NDUyNiwwZGUwZjk4MTQwNWM2NmYxZWFhNjA4ZWI4YjI2MzBjYTk4MmJmZGE0",
   "tracks": [
+    {
+      "added_at": "2024-01-22 20:14:29",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        {
+          "name": "Ellika",
+          "url": "https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0"
+        }
+      ],
+      "duration_ms": 266107,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti"
+    },
     {
       "added_at": "2024-01-19 17:15:50",
       "album": {
@@ -1135,22 +1159,6 @@
       "duration_ms": 187374,
       "name": "Golden Leaves",
       "url": "https://open.spotify.com/track/4kgAtYwG7vkQIiJ6BaUvzZ"
-    },
-    {
-      "added_at": "2023-10-10 13:14:46",
-      "album": {
-        "name": "Infortunii",
-        "url": "https://open.spotify.com/album/6IoL8qCD3mZodqlyEMYkqO"
-      },
-      "artists": [
-        {
-          "name": "Caster",
-          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Infortunii",
-      "url": "https://open.spotify.com/track/5WesZOkeAlWuxNRvS64SOr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

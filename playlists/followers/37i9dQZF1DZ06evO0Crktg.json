@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 186040,
+  "2024-01-23": 186271,
   "date_first_scraped": "2023-12-14",
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
   "name": "This Is Jelly Roll",
@@ -143,12 +143,12 @@
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
       "date_added": "2023-12-13",

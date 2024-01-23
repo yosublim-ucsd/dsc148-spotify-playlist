@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,860 likes - 373 songs - 18 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,947 likes - 373 songs - 18 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -382,4 +382,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 372 | [Open Fields](https://open.spotify.com/track/4bCf42P2k4fg2bARV81dqt) | [Timothy Byrne](https://open.spotify.com/artist/2DGtEENrN5vjB1DXzRaL58) | [Open Fields](https://open.spotify.com/album/6snbZP5VYpnecxN5TZqtSk) | 2:29 |
 | 373 | [Shimmer in the Morning](https://open.spotify.com/track/0oZcBTfv9wd9Oh2JBicCmz) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3y5jiEGMaWTGelesFKGtPR) | 2:06 |
 
-Snapshot ID: `MCw0ZjMzNmQ4Y2Q2NmExNmVlNjAwMTNjNjVhMGJjYmQxZDg2MWZhNzBi`
+Snapshot ID: `MCwxYjkzN2E1ODA2OTY2MzhlNDM5Yjg1NmE5MGYyNzljOTBlYTMyOTY3`

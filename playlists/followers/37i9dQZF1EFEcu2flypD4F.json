@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 9633,
+  "2024-01-23": 9633,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV\">Sia</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sia",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 263520,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4E3afPSY5fUEelQS9ppL0e"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 300138,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5ESNm66waqwpu6LWJ9aSLa"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 223514,
       "name": "Boy Problems",
       "url": "https://open.spotify.com/track/7pOqWHWP02vGnR70B2EyLC"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 231296,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/0b0fQEnQn9l1vefRbrOUV0"
@@ -1877,10 +1877,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 241493,
       "name": "Fire Meet Gasoline",
       "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "album": {
+        "name": "Fire Meet Gasoline (by Heidi Klum)",
+        "url": "https://open.spotify.com/album/16SGueF8vuwi8S31xWcCUP"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245888,
+      "name": "Fire Meet Gasoline - by Heidi Klum",
+      "url": "https://open.spotify.com/track/36riEXIy7ySsrdhvFABbkF"
     },
     {
       "album": {
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 300386,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 339255,
       "name": "Guts Over Fear",
       "url": "https://open.spotify.com/track/6nxuFJW2F0UwuIUEl7WLdi"
@@ -2980,6 +2998,28 @@
     },
     {
       "album": {
+        "name": "Je te pardonne (Clip officiel)",
+        "url": "https://open.spotify.com/album/7J6VukzaMZuIliBViTRnZt"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290773,
+      "name": "Je te pardonne",
+      "url": "https://open.spotify.com/track/7DvhRa3sOvjHx4rEgrz3OB"
+    },
+    {
+      "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
@@ -2995,7 +3035,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 213026,
       "name": "Je te pardonne (feat. Sia) - Pilule bleue",
       "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
@@ -3777,7 +3817,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 221986,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
@@ -3795,7 +3835,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 224256,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6KsFyWRBGEvsj7VNK6htAw"
@@ -4737,7 +4777,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -4755,7 +4795,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 172255,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
@@ -6453,7 +6493,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 189376,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/51UBBIy3XNs0vnrNDQihpy"
@@ -6471,7 +6511,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 191186,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4cGNEByoQ3adGfq9rFGH2t"

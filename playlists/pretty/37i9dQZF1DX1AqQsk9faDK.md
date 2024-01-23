@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Um ano de bençãos por Isadora Pompeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,996 likes - 25 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,058 likes - 25 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Vai Ser Tão Lindo](https://open.spotify.com/track/5bAcu6gmtS5YCoCzNS4vny) | [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Acústico, Vol\. 5](https://open.spotify.com/album/16Zqfc7s1kWjcUZTzJGg7I) | 4:31 |
 | 25 | [Deixa](https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deixa](https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI) | 4:08 |
 
-Snapshot ID: `MCwzYTU0YzUxYTYwZTY0NDIzNmEwNjQ3Y2NlYjhlZDg3NjE5ZTc0MWUx`
+Snapshot ID: `MCxlNDZkYzQzMTQ4ODljOGU0ZTlmZjdkNTRhNzI5ZWJkZWVmZDU3NWVh`

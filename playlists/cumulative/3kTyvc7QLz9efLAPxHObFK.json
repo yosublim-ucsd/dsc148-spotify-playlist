@@ -3391,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "Chase The Sun",
+        "url": "https://open.spotify.com/album/6o5wVFfC69zaTHcPTFxXHJ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174015,
+      "name": "Chase The Sun",
+      "url": "https://open.spotify.com/track/3tHX6Ry3LQEaZNEReRzyqd"
+    },
+    {
+      "album": {
         "name": "CHASING STARS",
         "url": "https://open.spotify.com/album/7jmYCTcGIX95qurh0RmVmB"
       },

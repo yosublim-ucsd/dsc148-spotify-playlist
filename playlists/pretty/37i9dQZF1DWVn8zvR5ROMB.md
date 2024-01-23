@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mitchell Tenpenny, Megan Moroney, Chase Matthew and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,555 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,739 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 76 | [Man Made Money](https://open.spotify.com/track/00WXFJrE35kAuxbXVyAPvl) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Man Made Money](https://open.spotify.com/album/6Ysz6yS037oMTh0ShtHY2v) | 3:11 |
 | 77 | [They Both Know](https://open.spotify.com/track/0yARtajL88QrQy72rS1Kbt) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG) | [They Both Know](https://open.spotify.com/album/3GCvJTWom3oUOcUD5SzIux) | 2:55 |
 
-Snapshot ID: `MCwwYzNkZTdjZjM4M2ZhODQ4OTU3NWQ0ZTI4OTI0MTMyNzA0ZDQzNjIx`
+Snapshot ID: `MCw1NmUyOGY4NGRlMjEzODUzMTYyOTQ1OGE3OGU3YTkyYTFiZTBjMWRl`

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633134,
+  "num_followers": 633107,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0",
+  "snapshot_id": "MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:17",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Our Powers",
         "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 156795,
       "name": "Our Powers",
       "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 129274,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Caleufu",
-        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
-      },
-      "artists": [
-        {
-          "name": "Caleufu",
-          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Dramatique Musique Classique",
         "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 208596,
       "name": "Pavane, Op. 50",
       "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Caleufu",
+        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
+      },
+      "artists": [
+        {
+          "name": "Caleufu",
+          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "The Land of the Sun",
-        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 238725,
-      "name": "The Land of the Sun",
-      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Winter Night Mist",
         "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 204870,
       "name": "Hope And Glory",
       "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+        "name": "Friends for Life",
+        "url": "https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Les Cieu",
+          "url": "https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+      "duration_ms": 136326,
+      "name": "Friends for Life",
+      "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
     }
   ],
   "unique_name": "DayDreamer",

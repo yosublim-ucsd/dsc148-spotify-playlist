@@ -4,7 +4,7 @@
 
 > Wrench your heart out with NIKI but she's letting go
 
-48 songs - 2 hr 41 min
+49 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Switchblade](https://open.spotify.com/track/7b6z03ctOD39o4Cez0wr0X) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 3:24 | 2022-08-11 |  |
 | [urs](https://open.spotify.com/track/50oEtTUNlce4TuZXQoJzXW) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR) | 2:36 | 2022-08-11 |  |
 | [Vintage](https://open.spotify.com/track/1NCUe90ZCiWTnWn3umrwqw) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX) | 2:57 | 2022-08-11 |  |
-| [Warpaint](https://open.spotify.com/track/3j1fOrxmfuym91Cf9v397b) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 3:33 | 2022-08-11 |  |
+| [Warpaint](https://open.spotify.com/track/25aZPPiiVCHnbBpY4dh9Zk) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 3:33 | 2022-08-11 |  |
+| [Warpaint](https://open.spotify.com/track/3j1fOrxmfuym91Cf9v397b) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 3:33 | 2022-08-11 | 2024-01-23 |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mumford & Sons \(pictured\), Nia Archives, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,457 likes - 122 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,460 likes - 122 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [In Your Eyes](https://open.spotify.com/track/14qq1BqxguYojuOGaun0xW) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [In Your Eyes](https://open.spotify.com/album/5drImt8RdXUTgqSeFL12A8) | 3:49 |
 | 122 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
 
-Snapshot ID: `MCxhMDVmZjU2ODdlZWU0MzkyNjczZTdmNTE5Y2IxZWFkMzIyNTg0YTY2`
+Snapshot ID: `MCwxN2M3N2U5Njc3NTBiNWY3MjQzZDAzMWYzMWQ3MTg2ODk4OWYyZDdm`

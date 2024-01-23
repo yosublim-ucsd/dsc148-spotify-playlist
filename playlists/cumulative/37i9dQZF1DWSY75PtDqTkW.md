@@ -4,7 +4,7 @@
 
 > Extra van je vrije tijd genieten voor jong en oud.
 
-288 songs - 19 hr 9 min
+289 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2021-12-28 |  |
 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 | 2021-12-28 |  |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2021-12-28 |  |
-| [The Healer](https://open.spotify.com/track/3h7tr47MIwSz0i53YzliBg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [The Santana Band](https://open.spotify.com/artist/6pl0BgEA0h0mHralJp2DdE) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 5:40 | 2021-12-28 |  |
+| [The Healer](https://open.spotify.com/track/3h7tr47MIwSz0i53YzliBg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [The Santana Band](https://open.spotify.com/artist/6pl0BgEA0h0mHralJp2DdE) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 5:40 | 2021-12-28 | 2024-01-23 |
+| [The Healer \(feat\. Carlos Santana & The Santana Band\)](https://open.spotify.com/track/7Efb2PkxBWN6b0fY8PiAzU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [The Santana Band](https://open.spotify.com/artist/6pl0BgEA0h0mHralJp2DdE) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 5:40 | 2023-07-20 |  |
 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 | 2021-12-28 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2021-12-28 |  |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2021-12-28 |  |

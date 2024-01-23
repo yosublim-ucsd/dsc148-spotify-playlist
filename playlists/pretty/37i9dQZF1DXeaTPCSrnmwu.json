@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 25855,
+  "num_followers": 25864,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjE2OWVmMzNhOTJkOTg1ZmM1YjUyMjMwMjU2ZTA2NTI4ODFjMDcw",
+  "snapshot_id": "MCw0ZTQwNWQwMzQ4MzQ4NjRkMDJhYTQzNTRlY2E1NjJmOTgzNTNkMzRi",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Moon Over Brooklyn",
-        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
-      },
-      "artists": [
-        {
-          "name": "Stephen Rogerson",
-          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
-        }
-      ],
-      "duration_ms": 140432,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "This Is The Time",
         "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Moon Over Brooklyn",
+        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rogerson",
+          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
+        }
+      ],
+      "duration_ms": 140432,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Gran Pilastro",
-        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Deval",
-          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Gran Pilastro",
-      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Um Dia No Mar",
         "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 161901,
       "name": "Um Dia No Mar",
       "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -431,26 +431,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -471,6 +451,26 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Manh\u00e3 de Carnaval",
         "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 192220,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
-        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
-      },
-      "artists": [
-        {
-          "name": "Luis Siu Riveron",
-          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Asi Bailaba Cuba - Instrumental",
-      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -551,22 +535,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
+        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
       "artists": [
         {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Luis Siu Riveron",
+          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+      "duration_ms": 333533,
+      "name": "Asi Bailaba Cuba - Instrumental",
+      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -587,6 +567,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Clark Younger",
+        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
+      },
+      "artists": [
+        {
+          "name": "Clark Younger",
+          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
+        }
+      ],
+      "duration_ms": 196852,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Setembro",
         "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
       },
@@ -603,18 +599,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Clark Younger",
-        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Clark Younger",
-          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 196852,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni"
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Starlight EP",
         "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 208733,
       "name": "Se\u00f1or Danzon",
       "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Boleros Inolvidables, Vol. 1",
+        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
+      },
+      "artists": [
+        {
+          "name": "Piano Magico",
+          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Palabras De Mujer-Hojas Secas",
+      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 418546,
       "name": "Ponce: Balada Mexicana",
       "url": "https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Como Un Juego",
-        "url": "https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF"
-      },
-      "artists": [
-        {
-          "name": "Sergio Monroy",
-          "url": "https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f"
-        }
-      ],
-      "duration_ms": 279248,
-      "name": "Y Se Enamor\u00f3 La Luna",
-      "url": "https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW"
     }
   ],
   "unique_name": "Cena con Piano",

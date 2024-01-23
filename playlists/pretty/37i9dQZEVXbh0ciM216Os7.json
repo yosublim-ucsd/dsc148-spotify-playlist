@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MjczNDAsMDAwMDAwMDBlMjNjNzIyMGQ1NDg1ODQ2ZjcyYzU4NzEzYTNlNzQxZQ==",
+  "snapshot_id": "Mjg0MjczNDAsMDAwMDAwMDA0MzE3YmQwYzAxMWM4NjJmY2EwN2QyZDcwYTUyZGRmYg==",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Penith (The DAVE Soundtrack)",
+        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "duration_ms": 243033,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Cold Blues",
         "url": "https://open.spotify.com/album/4UcgXAfh4eGSqYM1elyEvX"
       },
@@ -99,18 +115,30 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Penith (The DAVE Soundtrack)",
-        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/1Gz1Y0tDeqlwyTo6wlK0KI"
       },
       "artists": [
         {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+          "name": "Paper Napkin",
+          "url": "https://open.spotify.com/artist/1nXwOss4BQdS89elhu6uI1"
+        },
+        {
+          "name": "Yung Booke",
+          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Pill",
+          "url": "https://open.spotify.com/artist/3Gr3VowS86A6dNdKvs7qH6"
         }
       ],
-      "duration_ms": 243033,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F"
+      "duration_ms": 231601,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/1INY3UvxJIjbIcEhSJ1KfK"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -163,34 +191,6 @@
       "duration_ms": 189952,
       "name": "You Know I'm With You (with Claire Wright & Mellodose)",
       "url": "https://open.spotify.com/track/4XsEZRVQTLXiu4motye7bj"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Atlanta",
-        "url": "https://open.spotify.com/album/1Gz1Y0tDeqlwyTo6wlK0KI"
-      },
-      "artists": [
-        {
-          "name": "Paper Napkin",
-          "url": "https://open.spotify.com/artist/1nXwOss4BQdS89elhu6uI1"
-        },
-        {
-          "name": "Yung Booke",
-          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Pill",
-          "url": "https://open.spotify.com/artist/3Gr3VowS86A6dNdKvs7qH6"
-        }
-      ],
-      "duration_ms": 231601,
-      "name": "Atlanta",
-      "url": "https://open.spotify.com/track/1INY3UvxJIjbIcEhSJ1KfK"
     },
     {
       "added_at": "2024-01-19 05:00:00",

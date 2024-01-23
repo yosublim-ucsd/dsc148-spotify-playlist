@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: PACKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,566 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,587 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [The Hand That Fits The Glove](https://open.spotify.com/track/1dJyCYF2EQ5dSiv0LToyqV) | [Faith Healer](https://open.spotify.com/artist/2CQKYlMk1oC4h5zrC3k6RX) | [The Hand That Fits The Glove](https://open.spotify.com/album/4C2aTv1Oh5OrEu1wAKRDqQ) | 2:42 |
 | 100 | [Jump The Fences](https://open.spotify.com/track/6ijYdp16OS5L6SIQ7D9hmO) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Jump The Fences](https://open.spotify.com/album/36Fr7LONw4pmUoalQen5Ua) | 3:29 |
 
-Snapshot ID: `MCxkZWE2Y2NiMjYwMzgxMTNjMWNlYjM5N2Q5MWVhYzI2NDJhYmVlZjQx`
+Snapshot ID: `MCxjN2M0MTk0ODA5MzQxOTBiNThiMDMyMGNlNDAwYTY4NjUxODU4ZTMy`

@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -18180,6 +18180,24 @@
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
+    },
+    {
+      "album": {
+        "name": "Meatloafi",
+        "url": "https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS"
+      },
+      "artists": [
+        {
+          "name": "Parcs",
+          "url": "https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Meatloafi",
+      "url": "https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN"
     },
     {
       "album": {

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 176667,
       "name": "432 Hz Calm",
       "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 175108,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao"
@@ -466,10 +466,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 200555,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
+    },
+    {
+      "album": {
+        "name": "Aqua Aura",
+        "url": "https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC"
+      },
+      "artists": [
+        {
+          "name": "Aquatic Dreamer",
+          "url": "https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165793,
+      "name": "Aqua Aura",
+      "url": "https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 155348,
       "name": "Armonikos",
       "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
@@ -636,6 +654,24 @@
       "duration_ms": 185769,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
+    },
+    {
+      "album": {
+        "name": "Auspice",
+        "url": "https://open.spotify.com/album/46WkfadLvsh5GhRxzLpuU9"
+      },
+      "artists": [
+        {
+          "name": "Lynx XII",
+          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Auspice",
+      "url": "https://open.spotify.com/track/5MbKg6YZGi482yfmoVv5Hm"
     },
     {
       "album": {
@@ -978,6 +1014,24 @@
       "duration_ms": 218092,
       "name": "B\u00fbche Creuse",
       "url": "https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2"
+    },
+    {
+      "album": {
+        "name": "Calm Response",
+        "url": "https://open.spotify.com/album/1teleIrViggSGuZkV8FiJV"
+      },
+      "artists": [
+        {
+          "name": "Devi Rubio",
+          "url": "https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Calm Response",
+      "url": "https://open.spotify.com/track/4WQ0NZptiVrvRoBXatoBPX"
     },
     {
       "album": {
@@ -1334,7 +1388,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 156793,
       "name": "Deep Steadiness",
       "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
@@ -2487,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Harmony of Resonance",
+        "url": "https://open.spotify.com/album/5jkxZyyHUdMOS9Hn0ydOwJ"
+      },
+      "artists": [
+        {
+          "name": "Man Dala",
+          "url": "https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148127,
+      "name": "Harmony of Resonance",
+      "url": "https://open.spotify.com/track/06UmX9rsJq1BAjE2Io7D0r"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv"
       },
@@ -2696,7 +2768,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 142019,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
@@ -2793,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Intentional Tones",
+        "url": "https://open.spotify.com/album/0tN7o38dUJZRW4h83vl63A"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Intentional Tones",
+      "url": "https://open.spotify.com/track/3dYHi8oy1fkVusRdZ494kC"
+    },
+    {
+      "album": {
         "name": "Beyond Stillness",
         "url": "https://open.spotify.com/album/4BI7KuAaWTzwtWo3uCO0c4"
       },
@@ -2808,6 +2898,24 @@
       "duration_ms": 136041,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
+    },
+    {
+      "album": {
+        "name": "Intertwined",
+        "url": "https://open.spotify.com/album/0FmQsAPHVxjqYRLkEXEYM5"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148501,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/7BvldUA71aUpJGk2yAQbAL"
     },
     {
       "album": {
@@ -3132,6 +3240,24 @@
       "duration_ms": 176000,
       "name": "Life Seeds",
       "url": "https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin"
+    },
+    {
+      "album": {
+        "name": "Lightness and Focus",
+        "url": "https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW"
+      },
+      "artists": [
+        {
+          "name": "Syla Lo",
+          "url": "https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Lightness and Focus",
+      "url": "https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2"
     },
     {
       "album": {
@@ -3704,7 +3830,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 168000,
       "name": "Nuee",
       "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
@@ -4147,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Rain Gravitat",
+        "url": "https://open.spotify.com/album/0IhugtJosb1RC2llsPCFFI"
+      },
+      "artists": [
+        {
+          "name": "Rufus Odobata",
+          "url": "https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Rain Gravitat",
+      "url": "https://open.spotify.com/track/7oC2TTCDwexaML468NqBlp"
+    },
+    {
+      "album": {
         "name": "Red Mind",
         "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
       },
@@ -4320,7 +4464,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 188691,
       "name": "Rugare",
       "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
@@ -4651,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "Silver Glow",
+        "url": "https://open.spotify.com/album/1qwk36HfiZveVVuZNpIkSW"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fragments",
+          "url": "https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142610,
+      "name": "Silver Glow",
+      "url": "https://open.spotify.com/track/3xWLKXr4xjZceYYBz4u4cs"
+    },
+    {
+      "album": {
         "name": "Skymning",
         "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
       },
@@ -4806,7 +4968,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
@@ -5101,6 +5263,42 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL"
+      },
+      "artists": [
+        {
+          "name": "Zen Atlas",
+          "url": "https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q"
+    },
+    {
+      "album": {
+        "name": "Theta Slumber 90Hz - 95Hz",
+        "url": "https://open.spotify.com/album/3zkrzSUl2Wt3wKFny49ptp"
+      },
+      "artists": [
+        {
+          "name": "AEX8",
+          "url": "https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141550,
+      "name": "Theta Slumber 90Hz - 95Hz",
+      "url": "https://open.spotify.com/track/4cUa2dyTHJx59yPTnqThR0"
+    },
+    {
+      "album": {
         "name": "Thought Braid",
         "url": "https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd"
       },
@@ -5166,7 +5364,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 181000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
@@ -5184,7 +5382,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 179727,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"

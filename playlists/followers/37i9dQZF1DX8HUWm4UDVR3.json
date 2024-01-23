@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 25885,
+  "2024-01-23": 25958,
   "date_first_scraped": "2023-07-29",
   "description": "La pop fran\u00e7aise annonce la couleur. Photo : Jeanne Bonjour",
   "name": "Couleur Pop",
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c8re",
+        "url": "https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Creep - Reprise",
+      "url": "https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn"
+    },
+    {
+      "album": {
         "name": "Creep (Reprise)",
         "url": "https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 171000,
       "name": "Creep - Reprise",
       "url": "https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo"

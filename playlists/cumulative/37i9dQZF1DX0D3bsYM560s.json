@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "The Boy I Never Loved",
+        "url": "https://open.spotify.com/album/4MUY36JmgLc3rk3cpqm3PH"
+      },
+      "artists": [
+        {
+          "name": "EmiSunshine",
+          "url": "https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221341,
+      "name": "The Boy I Never Loved",
+      "url": "https://open.spotify.com/track/2FVqHAi7kjKXsrQxEC4MfR"
+    },
+    {
+      "album": {
         "name": "The City of New Orleans",
         "url": "https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo"
       },

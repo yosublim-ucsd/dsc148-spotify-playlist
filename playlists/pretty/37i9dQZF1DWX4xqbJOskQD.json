@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDFhN2RmMGVkN2YzNjYwNTZlMWVlY2QwYjM0ODI3MmU1NTAzNTZk",
+  "snapshot_id": "MCw5NGFiMjdhZTBiNmE1MjYyYzQwM2FmMjAxM2QzMjFlYmE3NTdjNzg1",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -239,26 +239,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
-        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Axel Stordahl And His Orchestra",
-          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
-      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 185200,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
+        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Axel Stordahl And His Orchestra",
+          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
+      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Merry Macs Sing Mairzy Doats",
         "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 169000,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",

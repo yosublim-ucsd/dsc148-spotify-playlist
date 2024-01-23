@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,430 likes - 115 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,641 likes - 115 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 114 | [Dil Diyan Gallan \- LoFi Mix](https://open.spotify.com/track/0LMGlOgPDCBvIaWXmJpuDl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dil Diyan Gallan \- LoFi Mix](https://open.spotify.com/album/12bhlzntHlNGwWAzIHij3d) | 3:26 |
 | 115 | [Jeeta Tha Jiske Liye \- Lo\-Fi Remix](https://open.spotify.com/track/69K3PXMRmZjHNWIR7YpC10) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Jeeta Tha Jiske Liye \(Lo\-Fi Remix\)](https://open.spotify.com/album/5dA0Tiz8hxaYB0plLmmIoc) | 4:42 |
 
-Snapshot ID: `MCwyMzA5ZjY4MWYxMDY4ZjcxOGMyZTQ0ZmQwYmUyMDg2ZmNkM2I3YmJm`
+Snapshot ID: `MCw2YTI2NGU4MmJiMWVmNjE2NmJlNzJkOThmYWE0NmZjMzdjMTEyNTc4`

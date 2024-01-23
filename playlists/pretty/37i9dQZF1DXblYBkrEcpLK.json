@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
-  "num_followers": 151471,
+  "num_followers": 151526,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzIzMDQ2M2IxMGNiNDU4ODk2ZTVmZWJkMzI1M2RmNmNiMDc5MTQ1",
+  "snapshot_id": "MCxkMTZkYmM2YzhmNjU1MmY3NjA2M2YwNjIzYWI2OTk2MDZlNmU1YmNi",
   "tracks": [
     {
       "added_at": "2024-01-22 00:46:07",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
-        "name": "\u512a\u3057\u3044\u5f57\u661f",
-        "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "\u512a\u3057\u3044\u5f57\u661f",
-      "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
-    },
-    {
-      "added_at": "2024-01-22 00:46:07",
-      "album": {
         "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
         "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
       },
@@ -351,26 +335,6 @@
       "duration_ms": 258173,
       "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
-    },
-    {
-      "added_at": "2024-01-22 00:46:07",
-      "album": {
-        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
-        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
-      },
-      "artists": [
-        {
-          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
-          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
-        },
-        {
-          "name": "\u30ad\u30e3\u30ed\u30eb\u30fb\u30de\u30fc\u30eb\u30b9\u30fb\u30c7\u30a3\u30fc\u30f3\u30cf\u30a4\u30e0(CV:\u6c34\u702c\u3044\u306e\u308a)",
-          "url": "https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "WE ARE THE FUTURE",
-      "url": "https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE"
     },
     {
       "added_at": "2024-01-22 00:46:07",
@@ -395,6 +359,42 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
+        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
+        },
+        {
+          "name": "\u30ad\u30e3\u30ed\u30eb\u30fb\u30de\u30fc\u30eb\u30b9\u30fb\u30c7\u30a3\u30fc\u30f3\u30cf\u30a4\u30e0(CV:\u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "WE ARE THE FUTURE",
+      "url": "https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE"
+    },
+    {
+      "added_at": "2024-01-22 00:46:07",
+      "album": {
+        "name": "\u512a\u3057\u3044\u5f57\u661f",
+        "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "\u512a\u3057\u3044\u5f57\u661f",
+      "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
+    },
+    {
+      "added_at": "2024-01-22 00:46:07",
+      "album": {
         "name": "Shinshin Muso no Ken ni Nare",
         "url": "https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 214943,
-      "name": "Raise",
-      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
+      "duration_ms": 269120,
+      "name": "ANIMA",
+      "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
     },
     {
       "added_at": "2024-01-22 00:46:07",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
-        "name": "unknown",
-        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 269120,
-      "name": "ANIMA",
-      "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
+      "duration_ms": 214943,
+      "name": "Raise",
+      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
     },
     {
       "added_at": "2024-01-22 00:46:07",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "\u3042\u306e\u30d0\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J"
+    },
+    {
+      "added_at": "2024-01-22 00:46:07",
+      "album": {
         "name": "\u82b1\u306b\u4ea1\u970a",
         "url": "https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
-        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
+        "name": "\u6238\u677e\u9065 BEST SELECTION -sunshine-",
+        "url": "https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM"
       },
       "artists": [
         {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
         }
       ],
-      "duration_ms": 213786,
-      "name": "\u3042\u306e\u30d0\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J"
+      "duration_ms": 253160,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR"
     },
     {
       "added_at": "2024-01-22 00:46:07",
@@ -695,22 +711,6 @@
       "duration_ms": 250842,
       "name": "JUNGLE FIRE - feat. MOTSU",
       "url": "https://open.spotify.com/track/2D8QxudJ7fEAijANn3UkQA"
-    },
-    {
-      "added_at": "2024-01-22 00:46:07",
-      "album": {
-        "name": "\u6238\u677e\u9065 BEST SELECTION -sunshine-",
-        "url": "https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM"
-      },
-      "artists": [
-        {
-          "name": "Haruka Tomatsu",
-          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "courage",
-      "url": "https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR"
     },
     {
       "added_at": "2024-01-22 00:46:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-22 00:46:07",
       "album": {
-        "name": "ULTRA FLASH",
-        "url": "https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES"
-      },
-      "artists": [
-        {
-          "name": "Konomi Suzuki",
-          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
-        }
-      ],
-      "duration_ms": 243233,
-      "name": "REALIZE",
-      "url": "https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP"
-    },
-    {
-      "added_at": "2024-01-22 00:46:07",
-      "album": {
         "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
         "url": "https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 228960,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
       "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
+    },
+    {
+      "added_at": "2024-01-22 00:46:07",
+      "album": {
+        "name": "ULTRA FLASH",
+        "url": "https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES"
+      },
+      "artists": [
+        {
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+        }
+      ],
+      "duration_ms": 243233,
+      "name": "REALIZE",
+      "url": "https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP"
     },
     {
       "added_at": "2024-01-22 00:46:07",

@@ -4,7 +4,7 @@
 
 > 
 
-744 songs - 1 day 13 hr 59 min
+745 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [350](https://open.spotify.com/track/2AQfJsSZ65584nBxJF2KEe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [350](https://open.spotify.com/album/0Y5Gu6RKVlM3puaGGY3XIi) | 3:13 | 2023-12-16 |  |
 | [38 freestyle](https://open.spotify.com/track/1md0XSy6JDhku9rN2M3Ca6) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [STUNNA 4 FILES](https://open.spotify.com/album/5NVMlDtzTwNjX9sExAlf4t) | 2:26 | 2022-10-21 |  |
 | [3rd Person](https://open.spotify.com/track/7zb1Sx2MUU4MJ7gAB3lnI6) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Bloodas](https://open.spotify.com/album/19YlQK3Zr5gZgEZXrmgayO) | 3:00 | 2023-03-07 |  |
+| [4L](https://open.spotify.com/track/1uULQtJ8rbsX5TwjPpPc9Q) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2024-01-22 |  |
 | [4Peat](https://open.spotify.com/track/05And5JRQJeIaMASE5D9Nj) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 2:42 | 2023-01-23 |  |
 | [5% TINT](https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:16 | 2022-12-18 |  |
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-07-21 |  |

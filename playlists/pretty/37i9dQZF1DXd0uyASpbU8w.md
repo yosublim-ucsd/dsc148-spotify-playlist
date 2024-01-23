@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=ms0XCo5OQJOv5d21BFq0WA">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,999 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,061 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Travelers](https://open.spotify.com/track/6wxarX9bnQDgWdaiPhuot7) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Travelers](https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO) | 2:39 |
 | 50 | [Do it Lekka \- 2023 Remastered Version](https://open.spotify.com/track/1KlOoA2nNqfL08WhhPW5xf) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg), [DAMZA](https://open.spotify.com/artist/1Q3PoGaqJSR4jUby2Fgba6) | [Do it Lekka \(2023 Remastered Version\)](https://open.spotify.com/album/2nHLLZ8ep3YtyQApxHJ5AE) | 7:04 |
 
-Snapshot ID: `MCw5MDAyYmU2YTM0Y2Q1ZTExMWNiZjg4MTQ3YWRiZDRmYmE4NzdkZGM5`
+Snapshot ID: `MCw0NTAxODg1ZGUxMGZlYjVhNThkZTliYTBlMDg1MjY0YjUwY2RlZGQy`

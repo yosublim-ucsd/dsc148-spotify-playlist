@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,305 songs - 5 day 3 hr 29 min
+2,306 songs - 5 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [24 Songs](https://open.spotify.com/track/4A3waun6HF0JfPjS9xT3RF) | [LucaTheG1](https://open.spotify.com/artist/29cpCvKYnwMrhaZo5IuczB) | [24 Songs](https://open.spotify.com/album/3W9ivB8clpbbNLw49cjsLx) | 3:45 | 2023-06-16 | 2023-06-18 |
 | [24 Songs](https://open.spotify.com/track/1Y5WRNU2zfN0HQYpCIR0Ww) | [nitro!](https://open.spotify.com/artist/5otCfrzno8ga0qg868oibs) | [24 Songs](https://open.spotify.com/album/2P6UnAEeJYLhMNaPHoi0HO) | 3:31 | 2024-01-15 | 2024-01-18 |
 | [24 Songs](https://open.spotify.com/track/2nqy2NyysOPp8yKSD2bNDx) | [Shooter Akrami](https://open.spotify.com/artist/0YG0hJrt9V9qhvYKTiFZrE) | [24 songs](https://open.spotify.com/album/1lXCI05CgLuRTxN8E93hZL) | 3:33 | 2023-11-10 | 2023-11-16 |
-| [24 Songs](https://open.spotify.com/track/3DyBy635Kb78NEAB9RWPVn) | [wArpoRium](https://open.spotify.com/artist/13KpC4LwtXHUDatYtfdweN) | [24 Songs](https://open.spotify.com/album/66OG7Da9OCv6zEbmQOFtvQ) | 3:31 | 2024-01-17 | 2024-01-21 |
+| [24 Songs](https://open.spotify.com/track/3DyBy635Kb78NEAB9RWPVn) | [wArpoRium](https://open.spotify.com/artist/13KpC4LwtXHUDatYtfdweN) | [24 Songs](https://open.spotify.com/album/66OG7Da9OCv6zEbmQOFtvQ) | 3:31 | 2024-01-17 |  |
 | [24 songs](https://open.spotify.com/track/7zDjGS5tOqvwwFw6vkuo4A) | [xtcash](https://open.spotify.com/artist/1FqvJDw8Xw93eo3ZgED1Rm) | [24 songs](https://open.spotify.com/album/6gJto7htAKsTE3pYwfWSQD) | 3:50 | 2023-05-30 | 2023-06-01 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-11-01 | 2022-11-09 |
 | [3 BIG BALLS](https://open.spotify.com/track/2YIDnkBfwbLMkt9rcugLdr) | [DigBarGayRaps](https://open.spotify.com/artist/4988qu8te41B5Y35deTmGk) | [3 BIG BALLS](https://open.spotify.com/album/6Aus9U0MvQ2nvHpGTNp0VR) | 2:16 | 2021-12-27 | 2022-01-06 |
@@ -1775,7 +1775,7 @@
 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 | 2022-06-21 | 2022-06-29 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 | 2023-10-08 | 2023-10-18 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-10-03 | 2023-10-09 |
-| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-14 |  |
+| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-14 | 2024-01-23 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-26 | 2023-09-29 |
 | [Slow It Down](https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Slow It Down](https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d) | 2:14 | 2023-10-30 | 2023-11-01 |
 | [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 | 2023-04-15 | 2023-05-20 |
@@ -2249,7 +2249,8 @@
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:40 | 2023-10-29 | 2023-11-05 |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2023-10-08 | 2023-10-21 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-24 | 2023-01-01 |
-| [Wiseman](https://open.spotify.com/track/0wGWQYsBzM69QW2gS97jlp) | [Ocean Ocean](https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3) | [Wiseman](https://open.spotify.com/album/2ALT95vLx3EMd4TmOOIktC) | 3:30 | 2024-01-15 |  |
+| [Wiseman](https://open.spotify.com/track/44mfGIdIhfuz8pykW6Ca2g) | [dopuu](https://open.spotify.com/artist/4x3s0oZXSaNqkpWx4BAcTh), [Ocean Ocean](https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3) | [Wiseman](https://open.spotify.com/album/6AaQEWeKmgIZlOzFwrDT0u) | 3:30 | 2024-01-22 |  |
+| [Wiseman](https://open.spotify.com/track/0wGWQYsBzM69QW2gS97jlp) | [Ocean Ocean](https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3) | [Wiseman](https://open.spotify.com/album/2ALT95vLx3EMd4TmOOIktC) | 3:30 | 2024-01-15 | 2024-01-23 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-05-09 | 2023-05-17 |
 | [Witch Doctor](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 | 2022-10-30 | 2023-11-04 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 | 2022-06-01 |

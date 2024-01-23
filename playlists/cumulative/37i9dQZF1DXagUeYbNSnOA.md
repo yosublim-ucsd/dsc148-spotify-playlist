@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Meth Math\. Updates every Wednesday.
 
-1,699 songs - 3 day 20 hr 35 min
+1,700 songs - 3 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Deli](https://open.spotify.com/track/77IU4RioA7XfZ3bWVpQtKb) | [Tux Lunan](https://open.spotify.com/artist/2BlT3FbY4C1I1A25unyxJa) | [Deli](https://open.spotify.com/album/2va7VMmL5yd30EuNAHoE2k) | 3:32 | 2022-04-13 | 2022-05-12 |
 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 | 2022-10-05 | 2022-12-01 |
 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 | 2023-10-11 | 2023-10-26 |
+| [DELIRIO](https://open.spotify.com/track/3WxuX8C3ZV3xwO6AAoE0Sh) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [DELIRIO](https://open.spotify.com/album/0rkjPXEAaZpOGqfJXm5D6m) | 3:10 | 2024-01-22 |  |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2021-12-22 | 2022-01-06 |
 | [DEMIOS](https://open.spotify.com/track/23DG3OLjKIieOJNCoz1ute) | [Bong È Dam](https://open.spotify.com/artist/5JRjYEAk1iT5ql5i678w3l) | [DEMIOS](https://open.spotify.com/album/0F1Hpo1UEpyZpq8RsoRLFK) | 3:37 | 2023-03-08 | 2023-03-30 |
 | [Dentro de Tu Alma](https://open.spotify.com/track/5X0UJZD8fqZt3T0OFVsYEX) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Dentro de Tu Alma](https://open.spotify.com/album/6ytVQULGgXN0jCvfeZAatE) | 2:47 | 2023-05-10 | 2023-06-01 |
@@ -501,7 +502,7 @@
 | [El Cielo](https://open.spotify.com/track/0b5ixbjiGeIVFVhB7qujge) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [El Cielo](https://open.spotify.com/album/0EKrPET3JFSGFJ5XJYgWn1) | 3:07 | 2022-03-16 | 2022-03-24 |
 | [El Club de los Amores](https://open.spotify.com/track/1KB7sbVrsW1xuNaY4uQySU) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh), [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE), [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN), [Taio](https://open.spotify.com/artist/7MUOt8vqRVE31BZQ539VmP) | [El Club de los Amores](https://open.spotify.com/album/0eUtJ8R4C7nuNOSfuBYUFV) | 4:28 | 2022-03-16 | 2022-03-24 |
 | [El corazón no suelta](https://open.spotify.com/track/19YfMtVCoFKL7MFJOt4QY8) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [El corazón no suelta](https://open.spotify.com/album/5CfIpy9X4Pl01lENL1z4Ap) | 3:05 | 2024-01-10 | 2024-01-18 |
-| [El cuarto espejo](https://open.spotify.com/track/4S0HEH6LquxEG1oUIMPTOn) | [AnagramA](https://open.spotify.com/artist/1gGrMnLqaLGprrw2CEGxVu), [Julia](https://open.spotify.com/artist/5Jcfh2ctTxgAI8OxmlSRhS) | [El cuarto espejo](https://open.spotify.com/album/3AtvqFofk7OKfeGaHDDxzk) | 4:08 | 2024-01-10 |  |
+| [El cuarto espejo](https://open.spotify.com/track/4S0HEH6LquxEG1oUIMPTOn) | [AnagramA](https://open.spotify.com/artist/1gGrMnLqaLGprrw2CEGxVu), [Julia](https://open.spotify.com/artist/5Jcfh2ctTxgAI8OxmlSRhS) | [El cuarto espejo](https://open.spotify.com/album/3AtvqFofk7OKfeGaHDDxzk) | 4:08 | 2024-01-10 | 2024-01-23 |
 | [El Espejo](https://open.spotify.com/track/0wqKDRWbMCI1nAAkVcruhB) | [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3) | [El Espejo](https://open.spotify.com/album/5lZgcWviJISsiFoBMnX7d5) | 3:44 | 2023-10-11 | 2023-10-26 |
 | [El Film](https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [El Film](https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT) | 3:01 | 2023-07-19 | 2024-01-11 |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-10 | 2023-06-01 |

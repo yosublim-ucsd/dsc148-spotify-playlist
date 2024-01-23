@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-146 songs - 13 hr 16 min
+147 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,9 @@
 | [Space Available](https://open.spotify.com/track/2CxRumIs60L7x1KIGW0dV1) | [Kornstad Trio](https://open.spotify.com/artist/3TeWAxfFgwFqpW7Nhv0Tel) | [Jazzland Sampler 2005](https://open.spotify.com/album/4WEjrmJnXmkS6M135uN2j2) | 3:38 | 2022-08-12 | 2023-11-08 |
 | [Space Is the Place](https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 4:01 | 2022-06-01 | 2023-09-01 |
 | [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 | 2022-06-01 |  |
-| [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 | 2023-08-31 |  |
+| [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 | 2023-08-31 | 2024-01-23 |
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2022-06-01 |  |
+| [Terrible Seeds](https://open.spotify.com/track/2FZRmOGIlh2nOqACQgeAW2) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J), [Oscar Andreas Haug](https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1) | [Terrible Seeds](https://open.spotify.com/album/5bAAHXmNqVMqw1ljb9p88x) | 4:03 | 2024-01-19 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-06-01 |  |
 | [The Door](https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Audun Erlien](https://open.spotify.com/artist/3PqrFVZBgt9aojin43n6eN) | [The Door](https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB) | 7:52 | 2022-06-01 |  |
 | [The Lighthouse](https://open.spotify.com/track/3OnhMmKlWN1lLyGY6C01ji) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Bergmund Waal Skaslien](https://open.spotify.com/artist/5fuNAHD4veSpm8Sjn8Dk23), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Andreas Norbakken](https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb) | [Voyage](https://open.spotify.com/album/58xVC9DlIQERcKNvXVe39H) | 5:33 | 2022-06-01 | 2023-09-16 |

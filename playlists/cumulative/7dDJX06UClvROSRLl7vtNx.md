@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-219 songs - 9 hr 40 min
+220 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Another Love](https://open.spotify.com/track/7dTsAhklIRJhId49ayybZx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Another Love](https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D) | 2:44 | 2023-12-03 |  |
 | [Anymore](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Anymore](https://open.spotify.com/album/0136dl7WXw7P8tptO4Ir2t) | 2:21 | 2023-09-22 |  |
 | [Anywhere With You](https://open.spotify.com/track/55KplvBzr2DNKvWTnxm2mS) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Anywhere With You](https://open.spotify.com/album/1isQywIBds6XO5h6ZaU36K) | 2:23 | 2023-10-27 | 2024-01-08 |
-| [At Ease](https://open.spotify.com/track/29lEQ7rsyme07uwxvyslVV) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63) | [At Ease](https://open.spotify.com/album/3XoGsRn2xcL43iRKys8BTG) | 2:34 | 2024-01-11 |  |
+| [At Ease](https://open.spotify.com/track/29lEQ7rsyme07uwxvyslVV) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63) | [At Ease](https://open.spotify.com/album/3XoGsRn2xcL43iRKys8BTG) | 2:34 | 2024-01-11 | 2024-01-23 |
 | [Back to Summer](https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr) | [Batu Onat](https://open.spotify.com/artist/7aOWtkVztALwRvuLWDPC0p) | [Back to Summer](https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj) | 2:51 | 2023-09-22 | 2024-01-03 |
 | [Better](https://open.spotify.com/track/2rx0XEfF6UXhGI4CZ2a2PO) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [Better](https://open.spotify.com/album/49XJB7Fpd7nLAJncEXMFOH) | 2:54 | 2023-11-26 | 2023-12-14 |
 | [Better Days](https://open.spotify.com/track/7D2HQUa4MBc6FlezpFpMss) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto) | [Better Days](https://open.spotify.com/album/6fFJfk7kZOPteOXME5CYpo) | 2:18 | 2023-10-27 |  |
@@ -68,6 +68,7 @@
 | [Fell Out](https://open.spotify.com/track/4QUoNyX3mL0IPb0cbTi9xZ) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg) | [Fell Out](https://open.spotify.com/album/2K6RzSI9ZqXW5A4LZxgbCD) | 2:14 | 2024-01-07 |  |
 | [Flowers](https://open.spotify.com/track/76STLPfFzQgvGnLtIlEoLP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Flowers](https://open.spotify.com/album/1eyHgzBpAmJeJkzsjaEwvT) | 3:09 | 2024-01-05 |  |
 | [Fly](https://open.spotify.com/track/5Lwdx5gUegew9hbycRnjSw) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Fly](https://open.spotify.com/album/3pTP6gdMWrJBOPwFZEr5Sa) | 3:00 | 2023-10-27 |  |
+| [Forever Right Now](https://open.spotify.com/track/386xGEhucK6PBV2m79novH) | [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU) | [Forever Right Now](https://open.spotify.com/album/6y6OedMcsikB2qu97QB732) | 2:33 | 2024-01-22 |  |
 | [Forgot About Me](https://open.spotify.com/track/0oDVOmiqG6Ztkslpbaf3xa) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Forgot About Me](https://open.spotify.com/album/2DdHPdwBqOH9rf2460wECH) | 1:38 | 2023-09-22 |  |
 | [Free](https://open.spotify.com/track/2Shm6zYtlexG45xAu1oxg8) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Free](https://open.spotify.com/album/4mcIn2gp1KgL09URHYYrE8) | 2:03 | 2023-10-13 |  |
 | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/track/4DuWtS1xpr6lftXRK5p7Iu) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/album/5lPVqHC8vuok9ugGsBxBu7) | 2:35 | 2023-09-22 |  |

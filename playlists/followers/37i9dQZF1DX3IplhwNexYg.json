@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 114387,
+  "2024-01-23": 114390,
   "date_first_scraped": "2022-01-02",
   "description": "The best in current indie rock. Cover: Lime Garden",
   "name": "pulp",
@@ -5534,6 +5534,24 @@
     },
     {
       "album": {
+        "name": "Nearly Daffodils",
+        "url": "https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224858,
+      "name": "Nearly Daffodils",
+      "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
+    },
+    {
+      "album": {
         "name": "Neighbours",
         "url": "https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX"
       },
@@ -7043,7 +7061,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc"

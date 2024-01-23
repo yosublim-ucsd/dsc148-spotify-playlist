@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,510 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,520 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 69 | [Love You and Let You Go](https://open.spotify.com/track/5Wp3XkvVBhd0J9xT3hAbyA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:59 |
 | 70 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
 | 71 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
-| 72 | [It's a Mad World](https://open.spotify.com/track/7JGvaq4PST5XlYZnbjRjSC) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y) | 3:52 |
+| 72 | [It's a Mad World](https://open.spotify.com/track/110XRYFu7ZevFq24IVXsOU) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/2BjRhppivUlatw3fwvS5Co) | 3:52 |
 | 73 | [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 |
 | 74 | [Everything Must Change](https://open.spotify.com/track/74nGwkp4meaIuKwX4Bivdr) | [Rich Jacques](https://open.spotify.com/artist/7lfr6IB4ON92ftruMOZTPR) | [Everything Must Change](https://open.spotify.com/album/4Nt2W57QHaCKepzcBMAJJy) | 3:48 |
 | 75 | [In My Head](https://open.spotify.com/track/1gd9fJw9CxaLxvDAv0FgdJ) | [Norml](https://open.spotify.com/artist/3FIuLDnTevy3DrnzYFKL8Y) | [Spiraling](https://open.spotify.com/album/5WqFRK56XhmH4hFd8vQEaK) | 3:45 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCxlN2Y5NzU3OTk2MjkzMzQwMjA0YzNkNzg5NjlhYWMzNDY4N2ZmZTI5`
+Snapshot ID: `MCwyNjEwZDdkMzk2MzkzNTY4OTczZmViZjRiNDc3ZWY2NGM3ZGI4Njli`

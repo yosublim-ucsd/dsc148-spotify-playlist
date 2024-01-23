@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Ghida\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,279 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,305 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue](https://open.spotify.com/track/5SReQqpPuEhowJod8RdpG1) | [Ghida](https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT) | [Blue](https://open.spotify.com/album/07Rk9Vm4dTBvbqti8YNV4C) | 3:25 |
-| 2 | [SESSION 739 \(25%\)](https://open.spotify.com/track/7I5N0Zqq2or3Am9tPn5tt8) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [SESSION 739 \(25%\)](https://open.spotify.com/album/7FHQIbYrgTgbrs8sGWa7Te) | 2:10 |
-| 3 | [Sana](https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Sana](https://open.spotify.com/album/4OY6ClZ57h5wcMsMW5AP0x) | 2:49 |
-| 4 | [Malet](https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Malet](https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC) | 3:21 |
-| 5 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
-| 6 | [DAMEER!](https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [DAMEER!](https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6) | 2:12 |
-| 7 | [LA \(لا\)](https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3) | [GODRUN](https://open.spotify.com/artist/7Gn6GAt5IPYsEmGYVhc0yc) | [LA \(لا\)](https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk) | 2:27 |
-| 8 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
-| 9 | [Made For Me](https://open.spotify.com/track/1bOtt0UybwLqlAx8ZIENRp) | [PINS3Y](https://open.spotify.com/artist/3OwkZqr5cHnzGkSvuxWR8u) | [Made For Me](https://open.spotify.com/album/3Y1iiU711siPApv6AgW41S) | 4:39 |
-| 10 | [I think I saw you](https://open.spotify.com/track/3mZphc6vrtIgRtwaTFOO4E) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [I think I saw you](https://open.spotify.com/album/7ceqZErdpAs5KNq4EEDkqe) | 4:18 |
-| 11 | [Zero](https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Zero](https://open.spotify.com/album/4RVqVo22yiOjjyb07dZvmh) | 4:16 |
+| 1 | [Zero](https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Zero](https://open.spotify.com/album/4RVqVo22yiOjjyb07dZvmh) | 4:16 |
+| 2 | [Malet](https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Malet](https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC) | 3:21 |
+| 3 | [Blue](https://open.spotify.com/track/5SReQqpPuEhowJod8RdpG1) | [Ghida](https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT) | [Blue](https://open.spotify.com/album/07Rk9Vm4dTBvbqti8YNV4C) | 3:25 |
+| 4 | [SESSION 739 \(25%\)](https://open.spotify.com/track/7I5N0Zqq2or3Am9tPn5tt8) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [SESSION 739 \(25%\)](https://open.spotify.com/album/7FHQIbYrgTgbrs8sGWa7Te) | 2:10 |
+| 5 | [Sana](https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Sana](https://open.spotify.com/album/4OY6ClZ57h5wcMsMW5AP0x) | 2:49 |
+| 6 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
+| 7 | [DAMEER!](https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [DAMEER!](https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6) | 2:12 |
+| 8 | [LA \(لا\)](https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3) | [GODRUN](https://open.spotify.com/artist/7Gn6GAt5IPYsEmGYVhc0yc) | [LA \(لا\)](https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk) | 2:27 |
+| 9 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
+| 10 | [Made For Me](https://open.spotify.com/track/1bOtt0UybwLqlAx8ZIENRp) | [PINS3Y](https://open.spotify.com/artist/3OwkZqr5cHnzGkSvuxWR8u) | [Made For Me](https://open.spotify.com/album/3Y1iiU711siPApv6AgW41S) | 4:39 |
+| 11 | [I think I saw you](https://open.spotify.com/track/3mZphc6vrtIgRtwaTFOO4E) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [I think I saw you](https://open.spotify.com/album/7ceqZErdpAs5KNq4EEDkqe) | 4:18 |
 | 12 | [ONLY ONE](https://open.spotify.com/track/0BspGNZnyQrXEahQO7HYt6) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [ONLY ONE](https://open.spotify.com/album/2turDZhxP6QKKc7muFDYyI) | 2:42 |
 | 13 | [Beginning of a New Chapter](https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN) | [FARIIS](https://open.spotify.com/artist/0bqarDKT8KpH0DatC4k6vY) | [Beginning of a New Chapter](https://open.spotify.com/album/49TtcdL0qT6JF1zQg6FRbv) | 2:47 |
 | 14 | [Forever](https://open.spotify.com/track/7ptstvvTmIBlhEqWmWTDiH) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV), [Nouran](https://open.spotify.com/artist/493Q4UpvdIsh3u2D4zSvP6) | [Forever](https://open.spotify.com/album/6mg20a2OSXxuajccPWGVm8) | 3:02 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 48 | [Way Up](https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD), [AMR OMAR](https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND) | [Things You Don't Tell Yourself](https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT) | 3:19 |
 | 49 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 |
 
-Snapshot ID: `MCw3OWM5ZTMyNzNlMzFiNTBkMWQzZTIwZGMyZDI2ZTc3YjhmMTA5OWI3`
+Snapshot ID: `MCw0YjU1NDgyMGVjY2VhZjczNDc1NWZmOWMwYjcyNTQyMDU3ZmU1ZWM0`

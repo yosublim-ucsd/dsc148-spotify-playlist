@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32624,
+  "num_followers": 32639,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -291,30 +291,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/2v2qF0ctOCnJjcM0RxBZzH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
-        },
-        {
-          "name": "Whiplash & Turner",
-          "url": "https://open.spotify.com/artist/52wFnNL0bRnnizsGeNtzza"
-        }
-      ],
-      "duration_ms": 566013,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) (Whiplash and Turner Vocal Mix)",
-      "url": "https://open.spotify.com/track/4QtptxnekTn0OBDUmhTk4G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "(Who?) Keeps Changing Your Mind",
         "url": "https://open.spotify.com/album/1nDuo6QoHqcjkLIAwZxDV5"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 472453,
       "name": "Reach (Little \"More\" Mix)",
       "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/2v2qF0ctOCnJjcM0RxBZzH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
+        },
+        {
+          "name": "Whiplash & Turner",
+          "url": "https://open.spotify.com/artist/52wFnNL0bRnnizsGeNtzza"
+        }
+      ],
+      "duration_ms": 566013,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) (Whiplash and Turner Vocal Mix)",
+      "url": "https://open.spotify.com/track/4QtptxnekTn0OBDUmhTk4G"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "I Get Lifted",
-        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted (The Underground Network Mix)",
-      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Witch Doktor (Eddie Thoneick Remix)",
         "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 433373,
+      "name": "I Get Lifted (The Underground Network Mix)",
+      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Blues for You (Vocal Mix #1)",
-      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
         "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 595093,
       "name": "Witch Doktor (The Dark Ages Mix)",
       "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Blues for You (Vocal Mix #1)",
+      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
         "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 369461,
       "name": "Special (Club Mix)",
       "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Boom / I Need Your Love",
         "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 358546,
       "name": "Boom (Radio Mix)",
       "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Give a Little Love",
-        "url": "https://open.spotify.com/album/2qzlnXOl68iy3uoJPQFSxP"
-      },
-      "artists": [
-        {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        }
-      ],
-      "duration_ms": 379032,
-      "name": "Give a Little Love (Photon's Deep Vocal Mix)",
-      "url": "https://open.spotify.com/track/2DUMqS9kyjOhw4YEhgVMAg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muzik",
         "url": "https://open.spotify.com/album/32RhwpKgFv2QWtmGJvZs4N"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 379760,
       "name": "Muzik (The Siren Mix)",
       "url": "https://open.spotify.com/track/5yFx6rMeGeQlfeBmGNZ7pr"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Give a Little Love",
+        "url": "https://open.spotify.com/album/2qzlnXOl68iy3uoJPQFSxP"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        }
+      ],
+      "duration_ms": 379032,
+      "name": "Give a Little Love (Photon's Deep Vocal Mix)",
+      "url": "https://open.spotify.com/track/2DUMqS9kyjOhw4YEhgVMAg"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

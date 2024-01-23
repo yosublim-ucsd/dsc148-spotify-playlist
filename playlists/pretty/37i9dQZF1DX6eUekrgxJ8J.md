@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eUekrgxJ8J.md) - [plain]
 
 > Discover hits signed Smokey Robinson that shaped the early sound of Motown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,690 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,689 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eUekrgxJ8J.md) - [plain]
 | 24 | [Ain't That Peculiar \- Single Version](https://open.spotify.com/track/1yyJNEU2gWG6QiJkhPwrde) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Moods Of Marvin Gaye](https://open.spotify.com/album/4pfaSNzd1uXEumYj6VAzF0) | 2:59 |
 | 25 | [I'll Be Doggone](https://open.spotify.com/track/471yG3FpXwgKcbNlblZ1Yt) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Moods Of Marvin Gaye](https://open.spotify.com/album/4pfaSNzd1uXEumYj6VAzF0) | 2:46 |
 
-Snapshot ID: `MCxjMTVlZDk5NmQwY2YwMzYyZTM5MTNmMDM4Y2Q2ZWQwYzliMzJlMmNh`
+Snapshot ID: `MCw5ZjYxYjYyZDlhYWNkNTk4YmZmNGE3OTI4OTkyODA3M2I4NWZiYmZl`

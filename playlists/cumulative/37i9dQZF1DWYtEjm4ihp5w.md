@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Dada
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Figoshin
 
 201 songs - 10 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,167 likes - 108 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,142 likes - 108 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 107 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 |
 | 108 | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/track/71GnMKT8WQeuxB5n3yinLh) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/album/7qfAolwdBXIeV9bewwMCeA) | 4:05 |
 
-Snapshot ID: `MCxhODU3MWM5YzM3YmUzOGU2ZjNjMmQwZjg2NmExZmQ4OTZlMjQ0ZTBm`
+Snapshot ID: `MCxjZjRkZmQzZWEwNmRlNDBmOGFhNzI1NDlmZGZiNjBiNzQ3YmEzZjk0`

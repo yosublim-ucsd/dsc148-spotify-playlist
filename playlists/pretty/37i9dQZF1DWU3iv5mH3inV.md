@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo en RD\. Foto: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,686 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,744 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 12 | [En La Casa De Sin](https://open.spotify.com/track/0qqRqd4xae348nMFehJXPq) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [En La Casa De Sin](https://open.spotify.com/album/03CdcDsbiWnVzwPmKTXbJ1) | 2:55 |
 | 13 | [Flow Sexy](https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Flow Sexy](https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP) | 2:45 |
 | 14 | [Chuky De La 42](https://open.spotify.com/track/1IKz3mAgw2aNCCVXPYX1e0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Chuky De La 42](https://open.spotify.com/album/3jRMIc9xWNikmETxQrJnGw) | 2:24 |
-| 15 | [Frisa](https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Diente 27](https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf), [PAPERA](https://open.spotify.com/artist/7FsGgNxFo8Jgzq1yd8PdCu) | [Frisa](https://open.spotify.com/album/4XKEvAGn1O2pi1xX2y5HSq) | 2:57 |
+| 15 | [Frisa](https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Diente 27](https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [Frisa](https://open.spotify.com/album/4XKEvAGn1O2pi1xX2y5HSq) | 2:57 |
 | 16 | [Titeres](https://open.spotify.com/track/51tYVM8dJ68IYkHH9fsXsw) | [Johan Bless](https://open.spotify.com/artist/33QBPNn9h5dUYW2GbceEeh) | [Nobody Like Me](https://open.spotify.com/album/4e9BiC4yUcw0p2ebspy3SV) | 2:26 |
 | 17 | [Turutu](https://open.spotify.com/track/00X9XpI2BbnxRXynYrNLEE) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [Turutu](https://open.spotify.com/album/2cpafUCaZ2J1VgGYi7gd8x) | 1:53 |
 | 18 | [El Sigon](https://open.spotify.com/track/0C5DC5tQVPSspvvwtG0Fuq) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [El Sigon](https://open.spotify.com/album/2qrZlW9PZufwHpbUzGgfuG) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 49 | [Cocotico](https://open.spotify.com/track/1MiX6P0EswKTILtABR0uQI) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Cocotico](https://open.spotify.com/album/5sTxABf1vVdF4mDOkbb2to) | 2:16 |
 | 50 | [Tiradera a Dilon Baby y Masha](https://open.spotify.com/track/40nGThKOpZWPwvcLODgbri) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tiradera a Dilon Baby y Masha](https://open.spotify.com/album/42kvJZpzp8XkdwBqC7FAYK) | 2:17 |
 
-Snapshot ID: `MCxmNTY5MTkxNmI5ZGFjNDVhZmMwYjVlNTk0YzBhNjdkMTc2NjQwZTUx`
+Snapshot ID: `MCwwYTIyMDQwNTI3NjIwMjZiNGIyYzQ2NmNkNzc4ZmVmYWYwMmM0MjYz`

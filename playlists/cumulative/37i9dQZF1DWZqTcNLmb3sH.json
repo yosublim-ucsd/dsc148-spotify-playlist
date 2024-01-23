@@ -7895,6 +7895,32 @@
     },
     {
       "album": {
+        "name": "Haadada Haadu (From \"Mehbooba\")",
+        "url": "https://open.spotify.com/album/6HyxTreEoe1vebT5H4J54h"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Mathews Manu",
+          "url": "https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231965,
+      "name": "Haadada Haadu (From \"Mehbooba\")",
+      "url": "https://open.spotify.com/track/7rig2O6TcRfWrlDzrLeymN"
+    },
+    {
+      "album": {
         "name": "Shambo Shiva Shankara",
         "url": "https://open.spotify.com/album/6X3y3UzpP9MpDRzUdJBFO6"
       },
@@ -8444,7 +8470,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 130110,
       "name": "He Is Ghost",
       "url": "https://open.spotify.com/track/1vjl4mLAiMKpkdjYx646GR"
@@ -10304,7 +10330,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 226434,
       "name": "Jeevamaana (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
@@ -15554,7 +15580,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 321675,
       "name": "Nanna Ravi Neene",
       "url": "https://open.spotify.com/track/5ydy6eHHqXTZmG0ODdDMdw"
@@ -19395,6 +19421,24 @@
     },
     {
       "album": {
+        "name": "Preethiya Maye (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/1Jsjpd7MwSz0gleVFxcRFZ"
+      },
+      "artists": [
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116515,
+      "name": "Preethiya Maye (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/3Cn8oH0ECkHGvlqObtYuZO"
+    },
+    {
+      "album": {
         "name": "PS Anthem (From \u201cPS-2\") [Kannada] [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4dXfycka0T079aL7HYORMB"
       },
@@ -20252,6 +20296,36 @@
       "duration_ms": 232968,
       "name": "Rise of Shyam",
       "url": "https://open.spotify.com/track/59BDgXP822gFZHDDbJBBHX"
+    },
+    {
+      "album": {
+        "name": "Romanchana (From \"Juni\")",
+        "url": "https://open.spotify.com/album/3olV402fAZaYtEXV144hLJ"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203714,
+      "name": "Romanchana (From \"Juni\")",
+      "url": "https://open.spotify.com/track/7rtkNIEoWbE6l1pS4G7gXX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 542138,
+  "num_followers": 542268,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYyYTc5YzQzNzNjZDdmNzcyYjkyMzI0YjFmNjZhNzAxMWFiYWZi",
+  "snapshot_id": "MCw2OTUyMjU0NmJkZmNiZDQ3YjA0MjE5ZTY4YjNiNzJkNjA1YTJkY2Jh",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Diante do Trono (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        }
-      ],
-      "duration_ms": 455106,
-      "name": "Aclame ao Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 442015,
       "name": "Fiel a Mim",
       "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "duration_ms": 455106,
+      "name": "Aclame ao Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Abra\u00e7a-Me (Paix\u00e3o Fogo e Gl\u00f3ria) [Ao Vivo em BH]",
-        "url": "https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX"
+        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
+        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
       },
       "artists": [
         {
           "name": "David Quinlan",
           "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        },
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
         }
       ],
-      "duration_ms": 847493,
-      "name": "Abra\u00e7a-Me - Ao Vivo em BH",
-      "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
+      "duration_ms": 511226,
+      "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
+      "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -843,26 +839,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 593773,
-      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -915,6 +891,26 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Deserto",
         "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
       },
@@ -931,18 +927,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
-        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
+        "name": "Abra\u00e7a-Me (Paix\u00e3o Fogo e Gl\u00f3ria) [Ao Vivo em BH]",
+        "url": "https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX"
       },
       "artists": [
         {
           "name": "David Quinlan",
           "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
         }
       ],
-      "duration_ms": 511226,
-      "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
-      "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
+      "duration_ms": 847493,
+      "name": "Abra\u00e7a-Me - Ao Vivo em BH",
+      "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 298005,
-      "name": "Teus Olhos Revelam - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Autor da Minha F\u00e9",
         "url": "https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210651,
       "name": "Ele \u00c9 Exaltado - Ao Vivo",
       "url": "https://open.spotify.com/track/0MVjVxZHphWNA5uAx2kwjY"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Ao vivo Maracan\u00e3zinho, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 487160,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Para Sempre, Vol. 1",
         "url": "https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 370146,
       "name": "Me Rendo",
       "url": "https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Ao vivo Maracan\u00e3zinho, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 487160,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX"
     },
     {
       "added_at": "2023-10-13 16:02:51",

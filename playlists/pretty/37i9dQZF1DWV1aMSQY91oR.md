@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Anycia & Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,551 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,566 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Dipped In Butter](https://open.spotify.com/track/1O15hl9EZPMycWH8Of75l3) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Dipped In Butter](https://open.spotify.com/album/4CpTVcyoyKVnZF0k0burfc) | 2:15 |
 | 50 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 |
 
-Snapshot ID: `MCwzYzg4ZjU5YmEzNzA1MDUyYTQzYWY0N2U1OWJiZmJkNTQ1ZmJlZTZi`
+Snapshot ID: `MCw2OTMxNzRkOGM4NmY4OWY0MjE3NzgzNmMyMjYxOGJhOWJkYzk0OWRi`

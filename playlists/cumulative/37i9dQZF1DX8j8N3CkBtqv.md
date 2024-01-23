@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Sanjeeta Bhattacharya
 
-395 songs - 21 hr 44 min
+396 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Teri Meri Baatein](https://open.spotify.com/track/6TrlQk9TsIEPTNA6PbHRsY) | [Kaushal Hastwala](https://open.spotify.com/artist/1ATh9xw9uzlNkjgLVNMXKW), [Niharika](https://open.spotify.com/artist/6mx11Pg8xpXruQyEDMHaXI) | [Teri Meri Baatein](https://open.spotify.com/album/4x1h4giUwhhW0PhDkv3F4b) | 3:42 | 2023-12-15 |  |
 | [Teri Roshni Pakad Lun](https://open.spotify.com/track/19nBUwaWim7X9Bp1HhWIKK) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Teri Roshni Pakad Lun](https://open.spotify.com/album/6QvT5eQ8xlA1euDj67Q7D6) | 4:09 | 2023-10-27 | 2023-12-02 |
 | [Teri Yaad Mein](https://open.spotify.com/track/2aiFwTLjAPGyqoiOL5AQ0t) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Teri Yaad Mein](https://open.spotify.com/album/3tvaiYj2MUbAcCmgDn6Jku) | 2:40 | 2023-07-14 | 2023-08-19 |
+| [Tham Zaraa](https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [The Rajasthani Choro](https://open.spotify.com/artist/4VjWbWfTifUdOCkNYuCzOR) | [Rang](https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo) | 4:35 | 2024-01-22 |  |
 | [Thank You](https://open.spotify.com/track/5F41lXOja3WJvPzUNFp0hf) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Thank You](https://open.spotify.com/album/32A6wDX0akX7EBsnVjNBm2) | 2:42 | 2023-06-30 | 2023-08-05 |
 | [The Fall](https://open.spotify.com/track/1pDFhiLYmk3VGjTU9Yx3TS) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [The Fall](https://open.spotify.com/album/024NLABY80xWm1YMZMifjZ) | 5:26 | 2023-09-08 | 2023-09-30 |
 | [The Search for Wild Geese](https://open.spotify.com/track/3D9oBcbBI8BoFs8cNbO7Nc) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [The Search for Wild Geese](https://open.spotify.com/album/31vFwTEramFgkSBd38LEf4) | 4:26 | 2023-04-14 | 2023-06-24 |
@@ -393,7 +394,7 @@
 | [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 | 2023-05-26 | 2023-07-08 |
 | [Woh Main Hoon](https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp) | [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3) | [Woh Main Hoon](https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR) | 3:32 | 2023-08-18 | 2023-09-16 |
 | [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 | 2023-05-26 | 2023-07-15 |
-| [Yaad hai?](https://open.spotify.com/track/1EosQq2rAflF6CPRAuGTI2) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4) | [Yaad hai?](https://open.spotify.com/album/1hbxIkhKdanaIt4I3baxm0) | 2:32 | 2023-12-15 |  |
+| [Yaad hai?](https://open.spotify.com/track/1EosQq2rAflF6CPRAuGTI2) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4) | [Yaad hai?](https://open.spotify.com/album/1hbxIkhKdanaIt4I3baxm0) | 2:32 | 2023-12-15 | 2024-01-23 |
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-02 |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 |  |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 |  |

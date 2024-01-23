@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 158193,
+  "num_followers": 158233,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjhlMDQ1NDlmZjZhZTc5Yjg3MmJiNDA5YzVhM2U5YjUzNzFhZmY4",
+  "snapshot_id": "MCwxMGIxNDIyZWRjNDZlNTNiOWZjNzNlY2ExYzMzOWVjM2FiZWY1Yjcz",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "Infinite Surprise",
-      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "Infinite Surprise",
+      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "The Unborn Capitalist From Limbo",
-        "url": "https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H"
-      },
-      "artists": [
-        {
-          "name": "Cory Hanson",
-          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Italian Ice",
         "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "The Unborn Capitalist From Limbo",
+        "url": "https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H"
+      },
+      "artists": [
+        {
+          "name": "Cory Hanson",
+          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Panther in the Dollhouse",
-        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 262542,
       "name": "Sing a Glad Song",
       "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Panther in the Dollhouse",
+        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Automechanic",
-        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
-      },
-      "artists": [
-        {
-          "name": "Jenny O.",
-          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Automechanic",
-      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Automechanic",
+        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
+      },
+      "artists": [
+        {
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Automechanic",
+      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166453,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2023-12-12 16:46:04",

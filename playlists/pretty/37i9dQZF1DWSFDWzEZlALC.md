@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,052 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,403 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 |
 | 75 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 |
 
-Snapshot ID: `MCxlYzZiODUxYjVlZGI5MGFiNWIzOTY1NDBmYTFiOTMwMDExOWQxZGZl`
+Snapshot ID: `MCwxNGNkY2E3NTQ5MzI3ZWY5ZWFiOWE3MGQ5NmMyNzJhMTExM2NhZWU4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 28158,
+  "2024-01-23": 28166,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -2977,6 +2977,32 @@
     {
       "album": {
         "name": "Daylight",
+        "url": "https://open.spotify.com/album/7hLE5RWzjEdZe1dwYp0LNz"
+      },
+      "artists": [
+        {
+          "name": "BERKO CHAMP",
+          "url": "https://open.spotify.com/artist/5kwaY7ov1Oy6CU2XyoJYCI"
+        },
+        {
+          "name": "LEXMENDY",
+          "url": "https://open.spotify.com/artist/4EMIl7p2d0SddxeHyzB6Xt"
+        },
+        {
+          "name": "citosxd",
+          "url": "https://open.spotify.com/artist/0Whs6LUh8PF4j8OHaRDmNK"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211301,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0"
+    },
+    {
+      "album": {
+        "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
@@ -2987,7 +3013,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -8069,7 +8095,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11641,7 +11667,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
@@ -13807,7 +13833,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -19637,7 +19663,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 187312,
       "name": "\u041b\u0443\u0433\u0438",
       "url": "https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW"

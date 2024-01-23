@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-261 songs - 11 hr 26 min
+262 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Kalpten](https://open.spotify.com/track/5MKGKt10qfgAwVplznJTHO) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Kalpten](https://open.spotify.com/album/0tdxiPBNcEZSomIc0d3bfm) | 3:15 | 2023-12-14 | 2024-01-05 |
 | [KAN](https://open.spotify.com/track/50xHT2mvWw3F1M0kY7KQSr) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [KAN,TER](https://open.spotify.com/album/4Vo5JRP1ZwJTMCIpevTeP4) | 1:47 | 2023-10-05 | 2023-11-11 |
 | [Kan Çanağı](https://open.spotify.com/track/4fWE61BnYG503szkFFGzIo) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Istanbul Funk](https://open.spotify.com/album/0dd8nhQGASfuqNVgbujWlb) | 2:17 | 2023-12-12 | 2024-01-05 |
+| [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-01-22 |  |
 | [Kara Üzüm Habbesi](https://open.spotify.com/track/0ZJQK22q4A3Q1YkpvenzfR) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Kara Üzüm Habbesi](https://open.spotify.com/album/65Foe2PLk4ZSmfS25OMV1b) | 2:31 | 2023-09-28 |  |
 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 | 2024-01-04 |  |
 | [Kayıp Yıllarım](https://open.spotify.com/track/1Sfh7w7AYCUWw7Y3tET2MV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Kayıp Yıllarım](https://open.spotify.com/album/61l1uwaODkP7TMtMuD1x29) | 3:16 | 2023-01-12 | 2023-02-03 |
@@ -217,7 +218,7 @@
 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-12-12 |  |
 | [SANA NE](https://open.spotify.com/track/44wJznydk7liXuhYExo19u) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [SANA NE](https://open.spotify.com/album/5Pj9XsRe6EC94uVdz9IAPc) | 2:42 | 2023-08-24 | 2023-09-09 |
 | [Sanrı](https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sanrı](https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf) | 2:23 | 2023-04-13 | 2023-04-28 |
-| [SAPLA](https://open.spotify.com/track/2uHjJ9NkuTZj2luGH0rwJP) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [SAPLA](https://open.spotify.com/album/3mB4gwydrZhKBvmXa1tbZb) | 2:22 | 2023-12-14 |  |
+| [SAPLA](https://open.spotify.com/track/2uHjJ9NkuTZj2luGH0rwJP) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [SAPLA](https://open.spotify.com/album/3mB4gwydrZhKBvmXa1tbZb) | 2:22 | 2023-12-14 | 2024-01-23 |
 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 | 2023-08-17 | 2023-12-14 |
 | [Sen Oyna](https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Tuğberk Işık](https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p) | [Bi Taksi Çağırın](https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn) | 2:56 | 2023-07-27 | 2023-08-11 |
 | [Sen Yoksan](https://open.spotify.com/track/0aXeLLkRYPzlao0lf0Ay4H) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Sen Yoksan](https://open.spotify.com/album/18zaEOE2i3OpCt5gsoZSZt) | 2:46 | 2023-12-12 | 2023-12-15 |

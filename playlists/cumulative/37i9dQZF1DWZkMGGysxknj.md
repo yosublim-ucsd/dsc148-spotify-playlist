@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-278 songs - 15 hr 49 min
+279 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2021-07-16 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-07-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-07-16 | 2023-01-03 |
-| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 |  |
+| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 | 2024-01-23 |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1NPW2NXMFicYNlIEoQRrht) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:40 | 2021-07-16 |  |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1siqwUNydX8aQjUIVvJ6Pz) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:40 | 2021-07-16 | 2022-10-14 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-07-16 |  |
@@ -218,6 +218,7 @@
 | [Shape Of My Heart \- Acoustic Version](https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Shape Of My Heart \(Acoustic Version\)](https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7) | 3:03 | 2021-07-16 | 2023-08-15 |
 | [Sleeping Sound](https://open.spotify.com/track/2DMgHkEVC6h2SeOEQqsNBY) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/0tl6ZLzmWGtaJ1aa3KAqld) | 4:41 | 2021-07-16 | 2022-07-29 |
 | [Sleepless](https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:22 | 2021-07-16 |  |
+| [Smile for Your Mother](https://open.spotify.com/track/1OjdMf1TraTrC1Ds11bJVE) | [Cristina Kaminis](https://open.spotify.com/artist/3gDgmsZ0EVomGqxUnTdGTO), [Anna Moss](https://open.spotify.com/artist/79EqLrXbrtaK3sNgSQYoRE), [Handmade Moments](https://open.spotify.com/artist/1dyhZOoZUFWMdK2U0QvMnO), [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Maria Cardona](https://open.spotify.com/artist/53cUAXXYDyfoAG0eSRVLbw) | [Smile for Your Mother](https://open.spotify.com/album/05FPrF8KIahU8H5tR5F70S) | 4:59 | 2024-01-22 |  |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/79MRWFDPHHPaaiohbBN7iF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/6sfk1SGJdv9vpFmTniMvnS) | 5:04 | 2021-07-16 | 2022-07-29 |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/25pzMvqGiIohddpNq2ople) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/5T7JDiglCGAWK9qgxEqk0S) | 5:04 | 2021-07-16 | 2022-12-25 |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm) | 5:04 | 2021-07-16 |  |

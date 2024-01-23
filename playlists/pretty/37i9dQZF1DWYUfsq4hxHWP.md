@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Kelsey Hart, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,609 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,669 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 59 | [Poor Man's Anthem](https://open.spotify.com/track/6ROFOm1vbjCXzdjPV8waEN) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Poor Man's Anthem](https://open.spotify.com/album/6txiJuwq4g4B67jyOJc0p3) | 4:00 |
 | 60 | [Symptoms of You](https://open.spotify.com/track/4OwhJglha3HQ8zSJGsXjIm) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Symptoms of You](https://open.spotify.com/album/0EJlfJapjyu60TGwX87phr) | 2:37 |
 
-Snapshot ID: `MCw4YzBlYTk1ZTk1MzU3NjdlZDk5ZmRhNzQ0Y2ZkNDgyZGY4YjMyNzZl`
+Snapshot ID: `MCw2Y2JhNmRhMjVhYzNkZDU2YzUzNWZmYzYzM2RkNWU0MDlkOTJlZWRj`

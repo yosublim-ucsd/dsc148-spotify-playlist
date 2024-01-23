@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 844570,
+  "2024-01-23": 844511,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - France.",
   "name": "Top 50 - France",
@@ -2811,7 +2811,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 218000,
       "name": "Avec tonton",
       "url": "https://open.spotify.com/track/5INBKLXLm7lFZdG9yJuDpa"
@@ -3851,7 +3851,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 169413,
       "name": "Beuh d'Hollande",
       "url": "https://open.spotify.com/track/2lbKZKVRX54sPoNKZyp56H"
@@ -7498,6 +7498,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
       },
@@ -7743,7 +7761,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 176386,
       "name": "D'or et de diamant",
       "url": "https://open.spotify.com/track/0B65d9thur55bAQwq9cKnB"
@@ -8145,6 +8163,32 @@
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/7hLE5RWzjEdZe1dwYp0LNz"
+      },
+      "artists": [
+        {
+          "name": "BERKO CHAMP",
+          "url": "https://open.spotify.com/artist/5kwaY7ov1Oy6CU2XyoJYCI"
+        },
+        {
+          "name": "LEXMENDY",
+          "url": "https://open.spotify.com/artist/4EMIl7p2d0SddxeHyzB6Xt"
+        },
+        {
+          "name": "citosxd",
+          "url": "https://open.spotify.com/artist/0Whs6LUh8PF4j8OHaRDmNK"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211301,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0"
     },
     {
       "album": {
@@ -13793,7 +13837,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 40040,
       "name": "Interlude *",
       "url": "https://open.spotify.com/track/2YfheDNEEBZYaMuaIk85zJ"
@@ -14581,7 +14625,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 222173,
       "name": "Je salue",
       "url": "https://open.spotify.com/track/16xS7ZnFOygZjMTB6YSkYP"
@@ -18499,7 +18543,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -20313,7 +20357,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -22889,7 +22933,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -23135,7 +23179,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 176125,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
@@ -27819,7 +27863,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 213893,
       "name": "Si\u00e8ge chauffant",
       "url": "https://open.spotify.com/track/0rRaFBvow8WdGVERP8QXho"
@@ -28721,7 +28765,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 133533,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2KJNwY90lzpGSnYcaEsDJZ"
@@ -29223,7 +29267,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -30507,7 +30551,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 291440,
       "name": "TP dans le froid",
       "url": "https://open.spotify.com/track/5rKsxXbITst4msaAQElmLr"
@@ -31527,7 +31571,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 146093,
       "name": "Vacancia",
       "url": "https://open.spotify.com/track/4L2CSU39Hs1lv9ywMD1yyk"

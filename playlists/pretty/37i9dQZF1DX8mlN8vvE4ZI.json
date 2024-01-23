@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Mehtab Ali Niazi",
-  "num_followers": 16637,
+  "num_followers": 16648,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU3MzE0OGI2OTgwODA5Y2JlZjQyNWQzMzRmMDUxODUzZjk0YzQ5",
+  "snapshot_id": "MCwzZDg0MzU0M2YwMjliNjYwYTJlYWM4NmUyOTBlZGNmN2MxNjM2NjI1",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -123,6 +123,26 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Tumhi Dekho Naa (Sitar Lofi)",
+        "url": "https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "duration_ms": 125678,
+      "name": "Tumhi Dekho Naa - Sitar Lofi",
+      "url": "https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Top 25 Fusion Ringtunes",
         "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
       },
@@ -155,26 +175,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Tumhi Dekho Naa (Sitar Lofi)",
-        "url": "https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        }
-      ],
-      "duration_ms": 125678,
-      "name": "Tumhi Dekho Naa - Sitar Lofi",
-      "url": "https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Raghupati",
         "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 95399,
       "name": "Yentha Prema (Sitar Instrumental)",
       "url": "https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Roslyn",
+        "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 197531,
+      "name": "Roslyn",
+      "url": "https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -267,22 +283,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Roslyn",
-        "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 197531,
-      "name": "Roslyn",
-      "url": "https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "From The NCPA Archives",
         "url": "https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 172493,
       "name": "Raga Maluha Kalyan - Jod",
       "url": "https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 451305,
+      "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+      "url": "https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -315,6 +331,22 @@
       "duration_ms": 311470,
       "name": "Sitar On Drumz",
       "url": "https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -347,38 +379,6 @@
       "duration_ms": 349746,
       "name": "Raga Marwa - Drut Tintal Jhala",
       "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Dream (Raag Tilak Nat) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 451305,
-      "name": "Dream (Raag Tilak Nat) [Radio Edit]",
-      "url": "https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -429,38 +429,6 @@
       "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
     },
     {
-      "added_at": "2023-06-21 04:09:47",
-      "album": {
-        "name": "Tilak Kamod",
-        "url": "https://open.spotify.com/album/4GSk1MbHbEL2llripuKrzG"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 132048,
-      "name": "Tilak Kamod",
-      "url": "https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Amazing Sitar",
-        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Hum Bewafa Hargiz Na Thay - Unwind Instrumental",
-      "url": "https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY"
-    },
-    {
       "added_at": "2023-06-20 11:43:22",
       "album": {
         "name": "Amazing Sitar",
@@ -475,6 +443,22 @@
       "duration_ms": 193125,
       "name": "Albela Sajan - Instrumental",
       "url": "https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L"
+    },
+    {
+      "added_at": "2023-06-21 04:09:47",
+      "album": {
+        "name": "Tilak Kamod",
+        "url": "https://open.spotify.com/album/4GSk1MbHbEL2llripuKrzG"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 132048,
+      "name": "Tilak Kamod",
+      "url": "https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -495,6 +479,22 @@
       "duration_ms": 260013,
       "name": "Yaman Kalyan",
       "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Amazing Sitar",
+        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Hum Bewafa Hargiz Na Thay - Unwind Instrumental",
+      "url": "https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -527,38 +527,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa"
-      },
-      "artists": [
-        {
-          "name": "Sitarsnub",
-          "url": "https://open.spotify.com/artist/6CwnNZVoL0QAlp7GAvlAPO"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Amazing Sitar",
-        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        }
-      ],
-      "duration_ms": 354786,
-      "name": "Ka Karun Sajni - The Classic Thumri of Longing - Instrumental",
-      "url": "https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Sitar Gaze",
         "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 663040,
       "name": "Sensuous",
       "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa"
+      },
+      "artists": [
+        {
+          "name": "Sitarsnub",
+          "url": "https://open.spotify.com/artist/6CwnNZVoL0QAlp7GAvlAPO"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58"
     },
     {
       "added_at": "2023-11-14 15:22:34",
@@ -587,6 +571,22 @@
       "duration_ms": 228157,
       "name": "Lat Ulajhi - Instrumental",
       "url": "https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Amazing Sitar",
+        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "duration_ms": 354786,
+      "name": "Ka Karun Sajni - The Classic Thumri of Longing - Instrumental",
+      "url": "https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 307520,
+      "name": "Sitar Gaze (reprise)",
+      "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Acoustic Ascension 3",
         "url": "https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar Gaze",
-        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+        "name": "50 New Age, Relaxation & Massage Tracks (For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age)",
+        "url": "https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
         }
       ],
-      "duration_ms": 307520,
-      "name": "Sitar Gaze (reprise)",
-      "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
+      "duration_ms": 149306,
+      "name": "Evenings in Dehli - Sitar/Guitar Melodies for Relaxation",
+      "url": "https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3"
     },
     {
       "added_at": "2023-08-23 08:05:52",
@@ -727,22 +743,6 @@
       "duration_ms": 218893,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "50 New Age, Relaxation & Massage Tracks (For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age)",
-        "url": "https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9"
-      },
-      "artists": [
-        {
-          "name": "Massage Tribe",
-          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
-        }
-      ],
-      "duration_ms": 149306,
-      "name": "Evenings in Dehli - Sitar/Guitar Melodies for Relaxation",
-      "url": "https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
     },
     {
-      "added_at": "2023-08-18 14:11:07",
-      "album": {
-        "name": "Escape - Yoga Sitar Trance",
-        "url": "https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 398987,
-      "name": "Escape - Yoga Sitar Trance",
-      "url": "https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq"
-    },
-    {
       "added_at": "2023-06-20 11:43:22",
       "album": {
         "name": "Mudra",
@@ -839,6 +823,22 @@
       "duration_ms": 531453,
       "name": "Raga Gaoti",
       "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
+    },
+    {
+      "added_at": "2023-08-18 14:11:07",
+      "album": {
+        "name": "Escape - Yoga Sitar Trance",
+        "url": "https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 398987,
+      "name": "Escape - Yoga Sitar Trance",
+      "url": "https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
     },
     {
-      "added_at": "2023-06-20 11:43:22",
+      "added_at": "2023-08-23 08:05:52",
       "album": {
-        "name": "Morning Sitar Peace",
-        "url": "https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr"
+        "name": "Seeker",
+        "url": "https://open.spotify.com/album/1oibERLC6rCi40UvpTp3z6"
       },
       "artists": [
         {
-          "name": "Kaustav Majumder",
-          "url": "https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn"
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
         }
       ],
-      "duration_ms": 124833,
-      "name": "The Natural Forces - Original Mix",
-      "url": "https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB"
+      "duration_ms": 382500,
+      "name": "Seeker",
+      "url": "https://open.spotify.com/track/3TcvGdMcAdYRUdFYCbq4dJ"
     }
   ],
   "unique_name": "ECHO : Soulful Sitar",

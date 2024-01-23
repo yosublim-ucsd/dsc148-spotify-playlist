@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-540 songs - 1 day 5 hr 29 min
+541 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [iPad](https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:22 | 2022-08-19 | 2023-07-19 |
 | [It Must Be Love](https://open.spotify.com/track/1e7D46YMBQiHSiM45n1fUw) | [Sophie Griffiths](https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe) | [It Must Be Love](https://open.spotify.com/album/0tZcbqTFSkpMum0wP2zso7) | 2:39 | 2023-09-13 |  |
 | [It Takes Two](https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [It Takes Two](https://open.spotify.com/album/5tocCryeqWvFXn65seo0p6) | 5:00 | 2022-08-26 | 2023-07-19 |
-| [It's a Mad World](https://open.spotify.com/track/7JGvaq4PST5XlYZnbjRjSC) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y) | 3:52 | 2023-07-29 |  |
+| [It's a Mad World](https://open.spotify.com/track/110XRYFu7ZevFq24IVXsOU) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/2BjRhppivUlatw3fwvS5Co) | 3:52 | 2023-09-13 |  |
+| [It's a Mad World](https://open.spotify.com/track/7JGvaq4PST5XlYZnbjRjSC) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y) | 3:52 | 2023-07-29 | 2024-01-23 |
 | [It's Okay to Change](https://open.spotify.com/track/5oblqmGnvnpPn9DMH3CGzP) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [Nice to Meet You](https://open.spotify.com/album/12PbkhDtURD3Hi04UIzSh7) | 4:29 | 2022-08-08 | 2023-07-19 |
 | [It's Our Time](https://open.spotify.com/track/269ONdpzCJU2kEqnPNJcxg) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Keep Your Head Up](https://open.spotify.com/album/4tnRq2ARjUXaEl96AWMibT) | 2:38 | 2022-08-19 | 2022-10-13 |
 | [It's Our Time](https://open.spotify.com/track/5YQ8vF1sra50KleaACr5I8) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Keep Your Head Up](https://open.spotify.com/album/2TYq54hi4Dc7jBN1DjtJRg) | 2:38 | 2022-08-19 | 2023-07-19 |

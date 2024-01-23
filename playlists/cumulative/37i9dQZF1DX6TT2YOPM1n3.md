@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Hasan Raheem, Abdul Hannan
+> Current Pakistani hits under one roof\. Cover: ZAYN
 
 122 songs - 7 hr 51 min
 

@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-931 songs - 1 day 14 hr 3 min
+932 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-07 | 2023-08-26 |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-07-28 | 2023-10-21 |
 | [MEGAMAN](https://open.spotify.com/track/7aYzCl2Ii3YAROmyWAx2XC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:07 | 2022-06-24 | 2022-08-08 |
-| [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 | 2023-09-08 |  |
+| [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 | 2023-09-08 | 2024-01-23 |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-09-13 | 2022-03-25 |
 | [MERCEDES](https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [A NECESSARY EVIL](https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO) | 2:20 | 2023-06-23 | 2023-08-12 |
 | [MIA](https://open.spotify.com/track/4gJqfuiyXLtnjvX7lqFOBu) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 2:01 | 2021-10-29 | 2022-04-29 |
@@ -847,6 +847,7 @@
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2022-04-12 | 2022-07-27 |
 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714) | 2:27 | 2021-10-20 | 2022-02-23 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-05-06 |
+| [TRBO](https://open.spotify.com/track/0lLnzX6WFk3neqxwOcAwRG) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [Rizz Capolatti](https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj) | [Hi\_TEK MZK, VOL\. 1](https://open.spotify.com/album/3x7AHIYqDUbE84OhOuRxrm) | 1:48 | 2024-01-22 |  |
 | [Trenches](https://open.spotify.com/track/02ZqOQf9o0AmF5NUYK7CQL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Trenches](https://open.spotify.com/album/1LyCWL9ruknFi9M9ONs68Q) | 1:56 | 2023-09-08 | 2023-10-14 |
 | [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 | 2023-01-05 |
 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 | 2023-02-24 | 2023-04-15 |

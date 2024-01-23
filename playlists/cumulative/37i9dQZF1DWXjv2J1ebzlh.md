@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,193 songs - 6 day 3 hr 43 min
+2,194 songs - 6 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2140,7 +2140,8 @@
 | [You Can't Change A Man](https://open.spotify.com/track/2vqMVBk55Ul6nK49aD0Vzc) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 3:57 | 2022-07-27 | 2023-04-30 |
 | [You Can't Change A Man](https://open.spotify.com/track/3nDbX2hGiCNRjdSwGg3sdL) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/5cAnTtPDJreMWuuUlmQQuz) | 3:57 | 2023-03-17 | 2024-01-14 |
 | [You Can't Change A Man](https://open.spotify.com/track/5psNlRfYWpK80gSEtfEAQd) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [NIGERIA SOUL FEVER \- Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/09C0O48dG7JkzRw3uUKD6F) | 3:57 | 2022-06-09 | 2022-07-29 |
-| [You Can't Change a Man](https://open.spotify.com/track/0swVeq1CQJZjKfNen02SeR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/7KPrWMK1Fu40vyAbasI2h2) | 4:01 | 2023-11-29 |  |
+| [You Can't Change a Man](https://open.spotify.com/track/0swVeq1CQJZjKfNen02SeR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/7KPrWMK1Fu40vyAbasI2h2) | 4:01 | 2023-11-29 | 2024-01-23 |
+| [You Can't Change a Man](https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/77DsUverMpDFGfuT8Esc6M) | 4:01 | 2023-11-29 |  |
 | [You've Got a Woman](https://open.spotify.com/track/2YHO9pscU1ij1i2Oc3bCae) | [Lion](https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk) | [You've Got a Woman](https://open.spotify.com/album/3j4oHQBZN2LunKNEyBjJ0G) | 3:25 | 2022-07-12 | 2022-07-29 |
 | [You've Got a Woman](https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP) | [Lion](https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk) | [You've Got a Woman](https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D) | 3:25 | 2022-07-27 |  |
 | [You've Got the Floor](https://open.spotify.com/track/0yfgbWLgDbj2Ax2puQ5SgY) | [Arthur Adams](https://open.spotify.com/artist/0eXscio89WRQMjamjHyUKZ) | [You've Got the Floor \- Single](https://open.spotify.com/album/5ttjBpSkvIv1fF3OGTB9yV) | 5:57 | 2022-06-09 |  |

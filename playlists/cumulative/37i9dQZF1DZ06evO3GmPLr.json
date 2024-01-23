@@ -42,6 +42,28 @@
     {
       "album": {
         "name": "As If It Were Forever",
+        "url": "https://open.spotify.com/album/0FigctguQk2RfTwJ9V7TT6"
+      },
+      "artists": [
+        {
+          "name": "Anna Wise",
+          "url": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246936,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/18D4rkZpJJMwQ8ypxuHyvP"
+    },
+    {
+      "album": {
+        "name": "As If It Were Forever",
         "url": "https://open.spotify.com/album/1N0M6NcjwI8CNXv8yGuBvZ"
       },
       "artists": [

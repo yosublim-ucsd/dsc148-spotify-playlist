@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 6165,
+  "2024-01-23": 6210,
   "date_first_scraped": "2023-08-05",
   "description": "indescribable tension. lingering eyes. that slow burn kind of love.",
   "name": "enemies to lovers",
@@ -853,10 +853,32 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 194036,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/2arqmjBq0VGm1wNdCuNpnQ"
+    },
+    {
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/3jXgIIuIHv8cje2rccEDNy"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Sebastian Pecznik",
+          "url": "https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194036,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/3v9Tso2HrmjWU5SqFlQKkp"
     },
     {
       "album": {

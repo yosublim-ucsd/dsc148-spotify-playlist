@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 77751,
+  "num_followers": 77813,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
+  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -163,54 +163,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Worth Fighting For (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 419413,
-      "name": "I'll Just Say Yes - Live",
-      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Wide as the Sky",
         "url": "https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO"
       },
@@ -223,6 +175,22 @@
       "duration_ms": 478198,
       "name": "Wide as the Sky - Live",
       "url": "https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -243,22 +211,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Work It Out (Live)",
         "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
@@ -271,6 +223,38 @@
       "duration_ms": 320955,
       "name": "Work It Out - Live",
       "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Worth Fighting For (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 419413,
+      "name": "I'll Just Say Yes - Live",
+      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -291,18 +275,34 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 320093,
-      "name": "That's What I Believe",
-      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -439,22 +439,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
       "artists": [
         {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 292466,
-      "name": "I Won't Let Go - Live",
-      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+      "duration_ms": 347106,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -479,6 +475,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "I Won't Let Go - Live",
+      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Nothing Like Your Presence",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 246173,
       "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Worship Journal (Live)",
-        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
         }
       ],
-      "duration_ms": 585080,
-      "name": "God Is My Refuge (Live)",
-      "url": "https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1"
+      "duration_ms": 412200,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "The Family",
-          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 412200,
-      "name": "Now Behold the Lamb - Live",
-      "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+      "duration_ms": 585080,
+      "name": "God Is My Refuge (Live)",
+      "url": "https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -663,30 +663,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Yahweh / Yeshua Hamashiach",
-        "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
-      },
-      "artists": [
-        {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "Cross Worship",
-          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
-        },
-        {
-          "name": "Osby Berry",
-          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
-        }
-      ],
-      "duration_ms": 345005,
-      "name": "Yahweh / Yeshua Hamashiach",
-      "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "The Experience",
         "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
       },
@@ -735,22 +711,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
-        "url": "https://open.spotify.com/album/1th2131XTDQCahpTXc0ZxU"
+        "name": "Yahweh / Yeshua Hamashiach",
+        "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
         },
         {
-          "name": "Nicole Harris",
-          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
         }
       ],
-      "duration_ms": 228791,
-      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
-      "url": "https://open.spotify.com/track/1Y0XTbnb53whT7mOkx2TNf"
+      "duration_ms": 345005,
+      "name": "Yahweh / Yeshua Hamashiach",
+      "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -807,6 +787,26 @@
       "duration_ms": 422861,
       "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
       "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+        "url": "https://open.spotify.com/album/1th2131XTDQCahpTXc0ZxU"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Nicole Harris",
+          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+        }
+      ],
+      "duration_ms": 228791,
+      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+      "url": "https://open.spotify.com/track/1Y0XTbnb53whT7mOkx2TNf"
     },
     {
       "added_at": "2023-02-18 05:28:04",

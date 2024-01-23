@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-110 songs - 6 hr 16 min
+111 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Speakin’ to That Mountain](https://open.spotify.com/track/2k0XpAmKF3Xd7pIrNXtZTJ) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Crêpe Paper Heart](https://open.spotify.com/album/0FTQoJXH9ny0gOqYnmHXip) | 2:55 | 2023-04-14 |  |
 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 | 2023-04-14 |  |
 | [Swept Away](https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:56 | 2023-04-14 |  |
+| [The Boy I Never Loved](https://open.spotify.com/track/2FVqHAi7kjKXsrQxEC4MfR) | [EmiSunshine](https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba) | [The Boy I Never Loved](https://open.spotify.com/album/4MUY36JmgLc3rk3cpqm3PH) | 3:41 | 2024-01-22 |  |
 | [The City of New Orleans](https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [The City of New Orleans](https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo) | 4:11 | 2023-11-10 |  |
 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Rivers Rutherford](https://open.spotify.com/artist/6gFMSNbmoT4vDfNOpCP2rA), [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 | 2023-04-14 |  |
 | [The Riveter](https://open.spotify.com/track/3iQTcgiYWv0LfOJlk3BtIU) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD) | 3:41 | 2023-11-10 |  |

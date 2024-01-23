@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 129776,
+  "2024-01-23": 129806,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -257,6 +257,24 @@
       "duration_ms": 308053,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/4a26gjktpS0Yoh8bLiwkUT"
+    },
+    {
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf"
     },
     {
       "album": {

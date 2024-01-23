@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,353 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,397 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 49 | [Bhankas \(From "Baaghi 3"\)](https://open.spotify.com/track/4qhGDmLQ7Rbyqkm7cwjLps) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Bhankas \(From "Baaghi 3"\)](https://open.spotify.com/album/3COyCRn7YNvOKxh3QJEHt0) | 2:38 |
 | 50 | [Saajanji Ghar Aaye](https://open.spotify.com/track/5yDC62x6y5vZc32PzULCeU) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:15 |
 
-Snapshot ID: `MCw4ZmZmZTk4NjVlYmY1MThmYzhmNjA1M2I4Y2ZhOWI0NDk2YzA1ZGE0`
+Snapshot ID: `MCxkZGFhZjNjNTg1YWE5ZDMxMTQ3ZDkxNDg4NzZhMjJiZmY5MzUzYmU1`

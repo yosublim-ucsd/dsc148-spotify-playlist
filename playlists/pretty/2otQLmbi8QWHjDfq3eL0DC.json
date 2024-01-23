@@ -1,12 +1,12 @@
 {
   "description": "The hottest dance hits, updated every week.. All the biggest dance, house and electronic music to vibe to in 2023 and 2024!",
-  "num_followers": 1351991,
+  "num_followers": 1351920,
   "original_name": "HOUSE MUSIC 2024 | TOP 100 DANCE HITS",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "MzUwNCxkMWQ4MjBkYzVjYTMxODUxOTU5MmY1MWY3YjY0ODA5MzdjYjVjMGIy",
+  "snapshot_id": "MzUwOCwxYmMxMDU1MDM4YzI4ODcxNDZmODE3YzEwYWU4Njc4ZjUwNmM2ZmQ5",
   "tracks": [
     {
       "added_at": "2024-01-19 13:43:00",
@@ -451,6 +451,30 @@
       "duration_ms": 150994,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
+    },
+    {
+      "added_at": "2024-01-22 13:36:08",
+      "album": {
+        "name": "One By One (feat. Oaks)",
+        "url": "https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 161276,
+      "name": "One By One (feat. Oaks)",
+      "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
     },
     {
       "added_at": "2024-01-19 13:43:00",
@@ -1135,6 +1159,26 @@
     {
       "added_at": "2024-01-19 13:43:00",
       "album": {
+        "name": "House Music 2023",
+        "url": "https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/6CqFn8q3zeVuK61IO07nZZ"
+    },
+    {
+      "added_at": "2024-01-19 13:43:00",
+      "album": {
         "name": "Know Better",
         "url": "https://open.spotify.com/album/6NnxziVp4gJtTed2fdvxKX"
       },
@@ -1279,26 +1323,6 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2024-01-19 13:43:00",
-      "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/2hSH9zh4RcLUfxVaIdlyOc"
     },
     {
       "added_at": "2024-01-19 13:43:00",
@@ -1863,26 +1887,6 @@
       "duration_ms": 206000,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/33Xli0CAclZaH5tIhvHOi3"
-    },
-    {
-      "added_at": "2024-01-19 13:43:00",
-      "album": {
-        "name": "House Music 2023",
-        "url": "https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/6CqFn8q3zeVuK61IO07nZZ"
     },
     {
       "added_at": "2024-01-19 13:43:00",

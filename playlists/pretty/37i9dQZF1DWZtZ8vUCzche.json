@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ\">Classical version here</a>.",
-  "num_followers": 1210940,
+  "num_followers": 1211312,
   "original_name": "Songs To Test Headphones With",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGRjNzZjNWY5YzVjYTcxNmE1NThiZTlmZDY5NTFiNzcwMDk2ZWEw",
+  "snapshot_id": "MCxkZTkwNmM4Y2IxYWI3NzQ3N2Y5NDc0NWUyZTM5Zjc1NzY0NWM3YmY5",
   "tracks": [
     {
       "added_at": "2023-07-13 09:19:06",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "The Boatman's Call (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Blue Lines (2012 Mix/Master)",
         "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 254293,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/6k41naacsmD4L3i9AzCFom"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "The Boatman's Call (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Let Love In (2011 - Remaster)",
         "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Lateralus",
-        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 562706,
-      "name": "Lateralus",
-      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 219092,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 562706,
+      "name": "Lateralus",
+      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 330373,
       "name": "In Your Eyes - 2012 Remaster",
       "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 551786,
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 319786,
       "name": "Morning",
       "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "The Last Resort",
         "url": "https://open.spotify.com/album/64iEo3whZTY6g9vwap2H2Q"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 247817,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4WTmtPRtIpjzgwBbQsMYyo"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/1kBxLsHaPmjHHBV0eUqSmx"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Rain Dogs (2023 Remaster)",
         "url": "https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 227986,
       "name": "Clap Hands - 2023 Remaster",
       "url": "https://open.spotify.com/track/08kU4RDOriTDHzxNL90fLU"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/1kBxLsHaPmjHHBV0eUqSmx"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 390693,
-      "name": "Happiness Is Easy - 1997 Remaster",
-      "url": "https://open.spotify.com/track/3wowK80ug94yqlI86A9Ej9"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -2431,6 +2415,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 390693,
+      "name": "Happiness Is Easy - 1997 Remaster",
+      "url": "https://open.spotify.com/track/3wowK80ug94yqlI86A9Ej9"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Finally We Are No One",
         "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
       },
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Endtroducing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/06c0BTlPTET6EjBg3lJtqF"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Organ Donor - Extended Overhaul",
-      "url": "https://open.spotify.com/track/1NDBAc8qEYARqMTi3rRxHu"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 385520,
       "name": "An Eagle In Your Mind",
       "url": "https://open.spotify.com/track/7sAzXuEwz0sOhnB57xoccs"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Endtroducing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/06c0BTlPTET6EjBg3lJtqF"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "Organ Donor - Extended Overhaul",
+      "url": "https://open.spotify.com/track/1NDBAc8qEYARqMTi3rRxHu"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3WFNF1Hp0UBPswcawDHpUS"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Bad Kingdom",
-      "url": "https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Nightclubbing",
         "url": "https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 307359,
       "name": "Nightclubbing",
       "url": "https://open.spotify.com/track/2z5H8hqgbNcFs8Wl2deUhy"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3WFNF1Hp0UBPswcawDHpUS"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Bad Kingdom",
+      "url": "https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/35qo348k014R2DO3vJXj2q"
-      },
-      "artists": [
-        {
-          "name": "Chon",
-          "url": "https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Suda",
-      "url": "https://open.spotify.com/track/0xKXfY1qtqnVAM9JWmqHLM"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/66w7Uu28k6PBgTieyN8aBY"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 411346,
       "name": "I Need Somebody To Love Tonight",
       "url": "https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/35qo348k014R2DO3vJXj2q"
+      },
+      "artists": [
+        {
+          "name": "Chon",
+          "url": "https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Suda",
+      "url": "https://open.spotify.com/track/0xKXfY1qtqnVAM9JWmqHLM"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Mark Hollis",
-        "url": "https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA"
-      },
-      "artists": [
-        {
-          "name": "Mark Hollis",
-          "url": "https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp"
-        }
-      ],
-      "duration_ms": 345026,
-      "name": "The Watershed",
-      "url": "https://open.spotify.com/track/4Tw7Hxz9eSTrzcN98ijXni"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Face Value (2016 Remaster)",
         "url": "https://open.spotify.com/album/7gUgpwRHL95RLPi2WmqxgU"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 236333,
       "name": "This Must Be Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/2pkMt1GnVAbPaqGjV0FCQb"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Mark Hollis",
+        "url": "https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA"
+      },
+      "artists": [
+        {
+          "name": "Mark Hollis",
+          "url": "https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp"
+        }
+      ],
+      "duration_ms": 345026,
+      "name": "The Watershed",
+      "url": "https://open.spotify.com/track/4Tw7Hxz9eSTrzcN98ijXni"
     },
     {
       "added_at": "2023-07-13 09:19:06",

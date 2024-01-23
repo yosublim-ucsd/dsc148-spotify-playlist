@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Prince Royce y Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,497 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,099 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Tropical](https://open.spotify.com/track/2qo8wunTxcySvz1oG5Y7az) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Tropical](https://open.spotify.com/album/4y2B0NZZ9FRdtHSKu4qAwH) | 2:03 |
 | 51 | [Ficadinha \- Ao Vivo](https://open.spotify.com/track/5Vt0SUtyilv1kwKd3Ob0GH) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3) | 2:34 |
 
-Snapshot ID: `MCwwYjA1NTE1ZGU2M2UwYjMzYzY4N2FkYmYxYzA2N2VlNzgzMzkxZWQ5`
+Snapshot ID: `MCwyMWQ5MDcwMDUzN2JiNWI4NDEwMTAxZjNiYjIzZjgxYzVlNjk5Mzg3`

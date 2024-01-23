@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 1062823,
+  "2024-01-23": 1063162,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -757,6 +757,24 @@
       "duration_ms": 248346,
       "name": "Black Out Days - Future Islands Remix",
       "url": "https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm"
+    },
+    {
+      "album": {
+        "name": "Blackbride",
+        "url": "https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL"
+      },
+      "artists": [
+        {
+          "name": "Salem LaVey",
+          "url": "https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204820,
+      "name": "blackbride",
+      "url": "https://open.spotify.com/track/63wZyjdxEJXWalSTdhsiLw"
     },
     {
       "album": {
@@ -6347,7 +6365,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 109698,
       "name": "Racks",
       "url": "https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS"

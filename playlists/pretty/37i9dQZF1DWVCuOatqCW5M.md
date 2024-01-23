@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Faridkot
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,284 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,352 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 |
 | 50 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 
-Snapshot ID: `MCw0MTI5NjY5ZTVhMDViNzY3MGU3OTZhYjA3MGQ1ZjY5MDlmYTBjMjEz`
+Snapshot ID: `MCxiYTMxMDkzOGEwZGFlZGU0NjMyZDUwODhhZjhkMWFiN2M5ODhmYmE3`

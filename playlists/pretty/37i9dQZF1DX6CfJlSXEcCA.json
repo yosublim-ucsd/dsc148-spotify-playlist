@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34415,
+  "num_followers": 34410,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjA3Yjg1ODFhMDdhMmIzY2FjMTE2ZDlhMThkMzFkYWRlZTQ0ZGU5",
+  "snapshot_id": "MCw2ZWY4ZjRiZDMxZDBjMTAxOTY1M2I5MDg0ODg0ZTdkOGZiODhkYWMz",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
         "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
       },
@@ -155,22 +139,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "\"DEVILS NEVER CRY\"(\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
-      "url": "https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "DEVIL MAY CRY 5 Original SoundTrack",
         "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 147698,
       "name": "Devil Trigger - Opening Remix",
       "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 319906,
+      "name": "\"DEVILS NEVER CRY\"(\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
+      "url": "https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -291,18 +275,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
       },
       "artists": [
         {
-          "name": "Masahiro Aoki",
-          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Theme of Guile",
-      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -323,18 +307,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
-        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
       },
       "artists": [
         {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
         }
       ],
-      "duration_ms": 79173,
-      "name": "Save Theme",
-      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -403,6 +387,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "Resident Evil 6 Original Soundtrack",
         "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30c0\u30d6\u30eb\u30af\u30ed\u30b9 \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
         "url": "https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8"
       },
@@ -511,22 +495,6 @@
       "duration_ms": 233826,
       "name": "Mega Man 2 / Dr. Wily Stage 1",
       "url": "https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -579,6 +547,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "MEGAMAN 11 Original Soundtrack",
         "url": "https://open.spotify.com/album/3H6eQfGMjmwJ6JCO22t2hx"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183986,
       "name": "Dr. Wily Stage",
       "url": "https://open.spotify.com/track/23zLcVodVC5TkZ1tcNon15"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
-        "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
+        "name": "SENGOKU BASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
       },
       "artists": [
         {
-          "name": "Hideyuki Fukasawa",
-          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
         }
       ],
-      "duration_ms": 108160,
-      "name": "Ryu's Theme -The Fist That Knows No End-",
-      "url": "https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ"
+      "duration_ms": 117460,
+      "name": "SENGOKU BASARA",
+      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "SENGOKU BASARA 15th Anniversary BEST",
-        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
-      },
-      "artists": [
-        {
-          "name": "CHAMY.Ishi",
-          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
-        }
-      ],
-      "duration_ms": 117460,
-      "name": "SENGOKU BASARA",
-      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "Resident Evil 3 Special Soundtrack",
         "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 345666,
       "name": "Staff & Credits",
       "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
-        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
-      },
-      "artists": [
-        {
-          "name": "T\u2019s MUSIC",
-          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
-        }
-      ],
-      "duration_ms": 109706,
-      "name": "\u4e0a\u7530\u5408\u6226",
-      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -791,6 +759,38 @@
       "duration_ms": 265800,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30a2\u30f3\u30b3\u30fc\u30eb (\u30ed\u30c3\u30af\u30de\u30f32\u30e1\u30c9\u30ec\u30fc)",
       "url": "https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
+        "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "duration_ms": 108160,
+      "name": "Ryu's Theme -The Fist That Knows No End-",
+      "url": "https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "duration_ms": 109706,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
     },
     {
       "added_at": "2021-06-30 15:18:23",

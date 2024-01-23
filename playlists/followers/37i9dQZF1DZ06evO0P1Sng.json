@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 7764,
+  "2024-01-23": 7765,
   "date_first_scraped": "2023-12-31",
   "description": "This is Azzy. The essential tracks, all in one playlist.",
   "name": "This Is Azzy",
@@ -429,7 +429,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-22",
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam pra Gente",
       "url": "https://open.spotify.com/track/1c6VpSBIBNrDjEZusw6s4u"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 193027,
       "name": "Te Levar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4462AMqVy2RZnBmrfXq4RP"

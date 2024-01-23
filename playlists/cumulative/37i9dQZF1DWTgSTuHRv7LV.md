@@ -2,14 +2,14 @@
 
 ### [Mucho Rap](https://open.spotify.com/playlist/37i9dQZF1DWTgSTuHRv7LV)
 
-> Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno
+> Lo mejor del Hip\-Hop y Rap en español\. Cover: Akapellah, Al2 El Aldeano
 
-593 songs - 1 day 10 hr 1 min
+594 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2022-01-19 |  |
-| [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 | 2022-05-13 |  |
+| [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 | 2022-05-13 | 2024-01-23 |
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-09 | 2022-05-14 |
 | [12A12](https://open.spotify.com/track/3VBJjUHbgNMrrAp8QFKTAm) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [12A12](https://open.spotify.com/album/5GZKbxkInVwMRPQtRsRxsk) | 3:12 | 2022-01-19 | 2022-04-20 |
 | [22HS](https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:34 | 2022-10-07 | 2023-09-06 |
@@ -366,6 +366,7 @@
 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2022-06-10 | 2023-05-27 |
 | [Nextel](https://open.spotify.com/track/36tSf9q3eSds5Ik8aekHUW) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 2:28 | 2022-02-25 | 2022-05-03 |
 | [Nexus](https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Nexus](https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq) | 2:25 | 2022-02-14 | 2022-10-08 |
+| [Ni Con Money](https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [Ni Con Money](https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA) | 4:06 | 2024-01-22 |  |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-05-26 |  |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2023-05-26 | 2023-09-09 |
 | [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 | 2022-01-19 | 2023-09-09 |

@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 102014,
+  "num_followers": 102051,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTg0MDQyYmExYTdmOGYxYjlmMzJiZDdmOGViMTI2Njg2ZTg0MTZh",
+  "snapshot_id": "MCxlY2JjNGFkNWRjYjM4ZDhjN2Y0YTA0OTE0YjIzNWRjZTAwNTBlNzI5",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Strong Tower",
-        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Strong Tower",
-      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Jesus Freak (Remastered)",
         "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 305480,
       "name": "In The Light - Remastered 2013",
       "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Strong Tower",
+        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Strong Tower",
+      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -399,6 +399,22 @@
       "duration_ms": 211666,
       "name": "Flood",
       "url": "https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Essential Kirk Franklin",
+        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Stomp (Remix)",
+      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Essential Kirk Franklin",
-        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Stomp (Remix)",
-      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "A Maze Of Grace",
         "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
       },
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Jars Of Clay",
+        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "Love Song For A Savior",
+      "url": "https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 221360,
       "name": "Shine",
       "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Jars Of Clay",
-        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "Love Song For A Savior",
-      "url": "https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Ready To Fly",
-        "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
-      },
-      "artists": [
-        {
-          "name": "FFH",
-          "url": "https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Supertones Strike Back, The",
         "url": "https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
+      },
+      "artists": [
+        {
+          "name": "FFH",
+          "url": "https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 142253,
       "name": "Get This Party Started",
       "url": "https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -703,22 +719,6 @@
       "duration_ms": 281400,
       "name": "Faith My Eyes",
       "url": "https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Skillet",
-        "url": "https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 194346,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Skillet",
+        "url": "https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Anointed",
-        "url": "https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB"
-      },
-      "artists": [
-        {
-          "name": "Anointed",
-          "url": "https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Revive Us",
-      "url": "https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Free At Last (Live)",
         "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "Anointed",
+          "url": "https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Love Liberty Disco",
-      "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
+      "duration_ms": 248400,
+      "name": "Revive Us",
+      "url": "https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1055,6 +1039,22 @@
       "duration_ms": 184066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Love Liberty Disco",
+      "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
     },
     {
       "added_at": "2023-02-01 04:53:20",

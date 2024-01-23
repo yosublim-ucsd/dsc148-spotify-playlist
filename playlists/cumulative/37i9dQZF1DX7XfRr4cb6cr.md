@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-260 songs - 21 hr 32 min
+261 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Mariupol](https://open.spotify.com/track/7zMZfDDk4r5W1iHIGcWama) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Mariupol](https://open.spotify.com/album/6dP1JXzSX90FjRiKPFmnew) | 7:05 | 2022-11-11 | 2022-12-16 |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2022-01-21 |  |
 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 | 2022-07-01 |  |
-| [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 |  |
+| [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 | 2024-01-23 |
 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 |  |
 | [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2023-02-07 |
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 |  |
@@ -176,6 +176,7 @@
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2022-01-21 |  |
 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 | 2022-01-21 | 2022-07-29 |
 | [Proof of My Existence](https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Proof of My Existence](https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh) | 2:24 | 2022-10-14 |  |
+| [Purity](https://open.spotify.com/track/0UoWeHekRpGzxWl9URL9VK) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Purity](https://open.spotify.com/album/4VutvadT8VMWlf8a9PV3D7) | 3:16 | 2023-12-01 |  |
 | [Pärt: Für Alina \- 1\. Für Alina](https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Contemporary Piano](https://open.spotify.com/album/3rc04zjug6LVTSqefi5v5A) | 10:42 | 2022-01-21 | 2022-07-21 |
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Rendering Intuitions](https://open.spotify.com/track/0oFKwoS8foZNhVGXTewACT) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/3yOT3k3clE4z4dz4NagZyL) | 6:36 | 2023-09-08 |  |

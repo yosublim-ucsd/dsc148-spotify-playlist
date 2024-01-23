@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 531342,
+  "num_followers": 531324,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzA4ODkzOTRkOWE5OWM2Yjg1YTY1ZDFkYWM4YmUzNDdkMzQyN2My",
+  "snapshot_id": "MCw5MWNhYzcxZDI4ODNhYjQxN2VlZGQ3OTk0MmMyMDZhNmVhMTJiODUx",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 198000,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "In the Mood",
+        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
+      },
+      "artists": [
+        {
+          "name": "The Playtones",
+          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
+        }
+      ],
+      "duration_ms": 175679,
+      "name": "Chevy 55",
+      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "Blue Jean Bop",
         "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "In the Mood",
-        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
       },
       "artists": [
         {
-          "name": "The Playtones",
-          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
         }
       ],
-      "duration_ms": 175679,
-      "name": "Chevy 55",
-      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
+      "duration_ms": 188739,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -831,22 +847,6 @@
       "duration_ms": 152026,
       "name": "Rockabilly Guy",
       "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
-      },
-      "artists": [
-        {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
     },
     {
       "added_at": "2023-10-27 12:44:19",

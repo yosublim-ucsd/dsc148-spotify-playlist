@@ -4,7 +4,7 @@
 
 > 
 
-1,112 songs - 2 day 14 hr 25 min
+1,113 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Chaos](https://open.spotify.com/track/0CBGhRvwtczaFHMtPt6vmH) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Fishton](https://open.spotify.com/artist/0Kt629MpqNW6XIGFx4qfqg) | [Chaos](https://open.spotify.com/album/0VPomobvq9zBDXafo1Ef7b) | 3:27 | 2023-07-08 |  |
 | [Chartreuse Green](https://open.spotify.com/track/5r4r0KKsOvhdOvlzIFfJ3w) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [without Permission](https://open.spotify.com/album/5up0roguf8Ty6lUDIoBfS5) | 2:11 | 2022-08-11 |  |
 | [Chartreuse Green \(Uncut Edition\)](https://open.spotify.com/track/2Db4MW0RfPzkC4fmbdjnoi) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [without Permission](https://open.spotify.com/album/5up0roguf8Ty6lUDIoBfS5) | 4:18 | 2022-08-11 |  |
+| [Chase The Sun](https://open.spotify.com/track/3tHX6Ry3LQEaZNEReRzyqd) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Chase The Sun](https://open.spotify.com/album/6o5wVFfC69zaTHcPTFxXHJ) | 2:54 | 2024-01-22 |  |
 | [CHASING STARS](https://open.spotify.com/track/3b3Dn0d4Pth1w48dtAlCHt) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [CHASING STARS](https://open.spotify.com/album/7jmYCTcGIX95qurh0RmVmB) | 2:07 | 2023-09-11 |  |
 | [Chasing The Storm](https://open.spotify.com/track/0MkqslIj6VNILVvcjhyK2f) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [TNYA](https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT) | [Chasing The Storm](https://open.spotify.com/album/6eA3C5b93ic507TODbbatq) | 2:49 | 2023-05-01 |  |
 | [Check My Style](https://open.spotify.com/track/70T3R3QaPXLxSbomHzwGPe) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Check My Style](https://open.spotify.com/album/6thYQmqm5Y5PCW0N96EjYH) | 2:56 | 2023-07-08 |  |

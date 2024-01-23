@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,468 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,702 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 94 | [Innovate](https://open.spotify.com/track/1cDsGG8T7UO3hABFM3D0Co) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Innovate](https://open.spotify.com/album/0Ybg4XFk2EItSqZjIIsBEU) | 3:04 |
 | 95 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 |
 
-Snapshot ID: `MCxlM2VjNDBiNTA1ZmI2MjdkYTc4OThkZjBjNDcxNzA5N2JkNTMxZGVm`
+Snapshot ID: `MCxhODdkZjVlMmU5MDFhOTE0ZmYzYWE5N2RlNzk4Y2U2OGRlMjUxNmMw`

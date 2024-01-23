@@ -2673,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "Kapak Olsun",
+        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
+      },
+      "artists": [
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147136,
+      "name": "Kapak Olsun",
+      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+    },
+    {
+      "album": {
         "name": "Kara \u00dcz\u00fcm Habbesi",
         "url": "https://open.spotify.com/album/65Foe2PLk4ZSmfS25OMV1b"
       },
@@ -4274,7 +4300,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 142736,
       "name": "SAPLA",
       "url": "https://open.spotify.com/track/2uHjJ9NkuTZj2luGH0rwJP"

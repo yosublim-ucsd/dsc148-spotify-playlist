@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,692 likes - 23 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,694 likes - 23 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 22 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 |
 | 23 | [Two Guns To The Temple](https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 2:53 |
 
-Snapshot ID: `Mjg0MzA2MjcsMDAwMDAwMDBiZjdlMzBjNjFmMjMxOTM0NTc3ZGRkMDAxNGIyZmE1Mw==`
+Snapshot ID: `Mjg0MzIwNjksMDAwMDAwMDA3ZDJmOGJiMWUxMzkxMGFlNGFhODY1ZGFhNmQ0NGY3OQ==`

@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Bandycka Jazda",
+        "url": "https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Bandycka Jazda",
+      "url": "https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg"
+    },
+    {
+      "album": {
         "name": "Bandyta",
         "url": "https://open.spotify.com/album/6gGxvgeHwp2Eef5mzwx0HP"
       },
@@ -7262,7 +7280,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 211301,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0"
@@ -7280,7 +7298,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -8630,7 +8648,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 127692,
       "name": "DRUGI RAZ",
       "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
@@ -12392,7 +12410,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -29536,7 +29554,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"
@@ -30084,7 +30102,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -33434,7 +33452,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 184752,
       "name": "Z Tob\u0105 na chacie",
       "url": "https://open.spotify.com/track/61rJpXPZ4wkqmdsLYJu6LK"

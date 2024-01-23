@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: LANDMVRKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,881 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,862 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Augmented Humanity](https://open.spotify.com/track/2iVrvCQRJH88Pddsx4KPel) | [SKW](https://open.spotify.com/artist/6GOtqVpIM4PGvpfeF87LWA) | [Humans](https://open.spotify.com/album/1eoOW8bVc2zOZsZr853Ut9) | 3:27 |
 | 51 | [Breakout](https://open.spotify.com/track/24Dint1hRniML6kahqCO0n) | [Doomcrusher](https://open.spotify.com/artist/6B1THJjcbzlc0NNj2o7fPZ) | [Breakout](https://open.spotify.com/album/6PuQdmZeKTBmg2qN1hqSKJ) | 3:58 |
 
-Snapshot ID: `MCw4MTUxMjUxNWY4MjZmMjhkODdhNDk0ZmRjNWYwY2FjM2RlZTczZmIy`
+Snapshot ID: `MCxiNjA4ZDI2NWY5NjU3ODhlNmU4M2VmMmRmYmYxZTQ2NTM3MWY1N2Jh`

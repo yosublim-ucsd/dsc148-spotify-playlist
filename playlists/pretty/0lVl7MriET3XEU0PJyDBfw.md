@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,087 likes - 60 songs - 3 hr 8 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,089 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 59 | [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 |
 | 60 | [ALIVE](https://open.spotify.com/track/1eiD9V8Ypb1ASaEQrtwWNw) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [ALIVE](https://open.spotify.com/album/1ZP90zyxvU4zTy6qSYLq2m) | 2:50 |
 
-Snapshot ID: `NjEwNCw4Yzk1MjM0NGY3NmFlODk1ZjJmYmVjY2Y5YTM1YTUzNjJkZWYwMWUw`
+Snapshot ID: `NjExMiw3ZmE3NmYyNTc4ODVlZWYyNmY4MzkxZGQ3MmZkM2ZhMjM4NjdmZmQ3`

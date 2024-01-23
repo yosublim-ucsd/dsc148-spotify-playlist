@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Talib Kweli",
-  "num_followers": 471767,
+  "num_followers": 472003,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg2NDYwZWQ2NWJjNDllODljMmQyMWY2NGNmOTZhNzA3YjcxMDRl",
+  "snapshot_id": "MCxjZTAzOWQ3MDY0YmM2OTNkZWYxOWViMDkzMGZmYzc4ZTVhMDc0ODU1",
   "tracks": [
     {
       "added_at": "2024-01-12 04:00:00",
@@ -91,6 +91,26 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "The Grind Date",
         "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -223,38 +223,38 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "MM...FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
         {
           "name": "MF DOOM",
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
         }
       ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Acid Raindrops",
-        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
       "artists": [
         {
-          "name": "People Under The Stairs",
-          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 264152,
-      "name": "Acid Raindrops",
-      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -271,6 +271,22 @@
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Acid Raindrops",
+        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
+      },
+      "artists": [
+        {
+          "name": "People Under The Stairs",
+          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+        }
+      ],
+      "duration_ms": 264152,
+      "name": "Acid Raindrops",
+      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "MM...FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Travellin' Man (Remastered)",
         "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "I Need Drugs",
+        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
+      },
+      "artists": [
+        {
+          "name": "Necro",
+          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Your Fuckin\u2019 Head Split",
+      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "I Need Drugs",
-        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
-      },
-      "artists": [
-        {
-          "name": "Necro",
-          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Your Fuckin\u2019 Head Split",
-      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Neighborhood Watch",
         "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Rock City",
-        "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
-      },
-      "artists": [
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Boom - Explicit Album Version",
-      "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Shadows On The Sun",
         "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Rock City",
+        "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Boom - Explicit Album Version",
+      "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -631,8 +631,8 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
       },
       "artists": [
         {
@@ -640,25 +640,9 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+      "duration_ms": 177120,
+      "name": "Workinonit",
+      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 226866,
       "name": "Good Ol Love",
       "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt"
       },
@@ -775,6 +759,38 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 241394,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
     },
     {
       "added_at": "2024-01-12 04:00:00",

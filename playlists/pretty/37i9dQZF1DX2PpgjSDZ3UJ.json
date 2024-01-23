@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY2YWUwMjljNDFlYmZiN2JmYTlhZGQ0NDNjOTZhMWJhZWNmYWJl",
+  "snapshot_id": "MCxlM2VkNzM0ZjhmYWUxNTE5YWI4MzUwOWM2ZmNlMjM2Y2VkN2NlZTZi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Santer\u00eda",
-        "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 194317,
-      "name": "Santer\u00eda",
-      "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
         "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 267964,
       "name": "La \u00daltima 10",
       "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 194317,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Pong",
-        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Pong",
-      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Miedo, Amor y Vida - EP",
         "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216857,
       "name": "La Oscuridad",
       "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Pong",
+        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Pong",
+      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Fantas\u00eda Moral",
-        "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
-      },
-      "artists": [
-        {
-          "name": "Uniforms",
-          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
-        }
-      ],
-      "duration_ms": 305940,
-      "name": "Semana Sata\u0301n",
-      "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 236000,
       "name": "Corte Superior",
       "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Fantas\u00eda Moral",
+        "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
+      },
+      "artists": [
+        {
+          "name": "Uniforms",
+          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
+        }
+      ],
+      "duration_ms": 305940,
+      "name": "Semana Sata\u0301n",
+      "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
     },
     {
       "added_at": "2020-12-01 05:03:00",

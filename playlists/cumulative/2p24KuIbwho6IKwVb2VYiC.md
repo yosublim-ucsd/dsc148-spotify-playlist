@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Kungs, David Guetta, Izzy Bizu
 
-126 songs - 6 hr 29 min
+127 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-10-27 | 2023-11-25 |
 | [Love Like This \- Mura Masa Remix](https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Love Like This \(Mura Masa Remix\)](https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP) | 2:43 | 2023-10-27 |  |
 | [Make You Say \- ellis Remix](https://open.spotify.com/track/67Y5TUpVRkdEqnnhpXUTp1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Make You Say \(ellis Remix\)](https://open.spotify.com/album/04Z4z609qhUIkxaSYatRxv) | 2:30 | 2023-10-27 |  |
+| [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 | 2024-01-22 |  |
 | [Me and My Guitar](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Me and My Guitar](https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww) | 2:14 | 2023-10-27 | 2023-11-25 |
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 |  |
 | [Metaclub](https://open.spotify.com/track/6P3OBfMX9TZRlcraDkkWxe) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t), [Moses](https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51), [EMR3YGUL](https://open.spotify.com/artist/7McJw5ZG7vJezw6ygrFagY) | [Metaclub](https://open.spotify.com/album/4Mvb8NjfYOaiIzN8BQo574) | 2:51 | 2023-10-27 | 2023-11-25 |

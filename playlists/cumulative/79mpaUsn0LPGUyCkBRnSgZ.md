@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-534 songs - 1 day 10 hr 43 min
+535 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2024-01-08 |  |
 | [Respect the Eye](https://open.spotify.com/track/4KE01sjsnBhGKZri1752hS) | [Anarchist Republic of Bzzz](https://open.spotify.com/artist/1I7aEA3Ri18tqHAm0YhkHc) | [United Diktatürs of Europe](https://open.spotify.com/album/7rB5gL9lHHJeOgZ6BRnLIz) | 4:01 | 2024-01-18 |  |
 | [Revelator](https://open.spotify.com/track/4Ui86NRu1aoBGRUJyPusp6) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 6:22 | 2023-09-24 |  |
+| [Rhododendron Overlook](https://open.spotify.com/track/01zy9hOX1ZcvF1qjQC3EJr) | [Violet Pine](https://open.spotify.com/artist/6wmZyabjfKGIsSiQQxj93r) | [If I Sit Here Long Enough](https://open.spotify.com/album/2TcTUQz8kWFf0wXT7dgWAz) | 6:48 | 2024-01-22 |  |
 | [Ribbons](https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:17 | 2024-01-01 | 2024-01-03 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2024-01-01 |  |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2023-01-12 |  |

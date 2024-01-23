@@ -1,5 +1,5 @@
 {
-  "2024-01-22": 39,
+  "2024-01-23": 39,
   "date_first_scraped": "2023-10-18",
   "description": "",
   "name": "Worldly",
@@ -1513,6 +1513,24 @@
       "duration_ms": 211061,
       "name": "Big Baglama",
       "url": "https://open.spotify.com/track/142sQCB0AlTGMF5OcB9XMY"
+    },
+    {
+      "album": {
+        "name": "Mavi Mavi",
+        "url": "https://open.spotify.com/album/2er0A1hN4sJP6prI41s1un"
+      },
+      "artists": [
+        {
+          "name": "Grup Turbo",
+          "url": "https://open.spotify.com/artist/0agXNZlTPQIPMdf8KzQbZB"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182344,
+      "name": "Bir Sigara \u0130\u00e7 O\u011flan",
+      "url": "https://open.spotify.com/track/67NxBj77Rbm4PN6n4snKic"
     },
     {
       "album": {
@@ -5949,6 +5967,24 @@
       "duration_ms": 414520,
       "name": "Kyenkyen Bi Adi M'awu",
       "url": "https://open.spotify.com/track/2iomWDpUomxZI0MYh4SKXM"
+    },
+    {
+      "album": {
+        "name": "Ayva \u00c7i\u00e7ek A\u00e7m\u0131\u015f",
+        "url": "https://open.spotify.com/album/3ogoUyugtlKcOHTByhOF2b"
+      },
+      "artists": [
+        {
+          "name": "\u0130stanbul \u015eark\u0131c\u0131lar\u0131",
+          "url": "https://open.spotify.com/artist/3dAWWhURuoeND0OPcwrOpR"
+        }
+      ],
+      "date_added": "2024-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "K\u00f6ro\u011flu Da\u011flar\u0131",
+      "url": "https://open.spotify.com/track/5mETTpAx7Ccmpd6FUwycRb"
     },
     {
       "album": {

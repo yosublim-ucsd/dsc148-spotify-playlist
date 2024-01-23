@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom?si=IzDcDqJSQz\-G5cFoehBhNQ">Griffit Vigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,525 likes - 60 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,562 likes - 60 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EGM](https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [EGM](https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6) | 7:44 |
-| 2 | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/track/1YHfI5IrtFrbr3jickVdsf) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/album/7xdHv88Q4NNrK5RcHjwAER) | 4:21 |
-| 3 | [Who Am I](https://open.spotify.com/track/1orWwb6zIlNsRmpzbfkLeh) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [The Young Prince of Gqom](https://open.spotify.com/album/028rkg04iaHiF9q7q34ZzM) | 5:13 |
+| 1 | [Who Am I](https://open.spotify.com/track/1orWwb6zIlNsRmpzbfkLeh) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [The Young Prince of Gqom](https://open.spotify.com/album/028rkg04iaHiF9q7q34ZzM) | 5:13 |
+| 2 | [EGM](https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [EGM](https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6) | 7:44 |
+| 3 | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/track/1YHfI5IrtFrbr3jickVdsf) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [Bamba iRoof \(feat\. Thobeka\)](https://open.spotify.com/album/7xdHv88Q4NNrK5RcHjwAER) | 4:21 |
 | 4 | [Marry Me](https://open.spotify.com/track/2SYkXjj4fMmDYxKTeWMmkJ) | [NV Funk](https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz) | [Marry Me](https://open.spotify.com/album/7mjQtZykEFcCsjHeqw14cU) | 6:09 |
 | 5 | [Home Coming](https://open.spotify.com/track/6iBdg8inuT94xLgvlUIisb) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [Home Coming](https://open.spotify.com/album/286IjeJkevfzMSkXlS3Q0y) | 5:39 |
 | 6 | [E\-Wallet](https://open.spotify.com/track/7sVmYrSWOesRwonaTcsZ6u) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [E\-Wallet](https://open.spotify.com/album/6eZg6Qdgq93kjkRpYJkw5f) | 5:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [RKO](https://open.spotify.com/track/4bwAwH7bHc68cmQHlgg483) | [MusiQue Fellaz](https://open.spotify.com/artist/0U4NYyzSS4pInXt5mnVz9i), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [RKO](https://open.spotify.com/album/4mIrRZd9lgR5rcP32X3yS9) | 5:08 |
 | 60 | [Bounce Shandisi](https://open.spotify.com/track/01ld0rQApXOokOGlwhhDN2) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [Bounce Shandisi](https://open.spotify.com/album/2FlNshpm7rhGws83Jy6hUS) | 3:20 |
 
-Snapshot ID: `MCwxMWQxYTNkNWFjNGI1MTc0YjJmNDE2OGExZWE3MjQ3MmU4MmE4MjBj`
+Snapshot ID: `MCwwYjAwNjk4NDQwNWFkZjY0NzAyYzFmNzA4Y2UzZTU0YzNiYzJlYmJi`

@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445506,
+  "num_followers": 445532,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzkzNzBhMmEyN2M3YWMwZDJjNmI2ZWU5Y2U1YjEzZTM3Y2I4MzQ4",
+  "snapshot_id": "MCw1Y2NlOGQ3YjQwYTY5MjBiNjIyZDk0ODdhZDFlMWQ1OTIyYjE1MTgx",
   "tracks": [
     {
       "added_at": "2024-01-18 13:12:41",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
-      },
-      "artists": [
-        {
-          "name": "Chrisolof",
-          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
-        }
-      ],
-      "duration_ms": 114422,
-      "name": "Under The Tree",
-      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 120615,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
+      },
+      "artists": [
+        {
+          "name": "Chrisolof",
+          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
+        }
+      ],
+      "duration_ms": 114422,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
-      },
-      "artists": [
-        {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 84000,
       "name": "Hold on, Pt. 2",
       "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
-      },
-      "artists": [
-        {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Keep On Going",
         "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 160403,
       "name": "Keep On Going",
       "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2024-01-18 13:12:41",

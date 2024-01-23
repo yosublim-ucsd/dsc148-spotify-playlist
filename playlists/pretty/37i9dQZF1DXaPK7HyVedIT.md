@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar, Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,852 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,555 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Night Is Closing](https://open.spotify.com/track/6dQaJrwoir4GS9RaqEHYsz) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Night Is Closing](https://open.spotify.com/album/3lDpGeWM1LS4mCF2qX8Hcw) | 4:07 |
 | 75 | [Turn It On](https://open.spotify.com/track/6Euen4Ocjf0nMlXroL5YYO) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Turn It On](https://open.spotify.com/album/7ncH0Ng2E0oZrAt2T7krmi) | 3:21 |
 
-Snapshot ID: `MCw5N2QxM2Q3YzZjNDg4M2ViZjQ3YTQyM2RjYTI2YjA2OGVkMDQ1Mzg2`
+Snapshot ID: `MCxiMTczYjA4N2ExY2EyYmRjZWRlMzhmZjI4MzlhMmIyZGE4MThkNjM5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: B1A4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: TWS(\ud22c\uc5b4\uc2a4)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 194120,
       "name": "BIBORA",
       "url": "https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a"
@@ -6731,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "album": {
         "name": "POISON",
         "url": "https://open.spotify.com/album/41Ja2h7SkGQxDbzwHD7SBy"
       },
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 189800,
       "name": "REWIND",
       "url": "https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e"
@@ -8067,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "Suit Up",
+        "url": "https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-L.S.S.",
+          "url": "https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Suit Up",
+      "url": "https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA"
+    },
+    {
+      "album": {
         "name": "EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains'",
         "url": "https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd"
       },
@@ -8777,6 +8813,24 @@
     },
     {
       "album": {
+        "name": "Un: SEEN",
+        "url": "https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
+    },
+    {
+      "album": {
         "name": "DKZ 7th Single Album \u2032CHASE EPISODE 3. BEUM\u2032",
         "url": "https://open.spotify.com/album/5AceFoyAzJIlqz5Y6EvkY7"
       },
@@ -9030,7 +9084,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 179000,
       "name": "WATCH IT",
       "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"

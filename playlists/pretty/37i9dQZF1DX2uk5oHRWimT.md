@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,256 likes - 137 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,170 likes - 137 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 115 | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/track/4gsNO2qnHlrdvR4JFCi4P3) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/album/1sREPHtpCUSQmPuOfj70Rp) | 3:23 |
 | 116 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4njsApPwpZMNTRv4sIs3gw) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [The Christmas EP](https://open.spotify.com/album/1f5F5kSY9oLBWvzTZOXJjO) | 2:06 |
 | 117 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1hkN1uNp46MFKuSgQ5Eyaf) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ubCtP1g5wx4Q1itItstdi) | 3:18 |
-| 118 | [River](https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht) | [Blue](https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p) | 4:05 |
+| 118 | [](https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p) | 0:00 |
 | 119 | [Sing a Christmas Song Anyway](https://open.spotify.com/track/2QuFEiHnNsvr16bicGHqNj) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/2zGo2F0Ab8hqMqQeHs52LV) | 3:13 |
 | 120 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 121 | [Back for Christmas](https://open.spotify.com/track/2shEDFZ1bIKEWKI0TJxmpH) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Back for Christmas](https://open.spotify.com/album/61zxJCcXMhzUUsxrijWfYH) | 3:29 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 136 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 137 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCxkNDYwYmI2ZjMyYjczZGY2MmI1OGU2MTE4NDlhNjQ0YTNiYTViNmEx`
+Snapshot ID: `MCxkYTRhYmI0ZmY5NTFjNmU1YTEwNjA3Zjg1YTJmM2NmZDI4YzE4ZDRm`

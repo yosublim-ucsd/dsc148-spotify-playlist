@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Encuentra rolitas nuevas de Eladio Carrión, Kenia OS con Alvaro Diaz, Yandel y Natanael Cano para combatir la cuesta de Enero!
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,105 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,049 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Shiver](https://open.spotify.com/track/4KQ9oQ7XR2eOzl6dEMLL7S) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Shiver](https://open.spotify.com/album/1v2NopRSJs7XJWzpLSsX5d) | 3:00 |
 | 50 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 
-Snapshot ID: `MCxiNjQ5ZDllN2M2OGE2ODFkMzk0YjQ4NTIzMGI1MGFlMDBjODI5ZDRj`
+Snapshot ID: `MCw2NTc3NTlhMzNhNzBlNWE0MjkwYTAwNjA4YzQwMDg1M2QzZjZiZTQ3`

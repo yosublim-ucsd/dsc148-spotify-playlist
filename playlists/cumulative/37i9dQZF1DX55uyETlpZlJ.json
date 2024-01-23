@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "Amma - The Kodava Song",
+        "url": "https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b"
+      },
+      "artists": [
+        {
+          "name": "Pop-J Prajeeth",
+          "url": "https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p"
+        },
+        {
+          "name": "Karan Kaverappa",
+          "url": "https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Amma - The Kodava Song",
+      "url": "https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa"
+    },
+    {
+      "album": {
         "name": "Amrutha Kshana (Female Version)",
         "url": "https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va"
       },
@@ -210,7 +232,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 179801,
       "name": "Amrutha Kshana (Female Version)",
       "url": "https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s"
@@ -1675,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "Ille Iruvanu",
+        "url": "https://open.spotify.com/album/1ulnP8ZLc9QDLCWoybVN2S"
+      },
+      "artists": [
+        {
+          "name": "Shamanth M",
+          "url": "https://open.spotify.com/artist/2GYWq7iSYkxOjNz1qW3BAx"
+        },
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318276,
+      "name": "Ille Iruvanu",
+      "url": "https://open.spotify.com/track/0PGvWnVE33AZlWjehFbQ9U"
+    },
+    {
+      "album": {
         "name": "Independent",
         "url": "https://open.spotify.com/album/2NP9vgIrhizhRiO9Af9utW"
       },
@@ -2694,6 +2738,24 @@
       "duration_ms": 209375,
       "name": "Meghave",
       "url": "https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN"
+    },
+    {
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/057QjeaBnQhOiH26WDO06R"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85479,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU"
     },
     {
       "album": {
@@ -4270,7 +4332,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 130285,
       "name": "Psych Boy",
       "url": "https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF"
@@ -5328,7 +5390,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 232004,
       "name": "Zari Zari Panche Uttu DJ - DJ Version",
       "url": "https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf"

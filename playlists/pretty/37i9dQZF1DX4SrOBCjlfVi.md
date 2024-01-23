@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Joey Bada$$, Fivio Foreign, Blxst and more\. Cover: Rob49 & Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,934 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,196 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got It on Me](https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Got It on Me](https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk) | 2:14 |
 | 50 | [No Cuffin](https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [No Cuffin](https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV) | 1:31 |
 
-Snapshot ID: `MCw4M2IxNTQ4MGE4MDM3MDFjYWEyYjQ4YzJkMzgxOGQ2ZTdjNjk2NzRm`
+Snapshot ID: `MCwwZjUzNGY3ZDFkZjM1MDYwZWYzZjZmNjhmZTczNzdhZWNhMjY5MTA4`

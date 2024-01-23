@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2023 and 2024!
 
-130 songs - 6 hr 6 min
+131 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Nirvana](https://open.spotify.com/track/009yAC1axMJkhvYFgkB3nA) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:37 | 2023-11-03 |  |
 | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/track/3EJjWnvGleKgYPikSo3K33) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/album/1gX4xhqZzjairFGA10ivst) | 2:53 | 2023-11-03 |  |
 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 | 2024-01-05 |  |
-| [On Repeat](https://open.spotify.com/track/2hSH9zh4RcLUfxVaIdlyOc) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:10 | 2023-11-03 |  |
+| [On Repeat](https://open.spotify.com/track/2hSH9zh4RcLUfxVaIdlyOc) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:10 | 2023-11-03 | 2024-01-23 |
 | [On Repeat](https://open.spotify.com/track/6CqFn8q3zeVuK61IO07nZZ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 3:10 | 2023-11-03 |  |
+| [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 | 2024-01-22 |  |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-11-03 |  |
 | [Out Of My Mind](https://open.spotify.com/track/33Xli0CAclZaH5tIhvHOi3) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Out Of My Mind](https://open.spotify.com/album/49gy07qeAjcFvAhM1VSD5K) | 3:26 | 2023-11-03 |  |
 | [Outta My Head](https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Outta My Head](https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA) | 2:38 | 2023-12-01 |  |

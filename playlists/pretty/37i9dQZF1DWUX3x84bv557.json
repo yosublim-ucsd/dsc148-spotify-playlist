@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Antoon",
-  "num_followers": 161047,
+  "num_followers": 161094,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Q1ODE3OTMxNGZlNjRjZGVjZDJiZDA4OGY2NTdjNDk0MTkwOTk3",
+  "snapshot_id": "MCxhZmY1YTZhNDI4NDI3MmY0YzBkZmRkNDA2MzZiZGIxODNlYmE5ZDMw",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Blauwe Maandag",
+        "url": "https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        }
+      ],
+      "duration_ms": 139737,
+      "name": "Blauwe Maandag",
+      "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Laatste Keer",
         "url": "https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 183518,
       "name": "Rock \u2018n Roll in Nederland",
       "url": "https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Blauwe Maandag",
-        "url": "https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK"
-      },
-      "artists": [
-        {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
-        }
-      ],
-      "duration_ms": 139737,
-      "name": "Blauwe Maandag",
-      "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
     },
     {
       "added_at": "2024-01-18 23:00:00",

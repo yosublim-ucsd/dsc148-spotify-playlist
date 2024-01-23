@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 142 songs - 7 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 143 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 140 | [Zaza \(feat\. Future\)](https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:41 |
 | 141 | [Same Yung Nigga \(feat\. Playboi Carti\)](https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:00 |
 | 142 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 |
+| 143 | [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 |
 
-Snapshot ID: `NzE5Miw1ZDIzNzg1YzgyOGNjOWJjZDQxMTMzMzAyMzA0MDRhNTQzZmM3OGJj`
+Snapshot ID: `NzE5MyxjMzZmMmU5N2U0NWU1YzUwMWZmN2VmNzdjYjIzZDljODdjOGU1OTdm`

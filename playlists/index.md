@@ -1,4 +1,4 @@
-## Playlists \(7420\)
+## Playlists \(7421\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3053,7 +3053,7 @@
 - [Laid\-Back Camp ゆるキャン△](/playlists/pretty/37i9dQZF1DWWosUgW8r4Gq.md)
 - [Laidback Acoustic](/playlists/pretty/37i9dQZF1DXc3FQfFV3K6V.md)
 - [Langgam Jawa](/playlists/pretty/37i9dQZF1DWWGlTStsnvnj.md)
-- [Las 100 mejores baladas](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md)
+- [Las 100 mejores baladas románticas](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md)
 - [Las Canciones Más Bonitas Del Mundo](/playlists/pretty/37i9dQZF1DX9CCxc3fffni.md)
 - [Las Chacalosas](/playlists/pretty/37i9dQZF1DX2QYsoI8NDDe.md)
 - [Las Choppers](/playlists/pretty/37i9dQZF1DWYW4SraN7Va8.md)
@@ -4590,6 +4590,7 @@
 - [Salsa: Los '70](/playlists/pretty/37i9dQZF1DX2zJGRjWhK7Q.md)
 - [Salsa: Los '80](/playlists/pretty/37i9dQZF1DX49mfoIGumhI.md)
 - [Salsacumbiando](/playlists/pretty/37i9dQZF1DX7BYwVvoF9t2.md)
+- [Saltburn Official Playlist](/playlists/pretty/37i9dQZF1DX1FJWpIFoX4r.md)
 - [Salut les yéyés](/playlists/pretty/37i9dQZF1DX8OVycSP3AXz.md)
 - [Salvatore Ganacci's DJ Mix](/playlists/pretty/37i9dQZF1DX6MHmZWmSG0W.md)
 - [Salón Tropical](/playlists/pretty/37i9dQZF1DX0B1hXnSYwL9.md)
