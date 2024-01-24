@@ -4343,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "Fosforo (feat. Francesco Bianconi)",
+        "url": "https://open.spotify.com/album/2FxJtyaLXUGosK1OgAiDK9"
+      },
+      "artists": [
+        {
+          "name": "Amalfitano",
+          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
+        },
+        {
+          "name": "Francesco Bianconi",
+          "url": "https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Fosforo (feat. Francesco Bianconi)",
+      "url": "https://open.spotify.com/track/5hm9gOhjEU6iM227OC9lxf"
+    },
+    {
+      "album": {
         "name": "RAGAZZAcd",
         "url": "https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15"
       },

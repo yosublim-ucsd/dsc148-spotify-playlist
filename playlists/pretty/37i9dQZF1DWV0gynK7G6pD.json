@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Stephan Moccio",
-  "num_followers": 703886,
+  "num_followers": 703576,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGRkM2ZiN2RmZWU4MWE2ZmIyMDIwMzU5YzI4YjY4YzUyMTNhZGQ1",
+  "snapshot_id": "MCw1NzhhYzgwMDNhNDFjZDk2YzVkZjczMWVlOWEwNjkwMTgxZTA1OGE0",
   "tracks": [
     {
       "added_at": "2024-01-19 04:00:00",
@@ -783,7 +783,7 @@
     {
       "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "Schubert: Nachtst\u00fcck, D. 672",
+        "name": "Schubert: Nachtst\u00fcck, D. 672 (Version Played on Violin and Harp)",
         "url": "https://open.spotify.com/album/1JNqOy392mNeQlFwWKDnNt"
       },
       "artists": [
@@ -794,6 +794,10 @@
         {
           "name": "Laurent Korcia",
           "url": "https://open.spotify.com/artist/2GeutBKR3pXPk1OBmDYWD3"
+        },
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         }
       ],
       "duration_ms": 265120,

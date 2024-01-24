@@ -1,15 +1,15 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 701,
+  "num_followers": 700,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MzIwNjgsMDAwMDAwMDAzMTYzMWM0NzIwNzA5ODZkODI4ZTllY2M1NDc1Zjc5MA==",
+  "snapshot_id": "Mjg0MzM1MzQsMDAwMDAwMDA5YzdhZDZhODU2MmM2MjQxYWViOTA2ZjAzMjhjZjk1MA==",
   "tracks": [
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
-    },
-    {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
+    },
+    {
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Long After Dark",
         "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5eMZ3EPIMGoWlrrVhxatdv"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "You're Gonna Get It!",
         "url": "https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/26TpLkciA8vz3kAvSI5tHG"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/3BSoskNONnjn05yRO2tYFX"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "She's the One (Songs and Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "You're Gonna Get It!",
         "url": "https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2iW5uc25ziGLlNMqdhFJad"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/61ydRWnQ31DWFDqEj325nf"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "She's the One (Songs and Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5yEpB2g3CbuVk4YmAkzkOK"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
         "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Long After Dark",
         "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
@@ -429,23 +429,7 @@
       "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
-      "album": {
-        "name": "The Last DJ",
-        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "The Last DJ",
-      "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
-    },
-    {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
@@ -461,10 +445,10 @@
       "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
       },
       "artists": [
         {
@@ -472,12 +456,12 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+      "duration_ms": 227986,
+      "name": "The Last DJ",
+      "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
@@ -493,7 +477,23 @@
       "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+    },
+    {
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -504,12 +504,12 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 202973,
-      "name": "The Dark Of The Sun",
-      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+      "duration_ms": 189266,
+      "name": "Two Gunslingers",
+      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
@@ -529,23 +529,7 @@
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Something Good Coming",
-      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
-    },
-    {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
@@ -561,7 +545,23 @@
       "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -572,12 +572,12 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Two Gunslingers",
-      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
+      "duration_ms": 202973,
+      "name": "The Dark Of The Sun",
+      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Pack Up The Plantation: Live!",
         "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "The Live Anthology",
         "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Hypnotic Eye",
         "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
         "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
@@ -765,23 +765,7 @@
       "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 210083,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
-    },
-    {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
@@ -813,7 +797,23 @@
       "url": "https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy"
     },
     {
-      "added_at": "2024-01-22 11:48:42",
+      "added_at": "2024-01-23 12:14:57",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 210083,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
+    },
+    {
+      "added_at": "2024-01-23 12:14:57",
       "album": {
         "name": "Mojo (Extra Mojo Version)",
         "url": "https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP"

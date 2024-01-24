@@ -1,12 +1,12 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell & Afrojack",
-  "num_followers": 480534,
+  "num_followers": 480748,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGI0NDM3YjY5ZDM3YjcxOTUwYjY4ZGE0YmY3NTM0NmZiZmNkNmU5",
+  "snapshot_id": "MCw5MWIzNGI2NzUzMjEyOTNlM2JjYWIxZTg4NmVkZGY5NDA4M2QzNmQ4",
   "tracks": [
     {
       "added_at": "2024-01-18 23:01:00",
@@ -343,26 +343,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         },
         {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "Tomcraft",
-          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
+      "duration_ms": 239585,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -387,22 +383,26 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Metro",
-        "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
         }
       ],
-      "duration_ms": 239585,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
+      "duration_ms": 163555,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Shockwave (with Afrojack)",
-        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 122578,
-      "name": "Shockwave (with Afrojack)",
-      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+        "name": "Shockwave (with Afrojack)",
+        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+      "duration_ms": 122578,
+      "name": "Shockwave (with Afrojack)",
+      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -735,6 +715,26 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -799,6 +799,50 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "Vivaldi",
+        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "Vivaldi",
+      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "It Burns - EP",
         "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
       },
@@ -839,26 +883,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Vivaldi",
-        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 160222,
-      "name": "Vivaldi",
-      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
       },
@@ -875,6 +899,30 @@
       "duration_ms": 159406,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Mas Que Nada (with Marnik)",
+        "url": "https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "duration_ms": 167261,
+      "name": "Mas Que Nada (with Marnik)",
+      "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -915,30 +963,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "He's A Pirate",
         "url": "https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo"
       },
@@ -951,26 +975,6 @@
       "duration_ms": 183555,
       "name": "He's A Pirate",
       "url": "https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "Flight 643 (KAAZE Remix)",
-        "url": "https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 159777,
-      "name": "Flight 643 - KAAZE Remix",
-      "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -999,26 +1003,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Mas Que Nada (with Marnik)",
-        "url": "https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO"
+        "name": "Flight 643 (KAAZE Remix)",
+        "url": "https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 167261,
-      "name": "Mas Que Nada (with Marnik)",
-      "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
+      "duration_ms": 159777,
+      "name": "Flight 643 - KAAZE Remix",
+      "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 285227,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "Computers Take Over The World (Remixes)",
         "url": "https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 242112,
       "name": "Computers Take Over The World - Maddix Remix",
       "url": "https://open.spotify.com/track/1YvZAl9rv455hj64qOZmj5"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 285227,
-      "name": "Blow Your Mind",
-      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY"
       },
@@ -1295,22 +1275,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
-        "url": "https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
-      "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "MOLLY (Will Sparks Remix)",
         "url": "https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e"
       },
@@ -1331,6 +1295,42 @@
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+        "url": "https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+      "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 131538,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/5tRV5lieNWmXyZl0JqktVW"
-      },
-      "artists": [
-        {
-          "name": "Dannic",
-          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
-        },
-        {
-          "name": "Roy Orion",
-          "url": "https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "The Ultimate",
-      "url": "https://open.spotify.com/track/7tipU0ULOdEhC0jysICP7p"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 233587,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/5tRV5lieNWmXyZl0JqktVW"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        },
+        {
+          "name": "Roy Orion",
+          "url": "https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "The Ultimate",
+      "url": "https://open.spotify.com/track/7tipU0ULOdEhC0jysICP7p"
     },
     {
       "added_at": "2024-01-18 23:01:00",

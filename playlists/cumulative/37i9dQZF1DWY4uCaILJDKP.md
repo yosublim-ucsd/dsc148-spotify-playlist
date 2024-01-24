@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-139 songs - 9 hr 29 min
+141 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [SING!!!!!](https://open.spotify.com/track/3a7f747Xv3UGGvRbhKKvpv) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [G20](https://open.spotify.com/album/6YcYx94kcYhcXuumKVrwhU) | 4:13 | 2022-03-08 |  |
 | [SOUTHPAW](https://open.spotify.com/track/6B0ufMIM7BXqleQk7pB3DV) | [MEG](https://open.spotify.com/artist/625iOFWwsLZyMXt7mx5L2X) | [WEAR I AM](https://open.spotify.com/album/6EBuvTf7SZKFBFwvjXDxMz) | 5:15 | 2022-03-08 |  |
 | [Start it right away](https://open.spotify.com/track/12SzyDBVh8aXwBSe6Oc0A1) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Start it right away](https://open.spotify.com/album/2k10P8MlYRilFTw1vVyt5o) | 4:08 | 2022-03-08 |  |
+| [TAKOYAKI in my heart](https://open.spotify.com/track/1wr3UGHoVeONKB1ZD0uKvO) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [JUKE BOX](https://open.spotify.com/album/45WScaFWvuSyWSPBq0c9cK) | 4:57 | 2024-01-23 |  |
 | [thx!!](https://open.spotify.com/track/3H4aN2ueNg6e9DGZpmPfme) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Tinkling Smile](https://open.spotify.com/album/4lWHXHPkz9SwdNjWGJBMel) | 4:13 | 2022-03-08 |  |
 | [TOP SECRET](https://open.spotify.com/track/0WXqtcLh7Q6V1587YcQiZ0) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [10th Anniversary ALL TIME BEST / Yellow \[2010\-2020\]](https://open.spotify.com/album/717Bk7GgGixXrprqK5CtWZ) | 3:47 | 2022-07-12 |  |
 | [TOP SECRET](https://open.spotify.com/track/6Vx8nFFLMZe0SS60OnRRF9) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [TOP SECRET](https://open.spotify.com/album/4xPDF3LIm9WNsLo3oQBJN5) | 3:48 | 2022-03-08 | 2022-07-29 |
@@ -119,6 +120,7 @@
 | [モンスターディスコ](https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [ヒャダイン](https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF) | [モンスターディスコ](https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK) | 3:15 | 2022-07-12 | 2022-07-29 |
 | [ユーアノッアロン](https://open.spotify.com/track/2ChhFmU1wCP2vTybhespub) | [永野と高城。](https://open.spotify.com/artist/74KFQxfUK4pKaeJvZovg5N) | [れにちゃんWORLD](https://open.spotify.com/album/1FOM4ocBJZgADGPIG55KUm) | 3:39 | 2022-03-08 |  |
 | [ワニとシャンプー \-ZZ ver.\-](https://open.spotify.com/track/0vtd2nklEKpg0q2SbK12qK) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 4:03 | 2022-03-08 |  |
+| [三十路少年](https://open.spotify.com/track/38FnWo9TPHrxfQTbZtpwhR) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [関ジャニズム](https://open.spotify.com/album/3NVq3zztxre3J8IXmfmScQ) | 4:52 | 2024-01-23 |  |
 | [五色のShooting☆Star!!!!!](https://open.spotify.com/track/6xJkGb622GVmf1chfPak7P) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ! アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:54 | 2022-03-08 |  |
 | [初恋よ こんにちは \- 歌:渡辺麻友・多田愛佳・平嶋夏海・岩佐美咲](https://open.spotify.com/track/6W9Jy7ZCvI6wgwYJxAUhfa) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [バレンタイン・キッス](https://open.spotify.com/album/1NTiKPUPAZD8t9AH7HM3rz) | 3:50 | 2022-03-08 |  |
 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-03-08 | 2023-06-26 |

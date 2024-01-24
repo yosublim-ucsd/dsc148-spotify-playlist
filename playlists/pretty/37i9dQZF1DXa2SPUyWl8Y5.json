@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 485380,
+  "num_followers": 485460,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjA4MGNkOWI3NTI4NWI2MWI1MDdmYmNkMzhmYWM5YTY2MWM5OTA3",
+  "snapshot_id": "MCw4MTQwYjZlNzY3OWEzNjUzZmY4MmJmODE5MTA1M2ViMmQ1NWIwZjQ4",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Portal / Echoes",
-        "url": "https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
       },
       "artists": [
         {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 207874,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI"
+      "duration_ms": 340400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
+        "name": "Portal / Echoes",
+        "url": "https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
+      "duration_ms": 207874,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "In A Blurry World",
-        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
+        "name": "Allegri",
+        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
         }
       ],
-      "duration_ms": 347680,
-      "name": "In A Blurry World",
-      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
+      "duration_ms": 322640,
+      "name": "Allegri",
+      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Allegri",
-        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Allegri",
-      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "We're Back Chilling",
         "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "In A Blurry World",
+        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "In A Blurry World",
+      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 404532,
       "name": "Solid",
       "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Amantes Amentes",
-        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 448684,
-      "name": "Amantes Amentes",
-      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Spaziergang im All",
         "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
       },
@@ -627,22 +611,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
       },
       "artists": [
         {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+      "duration_ms": 448684,
+      "name": "Amantes Amentes",
+      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -663,6 +643,26 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 375483,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -903,22 +903,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Hailstorm (Ann Clue Remix)",
-        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
       },
       "artists": [
         {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        },
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
         }
       ],
-      "duration_ms": 382486,
-      "name": "Hailstorm - Ann Clue Remix",
-      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -939,22 +935,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Hailstorm (Ann Clue Remix)",
+        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        },
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 382486,
+      "name": "Hailstorm - Ann Clue Remix",
+      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Gratitude (Extended Mixes)",
         "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 356188,
       "name": "Forsaken Dream - Extended Mix",
       "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
-      },
-      "artists": [
-        {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
-        }
-      ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
         }
       ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        },
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -1231,22 +1251,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
-      },
-      "artists": [
-        {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
@@ -1259,6 +1263,22 @@
       "duration_ms": 373875,
       "name": "Fader",
       "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+      },
+      "artists": [
+        {
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        },
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Cliff (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
         }
       ],
-      "duration_ms": 444816,
-      "name": "Cliff - Einmusik Remix",
-      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
     }
   ],
   "unique_name": "Beats to think to",

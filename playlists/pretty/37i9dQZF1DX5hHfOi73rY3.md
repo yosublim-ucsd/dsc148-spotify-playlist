@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,853 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,871 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Okay](https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Okay](https://open.spotify.com/album/6zwUPGMAnjh2PLxfVDTdnf) | 5:59 |
 | 50 | [Nothing Better](https://open.spotify.com/track/6qMHCyhQPPVQaadEHAsoJW) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Nothing Better](https://open.spotify.com/album/6Ry6CCA0LD7gTqIf4xIX0e) | 3:38 |
 
-Snapshot ID: `MCxhMTliMTIxMzJlOTZlN2IyYjk2NzMwNjBhMWNhNWViYzZhM2MxODBk`
+Snapshot ID: `MCxiNDYwZTMzODEzODYyYTdiMWFiYTc3YmIzZWZhN2VlNjE0OWIzYzY4`

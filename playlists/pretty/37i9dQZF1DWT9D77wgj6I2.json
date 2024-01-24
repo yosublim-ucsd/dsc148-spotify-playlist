@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Chayanne en portada.",
-  "num_followers": 87239,
+  "num_followers": 87263,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjI3YjY1NjFkMGFjNmJhNTM3MTQyMTU1NGYyOTMzZDVkODFhM2Yx",
+  "snapshot_id": "MCxjZDVjZjkxYTc0MTQ0NTE1YzliNTdiYmM2Njk5YWE0YWU1ZGVmYjFj",
   "tracks": [
     {
       "added_at": "2023-08-18 16:29:28",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-08-18 16:29:28",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "Imitadora",
+      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
+    },
+    {
+      "added_at": "2023-08-18 16:29:28",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
-    },
-    {
-      "added_at": "2023-08-18 16:29:28",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "Imitadora",
-      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
     },
     {
       "added_at": "2023-08-18 16:29:28",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-08-18 16:29:28",
       "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Judy Santos",
-          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
-    },
-    {
-      "added_at": "2023-08-18 16:29:28",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 198332,
       "name": "Sobredosis (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
+    },
+    {
+      "added_at": "2023-08-18 16:29:28",
+      "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2023-08-18 16:29:28",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-18 16:29:28",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-08-18 16:29:28",
+      "album": {
         "name": "Veterana",
         "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 194599,
       "name": "Veterana",
       "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
-    },
-    {
-      "added_at": "2023-08-18 16:29:28",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-08-18 16:29:28",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-08-18 16:29:28",
       "album": {
-        "name": "Un Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/7zaxOqSnkHcnxY1MC7uAuQ"
+        "name": "Super Bachata (14 Bachata Hits Originales)",
+        "url": "https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Carlos y Alejandra",
+          "url": "https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA"
         }
       ],
-      "duration_ms": 254614,
-      "name": "Un Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/0VFzi9ceRRjk42u9567UTW"
+      "duration_ms": 205840,
+      "name": "Melod\u00eda De Amor",
+      "url": "https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3"
     },
     {
       "added_at": "2023-08-18 16:29:28",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-08-18 16:29:28",
       "album": {
-        "name": "Super Bachata (14 Bachata Hits Originales)",
-        "url": "https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB"
+        "name": "Un Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/7zaxOqSnkHcnxY1MC7uAuQ"
       },
       "artists": [
         {
-          "name": "Carlos y Alejandra",
-          "url": "https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Melod\u00eda De Amor",
-      "url": "https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3"
+      "duration_ms": 254614,
+      "name": "Un Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/0VFzi9ceRRjk42u9567UTW"
     }
   ],
   "unique_name": "Bachata Pop",

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-300 songs - 21 hr 20 min
+302 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [AURORA](https://open.spotify.com/track/3Y8WAXHV0pE67p8PQDyl3K) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:21 | 2022-10-17 | 2022-11-13 |
 | [BACK TO PARADISE](https://open.spotify.com/track/2moKsxvepCDTcwGE9hBq54) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [BACK TO PARADISE](https://open.spotify.com/album/0OOWhWcdJQ5Z2eKgYxBerv) | 4:24 | 2022-07-27 | 2023-06-10 |
 | [BACK TO PARADISE](https://open.spotify.com/track/3pC3Jsx8zFCiRDMmOyuRuW) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [BACK TO PARADISE](https://open.spotify.com/album/5fekYQVLo4LirV5M8PdIzT) | 4:24 | 2023-04-21 |  |
-| [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 | 2023-04-21 |  |
+| [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 | 2023-04-21 | 2024-01-24 |
 | [Believe](https://open.spotify.com/track/0GR87Jq8lnwhQeEFLqXLeJ) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1Z1zkAYAg8fpkwIQPRtDuj) | 3:54 | 2022-07-27 | 2022-07-29 |
 | [Believe](https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 3:54 | 2022-10-01 |  |
 | [Believe](https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Believe](https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ) | 3:56 | 2022-07-27 | 2022-11-13 |
@@ -74,6 +74,7 @@
 | [FIND THE WAY](https://open.spotify.com/track/71mWw8MYFCoLlYtEIIdfdP) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華15周年記念ベスト盤 BIBLE](https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO) | 5:26 | 2022-10-17 | 2022-11-13 |
 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 | 2022-07-27 |  |
 | [Flying In The Sky](https://open.spotify.com/track/60GYIAdO2ySJJyncOTTyHu) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Judgement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/3Lnyc6QiJX7G2aD48Trjea) | 3:44 | 2022-07-27 | 2022-07-29 |
+| [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [t.komuro](https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-01-23 |  |
 | [G](https://open.spotify.com/track/2SgMvyJn1D0ambp2Vm4Ts0) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [G](https://open.spotify.com/album/1X8FdKEQlPqdCMsDxxiSf8) | 4:45 | 2022-07-27 | 2024-01-12 |
 | [G no Senko](https://open.spotify.com/track/2cm1reUN9O5P6aFmykVLkx) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | ["GUNDAM RECONGUISTA IN G" Original Motion Picture Soundtrack](https://open.spotify.com/album/3re1HO8RWMXnhwqwchJ8rT) | 3:37 | 2023-06-19 | 2023-07-01 |
 | [G no Senkou](https://open.spotify.com/track/1xpnMMf8rS1ySRcp9iolup) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [G no Senkou](https://open.spotify.com/album/2tPzjsitz5lUOHohXo2FxT) | 3:37 | 2023-06-19 |  |
@@ -117,7 +118,7 @@
 | [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 | 2023-10-05 |  |
 | [MAGIC](https://open.spotify.com/track/2mSrfjmPtLLsROCmqzjceV) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/4MPUghtsFa9IEJSoViVL9j) | 4:45 | 2023-04-21 |  |
 | [MAGIC](https://open.spotify.com/track/4aCbt9Tkvsbbs6C5yiiNzf) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X) | 4:45 | 2022-07-27 | 2023-06-10 |
-| [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-07-27 |  |
+| [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-07-27 | 2024-01-24 |
 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 | 2023-04-21 |  |
 | [Meguriai](https://open.spotify.com/track/2zg4wZXLu7p8NzTmXUJ6sf) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Meguriai](https://open.spotify.com/album/1lcV7AV2fvUbVCc4RoAWbW) | 5:33 | 2022-07-27 | 2023-03-05 |
 | [Meguriai \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/7wEHIR6mQUCJ3FeFnWevue) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 5:36 | 2022-12-06 | 2024-01-12 |
@@ -270,6 +271,7 @@
 | [儚くも永久のカナシ](https://open.spotify.com/track/3CKhqshvWzdsgAUMkIynVW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ALL TIME BEST \-FAN BEST\- \(EXTRA EDITION\)](https://open.spotify.com/album/3Vvhcz4SbV4KoGL4cRGhZz) | 4:10 | 2022-10-17 | 2022-11-13 |
 | [光の涯 \(feat\. アイナ・ジ・エンド\)](https://open.spotify.com/track/5cPB6t5awsMVnZln4Smxis) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 6:26 | 2022-07-27 | 2022-07-29 |
 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-07-27 | 2023-06-26 |
+| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 |  |
 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 | 2022-07-27 | 2023-06-18 |
 | [君よ　気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ　気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-15 |  |
 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 | 2022-07-27 | 2023-06-15 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 179401,
+  "2024-01-24": 179376,
   "date_first_scraped": "2021-12-28",
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
   "name": "Merengue Cl\u00e1sico",
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 252734,
       "name": "Cuando Llegara",
       "url": "https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 266040,
       "name": "El Repollo",
       "url": "https://open.spotify.com/track/7m63pqOrurvUXIMkVtE6YO"

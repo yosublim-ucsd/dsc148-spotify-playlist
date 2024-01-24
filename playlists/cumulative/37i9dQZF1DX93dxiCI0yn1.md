@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-115 songs - 5 hr 39 min
+116 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [KANGOL](https://open.spotify.com/track/1hpA2P32EUrK9bigmodoeh) | [week dudus](https://open.spotify.com/artist/2dO3ifkbiQLreBJYSvkbsg) | [KANGOL](https://open.spotify.com/album/4kJGuTdRaDFA1RK5lDlAHs) | 2:44 | 2023-10-24 | 2023-11-29 |
 | [Karenai](https://open.spotify.com/track/2WnLirfXdCS0tcSNoHUZKp) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Bandit](https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv) | 2:21 | 2023-10-24 |  |
 | [Key](https://open.spotify.com/track/4kTyBRvPePNfzgvKtSshsn) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Key](https://open.spotify.com/album/2JT2qK2CGgfVfSy47YOIVA) | 1:55 | 2023-10-24 | 2023-11-29 |
+| [King Swan](https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI) | 2:42 | 2024-01-23 |  |
 | [Legacy](https://open.spotify.com/track/2Elr96P9cEKu1Rw9AHFJzT) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Legacy](https://open.spotify.com/album/1GjN9hdYlJaz6kXC75px8F) | 2:47 | 2023-10-24 |  |
 | [Legacy 2](https://open.spotify.com/track/23vNzL3iCyVelYeW0sg5dW) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 2:59 | 2023-10-24 |  |
 | [Leon S\. Kennedy](https://open.spotify.com/track/4NriW0BNFdc1FVvNOGxeuQ) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Leon S\. Kennedy](https://open.spotify.com/album/7bjrDn5KiMEdTrWtHHYMLu) | 2:53 | 2023-11-07 | 2023-11-29 |
@@ -112,7 +113,7 @@
 | [U gave Me](https://open.spotify.com/track/2JXi90KnQooTuTFQ03s4vy) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [WHOOPEE LAND](https://open.spotify.com/album/0hue9kuX7nULpylyGYvMDS) | 2:53 | 2023-10-24 |  |
 | [Waratte Ikiru \- DJ B=BALL GENRE BNDR REMIX](https://open.spotify.com/track/0VUwvX36Ng2urytLNBix5e) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [Naothelaiza](https://open.spotify.com/artist/4E2QYdTcANut4Oga8XTUQQ), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [DJ B=BALL](https://open.spotify.com/artist/1H1VSaQpvrFZ4W1VhilK3k) | [Waratte Ikiru \(Remixes\)](https://open.spotify.com/album/6naw9rNDF8ctNKDoqGmDO1) | 4:55 | 2023-10-24 |  |
 | [Waratte\-ikiru \- Remix](https://open.spotify.com/track/6I1PhamVXUKs4byzEckP4S) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [Naothelaiza](https://open.spotify.com/artist/4E2QYdTcANut4Oga8XTUQQ), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [T.U.R.N.](https://open.spotify.com/album/17L4akxpDQFa4S4LoSdu35) | 4:27 | 2023-10-24 |  |
-| [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2023-10-24 |  |
+| [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2023-10-24 | 2024-01-24 |
 | [Wdym](https://open.spotify.com/track/1i76QCkCkR5mC6Bp4wtcJC) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Wdym](https://open.spotify.com/album/4KNriFZ1eqXt0FWa1znzSz) | 2:09 | 2023-10-24 |  |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-10-24 |  |
 | [WHITE DOWN JKT](https://open.spotify.com/track/3tmbeNhGonMxauKcmBPMaH) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [WHITE DOWN JKT](https://open.spotify.com/album/5cdp6CeC6nB5zS9o7g3xOQ) | 1:55 | 2023-10-24 |  |

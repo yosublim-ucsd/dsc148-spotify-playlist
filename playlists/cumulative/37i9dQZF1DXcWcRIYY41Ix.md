@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-504 songs - 1 day 6 hr 28 min
+505 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Luciérnagas](https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [La Vuelta a Casa](https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI) | 3:30 | 2023-06-23 | 2023-12-14 |
 | [Lugar donde se florece](https://open.spotify.com/track/3Y1gXsgdxm8Uu6ycH5EESQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Lugar donde se florece](https://open.spotify.com/album/6dm2EghgDPv86VVwrBl2N2) | 2:36 | 2023-07-28 | 2023-08-05 |
 | [Luna](https://open.spotify.com/track/7AmmTz0pxDEBIg4Ln6r6l7) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Luna](https://open.spotify.com/album/4N49uJYVWaDxhesWOlTKRJ) | 5:59 | 2023-09-15 | 2023-12-14 |
+| [Luna de Xelajú](https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Luna de Xelajú](https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY) | 4:00 | 2024-01-19 |  |
 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 | 2021-12-24 | 2023-06-17 |
 | [M\(i\)ente](https://open.spotify.com/track/2XEteGHvPoPmdUpedURlhc) | [Laia Ferrer](https://open.spotify.com/artist/4VbGzRTJxDLQlr0m0rXPWC) | [Desvelo](https://open.spotify.com/album/5s4MfSpXQLrsuMgQUM43s0) | 3:31 | 2022-04-01 | 2022-04-09 |
 | [Mal de altura](https://open.spotify.com/track/6wGAPIuv58wVJzmP5GFGf7) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Mal de altura](https://open.spotify.com/album/6bmZwTkliEqxF02VlKfv9e) | 3:04 | 2023-05-19 | 2023-06-13 |
@@ -344,7 +345,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
-| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 |  |
+| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 | 2024-01-24 |
 | [Para adelante](https://open.spotify.com/track/5e7gh9uiFIgahfcf8CyXRF) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Para adelante](https://open.spotify.com/album/0lG5a8ExT3lwwF2nww96Nh) | 3:51 | 2023-03-10 | 2023-03-25 |
 | [Para Ahuyentar a un Demonio](https://open.spotify.com/track/71nrtVcxTQiNodjMlHXqw8) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Para Ahuyentar a un Demonio](https://open.spotify.com/album/3ECzKOZefQ6X4eWpMHrnIX) | 4:09 | 2022-02-25 | 2022-04-20 |
 | [Para la Patada y el Combo](https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Palabritas y Palabrotas](https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM) | 3:06 | 2022-10-10 | 2023-05-20 |

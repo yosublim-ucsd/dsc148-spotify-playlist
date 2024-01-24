@@ -2685,6 +2685,40 @@
     },
     {
       "album": {
+        "name": "Vayassethrayayi (From \"Vayasethrayayi 31\")",
+        "url": "https://open.spotify.com/album/5afYG1riDPocWvyYFtyVS3"
+      },
+      "artists": [
+        {
+          "name": "The Imbachi",
+          "url": "https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        },
+        {
+          "name": "Anurag Ram",
+          "url": "https://open.spotify.com/artist/0TcPzzzoOrgzGEEWbp4um5"
+        },
+        {
+          "name": "Vishnu Subhash",
+          "url": "https://open.spotify.com/artist/4oWJLj6pDpogL4fgojO8zQ"
+        },
+        {
+          "name": "Rag Sagar",
+          "url": "https://open.spotify.com/artist/3QPRVJ6ltAtG3vKYPBYeeA"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Vayassethrayayi (From \"Vayasethrayayi 31\")",
+      "url": "https://open.spotify.com/track/61LuvKi1wLtwpB9FJLBIzy"
+    },
+    {
+      "album": {
         "name": "Vayyaveli",
         "url": "https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ"
       },

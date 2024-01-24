@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "King Swan",
+        "url": "https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162423,
+      "name": "King Swan",
+      "url": "https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1GjN9hdYlJaz6kXC75px8F"
       },
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 225187,
       "name": "Waving",
       "url": "https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k"

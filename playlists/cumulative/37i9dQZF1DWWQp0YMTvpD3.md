@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-345 songs - 17 hr 14 min
+349 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,8 +104,10 @@
 | [Felt So Good](https://open.spotify.com/track/73fKzjK9Jz1nILhBMUc4xy) | [Lafreq](https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki), [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Felt So Good](https://open.spotify.com/album/3CKeyNSrtKLsIrqmv0uALC) | 7:04 | 2023-01-20 | 2023-07-15 |
 | [Felt so Good \- Original Mix](https://open.spotify.com/track/5R9xOXlSWmiIyZEAvyjSAW) | [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G), [Lafreq](https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Felt so Good](https://open.spotify.com/album/60MW6WIVRNsfu1LTndQtWr) | 7:04 | 2022-05-27 | 2023-01-28 |
 | [Fenix](https://open.spotify.com/track/1dB35lC14Sl1sUSSSx44m8) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Fenix](https://open.spotify.com/album/32tKm5UX7JE4FIngeTCKbB) | 3:11 | 2022-11-25 |  |
+| [Flash Drive](https://open.spotify.com/track/4qO26309I0CM7LoZYRaW9A) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Flash Drive](https://open.spotify.com/album/3j6JaDBxQncJC5Vt3rOyuN) | 2:44 | 2024-01-23 |  |
 | [Flash Forward](https://open.spotify.com/track/1F3gmF6KN2RfiMmP2o7hfi) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Flash Forward](https://open.spotify.com/album/3C8w0UFQqO3PDGszdKoWwl) | 2:51 | 2022-11-25 | 2023-07-15 |
 | [Float](https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Float](https://open.spotify.com/album/0b0YFwzQsWlYN609iTYpOf) | 2:52 | 2022-10-14 | 2023-07-15 |
+| [Flourish](https://open.spotify.com/track/6bWlWCpySVlY1l0xXYCNdU) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Flourish](https://open.spotify.com/album/2fwocHblTrkrlHK0QA8KMV) | 2:11 | 2024-01-23 |  |
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2022-02-11 | 2023-07-29 |
 | [Flume](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Flume](https://open.spotify.com/album/1jojVLaHmyhGzEU6kPoKxz) | 2:16 | 2022-08-19 |  |
 | [Fly](https://open.spotify.com/track/3x48Fg3w7qQciL9qrtreuk) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Fly](https://open.spotify.com/album/6CMFTBi1lmMTfZnh1Hs8om) | 2:06 | 2022-11-25 |  |
@@ -225,6 +227,7 @@
 | [pineapple waves](https://open.spotify.com/track/2btm5MeHs3WXbrtSgwJB6G) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [pineapple waves](https://open.spotify.com/album/4BeopPdPOtdd4TSSV3elTh) | 3:20 | 2022-10-14 |  |
 | [PLAY](https://open.spotify.com/track/2DwFC2zVzDenk4D4LVnG1r) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [PLAY](https://open.spotify.com/album/29mzQbByItTgLxV74xBCtQ) | 2:29 | 2023-04-21 |  |
 | [Poet Bio](https://open.spotify.com/track/6TTjXl7QKKvvMAGviSfUKo) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Poet Bio](https://open.spotify.com/album/07BExc9NedKtIqUAMCcjcp) | 3:12 | 2023-01-06 |  |
+| [Pura vida](https://open.spotify.com/track/6DJU7YDGuqIzEfCj7LWvFm) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [Pura vida](https://open.spotify.com/album/3A8xPCI7qXyq9VkHVgLr1i) | 3:08 | 2024-01-23 |  |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2022-02-11 |  |
 | [Radio Head](https://open.spotify.com/track/465eA0AbmDTORT39flcRfZ) | [Bell Chenko](https://open.spotify.com/artist/5saowJ1itYDsVZG8Bp6pPo) | [Radio Head](https://open.spotify.com/album/0qQRICDc4ARCQBqLeMhFfm) | 2:06 | 2021-10-12 | 2022-02-12 |
 | [Rays](https://open.spotify.com/track/6LwT74KmtNPUn1JZ8Hqkl6) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Rays](https://open.spotify.com/album/1wLHNGtDdEMAbXuRvJ0za1) | 2:00 | 2019-10-04 | 2022-02-12 |
@@ -234,6 +237,7 @@
 | [Repitition](https://open.spotify.com/track/1HxkAwP7SX6i5noFJ62eiC) | [moonrockets](https://open.spotify.com/artist/3l38nAslhPLjoAYOFtznQW) | [Repitition](https://open.spotify.com/album/4spWYL6zrbSMqMLYYGIAOf) | 3:46 | 2022-12-16 | 2023-04-22 |
 | [request](https://open.spotify.com/track/4AWDkCHl4LVipIgbdFi6wH) | [Funky Feels](https://open.spotify.com/artist/73bsuepJlmtW9xPn5zytKd) | [request](https://open.spotify.com/album/769P51agF9GPdFXa9A0jX2) | 3:03 | 2022-11-25 |  |
 | [Retreat into mist](https://open.spotify.com/track/0ueVDDwFAZKFUwZhtHQAjE) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:09 | 2022-02-11 |  |
+| [Rubicon](https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Rubicon](https://open.spotify.com/album/0rjHQHL5VIqecLapXxYGLP) | 2:31 | 2024-01-23 |  |
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 |  |
 | [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 | 2021-10-26 | 2022-02-12 |
 | [Sauna Friends](https://open.spotify.com/track/6wzbTAUcIuTU8ioK3ySpSg) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Sauna Friends](https://open.spotify.com/album/1ZziephRiQWbOkRMwJ7GRS) | 2:11 | 2021-10-12 | 2022-02-12 |

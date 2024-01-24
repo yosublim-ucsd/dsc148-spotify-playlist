@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino featuring Kenia OS y Alvaro Diaz.
+> Los éxitos del pop latino 🎀 con Kenia OS y Alvaro Diaz.
 
 352 songs - 18 hr 20 min
 

@@ -2,9 +2,9 @@
 
 ### [EPIC VIBES](https://open.spotify.com/playlist/7wCNxGSjlhWAooeoqthbpT)
 
-> Check your vibe with Epic Records\. cover: Tyla
+> Check your vibe with Epic Records\. cover: 21 Savage
 
-242 songs - 12 hr 6 min
+246 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 | 2021-12-10 | 2022-07-30 |
 | [All Around Me](https://open.spotify.com/track/1fdcacZgERIC8LBCFdtj6A) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [All Around Me](https://open.spotify.com/album/22CKUeAX5q2wef4iwuOiOi) | 3:25 | 2021-12-10 | 2022-08-27 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-10 | 2023-04-22 |
+| [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 | 2024-01-23 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 | 2023-05-13 |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 | 2023-04-14 | 2023-07-24 |
@@ -154,6 +155,7 @@
 | [Mother \- Radio Edit](https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mother \(Radio Edit\)](https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2) | 2:25 | 2023-04-14 | 2023-12-14 |
 | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD) | 2:53 | 2022-09-23 | 2024-01-10 |
 | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ) | 2:24 | 2022-04-29 | 2022-07-09 |
+| [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-23 |  |
 | [Neck of the Woods](https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Neck of the Woods](https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI) | 2:09 | 2023-06-02 | 2023-07-24 |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-06-10 | 2022-10-15 |
 | [New York \(feat\. A Boogie Wit Da Hoodie & Jadakiss\)](https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 3:55 | 2022-07-15 | 2023-01-28 |
@@ -201,10 +203,12 @@
 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 | 2022-10-21 | 2023-07-09 |
 | [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 | 2024-01-09 |  |
 | [SHEESH](https://open.spotify.com/track/622rPa30mcqorsXgird1ky) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [COUNTRY TRAP \(Deluxe\)](https://open.spotify.com/album/4D7i0c1SBoA57fyLmLhm8z) | 2:44 | 2023-01-27 | 2023-02-25 |
+| [should've wore a bonnet](https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:06 | 2024-01-23 |  |
 | [Show No Love \(feat\. Fredo Bang\)](https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [In My Projects](https://open.spotify.com/album/3E5dBHBjnIdXovdZbcoGay) | 3:17 | 2022-07-08 | 2023-04-29 |
 | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR) | 3:15 | 2022-10-14 | 2023-06-03 |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2022-10-28 | 2023-07-24 |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-03-25 |
+| [Slide Bout It](https://open.spotify.com/track/4mR9P0konn5DXboqWMVzav) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [Slide Bout It](https://open.spotify.com/album/1o0nJ9gSGtMiDKc2UUl7Vm) | 2:19 | 2024-01-23 |  |
 | [Slide\-In \(feat\. YG\)](https://open.spotify.com/track/47YxktAwOYF7RXfDbBuzI6) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Crazy Girls](https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU) | 3:51 | 2022-10-14 | 2024-01-10 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-10 | 2022-07-23 |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2022-08-26 | 2022-11-19 |

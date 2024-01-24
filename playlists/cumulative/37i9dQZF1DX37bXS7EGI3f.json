@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Elements Of Power",
+        "url": "https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9"
+      },
+      "artists": [
+        {
+          "name": "Veonity",
+          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Altar Of Power",
+      "url": "https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx"
+    },
+    {
+      "album": {
         "name": "Elements of Power",
         "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 275168,
       "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
       "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"

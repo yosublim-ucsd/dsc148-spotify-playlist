@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-71 songs - 3 hr 56 min
+72 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [MPH](https://open.spotify.com/track/2MHGSsLRJgtFO3FUMHYZIQ) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [MPH](https://open.spotify.com/album/3i9S4nRCA7ny0cmrJcmILV) | 3:33 | 2018-09-14 | 2022-07-29 |
 | [MPH](https://open.spotify.com/track/7tzRTFrsbmx9M4O8iQug7H) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [MPH](https://open.spotify.com/album/7MBwB6nRv4cikVJEWevUHU) | 3:33 | 2018-09-14 |  |
 | [Old Age](https://open.spotify.com/track/1nMULe4EavfF8SZHQ3Pag9) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Old Age](https://open.spotify.com/album/33vsKtsIqvAk0mpiVKN3rz) | 2:21 | 2018-09-14 |  |
-| [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 | 2018-09-14 |  |
+| [Peach Jam](https://open.spotify.com/track/4VGZ6wgQtv00GSdBVunpzR) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 2:41 | 2022-09-27 |  |
+| [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 | 2018-09-14 | 2024-01-24 |
 | [Riri Thick \- Moods Remix](https://open.spotify.com/track/0xT4knFEialXamJIax97Yx) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Sun BLVD](https://open.spotify.com/artist/7K9cfCRuleWnt1AmUxsCf9), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sundae Sauuce Presents: Strawberry Drizzle](https://open.spotify.com/album/1uGtAEx6E84HjpI77vWDtt) | 3:23 | 2018-09-14 |  |
 | [Roll \(Burbank Funk\)](https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:11 | 2018-09-14 |  |
 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 | 2018-09-14 | 2023-01-11 |

@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 230933,
       "name": "Damascus Cocktail",
       "url": "https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 288440,
       "name": "\u30e9\u30d6\u30fb\u30dc\u30ca\u30da\u30c6\u30a3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/0Mr2zkWpiKi3ygTicq0vZM"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
+        "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "\u660e\u65e5\u3082Beautiful Day",
+      "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
         "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 289986,
       "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 265173,
       "name": "\u76f8\u5408\u5b66\u820e",
       "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"
@@ -2280,6 +2298,24 @@
       "duration_ms": 315146,
       "name": "\u8679\u306e\u884c\u65b9 (\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba Ver.)",
       "url": "https://open.spotify.com/track/5fAUVcfAmYUKTuYpC4d9xN"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba\u76e4\u3011",
+        "url": "https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "\u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4",
+      "url": "https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq"
     },
     {
       "album": {

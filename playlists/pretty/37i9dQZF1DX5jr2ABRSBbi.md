@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Dara Rolins
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,137 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,139 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Pokoj](https://open.spotify.com/track/2rmTnyigSJHF5fYveUE8EF) | [Anna Julie Slováčková](https://open.spotify.com/artist/45C0jb0FPI7HncTBp0eGjO) | [Pokoj](https://open.spotify.com/album/1qrY29Hy6gYOfCy6KCwprp) | 2:53 |
 | 50 | [No a co](https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [No a co](https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3) | 2:43 |
 
-Snapshot ID: `MCw4ZjYxZTA5Y2FlNzdjYmExYWE3MDI3MmVkZjg1ZDVhZDIwZmQ0YjI4`
+Snapshot ID: `MCw2ZDIwZWUwN2NkNGVkMjYxNWEyNGI4YmRiMjFjYWEyM2Y0ZGYzYjZi`

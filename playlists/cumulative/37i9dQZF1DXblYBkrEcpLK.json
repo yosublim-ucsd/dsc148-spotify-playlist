@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/7zRMS627gQSee5r8S9PZtU"
       },
@@ -4942,7 +4960,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 232265,
       "name": "STAR\u2606T\u2606RAIN - NEW ARRANGE VER.",
       "url": "https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ"

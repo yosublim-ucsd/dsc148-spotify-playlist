@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 1,
+  "2024-01-24": 1,
   "date_first_scraped": "2024-01-15",
   "description": "2021",
   "name": "20QheuAYbSRnj6SaIbjPWA",
@@ -155,6 +155,24 @@
       "duration_ms": 275200,
       "name": "Comforting Memories",
       "url": "https://open.spotify.com/track/7n2hj4qowCNxp8h0pRWNvf"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128985,
+      "name": "Concerning the UFO sighting near Highland, Illinois",
+      "url": "https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP"
     },
     {
       "album": {
@@ -361,6 +379,24 @@
       "duration_ms": 244950,
       "name": "Hate",
       "url": "https://open.spotify.com/track/399olOwTieMU3hqelRsfpH"
+    },
+    {
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201028,
+      "name": "HGU",
+      "url": "https://open.spotify.com/track/4q6iKWRy3auzEn9dRoLInk"
     },
     {
       "album": {

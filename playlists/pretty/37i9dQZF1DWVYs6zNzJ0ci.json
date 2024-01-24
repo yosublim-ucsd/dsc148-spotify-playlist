@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Iseo & Dodosound",
-  "num_followers": 1227060,
+  "num_followers": 1225267,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzAxYmIxMjk3Njk2N2JmMTBhZTRkOThmYjA5OTgzZDg2MzUyNzc2",
+  "snapshot_id": "MCw5ZjBkYTFmMTZhMGJhYWY0NmY1OTY1ZmE4MTMxN2QzYmY0NzA2NGJj",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 349520,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 183253,
       "name": "Binikini",
       "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 349520,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 262771,
-      "name": "V\u00e9ngase I",
-      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -691,34 +691,18 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Reggae Mexicano",
-        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
-      },
-      "artists": [
-        {
-          "name": "Ganja",
-          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Caminando",
-      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
+      "duration_ms": 262771,
+      "name": "V\u00e9ngase I",
+      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -735,6 +719,22 @@
       "duration_ms": 250813,
       "name": "Aire",
       "url": "https://open.spotify.com/track/2OgG6HxGqmfPNJiJcBEfBN"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Reggae Mexicano",
+        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
+      },
+      "artists": [
+        {
+          "name": "Ganja",
+          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Caminando",
+      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 201194,
-      "name": "V\u00e9ngase II",
-      "url": "https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -815,26 +799,6 @@
       "duration_ms": 296666,
       "name": "Reggae Para Los Amigos",
       "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Cumbiana II",
-        "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Mi Guitarra Enamorada",
-      "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -855,6 +819,42 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 201194,
+      "name": "V\u00e9ngase II",
+      "url": "https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Cumbiana II",
+        "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Mi Guitarra Enamorada",
+      "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Un Lustro Inyectando Ruido Positivo",
         "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 390173,
       "name": "Juego a Muerte",
       "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Pericos & Friends (Extended)",
-        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mucha Experiencia - Su Reggaeton Mix",
-      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Entre Sombras",
         "url": "https://open.spotify.com/album/0CQdBhtZ3tgxueUZRTn8qD"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 198434,
       "name": "Entre Sombras",
       "url": "https://open.spotify.com/track/18XRuFvjFZYWMqDt4NHuvZ"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1667,6 +1667,34 @@
       "duration_ms": 256372,
       "name": "Ahora Lo S\u00e9",
       "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Pipa y Placa",
+        "url": "https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS"
+      },
+      "artists": [
+        {
+          "name": "Mistah Godeh",
+          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Accion Sanchez",
+          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Pipa y Placa",
+      "url": "https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1715,30 +1743,22 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Pipa y Placa",
-        "url": "https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
       "artists": [
         {
-          "name": "Mistah Godeh",
-          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
         },
         {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        },
-        {
-          "name": "Accion Sanchez",
-          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Pipa y Placa",
-      "url": "https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU"
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1759,26 +1779,6 @@
       "duration_ms": 193817,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2023-11-10 04:59:00",

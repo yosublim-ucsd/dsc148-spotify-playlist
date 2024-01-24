@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 441265,
+  "2024-01-24": 441429,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -835,7 +835,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 237056,
       "name": "Atacama - Edit",
       "url": "https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r"
@@ -6413,6 +6413,24 @@
       "duration_ms": 465500,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/07nVOOusinceXoUPH4ko89"
+    },
+    {
+      "album": {
+        "name": "Maundu",
+        "url": "https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO"
+      },
+      "artists": [
+        {
+          "name": "Banyan",
+          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Maundu",
+      "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
     },
     {
       "album": {

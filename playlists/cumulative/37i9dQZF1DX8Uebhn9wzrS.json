@@ -8089,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "down",
+        "url": "https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p"
+      },
+      "artists": [
+        {
+          "name": "lost in calabasas",
+          "url": "https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121124,
+      "name": "down",
+      "url": "https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn"
+    },
+    {
+      "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP"
       },
@@ -9002,7 +9020,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 156666,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1"
@@ -15447,6 +15465,24 @@
     },
     {
       "album": {
+        "name": "Kreate",
+        "url": "https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv"
+      },
+      "artists": [
+        {
+          "name": "Ge\u00f3rgia Neve",
+          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150352,
+      "name": "Kreate",
+      "url": "https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8"
+    },
+    {
+      "album": {
         "name": "Kyalami",
         "url": "https://open.spotify.com/album/0QOvz1G0ajW226aJNXkHkl"
       },
@@ -16004,7 +16040,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"

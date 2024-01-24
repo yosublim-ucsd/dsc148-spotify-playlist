@@ -11441,6 +11441,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9ter (feat. Soolking)",
+        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "D\u00e9ter (feat. Soolking)",
+      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
+    },
+    {
+      "album": {
         "name": "D\u00e9termin\u00e9",
         "url": "https://open.spotify.com/album/2khCRc3fWRPowHBc23mgNg"
       },
@@ -19510,6 +19532,28 @@
       "duration_ms": 164198,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX"
+    },
+    {
+      "album": {
+        "name": "Kawasaki",
+        "url": "https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Kawasaki",
+      "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
     },
     {
       "album": {
@@ -31880,7 +31924,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 189626,
       "name": "POISON",
       "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
@@ -38760,7 +38804,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 158449,
       "name": "Terminus",
       "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"

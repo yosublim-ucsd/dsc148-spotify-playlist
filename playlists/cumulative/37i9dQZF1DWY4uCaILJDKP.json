@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "JUKE BOX",
+        "url": "https://open.spotify.com/album/45WScaFWvuSyWSPBq0c9cK"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u30b8\u30e3\u30cb\u221e",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "TAKOYAKI in my heart",
+      "url": "https://open.spotify.com/track/1wr3UGHoVeONKB1ZD0uKvO"
+    },
+    {
+      "album": {
         "name": "Tinkling Smile",
         "url": "https://open.spotify.com/album/4lWHXHPkz9SwdNjWGJBMel"
       },
@@ -2124,6 +2142,24 @@
       "duration_ms": 243239,
       "name": "\u30ef\u30cb\u3068\u30b7\u30e3\u30f3\u30d7\u30fc -ZZ ver.-",
       "url": "https://open.spotify.com/track/0vtd2nklEKpg0q2SbK12qK"
+    },
+    {
+      "album": {
+        "name": "\u95a2\u30b8\u30e3\u30cb\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/3NVq3zztxre3J8IXmfmScQ"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u30b8\u30e3\u30cb\u221e",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "\u4e09\u5341\u8def\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/38FnWo9TPHrxfQTbZtpwhR"
     },
     {
       "album": {

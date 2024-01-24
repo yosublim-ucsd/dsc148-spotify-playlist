@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Maureen x Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,203 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,266 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 28 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 |
 | 29 | [Jeu dangereux](https://open.spotify.com/track/0ILZ5MSXz0w6aF3JnqRE6C) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Jeu dangereux](https://open.spotify.com/album/77vAIuKvXoIEH8d8TtXLUX) | 3:17 |
 | 30 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 |
-| 31 | [Amor](https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui) | [MC DY](https://open.spotify.com/artist/0wFT0h2jZOxhpBlXFbO4Ds), [Chabsy](https://open.spotify.com/artist/2UhHFaDD6E4ISzi44nyKuW) | [Amor](https://open.spotify.com/album/0jaer6BFPXUjaV1LqKXJ30) | 2:30 |
-| 32 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 |
-| 33 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
-| 34 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 |
-| 35 | [KEN](https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [KEN](https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM) | 3:19 |
-| 36 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
-| 37 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 |
-| 38 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 |
-| 39 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 |
-| 40 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 |
+| 31 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 |
+| 32 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
+| 33 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 |
+| 34 | [KEN](https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [KEN](https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM) | 3:19 |
+| 35 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
+| 36 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 |
+| 37 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 |
+| 38 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 |
+| 39 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 |
 
-Snapshot ID: `MCxmNWFiZDRlZDI2YWI4MjE5MjJiYTljZDQ5NDBjOWE1YzUzOGZjNTRi`
+Snapshot ID: `MCw3ZTNlZmZkZWE2OGU1MzFlY2Y1MzEyMTlkNTg4ZGI2MzhmNTY0ZTFi`

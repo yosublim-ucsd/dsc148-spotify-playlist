@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 966216,
+  "num_followers": 966189,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzMxMDNkN2I3YzRlNmI1NTk2ZDYwZGFlMzk4YzY4YTI3YjQ3ZTY3",
+  "snapshot_id": "MCxiZWM4ZmE2MTUxODJiMDI2M2EyYjRhMmUwMGVhYWJkMDdiZWIyNTZm",
   "tracks": [
     {
       "added_at": "2024-01-12 17:59:36",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 193297,
-      "name": "Way down We Go - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 330840,
       "name": "Black - Live MTV Unplugged",
       "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 193297,
+      "name": "Way down We Go - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2024-01-12 17:59:36",

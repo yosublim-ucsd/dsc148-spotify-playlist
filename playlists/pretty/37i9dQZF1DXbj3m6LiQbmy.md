@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,880 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,878 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 3 | [I Nostri Fiori](https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [I Nostri Fiori](https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa) | 3:26 |
 | 4 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 |
 | 5 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
-| 6 | [cuori in pista](https://open.spotify.com/track/761iAh0tIgKE3XQUn9wapn) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [cuori in pista](https://open.spotify.com/album/2QU5T06eqH32E5EuwSeEsx) | 2:24 |
+| 6 | [cuori in pista](https://open.spotify.com/track/761iAh0tIgKE3XQUn9wapn) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [cuori in pista](https://open.spotify.com/album/2QU5T06eqH32E5EuwSeEsx) | 2:24 |
 | 7 | [BEBÉ](https://open.spotify.com/track/4dkarkP4MpqmFrRCroG3eE) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [BEBÉ](https://open.spotify.com/album/4zjv9fDWWTMhAv6FHxwgMG) | 2:13 |
 | 8 | [Che sarà mai](https://open.spotify.com/track/6K2Vwo6MnBEVOaajnHBGOj) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Che sarà mai](https://open.spotify.com/album/1OB4yPsfjRM61P6ogWMq9u) | 2:58 |
 | 9 | [Re di Cuori](https://open.spotify.com/track/5tafzF7aJqE5e389P7YHXB) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [Re di Cuori](https://open.spotify.com/album/4vnAsT4E94js0BXUNVCtgO) | 2:50 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 75 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 | 76 | [S.T.A.R.](https://open.spotify.com/track/05cY2YCQeXQ1Mn2Iui62ws) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/6TrBVo7n8yiRADPe3Lb8gh) | 3:38 |
 
-Snapshot ID: `MCxjMWI0NWQyOWY4NDVlZjMzMWI3YzliNDUyMTVjM2NhNjBkMTFiNmE0`
+Snapshot ID: `MCw0MWY1OTA2ZWQ4NzBhMzc5ODc1ZjE2MjY2MGQ0NTg4NjViMDBlNzZi`

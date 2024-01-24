@@ -2,9 +2,9 @@
 
 ### [I Love My 2000s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX1lHW2vbQwNN)
 
-> Taking it back to the 2000s\. Cover: Soulja Boy
+> Taking it back to the 2000s\. Cover: Twista
 
-178 songs - 12 hr 23 min
+179 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 | 2022-05-20 | 2022-05-23 |
 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 | 2022-05-20 |  |
 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 | 2022-05-20 |  |
+| [Good Googly Moogly \(feat\. Three 6 Mafia\) \- Explicit Album Version](https://open.spotify.com/track/6GfKswgRCAm4dvzrwrH2ud) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Good Googly Moogly \- 4 Pack \(feat\. Juicy J & D.J\. Paul\)](https://open.spotify.com/album/39TocwoO6iXZ5ACEQOZdZZ) | 3:24 | 2024-01-23 |  |
 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 | 2022-05-20 |  |
 | [Good Times](https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 3:31 | 2022-05-20 |  |
 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 | 2023-03-03 | 2023-07-01 |
@@ -57,7 +58,7 @@
 | [Got Ur Self A Gun](https://open.spotify.com/track/09wQdd0JQbkp9yKfRfwhjG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 3:48 | 2022-05-20 | 2023-04-09 |
 | [Grillz](https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Ali & Gipp](https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT) | [Still Hot In Herre](https://open.spotify.com/album/4FyzqUSV3OqNvh0bjF2qaZ) | 4:31 | 2023-11-11 |  |
 | [Grindin'](https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:24 | 2022-05-20 | 2023-08-02 |
-| [Gucci Bandanna](https://open.spotify.com/track/6MqFViHkIUQ0MOu25cdwiO) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:56 | 2023-12-01 |  |
+| [Gucci Bandanna](https://open.spotify.com/track/6MqFViHkIUQ0MOu25cdwiO) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:56 | 2023-12-01 | 2024-01-24 |
 | [Guess Who's Back](https://open.spotify.com/track/27dUo79lgLEy4Rk5w3UvSL) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Greatest Hits](https://open.spotify.com/album/5wmfZWzWjS1UARhcZSirf4) | 4:01 | 2022-05-20 | 2022-07-29 |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2022-05-20 |  |
 | [Hey Ma](https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:40 | 2023-05-12 |  |

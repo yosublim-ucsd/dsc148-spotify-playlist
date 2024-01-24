@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for Cobra Kai. Watch on Netflix.",
-  "num_followers": 105331,
+  "num_followers": 105365,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzA5NjlmOTc3MmFlNjJiMTRkNDkzMjlmNzE2NzMwZjE0OGQyOThl",
+  "snapshot_id": "MCxmNDQ0MzcyNzc3NTg3M2RhNzc1NzU0MDEzMWU2MjQ5MmJmYzM4YmJk",
   "tracks": [
     {
       "added_at": "2022-08-30 17:00:45",
@@ -43,18 +43,26 @@
     {
       "added_at": "2022-09-09 12:58:25",
       "album": {
-        "name": "Mexico and Mariachis",
-        "url": "https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju"
+        "name": "Cancion del Mariachi",
+        "url": "https://open.spotify.com/album/0kSKfnKXUMeVMKPCOfhovH"
       },
       "artists": [
         {
-          "name": "Antonio Banderas/los Lobos",
-          "url": "https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn"
+          "name": "zeatynorival",
+          "url": "https://open.spotify.com/artist/2SbUdSlv4PSue1SkaGuSGS"
+        },
+        {
+          "name": "Elianex",
+          "url": "https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM"
+        },
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
         }
       ],
-      "duration_ms": 127226,
-      "name": "Cancion Del Mariachi",
-      "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
+      "duration_ms": 126014,
+      "name": "Cancion del Mariachi",
+      "url": "https://open.spotify.com/track/3F2Aoenodyu2Yd8dIOP2e1"
     },
     {
       "added_at": "2022-09-09 12:58:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Gheba
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,953 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,876 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [MALOCCHIO \#2](https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#2](https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T) | 1:33 |
 | 54 | [Big Stepper](https://open.spotify.com/track/4uoPBzJREyfecRrFwyA2n7) | [Yangol](https://open.spotify.com/artist/7krT8cSf7qqXshFLvOLbzA) | [Big Stepper](https://open.spotify.com/album/58whBrEex9HWYZJWxzZWAz) | 2:50 |
 
-Snapshot ID: `MCxhMzVmNGZjYjk5M2FmMWI5MWQ5OThkNTdhYmE0MmUyYzQyOTYxNWRm`
+Snapshot ID: `MCw4NjU3OWQ5ZjczZjMzZDkyNjExMmU2N2E2ZTRiZWVjOWFiM2M4NmQz`

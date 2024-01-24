@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276160,
+      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
+    },
+    {
+      "album": {
         "name": "\u300c.hack//Liminality 3\u300d\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de \u541b\u304b\u3099\u3044\u305f\u7269\u8a9e/\u300c.hack//\u9ec4\u660f\u306e\u8155\u8f2a\u4f1d\u8aac\u300d\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de Emerald Green",
         "url": "https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR"
       },
@@ -1862,6 +1880,24 @@
       "duration_ms": 292619,
       "name": "\u7114\u306e\u6249",
       "url": "https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov"
+    },
+    {
+      "album": {
+        "name": "\u5915\u95c7\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip"
+      },
+      "artists": [
+        {
+          "name": "KEIKO",
+          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268174,
+      "name": "\u71c8\u547d",
+      "url": "https://open.spotify.com/track/1paCOr4yzLiNZin7yN2aiL"
     },
     {
       "album": {

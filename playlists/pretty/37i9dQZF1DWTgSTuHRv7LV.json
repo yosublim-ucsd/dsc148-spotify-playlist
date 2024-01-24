@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Akapellah, Al2 El Aldeano",
-  "num_followers": 493681,
+  "num_followers": 493336,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmExMTI2NTQ3Nzc4ZWFhODlmMTM5NmY4Y2I0MTgyY2QyZmFkYTI4",
+  "snapshot_id": "MCxiZThlYjBhZWI1ZGJmNzU2OTViYTdjZWExNTRlM2Q5NTk1NTQ4Njhi",
   "tracks": [
     {
       "added_at": "2024-01-22 19:45:57",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-01-22 19:45:57",
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "added_at": "2024-01-22 19:45:57",
+      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
-    },
-    {
-      "added_at": "2024-01-22 19:45:57",
-      "album": {
-        "name": "Ron En El Piso",
-        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 335111,
-      "name": "Ron En El Piso",
-      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
     },
     {
       "added_at": "2024-01-22 19:45:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-22 19:45:57",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "NOVATO",
-      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
-    },
-    {
-      "added_at": "2024-01-22 19:45:57",
-      "album": {
         "name": "Por Si Pego",
         "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-01-22 19:45:57",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "NOVATO",
+      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
+    },
+    {
+      "added_at": "2024-01-22 19:45:57",
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 265116,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
-    },
-    {
-      "added_at": "2024-01-22 19:45:57",
-      "album": {
-        "name": "El 3 Letras",
-        "url": "https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        }
-      ],
-      "duration_ms": 362502,
-      "name": "El 3 Letras",
-      "url": "https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu"
     },
     {
       "added_at": "2024-01-22 19:45:57",
@@ -1111,6 +1095,22 @@
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+    },
+    {
+      "added_at": "2024-01-22 19:45:57",
+      "album": {
+        "name": "El 3 Letras",
+        "url": "https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 362502,
+      "name": "El 3 Letras",
+      "url": "https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu"
     },
     {
       "added_at": "2024-01-22 19:45:57",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2024-01-22 19:45:57",
       "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 236500,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     }
   ],
   "unique_name": "Mucho Rap",

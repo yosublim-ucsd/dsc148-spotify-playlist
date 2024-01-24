@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Born At Midnite
+> Montréal’s music scene, front and centre\. Cover: Jane Penny
 
-415 songs - 1 day 0 hr 1 min
+417 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 | 2023-10-06 |  |
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2022-03-25 | 2023-02-04 |
 | [East Angus 1998](https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN) | [Lizzy & the Fanatics](https://open.spotify.com/artist/7l4sVkNSc4v6058rs4GnJr) | [East Angus 1998](https://open.spotify.com/album/7JsmNAXZRIncXqlvu1qkZx) | 3:54 | 2022-03-25 | 2022-07-16 |
-| [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-13 |  |
+| [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-13 | 2024-01-24 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-15 |
 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 | 2022-05-27 | 2022-09-17 |
 | [Entre tes doigts](https://open.spotify.com/track/02GnLnPBFGwjus9dumMEwR) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Entre tes doigts](https://open.spotify.com/album/350iyHLoBeRHvPVWLJq9bX) | 5:45 | 2022-08-05 | 2023-09-23 |
@@ -240,6 +240,7 @@
 | [Merry Go Round](https://open.spotify.com/track/1iyu4sqRAln0vHlPiOfrTs) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 3:31 | 2022-11-11 | 2023-02-18 |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-03-25 | 2022-07-29 |
 | [Merry Go Round](https://open.spotify.com/track/5wOqZLk70L0gr0KyPBOk4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/5QVpM1n4eqLmdQYtwWh96Q) | 3:31 | 2022-07-22 | 2022-11-19 |
+| [Messages](https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Messages](https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2) | 3:15 | 2024-01-23 |  |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2023-11-11 |
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-08-27 |
 | [Moment Feed](https://open.spotify.com/track/2hDnhl2MV9zsAdCzw6hCjL) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Moment Feed](https://open.spotify.com/album/5boINdoDwX7uxL0izaDxrX) | 4:27 | 2022-03-25 | 2022-04-16 |
@@ -248,6 +249,7 @@
 | [Moonroad](https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Moonroad](https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ) | 3:26 | 2023-03-31 |  |
 | [Mort de peur](https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Mort de peur](https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7) | 3:21 | 2023-04-07 | 2023-10-14 |
 | [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 | 2024-01-19 |  |
+| [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-23 |  |
 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 | 2023-04-22 |
 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 | 2022-03-25 | 2022-05-28 |
 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 | 2023-08-18 |  |
@@ -293,7 +295,7 @@
 | [Perdue pour autrefois](https://open.spotify.com/track/6u57eMxEKEmCmnLfLps7QS) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Série II: Les heures innocentes](https://open.spotify.com/album/1M1E34ZQdcGc6B0RH8dojB) | 3:32 | 2023-05-12 | 2023-10-14 |
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 | 2022-05-14 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2023-09-08 | 2023-11-18 |
-| [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 | 2023-01-20 |  |
+| [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 | 2023-01-20 | 2024-01-24 |
 | [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 | 2023-06-30 | 2023-09-30 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 | 2022-07-29 |
 | [Pissed Black Girl](https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/4NuEobCoQql8flhysav4Xs) | 3:25 | 2022-10-14 | 2023-05-27 |

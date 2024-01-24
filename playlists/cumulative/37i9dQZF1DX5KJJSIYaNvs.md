@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Shipra Goyal
 
-258 songs - 14 hr 59 min
+259 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [52 Gaj Ka Daman \(Hindi\)](https://open.spotify.com/track/5cTu0oBXVOKOQIXBmMYshJ) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [52 Gaj Ka Daman \(Hindi\)](https://open.spotify.com/album/5FkWrtyfbhuTt30JTNFM58) | 2:58 | 2021-12-10 | 2022-02-02 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2022-03-07 | 2023-09-26 |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2022-02-01 | 2022-03-08 |
+| [Aadat](https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Aadat](https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ) | 2:56 | 2024-01-23 |  |
 | [Aarzoo](https://open.spotify.com/track/4ybn8237JziPYlxFIxeQz5) | [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Aarzoo](https://open.spotify.com/album/0uT6JKN3Hmnddw20ls9mvA) | 3:20 | 2023-09-25 | 2023-11-18 |
 | [Ab Na Jaunga](https://open.spotify.com/track/65mdUx7JkoFHPdfJGJbR2i) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv) | [Ab Na Jaunga](https://open.spotify.com/album/2ggeROqHV0dc7Ft7cqNtW9) | 4:55 | 2022-04-06 | 2022-05-05 |
 | [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-03 | 2023-10-07 |
@@ -234,7 +235,7 @@
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-08-03 | 2023-01-04 |
 | [Tere Piche Piche](https://open.spotify.com/track/0ndAIez5C0DH07ghMOq7zC) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:52 | 2022-11-30 | 2023-01-04 |
 | [Tere Piche Piche](https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Tere Piche Piche](https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X) | 2:52 | 2022-06-01 | 2022-09-09 |
-| [Tere Rang](https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:31 | 2022-02-01 |  |
+| [Tere Rang](https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:31 | 2022-02-01 | 2024-01-24 |
 | [Tere Warga \(Reprise\) \[From "Anari Is Backk"\]](https://open.spotify.com/track/6lfEXA1m5iXRwPUy0Z689r) | [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Ishwar Kumar](https://open.spotify.com/artist/4uA8KyL0HdU28GkDyAtALd), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Tere Warga \(Reprise\) \[From "Anari Is Backk"\]](https://open.spotify.com/album/3l4DLd2VhcsZ49Liw1cKQi) | 4:22 | 2023-12-15 |  |
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-08-03 | 2023-03-03 |
 | [Teri Meri Ladayi](https://open.spotify.com/track/0IcwfJPrcJ2BWj22yOlZ2p) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Teri Meri Ladayi](https://open.spotify.com/album/5fMSE44XKtROd2X93mZCuJ) | 3:42 | 2022-04-05 | 2022-08-04 |

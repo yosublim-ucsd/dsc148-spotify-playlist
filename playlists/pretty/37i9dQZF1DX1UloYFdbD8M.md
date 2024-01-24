@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,068 likes - 97 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,096 likes - 97 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 9 | [Zeal](https://open.spotify.com/track/512GctDAFet7XFXD37dXzX) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sudhi](https://open.spotify.com/artist/1K5KXBAJtocTdhAE5X8ySQ) | [Zeal](https://open.spotify.com/album/4JAMUZR6wpRhAEFQcdNhrc) | 3:22 |
 | 10 | [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 |
 | 11 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 |
-| 12 | [Seul](https://open.spotify.com/track/2zEcttmwTWpku8WMnSSEqo) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Seul](https://open.spotify.com/album/0NjOXzGwKGb2ldmVqv3n5g) | 3:51 |
+| 12 | [Seul](https://open.spotify.com/track/2zEcttmwTWpku8WMnSSEqo) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut), [Dan Pearson](https://open.spotify.com/artist/5Nn0s495B28CrScEPN1GkQ) | [Seul](https://open.spotify.com/album/0NjOXzGwKGb2ldmVqv3n5g) | 3:51 |
 | 13 | [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 |
 | 14 | [Kaadum Malayum \- Namah](https://open.spotify.com/track/2HjByV001SgJfWwKj9WQBA) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 5:52 |
 | 15 | [Njan Evide](https://open.spotify.com/track/3fMfhQZIu7uF7Z54VI5ODF) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sinsiha](https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E) | [Njan Evide](https://open.spotify.com/album/2qiFRk2E8KfCW4Hb7XCp4v) | 3:37 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 96 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 |
 | 97 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `MCw2MWE3OTcyMzFhMDAxMWFjYmI5OTBmYmUzMGE4ZGNkZTc3NmVhMzUz`
+Snapshot ID: `MCw0ZDJhMTI1ZjIzM2EyMDRiMmNjMWM5ZGYyZDJiOWI0NzA5YmE1N2Rj`

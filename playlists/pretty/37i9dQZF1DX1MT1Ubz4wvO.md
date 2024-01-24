@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Isla Mujeres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,618 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,626 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 |
-| 2 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/2q8e4mdu5XQFBu30d3I3ry) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
+| 2 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
 | 3 | [Réquiem Alegre](https://open.spotify.com/track/1JFWfqUsydi1eihFnmtiRu) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Réquiem Alegre](https://open.spotify.com/album/2T1wz3l7N9ZVAQRvp8sBwI) | 3:24 |
 | 4 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 |
 | 5 | [Sandra](https://open.spotify.com/track/09BYqfJJo4S5rQFZH94PWD) | [Litus](https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo), [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Sandra](https://open.spotify.com/album/6vlGQoBjUKlHHoTY0iX41y) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Canción para Julisa](https://open.spotify.com/track/4IfZutD0wM94Z1ZSRgOs61) | [Las Himalayas](https://open.spotify.com/artist/5pSf62Wri4TGYAqxXUpnrZ) | [Canción para Julisa](https://open.spotify.com/album/4ZJQBjSdUWnuEeLYShlJwG) | 4:02 |
 | 50 | [Poco conocidos](https://open.spotify.com/track/31KZQ7ARCrcTh8EccEkXhv) | [Polaroid](https://open.spotify.com/artist/0hEtJNpcxV8mSifel0SKuv) | [Poco conocidos](https://open.spotify.com/album/3mvc1ha94TkNz0NsB8Pddf) | 3:20 |
 
-Snapshot ID: `MCxhYmUyZTAzNzVjM2U0ZjA5YTY2YmIwNDNiM2I2MDlmMjhlY2VkMjQw`
+Snapshot ID: `MCwwYTYwMjJjYmYxNzc3MmRkYWU3MTBiZDFjYWE5ZDgwMTU4YjI4OTdi`

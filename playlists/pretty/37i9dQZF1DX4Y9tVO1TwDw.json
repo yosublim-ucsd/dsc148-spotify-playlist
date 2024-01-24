@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6869,
+  "num_followers": 6877,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0",
+  "snapshot_id": "MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Donde Se Fue el Sol",
+        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 219636,
+      "name": "Donde Se Fue el Sol",
+      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Forma de Ser",
         "url": "https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 169301,
       "name": "Forma de Ser",
       "url": "https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Donde Se Fue el Sol",
-        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 219636,
-      "name": "Donde Se Fue el Sol",
-      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "EN LA MA\u00d1ANA",
-        "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "EN LA MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "mundo dulce",
         "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 152755,
       "name": "freak",
       "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "EN LA MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "EN LA MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Ra\u00edces (As\u00ed Se Hace)",
+        "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Luces De La Calle",
+      "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Mil Pedazos",
         "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Ra\u00edces (As\u00ed Se Hace)",
-        "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
+        "name": "NISSAN",
+        "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
       },
       "artists": [
         {
-          "name": "Frank Ray",
-          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+          "name": "Harlay",
+          "url": "https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus"
         }
       ],
-      "duration_ms": 189760,
-      "name": "Luces De La Calle",
-      "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
+      "duration_ms": 116680,
+      "name": "NISSAN",
+      "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 161064,
       "name": "Is It Me?",
       "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "NISSAN",
-        "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
-      },
-      "artists": [
-        {
-          "name": "Harlay",
-          "url": "https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus"
-        }
-      ],
-      "duration_ms": 116680,
-      "name": "NISSAN",
-      "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
     },
     {
       "added_at": "2023-12-06 20:00:00",

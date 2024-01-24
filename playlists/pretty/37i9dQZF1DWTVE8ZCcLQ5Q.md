@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,777 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,528 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 64 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
 | 65 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
 | 66 | [Trem Bala](https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Eldorado Music](https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8) | [Trem Bala](https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42) | 1:56 |
-| 67 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
-| 68 | [JORGE](https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Nizaj](https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [JORGE](https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0) | 2:40 |
+| 67 | [JORGE](https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Nizaj](https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [JORGE](https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0) | 2:40 |
+| 68 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
 | 69 | [Na Mente](https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Na Mente](https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW) | 2:04 |
 | 70 | [Contrai](https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Contrai](https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm) | 3:00 |
 | 71 | [Vai Com Calma](https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7) | [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [Vai Com Calma](https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCwzZjUwZGI5ZjQxZTQyMmU0MmE3ODllNjg2YmQ5YzNhNzk5NTc2N2Uz`
+Snapshot ID: `MCwwNTYyMjVhYjA4N2ExZTlmNTAzMWY0NTMwM2FiOTUzMzE0NzU1NjM3`

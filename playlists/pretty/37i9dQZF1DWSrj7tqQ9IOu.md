@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Sandra Nicolle
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,730 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,635 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 48 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 |
 | 49 | [Free demain](https://open.spotify.com/track/2LYU4dW1b5IljPsZQi5fCk) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Free demain](https://open.spotify.com/album/1FjiwzairQylfH6BcuL3Og) | 2:47 |
 
-Snapshot ID: `MCw3NWFkNTkzMWRjYmUwN2I2Mjc4ZDY5MjlmYWY5ODI3MWFkYWYyNTdk`
+Snapshot ID: `MCw0MDM0MDA2Y2YwZTg2M2UxYWQwMGMyZWRjNzg3ZjI3MGQ1NzJhNjhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,083 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,100 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Wanna Dance](https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Wanna Dance](https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv) | 3:11 |
 | 80 | [Lucy](https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Wayyy Saucy](https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6) | 2:18 |
 
-Snapshot ID: `MCxmZWM5NjlkZTUwOWM5YTIyNzg3OGE5MDBiMTBmZWUwMDU0YmUxYTIy`
+Snapshot ID: `MCwwZTAxMjY1MGY4N2Q0NDI4MDU2MDc1M2FjOTYzODVjMDkxODE3MjI3`

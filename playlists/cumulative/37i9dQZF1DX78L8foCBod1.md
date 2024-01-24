@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-149 songs - 10 hr 4 min
+152 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [CHRONIC](https://open.spotify.com/track/4pi3XWPdc9T1NjiGcTaltO) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [CHRONIC](https://open.spotify.com/album/3su7kmZwN25Xh2q5JY7cQT) | 3:14 | 2023-02-10 |  |
 | [CHRONIC \- English Ver.](https://open.spotify.com/track/4Ez8s65YfHOjwWt3hEQ3ae) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [CHRONIC \(English Ver.\)](https://open.spotify.com/album/02MdWL0yAqB7CiipI4f3m2) | 3:14 | 2023-02-23 | 2023-03-22 |
 | [COLORs](https://open.spotify.com/track/4aqQN7pU0Razhap9AadWxh) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [V](https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA) | 2:50 | 2023-01-17 |  |
+| [DARK ARIA <LV2>](https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEveL](https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M) | 2:22 | 2024-01-23 |  |
 | [DOA](https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:26 | 2022-06-21 |  |
 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 | 2022-06-07 | 2022-07-29 |
 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 | 2022-06-07 |  |
@@ -83,6 +84,7 @@
 | [ninelie](https://open.spotify.com/track/1Yjn9JKo5chGXgonBrRLNI) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:20 | 2022-09-29 | 2022-11-13 |
 | [ninelie](https://open.spotify.com/track/0Qjqsp2Yfa05oQOlimaXzO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Best Selection Noir](https://open.spotify.com/album/6RLAmJ22IPTWR4JF9DsZtR) | 4:20 | 2022-06-07 | 2022-07-29 |
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-21 |  |
+| [NOD](https://open.spotify.com/track/2t5BsR1Q9xP3O7RSs5NNLe) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [NOD](https://open.spotify.com/album/11D4LDyI4T1EjVqrZP9wL0) | 2:43 | 2024-01-23 |  |
 | [NOWVERSE](https://open.spotify.com/track/7A8cVuQuISEoYxbOQOm5yO) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/7v9JeC4whlA96o6N19hxZI) | 2:35 | 2023-12-19 | 2024-01-11 |
 | [NOWVERSE](https://open.spotify.com/track/7B8T7CdOphQGeplXQf4w3c) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 2:35 | 2024-01-09 |  |
 | [Odd One Out](https://open.spotify.com/track/6o6jwULGrWIZkn5Uvs4dg2) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:43 | 2023-05-12 |  |
@@ -117,6 +119,7 @@
 | [The Dogs](https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:35 | 2022-06-21 |  |
 | [The Reluctant Heroes](https://open.spotify.com/track/6zSXcvXQ8T74fXm72OpSOb) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 4:27 | 2022-06-21 |  |
 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [MPI](https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 | 2022-06-07 | 2022-07-29 |
+| [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「七つの大罪 黙示録の四騎士」オリジナル・サウンドトラック](https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT) | 7:23 | 2024-01-23 |  |
 | [theDOGS](https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」後編\~自由の翼\~エンディングテーマ theDOGS produced by 澤野弘之](https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV) | 4:35 | 2022-06-07 | 2022-07-29 |
 | [Through My Blood <AM>](https://open.spotify.com/track/7nMyG8CJCgLweioZNOqRJc) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ninelie \- EP](https://open.spotify.com/album/0GUM4U7aSQfwnhEZ4NYlT3) | 4:01 | 2022-06-07 | 2022-07-29 |
 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 | 2022-06-21 |  |

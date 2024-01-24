@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 28580,
+  "num_followers": 28587,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFlMTlmNjJjMGYxOTI2ZjBmMDg0Y2U0MDZkMTcwMGE4NWI3OTEy",
+  "snapshot_id": "MCw1MmVjM2JlZjVmMGU0YTE4MjlhZmY2YzU4MGY3M2M1N2ZiMGY1OTM2",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Across The Romantic Bridge",
-        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "\uadf8\ub7f0\uc77c\uc740",
-      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 258019,
       "name": "\ub2f9\uc2e0\uc740...\ub098\ub294 \ubc14\ubcf4 \uc785\ub2c8\ub2e4 - Acoustic Version",
       "url": "https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Across The Romantic Bridge",
+        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "\uadf8\ub7f0\uc77c\uc740",
+      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Sung Si kyung Remake Album",
         "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 236002,
       "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
       "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2022-06-13 13:22:46",

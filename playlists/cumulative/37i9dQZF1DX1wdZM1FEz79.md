@@ -2,7 +2,7 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Kang Minjeong\(강민정\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Espresso\(에스프레소\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
 481 songs - 1 day 4 hr 38 min
 
@@ -174,7 +174,7 @@
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [I Want to Be A Pillow](https://open.spotify.com/track/0p2Rh63rx8xbxVPwol2EmA) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_i?](https://open.spotify.com/album/72uhm3L8qHUsKHneApbolo) | 3:43 | 2021-12-10 | 2022-07-29 |
-| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2023-12-05 |
+| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 |  |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
@@ -467,7 +467,7 @@
 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 | 2022-03-07 | 2022-06-28 |
 | [너로 짙은 밤 Mistiness of You](https://open.spotify.com/track/6RBjYC4YAXWgFmt5V94LHc) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hanall](https://open.spotify.com/artist/2XTRUxBBVztcLWgidIVX5y) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:50 | 2022-03-31 | 2022-04-21 |
 | [널 위한 커피](https://open.spotify.com/track/6vv5JfKdvr5BgTosnwHD0w) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [널 위한 커피](https://open.spotify.com/album/44i5fGtZkVfuCnQhHM5p52) | 3:29 | 2022-03-31 | 2022-04-16 |
-| [놔둘테야 Put it down](https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy) | [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [놔둘테야 Put it down](https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO) | 3:28 | 2024-01-15 |  |
+| [놔둘테야 Put it down](https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy) | [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [놔둘테야 Put it down](https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO) | 3:28 | 2024-01-15 | 2024-01-24 |
 | [눈부셔](https://open.spotify.com/track/0Iog6cN2JRC23toGVdkZ9k) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Terius Behind Me Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2zsF6W10mf6hY1An5ewUtd) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [떠난다](https://open.spotify.com/track/6YepaCG8cUabGz3lyCgCxv) | [Park Bo\-young](https://open.spotify.com/artist/0jMuf24m4Bn1vcdQmvGp3z) | [Oh My Ghost \(Original Television Pt\. 3\)](https://open.spotify.com/album/16NobOuwu1kGxyNFXa6N0h) | 3:41 | 2022-03-31 | 2022-04-09 |
 | [마츠코](https://open.spotify.com/track/53wNebjYiIX30rb8mmwIsP) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [마츠코](https://open.spotify.com/album/2iSmqb7me7SvrzLTZSOWq2) | 2:22 | 2023-06-13 | 2023-07-08 |

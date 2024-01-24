@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-322 songs - 16 hr 39 min
+324 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2022-01-12 |  |
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-01-23 |
 | [Aqua Aura](https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aqua Aura](https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC) | 2:45 | 2024-01-17 |  |
+| [Aqua Vitae](https://open.spotify.com/track/0UdaRSL27LJVYkK2ZwUULn) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Aqua Vitae](https://open.spotify.com/album/7lisN5vAW0SJJxTTUt49In) | 3:08 | 2024-01-17 |  |
 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 | 2024-01-23 |
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 |  |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2022-01-12 | 2023-03-15 |
@@ -162,7 +163,7 @@
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-01-12 |  |
 | [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 | 2024-01-23 |
 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 | 2024-01-21 |
-| [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 |  |
+| [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 | 2024-01-24 |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-01 | 2024-01-18 |
 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 |  |
 | [inteira](https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0) | [Gereo Luna](https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru) | [inteira](https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp) | 2:49 | 2022-01-19 | 2024-01-22 |
@@ -214,7 +215,7 @@
 | [My inner thoughts](https://open.spotify.com/track/22bNVYcfYG7toxCcXRSwpO) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [My inner thoughts](https://open.spotify.com/album/77VEvUVmke42MZNIk6EF5G) | 3:24 | 2024-01-17 |  |
 | [My mind is lost](https://open.spotify.com/track/6LsDwL99RoBXEMms0vz2VE) | [Robi Dixie](https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F) | [My mind is lost](https://open.spotify.com/album/7HhBJzjUs48aoDBJUrH65R) | 3:04 | 2024-01-17 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2022-01-12 |  |
-| [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 | 2022-01-19 |  |
+| [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 | 2022-01-19 | 2024-01-24 |
 | [Neptune](https://open.spotify.com/track/5FC6ViCqKnLb6Xnjm8UEKQ) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Neptune](https://open.spotify.com/album/0c6aofX894frHR0zQyUvqR) | 2:22 | 2024-01-17 | 2024-01-20 |
 | [New Wings](https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0) | [Isac Hadland](https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n) | [New Wings](https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl) | 3:29 | 2022-01-12 | 2024-01-18 |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-01-19 |  |
@@ -310,6 +311,7 @@
 | [Vi møtes igjen](https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Vi møtes igjen](https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n) | 3:05 | 2022-01-19 | 2023-07-29 |
 | [Vignette](https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF) | [General Relativity](https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc) | [Vignette](https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56) | 2:40 | 2022-01-12 | 2024-01-22 |
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2022-01-12 | 2024-01-22 |
+| [Violet Waves](https://open.spotify.com/track/4hotjR081NpMCwvr6IoYyj) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Violet Waves](https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe) | 3:13 | 2024-01-17 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2022-01-12 | 2023-03-15 |
 | [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2022-04-13 | 2023-06-30 |
 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 | 2022-01-12 | 2024-01-22 |

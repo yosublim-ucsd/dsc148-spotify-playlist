@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-551 songs - 1 day 18 hr 20 min
+552 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Afterlife \(feat\. Nils Molin\)](https://open.spotify.com/track/2TmRiodQBCTrrDxLjPwSl1) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD), [Nils Molin](https://open.spotify.com/artist/3dL0cZwZcfX1Fv2SkhMLl6) | [Afterlife \(feat\. Nils Molin\)](https://open.spotify.com/album/082cKkmxJmdsf9d3RuOYMG) | 3:35 | 2021-10-01 | 2021-10-29 |
 | [Alfa](https://open.spotify.com/track/2GXNAVESi3Ncv8CumNOljv) | [Goba](https://open.spotify.com/artist/5xURFCFadJUGfKuz62Bhvg) | [Penumbra, Pt\. 2](https://open.spotify.com/album/3MniPhQJX1HqKGMsnRMlQ2) | 3:50 | 2022-07-13 | 2022-07-29 |
 | [All Shall Burn](https://open.spotify.com/track/4ZJQANWp7aZb66DRMVg8SA) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [All Shall Burn](https://open.spotify.com/album/1zJIqPev7iYk4suASP6OqW) | 4:21 | 2020-11-29\* | 2021-06-19 |
+| [Altar Of Power](https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements Of Power](https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9) | 4:21 | 2023-05-19 |  |
 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 | 2022-02-25 | 2023-12-17 |
 | [Ambiramus](https://open.spotify.com/track/6sXsi4DsxtpI4BnfhaG77v) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ambiramus](https://open.spotify.com/album/62AseoGHnjNTqA66GV7LrZ) | 2:53 | 2020-11-29\* | 2021-05-07 |
 | [An Infinite Regression](https://open.spotify.com/track/6TusaYvpkgyJhJ8tvXo03P) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Weightless](https://open.spotify.com/album/7IoPLwGpntUE7VaEXEU67i) | 3:25 | 2022-07-13 | 2022-07-30 |
@@ -220,7 +221,7 @@
 | [Heroes Die](https://open.spotify.com/track/2CGVvNMRqHjy57VxYMN6zG) | [Watch Out Stampede](https://open.spotify.com/artist/4l7aT8cxtdfmUoxd2s7A94) | [Heroes Die](https://open.spotify.com/album/35kceTLzgl1A9Hz8ickQUu) | 4:05 | 2022-01-21 | 2022-03-18 |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-11-29\* | 2021-05-21 |
 | [Heroes out of Time](https://open.spotify.com/track/3R8rYXcluJWC0oAQDRki7S) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Heroes out of Time](https://open.spotify.com/album/0L9IXczpIBhsr8h22Iept6) | 3:42 | 2021-06-11 | 2021-09-04 |
-| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-16 |  |
+| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-16 | 2024-01-24 |
 | [Hootsforce](https://open.spotify.com/track/5gJ1DNzFHwNFlEw1UltyFk) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 3:50 | 2020-11-29\* | 2021-06-19 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-10-23 | 2022-05-21 |
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29\* | 2021-10-01 |

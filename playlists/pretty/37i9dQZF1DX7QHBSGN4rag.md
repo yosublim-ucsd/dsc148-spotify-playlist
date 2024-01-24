@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 如果愛是不同形狀組成的密碼，八個女孩子便會有八組不同的愛的密碼！
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,249 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,248 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 5 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 6 | [報復式浪漫 \(feat\. moon tang\)](https://open.spotify.com/track/5T6PZMH6QDRnhN3fYaXDQz) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [報復式浪漫 \(feat\. moon tang\)](https://open.spotify.com/album/0p4IXG9peFiRAtY0a7Xjuf) | 3:39 |
 | 7 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
-| 8 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 |
+| 8 | [I Love You 3000](https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x) | 3:29 |
 | 9 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
 | 10 | [好きだから。](https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [好きだから。](https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu) | 4:58 |
 | 11 | [世一](https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [世一](https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh) | 4:23 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 24 | [2084](https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [2084](https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4) | 5:16 |
 | 25 | [我的秘密 \(MySecret\)](https://open.spotify.com/track/04colE4oJt50AHwFhrT57v) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [MySecret](https://open.spotify.com/album/2ZkF6zANeekBDgwMFGLIlf) | 4:08 |
 
-Snapshot ID: `MCxhNjhmMGNlYTM5M2UxMTIzYjVhN2FlNDBlMTM3NTE2NTQxZWFjZWZk`
+Snapshot ID: `MCxlNjhmZDJmN2QxYTY4MWVlMmQxMjFlNjZkNGZlN2JjYzU0ZjM3YmM2`

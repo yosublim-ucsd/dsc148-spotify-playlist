@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: PONCHET
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,258 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,927 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Catalyst.](https://open.spotify.com/track/5V8dpQ1eFrDjJvw0hnrIqh) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Catalyst.](https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp) | 3:16 |
 | 75 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 
-Snapshot ID: `MCwyM2Y1OWQwOThlNDU3NjBkOWNkZGRkNWNiYjk5Y2M2OGQ0YzZmNjJj`
+Snapshot ID: `MCwzMjM0ZDAyNWMyN2Y2ZDY3MTVjY2NmMDYzOWI4MzliMjc4YWQ3ZjVl`

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-215 songs - 9 hr 49 min
+216 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
 | [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 | 2022-05-13 |  |
+| [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-23 |  |
 | [Marble Flooring](https://open.spotify.com/track/2JaEJlUrMGRGKxVP1P6ZD4) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Marble Flooring](https://open.spotify.com/album/3tdNvmSxAgJCAA5GewSlue) | 2:27 | 2022-07-22 |  |
 | [Matrix](https://open.spotify.com/track/3LB6uSDlkoVaxmyc9vzz07) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Matrix](https://open.spotify.com/album/3QDgdiPtkM4f2D5646VpMS) | 2:05 | 2022-10-14 |  |
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2021-11-11 |  |

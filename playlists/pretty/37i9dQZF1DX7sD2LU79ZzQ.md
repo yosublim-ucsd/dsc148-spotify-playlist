@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Ashira Zamita
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,454 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,470 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Serious](https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Serious](https://open.spotify.com/album/70TgrftyNNx9ksNZp2tGcO) | 3:20 |
 | 100 | [Penantian Panjang](https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Penantian Panjang](https://open.spotify.com/album/62dDC0wmINdeEJuWE4dHzX) | 4:11 |
 
-Snapshot ID: `MCxhOTYyM2VmOTJiZmM1YzY3YmE2MDhiMGY4NTc3M2M0YTJiNjM4YTA5`
+Snapshot ID: `MCxlNDE3MDYwNDIwNTQzODk3ZTExNmU2ZjBkODQyMzkwNjA0MGQ5MDg5`

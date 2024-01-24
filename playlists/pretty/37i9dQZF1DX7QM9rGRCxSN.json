@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 29289,
+  "num_followers": 29302,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGFhZjEzYjhlZGJkYTQ1OTMwMGIzZmE0NmUyMWQzMzk4NmUzYWIy",
+  "snapshot_id": "MCxhNzgwMTJlNzEzZWVlMWQ4MmYzYWZhN2Q4NjMyNzQyODE4NWNmZDYw",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -389,26 +389,6 @@
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Jupiter and Beyond the Infinite",
-        "url": "https://open.spotify.com/album/0Ja2oZzhaZlxHck3liBo9I"
-      },
-      "artists": [
-        {
-          "name": "Viva Belgrado",
-          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
-        },
-        {
-          "name": "Erik Urano",
-          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
-        }
-      ],
-      "duration_ms": 235015,
-      "name": "Jupiter and Beyond the Infinite",
-      "url": "https://open.spotify.com/track/3ZrFLt8CMFvkccp9a0tcHe"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "Todo Va a Estar Bien",
@@ -423,6 +403,22 @@
       "duration_ms": 195500,
       "name": "Todo Va a Estar Bien",
       "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -457,36 +453,24 @@
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
+      "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "Jupiter and Beyond the Infinite",
+        "url": "https://open.spotify.com/album/0Ja2oZzhaZlxHck3liBo9I"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
-      },
-      "artists": [
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        },
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+          "name": "Erik Urano",
+          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+      "duration_ms": 235015,
+      "name": "Jupiter and Beyond the Infinite",
+      "url": "https://open.spotify.com/track/3ZrFLt8CMFvkccp9a0tcHe"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -503,6 +487,22 @@
       "duration_ms": 188728,
       "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Amor de Furgoneta",
         "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192865,
       "name": "Amor de Furgoneta",
       "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 237087,
+      "name": "Lazy Lovers",
+      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
+    },
+    {
       "added_at": "2023-11-24 06:00:00",
       "album": {
         "name": "paisaje",
@@ -715,22 +731,6 @@
       "duration_ms": 221625,
       "name": "paisaje",
       "url": "https://open.spotify.com/track/5IQen1GR2hsjtpXkEnvOmX"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 237087,
-      "name": "Lazy Lovers",
-      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
     },
     {
       "added_at": "2023-05-05 06:00:00",

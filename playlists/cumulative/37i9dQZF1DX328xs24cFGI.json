@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "album": {
         "name": "Orange Days",
         "url": "https://open.spotify.com/album/6atQ8dmI3YfyZM6v90sSTw"
       },
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 294666,
       "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
       "url": "https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 218751,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
@@ -2708,6 +2726,24 @@
       "duration_ms": 318586,
       "name": "\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/3ZtHtqqSEKd8EcggroTfZU"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30eb\u30c8\u30e9C",
+        "url": "https://open.spotify.com/album/7AyUxLbLcJti8yW5Clx7D4"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u91ce\u7814\u592a\u6717",
+          "url": "https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179281,
+      "name": "\u30a6\u30eb\u30c8\u30e9C",
+      "url": "https://open.spotify.com/track/0141anOpsF7yGIsNtbvooz"
     },
     {
       "album": {
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 196800,
       "name": "\u30ea\u30c3\u30c4\u30d1\u30fc\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ"
@@ -3418,6 +3454,24 @@
       "duration_ms": 313877,
       "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u76ee\u3001\u58f0",
+        "url": "https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197363,
+      "name": "\u541b\u306e\u76ee\u3001\u58f0",
+      "url": "https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt"
     },
     {
       "album": {

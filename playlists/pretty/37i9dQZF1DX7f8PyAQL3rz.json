@@ -1,12 +1,12 @@
 {
   "description": "chama naquela da alcione que machuca o pai",
-  "num_followers": 1330217,
+  "num_followers": 1330392,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTgyNGExZDBjMTkzMTA2M2JmZTE3NzY5ZDdmNWE1ZmVlZDU3Nzlm",
+  "snapshot_id": "MCxiMTQ2NzE5MzcxZWQ4MGQwOWRmODVjN2Q2YTAwYWE0NzNmMGQzOGE5",
   "tracks": [
     {
       "added_at": "2024-01-19 03:03:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-01-19 03:03:00",
       "album": {
-        "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
-    },
-    {
-      "added_at": "2024-01-19 03:03:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": "2024-01-19 03:03:00",
+      "album": {
+        "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
     },
     {
       "added_at": "2024-01-19 03:03:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2024-01-19 03:03:00",
       "album": {
+        "name": "Ningu\u00e9m T\u00e1 Puro!",
+        "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Jorgin",
+          "url": "https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "400K",
+      "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
+    },
+    {
+      "added_at": "2024-01-19 03:03:00",
+      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 450410,
       "name": "Banco do Carona",
       "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
-    },
-    {
-      "added_at": "2024-01-19 03:03:00",
-      "album": {
-        "name": "Ningu\u00e9m T\u00e1 Puro!",
-        "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ Jorgin",
-          "url": "https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "400K",
-      "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
     },
     {
       "added_at": "2024-01-19 03:03:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2024-01-19 03:03:00",
       "album": {
+        "name": "Bonjour - Na Frente do Pared\u00e3o",
+        "url": "https://open.spotify.com/album/2zan2CQT5bHbqN59UEyARq"
+      },
+      "artists": [
+        {
+          "name": "DJ PAULIN",
+          "url": "https://open.spotify.com/artist/7eIq1rjn5GWmAKp3tdTyLv"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        }
+      ],
+      "duration_ms": 125908,
+      "name": "Bonjour - Na Frente do Pared\u00e3o",
+      "url": "https://open.spotify.com/track/76Zx8UrOIudkZQsI0sIcef"
+    },
+    {
+      "added_at": "2024-01-19 03:03:00",
+      "album": {
         "name": "BRIME! (Deluxe)",
         "url": "https://open.spotify.com/album/7x8LGjA3UHinpeu3S8yXUY"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 173274,
       "name": "HOJE",
       "url": "https://open.spotify.com/track/2H87uNvMBPoRddhP57HwIJ"
-    },
-    {
-      "added_at": "2024-01-19 03:03:00",
-      "album": {
-        "name": "Bonjour - Na Frente do Pared\u00e3o",
-        "url": "https://open.spotify.com/album/2zan2CQT5bHbqN59UEyARq"
-      },
-      "artists": [
-        {
-          "name": "DJ PAULIN",
-          "url": "https://open.spotify.com/artist/7eIq1rjn5GWmAKp3tdTyLv"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        }
-      ],
-      "duration_ms": 125908,
-      "name": "Bonjour - Na Frente do Pared\u00e3o",
-      "url": "https://open.spotify.com/track/76Zx8UrOIudkZQsI0sIcef"
     },
     {
       "added_at": "2024-01-19 03:03:00",

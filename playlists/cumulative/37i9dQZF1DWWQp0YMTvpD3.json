@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Flash Drive",
+        "url": "https://open.spotify.com/album/3j6JaDBxQncJC5Vt3rOyuN"
+      },
+      "artists": [
+        {
+          "name": "Gea",
+          "url": "https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164967,
+      "name": "Flash Drive",
+      "url": "https://open.spotify.com/track/4qO26309I0CM7LoZYRaW9A"
+    },
+    {
+      "album": {
         "name": "Flash Forward",
         "url": "https://open.spotify.com/album/3C8w0UFQqO3PDGszdKoWwl"
       },
@@ -1802,6 +1820,24 @@
       "duration_ms": 172680,
       "name": "Float",
       "url": "https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB"
+    },
+    {
+      "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/2fwocHblTrkrlHK0QA8KMV"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1mille",
+          "url": "https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131045,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/6bWlWCpySVlY1l0xXYCNdU"
     },
     {
       "album": {
@@ -3979,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Pura vida",
+        "url": "https://open.spotify.com/album/3A8xPCI7qXyq9VkHVgLr1i"
+      },
+      "artists": [
+        {
+          "name": "PeachPuff",
+          "url": "https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "Pura vida",
+      "url": "https://open.spotify.com/track/6DJU7YDGuqIzEfCj7LWvFm"
+    },
+    {
+      "album": {
         "name": "Quay",
         "url": "https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V"
       },
@@ -4138,6 +4192,24 @@
       "duration_ms": 189478,
       "name": "Retreat into mist",
       "url": "https://open.spotify.com/track/0ueVDDwFAZKFUwZhtHQAjE"
+    },
+    {
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/0rjHQHL5VIqecLapXxYGLP"
+      },
+      "artists": [
+        {
+          "name": "Don Battina",
+          "url": "https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151159,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY"
     },
     {
       "album": {

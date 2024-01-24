@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
@@ -6302,6 +6302,24 @@
       "duration_ms": 224761,
       "name": "LOVELANGUAGE",
       "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "album": {
+        "name": "low key",
+        "url": "https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254369,
+      "name": "low key",
+      "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
     },
     {
       "album": {

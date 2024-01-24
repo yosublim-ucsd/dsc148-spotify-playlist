@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Etta Marcus
 
-1,739 songs - 3 day 19 hr 41 min
+1,740 songs - 3 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [127 Hours](https://open.spotify.com/track/4KUfErz2aWbIODxQ6GNBV8) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [127 Hours](https://open.spotify.com/album/0PTjTUsGj0F6MrmQN3WLUw) | 2:26 | 2022-02-25 | 2022-06-08 |
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-05-05 | 2022-04-16 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-25 | 2022-04-16 |
-| [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 |  |
+| [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 | 2024-01-24 |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2024-01-14 |
@@ -1701,6 +1701,7 @@
 | [Wine](https://open.spotify.com/track/4ovL2qMHSSGEqFZXOeuSB8) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Wine](https://open.spotify.com/album/5rpR4Eqlx55HnGwvxmx2x4) | 3:35 | 2021-05-27 | 2021-11-25 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2021-10-11 | 2021-10-12 |
 | [Winter's Coming](https://open.spotify.com/track/2aOrJTA8AUVWPBjSB4negX) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Winter's Coming](https://open.spotify.com/album/2eZcgp7ogQushYjwFegmmi) | 2:55 | 2021-08-07 | 2021-10-23 |
+| [Wish You Were Here](https://open.spotify.com/track/4UmLhlLUJKQQNr8glsPkKC) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Wish You Were Here](https://open.spotify.com/album/2Li6KhcK5WlPgLVN3LLGHD) | 3:26 | 2024-01-20 |  |
 | [Wish You Were Sober](https://open.spotify.com/track/50JEoj7rigjIYJaPb0uMsZ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wish You Were Sober](https://open.spotify.com/album/5ktpHCAtbI7aOA8WFpqQu3) | 2:48 | 2020-10-20 | 2022-04-10 |
 | [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 | 2023-02-04 | 2023-02-11 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-04-03 | 2022-04-15 |

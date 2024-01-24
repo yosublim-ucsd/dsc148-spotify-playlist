@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-613 songs - 1 day 10 hr 7 min
+615 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [Skylarking](https://open.spotify.com/track/4O0iJu6jndkKx49sRf26uW) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [This Is Trojan Roots](https://open.spotify.com/album/4hJWhgA6ZfwGmXyzQi62rM) | 3:01 | 2022-09-22 | 2023-11-03 |
 | [Small Axe](https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 3:54 | 2022-09-22 |  |
 | [Small Axe](https://open.spotify.com/track/1eBIJWWBM7hdJNXytP5use) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:56 | 2022-09-22 | 2022-11-13 |
-| [Snoopy Vs the Red Baron](https://open.spotify.com/track/5m0SN0LMWS9ip0pJNNhi8l) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:08 | 2022-09-22 |  |
+| [Snoopy Versus the Red Baron](https://open.spotify.com/track/57CGdod2ydkE0DEAXP1wWJ) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:10 | 2022-09-22 |  |
+| [Snoopy Vs the Red Baron](https://open.spotify.com/track/5m0SN0LMWS9ip0pJNNhi8l) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:08 | 2022-09-22 | 2024-01-24 |
 | [Snoopy vs\. The Red Baron](https://open.spotify.com/track/7qKTh0SeTxq5GECRoCMQcV) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2022-09-22 | 2023-11-11 |
 | [Sometimes](https://open.spotify.com/track/08MP9fdQzB9ijPQE87Yqbf) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Memories By The Score Vol\. 1](https://open.spotify.com/album/5zURHZf8NNvfj1a4vsribi) | 3:17 | 2022-09-22 |  |
 | [Sometimes](https://open.spotify.com/track/0qb0IWHeAUSzAINvtg853t) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [The Best of John Holt](https://open.spotify.com/album/5vMkRku6Vmc04J85j1D2Nl) | 3:18 | 2022-09-22 | 2023-03-09 |
@@ -543,8 +544,9 @@
 | [This Is Reggae Music](https://open.spotify.com/track/3GEFLXM7c5RF7FDQHBtniJ) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zappow](https://open.spotify.com/artist/2qa9ExWFpvvSMSN87BzEGm) | [Dancehall Generation](https://open.spotify.com/album/0RnmjNZqqJ3QuSrNudc9bf) | 3:00 | 2022-09-22 | 2022-11-13 |
 | [This Is Reggae Music](https://open.spotify.com/track/10McHNtBiND3fSJMuLqJql) | [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Reggae Chartbusters, Vol\. 4](https://open.spotify.com/album/0UXE7lCH36LhuwdoKROLOR) | 3:01 | 2021-03-02 | 2022-07-29 |
 | [This Is Reggae Music \- Single Version](https://open.spotify.com/track/55ycfO5gPho2ds0IudKQGK) | [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [This Is Reggae Music / Break Down The Barriers](https://open.spotify.com/album/37jPyNvX9rYXJEM7D11zSJ) | 3:10 | 2022-09-22 |  |
-| [This Monday Morning Feeling](https://open.spotify.com/track/5T1OzO9SUcmCnz3xibdTQG) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:16 | 2022-09-22 |  |
+| [This Monday Morning Feeling](https://open.spotify.com/track/5T1OzO9SUcmCnz3xibdTQG) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:16 | 2022-09-22 | 2024-01-24 |
 | [This Monday Morning Feeling](https://open.spotify.com/track/0sGVA4yzcmscn32zW7rcr3) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:17 | 2022-09-22 | 2023-11-11 |
+| [This Monday Morning Feeling](https://open.spotify.com/track/2NNsgxm81UMtbIOtBK4vyu) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:17 | 2022-09-22 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2021-03-02 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2022-09-22 | 2022-11-13 |
 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 | 2021-03-02 | 2022-07-08 |

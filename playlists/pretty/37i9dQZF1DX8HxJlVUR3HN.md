@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Lysistrata
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,009 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,014 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 28 | [Pop Sauvage](https://open.spotify.com/track/5l4tHgY9cdo9HTH0g09VGQ) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1bByGrvIRmbEpb2ffklSHx) | 3:37 |
 | 29 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 |
 | 30 | [Promis Le Ciel](https://open.spotify.com/track/5rB3ktoDrcvCQ6wSGo6Ec8) | [Delgres](https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3) | [Promis Le Ciel](https://open.spotify.com/album/6rRi5Z1oEZZ5XZ1NqXc0Nf) | 3:04 |
-| 31 | [Nimh](https://open.spotify.com/track/075VP0RTD4nsbMV7EhJD8O) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Nimh](https://open.spotify.com/album/4ii1wCmU3rG3ypMJlMZlAW) | 9:38 |
+| 31 | [Nimh](https://open.spotify.com/track/0gDcaxYG7u6TvJWOOsj7EB) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 9:38 |
 | 32 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 |
 | 33 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 |
 | 34 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Hurricanes](https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Hurricanes](https://open.spotify.com/album/3coIK4BNVCgOLy9kAPGumC) | 3:14 |
 | 50 | [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 |
 
-Snapshot ID: `MCxlZDM3ZmFhNTk5NDBkMjc3ZTFhZWU3M2ZjNjExZGUwZmYwMDI4ZjZm`
+Snapshot ID: `MCxhNTgwOGFlY2E0NmNiYjI0ZjAxMDlhNDA2ZjcwNTQ0ODUyMmQ4Njlk`

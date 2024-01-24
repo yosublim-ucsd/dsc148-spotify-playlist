@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-598 songs - 1 day 8 hr 52 min
+599 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Luxury: Cococure \- Remastered 2018](https://open.spotify.com/track/2M8tI5gnzbtV2Cy4jejI7e) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Embrya](https://open.spotify.com/album/2yIqLIxn5gbKogYGcNdbxF) | 5:32 | 2021-12-15 | 2022-04-08 |
 | [Lying To You](https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:58 | 2023-04-28 | 2023-08-26 |
 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 | 2021-12-15 | 2023-03-04 |
+| [L’Anthropofemme](https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [L’Anthropofemme](https://open.spotify.com/album/2rdk5oMRB4g6yBMxzXPv7I) | 3:10 | 2024-01-19 |  |
 | [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 |  |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-12-15 | 2023-01-28 |
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |
@@ -514,7 +515,7 @@
 | [Surrender](https://open.spotify.com/track/4yBzXfwyFa1wbCBS3iYF2X) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB), [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ) | [Surrender](https://open.spotify.com/album/63VfVVts4L2wtn6KLBPSzB) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Sweet Nothing](https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Sweet Nothing](https://open.spotify.com/album/2UWJzgUpIJpurnzuT1bpqT) | 3:29 | 2023-05-26 | 2023-07-15 |
 | [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 | 2023-03-10 |
-| [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 | 2023-11-19 |  |
+| [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 | 2023-11-19 | 2024-01-24 |
 | [Take Off Your Cool \(feat\. Norah Jones\)](https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:38 | 2021-12-15 | 2023-04-15 |
 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/2XNYdSnpZvwlFr9gGWM8uX) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/album/6jNc9ab3Twwr4U3iBQM7wq) | 3:24 | 2021-12-15 | 2022-04-07 |
 | [Talk to Yuh](https://open.spotify.com/track/6fwV7mBG3K6eAmSfPmNtK6) | [Zen Boba](https://open.spotify.com/artist/4MhSwhQrXXAlIAIq6OCX0m), [Half Moon Bay](https://open.spotify.com/artist/3KG8t3rIqQX1sr97EPUL41) | [Talk to Yuh](https://open.spotify.com/album/4XmokrroK532pDbp4hi9dd) | 3:31 | 2021-12-15 | 2022-04-06 |

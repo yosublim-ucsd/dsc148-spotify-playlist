@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Ariana Grande
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,897 likes - 125 songs - 6 hr 31 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,848 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

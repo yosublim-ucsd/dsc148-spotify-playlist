@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-207 songs - 10 hr 35 min
+210 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2023-05-05 |  |
 | [Cloudburn](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Cloudburn](https://open.spotify.com/album/5GHE6lBdu0U4Vk6UpJ79hq) | 2:30 | 2023-05-05 |  |
 | [come with me](https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [come with me](https://open.spotify.com/album/0x5nHYKK9ZxwOG638YmkSj) | 2:32 | 2023-07-07 |  |
+| [Command](https://open.spotify.com/track/3G2Z6961Suis6IlOLhsVRE) | [Green Gold](https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm) | [Command](https://open.spotify.com/album/0HFJ2jMHzxO66Zj88UTcvd) | 2:31 | 2024-01-23 |  |
 | [conscious of the trend](https://open.spotify.com/track/01kNQ61BzAshDC9NlUqcKY) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [conscious of the trend](https://open.spotify.com/album/2nltbyf8nIx2eA3YDI4gqf) | 3:08 | 2023-05-05 |  |
 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 | 2023-05-05 |  |
 | [Cravings](https://open.spotify.com/track/68Hy2Ee8JBMdOMlzyGWsf1) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Open Air](https://open.spotify.com/album/4RX27Cgz2pTqwBdp508EBj) | 3:24 | 2023-05-05 |  |
@@ -168,6 +169,7 @@
 | [SoHo](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [SoHo](https://open.spotify.com/album/3dZBiHAg8DsRtljFIcPTfe) | 2:56 | 2023-05-26 |  |
 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 | 2023-05-05 | 2023-08-19 |
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
+| [Sparkling](https://open.spotify.com/track/0zinWIi33Y0HY9FzAjoQP7) | [Reese Straut](https://open.spotify.com/artist/7aAhTDn0TyolcU68PAYULR) | [Sparkling](https://open.spotify.com/album/4CTAiLbbQkgMrSrcijELPH) | 2:05 | 2024-01-23 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 | 2023-11-16 |
 | [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 | 2023-09-15 |  |
@@ -177,6 +179,7 @@
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
 | [summer somewhere](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [summer somewhere](https://open.spotify.com/album/7g1pEXexNSRzZ6YMYfElbr) | 2:00 | 2023-10-20 |  |
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |
+| [Sunny Side Up](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq) | [LE OBAL](https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL) | [Sunny Side Up](https://open.spotify.com/album/0Bcj1W4MDQmv5M5BCPILxn) | 2:21 | 2024-01-23 |  |
 | [Sunrise](https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Sunrise](https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy) | 2:55 | 2023-05-05 |  |
 | [Sunset Groove](https://open.spotify.com/track/2b95f2mVCMMsd3hXti60if) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Sunset Groove](https://open.spotify.com/album/1NZrHUIs5K3k49LhxIysMf) | 2:58 | 2023-05-05 |  |
 | [Take Off](https://open.spotify.com/track/2DBZDxHb9Pm35HN5B3CylH) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 3:49 | 2023-05-05 | 2023-05-23 |

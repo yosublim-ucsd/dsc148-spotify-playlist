@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "XAI",
+          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "DARK ARIA <LV2>",
+      "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
+    },
+    {
+      "album": {
         "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
       },
@@ -1523,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "NOD",
+        "url": "https://open.spotify.com/album/11D4LDyI4T1EjVqrZP9wL0"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163980,
+      "name": "NOD",
+      "url": "https://open.spotify.com/track/2t5BsR1Q9xP3O7RSs5NNLe"
+    },
+    {
+      "album": {
         "name": "Dispersion",
         "url": "https://open.spotify.com/album/7v9JeC4whlA96o6N19hxZI"
       },
@@ -2196,6 +2236,28 @@
       "duration_ms": 267120,
       "name": "The Reluctant Heroes",
       "url": "https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u4e03\u3064\u306e\u5927\u7f6a \u9ed9\u793a\u9332\u306e\u56db\u9a0e\u58eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443149,
+      "name": "The Seven Deadly Sins: Four Knights of the Apocalypse-MAIN THEME",
+      "url": "https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY"
     },
     {
       "album": {

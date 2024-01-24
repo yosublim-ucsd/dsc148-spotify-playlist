@@ -4,12 +4,12 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Elkka / Photo: Alexandra Lambert
 
-564 songs - 1 day 18 hr 13 min
+565 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 | 2023-12-09 |
-| [\(It Goes Like\) Nanana \- Nanadub](https://open.spotify.com/track/6vQuuzzYy6Kko6MDFGVndC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:06 | 2023-09-28 |  |
+| [\(It Goes Like\) Nanana \- Nanadub](https://open.spotify.com/track/6vQuuzzYy6Kko6MDFGVndC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:06 | 2023-09-28 | 2024-01-24 |
 | [17 \- Jun Kamoda Remix](https://open.spotify.com/track/5MV3dtZfRytzhz0yNv1Ype) | [\(\(\(sssurrounddd\)\)\)](https://open.spotify.com/artist/6ifeAFv8w3BSPd6BYDqYgo), [munmu](https://open.spotify.com/artist/06VcN04fMi0TBeXCY1LsK0), [Jun Kamoda](https://open.spotify.com/artist/2HPkBQMPtdjBbZkAeKTpLm) | [Huyuu \(浮遊\) \[Remixes\]](https://open.spotify.com/album/4nRQbzjV6lVsr4eP6zHoZw) | 6:00 | 2023-11-17 |  |
 | [4U](https://open.spotify.com/track/1HuvcnsbUpEezwa20wr5zB) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [QN](https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5) | [4U](https://open.spotify.com/album/7lauAYc2Y3FifzGwnertrx) | 5:35 | 2023-08-11 | 2023-09-22 |
 | [54 Hours](https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lewis Ray](https://open.spotify.com/artist/1Dkb2YpzUItkuERW7BFjND) | [54 Hours](https://open.spotify.com/album/2IX1aRioQMKVmuLDAaDUrW) | 3:00 | 2023-12-07 | 2023-12-15 |
@@ -564,6 +564,7 @@
 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 | 2023-06-09 | 2023-08-25 |
 | [Yali](https://open.spotify.com/track/20dBQ3aHcspYaCkTeW1T3i) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN) | [Yali](https://open.spotify.com/album/7ic4HliWaPWyl2Qkip8FYP) | 3:44 | 2023-09-28 | 2023-10-13 |
 | [YAZAWA](https://open.spotify.com/track/4IV0yAxtWiRmaYxQvhmoCQ) | [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [YAZAWA](https://open.spotify.com/album/3UgxmPCV4KCWHlqZxQuFhi) | 2:30 | 2023-03-16 | 2023-07-28 |
+| [Yellow Sunrise](https://open.spotify.com/track/2GXeUVMLsI9I1BQHobzZUx) | [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Yellow Sunrise](https://open.spotify.com/album/1lgsxWcCZbNIXLSbJzWfse) | 7:10 | 2024-01-24 |  |
 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 | 2023-09-07 | 2023-11-02 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-03-16 | 2023-05-12 |
 | [You \- Edit](https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa) | 3:58 | 2023-03-16 | 2023-04-09 |

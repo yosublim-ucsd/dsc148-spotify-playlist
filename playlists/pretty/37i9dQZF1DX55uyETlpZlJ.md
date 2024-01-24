@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,123 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,121 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 3 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 |
 | 4 | [Ille Iruvanu](https://open.spotify.com/track/0PGvWnVE33AZlWjehFbQ9U) | [Shamanth M](https://open.spotify.com/artist/2GYWq7iSYkxOjNz1qW3BAx), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Ille Iruvanu](https://open.spotify.com/album/1ulnP8ZLc9QDLCWoybVN2S) | 5:18 |
 | 5 | [MELODY](https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [MELODY](https://open.spotify.com/album/057QjeaBnQhOiH26WDO06R) | 1:25 |
-| 6 | [Mooru Dina Jeevana](https://open.spotify.com/track/72rmsR6tE4OZUKSovywtOs) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Mooru Dina Jeevana](https://open.spotify.com/album/30csRc2zyilSOWwnUZlZaL) | 3:25 |
+| 6 | [Mooru Dina Jeevana](https://open.spotify.com/track/72rmsR6tE4OZUKSovywtOs) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd), [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Mooru Dina Jeevana](https://open.spotify.com/album/30csRc2zyilSOWwnUZlZaL) | 3:25 |
 | 7 | [Amma \- The Kodava Song](https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa) | [Pop\-J Prajeeth](https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p), [Karan Kaverappa](https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7) | [Amma \- The Kodava Song](https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b) | 3:27 |
 | 8 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Mitakshar Ainkai](https://open.spotify.com/artist/2cWf8aFRGME7EIAHkfydrR) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 |
 | 9 | [Negative Vibes](https://open.spotify.com/track/2v8kMR6oI7nejIEAlRdLMh) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Negative Vibes](https://open.spotify.com/album/2Q3LYxs6srfQlp668KY84J) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 |
 | 100 | [Yako Summane](https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF) | 3:31 |
 
-Snapshot ID: `MCxiNWQ4MjFiMjM5YTVhYWFmMDllNDkxY2IwODc0ZTU1OTA1MzU0YTAy`
+Snapshot ID: `MCw4NGNjOGEzMDA3ZDhmODc0YmMxYjIwNmE2NDc3ZDE4NzM1OWZmZWRj`

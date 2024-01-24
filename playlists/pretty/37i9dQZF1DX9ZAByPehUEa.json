@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 94434,
+  "num_followers": 94497,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTAxNDM5YWI2NDZjN2U1ODc3ODAwNjcxMWI0ODdiYWM2ZGZkMjBk",
+  "snapshot_id": "MCwwMDhkYzM3ZGY0MTFkM2FiZGYwNmQ2ZTY5MDMyOTU3MTgxNTVmMGI4",
   "tracks": [
     {
       "added_at": "2024-01-19 17:58:21",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-01-19 17:58:21",
       "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
       },
       "artists": [
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
         }
       ],
-      "duration_ms": 141000,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     }
   ],
   "unique_name": "DISCOLAND",

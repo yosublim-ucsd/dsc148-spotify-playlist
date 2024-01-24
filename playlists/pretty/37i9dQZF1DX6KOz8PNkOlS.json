@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 433031,
+  "num_followers": 433220,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDhhZTNiMTJmZjUxMTYyMzc5MzAwMjVkMzQ0ZmRlNGU5YzUwYmNk",
+  "snapshot_id": "MCxkOGZmMmY1MGU1OWZlNDBlOGM2NDdkNWFhN2U5NmY3ODRlZDBlOTQ4",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
     },
     {
+      "added_at": "2023-03-30 03:13:10",
+      "album": {
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Shout Out! To Freedom...",
@@ -1279,22 +1295,6 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
-    },
-    {
-      "added_at": "2023-03-30 03:13:10",
-      "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2023-05-24 02:01:11",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Aliso",
         "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 224253,
       "name": "If It Goes",
       "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
-    },
-    {
-      "added_at": "2022-04-18 03:39:12",
-      "album": {
-        "name": "State of Mine",
-        "url": "https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD"
-      },
-      "artists": [
-        {
-          "name": "Kara Marni",
-          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
-        }
-      ],
-      "duration_ms": 172436,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
       "added_at": "2023-01-04 01:09:50",
@@ -1417,20 +1401,20 @@
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
+      "added_at": "2022-04-18 03:39:12",
       "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+        "name": "State of Mine",
+        "url": "https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD"
       },
       "artists": [
         {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+          "name": "Kara Marni",
+          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+      "duration_ms": 172436,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1447,6 +1431,22 @@
       "duration_ms": 209413,
       "name": "blame game",
       "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2023-08-31 18:57:48",
@@ -1469,26 +1469,6 @@
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Something Like A War",
-        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
-      },
-      "artists": [
-        {
-          "name": "Kindness",
-          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "The Warning",
-      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
-    },
-    {
       "added_at": "2023-06-02 02:31:02",
       "album": {
         "name": "The Universe",
@@ -1507,6 +1487,26 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Something Like A War",
+        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "The Warning",
+      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
       "added_at": "2022-01-26 18:13:44",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Thought 8",
+      "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Sweetness Remixes",
         "url": "https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 206820,
       "name": "Sweetness - Dub Mix by Andras",
       "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O"
-      },
-      "artists": [
-        {
-          "name": "Thrupence",
-          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Thought 8",
-      "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv"
+        "name": "Painting the Roses",
+        "url": "https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Midnight Sister",
+          "url": "https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4"
         }
       ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
+      "duration_ms": 246631,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
     }
   ],
   "unique_name": "Soft Office",

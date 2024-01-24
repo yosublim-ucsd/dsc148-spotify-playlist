@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 100246,
+  "2024-01-24": 100594,
   "date_first_scraped": "2022-10-01",
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
   "name": "Praise and Worship",
@@ -281,6 +281,28 @@
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
+    },
+    {
+      "album": {
+        "name": "Amaram Onyewem (Live)",
+        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642124,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
       "album": {
@@ -3715,7 +3737,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"

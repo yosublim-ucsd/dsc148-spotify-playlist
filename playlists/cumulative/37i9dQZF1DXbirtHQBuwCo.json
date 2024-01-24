@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: GroovyRoom)",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: So Soo Bin(\uc18c\uc218\ube48))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 267857,
       "name": "Baby I Know",
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 181384,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 261120,
       "name": "BYE BYE BYE (feat. Sion)",
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
@@ -2076,6 +2076,32 @@
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
+    },
+    {
+      "album": {
+        "name": "PoPoMo",
+        "url": "https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG"
+      },
+      "artists": [
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        },
+        {
+          "name": "Hersh",
+          "url": "https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF"
+        },
+        {
+          "name": "PoPoMo",
+          "url": "https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "BYOB",
+      "url": "https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY"
     },
     {
       "album": {
@@ -6858,7 +6884,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 197693,
       "name": "Lost (ft. Rad Museum, The Quiett)",
       "url": "https://open.spotify.com/track/381IEahv0ci5vzOYPWo976"
@@ -9808,7 +9834,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -11481,6 +11507,24 @@
     },
     {
       "album": {
+        "name": "H1-KEYnote #1 [Thinkin' About You]",
+        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
+    },
+    {
+      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },
@@ -11882,6 +11926,24 @@
       "duration_ms": 196821,
       "name": "Trust Me (Feat. Roh Yun Ha)",
       "url": "https://open.spotify.com/track/1xjJUoYC3ZHBjj1QsiKlUm"
+    },
+    {
+      "album": {
+        "name": "SingAgain3 - Battle of the Unknown, Ep.11 (From the JTBC TV Show)",
+        "url": "https://open.spotify.com/album/4OkQktNpOvuGmmqWbM3Hn6"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212209,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/0kvfHWIeOQe0GDoWktoh8r"
     },
     {
       "album": {
@@ -13009,6 +13071,24 @@
     },
     {
       "album": {
+        "name": "You are special",
+        "url": "https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "You are special",
+      "url": "https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y"
+    },
+    {
+      "album": {
         "name": "you got me!",
         "url": "https://open.spotify.com/album/2TUXs8m5C46sv5HhvOxeOe"
       },
@@ -13228,7 +13308,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 232751,
       "name": "You\u2019re mine, You!",
       "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"

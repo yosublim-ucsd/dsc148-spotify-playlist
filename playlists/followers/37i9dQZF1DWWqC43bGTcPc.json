@@ -1,7 +1,7 @@
 {
-  "2024-01-23": 458373,
+  "2024-01-24": 458106,
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u5468\u6770\u502b (Jay Chou)",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u7406\u60f3\u6df7\u86cb (Bestards)",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -101,6 +101,28 @@
       "duration_ms": 207789,
       "name": "On My Way\u300a\u5730\u7344\u91cc\u9577\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5z7v55W0mQtMj8nrCLAAAc"
+    },
+    {
+      "album": {
+        "name": "Seize the day",
+        "url": "https://open.spotify.com/album/3StIWnLLmJfunGKH0QWy7a"
+      },
+      "artists": [
+        {
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        },
+        {
+          "name": "Nine One One",
+          "url": "https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263806,
+      "name": "Seize the day (feat. Nine One One)",
+      "url": "https://open.spotify.com/track/0QjgDkxr8YkibQKfNCb7AT"
     },
     {
       "album": {
@@ -227,7 +249,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 146860,
       "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
       "url": "https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s"
@@ -285,6 +307,24 @@
       "duration_ms": 327001,
       "name": "\u4f60\u7684\u7ae5\u8a71 (\u96fb\u8996\u5287\u300a\u4f60\u4e5f\u6709\u4eca\u5929\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm"
+    },
+    {
+      "album": {
+        "name": "\u50cf\u505a\u4e00\u5834\u5922",
+        "url": "https://open.spotify.com/album/2tUeTLb4EsCEXnH9VoaCFh"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "\u50cf\u505a\u4e00\u5834\u5922",
+      "url": "https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE"
     },
     {
       "album": {
@@ -429,7 +469,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 219532,
       "name": "\u5df2\u8bfb\u4e0d\u56de",
       "url": "https://open.spotify.com/track/60Xz32l5rkZIM6r2TMyw81"
@@ -559,7 +599,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 212000,
       "name": "\u611b\u7684\u9996\u5e2d",
       "url": "https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD"
@@ -685,10 +725,46 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 120000,
       "name": "\u6253\u96fb\u8a71\u8aaa",
       "url": "https://open.spotify.com/track/6GWbCPnetcEnUMOozd2UBy"
+    },
+    {
+      "album": {
+        "name": "\u6700\u597d\u4e0d\u8981\u518d\u9047\u898b\u4f60",
+        "url": "https://open.spotify.com/album/3L9z2BMTcGm6jP1gfAeTKS"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219330,
+      "name": "\u6700\u597d\u4e0d\u8981\u518d\u9047\u898b\u4f60",
+      "url": "https://open.spotify.com/track/7wnlzhLCxVmY56PkfsUD5u"
+    },
+    {
+      "album": {
+        "name": "\u6837\u5b50 (\u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246352,
+      "name": "\u6837\u5b50 - \u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n"
     },
     {
       "album": {
@@ -782,6 +858,24 @@
     },
     {
       "album": {
+        "name": "\u7ed9\u6211\u4ee5\u524d\u7ed9\u5979\u4ee5\u540e",
+        "url": "https://open.spotify.com/album/451rO75TAZbYkfFsAw4boG"
+      },
+      "artists": [
+        {
+          "name": "\u8d75\u4e43\u5409",
+          "url": "https://open.spotify.com/artist/3f4WIRKQFOQoKisLVwepp0"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "\u7ed9\u6211\u4ee5\u524d\u7ed9\u5979\u4ee5\u540e",
+      "url": "https://open.spotify.com/track/7zgFLEdABBgtU9RLMKo8qv"
+    },
+    {
+      "album": {
         "name": "\u8056\u8a95\u661f",
         "url": "https://open.spotify.com/album/0btE4CEOFvogF0mBkIvv9p"
       },
@@ -815,7 +909,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 134144,
       "name": "\u843d\u65e5\u4e0e\u4f60",
       "url": "https://open.spotify.com/track/5s6n8L6pQyFp5ieoeoqn1X"
@@ -840,6 +934,24 @@
     },
     {
       "album": {
+        "name": "\u8fd9\u662f\u4f60\u671f\u76fc\u7684\u957f\u5927\u5417",
+        "url": "https://open.spotify.com/album/4kVcOlVQGpR5ci478Y86Zv"
+      },
+      "artists": [
+        {
+          "name": "ZQS",
+          "url": "https://open.spotify.com/artist/6CvqU8itTtfpm1E8Pvez33"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u8fd9\u662f\u4f60\u671f\u76fc\u7684\u957f\u5927\u5417",
+      "url": "https://open.spotify.com/track/3AKYofM0vFekNthGbpjMpN"
+    },
+    {
+      "album": {
         "name": "\u90a3\u4e00\u523b (I'm with u)",
         "url": "https://open.spotify.com/album/0rEJH4ymo6LlLPeQVpazCr"
       },
@@ -855,7 +967,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 180731,
       "name": "\u90a3\u4e00\u523b (I'm with u)",
       "url": "https://open.spotify.com/track/7t0kBTuPrX4rhJZ7JT4jHp"

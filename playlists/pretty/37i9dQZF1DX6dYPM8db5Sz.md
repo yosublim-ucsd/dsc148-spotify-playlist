@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=0oRxTVcjTp6yilot\-NnRLQ">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,860 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,915 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Harder](https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU), [Mandi Lizamore](https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX) | [Harder](https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2) | 6:06 |
 | 50 | [White Collar Kings](https://open.spotify.com/track/7GH9I49Uz6fU3kqoB1jK2v) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Querencia](https://open.spotify.com/album/5WujsrVJKPjAL7UA9xvN8I) | 5:45 |
 
-Snapshot ID: `MCwzYjVkMjFhNjI4ZDg3N2MzZDZjMmI3NmI2M2NhMWZjYzRmY2Q0NTFj`
+Snapshot ID: `MCwzZjY1YjQ5NjZmMTQ3MDVmNWFhOTdiZTdiZGZjMmU2ZGRkYTZlNzky`

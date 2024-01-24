@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1225662,
+  "num_followers": 1225634,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2ViNjI2ZWE5MTNkNGZjOTdmMjBjMjExYWE5MzU3ZTgwYjcwYWUy",
+  "snapshot_id": "MCw2ZWNjZjdjZWE5Nzg0ODczNDNkNGRlNjJlZDhiNGNmOTQ0OGQ3YTQ1",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Their Satanic Majesties' Second Request",
         "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 334466,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Without a Sound",
-        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Jr.",
-          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Feel the Pain",
-      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "The Bela Session",
         "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Without a Sound",
+        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Feel the Pain",
+      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
     },
     {
       "added_at": "2023-03-14 21:51:39",

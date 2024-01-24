@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,815 likes - 336 songs - 19 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,989 likes - 336 songs - 19 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 30 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 |
 | 31 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 |
 | 32 | [You were saying...](https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [You were saying...](https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT) | 4:08 |
-| 33 | [Back In The Old Day](https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Back In The Old Days](https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG) | 3:58 |
+| 33 | [Back In The Old Days](https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Back In The Old Days](https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG) | 3:58 |
 | 34 | [Flying Over](https://open.spotify.com/track/6AbMGa9QQdqIKfcmSJhhTx) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Flying Over](https://open.spotify.com/album/27xdgaWX1Hs9bJlZawlXZw) | 2:58 |
 | 35 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 |
 | 36 | [Forever](https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Forever](https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4) | 3:07 |
@@ -345,4 +345,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 335 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 |
 | 336 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
 
-Snapshot ID: `MCwzYmQ1MjYyNWZhZmU5NmVmZWRlODA1ZWQxZjQ1MjIxOWQ0YjJkZTc5`
+Snapshot ID: `MCw0YmQ0MmIyZjgzNGU0MzMzYzhiYzc2MDhlM2I4NmMzOGZhNTY1YWE2`

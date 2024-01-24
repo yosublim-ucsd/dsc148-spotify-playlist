@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-120 songs - 9 hr 15 min
+122 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [光の旋律](https://open.spotify.com/track/42F3KCBi64pMYfNrMtN4n7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM) | 6:13 | 2022-02-28 | 2022-07-29 |
 | [光の旋律](https://open.spotify.com/track/4kGCEIEGq8R8k3PBGZHAMW) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF) | 6:13 | 2022-02-28 |  |
 | [光の旋律](https://open.spotify.com/track/4kapKtjdu0ILha72HkvMC6) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 6:13 | 2022-02-28 | 2022-11-14 |
+| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 |  |
 | [君がいた物語](https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:07 | 2022-02-28 |  |
 | [君が見た夢の物語](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [君が見た夢の物語](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 | 2022-02-28 |  |
 | [君の銀の庭](https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:06 | 2022-02-28 |  |
@@ -110,6 +111,7 @@
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-02-28 |  |
 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 | 2022-02-28 | 2023-06-18 |
 | [焔の扉](https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:52 | 2023-05-07 |  |
+| [燈命](https://open.spotify.com/track/1paCOr4yzLiNZin7yN2aiL) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:28 | 2024-01-23 |  |
 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2022-02-28 |  |
 | [瞳の欠片](https://open.spotify.com/track/6lXw65lNf1in1SmMB4OwjW) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『MADLAX』オープニングテーマ「瞳の欠片」](https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5) | 4:02 | 2022-02-28 |  |
 | [砂塵の彼方へ…](https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag) | [Revo & 梶浦由記](https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw) | [Dream Port](https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz) | 7:23 | 2022-02-28 |  |

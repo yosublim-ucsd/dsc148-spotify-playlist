@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 80626,
+  "num_followers": 80808,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGEzZDI2MTc2MjFkOTc0MTJjN2NlODBiNzNmNzEzNDhlMWQwZThj",
+  "snapshot_id": "MCw4YzIzODNkMDZmMTYyZTBkMjJlNDc5NjY1ZWRhYmJhZGJhODVmNjMz",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-12-01 18:29:06",
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Shame (with Elmiene)",
+      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+    },
+    {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
         "name": "Vem com tudo",
         "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 194026,
       "name": "Vem com tudo",
       "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
-    },
-    {
-      "added_at": "2023-12-01 18:29:06",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Shame (with Elmiene)",
-      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231240,
       "name": "What Comes Will Come",
       "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
     },
     {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
+      },
+      "artists": [
+        {
+          "name": "Insincere",
+          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
+        }
+      ],
+      "duration_ms": 165307,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
+    },
+    {
       "added_at": "2023-11-20 15:00:00",
       "album": {
         "name": "DICHOTOMY",
@@ -1559,22 +1575,6 @@
       "duration_ms": 135950,
       "name": "We Are The Ones - FC24 Version",
       "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-12-01 18:29:06",
-      "album": {
-        "name": "smile",
-        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
-      },
-      "artists": [
-        {
-          "name": "Insincere",
-          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
-        }
-      ],
-      "duration_ms": 165307,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Devaney",
-          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
-        }
-      ],
-      "duration_ms": 148674,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "The World\u2019s Biggest Paving Slab",
         "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 185471,
       "name": "The World's Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Devaney",
+          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+        }
+      ],
+      "duration_ms": 148674,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
     },
     {
       "added_at": "2023-11-20 15:00:00",

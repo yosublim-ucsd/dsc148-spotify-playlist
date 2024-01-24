@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 5937,
+  "num_followers": 5938,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2",
+  "snapshot_id": "MCw4NzYxMTY3MDA2ZDE3NWQ2MzVmMTk4ZjNhMDc4MDU0YzVhNmNlZGZj",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -551,26 +551,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+        "name": "The Holdovers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D"
       },
       "artists": [
         {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+          "name": "Mark Orton",
+          "url": "https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A"
         }
       ],
-      "duration_ms": 143925,
-      "name": "On the Town: Lonely Town. Pas de deux",
-      "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
+      "duration_ms": 279457,
+      "name": "See Ya / Into the Unknown",
+      "url": "https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP"
     }
   ],
   "unique_name": "Golden Globes",

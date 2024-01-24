@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 538859,
+  "num_followers": 538805,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE2NWJmMWQzODlhODQwN2ZlYTdhM2JkOGM2MGU0NGMzYmY5Yjg4",
+  "snapshot_id": "MCw0NjNkN2IwMDNkZTYzMDBmYzlkYjNhM2ZhNDI0NjYzZmQyMGUzN2M2",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -523,8 +523,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Ilion",
-        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
       "artists": [
         {
@@ -534,7 +534,7 @@
       ],
       "duration_ms": 668573,
       "name": "Ilion",
-      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Seven Thunders Roar",
         "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 961942,
       "name": "I'm the Mountain",
       "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
-      },
-      "artists": [
-        {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The No. 6 Dance",
         "url": "https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+      },
+      "artists": [
+        {
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Buffalo Fuzz",
         "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 325313,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Weavers' Weft",
-        "url": "https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX"
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
       "artists": [
         {
@@ -1414,7 +1414,7 @@
       ],
       "duration_ms": 581680,
       "name": "Weavers' Weft",
-      "url": "https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc"
+      "url": "https://open.spotify.com/track/4Lk6fVeblBXJavnPPpwf1E"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Fuzzsplit of the Century",
+        "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        },
+        {
+          "name": "Firestone",
+          "url": "https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Megalomania",
+      "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 312746,
       "name": "Lust Queen",
       "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Fuzzsplit of the Century",
-        "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        },
-        {
-          "name": "Firestone",
-          "url": "https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Megalomania",
-      "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
     },
     {
       "added_at": "2024-01-05 05:00:00",

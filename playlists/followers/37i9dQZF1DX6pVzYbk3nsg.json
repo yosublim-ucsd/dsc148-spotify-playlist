@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 4863,
+  "2024-01-24": 4877,
   "date_first_scraped": "2023-02-22",
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
   "name": "Bomba y Plena",
@@ -500,6 +500,24 @@
     },
     {
       "album": {
+        "name": "LA NOVIA NUEVA",
+        "url": "https://open.spotify.com/album/40zLbTGwHTcbdm7BmZpzCH"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "LA NOVIA NUEVA",
+      "url": "https://open.spotify.com/track/5Vtfkf7rTwelnekLAthIwu"
+    },
+    {
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw"
       },
@@ -601,7 +619,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 223853,
       "name": "Madame Calal\u00fa",
       "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"

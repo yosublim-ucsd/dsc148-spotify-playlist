@@ -1,9 +1,27 @@
 {
-  "2024-01-23": 875316,
+  "2024-01-24": 875074,
   "date_first_scraped": "2021-12-21",
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
   "name": "70s & 80s Acoustic",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2GV2b4WprLxGY16JS1Jt69"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/624s82aoWuxk0VPdchzOjn"
+    },
     {
       "album": {
         "name": "Tapestry",
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 207866,
       "name": "Personal Jesus - Acoustic",
       "url": "https://open.spotify.com/track/7JbHx1w8yllNESuyp9SYv3"

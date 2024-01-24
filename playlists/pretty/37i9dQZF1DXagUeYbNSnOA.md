@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Meth Math\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,747 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,686 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Fuck the Fuck](https://open.spotify.com/track/088UVwmj3NwBhJk7lzVVv2) | [Muto Tapes](https://open.spotify.com/artist/0ir6r0eL6bdFVWAAliLqSR) | [Fuck the Fuck](https://open.spotify.com/album/24jvJn6s82JBZaEf5BM7oT) | 2:25 |
 | 50 | [Flores Ardientes](https://open.spotify.com/track/5mqj7IIp28OzoyxKgSf5Ie) | [SUA](https://open.spotify.com/artist/0OZqJ1PE4eMJ5rqz5TPMaJ) | [Flores Ardientes](https://open.spotify.com/album/27FpGzVfanxcadOLFiSgMA) | 3:16 |
 
-Snapshot ID: `MCxlZGU2ZjJkM2ZlM2I1ZTYyN2RiNmMxZGE4NDlmN2IxMDE5MzFjYzJm`
+Snapshot ID: `MCxmOTlmYjJmMmZiOGE2Y2M3NDdjOTE3NmVhZmM0ZjRmYTE5NWZlMTFj`

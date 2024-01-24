@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,989 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,997 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [Dating The Devil](https://open.spotify.com/track/6Ke5dZvbqRmjTGCZEjFBqB) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Dating The Devil](https://open.spotify.com/album/6guX1X73FritPfc4b7Yi7d) | 3:00 |
 | 90 | [Colors](https://open.spotify.com/track/57kMazwADKCgm8A1mUEscs) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Colors](https://open.spotify.com/album/07JvTP3DeyJjDskgxgc2g1) | 2:46 |
 
-Snapshot ID: `MCw4ODFiNDU3MGQzNGYwNmYxMTE1NTgzNDlkNmI0ZTM1NjYyNTQwYzhk`
+Snapshot ID: `MCxiMjRiMmFmZmJlOTZmOTBjOWE5YWU4ZmVkODYzMTdiMmZkMWI2MjIw`

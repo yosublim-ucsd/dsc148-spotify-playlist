@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,297 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,325 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [estupefacientes](https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [estupefacientes](https://open.spotify.com/album/5tbHg9Ktqq5aYnsP5xUdO9) | 3:34 |
-| 2 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/2q8e4mdu5XQFBu30d3I3ry) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
+| 2 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
 | 3 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 |
 | 4 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 |
 | 5 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 100 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 
-Snapshot ID: `MCxhOGM5Yzc5MmIxOGNiYjMyN2JjNWZkMWEyNjFiYmU2YmUyNDRjZmM5`
+Snapshot ID: `MCw4NmM2ZmU5MGY1NTBjOWI3NDUyZTUxNmJkODVmMTE0YjlhYzg4MjBh`

@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 506306,
+  "2024-01-24": 506294,
   "date_first_scraped": "2022-09-25",
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
   "name": "This Is Bob Dylan",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 387733,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "Watching the River Flow",
       "url": "https://open.spotify.com/track/55FxZy3uzoCIxWR4zYZIjX"

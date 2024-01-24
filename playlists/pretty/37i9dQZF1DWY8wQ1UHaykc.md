@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,529 likes - 115 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,685 likes - 115 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 88 | [Tak Sanggup Lagi](https://open.spotify.com/track/759ZvLrnZ3Q7mEEivQPgrG) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [The Best Of Rossa](https://open.spotify.com/album/2w3xXab78mN8xhPEvAu91z) | 4:09 |
 | 89 | [I Heart You](https://open.spotify.com/track/78rsxJsbBtWtTcCwgJqoA3) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/7nnmhFkm8eqY4d8wAhhjom) | 3:20 |
 | 90 | [Karena Ku Sanggup](https://open.spotify.com/track/0YRkfp6SGt3Pd0cEtIOABg) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:45 |
-| 91 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman](https://open.spotify.com/artist/4uYdRFq2w5os8QjYXcFc7P), [Reza](https://open.spotify.com/artist/1sJd6xFTZg5Pbb125C4MrK), [David](https://open.spotify.com/artist/7lWeQXC5Y8S7FBi9k2eGFv), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 |
+| 91 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman NOAH](https://open.spotify.com/artist/7cqkPIDgCi7INzyMFzvB1w), [Reza NOAH](https://open.spotify.com/artist/3t8gr6iE3A2xnvkc249oRK), [David Noah](https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 |
 | 92 | [Mantan Terindah](https://open.spotify.com/track/0QgeFBoFwySkVnfR6ZWTAA) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Yang Ngehits 2000an](https://open.spotify.com/album/0wWk8fGY4MfjwHPc9exwpE) | 3:43 |
 | 93 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 |
 | 94 | [Wajahmu Mengalihkan Duniaku](https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:09 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 114 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 115 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2Hj56hnZ8aAFxxkh7HMfsE) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 3:26 |
 
-Snapshot ID: `MCxkNzJjYmExMmE0YjZlZGYyNDkyYTMzOThjMGRhNDAyYTI5YTJhYTMy`
+Snapshot ID: `MCw1N2NlMDE3OThkYTg4NzA3ODU5ZTY0MDRhNzY2ZDQ5YjIxODRmMmQz`

@@ -4,11 +4,12 @@
 
 > Great chilled house.
 
-346 songs - 17 hr 7 min
+349 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 | 2022-05-20 | 2022-07-01 |
+| [A Minute Walk](https://open.spotify.com/track/00zmd0PtkYxVaCXsvu6hVt) | [Nora Valt](https://open.spotify.com/artist/5EauIIqbRu486BNeQp6aOZ) | [A Minute Walk](https://open.spotify.com/album/45O8QBkFpKXPoAjDtKr2In) | 2:07 | 2024-01-23 |  |
 | [A Trip To](https://open.spotify.com/track/0j0sKaVNvGcGrjCLWJyONE) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [A Trip To](https://open.spotify.com/album/3MUmE3HbSddqX8oh5fi2Hf) | 3:22 | 2022-10-28 |  |
 | [Abelia](https://open.spotify.com/track/4VdWE85NqgTrCzxdBbWrVF) | [Milkweed](https://open.spotify.com/artist/57C636Jkd8eaZsGzRgWKLE) | [Abelia](https://open.spotify.com/album/6G43mdzXHVvGOnY6s8ELZP) | 2:29 | 2023-01-06 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-05-20 |  |
@@ -182,6 +183,7 @@
 | [Lipari](https://open.spotify.com/track/1d0XIRfBAwnyXxbyfhlFj3) | [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Lipari](https://open.spotify.com/album/7c4pPuVOCQ0MZZiEuc89up) | 3:41 | 2022-05-20 |  |
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-07-01 |  |
 | [Look Who Was Here](https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Look Who Was Here](https://open.spotify.com/album/2N8U54PjbL9J5RFbZ7pFCp) | 3:19 | 2023-01-06 |  |
+| [Lord](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi) | [Sogal](https://open.spotify.com/artist/2FWMikMPlHPCgrK6MZbJ0z) | [Lord](https://open.spotify.com/album/27k9sf4fXxHlL1GoVAXORB) | 2:29 | 2024-01-23 |  |
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-05-20 | 2023-08-05 |
 | [Lost On You](https://open.spotify.com/track/0ub3ajl1GFi4HPxwLqCKg2) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Lost On You](https://open.spotify.com/album/50cUqhpezlW1HxLWzlFCiI) | 2:27 | 2023-09-22 |  |
@@ -236,6 +238,7 @@
 | [Overthinking](https://open.spotify.com/track/6FbxHFeDTmmo5SQUM4UGVZ) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Overthinking](https://open.spotify.com/album/1xEYOnE0y8Oa90mhxUrGHS) | 2:45 | 2022-08-19 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2022-05-20 |  |
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2022-05-20 | 2023-01-07 |
+| [Palm](https://open.spotify.com/track/4HfNXRCqcg3IQs6nLeT5Sy) | [Odelot](https://open.spotify.com/artist/043oiM1Cq2fxfT8ofnyPXe) | [Palm](https://open.spotify.com/album/2vY4PFFkaNn75vnakvvNdI) | 2:43 | 2024-01-23 |  |
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2022-05-20 |  |
 | [Para Mi](https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Chill Executive Officer \(CEO\), Vol\. 20 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu) | 2:38 | 2022-09-02 |  |
 | [Patchouli](https://open.spotify.com/track/1RtcqmxaGZVHurFXgPgmgZ) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Patchouli](https://open.spotify.com/album/56NCbrtVLIBuHohC5As88t) | 2:20 | 2023-07-21 |  |

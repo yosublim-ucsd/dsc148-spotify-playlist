@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,944 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,970 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 | 4 | [You're the Top](https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You're the Top](https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29) | 4:08 |
 | 5 | [Greens](https://open.spotify.com/track/44uJEp8zyuz4TeRXt9epuV) | [Pierre de Bethmann Quartet](https://open.spotify.com/artist/6qskP7g7HZmx7yBc8kGHGt), [David El Malek](https://open.spotify.com/artist/358KFOPsRi9LHTzmeg84ZF) | [Credo](https://open.spotify.com/album/5N36dHKZgM0tnObEC3rkV4) | 7:23 |
-| 6 | [again again](https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [again, again](https://open.spotify.com/album/4SukI2v2HmHz4JD0pF35ZN) | 3:28 |
+| 6 | [again again](https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [again again](https://open.spotify.com/album/4SukI2v2HmHz4JD0pF35ZN) | 3:28 |
 | 7 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 8 | [Massamba Afundance](https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Massamba Afundance](https://open.spotify.com/album/6bqrt2uydI0J3aeJrqptbL) | 3:02 |
 | 9 | [Reach Out I'll Be There](https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Reach Out I'll Be There](https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 50 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
 
-Snapshot ID: `MCw2ZGNmZjM1MzVhOTcxMDBhM2IwODc5OGFlNzRlNWJlYjBjOGEzYTg1`
+Snapshot ID: `MCwyZDgyMDRiMDNlNjA4N2Y2ZjNkNmZhZDQxNGU3OGVlZmYyNWQyNmNi`

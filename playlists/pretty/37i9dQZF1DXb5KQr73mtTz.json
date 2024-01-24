@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17416,
+  "num_followers": 17418,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2I5MDcxMDZlOGY4YTAyZTdiOGVkMjg4ZWIxNDQ4NzFlZjIxMjM3",
+  "snapshot_id": "MCw1NDBlYTQ5OTY4NmY4OTBhZGNlYmI4N2Q2M2U1MmI2NDU1ZWZjMTFj",
   "tracks": [
     {
       "added_at": "2023-11-03 06:22:09",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "one summer",
-        "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 239692,
-      "name": "one summer",
-      "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "one summer",
+        "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 239692,
+      "name": "one summer",
+      "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "O",
+        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 217040,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Without U",
-      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-11-03 06:22:09",

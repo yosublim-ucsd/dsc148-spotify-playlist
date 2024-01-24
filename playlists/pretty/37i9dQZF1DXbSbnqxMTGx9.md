@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,839,184 likes - 250 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,838,172 likes - 250 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,10 +139,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 129 | [Girlie Girlie](https://open.spotify.com/track/6rbqfol1CfDGWiv5gvj5pn) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Girlie Girlie \- The Best of Sophia George](https://open.spotify.com/album/3chHospOsPf6xrbAmgFn6l) | 3:06 |
 | 130 | [To Be Young Gifted and Black](https://open.spotify.com/track/7GH08yfGT4cZx9HTSoPW8q) | [Bob & Marcia](https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ) | [Young, Gifted & Black](https://open.spotify.com/album/0Vzuuk08qIyyAb8LQPQFRe) | 3:08 |
 | 131 | [Think About That](https://open.spotify.com/track/5QPX5lTR5oodlGkBRsfdYp) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:52 |
-| 132 | [This Monday Morning Feeling](https://open.spotify.com/track/5T1OzO9SUcmCnz3xibdTQG) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:16 |
+| 132 | [This Monday Morning Feeling](https://open.spotify.com/track/2NNsgxm81UMtbIOtBK4vyu) | [Tito Simon](https://open.spotify.com/artist/7JZMp0snEYYOcYSHd2lkz5) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:17 |
 | 133 | [Reggae Merengue](https://open.spotify.com/track/2nYvF5Dc4rqdR8JzWAOYmY) | [Tommy McCook & The Supersonics](https://open.spotify.com/artist/5xzlboNkAVZ2xS14qfGBv2) | [Gay Jamaica Independence Time \(Expanded Version\)](https://open.spotify.com/album/3zwV3Rm18Nf5QuJr2OlxB5) | 2:14 |
 | 134 | [Montego Bay](https://open.spotify.com/track/0m4Yn98gCvF65e819i9DXF) | [Freddie Notes](https://open.spotify.com/artist/6J4qfWR8Giq0erqoEyICug), [The Rudies](https://open.spotify.com/artist/0Wqv0dIaMD5nWWiJuj7bIP) | [Black and White: The Best of Greyhound](https://open.spotify.com/album/2p3CA9buNw92L0gR7z3ISc) | 2:24 |
-| 135 | [Snoopy Vs the Red Baron](https://open.spotify.com/track/5m0SN0LMWS9ip0pJNNhi8l) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 3:08 |
+| 135 | [Snoopy Versus the Red Baron](https://open.spotify.com/track/57CGdod2ydkE0DEAXP1wWJ) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:10 |
 | 136 | [I Am What I Am](https://open.spotify.com/track/2tryECearyb7IhKsF4jX9Q) | [Greyhound](https://open.spotify.com/artist/24m8te3cM8e8cSABOrakXG) | [Black and White: The Best of Greyhound](https://open.spotify.com/album/2p3CA9buNw92L0gR7z3ISc) | 2:46 |
 | 137 | [Ire Feelings \(Leggo Skanga\)](https://open.spotify.com/track/04tcBWxZTDPNVjhcG07bmA) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 2:49 |
 | 138 | [OK Fred](https://open.spotify.com/track/5wcEinYgeVMya5D7JqiFei) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:52 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/7xDi25m7Kcc9rPs7zMA2zN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/0l8YHHDWRH6dPBpp0V0sYb) | 3:44 |
 | 250 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 
-Snapshot ID: `MCxlNGI2MzM2YjlhYTFiNGM5ZWVkNzU4YjI1ZDAxMzViODk3NjlmYzc3`
+Snapshot ID: `MCw4NmRiM2QzZjgxMzI5M2ZhZWVjZmZmMmI4ZjZkNzZjNWU0ODRhY2Rm`

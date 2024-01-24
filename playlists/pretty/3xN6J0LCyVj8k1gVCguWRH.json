@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NzExMSw4NWEyOTU1ZTAyYzY2ZTk2NTRiZWE2MGE5NTBhZTE5YTFhNTBhMzRi",
+  "snapshot_id": "NzExOSxmZWU1ZmNhMWJhMzcxZDhjNDJjZTg1NjA4MWUwMWYyMzExNjNkNDUy",
   "tracks": [
     {
       "added_at": "2023-12-29 15:33:48",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/5daNK6VX2ejilbwpwl8RAe"
     },
     {
+      "added_at": "2024-01-23 18:01:33",
+      "album": {
+        "name": "living in the 90s",
+        "url": "https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD"
+      },
+      "artists": [
+        {
+          "name": "tiger del flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "living in the 90s",
+      "url": "https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER"
+    },
+    {
       "added_at": "2024-01-19 14:18:27",
       "album": {
         "name": "Serena",
@@ -629,22 +645,6 @@
       "url": "https://open.spotify.com/track/4PSnMDe4sw13Xnrz5I7BNu"
     },
     {
-      "added_at": "2024-01-12 13:45:08",
-      "album": {
-        "name": "Me & My Mania",
-        "url": "https://open.spotify.com/album/5ELfk1FeOkLqdwEyB4ohbh"
-      },
-      "artists": [
-        {
-          "name": "Brooke Daye",
-          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
-        }
-      ],
-      "duration_ms": 155378,
-      "name": "Me & My Mania",
-      "url": "https://open.spotify.com/track/38qGwj60d17R6ND1H7vMju"
-    },
-    {
       "added_at": "2024-01-13 16:38:55",
       "album": {
         "name": "Past the Point",
@@ -703,22 +703,6 @@
       "duration_ms": 172477,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/4FFKaxX2B2vjinQQXiYTK6"
-    },
-    {
-      "added_at": "2024-01-12 14:24:57",
-      "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/3yuSnytQB4z7MnFEILvvQC"
-      },
-      "artists": [
-        {
-          "name": "New Sex Machine",
-          "url": "https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/5MkDOoJYGxrw3zoezAVUQK"
     },
     {
       "added_at": "2023-07-20 21:11:20",
@@ -3017,38 +3001,6 @@
       "url": "https://open.spotify.com/track/17jWwHu2PlAR52RuipBVLr"
     },
     {
-      "added_at": "2024-01-16 20:33:55",
-      "album": {
-        "name": "Eternal Life",
-        "url": "https://open.spotify.com/album/48TcvZvtOlwXYfpPhLkaoT"
-      },
-      "artists": [
-        {
-          "name": "Laptop Singers",
-          "url": "https://open.spotify.com/artist/2PBpgSfV69qW5sKrLHcF5W"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "So Lucky",
-      "url": "https://open.spotify.com/track/7g2Zc9YVwVX6mME8gmBv1t"
-    },
-    {
-      "added_at": "2024-01-16 09:26:39",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/29QFAzXWaVoBE5KMKIuQqT"
-      },
-      "artists": [
-        {
-          "name": "51st Avenue",
-          "url": "https://open.spotify.com/artist/1lx0CFJ4qkU2ehJ4WwQSdF"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/2M6sXJs5fatXCxxDWS22zB"
-    },
-    {
       "added_at": "2024-01-17 20:08:28",
       "album": {
         "name": "All My Heroes Get High",
@@ -3135,6 +3087,26 @@
       "duration_ms": 170542,
       "name": "Jaja",
       "url": "https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD"
+    },
+    {
+      "added_at": "2024-01-23 20:31:02",
+      "album": {
+        "name": "Grammy",
+        "url": "https://open.spotify.com/album/4Rtpi65v3AoYiY1nHMKbKV"
+      },
+      "artists": [
+        {
+          "name": "Dya",
+          "url": "https://open.spotify.com/artist/1jVsPzjW6IcCCUCw2gFFfA"
+        },
+        {
+          "name": "Janza",
+          "url": "https://open.spotify.com/artist/20h3TR1YlS0eeqKW2OQPrj"
+        }
+      ],
+      "duration_ms": 145365,
+      "name": "Grammy",
+      "url": "https://open.spotify.com/track/4KCYM4d8iEe1ttO4y5NYh0"
     },
     {
       "added_at": "2024-01-17 20:07:27",

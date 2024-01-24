@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 84 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,730 likes - 84 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 83 | [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 |
 | 84 | [as it should be](https://open.spotify.com/track/5yL2yJczalyRCDSeasbUrS) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [as it should be](https://open.spotify.com/album/3i0P0bvMEd3C4tzJDxVkkh) | 4:18 |
 
-Snapshot ID: `MCxmNDdjOGI2ZDMwMTE0MDk1NTNlYjVkNjVkYmI1Y2U4YzIyOGUzNTE5`
+Snapshot ID: `MCxjZTYxY2Y3NjJhMGZmZGE1ZGI1Zjk1YzAyM2MzZjQ0MTMyZmViNjIz`

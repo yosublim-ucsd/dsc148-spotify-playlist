@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-406 songs - 20 hr 28 min
+411 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 | 2022-06-17 | 2023-10-03 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-04-05 |  |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
+| [Case](https://open.spotify.com/track/6MslE26xADXyx7CSCBUbUF) | [Ellives](https://open.spotify.com/artist/2CoA1WpKkhxdQuiawOH2M5) | [Case](https://open.spotify.com/album/0P4GYnEHkKS52G8V1TmUG7) | 2:37 | 2024-01-23 |  |
 | [Cassette Tape](https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Cassette Tape](https://open.spotify.com/album/0xysheVNUl2zt3wib4ksKh) | 3:32 | 2023-03-03 | 2023-06-24 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-04-05 |  |
 | [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 | 2022-07-29 |
@@ -82,6 +83,7 @@
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 | 2023-06-03 |
+| [Daily](https://open.spotify.com/track/2Kp6yhzCBkFmWR6WCvBs2H) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Daily](https://open.spotify.com/album/1UyoJaW9guhRCkdHzJ7leI) | 2:06 | 2024-01-23 |  |
 | [Dance The Occasion](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Dance The Occasion](https://open.spotify.com/album/2FzVH5Ej9lHSJOzC0vs5qZ) | 3:11 | 2023-01-20 |  |
 | [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 | 2022-10-14 | 2023-09-02 |
 | [Day in the Sun](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Day in the Sun](https://open.spotify.com/album/0E1uImHFbIBHhGIaDGGO9g) | 2:53 | 2023-08-25 |  |
@@ -93,6 +95,7 @@
 | [Disparate Vibes](https://open.spotify.com/track/5yqk6ppoMmuXWtWrzBNL9t) | [Malacca](https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX) | [Disparate Vibes](https://open.spotify.com/album/1SJiT6rCcQKmAPFhP07RZl) | 3:18 | 2022-10-07 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-04-05 |  |
 | [Don't Need To Worry](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s) | [Simple Jim](https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0) | [Don't Need To Worry](https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah) | 2:10 | 2023-04-14 |  |
+| [Don't Stop](https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q) | [Ogiv](https://open.spotify.com/artist/6eBnuZ3lPeKDSPjGRdjQc9) | [Don't Stop](https://open.spotify.com/album/1MxDM1ymQdrn9IqRU3m79M) | 2:08 | 2024-01-23 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-05 | 2022-07-01 |
 | [Dream Of You](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Dream Of You](https://open.spotify.com/album/261Z2xiEZ3qCBqmEVOA5ok) | 2:26 | 2022-04-05 |  |
 | [Dumpstafunk](https://open.spotify.com/track/0SIfHUNxYlNOBuNLWInzFJ) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Team Regular](https://open.spotify.com/album/0O5GhhKDzL2npVvTFPeM6w) | 2:43 | 2022-12-09 |  |
@@ -139,6 +142,7 @@
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2022-04-05 | 2023-09-02 |
 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 | 2023-02-24 |  |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2022-04-05 |  |
+| [Freefall](https://open.spotify.com/track/70jLx2QvLoHz4xrQwJA282) | [Terminal Grooves](https://open.spotify.com/artist/0TbDCdm68D1QjlairLPiTE) | [Freefall](https://open.spotify.com/album/1nv2h0fx29X2XqAU5orRuK) | 2:24 | 2024-01-23 |  |
 | [Freeze Frame](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Freeze Frame](https://open.spotify.com/album/70vK7Xzq5uyhENPHo78qbH) | 3:05 | 2023-06-02 |  |
 | [From the Heart](https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [From the Heart](https://open.spotify.com/album/1JH584zwgeLYauEmsPRt2f) | 3:32 | 2022-07-29 |  |
 | [Generate!](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Generate!](https://open.spotify.com/album/4hhL13mgv1K8L1ApSndOIa) | 2:37 | 2023-04-21 |  |
@@ -207,6 +211,7 @@
 | [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 | 2022-10-28 |  |
 | [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 | 2022-10-14 |  |
 | [Long Time No See](https://open.spotify.com/track/4am2IwoKTQxH1yiHQWDbBF) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Long Time No See](https://open.spotify.com/album/5W9lOAVWxcyxbxi2nSX0Qv) | 3:36 | 2022-09-23 |  |
+| [Lord](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi) | [Sogal](https://open.spotify.com/artist/2FWMikMPlHPCgrK6MZbJ0z) | [Lord](https://open.spotify.com/album/27k9sf4fXxHlL1GoVAXORB) | 2:29 | 2024-01-23 |  |
 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 | 2023-08-25 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 | 2022-05-13 |  |

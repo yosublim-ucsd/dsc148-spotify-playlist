@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-753 songs - 1 day 18 hr 40 min
+756 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2021-11-08 | 2023-07-29 |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-08 |  |
 | [Blue Lagoon](https://open.spotify.com/track/4D2Es54UxjwYiIxVk4wqTm) | [2GO](https://open.spotify.com/artist/4sYcQIGHFdEjSswfZiwPJK) | [Blue Lagoon](https://open.spotify.com/album/28LOep1LS2XmoPH9RRD5U9) | 2:41 | 2022-10-28 |  |
+| [Blue Lagoon](https://open.spotify.com/track/2mpy5N86A2YZDhiUvY1OGP) | [Undefined Space](https://open.spotify.com/artist/4tvalX4nEpCqTBOyUR3U19) | [Blue Lagoon](https://open.spotify.com/album/4YNQ7SeDU0W7GfSzlrR2Wa) | 2:49 | 2024-01-23 |  |
 | [Blue Line](https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Blue Line](https://open.spotify.com/album/02d2XLNUOQ4MGoEVDGKF72) | 3:43 | 2021-11-08 |  |
 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 | 2022-12-09 |  |
 | [blue smoke](https://open.spotify.com/track/3fej3RGRDMfbs1i1RWzuKA) | [stream\_error](https://open.spotify.com/artist/3AHKvfq0OPpGwaZTh8ouuH), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [blue smoke](https://open.spotify.com/album/5RKSM1b0PcI3moi2cti5L1) | 1:43 | 2020-04-03\* | 2020-07-22 |
@@ -515,6 +516,7 @@
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-02 | 2023-01-20 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2021-09-22 |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2021-04-21 | 2021-09-22 |
+| [Purple Sand](https://open.spotify.com/track/3eBpMMIXBTUji8SEbhlTnJ) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [Purple Sand](https://open.spotify.com/album/51bBM5VyrgBi9yzMWRQTlu) | 2:11 | 2024-01-23 |  |
 | [Puzzles](https://open.spotify.com/track/6e726bx26LWxCR2XQLnM6i) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Puzzles](https://open.spotify.com/album/5f6vDyKnh2izBLIvY9yYrw) | 1:58 | 2023-05-05 | 2023-07-29 |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2020-11-27 | 2021-03-25 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2021-04-15 | 2022-09-23 |
@@ -617,6 +619,7 @@
 | [Some Like It Hot](https://open.spotify.com/track/7sud5rRJp7QOLsWyZXmF9T) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Keep It Chill](https://open.spotify.com/album/5cyotxqSzrwck7zLt1ZyqK) | 2:37 | 2023-02-17 |  |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2021-04-15 | 2022-09-23 |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2020-04-03\* | 2021-03-18 |
+| [Soul Balance](https://open.spotify.com/track/5jRdhhDJ6rahAxtPI8CYrU) | [Major Mirror](https://open.spotify.com/artist/4TJKZfkv0XFP29x1TVBSny) | [Soul Balance](https://open.spotify.com/album/585lWip1w8XUC8WU2AVIjv) | 2:39 | 2024-01-23 |  |
 | [Soul Spectral](https://open.spotify.com/track/4NSAXuEw0kwuwvCG89L4hi) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Greg Paulus](https://open.spotify.com/artist/0DRjf5CVRpPpDSjHSdRAM3) | [Soul Spectral EP](https://open.spotify.com/album/4URtVxo78Lf8RjBmWkAVyS) | 6:00 | 2021-03-18 | 2021-08-20 |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2021-01-05 | 2022-06-24 |
 | [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 | 2021-04-29 | 2021-09-22 |

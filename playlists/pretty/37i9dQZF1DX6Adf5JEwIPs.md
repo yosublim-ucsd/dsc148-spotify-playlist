@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Pesado
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,700 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,334 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [El Gran Maestro \- En Vivo](https://open.spotify.com/track/6VijwFwPp8GDC00pu73UkV) | [Decreto Norte](https://open.spotify.com/artist/79bfkbqxUxu8vi6i4p9loS) | [Puras Que Nos Gustan Vol\. 2](https://open.spotify.com/album/3IYV1xJk0yrKrvsTMY73MT) | 2:25 |
 | 33 | [El Gavilán Colorado](https://open.spotify.com/track/2JefU8wGoyQTsIRzeHsXZz) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [El Gavilán Colorado](https://open.spotify.com/album/13CqOrMakhxOSOLR8Oksqy) | 2:33 |
 | 34 | [Pretender](https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pretender](https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho) | 3:33 |
-| 35 | [Luna](https://open.spotify.com/track/6iSuzYQDndLZFSD4ZEcFlX) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [Luna](https://open.spotify.com/album/2AI5d17T0VhcCipPL8pgY7) | 3:15 |
+| 35 | [Luna](https://open.spotify.com/track/6iSuzYQDndLZFSD4ZEcFlX) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [Luna](https://open.spotify.com/album/2AI5d17T0VhcCipPL8pgY7) | 3:16 |
 | 36 | [Quiero Decirte Que Te Amo](https://open.spotify.com/track/2l6eC3vq84kjH84J9fTsj9) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [Quiero Decirte Que Te Amo](https://open.spotify.com/album/5gJXHX6LzFFlFpewqOzu4x) | 3:14 |
 | 37 | [Deseo](https://open.spotify.com/track/581oW5G19JncBBETLgTZaJ) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh) | [Deseo](https://open.spotify.com/album/3OhQmRMy9uH4pKXTZaE0BT) | 3:14 |
 | 38 | [Corta Edad](https://open.spotify.com/track/7I3tuxwicI3JdvtoQuz9pt) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Corta Edad](https://open.spotify.com/album/5DvLMFfJGoyaGfVms2X1GH) | 2:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 51 | [Porqué No Le Dices](https://open.spotify.com/track/3sjYYiN6ZqlEDffsogmnSc) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Porqué No le Dices](https://open.spotify.com/album/7134eOCyvXpXG7xlDjPPqz) | 4:00 |
 
-Snapshot ID: `MCw3MGU5YmQwODc0NmE5MjhmNTk0ZTM1ZGExOWY2YTQ1YmQxYjgwM2Rk`
+Snapshot ID: `MCw3NzdlODU0MDhlNDliNDM4YjViOTJiMzVjNzcyNjhlNmRhNGZlODE3`

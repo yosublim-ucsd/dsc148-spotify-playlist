@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 
 > Listen to all her biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625,693 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625,726 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 32 | [John Wayne](https://open.spotify.com/track/1vwTGFOq34pA2d0VUikL3W) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 2:54 |
 | 33 | [Venus](https://open.spotify.com/track/3n3S5cH3IyaOswY2XSUGTS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:53 |
 | 34 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
-| 35 | [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 |
+| 35 | [](https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 0:00 |
 | 36 | [A\-YO](https://open.spotify.com/track/4aea4osXbQHKgeOwZGzgEV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 |
 | 37 | [Dancin' In Circles](https://open.spotify.com/track/73nUaV6tDyvCiBZKhAR7kL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 |
 | 38 | [So Happy I Could Die](https://open.spotify.com/track/4MfBFhIBXrmqrczjYqasLp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 49 | [Cheek To Cheek](https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:50 |
 | 50 | [Anything Goes](https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:03 |
 
-Snapshot ID: `MCw0MzUwOTc3ZjY5YTAxNmFiM2FkN2UwNTcxY2QxY2E0NmU5MWNkYWJh`
+Snapshot ID: `MCwyY2Y2ZGU4Y2Q0NjVmMzhjNGM3YjIzNGJmMmUyYTc1MTZiMDUyYjE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,445 likes - 35 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,462 likes - 35 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 34 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 |
 | 35 | [Lose You Tonight](https://open.spotify.com/track/6PILotmKgyucOyFV5iJJZ2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Lose You Tonight](https://open.spotify.com/album/6gj3a9h0C4E0Kqx5kXAMdV) | 2:25 |
 
-Snapshot ID: `MCxjOWVmYmE0MmJlZDg0N2E5N2U4MmRjYzhiYjRmMTJmN2M0MWM2MTZl`
+Snapshot ID: `MCxkYWZjMDE4MmRlNGJlNDE3NTFjYmU1MWVmZDU1ZGRlZTExNzhmZDNk`

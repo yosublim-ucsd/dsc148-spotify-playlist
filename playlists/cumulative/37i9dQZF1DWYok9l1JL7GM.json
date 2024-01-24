@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Layin' Da Smack Down (Explicit Version)",
+        "url": "https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "Choose U",
+      "url": "https://open.spotify.com/track/0kCZ2X6kIXZ5zRMrPx8Usx"
+    },
+    {
+      "album": {
         "name": "The Chronicles, Vol. 1 (10th Year Anniversary Edition) ['98-'08]",
         "url": "https://open.spotify.com/album/3pNSTBg8qEoJIRgjKxccYt"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"

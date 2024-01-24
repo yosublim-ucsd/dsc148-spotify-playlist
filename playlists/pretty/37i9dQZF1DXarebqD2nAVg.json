@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445532,
+  "num_followers": 445512,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2NlOGQ3YjQwYTY5MjBiNjIyZDk0ODdhZDFlMWQ1OTIyYjE1MTgx",
+  "snapshot_id": "MCw2NzkzNzBhMmEyN2M3YWMwZDJjNmI2ZWU5Y2U1YjEzZTM3Y2I4MzQ4",
   "tracks": [
     {
       "added_at": "2024-01-18 13:12:41",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
-      },
-      "artists": [
-        {
-          "name": "vibesment",
-          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
-        }
-      ],
-      "duration_ms": 137580,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "fingerlock",
         "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 126500,
       "name": "fingerlock",
       "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
+      },
+      "artists": [
+        {
+          "name": "vibesment",
+          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+        }
+      ],
+      "duration_ms": 137580,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Corals",
-        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Free Trees",
         "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 150857,
       "name": "Free Trees",
       "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
+        "name": "No I'm Not",
+        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+      },
+      "artists": [
+        {
+          "name": "Imfinenow",
+          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+        }
+      ],
+      "duration_ms": 117196,
+      "name": "No I'm Not",
+      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
-        "name": "No I'm Not",
-        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
-      },
-      "artists": [
-        {
-          "name": "Imfinenow",
-          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
-        }
-      ],
-      "duration_ms": 117196,
-      "name": "No I'm Not",
-      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
-      },
-      "artists": [
-        {
-          "name": "Ok2222",
-          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Hold on, Pt. 2",
-      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Soft Life",
         "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 132260,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
+      },
+      "artists": [
+        {
+          "name": "Ok2222",
+          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Hold on, Pt. 2",
+      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
     },
     {
       "added_at": "2024-01-18 13:12:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-18 13:12:41",
       "album": {
-        "name": "Home Soon",
-        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
-      },
-      "artists": [
-        {
-          "name": "yuzu blur",
-          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Home Soon",
-      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
-    },
-    {
-      "added_at": "2024-01-18 13:12:41",
-      "album": {
         "name": "Stay In Bed",
         "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 124821,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2024-01-18 13:12:41",
+      "album": {
+        "name": "Home Soon",
+        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
+      },
+      "artists": [
+        {
+          "name": "yuzu blur",
+          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Home Soon",
+      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
     },
     {
       "added_at": "2024-01-18 13:12:41",

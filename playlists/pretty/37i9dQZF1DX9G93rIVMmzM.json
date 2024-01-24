@@ -1,12 +1,12 @@
 {
   "description": "for the baddies",
-  "num_followers": 87541,
+  "num_followers": 88199,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWFmY2MxYjY4M2IyMDNjOTU0NWMwNzI4YzAyNGE0OWU2MWU0YmQw",
+  "snapshot_id": "MCwwNTY4NmQzYWY2ZTBjMjA2YjI0ZjA0MzIxODRlOTZmMmU0OTZiZDJl",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Gaunt",
-        "url": "https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs"
-      },
-      "artists": [
-        {
-          "name": "Deijuvhs",
-          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
-        }
-      ],
-      "duration_ms": 209097,
-      "name": "Gaunt",
-      "url": "https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Far Removed",
         "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 231424,
       "name": "Nervous Habits",
       "url": "https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "This Place Will Become Your Tomb",
+        "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Alkaline",
+      "url": "https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -619,34 +619,34 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "\u2020\u2020\u2020 (Crosses)",
-        "url": "https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 208714,
-      "name": "Bitches Brew",
-      "url": "https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla"
+      "duration_ms": 227477,
+      "name": "Sun Killer",
+      "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil"
     },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+        "name": "A Loner",
+        "url": "https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Hangman's Chair",
+          "url": "https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
+      "duration_ms": 309293,
+      "name": "Cold & Distant",
+      "url": "https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -663,6 +663,22 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "This Place Will Become Your Tomb",
-        "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Alkaline",
-      "url": "https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -747,114 +747,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+        "name": "\u2020\u2020\u2020 (Crosses)",
+        "url": "https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
         }
       ],
-      "duration_ms": 227477,
-      "name": "Sun Killer",
-      "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "CCTV",
-        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 161171,
-      "name": "Bite Marks",
-      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "The Dark Pool",
-        "url": "https://open.spotify.com/album/2OZMqW5rQr6zUG06ZwfR6L"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Where We Go When We Die",
-      "url": "https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Blood on the Sheets",
-        "url": "https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Blood on the Sheets",
-      "url": "https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "A Loner",
-        "url": "https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy"
-      },
-      "artists": [
-        {
-          "name": "Hangman's Chair",
-          "url": "https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi"
-        }
-      ],
-      "duration_ms": 309293,
-      "name": "Cold & Distant",
-      "url": "https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Slumbernumb",
-        "url": "https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 189753,
-      "name": "Slumbernumb",
-      "url": "https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G"
+      "duration_ms": 208714,
+      "name": "Bitches Brew",
+      "url": "https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -887,6 +791,102 @@
       "duration_ms": 230980,
       "name": "Blur Into One",
       "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 161171,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
+      "added_at": "2024-01-23 17:54:08",
+      "album": {
+        "name": "girls like drugs",
+        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 174434,
+      "name": "girls like drugs",
+      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Blood on the Sheets",
+        "url": "https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Blood on the Sheets",
+      "url": "https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "The Dark Pool",
+        "url": "https://open.spotify.com/album/2OZMqW5rQr6zUG06ZwfR6L"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Where We Go When We Die",
+      "url": "https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Slumbernumb",
+        "url": "https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "duration_ms": 189753,
+      "name": "Slumbernumb",
+      "url": "https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Gaunt",
+        "url": "https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "duration_ms": 209097,
+      "name": "Gaunt",
+      "url": "https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9"
     }
   ],
   "unique_name": "ALLURE",

@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 812718,
+  "2024-01-24": 812360,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -527,7 +527,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 179000,
       "name": "Allium",
       "url": "https://open.spotify.com/track/2YKFsGvXC5HvqKFfv8ECi3"
@@ -5491,7 +5491,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -6753,6 +6753,32 @@
       "duration_ms": 192000,
       "name": "Hold Onto This",
       "url": "https://open.spotify.com/track/6sdKjx7vqR50AY7KdVuK35"
+    },
+    {
+      "album": {
+        "name": "Hold The Fire",
+        "url": "https://open.spotify.com/album/48WSTZKLh8BBVlBhpkcTMI"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        },
+        {
+          "name": "L\u00dcRUM",
+          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
+        },
+        {
+          "name": "LYCA",
+          "url": "https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202968,
+      "name": "Hold The Fire",
+      "url": "https://open.spotify.com/track/0DeGeGnm9UROede4gt6hLy"
     },
     {
       "album": {
@@ -8291,7 +8317,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"

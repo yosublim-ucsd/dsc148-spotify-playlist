@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,236 likes - 180 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,229 likes - 180 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 107 | [Competition](https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Competition](https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn) | 3:20 |
 | 108 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 |
 | 109 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 |
-| 110 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 110 | [All Along \- Kaytranada Remix](https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg) | 4:44 |
 | 111 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 | 112 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
 | 113 | [Tell Nobody](https://open.spotify.com/track/0QmsZHM9Pq98NB3IU9iQl8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Tell Nobody](https://open.spotify.com/album/67qo0exWX8kCr2vnqPnp7d) | 1:43 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 179 | [May \(Late Night Version\)](https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Sterke Atleet](https://open.spotify.com/artist/4byoowp8keg9sWSNaOfjOB) | [May \(Late Night Version\)](https://open.spotify.com/album/0zcPycXAwlLj3B1jJrsHQ4) | 3:07 |
 | 180 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 |
 
-Snapshot ID: `MCxhY2E3Zjk1ZjcwOTg2M2VjNGI5MGNjNDljMmZiMjRmMWE3MzEwM2Ex`
+Snapshot ID: `MCxkNTY2Y2NiZGNmOTYyYzhiZTcxOWNkYTgyNGM1YmEzZjcxNGZmNDFl`

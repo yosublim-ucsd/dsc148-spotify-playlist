@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,095 likes - 107 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,094 likes - 107 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 7 | [Perfekt](https://open.spotify.com/track/52eNv1AyW388H4IXYChmta) | [Mimiks](https://open.spotify.com/artist/4Bg4oUbN39ECtRSb4xRSFw), [LCone](https://open.spotify.com/artist/10fua9lLREs5JISPcCyyJn) | [Loser mit Fame](https://open.spotify.com/album/3MtNKz3ontU34Fw68tap7u) | 2:59 |
 | 8 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
 | 9 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 |
-| 10 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
+| 10 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
 | 11 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 |
 | 12 | [Love de toi](https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:22 |
 | 13 | [Toxisch](https://open.spotify.com/track/2gIeMtSNmgSZzfZOUdEZ71) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Toxisch](https://open.spotify.com/album/6bgO2OMST2IAMUK1fTwFs8) | 2:50 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Desaster](https://open.spotify.com/track/6f6yX7lrI5v8RYwRlIACrO) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Beko101](https://open.spotify.com/artist/5TZCyHGuv4RuDILMG72k53), [Teuterekordz](https://open.spotify.com/artist/0dKNwVc2gaxqvpAl2Hy5Ic) | [Desaster](https://open.spotify.com/album/1g9mFIqMwOTNpm08foPJnv) | 3:06 |
 | 107 | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/track/2ONW7LwTEMUP3A8SnfyI51) | [Georg Auf Lieder](https://open.spotify.com/artist/5hXV2QeBwQNt2sgRxHyXJC) | [35 Jahre und kein Führerschein \(ÖPNV Forever\)](https://open.spotify.com/album/7il0SctFrvS0B7hXIjzRZV) | 2:35 |
 
-Snapshot ID: `MCw5MThjZmI4YzZiYjg3Y2M2ODg3YzY2ZTg4MDU2OTgxZTBkMTE4NGQy`
+Snapshot ID: `MCxhMThkNGNkN2YwNDQ2MTUzMWRkMThlNjFjMzRiMWI4OWE3OTAwMWJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: NÂN
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,448 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,451 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:48 |
 | 3 | [Nơi Có Chúng Ta](https://open.spotify.com/track/6t5iuTRg9MCMeaMe8B3dBU) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Nơi Có Chúng Ta](https://open.spotify.com/album/5894tk8IeDrraA1d8FhRQI) | 3:56 |
 | 4 | [Let's Stay in Love](https://open.spotify.com/track/0oPkFCHGHtJsDlbNV6XkqW) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Let's Stay in Love](https://open.spotify.com/album/3yesQR4F7V8GselWYvHHRV) | 4:08 |
-| 5 | [ẾCH NGỒI ĐÁY GIẾNG](https://open.spotify.com/track/3vJz6A6xfiGwjC4xKoRoUP) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Maiki](https://open.spotify.com/artist/57WeoKhfgxj1pX9tH93w4N) | [XT\-TX](https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo) | 3:16 |
+| 5 | [ẾCH NGỒI ĐÁY GIẾNG](https://open.spotify.com/track/3vJz6A6xfiGwjC4xKoRoUP) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [maiki](https://open.spotify.com/artist/4XrL4M8qhP14zpdqfb5F9a) | [XT\-TX](https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo) | 3:16 |
 | 6 | [Chỉ Là Giấc Mơ Bao Ngày Qua](https://open.spotify.com/track/2DioIbCZOYQ0AsKWwmduIG) | [SOBE](https://open.spotify.com/artist/5T4IWkR0vFyMKGJQaZGHnI), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [Chỉ Là Giấc Mơ Bao Ngày Qua](https://open.spotify.com/album/4z3QlQ35kZNKzvwdtW3pOp) | 3:25 |
 | 7 | [FRESHY CLEAN](https://open.spotify.com/track/5aZ7fwVkHfDcxh9ZfWjluS) | [NP](https://open.spotify.com/artist/5q3uscakFK0vvQYmcu0aXS) | [FRESHY CLEAN](https://open.spotify.com/album/11A8r3T2LPIxXN29cNu8my) | 2:54 |
 | 8 | [ĐÓN XUÂN CÙNG EM](https://open.spotify.com/track/2paV6feVFnL46YFLjSmKZV) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo) | [ĐÓN XUÂN CÙNG EM](https://open.spotify.com/album/23FOp8Cxh3BXdnqutJRACp) | 3:21 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [Chàng Trai Bất Tử](https://open.spotify.com/track/18iADruKMXIloyA9vCJXFE) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34), [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh) | [Chàng Trai Bất Tử](https://open.spotify.com/album/5lFQA0FkLiuI3aCvvaRLN6) | 3:52 |
 | 99 | [Ha Va Oai](https://open.spotify.com/track/7m3XEa7rP33gsjeYJYoRBl) | [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch), [STRANGE H](https://open.spotify.com/artist/65d2rn78XJ1xpeFfbeWXmF), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU) | [GOLDEN BOY](https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH) | 4:13 |
 
-Snapshot ID: `MCxmMjU4MmI4MGQ3MDVjZDY3ZjBlOTJmYmExY2E4NjljNWE1ZTczYTE3`
+Snapshot ID: `MCw0OThlMzFiZGRlYmU5ZjQxN2MyODViZDQ5YWM4MWJjZTk5ZDYyNDRk`

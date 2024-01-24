@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-414 songs - 1 day 2 hr 51 min
+415 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Horizon \- Poolside Remix](https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Horizon \(Poolside Remix\)](https://open.spotify.com/album/2Wm1dPwEOiM0uOHpj8oy3D) | 5:51 | 2020-12-22 | 2022-04-18 |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2023-11-10 |  |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2021-03-19 | 2022-12-24 |
-| [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 |  |
+| [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 | 2024-01-24 |
 | [hyperspeed](https://open.spotify.com/track/3km6muXi6ToiRirTJLkgzr) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [hyperspeed](https://open.spotify.com/album/55fj2jwBrgsuw4JmT5jusG) | 3:18 | 2022-07-08 | 2022-07-29 |
 | [Hémisphère](https://open.spotify.com/track/2xIUT6emYrLwuQLhLBf7PH) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/500EIkxZ1MFSKHESVxWR0k) | 7:13 | 2020-12-22 | 2022-04-18 |
 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 | 2020-12-22 | 2023-11-11 |
@@ -334,6 +334,7 @@
 | [Step By Step](https://open.spotify.com/track/3AWyfblIa1nThi3DU58YrW) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step by Step / Creative Source](https://open.spotify.com/album/77FKqvql03zGTztg9ikAXz) | 4:02 | 2023-11-17 | 2023-12-02 |
 | [Stranger Still \(Daniel T Remix\)](https://open.spotify.com/track/6wZnVO1mipek72VQfS36tY) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Stranger Still \(Daniel T Remix\) \- Single](https://open.spotify.com/album/12OCK0NAh1NIWGB5LyodAH) | 6:06 | 2020-12-22 | 2022-04-21 |
 | [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 | 2021-03-19 | 2022-07-29 |
+| [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 | 2024-01-12 |  |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2021-03-19 | 2024-01-12 |
 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/00cSN1TMyHZErfyJbLMB05) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Summer Days \(Roosevelt Remix\)](https://open.spotify.com/album/3zQND4xGXB0IkefiO6c1Ok) | 3:28 | 2020-12-22 | 2022-04-21 |
 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 | 2020-12-22 |  |

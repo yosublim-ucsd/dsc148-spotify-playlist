@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-292 songs - 14 hr 10 min
+295 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Carpet Care](https://open.spotify.com/track/2QFdlJGilcv9oxFfFvsL9x) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Carpet Care](https://open.spotify.com/album/0v0fIWyDKeQiSANpojIncc) | 2:40 | 2023-05-22 |  |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-11-11 | 2022-10-07 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 |  |
+| [Cessna 172](https://open.spotify.com/track/12EoeaExc41yiuzodHjzDo) | [taow](https://open.spotify.com/artist/0zsZungCzCXvJ72jpsjUhD) | [Cessna 172](https://open.spotify.com/album/0ix24JqJ9uA38ZkPCwbsJ9) | 2:02 | 2024-01-23 |  |
 | [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 | 2023-09-08 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2021-11-11 | 2022-05-11 |
 | [Chillity](https://open.spotify.com/track/4aR5l7Ry6NqflPVgxzxLfH) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Chillity](https://open.spotify.com/album/4dbLYtRaYIZCLountdyt4I) | 2:36 | 2022-05-20 | 2022-09-09 |
@@ -75,6 +76,7 @@
 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
 | [Cruisin](https://open.spotify.com/track/05IEDJVQnFPggjAD0o0vB4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Cruisin](https://open.spotify.com/album/7tPX59Ir4f3TlYxAHabC4V) | 2:25 | 2022-11-25 |  |
 | [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 | 2022-11-25 |  |
+| [Currency Trades](https://open.spotify.com/track/27d3IGNbhYjppkLeDiyW5x) | [heffaa](https://open.spotify.com/artist/4wy8oQqp8igwjgKNMJEMY8) | [Currency Trends](https://open.spotify.com/album/1duJs27pAntlZDI8aJAJ8o) | 2:16 | 2024-01-23 |  |
 | [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 | 2023-05-06 |
 | [Degrees](https://open.spotify.com/track/7MKGzP89oekcEczUyKdjSs) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Degrees](https://open.spotify.com/album/5hKWCcrzBHkmEdFnSSAmeR) | 2:29 | 2023-07-06 |  |
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2022-06-24 |  |
@@ -266,6 +268,7 @@
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2021-11-11 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 | 2023-08-12 |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2021-11-11 |  |
+| [Tikka](https://open.spotify.com/track/6u71jQ49gijuHiDKMGyjdA) | [Wandsworth](https://open.spotify.com/artist/1HRgXaepsBT07n30t1RpiX) | [Tikka](https://open.spotify.com/album/3oVmNykBqgixGyvvBrN1u1) | 2:08 | 2024-01-23 |  |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2021-11-11 | 2022-05-20 |
 | [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
 | [Timshel](https://open.spotify.com/track/57I8KVxB1hLmjgkmif49kB) | [Verdacci](https://open.spotify.com/artist/3qmIRttgBXWlN3T7frBg1e) | [Timshel](https://open.spotify.com/album/2rAnRq1iKlxJLGJCfJQlKJ) | 3:17 | 2023-06-23 |  |

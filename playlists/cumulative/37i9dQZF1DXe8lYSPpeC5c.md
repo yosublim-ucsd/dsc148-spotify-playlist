@@ -4,11 +4,12 @@
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-27 songs - 1 hr 44 min
+28 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afterthought](https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:14 | 2023-08-11 |  |
+| [Afterthought](https://open.spotify.com/track/4G9hlKVIwuWE8qpW2UQpV3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:14 | 2023-08-11 |  |
+| [Afterthought](https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:14 | 2023-08-11 | 2024-01-24 |
 | [Because I’m Me](https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 4:12 | 2023-08-11 |  |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-08-11 |  |
 | [Celebrate \- Bonus Track](https://open.spotify.com/track/3u0066MhzliZ9QKrG4UAMg) | [Courtney Bell](https://open.spotify.com/artist/7AmVadaacpE7sJtlFpRLU2) | [Poverty Stricken](https://open.spotify.com/album/100qE2h6nZeT3BQk6cicxw) | 3:22 | 2023-08-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Saltburn have you feeling nostalgic? You came to the right place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,264 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,167 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
 | 50 | [Lydia](https://open.spotify.com/track/6nqCvbvpK2D6w1Q2lMYt5W) | [Fur Patrol](https://open.spotify.com/artist/3WGqil6b4pW1RKuV1MXFfe) | [Pet](https://open.spotify.com/album/7JEx8MZi0XiFvwDzA2ZxoX) | 4:15 |
 
-Snapshot ID: `MCxiOGQwMDViOGZkZTk2NTVlZmYzNDAwMzc4ZmZjODAzYjg1YTUyZGVi`
+Snapshot ID: `MCw4ZDc4MzA5MDgwOGMyNTA1MTgwNzMxMzQ4MGU4ZTUwNzA4YWI5ZTk4`

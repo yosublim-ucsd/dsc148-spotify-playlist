@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 179045,
+  "2024-01-24": 179088,
   "date_first_scraped": "2022-12-29",
   "description": "The biggest dance floor bangers of the 2010s. ",
   "name": "Dance Hits 2010s",
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 190295,
       "name": "REMEDY",
       "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"

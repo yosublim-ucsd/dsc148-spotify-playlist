@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: ogoin, Linguini
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,785 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,783 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Sem Remorso](https://open.spotify.com/track/1deAMrUofYXWI1ELLG9aiC) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Sem Remorso](https://open.spotify.com/album/3QzXO1kcPGHrtPuouwSsN7) | 2:27 |
 | 75 | [Londres](https://open.spotify.com/track/43c6R4BgiuNgR58D8yY0L1) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Londres](https://open.spotify.com/album/1AfrCjRLlvXEhmlgRqfzci) | 3:41 |
 
-Snapshot ID: `MCwzMTNjNjE5MWE1ZTQ3YjBjZGVkN2ZjMDQ0ZjNiYjBhOTk5N2FhYzRk`
+Snapshot ID: `MCxlMjQ3MjVjMjI0ODRhOGY3ZmQ4NWJhOTRjN2M1M2JlMTc1MTE0NGIz`

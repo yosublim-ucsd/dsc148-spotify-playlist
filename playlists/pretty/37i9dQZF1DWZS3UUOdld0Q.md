@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812 likes - 66 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,852 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 58 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 |
 | 59 | [Se Impone Tu Recuerdo](https://open.spotify.com/track/6L72bWVSbwyKnEJ85wYG6b) | [Wilkins](https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O) | [Todo Sabe a Ti](https://open.spotify.com/album/5UJ7WoaFkZZ5t6yNxY9JGI) | 3:19 |
 | 60 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 |
-| 61 | [](https://open.spotify.com/track/1d9GZXO4sub2L9ipKmkHYf) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
-| 62 | [](https://open.spotify.com/track/16YUR5N0poJdlIUGZhBoYa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
-| 63 | [](https://open.spotify.com/track/6lvgxOCr8YpaL9dSgDTF1U) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
-| 64 | [](https://open.spotify.com/track/3i4qGP6VJyiDph0gUJmTKu) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
-| 65 | [](https://open.spotify.com/track/2IGPQQp6xCsSGzvxMxGXsY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
-| 66 | [](https://open.spotify.com/track/7lb3hUDVS50Que4V8tn51m) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
+| 61 | [Lo Josea](https://open.spotify.com/track/1d9GZXO4sub2L9ipKmkHYf) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 1:16 |
+| 62 | [Corillo \- Santiago Quinones](https://open.spotify.com/track/16YUR5N0poJdlIUGZhBoYa) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:31 |
+| 63 | [Cuando Llego](https://open.spotify.com/track/6lvgxOCr8YpaL9dSgDTF1U) | [Javier Luna](https://open.spotify.com/artist/4FD5eJwBkv5Sf5egFdC04Y) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:52 |
+| 64 | [Es Tuyo](https://open.spotify.com/track/3i4qGP6VJyiDph0gUJmTKu) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:35 |
+| 65 | [Tonteria](https://open.spotify.com/track/2IGPQQp6xCsSGzvxMxGXsY) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB), [Isa](https://open.spotify.com/artist/6hz6fL6ReWNv1YSVqQ6exL) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:11 |
+| 66 | [Corillo \- Isa](https://open.spotify.com/track/7lb3hUDVS50Que4V8tn51m) | [Isa](https://open.spotify.com/artist/6hz6fL6ReWNv1YSVqQ6exL) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:32 |
 
-Snapshot ID: `MCxlYTEzNjQzZjcyMjI1MzdhOWE3MTlkYmFiNDg4MTg4MGJjZGVlYmY3`
+Snapshot ID: `MCw5YzRlNjE0YTM0NzFiMjJjNGEwZGQ2YmZhNWQwYzk2OWQ0MTVhM2Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Eliza McLamb
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,614 likes - 80 songs - 4 hr 54 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,613 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

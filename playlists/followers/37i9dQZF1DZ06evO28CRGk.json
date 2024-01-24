@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 380,
+  "2024-01-24": 380,
   "date_first_scraped": "2023-12-14",
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
   "name": "This Is Marco Polo",
@@ -811,7 +811,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 208733,
       "name": "Meglio che chiedi a qualcuno",
       "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 128157,
       "name": "Wild Elephants",
       "url": "https://open.spotify.com/track/3GtQGmaq7N0MCgO8tZH2Bl"

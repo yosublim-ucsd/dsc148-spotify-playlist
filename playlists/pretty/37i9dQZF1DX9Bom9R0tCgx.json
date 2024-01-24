@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 360075,
+  "num_followers": 360222,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTkzZDMzOWRmZjYxNjk3YTM4ZTBiODdmMzY5ZWZjNzE1Y2I4MTQ5",
+  "snapshot_id": "MCw2YWM3YmI3NmE1YjQ5MDljNTRmYWQ5ZGIzY2IyYzk1ZjA3ZmJjYjkx",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW"
-      },
-      "artists": [
-        {
-          "name": "Robbe",
-          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
-        },
-        {
-          "name": "Payback",
-          "url": "https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE"
-        }
-      ],
-      "duration_ms": 164475,
-      "name": "Pjanoo",
-      "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
@@ -883,22 +863,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
         },
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Payback",
+          "url": "https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE"
         }
       ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+      "duration_ms": 164475,
+      "name": "Pjanoo",
+      "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -923,22 +903,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -959,6 +939,26 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Baby When The Light",
         "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 155165,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Make It Count",
-        "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Just_us",
-          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Make It Count",
-      "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "In The City (Yves V remix)",
         "url": "https://open.spotify.com/album/1ac90oaxn3B1FlwW0yUY1N"
       },
@@ -1283,34 +1263,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "15 Years Da Tweekaz EP",
-        "url": "https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf"
+        "name": "Make It Count",
+        "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 249664,
-      "name": "Tequila - 15 Years Mix",
-      "url": "https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Can't Forget U",
-        "url": "https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8"
-      },
-      "artists": [
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
         {
-          "name": "Jungle Jonsson",
-          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
         }
       ],
-      "duration_ms": 116062,
-      "name": "Can't Forget U",
-      "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
+      "duration_ms": 213327,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1331,6 +1299,38 @@
       "duration_ms": 141679,
       "name": "Popcorn - Rework",
       "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Can't Forget U",
+        "url": "https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8"
+      },
+      "artists": [
+        {
+          "name": "Jungle Jonsson",
+          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
+        }
+      ],
+      "duration_ms": 116062,
+      "name": "Can't Forget U",
+      "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "15 Years Da Tweekaz EP",
+        "url": "https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 249664,
+      "name": "Tequila - 15 Years Mix",
+      "url": "https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Better Off Alone (Hardstyle)",
-        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        },
-        {
-          "name": "LEOJ",
-          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Better Off Alone - Hardstyle",
-      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
         "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Better Off Alone (Hardstyle)",
+        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        },
+        {
+          "name": "LEOJ",
+          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Better Off Alone - Hardstyle",
+      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Feel Again (Remixes)",
         "url": "https://open.spotify.com/album/5uBuqq6UrdrDL5iPLQ3aoB"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 177600,
       "name": "Superman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/2qdiwQikjxIOVHppVZd2r9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1735,26 +1735,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Tell Me Secrets",
-        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
+        "name": "Chasing Highs (LIZOT Remix)",
+        "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         },
         {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        },
-        {
-          "name": "Joker Bra",
-          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         }
       ],
-      "duration_ms": 136299,
-      "name": "Tell Me Secrets",
-      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
+      "duration_ms": 133593,
+      "name": "Chasing Highs - LIZOT Remix",
+      "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1783,22 +1779,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Chasing Highs (LIZOT Remix)",
-        "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
+        "name": "Tell Me Secrets",
+        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Joker Bra",
+          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
         }
       ],
-      "duration_ms": 133593,
-      "name": "Chasing Highs - LIZOT Remix",
-      "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
+      "duration_ms": 136299,
+      "name": "Tell Me Secrets",
+      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
     },
     {
       "added_at": "2024-01-18 23:00:00",

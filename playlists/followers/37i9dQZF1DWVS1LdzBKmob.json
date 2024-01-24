@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 123213,
+  "2024-01-24": 123369,
   "date_first_scraped": "2022-02-17",
   "description": "Crystal singing bowls, frequencies and gongs to lift you up and transcend. ",
   "name": "Sound Bath",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 270551,
       "name": "1/2 Singing Bowl (Ascension) - Excerpt",
       "url": "https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 545066,
       "name": "Akasha - The Pleasure Of Being One With The Supreme Soul",
       "url": "https://open.spotify.com/track/4sPBcSgmvk3e476IISP0XG"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 531773,
       "name": "Angelic Rays",
       "url": "https://open.spotify.com/track/4G4omzP32mLXToXpBvAuQR"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 551392,
       "name": "Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras",
       "url": "https://open.spotify.com/track/7K8naQAjxQ3HGqn6EPcOga"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 572055,
       "name": "In Perspective",
       "url": "https://open.spotify.com/track/22IoKONWfMZXfEcECQfg36"
@@ -1221,6 +1221,24 @@
       "duration_ms": 176000,
       "name": "New Breaths (Sound Bath)",
       "url": "https://open.spotify.com/track/2YppGyFYPKYX0CCMW12rc0"
+    },
+    {
+      "album": {
+        "name": "Next Moment - 432 Hz",
+        "url": "https://open.spotify.com/album/3blhjHGTCpNVl4D5umEpKo"
+      },
+      "artists": [
+        {
+          "name": "Liam Armstrong",
+          "url": "https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201932,
+      "name": "Next Moment - 432 Hz",
+      "url": "https://open.spotify.com/track/3j6bdU5gjL8BwOel976Ntg"
     },
     {
       "album": {
@@ -1566,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "In Two Minds",
+        "url": "https://open.spotify.com/album/0lOZdbwV2CkgUiOQsuEE5Z"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249978,
+      "name": "Slowing Rain",
+      "url": "https://open.spotify.com/track/7vhMyCsKVbpLj66EH6ZZvr"
+    },
+    {
+      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -1818,6 +1854,24 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL"
+      },
+      "artists": [
+        {
+          "name": "Zen Atlas",
+          "url": "https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q"
+    },
+    {
+      "album": {
         "name": "Tibetan Bowl Escape",
         "url": "https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf"
       },
@@ -1995,6 +2049,24 @@
       "duration_ms": 133120,
       "name": "Walking Earth Gong",
       "url": "https://open.spotify.com/track/7tZuNzE2ye0HCbILkCkH2f"
+    },
+    {
+      "album": {
+        "name": "Whispering Winter",
+        "url": "https://open.spotify.com/album/7wLCNTB7J063lWRwYMjjGC"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Whispering Winter - Sound Bath",
+      "url": "https://open.spotify.com/track/08jB2g1DIVm96wQjywyNGb"
     },
     {
       "album": {

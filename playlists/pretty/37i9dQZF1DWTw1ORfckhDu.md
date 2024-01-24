@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sini Sabotage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,013 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,988 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 |
 | 63 | [MEDUSA](https://open.spotify.com/track/6iq1pCbLqDAjkqRrP5Xs7o) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [MEDUSA](https://open.spotify.com/album/4hFCZZaqoJzT0nCNapwibT) | 2:47 |
 
-Snapshot ID: `MCw2NmQyNGVlNzM4ODk1ODU3ODhjNTBhNjA2NzliNDI0OWZhMzBjNmMw`
+Snapshot ID: `MCw4MGQ4ZGVlMTljNDYxNGMyZmY2OTZhN2JiM2NmYmY0Yjc1ODJmZDA5`

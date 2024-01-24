@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTY3YzdmNGQ4MzBhZGQzOGNiOTUwZDM5NjVjOGM3Y2NkNjQ1Nzkz",
+  "snapshot_id": "MCw1NDVlYmIzODcwMWUwMGZjMzQwZmZhZmZjMjEwODRhZWI0NDM4YjFl",
   "tracks": [
     {
       "added_at": "2023-05-14 21:00:45",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Praise You In This Storm",
-      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Pieces Of A Real Heart",
-        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC"
-      },
-      "artists": [
-        {
-          "name": "Hawk Nelson",
-          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Drops in the Ocean",
-      "url": "https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "There Is More (Studio Sessions)",
         "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 199520,
       "name": "Who You Say I Am",
       "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Drops in the Ocean",
+      "url": "https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Prayed for This Day",
+        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "When I Talk to God",
+      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "Brokenness Aside EP No. 1",
         "url": "https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 342893,
       "name": "All the Poor and Powerless",
       "url": "https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "Prayed for This Day",
-        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "When I Talk to God",
-      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
     },
     {
       "added_at": "2023-05-14 21:00:45",

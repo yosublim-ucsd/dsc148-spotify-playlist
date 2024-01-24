@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32973,
+  "num_followers": 32969,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
+  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Tochter meiner Mutter",
-        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "Tochter meiner Mutter",
-      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Planeten",
         "url": "https://open.spotify.com/album/7HXTvxsWlV3wARDKknHhM4"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 157882,
       "name": "Planeten",
       "url": "https://open.spotify.com/track/5QwZgAHfElm5zdU4luWU3E"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Tochter meiner Mutter",
+        "url": "https://open.spotify.com/album/4WgxOMvuJWVLNvYdzTzOXo"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "Tochter meiner Mutter",
+      "url": "https://open.spotify.com/track/2XHxp4USQsAVkW1jujOmQa"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Kingsize",
-        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
-      },
-      "artists": [
-        {
-          "name": "DONNA SAVAGE",
-          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
-        }
-      ],
-      "duration_ms": 153974,
-      "name": "Kingsize",
-      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 145057,
       "name": "Angst",
       "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Kingsize",
+        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
+      },
+      "artists": [
+        {
+          "name": "DONNA SAVAGE",
+          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
+        }
+      ],
+      "duration_ms": 153974,
+      "name": "Kingsize",
+      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 194461,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/6Te7u1x6u2uBGaEbWelpgr"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 194461,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "TROUBLESHOOTER",
         "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Golf Coup\u00e9",
         "url": "https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 167819,
       "name": "Golf Coup\u00e9",
       "url": "https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Take a While",
-        "url": "https://open.spotify.com/album/2Ce7sXWqwSRzmsKcvQjVtd"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Take a While",
-      "url": "https://open.spotify.com/track/3DTaMVWs1eDCQCj6fl1lEq"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "K\u00f6nigin Panik",
         "url": "https://open.spotify.com/album/0FhzRdQuWHDtftlHaaUeJe"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 152682,
       "name": "K\u00f6nigin Panik",
       "url": "https://open.spotify.com/track/4kf6a1WQNY9d0F9GSn2QqX"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Take a While",
+        "url": "https://open.spotify.com/album/2Ce7sXWqwSRzmsKcvQjVtd"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Take a While",
+      "url": "https://open.spotify.com/track/3DTaMVWs1eDCQCj6fl1lEq"
     },
     {
       "added_at": "2024-01-09 23:00:00",

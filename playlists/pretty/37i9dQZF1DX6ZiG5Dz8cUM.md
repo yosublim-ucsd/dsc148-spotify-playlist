@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,908 likes - 223 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,981 likes - 223 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 50 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/1O8ViqXWjVY5e6vOuR2xd8) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/7BB0MZIPtkhhHUMIVWYBeh) | 4:44 |
 | 51 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 |
 | 52 | [A Poetic City](https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [A Poetic City](https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj) | 3:24 |
-| 53 | [Back In The Old Day](https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Back In The Old Days](https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG) | 3:58 |
+| 53 | [Back In The Old Days](https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Back In The Old Days](https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG) | 3:58 |
 | 54 | [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 |
 | 55 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 |
 | 56 | [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 222 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 |
 | 223 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 |
 
-Snapshot ID: `MCw3Y2FjZDZkMjE3ZWEyNDMyNThjZmY4NjM0OTkzMTFjNjE3Mjk0NWY3`
+Snapshot ID: `MCw2N2M2MmZlYjI2NzNhNzdkZTEzNjAyMjg0YTdmN2YzNTNkM2FkYjEz`

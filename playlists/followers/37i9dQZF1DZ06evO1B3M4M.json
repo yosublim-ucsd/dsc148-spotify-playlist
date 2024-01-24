@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 12935,
+  "2024-01-24": 12943,
   "date_first_scraped": "2023-11-11",
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
   "name": "This Is James Newton Howard",
@@ -61,6 +61,28 @@
       "duration_ms": 170653,
       "name": "A Hidden Life",
       "url": "https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U"
+    },
+    {
+      "album": {
+        "name": "The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402360,
+      "name": "A Watchful Guardian",
+      "url": "https://open.spotify.com/track/3r3fWKSW1Vh71iXtDNpNbc"
     },
     {
       "album": {
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 70400,
       "name": "The Hunger Games",
       "url": "https://open.spotify.com/track/1s9GYilV9guTnwidLuBV7I"

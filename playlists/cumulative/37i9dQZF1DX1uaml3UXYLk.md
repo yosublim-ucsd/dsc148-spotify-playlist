@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-573 songs - 1 day 11 hr 54 min
+576 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-25 | 2021-10-16 |
 | [Coquelicot](https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Coquelicot](https://open.spotify.com/album/6i5EmMp0z55VIZsnZUSxLJ) | 2:33 | 2021-11-10 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2021-08-25 | 2022-02-11 |
+| [Counting Hours](https://open.spotify.com/track/5a7UqQzTOUoflrTummczHT) | [Kilada](https://open.spotify.com/artist/1zxOsfjnUEcVAKdPp5oKjw) | [Counting Hours](https://open.spotify.com/album/77KSkLXXhg0zzvSXSIqfQ7) | 2:20 | 2024-01-23 |  |
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2021-11-10 | 2022-01-22 |
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-10-16 | 2022-04-06 |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-02-10 |  |
@@ -220,6 +221,7 @@
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2023-04-07 |
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2021-08-25 |  |
 | [Heal](https://open.spotify.com/track/4dG60HVfXLp8W8CNch9ud8) | [Jaanuh](https://open.spotify.com/artist/5wIBCDHMckvUu66NesX0yP) | [Heal](https://open.spotify.com/album/2P1z11aXo2N9vOynBf2jfW) | 2:55 | 2020-10-20\* | 2020-11-28 |
+| [HEALING](https://open.spotify.com/track/6OjGH6sqM6q8MGnrZTk0c9) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [HEALING](https://open.spotify.com/album/7EQcniYCOpy5esxmUCO8pI) | 2:14 | 2024-01-23 |  |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-02-20 | 2022-06-10 |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-16 | 2022-01-22 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-10-16 |  |
@@ -402,6 +404,7 @@
 | [Reflections](https://open.spotify.com/track/5xo6KEG3prSLiz4ttr7HEp) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Reflections](https://open.spotify.com/album/5DBhmrndmyze54wIrskTFX) | 2:37 | 2023-02-24 |  |
 | [Regalade](https://open.spotify.com/track/4PpjapmWSSSrRN79N8DHEL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Regalade EP](https://open.spotify.com/album/6WL07WzqVF0PyMlZVkYdV6) | 5:09 | 2021-01-29 | 2021-02-20 |
 | [Relinquish](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy) | [Daryl Dane](https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3) | [Relinquish](https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1) | 2:58 | 2024-01-19 |  |
+| [Reserved For Two](https://open.spotify.com/track/6LS1Tx9asjgb4VG2xiGq4E) | [Evan St\. Claire](https://open.spotify.com/artist/4qfkE4RJJWv5UyCYxinfLy) | [Reserved For Two](https://open.spotify.com/album/3Vbot4UOBs6OLl7ADk73q0) | 2:13 | 2024-01-23 |  |
 | [Rest](https://open.spotify.com/track/4EbfTd8HFoAOF6fiSRVsvT) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Rest](https://open.spotify.com/album/5Y2NdAYpCSwQdFl0Es9ne2) | 4:03 | 2020-10-20\* | 2021-02-20 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Retrocation](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF) | [ELRY](https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU) | [Retrocation](https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik) | 2:21 | 2023-09-08 |  |

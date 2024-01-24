@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Malaku",
+        "url": "https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx"
+      },
+      "artists": [
+        {
+          "name": "Uhrk-Nagimi",
+          "url": "https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156286,
+      "name": "Malaku",
+      "url": "https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x"
+    },
+    {
+      "album": {
         "name": "Marble Flooring",
         "url": "https://open.spotify.com/album/3tdNvmSxAgJCAA5GewSlue"
       },

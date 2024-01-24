@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 123795,
+  "num_followers": 123828,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI5NDliNmM5MjMxMWMwMGNkZDliYjRlNjY3MGY5OTI4NjdlZDky",
+  "snapshot_id": "MCxkMWZiN2JhNTU2YzA1NzE5YTA3ZWZjZjM5ODRlMzNiZDljNzFkM2E3",
   "tracks": [
     {
       "added_at": "2023-12-26 03:01:00",
@@ -23,26 +23,6 @@
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 281034,
-      "name": "Tangerina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -67,6 +47,26 @@
       "duration_ms": 201682,
       "name": "Final de Semana",
       "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 281034,
+      "name": "Tangerina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 172794,
       "name": "+ 1 Minuto",
       "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -883,6 +883,38 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -915,22 +947,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 233666,
       "name": "Deixa Acontecer",
       "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96"
     },
     {
       "added_at": "2023-12-26 03:01:00",

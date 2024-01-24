@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Sof\u00eda Mart\u00edn",
-  "num_followers": 124815,
+  "num_followers": 124805,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQ1MjVjMmVhNDdmMGI4ZTY5YjI5YjU1ZjUzYmRhMmQ3MDAxOTg4",
+  "snapshot_id": "MCxkNDEwMjcyZTY4MTQ5N2E2ZDEwZDk2ZGE3ZjU5MTY3YWM4YmYzZGEy",
   "tracks": [
     {
       "added_at": "2024-01-19 07:00:00",
@@ -235,26 +235,18 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "SENSACI\u00d3N DE CALOR",
-        "url": "https://open.spotify.com/album/6JA4WSzwyCV7jnolEaBMd2"
+        "name": "Cyberia",
+        "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Escarmiento",
-          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
-        },
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
         }
       ],
-      "duration_ms": 167513,
-      "name": "M\u20ac GU$TA \u20acL DIN\u20acRO $$$ (ma cherie)",
-      "url": "https://open.spotify.com/track/3zKuKMMsEbYo8W09LrVNQu"
+      "duration_ms": 161500,
+      "name": "Cyberia",
+      "url": "https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -283,22 +275,26 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Desde la Luna",
-        "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
+        "name": "SENSACI\u00d3N DE CALOR",
+        "url": "https://open.spotify.com/album/6JA4WSzwyCV7jnolEaBMd2"
       },
       "artists": [
         {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
         },
         {
-          "name": "Logal",
-          "url": "https://open.spotify.com/artist/3WOYJSxYbPIUpdj7EYhNOs"
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
         }
       ],
-      "duration_ms": 114869,
-      "name": "Desde la Luna",
-      "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
+      "duration_ms": 167513,
+      "name": "M\u20ac GU$TA \u20acL DIN\u20acRO $$$ (ma cherie)",
+      "url": "https://open.spotify.com/track/3zKuKMMsEbYo8W09LrVNQu"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Cyberia",
-        "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
+        "name": "Desde la Luna",
+        "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
       },
       "artists": [
         {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "Logal",
+          "url": "https://open.spotify.com/artist/3WOYJSxYbPIUpdj7EYhNOs"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Cyberia",
-      "url": "https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr"
+      "duration_ms": 114869,
+      "name": "Desde la Luna",
+      "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -515,6 +515,30 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "guardian angel",
+        "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
+      },
+      "artists": [
+        {
+          "name": "lucigarci",
+          "url": "https://open.spotify.com/artist/3p0R6mcL8V0U23UVv3vAOg"
+        },
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "60k Cvndy",
+          "url": "https://open.spotify.com/artist/3DYX3dAFVcFm28EObj4j3x"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "guardian angel",
+      "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "Me rodean (feat. Orslok)",
         "url": "https://open.spotify.com/album/0hKClB3h5t5wsfmX4hLPxh"
       },
@@ -539,30 +563,6 @@
       "duration_ms": 226789,
       "name": "Me rodean (feat. Orslok)",
       "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "guardian angel",
-        "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
-      },
-      "artists": [
-        {
-          "name": "lucigarci",
-          "url": "https://open.spotify.com/artist/3p0R6mcL8V0U23UVv3vAOg"
-        },
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        },
-        {
-          "name": "60k Cvndy",
-          "url": "https://open.spotify.com/artist/3DYX3dAFVcFm28EObj4j3x"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "guardian angel",
-      "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "gaZzZzZ",
-        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
-      },
-      "artists": [
-        {
-          "name": "CONDY",
-          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 157237,
-      "name": "gaZzZzZ",
-      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "LA VUELTA AL COLE CON LA UNGINGANG",
         "url": "https://open.spotify.com/album/1MbNcr1H9VIs1r1KunPC0d"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 167552,
       "name": "TU NOVIO ES SUBNORMAL\u22c6\u2b52\u02da\uff61\u22c6",
       "url": "https://open.spotify.com/track/5HOp1e4VHTbzU017ze1xUX"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "gaZzZzZ",
+        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
+      },
+      "artists": [
+        {
+          "name": "CONDY",
+          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 157237,
+      "name": "gaZzZzZ",
+      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Berl\u00edn",
-        "url": "https://open.spotify.com/album/23Ox1q2r170AXCeTkTSC2v"
-      },
-      "artists": [
-        {
-          "name": "Eflexx",
-          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/18k8035Im1Uo4pTnuqgyUJ"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "POP!",
         "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+        "name": "Berl\u00edn",
+        "url": "https://open.spotify.com/album/23Ox1q2r170AXCeTkTSC2v"
       },
       "artists": [
         {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+          "name": "Eflexx",
+          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
         }
       ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+      "duration_ms": 140800,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/18k8035Im1Uo4pTnuqgyUJ"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1063,6 +1047,42 @@
       "duration_ms": 123771,
       "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
       "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "L\u00aa N\u00aave",
+        "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "L\u00aa N\u00aave",
+      "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1091,22 +1111,18 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "L\u00aa N\u00aave",
-        "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
+        "name": "estr333s",
+        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
         }
       ],
-      "duration_ms": 144544,
-      "name": "L\u00aa N\u00aave",
-      "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
+      "duration_ms": 213000,
+      "name": "estr333s",
+      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1127,6 +1143,26 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "AUTOBOICOT",
+        "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 201578,
+      "name": "AUTOBOICOT",
+      "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "Hyperandom.Mp3",
         "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
       },
@@ -1139,22 +1175,6 @@
       "duration_ms": 97896,
       "name": "Hyperandom.Mp3",
       "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "estr333s",
-        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "estr333s",
-      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1179,26 +1199,6 @@
       "duration_ms": 186000,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "AUTOBOICOT",
-        "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
-      },
-      "artists": [
-        {
-          "name": "Suave",
-          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 201578,
-      "name": "AUTOBOICOT",
-      "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "waterpolo",
-        "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
-      },
-      "artists": [
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
-        },
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 178949,
-      "name": "waterpolo",
-      "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1363,22 +1343,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "demasiadas cosas",
-        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
+        "name": "waterpolo",
+        "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
       },
       "artists": [
         {
-          "name": "Pink Kardashian",
-          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+          "name": "Karma C",
+          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
         },
         {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
         }
       ],
-      "duration_ms": 108000,
-      "name": "demasiadas cosas",
-      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
+      "duration_ms": 178949,
+      "name": "waterpolo",
+      "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1395,6 +1375,26 @@
       "duration_ms": 120636,
       "name": "mverdeme^^",
       "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "demasiadas cosas",
+        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
+      },
+      "artists": [
+        {
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "demasiadas cosas",
+      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "LUN\u00c1TICO",
         "url": "https://open.spotify.com/album/1tONyQuLXb7ZyD0kNLZEe0"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
-      },
-      "artists": [
-        {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "PURGATORIO",
         "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 118904,
       "name": "MICPAPALOTL",
       "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "HYPER PUC",
+        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+      },
+      "artists": [
+        {
+          "name": "Eva Puc",
+          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Un Techno",
+      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "HYPER PUC",
-        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
-      },
-      "artists": [
-        {
-          "name": "Eva Puc",
-          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Un Techno",
-      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
     },
     {
       "added_at": "2024-01-19 07:00:00",

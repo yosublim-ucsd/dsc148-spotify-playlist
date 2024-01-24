@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 21052,
+  "2024-01-24": 21080,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:3MM3uKNdJbvefUael12dl3\">Rochelle Jordan</a>'s track IDs. Updated regularly. Curated by Rochelle Jordan. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Rochelle Jordan's track IDs",
@@ -907,10 +907,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 139344,
       "name": "Moral High Ground",
       "url": "https://open.spotify.com/track/0DUzm8J7QUyl87lC5sd5Hi"
+    },
+    {
+      "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/6gh0O7fiI2wL7y6BikZ0kl"
+      },
+      "artists": [
+        {
+          "name": "Rush Davis",
+          "url": "https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139344,
+      "name": "Moral High Ground",
+      "url": "https://open.spotify.com/track/4VwU8xK1dPBKoXWmrv4ZhC"
     },
     {
       "album": {

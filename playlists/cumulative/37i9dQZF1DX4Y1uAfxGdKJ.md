@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-161 songs - 8 hr 52 min
+164 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2022-09-23 |  |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-09-23 |  |
 | [Dangerous Thing](https://open.spotify.com/track/1XvuCcjK1Q3R8e0U2axlet) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [Dangerous Thing](https://open.spotify.com/album/6drNv63YJsrNEu9dS96TaI) | 3:13 | 2022-09-23 |  |
+| [Data](https://open.spotify.com/track/1cglvs3RiyEQWO6jQyIgeu) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Data](https://open.spotify.com/album/0kQuIjj1U02ppcvhRWiGNr) | 2:46 | 2024-01-23 |  |
 | [Day to Day](https://open.spotify.com/track/6GsMZvIYPA1ZZT2Cf9hnUE) | [Robbert Hek](https://open.spotify.com/artist/5pCyrXY4JPw6EmwayVDhOK) | [Day to Day](https://open.spotify.com/album/1tB3DosWrTXSnQb11a3wms) | 3:16 | 2022-09-23 | 2023-07-18 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-09-23 |  |
 | [destined](https://open.spotify.com/track/6cHARzJkr12k7Tido9BdCZ) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [destined](https://open.spotify.com/album/2QnVkxR2azevRsD95iQXdO) | 3:18 | 2022-10-14 |  |
@@ -139,6 +140,7 @@
 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 | 2023-10-20 |
 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-09-23 |  |
+| [Searching for Wisdom](https://open.spotify.com/track/4cBsG1TLPilTTMzXaUncPa) | [Ensaimada](https://open.spotify.com/artist/63NtBEePdHXzCQHm09JJYw) | [Searching For Wisdom](https://open.spotify.com/album/0x7CMGw3QJmo9rCviqYCnZ) | 2:46 | 2024-01-23 |  |
 | [Serenity Lake](https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr) | [Béatrice Dupont](https://open.spotify.com/artist/4lGZ8fr3b2fq7uruNbUGcf) | [Serenity Lake](https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91) | 2:36 | 2022-09-23 | 2023-07-18 |
 | [Shimone Shimone](https://open.spotify.com/track/4CXcplkSoeBK15TewprZMe) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Shimone Shimone / Dune](https://open.spotify.com/album/16pkWYptZHPk7hCJj4eY0C) | 3:53 | 2022-10-28 |  |
 | [Sinking Walls](https://open.spotify.com/track/4EH5JfnTScFvYhwadLbS3c) | [Gullen](https://open.spotify.com/artist/61k6okbUw17fpK27TFEXtI) | [Sinking Walls](https://open.spotify.com/album/4X6X9NKF0IUnXMtAHIgLSr) | 7:15 | 2022-09-23 | 2023-07-18 |
@@ -160,6 +162,7 @@
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 | 2023-08-18 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 | 2023-07-18 |
+| [We Shine](https://open.spotify.com/track/22ydaAhu90qn4JHtOxKZXI) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB), [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [We Shine](https://open.spotify.com/album/3WzQWv3d9AdObd7uIHpbxU) | 2:57 | 2024-01-23 |  |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 | 2023-07-18 |
 | [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 | 2023-04-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,374 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,913 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [dame dame dame eso](https://open.spotify.com/track/4OgkUKE6zYulJKgwjnoaRt) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [es que acaso no me oyes??](https://open.spotify.com/album/1GGSHZuMMzpiiCZILnIrp2) | 3:29 |
 | 50 | [QUE HAGO CONTIGO?](https://open.spotify.com/track/4gyzWNOe8sqyeeSrS1z4L4) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [QUE HAGO CONTIGO?](https://open.spotify.com/album/5tn92kGTbJEsKXJ2ihLZPY) | 3:25 |
 
-Snapshot ID: `MCw5NDQ5ZDUyMTViMjI5NzU5OTg2MDg5Y2Y0NDk2ZGFjYWNjY2I4ZGQ1`
+Snapshot ID: `MCw3MmRmN2YzOTMwZGRlMGRmNWEwZDY0MWEzODEzMTE1OGE1ZjVlMmFk`

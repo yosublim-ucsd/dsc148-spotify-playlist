@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 96 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
 | 97 | [Christmas By Myself](https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Christmas By Myself](https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F) | 3:00 |
 
-Snapshot ID: `MCw2MzUzZmU5OTkxNzU4NWRmZWVlZTc2ZDhkOTQ5YmM2NTUwZjgyMjFk`
+Snapshot ID: `MCw3NDFmYTJmMDBiMjFkY2I2MTY5ZDE0Y2EzYjVjN2FiYjE1ZWE0OTQ2`

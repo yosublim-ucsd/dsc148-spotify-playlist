@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,513 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,127 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 | 50 | [LAPIDADO](https://open.spotify.com/track/2WvNuQh87fYwdVY2gNIYy2) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [LAPIDADO](https://open.spotify.com/album/3URqY4nlWbjNy83m3wYrEf) | 3:46 |
 
-Snapshot ID: `MCxkOWRhYWQ2MzhmYjBhYzM4MWVkNmE5NjQ3NTRlYzMyMDI1NGM1Y2Ix`
+Snapshot ID: `MCw4MDJmYzU2MmU3Mzk2YWRjZmMyMzk3Yjk1NjU3MGVjYmJiNzYwYzk0`

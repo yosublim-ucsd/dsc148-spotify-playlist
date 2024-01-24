@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13204,
+  "num_followers": 13205,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRmOWVhN2Q0NzY0MTViYjAzZTA3MzMwMTBkYzZkOWZkYzU3NDA0",
+  "snapshot_id": "MCw1OGU3YTI4ZDA5ZTc0ZTQ2ZmE4MDFlZjFlYWY2ZjZiYWFjMmQ1MDM5",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -223,22 +223,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
       },
       "artists": [
         {
           "name": "Crush",
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 191278,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -403,18 +399,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "SOFA",
-        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
           "name": "Crush",
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 229573,
-      "name": "SOFA",
-      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
     },
     {
       "added_at": "2021-03-11 16:36:50",

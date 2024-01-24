@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-304 songs - 16 hr 0 min
+307 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2022-04-15 | 2022-09-23 |
 | [Bali](https://open.spotify.com/track/6nMMmzoDrnuMepm1RCefqY) | [Christoph Sebastian Pabst](https://open.spotify.com/artist/0HaS6c9ddX4IkCIkQogNAo) | [Bali](https://open.spotify.com/album/4YwXZq7uzNWw0xtZFoJaSj) | 2:40 | 2022-10-14 | 2023-08-19 |
 | [Be Around Her](https://open.spotify.com/track/6cXIO7t17SNudx5C3g60dI) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Cho](https://open.spotify.com/album/3SdoRxeJXEy0GnALHjAI1G) | 3:19 | 2022-04-15 | 2022-05-11 |
+| [Beach of Talamanca](https://open.spotify.com/track/4iNfw5ozrcRk6QNrDTCA9d) | [Lush Sand](https://open.spotify.com/artist/4fHOwlGHuj9Y62WNInQd54) | [Beach of Talamanca](https://open.spotify.com/album/62eowrPPOKGjHyw5JQJYkK) | 2:24 | 2024-01-23 |  |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-04-15 | 2022-10-08 |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2022-04-15 | 2022-10-08 |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-04-15 | 2022-08-19 |
@@ -139,6 +140,7 @@
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2022-04-15 | 2023-02-10 |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-08 | 2023-01-20 |
 | [hi mom](https://open.spotify.com/track/0KaFgsGMbu8dQiUaStQOXF) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [hi mom](https://open.spotify.com/album/0izTf2ZcAZJbHZfhyUVJPM) | 3:13 | 2022-11-25 |  |
+| [Home Alone](https://open.spotify.com/track/6roZ651oxAHSdsUaycVC0n) | [Glyfada](https://open.spotify.com/artist/6yILmfnaoG59nbzSSHAhnE) | [Home Alone](https://open.spotify.com/album/4XiocnKrPgSJKDw8NJRXlj) | 2:22 | 2024-01-23 |  |
 | [Hop Notch](https://open.spotify.com/track/6EbSt5wjOSSxTA4FKNdBoc) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Hop Notch](https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS) | 3:19 | 2022-04-15 | 2022-05-11 |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-04-15 | 2023-01-20 |
 | [Huaraz](https://open.spotify.com/track/7ncPyxnbrhGqJhnAIqMWh2) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 2:40 | 2022-04-15 | 2022-05-11 |
@@ -249,6 +251,7 @@
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2022-04-15 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 | 2023-10-05 |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 | 2022-10-14 |
+| [Shines](https://open.spotify.com/track/6LnSesP9PArE459JFWtLs3) | [Hackney](https://open.spotify.com/artist/7cdiUz1LNwYkklLniGmS1b) | [Shines](https://open.spotify.com/album/5oofuoBuop4mKqjSL61ium) | 2:03 | 2024-01-23 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2023-01-07 |
 | [Signs](https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/46l0p9rQdScWD3CZjMqWtn) | 2:14 | 2022-12-16 |  |
 | [Since I Laid My Eyes on U](https://open.spotify.com/track/5Ll1fMSA6ns9fO0f72h7OI) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Since I Laid My Eyes on U](https://open.spotify.com/album/6sRpBU72HY8n0sQXKHf8oZ) | 3:21 | 2022-10-07 | 2023-01-07 |

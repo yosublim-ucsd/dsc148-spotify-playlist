@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,560 likes - 214 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,632 likes - 228 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,5 +222,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 212 | [Santa Catarina](https://open.spotify.com/track/0Rk5Ma0d9pQac2elQWky1Z) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Vol\. 1](https://open.spotify.com/album/1Fjr1raP9BWbao2AagOokN) | 7:02 |
 | 213 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 |
 | 214 | [Attempt \(Lonely Heart Dub\)](https://open.spotify.com/track/4xJqdf9Rw8qY1arT8TgRSH) | [DJ Sprinkles](https://open.spotify.com/artist/6gIziDS7BnUum54F30BcHN), [Hardrock Striker](https://open.spotify.com/artist/078bFs8No6twUaZs5a3aiv), [Signal St](https://open.spotify.com/artist/7taRwtyxVeU61CRvEuMrNZ) | [Skylax House Explosion](https://open.spotify.com/album/1Xquo86HvysJ2DdIxQnRUB) | 6:54 |
+| 215 | [Nervous Tics \- DJ Tennis Remix](https://open.spotify.com/track/6FEDMxhIewYQdzxFuB5640) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Kingdoms In Colour Remixed](https://open.spotify.com/album/4KBMoononZPCM80QtfOzXd) | 6:29 |
+| 216 | [Viciosa \- Vix Club Remix](https://open.spotify.com/track/6z9boGNLLOYL9jx1sWrBnP) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ), [Valeria Vix](https://open.spotify.com/artist/656cRBmIQevcYvL7rOxKXX), [Vix](https://open.spotify.com/artist/75wnmUfl54n1xtyxEEp53f) | [Viciosa](https://open.spotify.com/album/48oOxfMcDO16txrQpaRU2h) | 6:27 |
+| 217 | [Slam](https://open.spotify.com/track/0TYGCUSNdjz68pc9eu0hav) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [20 Years Of Phonica \(Digital Sampler 3\)](https://open.spotify.com/album/5N7u3kazHks21Bsvucg4ao) | 6:15 |
+| 218 | [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 |
+| 219 | [Cigarrito](https://open.spotify.com/track/0SFyglNHGfxHrwUadOvG7O) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT) | [Cigarrito](https://open.spotify.com/album/7qyz5EKozAVpdedaHAuGV8) | 3:36 |
+| 220 | [Lay It on the Line](https://open.spotify.com/track/0vjJyuhBMOWLfsEiHVzgvl) | [Logg](https://open.spotify.com/artist/3v3t1WMcKhHpqDs6xGmjAQ) | [Logg](https://open.spotify.com/album/7nQYD4gdDl3chRtjtakVAZ) | 6:30 |
+| 221 | [Makeshift Tourniquet](https://open.spotify.com/track/4c6DqwAUGF2yDGZqWVGQfz) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 5:17 |
+| 222 | [I Just Want To Love You](https://open.spotify.com/track/2uxl3c56eaQdEogKA8nNag) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 3:50 |
+| 223 | [Bit](https://open.spotify.com/track/6iXbXmRXqnmpn63mbgj1Sv) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 3:04 |
+| 224 | [Petu \- Masalo Remix](https://open.spotify.com/track/3zKpuOZp6KIneHiwhYxWM8) | [Nonku Phiri](https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Petu EP](https://open.spotify.com/album/4Owh1dR3uQLSLMfI5kD6OW) | 6:05 |
+| 225 | [Student Night \(Lion's Drums Edit\)](https://open.spotify.com/track/7HBwe3xdD3nmQRAy9sRw0z) | [Sandy B](https://open.spotify.com/artist/3Np5z6yU56Sw9744o6oFLl), [Lion's Drums](https://open.spotify.com/artist/2Jl6DsGmwz7jFS7TiyOwBu) | [Lion's Drums Edits](https://open.spotify.com/album/4I3ONc4TEAz0cvfE5zjkxl) | 5:36 |
+| 226 | [She Taught Me How to Love](https://open.spotify.com/track/47P9IfPz7FtvrXZD3C4OUf) | [Rimbaudian](https://open.spotify.com/artist/2mBp5EJQEiv7xNhyriCl8r) | [Letters](https://open.spotify.com/album/5qlYH2pvRTzIVB7GxUoiXu) | 5:29 |
+| 227 | [000 Baby](https://open.spotify.com/track/5euJ2q8Kk1p4nDux0JaBsD) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Homeboys](https://open.spotify.com/album/0j4SjQNKeymCwADe5Ju83C) | 6:36 |
+| 228 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 |
 
-Snapshot ID: `MCxjY2M4MGQyYmM3YjdlNWRmNTkyYzIyMmNjZDg5OWUzNDUyNTAyZTVi`
+Snapshot ID: `MCxkNjA0NzIyMTE0ZGY2MWZjY2JiYzQ1OTY0NGU3N2EwMTY0ZGMxNDFj`

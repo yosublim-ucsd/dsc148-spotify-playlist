@@ -5624,10 +5624,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 251015,
       "name": "WANTED U",
       "url": "https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6"
+    },
+    {
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251015,
+      "name": "WANTED U",
+      "url": "https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ"
     },
     {
       "album": {

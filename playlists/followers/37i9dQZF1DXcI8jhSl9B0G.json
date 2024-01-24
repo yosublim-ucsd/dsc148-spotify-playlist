@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 74811,
+  "2024-01-24": 74831,
   "date_first_scraped": "2022-09-15",
   "description": "Tunes for sun drenched days and balmy nights.",
   "name": "Summer Daze",
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 226500,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Kick",
       "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"

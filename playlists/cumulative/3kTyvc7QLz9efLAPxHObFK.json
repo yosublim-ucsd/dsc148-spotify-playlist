@@ -2349,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Blue Moment",
+        "url": "https://open.spotify.com/album/3WLewzhRIhpWjztSxCvkg3"
+      },
+      "artists": [
+        {
+          "name": "Getty",
+          "url": "https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK"
+        },
+        {
+          "name": "Iori Matsunaga",
+          "url": "https://open.spotify.com/artist/4zsHCgCP120tpGNA7bBOdW"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240003,
+      "name": "Blue Moment",
+      "url": "https://open.spotify.com/track/3ib0h4ydtAEPSqkdBmHKIO"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0488FwtTdi0JQG0vJWST73"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eliza Marie Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,838 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,807 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 28 | [Hindi Na](https://open.spotify.com/track/1MvSj44soL3QqNxVfTfs1n) | [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth) | [Hindi Na](https://open.spotify.com/album/3ZYygADJ6n7zvtE05vvdMe) | 3:42 |
 | 29 | [Circles](https://open.spotify.com/track/4y6JNYXpD91KBELBNfS03f) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Circles](https://open.spotify.com/album/34fhT1qTfNBljlwzbFG1WA) | 3:01 |
 | 30 | [Fla\-high](https://open.spotify.com/track/5rtTC2UX3xKHWdgy3c5to8) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Fla\-high](https://open.spotify.com/album/0MMgKu3lbnTv7NNEGIzPmN) | 3:01 |
-| 31 | [grocery store](https://open.spotify.com/track/05oBhcmDcar9VsPtShF5j5) | [FEIFEI](https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX), [c0nstantine](https://open.spotify.com/artist/3GFyRmMk2d8D6KsQBRL8pu) | [grocery store](https://open.spotify.com/album/4tBxKYMkizIJugHu4wbS3x) | 2:33 |
+| 31 | [grocery store](https://open.spotify.com/track/05oBhcmDcar9VsPtShF5j5) | [FEIFEI](https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX), [c0nstantine](https://open.spotify.com/artist/6kqUeFrZXd6dLXrEYM90u9) | [grocery store](https://open.spotify.com/album/4tBxKYMkizIJugHu4wbS3x) | 2:33 |
 | 32 | [ALA\-ALA](https://open.spotify.com/track/2SaKYCPGYJ748hRPxXX8GN) | [Zaldy](https://open.spotify.com/artist/00Y7bR5luHWTu5B6qZAXKN), [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [ALA\-ALA](https://open.spotify.com/album/2waSeQuytJxaKzeZWELStF) | 3:54 |
 | 33 | [Yoko](https://open.spotify.com/track/1lDq70UydFyRrfRPnyNQsZ) | [LATESNACK](https://open.spotify.com/artist/48LFwy3xEEUhlwv6rcomRe), [Hex Magus](https://open.spotify.com/artist/1WickAriZRipE5s6apN6Xh) | [Yoko](https://open.spotify.com/album/771uuKBoc6froO6eDdJBI7) | 2:43 |
 | 34 | [RELAPSE](https://open.spotify.com/track/0i9aFyjM5Fh4hXiGgi8lyy) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [RELAPSE](https://open.spotify.com/album/6UCDai4Umkjg30Ftb6pBAk) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 |
 | 100 | [Tayo \(ating istorya\)](https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [TERAPEWTIKA](https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN) | 5:21 |
 
-Snapshot ID: `MCw5OWE0Yzk2MGY1NTk5ZDE3Y2FmZTVhMTZkNzExMzBjMGIyMGE2ZGJh`
+Snapshot ID: `MCxlZGZmNGUyM2M5NDQ4OGVjZmI0MzVlZmNhZWMyNmQ0MDJiM2QyOWE1`

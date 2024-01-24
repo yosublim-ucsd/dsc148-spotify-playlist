@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "De otro mundo",
+        "url": "https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/4NGNSSZKYo9RzLT1AHE8mD"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },

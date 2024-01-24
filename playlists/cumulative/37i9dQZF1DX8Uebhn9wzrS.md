@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,798 songs - 2 day 20 hr 26 min
+1,800 songs - 2 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [dopeness miles](https://open.spotify.com/track/3WdRc55dm15xX1Zxg96UvA) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [dopeness miles](https://open.spotify.com/album/2ugL8lln8USmINc7mCE93l) | 2:17 | 2023-01-20 | 2023-10-13 |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-04-15 | 2022-05-27 |
 | [Double Trouble](https://open.spotify.com/track/5s2wmEvIgB7AcqLSVJF8UY) | [Gush3r](https://open.spotify.com/artist/0JStswNUKUTdwoYYSGQ2eG) | [Double Trouble](https://open.spotify.com/album/25amYkdLlAv7yQZPY8Y3Vl) | 3:22 | 2022-09-16 | 2023-09-09 |
+| [down](https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [down](https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p) | 2:01 | 2024-01-19 |  |
 | [Down Low](https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J) | [typographicc](https://open.spotify.com/artist/33yCrt6g1gckis4sCmxfzC) | [Down Low](https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP) | 2:16 | 2022-04-15 | 2022-07-22 |
 | [Down the street](https://open.spotify.com/track/1xpX1C5rAiRiZboENqrxdb) | [SlowFly](https://open.spotify.com/artist/2Pi1SjVtZboevr4pxULaLb) | [Down the street](https://open.spotify.com/album/7cL0lSHdbEtTIhZrqRd99C) | 2:32 | 2022-07-22 |  |
 | [Downfield](https://open.spotify.com/track/7CMmLBYxr2PDf3Lb2Ed7k2) | [Spective](https://open.spotify.com/artist/2sFPQins7c1Mx7COcPdBUV), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Downfield](https://open.spotify.com/album/47yURpMu5QB7hcmctKhXcL) | 2:56 | 2022-07-29 | 2022-08-12 |
@@ -479,7 +480,7 @@
 | [empty heads](https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [empty heads](https://open.spotify.com/album/4P41CkhQor2WlRLv8bQYai) | 2:38 | 2023-11-17 |  |
 | [Emu](https://open.spotify.com/track/3UwfJUXOIYLhGElSoteZv7) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Emu](https://open.spotify.com/album/4QHbLSDowVtdNgqf4XXh81) | 2:17 | 2024-01-19 |  |
 | [En Vivo](https://open.spotify.com/track/0eJKlIr8wOQEkMkFmbMdZZ) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [En Vivo](https://open.spotify.com/album/1Jl3suYPWmAT711QCX5y6F) | 1:44 | 2022-09-23 | 2023-02-07 |
-| [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 | 2022-10-01 |  |
+| [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 | 2022-10-01 | 2024-01-24 |
 | [End Of Day](https://open.spotify.com/track/1HZXxS8raYpOrQp6ARqd4A) | [boppy af](https://open.spotify.com/artist/5aqNkFFLDWtvJbx4V6RZ0w) | [End Of Day](https://open.spotify.com/album/1k6DRk3AuKQxJWbdY5NciQ) | 2:39 | 2022-11-11 | 2023-09-07 |
 | [endless](https://open.spotify.com/track/1DgFzDddCvohdbma1Mgeyp) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [endless](https://open.spotify.com/album/4aSNr7wccU4oFKg3QnqjsJ) | 2:03 | 2023-11-17 |  |
 | [Enjoy](https://open.spotify.com/track/4CFNtLZ1c7bzTWfoCK8gWl) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Enjoy](https://open.spotify.com/album/2mdTnYWSmD4lb2b2H7blc7) | 1:24 | 2023-08-03 |  |
@@ -821,6 +822,7 @@
 | [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 | 2024-01-15 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
+| [Kreate](https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Kreate](https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv) | 2:30 | 2024-01-19 |  |
 | [Kyalami](https://open.spotify.com/track/0DE2JFzYVR4byph3SilATs) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Kyalami](https://open.spotify.com/album/0QOvz1G0ajW226aJNXkHkl) | 2:38 | 2023-08-31 |  |
 | [Kyiv](https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo) | [Levin](https://open.spotify.com/artist/14z9YXlyvDrv11EdLohOEI) | [Kyiv](https://open.spotify.com/album/0jpBP7SN2oONwtpi2X0uHZ) | 2:39 | 2022-04-15 | 2023-08-18 |
 | [Kyoto Heights](https://open.spotify.com/track/7DM4hfmEqXzcmsm5OciGRw) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Kyoto Heights](https://open.spotify.com/album/5cr6pLYZYj2boLIftIQ3u9) | 2:25 | 2023-06-06 | 2023-11-17 |
@@ -850,7 +852,7 @@
 | [Leaves](https://open.spotify.com/track/6bzHmsvCu9StoVrmdmDYlW) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Leaves](https://open.spotify.com/album/3QcTgZizX89kySvI2578Mf) | 1:58 | 2022-10-28 | 2023-03-09 |
 | [Left](https://open.spotify.com/track/47LZD8vMgs9oknUS3L1GaJ) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Left](https://open.spotify.com/album/0nMupNelvEmA9NKbit7vct) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2022-12-16 |  |
-| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 |  |
+| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 | 2024-01-24 |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2022-04-15 | 2022-10-14 |
 | [Lemonade Waves](https://open.spotify.com/track/6ovbhJchg5kGdayDjhUV60) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Lemonade Waves](https://open.spotify.com/album/4MiCj4Rn6yw3HLdpeXbVrX) | 2:49 | 2022-06-10 | 2023-03-25 |
 | [Lens Flare](https://open.spotify.com/track/3BPDxsdq20JHIsDPpZJzbO) | [gCoope](https://open.spotify.com/artist/0VyTdP8A5VGuLAxSzJHind), [Lxpse](https://open.spotify.com/artist/031Vp2J0KxdRPynrvxlx6r) | [Lens Flare](https://open.spotify.com/album/5ahcWCFCydgEdSgrOPuCbQ) | 1:54 | 2022-08-05 | 2022-08-12 |

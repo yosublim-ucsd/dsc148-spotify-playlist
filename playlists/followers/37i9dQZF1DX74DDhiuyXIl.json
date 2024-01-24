@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 72609,
+  "2024-01-24": 72600,
   "date_first_scraped": "2022-06-09",
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
   "name": "\u8fd4\u5bb6\u8f15\u807d",
@@ -457,7 +457,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 242571,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/0TdHOyWGsuZIStaVJIBuTI"
@@ -515,6 +515,24 @@
       "duration_ms": 287305,
       "name": "Unwanted Song",
       "url": "https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR"
+    },
+    {
+      "album": {
+        "name": "Movie \"KIDS\" Soundtrack",
+        "url": "https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0"
+      },
+      "artists": [
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298121,
+      "name": "Wait With Me - Movie \"KIDS\" Ending Song",
+      "url": "https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd"
     },
     {
       "album": {
@@ -1594,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "\u50cf\u505a\u4e00\u5834\u5922",
+        "url": "https://open.spotify.com/album/2tUeTLb4EsCEXnH9VoaCFh"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "\u50cf\u505a\u4e00\u5834\u5922",
+      "url": "https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE"
+    },
+    {
+      "album": {
         "name": "\u50cf\u662f\u4e00\u9846\u661f\u661f",
         "url": "https://open.spotify.com/album/12UdZ0g89H8qexIJJZZfxS"
       },
@@ -2575,7 +2611,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 205833,
       "name": "\u5929\u4e0b",
       "url": "https://open.spotify.com/track/7vlCdxLVwaV6wBPFwcFXXK"
@@ -3484,6 +3520,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u4e0d\u611b\u6211",
+        "url": "https://open.spotify.com/album/0VLOe8fh6Cs4YUudGmiFI2"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u8ecd",
+          "url": "https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281750,
+      "name": "\u611b\u4e0d\u611b\u6211",
+      "url": "https://open.spotify.com/track/43Ajn9NRgTDZ96uRb7QtjD"
+    },
+    {
+      "album": {
         "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb (\u96fb\u5f71\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/3iqWp3JO1ntj9XueEyk2BQ"
       },
@@ -4315,7 +4369,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 249041,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
@@ -4661,6 +4715,24 @@
       "duration_ms": 288854,
       "name": "\u6700\u52c7\u6562\u7684\u4e8b (\u96fb\u5f71\u300a\u966a\u4f60\u5f88\u4e45\u5f88\u4e45\u300b\u5ba3\u50b3\u66f2)",
       "url": "https://open.spotify.com/track/1h3oyOs2eFKJzy9CEG1xvA"
+    },
+    {
+      "album": {
+        "name": "\u6700\u597d\u4e0d\u8981\u518d\u9047\u898b\u4f60",
+        "url": "https://open.spotify.com/album/3L9z2BMTcGm6jP1gfAeTKS"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219330,
+      "name": "\u6700\u597d\u4e0d\u8981\u518d\u9047\u898b\u4f60",
+      "url": "https://open.spotify.com/track/7wnlzhLCxVmY56PkfsUD5u"
     },
     {
       "album": {
@@ -5309,7 +5381,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 254500,
       "name": "\u771f\u7684\u50bb",
       "url": "https://open.spotify.com/track/75SFJY5NVEG20HciRFqIp4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,278 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,358 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Chained Into My Brain](https://open.spotify.com/track/3PL15g18dHsv9j2japWLeZ) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SCUM](https://open.spotify.com/album/30Vekn7zrEIyTT0IKTrI93) | 2:55 |
 | 85 | [Medic](https://open.spotify.com/track/19Pz0tELBDS6OtP8W6XLSy) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Medic](https://open.spotify.com/album/2wTDj7Wy6qKwYRMAfr31El) | 3:41 |
 
-Snapshot ID: `MCwyMjU1YjYzOTg5MTgyY2JlOTk0YTU0OTgxZmJkNGY5NjZmMGQ1NjZk`
+Snapshot ID: `MCxmYjljZGNmNWU1M2YxNDY0MTEyMzE4ZGY5OTM3NjkxMDQ1OTRhYzYz`

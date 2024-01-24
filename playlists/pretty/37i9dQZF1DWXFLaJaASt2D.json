@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 62101,
+  "num_followers": 62170,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTE5M2RjMDFjMzkyYTMxOTFjY2Y2MjhlNzgwMDBlMDQ4NzBkMWE0",
+  "snapshot_id": "MCwwZTg2ZDI1MTBjNzg0ZjE3NDViNTE3MjI1ZmY4M2IzNTVkZWU3MjQ1",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Still Not Getting Any",
         "url": "https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 206773,
       "name": "Welcome to My Life",
       "url": "https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2022-01-10 21:04:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "White People for Peace",
-      "url": "https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 131120,
       "name": "Sliver",
       "url": "https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "White People for Peace",
+      "url": "https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X"
     },
     {
       "added_at": "2021-04-20 17:48:20",

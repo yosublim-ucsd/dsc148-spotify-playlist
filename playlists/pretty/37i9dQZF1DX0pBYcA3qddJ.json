@@ -1,15 +1,15 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 52107,
+  "num_followers": 52092,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzdlOTU4ZTMzZjk5YWI1NjAwODViYjg2NzU1ZDE1OGNlYjA1OGRl",
+  "snapshot_id": "MCwwYjJiOGU2OTc0MGUzMzU5YzBiYTAzZGIzYTY1ODBhYTQ5OGExYzgw",
   "tracks": [
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Clockless Room",
         "url": "https://open.spotify.com/album/1ooe9o8Eq4Ix2Cq3l2FcG1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3n0kVYA1CUSsNYkeaNasGT"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
@@ -41,55 +41,23 @@
       "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Arietta",
-        "url": "https://open.spotify.com/album/6h9VfhYdxzNbCtoKWmnkYX"
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51Y9W3uAwSwbeO8WWPgyiz"
       },
       "artists": [
         {
-          "name": "Tico Moon",
-          "url": "https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz"
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
         }
       ],
-      "duration_ms": 93066,
-      "name": "In the Mist",
-      "url": "https://open.spotify.com/track/3UrztnIFSszMogk91JNlci"
+      "duration_ms": 335515,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/5i7jFc90XNuTFfDNIhyfhw"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Swans",
-        "url": "https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Swans",
-      "url": "https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Rhapsody Japan",
-        "url": "https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK"
-      },
-      "artists": [
-        {
-          "name": "Kaori Muraji",
-          "url": "https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P"
-        }
-      ],
-      "duration_ms": 138146,
-      "name": "Snowdrop",
-      "url": "https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Asleep Among Endives",
         "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Rhapsody Japan",
+        "url": "https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK"
+      },
+      "artists": [
+        {
+          "name": "Kaori Muraji",
+          "url": "https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P"
+        }
+      ],
+      "duration_ms": 138146,
+      "name": "Snowdrop",
+      "url": "https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Swans",
+        "url": "https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Swans",
+      "url": "https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Chopin Legacy",
         "url": "https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5SmgIclUbgMEuCw1sNHTg8"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Nostalghia~Kiyomizu~",
         "url": "https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/0aauH3yCCRncERNOWNFLRI"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Thread",
         "url": "https://open.spotify.com/album/4LuYdxn4mC9D5k9noHma50"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6xqXfaGotwTgv14leEilrC"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Anchors. The Best of Senoo 2000-2009",
         "url": "https://open.spotify.com/album/2LY3OVfHp433zHYY7iMs3Y"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/45pEljf6gASrPzgnwfosj3"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Tailleferre: Valse lente",
         "url": "https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Mendelssohn: Songs Without Words Vol.1, Variations s\u00e9rieuses Op.54",
         "url": "https://open.spotify.com/album/5NshiFCdwSqXx4zJvA06rE"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/7L7BUMBEnSLqKoyXg4qHqk"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Cairngorms",
         "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/7iRMIJJv9NsGfvyYGbgobi"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/2bOalGfLHderIlSLeoc1TY"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Dear Dustin",
         "url": "https://open.spotify.com/album/4Pnogn6xi5qunLhEKFw0mU"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/1IlIZkRAdgFaYTLFAy62Y9"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "\u30b7\u30e3\u30b3\u30f3\u30cc",
         "url": "https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7"
@@ -365,39 +365,7 @@
       "url": "https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Osmanthus",
-        "url": "https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Osmanthus",
-      "url": "https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
@@ -413,7 +381,39 @@
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Osmanthus",
+        "url": "https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Osmanthus",
+      "url": "https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Finland 100 Years: Classical Music",
         "url": "https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Luna e Sole",
         "url": "https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc:\u30d4\u30a2\u30ce\u5354\u594f\u66f2 \u7b2c1\u756a\u3001\u4ed6",
         "url": "https://open.spotify.com/album/5o0pobWmxuMZi83CpVYuKM"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/4fEN4gcODkve0o4x9yCmpH"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Liszt: Piano Sonata",
         "url": "https://open.spotify.com/album/5XNVrljXjcwKnzo2YHUjrY"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/7dS8h3dvUTyxzuppAZdPEe"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6I1kiP1gSmJsHvrw2PPVV7"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/5wI1cCs9574YHcRK9Se8a9"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/78krJSkQpCruKbw8yrd1uQ"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
@@ -601,23 +601,23 @@
       "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "sunshine",
-        "url": "https://open.spotify.com/album/4lL6BEOObcD162mpuaegOD"
+        "name": "\u8857\u89d2",
+        "url": "https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk"
       },
       "artists": [
         {
-          "name": "SAKURA FUJIWARA",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+          "name": "yobai suspects",
+          "url": "https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv"
         }
       ],
-      "duration_ms": 221250,
-      "name": "sunshine",
-      "url": "https://open.spotify.com/track/1ekTOhefDvMDd0pfeBzePe"
+      "duration_ms": 281746,
+      "name": "\u8857\u89d2",
+      "url": "https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "For Lovers",
         "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "opus",
         "url": "https://open.spotify.com/album/6U5D76Uw1oeRDSv11Zmjfl"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/1aO78Al3o07IrUdeBy9HXm"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/41q9qpBZckfeDMtMAMpzUT"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1RpDvXdCChjwRFF7hXINcQ"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "debut",
         "url": "https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/1qAhkcBWmkSbaW5VNqQ7tQ"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "White Ribbons",
         "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "NHK\u30b9\u30da\u30b7\u30e3\u30eb \u65b0\u30fb\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 \u592a\u5e73\u6d0b\u6226\u4e89 \u5343\u4f4f \u660e",
         "url": "https://open.spotify.com/album/46y3R2psVvaKb4CAE5pzIK"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/3TueRWHLseKcEnhn0k89Vi"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "In A Little While (Demo)",
         "url": "https://open.spotify.com/album/7cXpVPMICPQrdRZQm94VKH"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1dtuekJQHi8E2KRYiDlH6n"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Fallen Flowers",
         "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "QUIET SPACE FOR QUIET LIFE, Pt.3&4",
         "url": "https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Lasting Memories",
         "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
@@ -905,27 +905,23 @@
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "\u97f3\u697d\u306e\u7389\u624b\u7bb1 Vol. 1 - \u30ab\u30f3\u30bf\u30fc\u30d3\u30ec -",
-        "url": "https://open.spotify.com/album/5xChfBf6JMus8YKm0rbioS"
+        "name": "where everything flows",
+        "url": "https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Rika Miyatani",
-          "url": "https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1"
+          "name": "soma",
+          "url": "https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0"
         }
       ],
-      "duration_ms": 194040,
-      "name": "\u30a8\u30ea\u30fc\u30bc\u306e\u305f\u3081\u306b, WoO.59",
-      "url": "https://open.spotify.com/track/7w2WJmfMigMYyQMe2xJ9LH"
+      "duration_ms": 168000,
+      "name": "where everything flows",
+      "url": "https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
@@ -941,7 +937,7 @@
       "url": "https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Wall Of Eyes",
         "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
@@ -957,7 +953,7 @@
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
@@ -977,7 +973,7 @@
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "My Favorite Songs",
         "url": "https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX"
@@ -993,7 +989,7 @@
       "url": "https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "surfkids nostalgia",
         "url": "https://open.spotify.com/album/2Kx4uojmsqwwwvluoqkd4L"
@@ -1025,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4gKmBDS84ly3f5nlAEU3Fk"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
@@ -1049,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "all my luv",
         "url": "https://open.spotify.com/album/2zWYE2eOqWnnPQiKRCsvMC"
@@ -1065,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0hUySpxkxqBnfLV1nazJGA"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
@@ -1081,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "shibuya",
         "url": "https://open.spotify.com/album/5b9ELiRLVZCoWS0k3TQSDp"
@@ -1097,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4NDYT0dM1TwkYctfvpDBtI"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
@@ -1121,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "RETRO MODERN DANDY",
         "url": "https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS"
@@ -1137,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
@@ -1153,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Chillin' In The Dark",
         "url": "https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo"
@@ -1169,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
@@ -1185,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Monster (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39M30s6dzpTXxGepQJuWeZ"
@@ -1201,7 +1197,7 @@
       "url": "https://open.spotify.com/track/617VzMK6UIWdMhLVZMeO0w"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
@@ -1221,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "The Boy and the Heron - Original Soundtrack",
         "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
@@ -1237,7 +1233,7 @@
       "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
@@ -1257,7 +1253,7 @@
       "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW"
@@ -1277,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
@@ -1293,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Delibes: Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
         "url": "https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V"
@@ -1313,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "NOCHE",
         "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
@@ -1329,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "A Love International",
         "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
@@ -1345,7 +1341,7 @@
       "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
         "url": "https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX"
@@ -1365,7 +1361,7 @@
       "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "WAVES: Music by Rameau, Ravel, Alkan",
         "url": "https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz"
@@ -1385,7 +1381,7 @@
       "url": "https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Aono \uff06 Akine (From \"Blue Orchestra\" Original Soundtrack)",
         "url": "https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x"
@@ -1401,23 +1397,23 @@
       "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Memories in a Solitary Dance",
-        "url": "https://open.spotify.com/album/5m9llyocnBGYqCKCwkwJlF"
+        "name": "\u306f\u3072\u3075\u3078\u307b",
+        "url": "https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu"
       },
       "artists": [
         {
-          "name": "Sonic Abodes",
-          "url": "https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x"
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
         }
       ],
-      "duration_ms": 149937,
-      "name": "Memories in a Solitary Dance",
-      "url": "https://open.spotify.com/track/7eh4caukWjVRB7Tno29B0u"
+      "duration_ms": 192000,
+      "name": "\u306f\u3072\u3075\u3078\u307b",
+      "url": "https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
@@ -1433,7 +1429,7 @@
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "pink cloud",
         "url": "https://open.spotify.com/album/6JQIULtyJOjYL3zZMxwGgJ"
@@ -1449,27 +1445,23 @@
       "url": "https://open.spotify.com/track/0wz4zB7ngsuHPZpyTGvlKi"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 235644,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Near (Bryan Senti Remix)",
         "url": "https://open.spotify.com/album/1rJZxFwlgDQIe3hc2XbSct"
@@ -1493,23 +1485,27 @@
       "url": "https://open.spotify.com/track/7HiCs8TLZ1BDl1xZx23byI"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 235644,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/34ZCIBYmH0rmPvcC3Gtj64"
@@ -1525,71 +1521,7 @@
       "url": "https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "The Fight",
-      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "warm",
-        "url": "https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 242391,
-      "name": "warm",
-      "url": "https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "Streets Of Heaven",
-        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 188854,
-      "name": "Streets Of Heaven",
-      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg"
-      },
-      "artists": [
-        {
-          "name": "katsuya mouri",
-          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
-        }
-      ],
-      "duration_ms": 222454,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Lanterns",
         "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
@@ -1605,23 +1537,55 @@
       "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Nocturne (piano at home ver.)",
-        "url": "https://open.spotify.com/album/3Ro9buqMb0i8rcryaGkqwG"
+        "name": "warm",
+        "url": "https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS"
       },
       "artists": [
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Nocturne - piano at home ver.",
-      "url": "https://open.spotify.com/track/1rYFbk115enHzhmesbTh15"
+      "duration_ms": 242391,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Streets Of Heaven",
+        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "Streets Of Heaven",
+      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg"
+      },
+      "artists": [
+        {
+          "name": "katsuya mouri",
+          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
+        }
+      ],
+      "duration_ms": 222454,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
         "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
@@ -1637,7 +1601,39 @@
       "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "Nocturne (piano at home ver.)",
+        "url": "https://open.spotify.com/album/3Ro9buqMb0i8rcryaGkqwG"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Nocturne - piano at home ver.",
+      "url": "https://open.spotify.com/track/1rYFbk115enHzhmesbTh15"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "The Fight",
+      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
+    },
+    {
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "J.S. Bach: Goldberg Variations, BWV 988: Aria",
         "url": "https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j"
@@ -1657,7 +1653,7 @@
       "url": "https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Empty Lake (feat. Clara Mann)",
         "url": "https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi"
@@ -1677,7 +1673,7 @@
       "url": "https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "black water",
         "url": "https://open.spotify.com/album/3saierJqB0o8qda5fiLtE7"
@@ -1693,7 +1689,7 @@
       "url": "https://open.spotify.com/track/4538ZqQBGCKy36Uus7exSl"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
@@ -1709,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
         "name": "Komorebi no Kioku",
         "url": "https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI"
@@ -1725,20 +1721,20 @@
       "url": "https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2"
     },
     {
-      "added_at": "2024-01-18 15:00:00",
+      "added_at": "2024-01-23 21:32:59",
       "album": {
-        "name": "Columbo",
-        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
+        "name": "Poolgirl, Poolboy",
+        "url": "https://open.spotify.com/album/1KKTiuprfwmoaAQ4NjqK5s"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Cidres",
+          "url": "https://open.spotify.com/artist/2bsA35SnFBfEwlbJTykSsO"
         }
       ],
-      "duration_ms": 213316,
-      "name": "Columbo",
-      "url": "https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL"
+      "duration_ms": 188855,
+      "name": "Poolgirl, Poolboy",
+      "url": "https://open.spotify.com/track/1LTQcQsBIYGMCtmUcBxcjO"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174337,
+  "num_followers": 174295,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjg4Yjk2NDA4OWMwOWNiYzI1NjU4YjUxZjAxNDYzOTQ4OTQ2OWM4",
+  "snapshot_id": "MCwxNDFlODNlYzViZjNjMmEwY2RlZTk3YThjYmExZjg1Y2RiY2E1YzY2",
   "tracks": [
     {
       "added_at": "2024-01-17 10:21:34",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Sopra",
-      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Sopra",
+      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 251413,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 236586,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "Soundtrack '96 - 06 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        },
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Gli Ostacoli Del Cuore",
-      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     },
     {
       "added_at": "2024-01-17 10:21:34",

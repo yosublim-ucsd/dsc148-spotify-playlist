@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,012 likes - 184 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,047 likes - 184 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 183 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
 | 184 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 |
 
-Snapshot ID: `MCw1YzI4YjhmODFjYzExMjliZGJiMjQzZDY0Y2FkZWQ5ZjQ1OWNlMDdj`
+Snapshot ID: `MCw0ODJlZGNhNmFjYTI3OTUxYmE3MWE5YjU5ZmE1NWZkYTQyZTMwNDc2`

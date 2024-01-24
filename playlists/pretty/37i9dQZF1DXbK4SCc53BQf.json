@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 93285,
+  "num_followers": 93241,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWVlNDQ1NzA3ZjQwYjQxYzk3YmYwOWM1ZTI1MTdhYzQ3MmMzYzg3",
+  "snapshot_id": "MCxlNTJiZTFkNGI1ZTk3MmIwYmZhYzBiZGFjODA1YmY5YWYwODQyNmE1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "No Hay Limites",
-        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
-      },
-      "artists": [
-        {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
-        }
-      ],
-      "duration_ms": 236874,
-      "name": "Tu Voz Hablar",
-      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "No Hay Limites",
+        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "duration_ms": 236874,
+      "name": "Tu Voz Hablar",
+      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Fiesta Celestia: Amado Mio",
+        "url": "https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "United Kingdom 2 (Volumen 2)",
         "url": "https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 231003,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -855,18 +855,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Fiesta Celestia: Amado Mio",
-        "url": "https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k"
+        "name": "Quinto Elemento",
+        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
       },
       "artists": [
         {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+          "name": "Ariel Kelly",
+          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
         }
       ],
-      "duration_ms": 282984,
-      "name": "Tengo un Nuevo Amor - Salsa",
-      "url": "https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X"
+      "duration_ms": 190611,
+      "name": "Va Cae",
+      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     },
     {
       "added_at": "2020-11-24 13:23:55",

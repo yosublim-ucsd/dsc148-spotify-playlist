@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-143 songs - 9 hr 28 min
+144 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Shake & Pop \- Original Mix](https://open.spotify.com/track/2wEuWAECPYvxuyOL6mHiJV) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Walter Philips](https://open.spotify.com/artist/2Hcn9vduCLx5jqYjqUuM2V) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:27 | 2022-07-01 | 2023-06-10 |
 | [Show Me What You Got!](https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z) | [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [Show Me What You Got!](https://open.spotify.com/album/03qAvr8nGizSRugl3xpGR8) | 3:00 | 2021-11-19 |  |
 | [Sickening](https://open.spotify.com/track/0yO8JKlIOY6phGSlzFpKcm) | [Alsace Carcione](https://open.spotify.com/artist/43oMOJeZr8shNmaBvgvAKr) | [Sickening](https://open.spotify.com/album/2ZrjxpBRyOH2TdWntgXEre) | 3:11 | 2022-02-04 |  |
-| [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 | 2022-07-01 |  |
+| [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 | 2022-07-01 | 2024-01-24 |
+| [Sip of My Sip](https://open.spotify.com/track/6KZCtXIEXU4lmmL4QD8MMQ) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Svengali](https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx) | 3:18 | 2024-01-12 |  |
 | [Slap My B\*tt](https://open.spotify.com/track/3ScUXRzJN51KS5BLYcYf28) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [One Trick Pony](https://open.spotify.com/album/3DsBrHTjrvPVLDK05kqy93) | 6:10 | 2021-11-19 |  |
 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-24 |  |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-11-19 |  |

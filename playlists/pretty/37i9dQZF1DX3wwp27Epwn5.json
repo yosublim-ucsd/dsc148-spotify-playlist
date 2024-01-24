@@ -1,12 +1,12 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 184698,
+  "num_followers": 184665,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWZmZmZkOGQ0OTc2ZTA4YmIxMjkwZGM2ZWYzNmYwYjYxNDU0YTVj",
+  "snapshot_id": "MCxjN2IxZDM3MjUwZGJjMzYwYzc2ZDZlMjFmM2Y0NGY1YmVlMDg1NWUy",
   "tracks": [
     {
       "added_at": "2024-01-15 06:38:19",
@@ -279,30 +279,34 @@
     {
       "added_at": "2024-01-15 06:38:19",
       "album": {
-        "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
-        "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
+        "name": "Dil Dhadakne Do",
+        "url": "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Yashita Sharma",
+          "url": "https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3"
         },
         {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+          "name": "Manish Kumar Tipu",
+          "url": "https://open.spotify.com/artist/2LtSNhjLF0YPtPeC66Bd0f"
         },
         {
-          "name": "Shamur",
-          "url": "https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP"
+          "name": "Farhan Akhtar",
+          "url": "https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L"
         },
         {
-          "name": "IP Singh",
-          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
         }
       ],
-      "duration_ms": 164045,
-      "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
-      "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
+      "duration_ms": 296500,
+      "name": "Gallan Goodiyaan",
+      "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR"
     },
     {
       "added_at": "2024-01-15 06:38:19",
@@ -343,34 +347,30 @@
     {
       "added_at": "2024-01-15 06:38:19",
       "album": {
-        "name": "Dil Dhadakne Do",
-        "url": "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
+        "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
+        "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
       },
       "artists": [
         {
-          "name": "Yashita Sharma",
-          "url": "https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3"
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "Manish Kumar Tipu",
-          "url": "https://open.spotify.com/artist/2LtSNhjLF0YPtPeC66Bd0f"
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
         },
         {
-          "name": "Farhan Akhtar",
-          "url": "https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L"
+          "name": "Shamur",
+          "url": "https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP"
         },
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
         }
       ],
-      "duration_ms": 296500,
-      "name": "Gallan Goodiyaan",
-      "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR"
+      "duration_ms": 164045,
+      "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
+      "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
     },
     {
       "added_at": "2024-01-15 06:38:19",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-01-15 06:38:19",
       "album": {
-        "name": "Urvashi",
-        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
       "artists": [
         {
           "name": "Yo Yo Honey Singh",
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 215483,
-      "name": "Urvashi",
-      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2024-01-15 06:38:19",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2024-01-15 06:38:19",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+        "name": "Urvashi",
+        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
       },
       "artists": [
         {
           "name": "Yo Yo Honey Singh",
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+      "duration_ms": 215483,
+      "name": "Urvashi",
+      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
     },
     {
       "added_at": "2024-01-15 06:38:19",
@@ -1191,30 +1191,22 @@
     {
       "added_at": "2024-01-15 06:38:19",
       "album": {
-        "name": "Munda Sona Hoon Main (From \"Shehzada\")",
-        "url": "https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9"
+        "name": "Padmaavat",
+        "url": "https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Shivam Pathak",
+          "url": "https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj"
         },
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
         }
       ],
-      "duration_ms": 229947,
-      "name": "Munda Sona Hoon Main (From \"Shehzada\")",
-      "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
+      "duration_ms": 258893,
+      "name": "Khalibali",
+      "url": "https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1"
     }
   ],
   "unique_name": "Bollywood Workout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,030 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,216 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 51 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 52 | [cost](https://open.spotify.com/track/4RYB1uoM00xwHSgAVQb5p7) | [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [cost](https://open.spotify.com/album/4BNbADVDGYmlsDo6cqaXfV) | 3:15 |
 | 53 | [Your Time Is Gonna Come \- Remaster](https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 4:34 |
-| 54 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/2a9dSekAhtHVyTUaI5f65U) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\) \[Acoustic Live Version\]](https://open.spotify.com/album/6LAcWcel05QWZz1dLGAbk7) | 3:50 |
+| 54 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/7qmqC8dgl2BXWgJRW4xseD) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Jackson Wang & Warren Hue\) \[Remix\]](https://open.spotify.com/album/2gg6B0XKlAW0XwIMIrwk2n) | 3:50 |
 | 55 | [Big Sun](https://open.spotify.com/track/4Q9quDwo6aLLJtgObIG9rs) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 0:36 |
 | 56 | [Jade Dragon Hideout](https://open.spotify.com/track/5Pd73TFDrLeDWz4gf0c2fT) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 2:18 |
 | 57 | [Charles Alhambra](https://open.spotify.com/track/73bHBBMXpaI8gbwdR2x5dW) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 0:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 84 | [Dragon Queen](https://open.spotify.com/track/2AbwN6pn80Q15HXFmyQFBC) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:05 |
 | 85 | [The Brothers Sun Theme](https://open.spotify.com/track/52J5I49col4MOn9AQsBl3Y) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:03 |
 
-Snapshot ID: `MCw5NmY4ODllMzQzZjgzMjI5OTA2MDA1ZjM2ZTlhODNmNWE0NjkxNDIy`
+Snapshot ID: `MCwzYTI3ZGRlODhkODU1MmFmNDE1ZjI3ZWQ3Nzk1ZmQyZGI5MGNlYTU5`

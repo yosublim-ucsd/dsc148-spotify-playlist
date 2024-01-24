@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Angular Distance",
+        "url": "https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX"
+      },
+      "artists": [
+        {
+          "name": "New Lab",
+          "url": "https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Angular Distance",
+      "url": "https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc"
+    },
+    {
+      "album": {
         "name": "Another Galaxy",
         "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 179458,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 168333,
       "name": "Contiguity",
       "url": "https://open.spotify.com/track/6chn2aUEntTTZroD83g3UQ"
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Emotional privilege",
+        "url": "https://open.spotify.com/album/2zLe2Cg7gGiBJIuqzIIOLO"
+      },
+      "artists": [
+        {
+          "name": "Jody R",
+          "url": "https://open.spotify.com/artist/0PRbFVcIjvJfd4NaHLBxjJ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Emotional privilege",
+      "url": "https://open.spotify.com/track/0T6MlMNUB10hPTou6NaMRL"
+    },
+    {
+      "album": {
         "name": "Empfidlich",
         "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
       },
@@ -812,6 +848,24 @@
       "duration_ms": 133612,
       "name": "Erstwhile",
       "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG"
+      },
+      "artists": [
+        {
+          "name": "Rufus Ziegler",
+          "url": "https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144560,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH"
     },
     {
       "album": {
@@ -1190,6 +1244,24 @@
       "duration_ms": 168302,
       "name": "Growing Stronger",
       "url": "https://open.spotify.com/track/5Wamnt7wlwXHVtV89JRdLy"
+    },
+    {
+      "album": {
+        "name": "Gruis Silentium",
+        "url": "https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz"
+      },
+      "artists": [
+        {
+          "name": "Lukasti",
+          "url": "https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Gruis Silentium",
+      "url": "https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T"
     },
     {
       "album": {
@@ -1661,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Luminous Clouds",
+        "url": "https://open.spotify.com/album/5BhSqPMIfJQPdAFrIbtBz0"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175442,
+      "name": "Luminous Clouds",
+      "url": "https://open.spotify.com/track/3Zzs7RBd58qW0uppISjX6d"
+    },
+    {
+      "album": {
         "name": "Mahabharata",
         "url": "https://open.spotify.com/album/7vTm9nMF9IlpmnL18EQ1jo"
       },
@@ -1841,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Night Balance",
+        "url": "https://open.spotify.com/album/6f4uCXAOBOybl2GsBPVBeM"
+      },
+      "artists": [
+        {
+          "name": "Echoella",
+          "url": "https://open.spotify.com/artist/2JuyhYpdLougs9BMiRdEtM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185948,
+      "name": "Night Balance",
+      "url": "https://open.spotify.com/track/63ceisvNCC6rnFThnZpzyW"
+    },
+    {
+      "album": {
         "name": "Night Mind",
         "url": "https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd"
       },
@@ -1982,6 +2090,24 @@
       "duration_ms": 246866,
       "name": "Otherworldly",
       "url": "https://open.spotify.com/track/7dSYf8JKuJidfli7wddvZB"
+    },
+    {
+      "album": {
+        "name": "Path",
+        "url": "https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53"
+      },
+      "artists": [
+        {
+          "name": "Zeejo Report",
+          "url": "https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Path",
+      "url": "https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY"
     },
     {
       "album": {
@@ -2291,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Relaxed Mind",
+        "url": "https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5"
+      },
+      "artists": [
+        {
+          "name": "Malviti",
+          "url": "https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Relaxed Mind",
+      "url": "https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi"
+    },
+    {
+      "album": {
         "name": "Resolvation",
         "url": "https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT"
       },
@@ -2453,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Serenities",
+        "url": "https://open.spotify.com/album/0Fi9mtDS0A7ha7p4e3b9QO"
+      },
+      "artists": [
+        {
+          "name": "Harry Valentin",
+          "url": "https://open.spotify.com/artist/04JBf9eOjPHRiBnFqw85gr"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206756,
+      "name": "Serenities",
+      "url": "https://open.spotify.com/track/2NS1ftYFakh4U1ETAc4vbe"
+    },
+    {
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2y4o1nOSUMFUmlGJxWCS31"
       },
@@ -2518,7 +2680,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 174827,
       "name": "Shinrabansho",
       "url": "https://open.spotify.com/track/6S1cvapi9HH9tr1uX9clVb"
@@ -3191,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Wider Purpose",
+        "url": "https://open.spotify.com/album/7hAwWhV1BZVOql2EPChZVk"
+      },
+      "artists": [
+        {
+          "name": "Imperial Atlas",
+          "url": "https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Wider Purpose",
+      "url": "https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM"
+    },
+    {
+      "album": {
         "name": "Windless",
         "url": "https://open.spotify.com/album/4NWnsUt3Vo2cd2Ky9W6NLn"
       },
@@ -3206,6 +3386,24 @@
       "duration_ms": 170400,
       "name": "Windless",
       "url": "https://open.spotify.com/track/6fIG5NvcmuBGcHgweSi072"
+    },
+    {
+      "album": {
+        "name": "Wistful",
+        "url": "https://open.spotify.com/album/3fgw9qIYk2KssHnubdpqjo"
+      },
+      "artists": [
+        {
+          "name": "Xavier H Summers",
+          "url": "https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159658,
+      "name": "Wistful",
+      "url": "https://open.spotify.com/track/4HTigs5BP4B7wnFfIx4X1f"
     },
     {
       "album": {
@@ -3242,6 +3440,24 @@
       "duration_ms": 135723,
       "name": "Within Reach",
       "url": "https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT"
+    },
+    {
+      "album": {
+        "name": "Zen canvas",
+        "url": "https://open.spotify.com/album/0RlWAsLxO7lxj9cnmEuoUq"
+      },
+      "artists": [
+        {
+          "name": "Chillnaut",
+          "url": "https://open.spotify.com/artist/1DInqaJwx6HKGqOy86kVgb"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190977,
+      "name": "Zen canvas",
+      "url": "https://open.spotify.com/track/3PaWVhz0s0YRC3gDiAYLVQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8tYYl2HSCud"

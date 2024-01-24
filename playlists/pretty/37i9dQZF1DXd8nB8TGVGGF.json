@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 33843,
+  "num_followers": 33897,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4",
+  "snapshot_id": "MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "I Must Have A Hole In My Head",
-      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 164080,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
+      },
+      "artists": [
+        {
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "I Must Have A Hole In My Head",
+      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Early One Morning",
-      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Checkin' It Out",
         "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 196666,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Early One Morning",
+      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Blues Summit",
+        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 298066,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 214800,
       "name": "Buzz Me Baby",
       "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "You Put the Heart on Me",
-      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "On The Waterfront",
-        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         }
       ],
-      "duration_ms": 144733,
-      "name": "Don\u2019t Want Nobody Else",
-      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
+      "duration_ms": 160853,
+      "name": "You Put the Heart on Me",
+      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1575,18 +1579,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+        "name": "On The Waterfront",
+        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
       },
       "artists": [
         {
-          "name": "Savoy Brown Blues Band",
-          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Let Me Love You Baby",
-      "url": "https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR"
+      "duration_ms": 144733,
+      "name": "Don\u2019t Want Nobody Else",
+      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1607,6 +1611,22 @@
       "duration_ms": 177560,
       "name": "Feelin' Good - Remastered 2022",
       "url": "https://open.spotify.com/track/0hXOrxpO4fKKU53ac3p0Mh"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown Blues Band",
+          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1723,22 +1743,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Summit",
-        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
+        "name": "When Girls Do It",
+        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Tender Slim",
+          "url": "https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO"
         }
       ],
-      "duration_ms": 298066,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
+      "duration_ms": 178480,
+      "name": "I'm Checkin' Up",
+      "url": "https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1775,22 +1791,6 @@
       "duration_ms": 130106,
       "name": "Why Don't You Write Back to Me",
       "url": "https://open.spotify.com/track/3twEpu6BbsrVnn941gMBR4"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "When Girls Do It",
-        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
-      },
-      "artists": [
-        {
-          "name": "Tender Slim",
-          "url": "https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "I'm Checkin' Up",
-      "url": "https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 180793,
       "name": "Down Town",
       "url": "https://open.spotify.com/track/6duAVSfai8qK7TKjl82Lv3"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
-        "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6rYpL8O8zMiwLY4nOq8nqr"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Cracked Spanner Head",
         "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 176053,
       "name": "Crack Your Head",
       "url": "https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
+        "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6rYpL8O8zMiwLY4nOq8nqr"
     },
     {
       "added_at": "2023-01-27 16:34:16",

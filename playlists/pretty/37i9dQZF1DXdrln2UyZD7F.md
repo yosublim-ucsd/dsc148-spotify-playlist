@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,769 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,635 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 59 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 60 | [Into the Rhythm](https://open.spotify.com/track/2TzjhHRiMJw6pSpuThHuwR) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0) | [Into the Rhythm](https://open.spotify.com/album/2OXtwgzcRRQv5kXu4nfY2I) | 2:32 |
 
-Snapshot ID: `MCw4Yjk4YWQ4ZTFlOWJjNzdlYjY0ZTczZDA1OWQ5NmIwY2Y0MTkxMmE1`
+Snapshot ID: `MCw3OTk1YWZkMzZlZTRlNzIxZGNiNjgxM2VlMjRjNmJkMTJlNGYzMjI5`

@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Anycia & Latto",
-  "num_followers": 6566,
+  "num_followers": 6574,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTMxNzRkOGM4NmY4OWY0MjE3NzgzNmMyMjYxOGJhOWJkYzk0OWRi",
+  "snapshot_id": "MCwzYzg4ZjU5YmEzNzA1MDUyYTQzYWY0N2U1OWJiZmJkNTQ1ZmJlZTZi",
   "tracks": [
     {
       "added_at": "2024-01-19 08:17:54",
@@ -898,6 +898,10 @@
         {
           "name": "Brandon.",
           "url": "https://open.spotify.com/artist/1mJZuoJodJUUXGD5xY8EES"
+        },
+        {
+          "name": "Baby Got Beatz",
+          "url": "https://open.spotify.com/artist/26ER6mV6xcTACiCGYA3Qyd"
         }
       ],
       "duration_ms": 131830,

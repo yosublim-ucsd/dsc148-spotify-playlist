@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Our real life angel, miss nessa barrett\. Watch her <a href="https://www.youtube.com/watch?v=z8B9zf3Bn1E">exclusive Spotify Green Screen performance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,173,233 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,172,787 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 102 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 |
 | 103 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
 
-Snapshot ID: `MCxlYTRmYjIyYWM0MzYwOWViZGFjNzIyMDgwYzRjNDNkNjI1NWRiNGNm`
+Snapshot ID: `MCxlNWMxYzlmZDUyNGU3NzIxOTE1Nzg4MTg2YzhhYzQ4ODA3MzY3M2Q5`

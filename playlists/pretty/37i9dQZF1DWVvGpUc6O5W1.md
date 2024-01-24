@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,084 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,106 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 69 | [Te Lo Dije](https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:23 |
 | 70 | [Maldito Antojo](https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Garantizados](https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR) | 3:25 |
 | 71 | [Física y Química](https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 2:56 |
-| 72 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
-| 73 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
+| 72 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
+| 73 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
 | 74 | [Què Voy Hacer](https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 4:20 |
 | 75 | [Olvidame](https://open.spotify.com/track/0GvTHBiwOo2GiUhqu8mdsW) | [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Olvidame](https://open.spotify.com/album/5L5Q3dGox09sp50aBByuTG) | 3:11 |
 | 76 | [Pa' No Quedarme Con las Ganas](https://open.spotify.com/track/4mgFxkomGzWG5V0wD2FsFI) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Mano a Mano](https://open.spotify.com/album/36VIysGLIhLjb7m1kU8dBn) | 2:56 |
@@ -136,10 +136,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 126 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 |
 | 127 | [Como un Rosal \(feat\. Joss Favela\)](https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t) | [Miguel Martinez](https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [A Lo Que Vengo, Vengo](https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd) | 2:44 |
 | 128 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
-| 129 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
-| 130 | [Arrodíllate](https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:05 |
-| 131 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
-| 132 | [No Te Quedes Con la Duda](https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [No Te Quedes Con la Duda](https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT) | 2:33 |
+| 129 | [Arrodíllate](https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:05 |
+| 130 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
+| 131 | [No Te Quedes Con la Duda](https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [No Te Quedes Con la Duda](https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT) | 2:33 |
+| 132 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
 | 133 | [La Mejor Version de Mi \(Banda\)](https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT) | [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA) | [La Mejor Version de Mi \(Banda\)](https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3) | 3:27 |
 | 134 | [¿Porqué No Cambiamos?](https://open.spotify.com/track/0UckHNQiC7mHzEPtzlKbMU) | [Banda Impresionante de Monterrey](https://open.spotify.com/artist/7HpYvz5zIo7WJcIXxDIEtT) | [Por Qué No Cambiamos](https://open.spotify.com/album/7M77td6PUfC2fbSh4e5PUd) | 3:01 |
 | 135 | [Disque Amigos](https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3) | [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [Ni Mas Ni Menos](https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7) | 2:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 |
 | 150 | [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 |
 
-Snapshot ID: `MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0`
+Snapshot ID: `MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4`

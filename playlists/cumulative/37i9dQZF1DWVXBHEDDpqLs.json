@@ -3180,10 +3180,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 198362,
       "name": "Sip of My Sip",
       "url": "https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG"
+    },
+    {
+      "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Sevndeep",
+          "url": "https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198362,
+      "name": "Sip of My Sip",
+      "url": "https://open.spotify.com/track/6KZCtXIEXU4lmmL4QD8MMQ"
     },
     {
       "album": {

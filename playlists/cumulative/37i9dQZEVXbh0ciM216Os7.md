@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,029 songs - 2 day 17 hr 14 min
+1,030 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [IV\. Allegro ma non troppo](https://open.spotify.com/track/73I2679GOdAPb0eWpQTdZH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5) | [IV\. Allegro ma non troppo](https://open.spotify.com/album/7fIwHpPgROpAhD5dseIoJt) | 7:06 | 2024-01-19 |  |
 | [I’m Just Ken \- Merry Kristmas Barbie](https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:16 | 2024-01-05 | 2024-01-13 |
 | [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 | 2023-05-05 | 2023-05-07 |
+| [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-19 |  |
 | [Jan Pillemann Otze \- Après Ski Version](https://open.spotify.com/track/1GVQzNtDc5zEqVfACJmRlK) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Aprés Ski\-Hits mit Mickie Krause](https://open.spotify.com/album/3nvr14pl6FjdqWo25PLUl0) | 3:37 | 2024-01-05 | 2024-01-13 |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-10 | 2023-11-18 |
 | [Je danse le mia \- Live Studio](https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Warrior Tour \(Live Studio\)](https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j) | 4:38 | 2023-09-15 | 2023-10-08 |
@@ -641,7 +642,7 @@
 | [Notorious](https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz) | [Gangman](https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Notorious](https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n) | 3:31 | 2023-09-08 | 2023-09-24 |
 | [Nuke's Blues](https://open.spotify.com/track/6ItY4g8M5jOBwrdCLF65TJ) | [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31), [Josef Leimberg](https://open.spotify.com/artist/5rQ9q5c4pQKwn3OmpKE6vA) | [Nuke's Blues](https://open.spotify.com/album/2OE3m8C7REzAtHKsDJk6h8) | 3:39 | 2023-03-31 | 2023-04-09 |
 | [Nurture](https://open.spotify.com/track/6ggonLdaDEn6SzOcukFN5M) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Cherish](https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo) | 1:28 | 2023-11-10 | 2023-11-13 |
-| [née\-nah](https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [née\-nah](https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT) | 3:40 | 2024-01-19 |  |
+| [née\-nah](https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [née\-nah](https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT) | 3:40 | 2024-01-19 | 2024-01-24 |
 | [Off The Rip](https://open.spotify.com/track/724BbGbJIRTu8nCbPmaUnp) | [Dale and the ZDubs](https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp) | [Off The Rip](https://open.spotify.com/album/39fixJEnfnEKwZk9kNAAmi) | 3:14 | 2023-02-10 | 2023-02-18 |
 | [Oh, You Crazy Moon \- Ornithology Remix](https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Oh, You Crazy Moon \(Ornithology Remix\)](https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR) | 1:07 | 2023-08-11 | 2023-09-10 |
 | [Ohrgasmus](https://open.spotify.com/track/6Rr7oxlhiC3zG6fUniyKJf) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Ohrgasmus](https://open.spotify.com/album/0d5lbdamsEbdf075fD8rzK) | 2:06 | 2024-01-19 |  |

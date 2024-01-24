@@ -4,7 +4,7 @@
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF?si=2642dcb089794d35">ThxSoMch</a> and the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-318 songs - 19 hr 11 min
+319 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Vivre et mourir](https://open.spotify.com/track/5bDDHZqNBiXlbTDQxQrO00) | [SYNDROME 81](https://open.spotify.com/artist/6Vf9ovbI9b21ZAmTQHaLFr) | [Prisons imaginaires](https://open.spotify.com/album/41qjRPBdxz7qdfjOoLq8ij) | 2:08 | 2023-11-24 | 2023-12-09 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-07-14 | 2023-08-05 |
 | [Wanderlust](https://open.spotify.com/track/4zBdObrAnn5OVWC9F02wA3) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Polyphony](https://open.spotify.com/album/3OOAuloYkiA6GynyUFTuSp) | 5:22 | 2023-07-14 | 2023-08-05 |
-| [WANTED U](https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 4:11 | 2024-01-12 |  |
+| [WANTED U](https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 4:11 | 2024-01-12 | 2024-01-24 |
+| [WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 4:11 | 2024-01-12 |  |
 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2024-01-12 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2024-01-12 |  |
 | [What Goes Around](https://open.spotify.com/track/16hJhYhFgdgfhcsJKveWrP) | [Maximum Penalty](https://open.spotify.com/artist/4KAgGRUSFCVKLDQCLPi2eP) | [Life & Times](https://open.spotify.com/album/2PCYcbGLuaa5G3l1gYOkSz) | 2:23 | 2023-08-04 | 2023-09-02 |

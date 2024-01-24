@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,003 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,002 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 43 | [Rain or Sun](https://open.spotify.com/track/1BPdZEr7bepUhUrKIoLJab) | [Total Hip Replacement](https://open.spotify.com/artist/6m8keKnv7yR5UcUpCEosO5), [KWAME YEBOAH](https://open.spotify.com/artist/50NKRxEVV07QOG72kYaDB2), [Nsoroma](https://open.spotify.com/artist/36dLW3V3CtJ2I3dYYdiO4w) | [Rain or Sun](https://open.spotify.com/album/48LteUpZNIlMtvaj0J6MXb) | 4:14 |
 | 44 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
 | 45 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 46 | [Logba Logba](https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:02 |
+| 46 | [Logba Logba](https://open.spotify.com/track/0UYyNBBFrseB1Nb690QKHM) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/6Q6g0MpdxlSxmMVoJyjnRo) | 3:02 |
 | 47 | [Strawberry](https://open.spotify.com/track/6YKFm46tDMGq1l9nuEhnzR) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Iguocho](https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH) | [Love In Transition](https://open.spotify.com/album/0ey9PDz87G4GLwvU9VgNhC) | 2:54 |
 | 48 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 49 | [Bank Alert](https://open.spotify.com/track/6QOFnwFRoiB5M6nSiHjvPj) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Love U Right Away](https://open.spotify.com/track/1izdaNNZ7agtWDjAZq2WXb) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Love U Right Away](https://open.spotify.com/album/3qzAMgBTHM590Q4TtDzqYu) | 2:34 |
 | 80 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 
-Snapshot ID: `MCxlMTg2ZDhjOGZhOThkNjM4NzBiODNhOGI1Mjc2MWNjY2U1YThhZDg4`
+Snapshot ID: `MCxkMTRjM2U2ZTRiYTMxYzU4OTg1ZGQxMDdkMzc1Yzc3MDc2MDc0ZWVj`

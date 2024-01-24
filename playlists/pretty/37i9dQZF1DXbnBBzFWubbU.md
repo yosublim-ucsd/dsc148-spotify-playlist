@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,485 likes - 89 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,529 likes - 89 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 88 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 |
 | 89 | [CHOLI](https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Ben Parag](https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe) | [CHOLI](https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa) | 3:28 |
 
-Snapshot ID: `MCw4ZWQ4NjYxZmRjMDFmNmU5YjliOGI2MmQzOWQ2OTNhOWEyZWRlY2Yx`
+Snapshot ID: `MCwzNWI0NmU0Yjc2MzQ2MjY5YmU5M2EyNzgwMzM1MzFjZGY5MTYzYjA2`

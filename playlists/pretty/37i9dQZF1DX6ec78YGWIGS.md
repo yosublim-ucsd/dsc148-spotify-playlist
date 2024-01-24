@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ptazeta & Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,900 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,709 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Come Back](https://open.spotify.com/track/23SHCMa4ploHHZHqNBK23D) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Lucas Murua](https://open.spotify.com/artist/5954OWgf6WfFMTHNNLraVJ) | [Come Back](https://open.spotify.com/album/5lNVP2336w7BnIenG1TeXi) | 2:43 |
 | 100 | [Hundiéndome](https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [Hundiéndome](https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst) | 2:37 |
 
-Snapshot ID: `MCw3MWE2MmQ2NDU1MjllZDMzNTI2OGVjNTEzZDlhYzU1NTgzMTRiNWQw`
+Snapshot ID: `MCw4NTc1YmMyMGRjYzA4ZWM0NGQ3MWRhNzE5NmI3OTEyMjI1YjIwOWE2`

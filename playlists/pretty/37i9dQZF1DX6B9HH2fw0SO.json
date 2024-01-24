@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 59912,
+  "num_followers": 59968,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTAzMTk5NDNjYzM1NmZmNjY1NzRkNmQyOGJiMGEyNzY5MGEwNjYx",
+  "snapshot_id": "MCw0MzJjYWU4YWE3NWNkMDUxYzI3M2IzNzEyMTk2ZTM5ODJhNzYxM2Mw",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Kicker",
-        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "iii",
         "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212146,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Kicker",
+        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 234526,
-      "name": "Ship To Wreck",
-      "url": "https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 252786,
       "name": "Too Late To Say Goodbye",
       "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 234526,
+      "name": "Ship To Wreck",
+      "url": "https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4LX7YTmfrI758TVF1xSvtt"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 227368,
       "name": "Painting Greys",
       "url": "https://open.spotify.com/track/00ML9bd4jcQYGJ1h9dWR2q"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
+        "name": "The Desired Effect",
+        "url": "https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
+      "duration_ms": 222413,
+      "name": "Can't Deny My Love",
+      "url": "https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE"
     }
   ],
   "unique_name": "Best of Indie 2015",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-881 songs - 2 day 1 hr 36 min
+882 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [האהבה שלי היא לא האהבה שלו](https://open.spotify.com/track/4dUsH8qTQM792u7K2Jac4Z) | [Itzhak Klepter](https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh) | [יצחק](https://open.spotify.com/album/0dl2TPbvZpVrl5SLazIx8q) | 2:56 | 2022-12-10 | 2022-12-12 |
 | [האמת](https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [האמת](https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o) | 2:57 | 2022-10-12 | 2023-04-01 |
 | [האמת](https://open.spotify.com/track/4ASfFTCr9NGAQKEjMx5BgE) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [האמת](https://open.spotify.com/album/2As67LcrZgVdpKqa0YAnSA) | 2:57 | 2023-03-31 | 2023-04-09 |
+| [הדם שלי](https://open.spotify.com/track/3yqs30JY1zriDdlN2di2gI) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc), [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [הדם שלי](https://open.spotify.com/album/4Gvf5Xy2SSnnCbuLpnNh2e) | 2:21 | 2024-01-23 |  |
 | [הו רב חובל](https://open.spotify.com/track/55Wt0mGz9XDjNCOOxvG1jU) | [Meital Trabelsi](https://open.spotify.com/artist/1RJmMbI0trb4clfHsOiwfj) | [נשאר לי שיר](https://open.spotify.com/album/7xwok04C5x9rpx5elJ5r0e) | 5:18 | 2023-04-26 | 2023-04-28 |
 | [הולכת איתך](https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [הולכת איתך](https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO) | 3:33 | 2021-08-04 | 2023-02-07 |
 | [החיטה צומחת שוב](https://open.spotify.com/track/5zbXoGibl1XuJ9ouyQEDxU) | [Chava Alberstein](https://open.spotify.com/artist/5UbgVjyCkpIMOzQuOI4DOW) | [נמל בית](https://open.spotify.com/album/60XdLT6NtuOoWaMWONNsk9) | 3:12 | 2022-05-05 | 2023-04-28 |
@@ -741,7 +742,7 @@
 | [נאסף תשרי \(מת אב ומת אלול\)](https://open.spotify.com/track/7IWtwb4ffSlxcyWeq4XIok) | [Svika Pick](https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe) | [מוסיקה](https://open.spotify.com/album/528cpz61Bp02KfZ7ybRQvf) | 6:01 | 2022-08-16 | 2022-08-18 |
 | [נגמר](https://open.spotify.com/track/2Yfd4lEjv3Ah7lLHEAYX50) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/3VGHfCuv4ExmHvYcYdrHlm) | 4:19 | 2022-05-05 | 2024-01-13 |
 | [נגמר](https://open.spotify.com/track/2kQmLi3MUrTkj3E4eICpt1) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/0KKNhG6aIUh1TNpMsOzWks) | 4:19 | 2021-04-16 | 2021-04-17 |
-| [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 |  |
+| [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 | 2024-01-24 |
 | [נוריד ת'חולצה](https://open.spotify.com/track/0oHTvb0EVeYTUc0zscZphb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [נוריד ת'חולצה](https://open.spotify.com/album/6Z5kdNOhvZ7BXD40g5xggC) | 2:38 | 2021-05-03 | 2021-05-14 |
 | [נחכה לך](https://open.spotify.com/track/0ety2yTiWVKeqQeaed4Spj) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [באתי לחלום](https://open.spotify.com/album/72XLu81OoRHcScFT8nQPJB) | 3:27 | 2021-03-27\* | 2021-04-04 |
 | [ננה בננה](https://open.spotify.com/track/2un3eax2X0XgvF1ixBlw8O) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [ננה בננה](https://open.spotify.com/album/4a8a0ZjvWDneAYbGWUl0t7) | 2:20 | 2022-11-20 | 2022-12-29 |

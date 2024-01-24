@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 40 | [Eyes Wide Shut](https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:04 |
 | 41 | [Mandatory](https://open.spotify.com/track/0kKcUVTLDIqrspywngKVr9) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:02 |
 | 42 | [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 |
-| 43 | [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 |
+| 43 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
 | 44 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
-| 45 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
+| 45 | [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 |
 | 46 | [1000 Mile Stare](https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [1000 Mile Stare](https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz) | 3:18 |
 | 47 | [Rent Due](https://open.spotify.com/track/1jUoM50qHfx2RnyaprnaIC) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Dark Lo](https://open.spotify.com/artist/6Afg12eQ1Xu2O4ugWDhDcU) | [Rent Due](https://open.spotify.com/album/2jk0gKFMogDfryo4vZ4J5H) | 2:36 |
-| 48 | [Razors](https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:17 |
-| 49 | [Death & Taxes](https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Death & Taxes](https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT) | 3:10 |
-| 50 | [The Irishman](https://open.spotify.com/track/7M70IhOS0zNCXWCjPjwiPR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:02 |
+| 48 | [The Irishman](https://open.spotify.com/track/7M70IhOS0zNCXWCjPjwiPR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:02 |
+| 49 | [Razors](https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:17 |
+| 50 | [Death & Taxes](https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Death & Taxes](https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT) | 3:10 |
 | 51 | [212](https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:50 |
 
-Snapshot ID: `Mjg0MzIwNjksMDAwMDAwMDBjZmI0YmM1YzIyZWIwYmM5OThjNmExODBkYmIxMGMxMg==`
+Snapshot ID: `Mjg0MzM1MzUsMDAwMDAwMDA2NDc3NGUzY2RlY2YxNWQ1ZThiYjk3YmY0Y2JiYjUwMQ==`

@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 183538,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 211447,
       "name": "Stateless feat. YonYon",
       "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
@@ -2874,6 +2874,24 @@
       "duration_ms": 283858,
       "name": "Whales",
       "url": "https://open.spotify.com/track/4kPrGI5LIy7YV4juPMu43r"
+    },
+    {
+      "album": {
+        "name": "where everything flows",
+        "url": "https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP"
+      },
+      "artists": [
+        {
+          "name": "soma",
+          "url": "https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "where everything flows",
+      "url": "https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL"
     },
     {
       "album": {

@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Cloudy Valley",
+        "url": "https://open.spotify.com/album/2aoqmbswiGBF3iLfrK0kNu"
+      },
+      "artists": [
+        {
+          "name": "Sphere One",
+          "url": "https://open.spotify.com/artist/0TLuaYqEEbAXD9VS45U3Vm"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131546,
+      "name": "Cloudy Valley",
+      "url": "https://open.spotify.com/track/3x215QEW1A2AwMtcIABmLt"
+    },
+    {
+      "album": {
         "name": "Coach 101",
         "url": "https://open.spotify.com/album/644OnkpKBgsLNO6yD5LPlk"
       },
@@ -1000,6 +1018,24 @@
       "duration_ms": 179602,
       "name": "Lunch Break",
       "url": "https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8"
+    },
+    {
+      "album": {
+        "name": "Malaku",
+        "url": "https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx"
+      },
+      "artists": [
+        {
+          "name": "Uhrk-Nagimi",
+          "url": "https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156286,
+      "name": "Malaku",
+      "url": "https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x"
     },
     {
       "album": {

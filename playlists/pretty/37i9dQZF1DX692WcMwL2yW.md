@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,967 likes - 175 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,424 likes - 175 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,27 +16,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 6 | [Helicopter Highs](https://open.spotify.com/track/6n50fVKjQ4bqdHscI2zfxM) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Love Me Never](https://open.spotify.com/album/2RF0UxaOTtYlyaWEXi981U) | 2:33 |
 | 7 | [Under Blue](https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u) | [Mooshy](https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I) | [Under Blue](https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61) | 2:27 |
 | 8 | [Perfect Dream](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Perfect Dream](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:19 |
-| 9 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
-| 10 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 |
-| 11 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 |
-| 12 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 |
-| 13 | [Descent From the Heavens](https://open.spotify.com/track/3IKqDr3H0uSEAqwS8uXJ6z) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Love The One Above](https://open.spotify.com/album/3oelJkqQMfZvhfdVkjKrR2) | 2:06 |
-| 14 | [Symbolic](https://open.spotify.com/track/7ibTPsP0pXpycs8HkPEZW8) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Symbolic](https://open.spotify.com/album/0pyqcOi22kCAB0pAXiZMgp) | 2:14 |
-| 15 | [Let it be known](https://open.spotify.com/track/0wltL5KFoZ7TqTdapi1Cbs) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Let it be known](https://open.spotify.com/album/3unomAhkTiJoLws40mDhuk) | 2:18 |
-| 16 | [Sharks Approach](https://open.spotify.com/track/0qzjIYOyeLGFUQGz6rQ1mD) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Sharks Approach](https://open.spotify.com/album/1FjR7PYPk0PyW62dTAsqCB) | 2:46 |
-| 17 | [Prompts](https://open.spotify.com/track/1V0lsm8TLZzHI3vzKjKATo) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Fork Lifts](https://open.spotify.com/album/74lP9vtmwJIVpVKjFnHx15) | 2:06 |
-| 18 | [Hideaway](https://open.spotify.com/track/1BtSADpQfAKO6EIvJCP2dU) | [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Hideaway](https://open.spotify.com/album/3a0bcSBh38m3om1SMHTlC7) | 2:08 |
-| 19 | [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 |
-| 20 | [Zoey Badass](https://open.spotify.com/track/7shCeTkY9mACp3Vdp0H14V) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Zoey Badass](https://open.spotify.com/album/3VPsTbmUYkoizmoeYIc5fz) | 3:01 |
-| 21 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 |
-| 22 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 |
-| 23 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |
-| 24 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
-| 25 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
-| 26 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
-| 27 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
-| 28 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
-| 29 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
+| 9 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 |
+| 10 | [Descent From the Heavens](https://open.spotify.com/track/3IKqDr3H0uSEAqwS8uXJ6z) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Love The One Above](https://open.spotify.com/album/3oelJkqQMfZvhfdVkjKrR2) | 2:06 |
+| 11 | [Symbolic](https://open.spotify.com/track/7ibTPsP0pXpycs8HkPEZW8) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Symbolic](https://open.spotify.com/album/0pyqcOi22kCAB0pAXiZMgp) | 2:14 |
+| 12 | [Let it be known](https://open.spotify.com/track/0wltL5KFoZ7TqTdapi1Cbs) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Let it be known](https://open.spotify.com/album/3unomAhkTiJoLws40mDhuk) | 2:18 |
+| 13 | [Sharks Approach](https://open.spotify.com/track/0qzjIYOyeLGFUQGz6rQ1mD) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Sharks Approach](https://open.spotify.com/album/1FjR7PYPk0PyW62dTAsqCB) | 2:46 |
+| 14 | [Prompts](https://open.spotify.com/track/1V0lsm8TLZzHI3vzKjKATo) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Fork Lifts](https://open.spotify.com/album/74lP9vtmwJIVpVKjFnHx15) | 2:06 |
+| 15 | [Hideaway](https://open.spotify.com/track/1BtSADpQfAKO6EIvJCP2dU) | [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Hideaway](https://open.spotify.com/album/3a0bcSBh38m3om1SMHTlC7) | 2:08 |
+| 16 | [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 |
+| 17 | [Zoey Badass](https://open.spotify.com/track/7shCeTkY9mACp3Vdp0H14V) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Zoey Badass](https://open.spotify.com/album/3VPsTbmUYkoizmoeYIc5fz) | 3:01 |
+| 18 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 |
+| 19 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 |
+| 20 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 |
+| 21 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |
+| 22 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
+| 23 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
+| 24 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
+| 25 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
+| 26 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
+| 27 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
+| 28 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
+| 29 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 |
 | 30 | [Careless](https://open.spotify.com/track/6OPgcI5qV8HKX0p5Ww9R7X) | [kdril](https://open.spotify.com/artist/0w2DJmwbNHnM4uDsC6cDpy) | [Better Days](https://open.spotify.com/album/0QcPBbrMEABqgXiE2A2gRQ) | 1:32 |
 | 31 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
 | 32 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 174 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
 | 175 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `MCw3MThkOGY3YTg4MTI0MDFhMjYyZmRiNWUyNzg0MDJhNDUyNDdkYzUx`
+Snapshot ID: `MCw1ODg3ZmE2ODk2Y2JmZWU4MDI3Nzc5YmFlMTJmOGFiZTA1ZjM3NTE5`

@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,557 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,529 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [7千3百多天 \(JJ林俊傑《JJ20世界巡迴演唱會》主題曲\)](https://open.spotify.com/track/314jk2ZnMknf8Oa3wD4Pgo) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [7千3百多天 \(JJ林俊傑《JJ20世界巡迴演唱會》主題曲\)](https://open.spotify.com/album/2etLBq4ucnE8b7Gd8Y2yfB) | 3:43 |
-| 2 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
-| 3 | [Playlist](https://open.spotify.com/track/2qBJN3eYfsr4vUjyG1MUg5) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [Playlist](https://open.spotify.com/album/5TAz6li7lgyrWcMqhVOrg7) | 2:48 |
-| 4 | [這世界如此美好](https://open.spotify.com/track/5MAR8TzApvhHJwzUDJLaiM) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:30 |
-| 5 | [聖誕之吻](https://open.spotify.com/track/61sWMgH5gHAVTjxwy6mHDS) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [聖誕之吻](https://open.spotify.com/album/63zHQlg0xTAbsbRngzDwm9) | 4:35 |
-| 6 | [歸途有風](https://open.spotify.com/track/4WqkZDXhRBGDRlXUEY5q1L) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [歸途有風](https://open.spotify.com/album/4W1T7qWCZlSQTQvGvghBU5) | 5:20 |
-| 7 | [My Tooth for Your Love \- 《我的牙想你》片尾曲](https://open.spotify.com/track/66ppixaJ5bd38YDPlpYFld) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [My Tooth for Your Love \(《我的牙想你》片尾曲\)](https://open.spotify.com/album/0nxKdRHZkBRFRgqV1c7fJ8) | 3:15 |
-| 8 | [再沒見你的身份](https://open.spotify.com/track/5jBEqvOqtUxIn7kyqfCalp) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [再沒見你的身份](https://open.spotify.com/album/0acK8DyetID8itMzNP7UUf) | 4:17 |
-| 9 | [新的稱謂](https://open.spotify.com/track/57AeX299UpW0yvnuPnFfPQ) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [念念不忘](https://open.spotify.com/album/1cUXgCKxKfe3xL69g2G89b) | 3:38 |
-| 10 | [Reset](https://open.spotify.com/track/2xgcpJvCKyqlZtDud3abbH) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 4:37 |
-| 11 | [消化不良](https://open.spotify.com/track/70f6tdZuoGjsWLpNzjIvEU) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [消化不良](https://open.spotify.com/album/3qfr0K1yzBx2JpqECx1ED1) | 3:51 |
-| 12 | [沙粒 \- 電影《野夏天》插曲](https://open.spotify.com/track/5NOFfWTJgzyv84qmYXO1q6) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [沙粒 \(電影《野夏天》插曲\)](https://open.spotify.com/album/5uz2psSQ2emMyc9jXmyJtL) | 3:01 |
-| 13 | [黑夜中相擁\(電影《頭七》主題曲\)](https://open.spotify.com/track/2jiBu35AqLLBoBWJinRSSL) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [黑夜中相擁\(電影《頭七》主題曲\)](https://open.spotify.com/album/0E1joTSOVsi2auSsUDMLnQ) | 4:59 |
-| 14 | [某個偶然再相見](https://open.spotify.com/track/7Idiec7SHc9ajEbDYzdfPO) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [某個偶然再相見](https://open.spotify.com/album/1Xg0JsRhJ2bz2Wgd05ocV4) | 3:54 |
-| 15 | [昨天的自己](https://open.spotify.com/track/5g4S0lQx3o4GsOAozUGRe8) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [昨天的自己](https://open.spotify.com/album/1oRkFvxgMUEX5ecBwuU2I4) | 3:40 |
-| 16 | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/track/3Qd5t2oaRPvdY9eqZMvMWd) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/album/6rYiOZNY1SYIJ9pe2486d6) | 4:53 |
-| 17 | [愛麗絲 1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
-| 18 | [我不祝福](https://open.spotify.com/track/5Ug1fHBI0dOwkRZlQpViPx) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [真的假的](https://open.spotify.com/album/0eg1sbVqtUcNZDrPnURNJO) | 4:24 |
-| 19 | [孤單加一](https://open.spotify.com/track/03krOI81ch7PJtwjeI4yCC) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG), [張棋惠](https://open.spotify.com/artist/0xXkBgF0Di5XDZhrsH3fU8) | [孤單加一](https://open.spotify.com/album/5zvL6Gb41vBZOyTMNkcLOt) | 3:42 |
-| 20 | [你最好知道](https://open.spotify.com/track/518BPZrrarmyuFCbw98eXv) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [你最好知道](https://open.spotify.com/album/5VU4bln8RHBECYlTIhjOzU) | 3:17 |
+| 1 | [願與愁](https://open.spotify.com/track/4VGvaHir2FQ4WMKn3GS9AS) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [願與愁](https://open.spotify.com/album/0pYQlD1qbda3xD2RNNj4F3) | 3:51 |
+| 2 | [唯愛 \(劇集《七時吉祥》燃愛主題曲\)](https://open.spotify.com/track/2rKPlSH0u775wNadl5cIQy) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [唯愛](https://open.spotify.com/album/6NGEMgCXv3Ou8fthBMNhyb) | 3:20 |
+| 3 | [一首歌](https://open.spotify.com/track/6RnWxFXtmTkM7SCMJffaVC) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [RISE](https://open.spotify.com/album/08iLOPluVXkxYkeqLRos70) | 1:58 |
+| 4 | [星心](https://open.spotify.com/track/72BGbbjZSyxvKfvld8d4Mz) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [星心](https://open.spotify.com/album/3ZjksCFzY8Iftw1uHfIlPp) | 4:34 |
+| 5 | [最好的時光](https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:55 |
+| 6 | [生日禮物2020](https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [生日禮物2020](https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a) | 3:54 |
+| 7 | [南方的月亮](https://open.spotify.com/track/5O8tEg0NEqZE6AgMpbAiZ0) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [南方的月亮](https://open.spotify.com/album/7p4Sy8J4q3Ix3HdNSpG1Rb) | 3:23 |
+| 8 | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/track/6Uy0XOFJC3cxAxdTIQNLKI) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/album/0I7RCQGDGZoXI2ZyUYlhNL) | 3:07 |
+| 9 | [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 |
+| 10 | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/track/4jXWHwvxZreFh1fjXIStWs) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/album/6els5e7eyVp1WPF1MBtvqE) | 3:20 |
+| 11 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 |
+| 12 | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 |
+| 13 | [愛麗絲 1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
+| 14 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
+| 15 | [带着梦想去旅行](https://open.spotify.com/track/5CGoSutS9MwRyAhOGzfzAI) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [带着梦想去旅行](https://open.spotify.com/album/6Xd8pcwRS7eho9zrBJVcmp) | 3:58 |
+| 16 | [不召之臣 Unrequited Love](https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [白夜克拉克 White Night](https://open.spotify.com/album/32tEDVwzoLJEweaERQhrQd) | 4:55 |
+| 17 | [以閃亮之名](https://open.spotify.com/track/2n6kWA0IdgqSxxLKQHKEHw) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [以閃亮之名](https://open.spotify.com/album/74rriUE3BaSUfJeZeEyqvf) | 3:55 |
+| 18 | [孤單加一](https://open.spotify.com/track/03krOI81ch7PJtwjeI4yCC) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG), [張棋惠](https://open.spotify.com/artist/0xXkBgF0Di5XDZhrsH3fU8) | [孤單加一](https://open.spotify.com/album/5zvL6Gb41vBZOyTMNkcLOt) | 3:42 |
+| 19 | [氣球 \- Acoustic](https://open.spotify.com/track/5VmCDIYslnZLyYd1oazA60) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [In My Place](https://open.spotify.com/album/2TGs3hgQYD34mZLGN558Ov) | 5:48 |
+| 20 | [開往初戀的平行線](https://open.spotify.com/track/4QawTA1kfkh1LZxSLZPlfR) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [開往初戀的平行線](https://open.spotify.com/album/6nXyQqkXikmKGtBsMlyTti) | 4:24 |
 
-Snapshot ID: `MCwwYTQ5ZDYyZmIwNmMyYjBhYjgyZTE2MWZjM2I2MWQ0ZjQ5NjkyYzM5`
+Snapshot ID: `MCwzZjcwYzI3MzY2MmQyOTFlODBkOWU5MGY4Y2YwMjA4NzVjNGQ4OTVj`

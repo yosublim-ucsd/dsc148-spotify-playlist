@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-206 songs - 10 hr 32 min
+209 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Be Here My Heart](https://open.spotify.com/track/5W5KIPpuHfxV9ShftysZ5A) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [They Don't Tell](https://open.spotify.com/album/5kq3QA1lkg3J8TypQyEaQS) | 3:36 | 2022-04-15 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2021-11-11 |  |
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2021-11-11 | 2023-08-05 |
+| [Believe in Each Other](https://open.spotify.com/track/2dFyfb4nOxIXnLjDOKkMon) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Believe in Each Other](https://open.spotify.com/album/6ntTycCMlcXWYLwjPtleNS) | 3:36 | 2024-01-23 |  |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2021-11-11 | 2023-03-10 |
 | [Billson](https://open.spotify.com/track/1QILyPPSrMfb10YjyFPH0r) | [Da Drüben](https://open.spotify.com/artist/1InvYRt2oX1GQPzlXaYXvT) | [Billson](https://open.spotify.com/album/5haOOaRphtK0iDs7eGHt13) | 2:45 | 2023-03-03 | 2023-06-03 |
 | [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2021-11-11 | 2022-09-02 |
@@ -107,6 +108,7 @@
 | [Let You Go](https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Let You Go](https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f) | 2:36 | 2021-11-11 | 2022-05-11 |
 | [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 | 2023-10-03 |
 | [Little Joys](https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk) | [Rose Sun](https://open.spotify.com/artist/6ouNagNKWDTz73MNkKiGIT) | [Little Joys](https://open.spotify.com/album/4ofw6KmpKSfygUzct5YOwF) | 2:38 | 2021-11-11 | 2023-06-03 |
+| [Live Til 100](https://open.spotify.com/track/5ZvPMhGsglY07w3tFtGjPx) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Live Til 100](https://open.spotify.com/album/5zGjkxaFnVEjnVHR1TQ7EX) | 2:50 | 2024-01-23 |  |
 | [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 | 2023-10-13 |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 | 2023-03-10 |
@@ -153,6 +155,7 @@
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-11-11 |  |
+| [Rubicon](https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Rubicon](https://open.spotify.com/album/0rjHQHL5VIqecLapXxYGLP) | 2:31 | 2024-01-23 |  |
 | [Saharan Nights](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [My Everything](https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi) | 2:44 | 2023-03-24 |  |
 | [saturday thunder](https://open.spotify.com/track/3TXyytRgN8IoyOxoAQ41cd) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [saturday thunder](https://open.spotify.com/album/3CYxz9iPi8Uu6IxWLITo5V) | 2:35 | 2023-05-05 | 2023-06-03 |
 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 | 2022-11-25 |  |

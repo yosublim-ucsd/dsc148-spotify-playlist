@@ -6554,6 +6554,32 @@
     {
       "album": {
         "name": "Going to Goa (From \"Glassmates\")",
+        "url": "https://open.spotify.com/album/4ZDNtBYlF513Vnof9uDpgI"
+      },
+      "artists": [
+        {
+          "name": "Mukesh Mohamed",
+          "url": "https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5"
+        },
+        {
+          "name": "Prithivy",
+          "url": "https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP"
+        },
+        {
+          "name": "Seerkali Sirpi",
+          "url": "https://open.spotify.com/artist/7j42iXz1Q0nbm3fr6Dm18H"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Going to Goa (From \"Glassmates\")",
+      "url": "https://open.spotify.com/track/4DafFDdRYxzgqkYgDxsjvN"
+    },
+    {
+      "album": {
+        "name": "Going to Goa (From \"Glassmates\")",
         "url": "https://open.spotify.com/album/4m4pwWO65N0fAk61KlkafM"
       },
       "artists": [
@@ -6568,7 +6594,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 211333,
       "name": "Going to Goa (From \"Glassmates\")",
       "url": "https://open.spotify.com/track/4bV4wXhCwgXGuolnsGULOM"

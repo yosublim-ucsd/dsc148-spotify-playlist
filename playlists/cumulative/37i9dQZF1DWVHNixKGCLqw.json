@@ -1262,7 +1262,7 @@
     {
       "album": {
         "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
       },
       "artists": [
         {
@@ -1277,6 +1277,28 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 199524,
       "name": "PLAY (feat. Changmo)",
       "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
@@ -1446,7 +1468,7 @@
     {
       "album": {
         "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
       },
       "artists": [
         {
@@ -1457,6 +1479,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217238,
+      "name": "Stay Tonight",
+      "url": "https://open.spotify.com/track/5KRY2UxuFPXmQNMmKwj5aW"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 217238,
       "name": "Stay Tonight",
       "url": "https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG"

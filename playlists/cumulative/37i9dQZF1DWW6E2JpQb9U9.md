@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-315 songs - 23 hr 40 min
+316 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 | 2022-04-01 |  |
 | [Mal Bicho \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 6:57 | 2022-04-01 | 2023-10-07 |
 | [Maradó \- En Vivo](https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 6:54 | 2022-04-01 | 2024-01-05 |
+| [Maradó \- En Vivo](https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 6:54 | 2024-01-19 |  |
 | [Marcando el Compás \- En Vivo](https://open.spotify.com/track/6PkbzQLraURi34mbDTCuHO) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Marcando el Compás \(En Vivo\)](https://open.spotify.com/album/2KpgkNZfdYZiV9lbzo0te2) | 3:56 | 2022-04-01 | 2022-07-10 |
 | [María y José \- En Vivo](https://open.spotify.com/track/7dRcduV7DKRzYhFkFUJVFF) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Huracanes en Luna Plateada \(En Vivo\)](https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx) | 4:18 | 2022-04-01 | 2022-10-18 |
 | [Matador \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/1PpFbfG447nP3TZtnZwDkk) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 5:02 | 2022-04-01 | 2023-10-07 |
@@ -219,7 +220,7 @@
 | [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 | 2023-12-02 |
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2023-07-09 |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
-| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 |  |
+| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 | 2024-01-24 |
 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 | 2022-04-01 | 2023-11-21 |
 | [Pasajero en Extinción \- Remasterizado 2020](https://open.spotify.com/track/0uSEEENxLs5IJw6ysujZUJ) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA) | [20 Años](https://open.spotify.com/album/1kPk2P5D6QHM4pTRAyzk13) | 4:09 | 2022-04-01 | 2022-07-29 |
 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 | 2022-04-01 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,331 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,365 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Once Upon a Time in the Valley \(From the Cobra Kai: Season 5 Soundtrack\)](https://open.spotify.com/track/3OUmjWm8M9MO7qwWQ4sBK7) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Once Upon a Time in the Valley \(From the Cobra Kai: Season 5 Soundtrack\)](https://open.spotify.com/album/6NNUyz4QLtYSJYToXpdgeV) | 2:53 |
 | 2 | [Villa Coapa](https://open.spotify.com/track/184cJnHXXcSeO7Dhw84Kth) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Moderatto Greatest Hits](https://open.spotify.com/album/4NJ7JAQ407WlP1J5YFbblc) | 1:23 |
-| 3 | [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 |
+| 3 | [Cancion del Mariachi](https://open.spotify.com/track/3F2Aoenodyu2Yd8dIOP2e1) | [zeatynorival](https://open.spotify.com/artist/2SbUdSlv4PSue1SkaGuSGS), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [Cancion del Mariachi](https://open.spotify.com/album/0kSKfnKXUMeVMKPCOfhovH) | 2:06 |
 | 4 | [Playing with the Boys \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:59 |
 | 5 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
 | 6 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCxjYzA5NjlmOTc3MmFlNjJiMTRkNDkzMjlmNzE2NzMwZjE0OGQyOThl`
+Snapshot ID: `MCxmNDQ0MzcyNzc3NTg3M2RhNzc1NzU0MDEzMWU2MjQ5MmJmYzM4YmJk`

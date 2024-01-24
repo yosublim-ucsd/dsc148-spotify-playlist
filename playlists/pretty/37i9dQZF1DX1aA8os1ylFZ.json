@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241233,
+  "num_followers": 241154,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDNmM2FlNWYzZDY3MzEzMzNjYzcyYjhmMTI5OGJlNTlmOTBhYmJl",
+  "snapshot_id": "MCw3NTQyNmZlY2EzNjYzNTU4YWUwM2E0OTIwN2FjZjlkN2MzMDQ4NWU2",
   "tracks": [
     {
       "added_at": "2024-01-16 15:46:14",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-01-16 15:46:14",
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2024-01-16 15:46:14",
+      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
-    },
-    {
-      "added_at": "2024-01-16 15:46:14",
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2024-01-16 15:46:14",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-01-16 15:46:14",
       "album": {
-        "name": "Out of Touch",
-        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2024-01-16 15:46:14",
-      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "added_at": "2024-01-16 15:46:14",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     },
     {
       "added_at": "2024-01-16 15:46:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-01-16 15:46:14",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
-    },
-    {
-      "added_at": "2024-01-16 15:46:14",
-      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 173373,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx"
+    },
+    {
+      "added_at": "2024-01-16 15:46:14",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
     },
     {
       "added_at": "2024-01-16 15:46:14",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2024-01-16 15:46:14",
       "album": {
-        "name": "Fierce",
-        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 142615,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
+      "duration_ms": 181422,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
     },
     {
       "added_at": "2024-01-16 15:46:14",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2024-01-16 15:46:14",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 181422,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+      "duration_ms": 142615,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
     },
     {
       "added_at": "2024-01-16 15:46:14",

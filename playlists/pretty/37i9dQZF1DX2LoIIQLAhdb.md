@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : JEY BROWNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,121 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,136 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Parano](https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Coeur froid](https://open.spotify.com/album/56jucH9s6rmLITqM7N9Ejl) | 2:14 |
 | 40 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 |
 
-Snapshot ID: `MCxiN2Y5NDRiNTMyOTRlMmJjMTU1YWI4MTllMzI3NDA3NDcyYmEyYWMz`
+Snapshot ID: `MCwyYWExZDExNjlmNDJmMmNiZDBkZGYzNzNjNGVkMzQ0NmNkYzEzMTdj`

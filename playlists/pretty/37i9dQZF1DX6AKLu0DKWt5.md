@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,938 likes - 33 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,6 +40,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 30 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 |
 | 31 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
 | 32 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
-| 33 | [On the Town: Lonely Town\. Pas de deux](https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Maestro: Music by Leonard Bernstein \(Original Soundtrack\)](https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4) | 2:23 |
+| 33 | [See Ya / Into the Unknown](https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A) | [The Holdovers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D) | 4:39 |
 
-Snapshot ID: `MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2`
+Snapshot ID: `MCw4NzYxMTY3MDA2ZDE3NWQ2MzVmMTk4ZjNhMDc4MDU0YzVhNmNlZGZj`

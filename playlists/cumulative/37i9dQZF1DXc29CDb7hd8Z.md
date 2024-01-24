@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-136 songs - 7 hr 8 min
+137 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2021-09-10 |  |
 | [Bona Nochy](https://open.spotify.com/track/1JaYwRf4RK8YHT70SJCwAd) | [Ibon Errazkin](https://open.spotify.com/artist/6CEZx2TFx4FD2gyZXtrsTA) | [Foto Aérea](https://open.spotify.com/album/49sIGolrFaTnz7jO9kb5Fa) | 4:14 | 2021-09-10 |  |
 | [Canon in D Major, P\. 37](https://open.spotify.com/track/2LRpkAGzGi82HYwWhpm0hG) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Piotr Chelique](https://open.spotify.com/artist/0sxFcrBxkkVHMLiDzBTkzH) | [A Collection of Soft Piano](https://open.spotify.com/album/5oouqRbgZLrsAxOfScqtGc) | 3:08 | 2021-09-10 |  |
+| [CC](https://open.spotify.com/track/4NGNSSZKYo9RzLT1AHE8mD) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [De otro mundo](https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr) | 2:12 | 2024-01-23 |  |
 | [Cessura](https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 3:05 | 2021-09-10 |  |
 | [Chansu wa jibun de tsukuru mono](https://open.spotify.com/track/4NqWZTOAWMMQ0b1PbzjeX8) | [Katsuragi Taisuke](https://open.spotify.com/artist/1VOOoWrs5upcy6TJ9j1hlA) | [Chansu wa jibun de tsukuru mono](https://open.spotify.com/album/6fcn3KEpMZNhrZmsMk94JO) | 2:32 | 2022-02-16 |  |
 | [Charon](https://open.spotify.com/track/2o6QfxsYOYWlLQbmtW5ymm) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Charon](https://open.spotify.com/album/7zvXHZlghA87OaVWO98G7W) | 1:50 | 2021-09-10 |  |

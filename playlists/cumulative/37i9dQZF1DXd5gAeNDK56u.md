@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-97 songs - 4 hr 16 min
+99 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bunny Mafia](https://open.spotify.com/track/5lTmF6RDdyd45RIrDgfV22) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Bunny Mafia](https://open.spotify.com/album/2ZmJCjus4JrcC10CqvG0a5) | 1:44 | 2023-03-27 |  |
 | [Butterflies and Giggles](https://open.spotify.com/track/2dlWe13yc12sKHAJCVNjzo) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [Butterflies and Giggles](https://open.spotify.com/album/3cYKsrGVyuCaam5BIZUY6V) | 2:10 | 2023-03-27 |  |
 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 | 2023-03-27 |  |
+| [Cloudy Valley](https://open.spotify.com/track/3x215QEW1A2AwMtcIABmLt) | [Sphere One](https://open.spotify.com/artist/0TLuaYqEEbAXD9VS45U3Vm) | [Cloudy Valley](https://open.spotify.com/album/2aoqmbswiGBF3iLfrK0kNu) | 2:11 | 2024-01-23 |  |
 | [Coach 101](https://open.spotify.com/track/6bYkAS2yjVgap2VfTv8x3S) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Coach 101](https://open.spotify.com/album/644OnkpKBgsLNO6yD5LPlk) | 2:00 | 2023-03-27 |  |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2023-03-27 |  |
 | [Courtland](https://open.spotify.com/track/0bSxAOvdDfbHoKzIeU9EMA) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Courtland](https://open.spotify.com/album/07VI7pFeQ6cA8p409hQqKs) | 3:05 | 2023-03-27 |  |
@@ -61,6 +62,7 @@
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2023-03-27 |  |
 | [Lucci](https://open.spotify.com/track/7esJ983DwtGoC6xjtkLWfH) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Lucci](https://open.spotify.com/album/3xQ3MENF2hsGuzoGducqGs) | 1:54 | 2023-03-27 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2023-03-27 |  |
+| [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-23 |  |
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2023-03-27 |  |
 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 | 2023-03-27 |  |
 | [Midnight Smoke](https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Midnight Smoke](https://open.spotify.com/album/5yixnT7FFdNdwvI4B4Qxed) | 1:45 | 2023-03-27 |  |

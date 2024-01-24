@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Anycia & Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,566 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 44 | [Money](https://open.spotify.com/track/44oplqENf5X6pMIaIHa5gy) | [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Money](https://open.spotify.com/album/2BPcqrkHrCzSIdhr3xiHBR) | 3:01 |
 | 45 | [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 |
 | 46 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 47 | [Talk Is Cheap](https://open.spotify.com/track/4pOXfiUYd2seOZb5s07IA9) | [Brandon.](https://open.spotify.com/artist/1mJZuoJodJUUXGD5xY8EES) | [Life’s Hard, But We Go Harder.](https://open.spotify.com/album/4plsPT3DtYoIi3q9cRocMB) | 2:11 |
+| 47 | [Talk Is Cheap](https://open.spotify.com/track/4pOXfiUYd2seOZb5s07IA9) | [Brandon.](https://open.spotify.com/artist/1mJZuoJodJUUXGD5xY8EES), [Baby Got Beatz](https://open.spotify.com/artist/26ER6mV6xcTACiCGYA3Qyd) | [Life’s Hard, But We Go Harder.](https://open.spotify.com/album/4plsPT3DtYoIi3q9cRocMB) | 2:11 |
 | 48 | [Tell Me](https://open.spotify.com/track/2WjZUIsUntwoOjqEeSVGOT) | [Aflacko](https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs) | [Tell Me](https://open.spotify.com/album/60AT3ZGGOzzSgHoMdnrsHw) | 1:42 |
 | 49 | [Dipped In Butter](https://open.spotify.com/track/1O15hl9EZPMycWH8Of75l3) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Dipped In Butter](https://open.spotify.com/album/4CpTVcyoyKVnZF0k0burfc) | 2:15 |
 | 50 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 |
 
-Snapshot ID: `MCw2OTMxNzRkOGM4NmY4OWY0MjE3NzgzNmMyMjYxOGJhOWJkYzk0OWRi`
+Snapshot ID: `MCwzYzg4ZjU5YmEzNzA1MDUyYTQzYWY0N2U1OWJiZmJkNTQ1ZmJlZTZi`

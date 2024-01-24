@@ -4,14 +4,15 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 4 hr 59 min
+80 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Miles](https://open.spotify.com/track/74NPJ5FDyMzvKi063Zxd5I) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 5:41 | 2022-03-25 |  |
 | [After Party](https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY) | [Koffee Brown](https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY) | [Mars/Venus](https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv) | 3:34 | 2022-03-25 |  |
 | [All of This \- SANDAME Remix Pt\. 1](https://open.spotify.com/track/1xnU6aQ18PX2PSAiAjdass) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [SANDAME](https://open.spotify.com/artist/2qBc1EFq0QdxvTi2KHwwxY) | [All of This Remixes, Vol\. 2](https://open.spotify.com/album/4kMV75bbEkiTRDne9xbqa8) | 2:33 | 2022-03-25 |  |
-| [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2022-03-25 |  |
+| [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2022-03-25 | 2024-01-24 |
+| [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 | 2023-07-31 |  |
 | [Anna Wintour](https://open.spotify.com/track/59fZ1smcmciapt7NB00t96) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/4zpqDVmFMGkDpyrhtP5GKR) | 4:33 | 2023-07-31 |  |
 | [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 | 2022-03-25 | 2023-12-23 |
 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 | 2022-03-25 |  |
@@ -28,7 +29,8 @@
 | [Can We \(feat\. Missy "Misdemeanor" Elliott\)](https://open.spotify.com/track/6DJoLa3EsX2PWQAIkjw08F) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:50 | 2022-03-25 |  |
 | [Can't Let Go](https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 3:28 | 2022-03-25 |  |
 | [Can't Stop Thinking About](https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Stop Thinking About](https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6) | 3:28 | 2022-03-25 |  |
-| [Dancing Elephants](https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 5:18 | 2022-07-15 |  |
+| [Dancing Elephants](https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 5:18 | 2023-07-31 |  |
+| [Dancing Elephants](https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 5:18 | 2022-07-15 | 2024-01-24 |
 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2023-07-31 |  |
 | [Everything \(Todd Edwards Dub\)](https://open.spotify.com/track/4B1Pnan1JsVvWlJFaEG44N) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Everything: The Mixes](https://open.spotify.com/album/4uBImhyCPaDPIAmNgJ5uGa) | 5:38 | 2022-07-15 |  |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2022-03-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 488922,
+  "num_followers": 488837,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQ3ZGU1MTA5YzgyMjdiZGM5NmRjMGZmOTNmZDIwODM2NGRlZTU2",
+  "snapshot_id": "MCw0OWUyNjYwNjg0ZDA1ZmVmZjMxYmVkMTQ1YTFmMjI1NDc2M2RkMzI1",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Blunderbuss",
-        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Sixteen Saltines",
-      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hidden Gems",
         "url": "https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Blunderbuss",
+        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Sixteen Saltines",
+      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "daphne did it / the depths",
         "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 202687,
       "name": "daphne did it",
       "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Pretty Monster",
+        "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 200622,
+      "name": "What\u2019s It Take To Be Happy?",
+      "url": "https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Pretty Monster",
-        "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 200622,
-      "name": "What\u2019s It Take To Be Happy?",
-      "url": "https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Grownass Man",
-        "url": "https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK"
-      },
-      "artists": [
-        {
-          "name": "The Shouting Matches",
-          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Rumble And Sway EP",
         "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
+        "name": "Grownass Man",
+        "url": "https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "The Shouting Matches",
+          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
         }
       ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
+      "duration_ms": 215480,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1619,6 +1603,22 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-09-22 00:56:58",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: LeeHi",
+  "description": "Future K-Pop hits! Cover: I.M",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 188373,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
@@ -14090,6 +14090,28 @@
       "duration_ms": 152666,
       "name": "Slow Mo",
       "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
+    },
+    {
+      "album": {
+        "name": "Slowly (feat. Heize)",
+        "url": "https://open.spotify.com/album/1vmkLxU1BKfTDImiWtAhb9"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "Slowly (feat. Heize)",
+      "url": "https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90352,
+  "num_followers": 90363,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
+  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "18+",
-      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "No Pain",
         "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 163723,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 128261,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "9AM",
-        "url": "https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8"
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
       "artists": [
         {
-          "name": "Drizdoneit",
-          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
-        },
-        {
-          "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
         }
       ],
-      "duration_ms": 172199,
-      "name": "9AM",
-      "url": "https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf"
+      "duration_ms": 96086,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8"
       },
       "artists": [
         {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+          "name": "Drizdoneit",
+          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
+        },
+        {
+          "name": "Jbandz",
+          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
         }
       ],
-      "duration_ms": 96086,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
+      "duration_ms": 172199,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -4,11 +4,12 @@
 
 > Instrumental house for when you need to focus!
 
-237 songs - 12 hr 3 min
+240 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [86](https://open.spotify.com/track/6YmzXwCoRUxLIJRWaaLYkK) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [86](https://open.spotify.com/album/6DdiNsX0LHGqtOO8jfdVJ1) | 2:52 | 2024-01-19 |  |
+| [Across The Field](https://open.spotify.com/track/5Ipc2VodpNZt8jjzsAaMV0) | [Naomi Boko](https://open.spotify.com/artist/521F98uOmVHc1AxKCKr9zo) | [Across The Field](https://open.spotify.com/album/3hVJnFWeQ6GiMc3W210KJu) | 2:51 | 2024-01-23 |  |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-15 | 2023-05-27 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-15 |  |
 | [Afterhours](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V) | [Distoboy](https://open.spotify.com/artist/5zSSGSjrk520cIm34tIVl9) | [Afterhours](https://open.spotify.com/album/5nADnmAxQlymDe79TktjB0) | 2:10 | 2023-11-24 |  |
@@ -173,6 +174,7 @@
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2022-04-15 | 2022-05-11 |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2022-04-15 |  |
 | [Right Direction](https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:34 | 2022-04-15 |  |
+| [Ripples of Relaxation](https://open.spotify.com/track/7qq0VeICekVkshASHEgC5b) | [Lian Leom](https://open.spotify.com/artist/0E3z6aZJM4D8eYEl5AiFhO) | [Ripples of Relaxation](https://open.spotify.com/album/3sBf33zg7MwNRrXNxh4pVV) | 2:48 | 2024-01-23 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 |  |
 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 | 2022-04-15 | 2022-05-11 |
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 | 2022-10-08 |
@@ -212,6 +214,7 @@
 | [Summertide](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Summertide](https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm) | 2:30 | 2023-12-01 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2022-04-15 | 2022-07-08 |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2022-04-15 | 2023-07-14 |
+| [Sunset Blvd](https://open.spotify.com/track/21g3eJhX32ovGJNbYUhN8K) | [Amber Tones](https://open.spotify.com/artist/4YoPOnNyqEMmqU518n8G81) | [Sunset Blvd](https://open.spotify.com/album/3xhBGjHlYPcvtTLpHyMtg5) | 1:58 | 2024-01-23 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-15 |  |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-15 | 2022-05-11 |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-05-11 |

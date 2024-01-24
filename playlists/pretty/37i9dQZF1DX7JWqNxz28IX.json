@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43777,
+  "num_followers": 43799,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWEwNzc5NTE0NWM1MDM2ZWE0MDdiMWQ1YzFiM2UxNmViZDQ2OGFh",
+  "snapshot_id": "MCxhMDNmNGE4M2E2ZDZmYmI0MjMxZmEwZTA0NzJkN2M5YzQ4NzM0ZjVk",
   "tracks": [
     {
       "added_at": "2024-01-19 09:38:47",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-01-19 09:38:47",
       "album": {
-        "name": "Incancellabili",
-        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Otalay",
-          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
-        }
-      ],
-      "duration_ms": 92398,
-      "name": "Incancellabili",
-      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
-    },
-    {
-      "added_at": "2024-01-19 09:38:47",
-      "album": {
         "name": "Due anni fa",
         "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
       },
@@ -867,22 +847,6 @@
       "duration_ms": 160247,
       "name": "Due anni fa",
       "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
-    },
-    {
-      "added_at": "2024-01-19 09:38:47",
-      "album": {
-        "name": "Tutto o niente 2",
-        "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
-      },
-      "artists": [
-        {
-          "name": "gIANMARIA",
-          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Tutto o niente 2",
-      "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
     },
     {
       "added_at": "2024-01-19 09:38:47",
@@ -907,6 +871,42 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2024-01-19 09:38:47",
+      "album": {
+        "name": "Tutto o niente 2",
+        "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Tutto o niente 2",
+      "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "added_at": "2024-01-19 09:38:47",
+      "album": {
+        "name": "Incancellabili",
+        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Otalay",
+          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
+        }
+      ],
+      "duration_ms": 92398,
+      "name": "Incancellabili",
+      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
     },
     {
       "added_at": "2024-01-19 09:38:47",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-19 09:38:47",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2024-01-19 09:38:47",
-      "album": {
         "name": "AUTORITRATTO",
         "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2024-01-19 09:38:47",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-01-19 09:38:47",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-01-19 09:38:47",
       "album": {
-        "name": "Non Mi Passa",
-        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 136265,
-      "name": "Non Mi Passa",
-      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2024-01-19 09:38:47",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 180763,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2024-01-19 09:38:47",
+      "album": {
+        "name": "Non Mi Passa",
+        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 136265,
+      "name": "Non Mi Passa",
+      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
     },
     {
       "added_at": "2024-01-19 09:38:47",

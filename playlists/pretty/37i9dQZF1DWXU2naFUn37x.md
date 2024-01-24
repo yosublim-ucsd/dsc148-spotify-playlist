@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,183 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,012 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TUNNEL](https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:24 |
 | 2 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 3 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
-| 4 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
+| 4 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
 | 5 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 |
 | 6 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 |
 | 7 | [Face to face 2](https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Face to face 2](https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [OUTFIT](https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD) | [19F](https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR) | [OUTFIT](https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR) | 2:59 |
 | 50 | [Nati Per Fare La Guerra](https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nati Per Fare La Guerra](https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h) | 2:18 |
 
-Snapshot ID: `MCxjYTEzMGViMjdkNDA1YmM1ZDgxYTljYjhlZjhlZTIxMGFiZjY1ZGUz`
+Snapshot ID: `MCwwMTI5NmIwYzBkMDlkZGVkMDNiYjRmNzIwMTc5OGVkMjExYmQyMmJl`

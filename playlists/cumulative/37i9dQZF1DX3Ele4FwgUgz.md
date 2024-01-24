@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-127 songs - 8 hr 52 min
+128 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-06-25 |  |
 | [Eutopia](https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Eutopia / EMOTION / stars we chase \(鐘 嵐珠盤\)](https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi) | 4:09 | 2022-06-25 |  |
 | [Evergreen](https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:55 | 2022-06-25 | 2022-09-20 |
-| [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 | 2022-06-25 |  |
+| [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 | 2022-06-25 | 2024-01-24 |
 | [First Love Again](https://open.spotify.com/track/6dctHGnTOybspx1pFQL3E7) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:25 | 2022-06-25 | 2022-07-29 |
 | [Fly into the sky](https://open.spotify.com/track/13js1LWsNrTSUomm4bYblW) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [THE SECRET NiGHT](https://open.spotify.com/album/0y0DKS9Ns0JS89ZbENujXd) | 4:09 | 2022-06-25 | 2022-07-29 |
 | [Fly with You!!](https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 4:34 | 2023-10-03 | 2023-10-05 |
@@ -64,6 +64,7 @@
 | [My Shadow](https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT) | [Karin Asaka \(CV: Miyu Kubota\)](https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:45 | 2023-10-03 | 2024-01-10 |
 | [Märchen Star](https://open.spotify.com/track/7chCaPHPbAtQJ1ldS9gE6R) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:47 | 2022-06-25 | 2022-07-29 |
 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-06-25 | 2023-05-10 |
+| [New Year's March！](https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March！](https://open.spotify.com/album/0a9wGjMMzOrTcSbAw2c4UI) | 4:04 | 2024-01-23 |  |
 | [Not Sad](https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Swinging!](https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K) | 4:17 | 2022-06-25 | 2022-07-28 |
 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 | 2022-11-22 |  |
 | [Poker face&お願い!Fairy](https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:47 | 2022-06-25 | 2023-02-12 |

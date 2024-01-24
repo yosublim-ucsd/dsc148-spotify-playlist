@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 8317,
+  "num_followers": 8332,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl",
+  "snapshot_id": "MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Tomorrow Was the Golden Age",
-        "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 355523,
-      "name": "TWTGA",
-      "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 448133,
       "name": "Water Memory 1",
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Tomorrow Was the Golden Age",
+        "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 355523,
+      "name": "TWTGA",
+      "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Huit",
-      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Talk To The Sea",
         "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199000,
       "name": "First Time Ruth Saw The Sea - Original Mix",
       "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "AUN",
-        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Kae",
-      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
+      "duration_ms": 158950,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
+        "name": "AUN",
+        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
       },
       "artists": [
         {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 158950,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
+      "duration_ms": 131000,
+      "name": "Kae",
+      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Virgins",
+        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 157369,
+      "name": "Live Room Out",
+      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 207993,
       "name": "Hanging Glass Structure",
       "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Virgins",
-        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 157369,
-      "name": "Live Room Out",
-      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 298697,
-      "name": "Chonchos",
-      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Best Driving Music in the World Ever",
         "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 298697,
+      "name": "Chonchos",
+      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
         }
       ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+      "duration_ms": 362609,
+      "name": "To All It",
+      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 362609,
-      "name": "To All It",
-      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Collected Dust",
-        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
       "artists": [
         {
-          "name": "Marcus Fischer",
-          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
         }
       ],
-      "duration_ms": 293453,
-      "name": "Constant",
-      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
+      "duration_ms": 287843,
+      "name": "soft rime",
+      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "chapter",
-        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+        "name": "Collected Dust",
+        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
       "artists": [
         {
-          "name": "Hirotaka Shirotsubaki",
-          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+          "name": "Marcus Fischer",
+          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
         }
       ],
-      "duration_ms": 287843,
-      "name": "soft rime",
-      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+      "duration_ms": 293453,
+      "name": "Constant",
+      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
     },
     {
       "added_at": "2023-06-07 15:21:34",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 42147,
+  "num_followers": 42269,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIzNDk0MzgyMzVmYzJhODJkNjJlYzI0MGVmNmQ3MzgyMzM3MDhm",
+  "snapshot_id": "MCxhZWVjNzY0ZGVhNWNmZTIwNDc1MDcwYmUxYWZjNjE2NWUzOTlkY2Q1",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "My Heartbeat For You",
+        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
+      },
+      "artists": [
+        {
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Zawadi",
+          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "My Heartbeat For You",
+      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "My Heartbeat For You",
-        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
-      },
-      "artists": [
-        {
-          "name": "RoneeDeep",
-          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
-        },
-        {
-          "name": "Zawadi",
-          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "My Heartbeat For You",
-      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
-      },
-      "artists": [
-        {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
-        }
-      ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Fictions",
         "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 375431,
       "name": "Before Everything",
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+      },
+      "artists": [
+        {
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+        }
+      ],
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Ivar the Boneless",
         "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 404480,
       "name": "Ivar the Boneless",
       "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Electronic Deep House King",
-        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK"
       },
       "artists": [
         {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
         }
       ],
-      "duration_ms": 336352,
-      "name": "Electronic Deep House King",
-      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY"
     }
   ],
   "unique_name": "Deep House Session",

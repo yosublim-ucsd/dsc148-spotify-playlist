@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,738 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,756 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,10 +122,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Forget You](https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Forget You](https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09) | 3:01 |
 | 113 | [Julia](https://open.spotify.com/track/6J5hQ8poHQYA1MgRq6dU2B) | [Klara LaFleur](https://open.spotify.com/artist/4OTNHZSytsoMujGoXj32Xi) | [Julia](https://open.spotify.com/album/3WYLB5EfTWdLhXZAYfNsI5) | 2:33 |
 | 114 | [Awake](https://open.spotify.com/track/38Y0NFSYYePTXeuZcgIron) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Awake](https://open.spotify.com/album/6Nr1qfwLB8jxRN2pTwNXb5) | 4:22 |
-| 115 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/5VpkgBrj1Tavg9lVApoVF0) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
+| 115 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
 | 116 | [Repris](https://open.spotify.com/track/4Y4b84rHROi1IPLCnLrRcI) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F), [YoungWildBoi](https://open.spotify.com/artist/4YRGA0WWMzySNoOAPxh50e) | [Repris](https://open.spotify.com/album/4SDzpGlz2TGj5xhjg0s9Ap) | 2:53 |
 | 117 | [My Producer](https://open.spotify.com/track/4pTJXBtM5KJcHvOrhdFN6e) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Allina](https://open.spotify.com/artist/5nys5JMkNdnpE7bYevIQHX) | [My Producer](https://open.spotify.com/album/00v6cQyW2ElENpb1i5bYnB) | 2:52 |
 | 118 | [Matthew McConaughey](https://open.spotify.com/track/7KLXIod5EkVEOmTtZ0nwPv) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Matthew McConaughey](https://open.spotify.com/album/5Zcphiddm6lNmE9BMJ5ZW2) | 3:09 |
 | 119 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
 
-Snapshot ID: `MCw1MDBmM2Y3OTdlNTYyM2FiODA0NWVkZDk5MDE0YzYyMDY5YjViYTQ3`
+Snapshot ID: `MCw4NTI3MDQ0NWFlMGQ2NDFlMWViNDA4ZTRjZDRlM2RkZWIxZmZlM2Y0`

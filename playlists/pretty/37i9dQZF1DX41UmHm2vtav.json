@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 461349,
+  "num_followers": 461398,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDQ4NGFlZWQyM2U0MjNkNGY1MDI1MWRjMWZhYmZiYjYyZGIzM2Ey",
+  "snapshot_id": "MCwwNWEzZTgzYTkxMDFmZjBhYmRiZTNmNjU3NDI2ZmE4YzkxMmE5ZDIy",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Adrenalizou (Gabriel Boni Remix)",
-        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        }
-      ],
-      "duration_ms": 214435,
-      "name": "Adrenalizou - Gabriel Boni Remix",
-      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Adrenalizou (Gabriel Boni Remix)",
+        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "Adrenalizou - Gabriel Boni Remix",
+      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "PQP A Vida \u00c9 Boa Demais",
-        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Ralk",
-          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "PQP A Vida \u00c9 Boa Demais",
-      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "A Dois Passos do Para\u00edso",
         "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "PQP A Vida \u00c9 Boa Demais",
+        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "PQP A Vida \u00c9 Boa Demais",
+      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
     }
   ],
   "unique_name": "Festa na Praia",

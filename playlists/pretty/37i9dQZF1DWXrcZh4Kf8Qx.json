@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 253341,
+  "num_followers": 253396,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDkxNWVlNGMyZjczN2RmMTBhZWUzMWVkYjMzYjhlZWY4ZTgyNGFk",
+  "snapshot_id": "MCwyMDc2YzVkMGFmNWY2MmM0ODYxOTA5MmFlYjRlYWQ2NDg3NTQwNDI0",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
         }
       ],
-      "duration_ms": 233506,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     }
   ],
   "unique_name": "70s Ballads",

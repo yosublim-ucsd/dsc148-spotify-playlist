@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-487 songs - 1 day 1 hr 2 min
+488 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Marcheur](https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Marcheur](https://open.spotify.com/album/2tvntXVzem4r9weTdSzrcA) | 4:06 | 2023-12-13 |  |
 | [Maria](https://open.spotify.com/track/0kLgu4axkaJDT84v42hUSg) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Maria](https://open.spotify.com/album/773RSEiOc5qQNJ7ZGdB5FN) | 2:50 | 2023-06-22 | 2023-08-10 |
 | [Maria](https://open.spotify.com/track/5WpbkqtFx8GLw2DLqjrpsM) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 2:50 | 2023-07-06 | 2023-08-10 |
-| [MATAFAKA](https://open.spotify.com/track/1ZOVeidJCvkxOARWTHmWOL) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [MATAFAKA](https://open.spotify.com/album/4oy92HXfNvaAMdZ9XiKEG1) | 3:17 | 2023-08-08 |  |
+| [MATAFAKA](https://open.spotify.com/track/1ZOVeidJCvkxOARWTHmWOL) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [MATAFAKA](https://open.spotify.com/album/4oy92HXfNvaAMdZ9XiKEG1) | 3:17 | 2023-08-08 | 2024-01-24 |
 | [me](https://open.spotify.com/track/52EybjwbR5hO0mnq2CGoKe) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [me](https://open.spotify.com/album/2pThbGBFk8yPRNtlirmSG1) | 2:51 | 2023-06-14 | 2023-08-10 |
 | [Me Times Two](https://open.spotify.com/track/5TrA3Iopc6I2PbwGTKv9m8) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Me Times Two](https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ) | 2:52 | 2022-07-14 | 2023-04-28 |
 | [Meant To Be](https://open.spotify.com/track/4IQujIjk2WNrUjwwv6yxuZ) | [Rave New World](https://open.spotify.com/artist/4ko7cVxrcdvwdRkkmiNcRI) | [Meant To Be](https://open.spotify.com/album/6D2SwvH7kPNxGFzyAYhiFZ) | 2:47 | 2023-07-12 | 2023-08-10 |
@@ -292,6 +292,7 @@
 | [Nekozilla](https://open.spotify.com/track/5hZiyMZRVChO3RwfypsU6M) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [NCS: Infinity](https://open.spotify.com/album/3AZ2LKHjvsXF3xEGUQ65Q3) | 2:48 | 2023-08-08 | 2024-01-19 |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 | 2023-04-28 |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-12-13 |  |
+| [Never Let You Down](https://open.spotify.com/track/5EeGShnS2D9qFggirp7mrT) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX) | [Never Let You Down](https://open.spotify.com/album/49h0tP9mqLdwvzosiA2Ku8) | 3:31 | 2024-01-23 |  |
 | [Next Level](https://open.spotify.com/track/6ieN1XasQHTd98sCSDmieM) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:21 | 2022-12-07 | 2023-04-28 |
 | [No Money](https://open.spotify.com/track/2i9uoxjvgN6sA7fSfoHtKA) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [No Money](https://open.spotify.com/album/1aEeJSaTZMOF42T36FMpa7) | 1:59 | 2023-07-21 |  |
 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 | 2023-01-06 | 2023-08-10 |

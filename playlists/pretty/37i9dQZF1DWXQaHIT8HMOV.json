@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTgzMGQ2MzdkNjYzNGUwNTFhMzNiYzY0M2Q1YTc0M2JiZWI1NTQy",
+  "snapshot_id": "MCxiYzUxYjk3MmRhNTNmY2M0MTg3OWMxOGViZWVmNzdiYzVmMGVhMDYz",
   "tracks": [
     {
       "added_at": "2024-01-19 04:47:55",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -827,18 +827,26 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Kyekiliwo",
-        "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
       },
       "artists": [
         {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+          "name": "Kaboo",
+          "url": "https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD"
+        },
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        },
+        {
+          "name": "Soundlykbb",
+          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
         }
       ],
-      "duration_ms": 175288,
-      "name": "Kyekiliwo",
-      "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
+      "duration_ms": 196000,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -867,6 +875,22 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "Kyekiliwo",
+        "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 175288,
+      "name": "Kyekiliwo",
+      "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 136818,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
-      },
-      "artists": [
-        {
-          "name": "Kaboo",
-          "url": "https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD"
-        },
-        {
-          "name": "Tai Dai",
-          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
-        },
-        {
-          "name": "Soundlykbb",
-          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Type Of Girl",
-        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
-      },
-      "artists": [
-        {
-          "name": "Sanyu",
-          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
-        },
-        {
-          "name": "Kamanzi",
-          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Type Of Girl",
-      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Type Of Girl",
+        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
+      },
+      "artists": [
+        {
+          "name": "Sanyu",
+          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
+        },
+        {
+          "name": "Kamanzi",
+          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Type Of Girl",
+      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
     }
   ],
   "unique_name": "Made In Uganda",

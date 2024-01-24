@@ -1,7 +1,7 @@
 {
-  "2024-01-23": 392765,
+  "2024-01-24": 392930,
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits du moment sont ici. Cover : Oualid, Norel",
+  "description": "Les hits du moment sont ici. Cover : DYSTINCT",
   "name": "Hot Hits Maghreb",
   "tracks": [
     {
@@ -2812,6 +2812,24 @@
     },
     {
       "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
       },
@@ -4617,7 +4635,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 203807,
       "name": "\u00c9chec - Spotify Singles",
       "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 69680,
+  "num_followers": 69733,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTRjNmQ5ODQ3ZDAwN2Q5MjA5MDNkZjZjYmQ0OTliZDQ3NDJhM2U0",
+  "snapshot_id": "MCxkODIwZjljNjFiNTI2OTAzYTMzMTgzZDcxYTkxYmU3MGQ4OGY0Y2M4",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Birds Of Prey",
+        "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Maintain",
+          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
+        }
+      ],
+      "duration_ms": 185846,
+      "name": "Birds Of Prey",
+      "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
         "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Birds Of Prey",
-        "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        },
-        {
-          "name": "Maintain",
-          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
-        }
-      ],
-      "duration_ms": 185846,
-      "name": "Birds Of Prey",
-      "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+      },
+      "artists": [
+        {
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1191,6 +1211,22 @@
       "duration_ms": 200960,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1215,42 +1251,6 @@
       "duration_ms": 198315,
       "name": "Slaves To The Darkness",
       "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
-      },
-      "artists": [
-        {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Story of My Life",
-        "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
-      },
-      "artists": [
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "PsykoPhonic",
-          "url": "https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Story of My Life",
+        "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
+      },
+      "artists": [
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "PsykoPhonic",
+          "url": "https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "LOSE IT",
-        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
-      },
-      "artists": [
-        {
-          "name": "Crypton",
-          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
-        }
-      ],
-      "duration_ms": 163597,
-      "name": "LOSE IT",
-      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Het Verbond",
         "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 256457,
       "name": "Het Verbond",
       "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "LOSE IT",
+        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
+      },
+      "artists": [
+        {
+          "name": "Crypton",
+          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
+        }
+      ],
+      "duration_ms": 163597,
+      "name": "LOSE IT",
+      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
+      },
+      "artists": [
+        {
+          "name": "Indika",
+          "url": "https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1687,22 +1707,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Hide Me",
-        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
-      },
-      "artists": [
-        {
-          "name": "Aftermath",
-          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Hide Me",
-      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
@@ -1723,42 +1727,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Slugs 4 Snitches",
-        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
+        "name": "Hide Me",
+        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
       "artists": [
         {
-          "name": "Hellsystem",
-          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
-        },
-        {
-          "name": "Predator",
-          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
         }
       ],
-      "duration_ms": 170742,
-      "name": "Slugs 4 Snitches",
-      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
-      },
-      "artists": [
-        {
-          "name": "Indika",
-          "url": "https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
+      "duration_ms": 183891,
+      "name": "Hide Me",
+      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1775,6 +1755,26 @@
       "duration_ms": 168600,
       "name": "Ruthless For Life",
       "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Slugs 4 Snitches",
+        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
+      },
+      "artists": [
+        {
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        },
+        {
+          "name": "Predator",
+          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "Slugs 4 Snitches",
+      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1819,6 +1819,30 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        },
+        {
+          "name": "TukkerTempo",
+          "url": "https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "It's Time EP",
         "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
       },
@@ -1851,30 +1875,6 @@
       "duration_ms": 180300,
       "name": "Disruption",
       "url": "https://open.spotify.com/track/0Zxzg3AzI2tJKaCGVJ3yrz"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        },
-        {
-          "name": "TukkerTempo",
-          "url": "https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

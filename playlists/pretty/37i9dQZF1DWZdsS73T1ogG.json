@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Omar Courtz\n",
-  "num_followers": 513007,
+  "num_followers": 512138,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzc1N2M5MWIyNGFmMmFlNTA5ODQwZDVlNmI1MTRkOWRiZGQ1YmI0",
+  "snapshot_id": "MCxiNzg0ZjljMDQwYWYyMWIzNzA5OWM3ZjA2Y2I4N2VmY2U1NTAzYjdh",
   "tracks": [
     {
       "added_at": "2024-01-19 16:49:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 142736,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
@@ -579,6 +595,22 @@
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
+      },
+      "artists": [
+        {
+          "name": "VICE MENTA",
+          "url": "https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -603,34 +635,22 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "Complicado",
-        "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
       "artists": [
         {
-          "name": "VICE MENTA",
-          "url": "https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Complicado",
-      "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 142736,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V"
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -655,26 +675,6 @@
       "duration_ms": 215470,
       "name": "GANGSTER (PQFNEDG)",
       "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
+        "name": "RealG4Life Vol. 4",
+        "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
         "name": "Mal Hombre",
         "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "RealG4Life Vol. 4",
-        "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 143346,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ"
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -859,22 +875,6 @@
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/7C19B0faFkwBzfS5yHg1bF"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "Bandidona",
-        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Bandidona",
-      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
         "name": "Maria (Remix)",
         "url": "https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 182123,
       "name": "Maria - Remix",
       "url": "https://open.spotify.com/track/79RznOnBinLenZ5UVBiVuk"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
+        "name": "Bandidona",
+        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Bandidona",
+      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
+        "name": "BBY BOO",
+        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "BBY BOO",
+      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
         "name": "Las Gatas (Dembow)",
         "url": "https://open.spotify.com/album/7pFUFza5kEYzrl2M4s1hga"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 191250,
       "name": "Las Gatas (Dembow)",
       "url": "https://open.spotify.com/track/7pPq4psRxZ0uYKcBfl2ivT"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "BBY BOO",
-        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "BBY BOO",
-      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "Maleante (Remix)",
-        "url": "https://open.spotify.com/album/5aNTwj8EGOyacwFpHnz79w"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 192498,
-      "name": "Maleante - Remix",
-      "url": "https://open.spotify.com/track/1UZBseuNx6Z3o4y0n7UqmE"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
         "name": "Al Otro Nivel",
         "url": "https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
+        "name": "Maleante (Remix)",
+        "url": "https://open.spotify.com/album/5aNTwj8EGOyacwFpHnz79w"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 192498,
+      "name": "Maleante - Remix",
+      "url": "https://open.spotify.com/track/1UZBseuNx6Z3o4y0n7UqmE"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
+        "name": "EL HUBIERA NO EXISTE",
+        "url": "https://open.spotify.com/album/6WfpAc4WWaI3cDui7TznGx"
+      },
+      "artists": [
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "EL HUBIERA NO EXISTE",
+      "url": "https://open.spotify.com/track/5xb2KC2nksF2fbcjscN3zH"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
         "name": "Suena El Bajo",
         "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 155056,
       "name": "Me Perjudique",
       "url": "https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "EL HUBIERA NO EXISTE",
-        "url": "https://open.spotify.com/album/6WfpAc4WWaI3cDui7TznGx"
-      },
-      "artists": [
-        {
-          "name": "Keityn",
-          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "EL HUBIERA NO EXISTE",
-      "url": "https://open.spotify.com/track/5xb2KC2nksF2fbcjscN3zH"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
+        "name": "H.10",
+        "url": "https://open.spotify.com/album/0JIaqJlYOhS8I2qIYAXHbl"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 130052,
+      "name": "Locomia",
+      "url": "https://open.spotify.com/track/0IMPn1KF3tn6ZUjpzhkpil"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
         "name": "Se Medica",
         "url": "https://open.spotify.com/album/3xQVwcEz451bcGacbLgjrJ"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "H.10",
-        "url": "https://open.spotify.com/album/0JIaqJlYOhS8I2qIYAXHbl"
+        "name": "CIERTO",
+        "url": "https://open.spotify.com/album/5jtN0hVUn388DKaJx8H5s2"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
         }
       ],
-      "duration_ms": 130052,
-      "name": "Locomia",
-      "url": "https://open.spotify.com/track/0IMPn1KF3tn6ZUjpzhkpil"
+      "duration_ms": 172670,
+      "name": "CIERTO",
+      "url": "https://open.spotify.com/track/57jTfiOHxcJ1RGykV45wu2"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 171798,
       "name": "SHIRAKAWA-GO",
       "url": "https://open.spotify.com/track/16tfnFPsRG8vgbaAG3kpET"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
-        "name": "CIERTO",
-        "url": "https://open.spotify.com/album/5jtN0hVUn388DKaJx8H5s2"
-      },
-      "artists": [
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        }
-      ],
-      "duration_ms": 172670,
-      "name": "CIERTO",
-      "url": "https://open.spotify.com/track/57jTfiOHxcJ1RGykV45wu2"
     },
     {
       "added_at": "2024-01-19 16:49:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-01-19 16:49:00",
       "album": {
-        "name": "Tu Voz",
-        "url": "https://open.spotify.com/album/1s13sfeodGFEldVyphkLly"
-      },
-      "artists": [
-        {
-          "name": "GioBulla",
-          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc"
-    },
-    {
-      "added_at": "2024-01-19 16:49:00",
-      "album": {
         "name": "NO BINARIA",
         "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 131416,
       "name": "NO BINARIA",
       "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
+    },
+    {
+      "added_at": "2024-01-19 16:49:00",
+      "album": {
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/1s13sfeodGFEldVyphkLly"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc"
     }
   ],
   "unique_name": "el nuevo urbano",

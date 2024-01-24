@@ -1,15 +1,47 @@
 {
   "description": "If you\u2019re sappy and you know it, listen to these cheesy tunes.",
-  "num_followers": 933800,
+  "num_followers": 932109,
   "original_name": "Sappy and Senti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzk5MWI5MDgyNGQzNmY4NTYxMWQ3ZjE4ZTAwYTlmOTNlNWRkYjFi",
+  "snapshot_id": "MCw0OTMwZDNjMjE2MzUzN2VhYWVlZWQ1NTUxZjU4YWE0NDlmMzRhNmRm",
   "tracks": [
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
+      "album": {
+        "name": "That's What Love Is",
+        "url": "https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "That's What Love Is",
+      "url": "https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq"
+    },
+    {
+      "added_at": "2024-01-23 03:33:09",
+      "album": {
+        "name": "24/7, 365",
+        "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "24/7, 365",
+      "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
+    },
+    {
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
         "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "A Piece of You",
         "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "You'll Be Safe Here",
         "url": "https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Walking Back Home",
         "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Subset",
         "url": "https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Moving Closer",
         "url": "https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T"
@@ -193,7 +225,7 @@
       "url": "https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "waiting 4 u (delulu)",
         "url": "https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "HINAHANAP-HANAP",
         "url": "https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "You'll Be Safe Here",
         "url": "https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "this time",
         "url": "https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Courage (Acoustic Ver.)",
         "url": "https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Your Universe",
         "url": "https://open.spotify.com/album/4sqO3RMFtKZ1JtHHqBOa36"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/5PlL9nRL673efjDc3iNHcA"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "LAST GOODBYE",
         "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Late Night Madness",
         "url": "https://open.spotify.com/album/1ueV9haTPWmtCzpjzPCt13"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/0Jdn4pgNfOnW0bmWLFgpe7"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Orasa",
         "url": "https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
@@ -477,7 +509,7 @@
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Treading Water",
         "url": "https://open.spotify.com/album/0vyYaFkP7vtUhy006O934u"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/74sBWCAGLMQv9tEGAn8aJO"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Palagi",
         "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Ako Nalang Kasi",
         "url": "https://open.spotify.com/album/6LlYmFWzlucUOBJsSch4dW"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/2LLwBk9FOlKZ8wT0lUQzOw"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "RomCom",
         "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Nobody Like Us",
         "url": "https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
@@ -593,7 +625,7 @@
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Lilly's Child",
         "url": "https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Balse Ng Gabi",
         "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
@@ -665,27 +697,7 @@
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
-      "album": {
-        "name": "Gusto",
-        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Gusto feat. Al James",
-      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Sy",
         "url": "https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v"
@@ -701,23 +713,7 @@
       "url": "https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
-      "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
-    },
-    {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Raining In Manila",
         "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Di Na Ako",
         "url": "https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Hanggang Sa Buwan",
         "url": "https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz"
@@ -829,7 +825,7 @@
       "url": "https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg"
     },
     {
-      "added_at": "2024-01-10 06:48:07",
+      "added_at": "2024-01-23 03:33:09",
       "album": {
         "name": "Sunsets With You",
         "url": "https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X"

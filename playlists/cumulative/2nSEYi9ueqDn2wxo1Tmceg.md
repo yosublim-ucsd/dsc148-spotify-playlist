@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-748 songs - 2 day 3 hr 12 min
+749 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 | 2022-10-12 | 2022-11-24 |
 | [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 | 2023-06-13 | 2023-08-03 |
 | [Glasgow \- Edit](https://open.spotify.com/track/0fbloYbpEh4pJljGYKn24o) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Glasgow](https://open.spotify.com/album/1t2DMbdSiAKi75cbTTqKDz) | 3:49 | 2022-06-16 | 2022-07-28 |
+| [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 | 2024-01-23 |  |
 | [Gloria](https://open.spotify.com/track/4KP8lgC1pKjpzmkhQoK6nU) | [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Gloria](https://open.spotify.com/album/2Da8ulu48GwmJHChDmX04L) | 6:00 | 2023-07-12 | 2023-08-31 |
 | [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-11-09 | 2022-12-08 |
 | [Go Dig My Grave](https://open.spotify.com/track/5FBto2Mh2gVkGWV0mRh0hg) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Go Dig My Grave](https://open.spotify.com/album/0opq0M7iIK9YbyhPZefNYa) | 8:38 | 2023-02-22 | 2023-04-06 |

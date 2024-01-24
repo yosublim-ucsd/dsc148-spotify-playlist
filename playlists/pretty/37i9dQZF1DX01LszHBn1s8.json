@@ -1,12 +1,12 @@
 {
   "description": "i've been a jacob elordi stan since kissing booth ",
-  "num_followers": 235031,
+  "num_followers": 235082,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmZhNjRhY2Q4MDg4ZjEyZjEwYzQxZDc4NjdmNzZhMWRkM2U0MjFi",
+  "snapshot_id": "MCw5ODBhMjFiYjBhMDFmNjIzOTViMGNhOTkxNjVlYmE2YjZiY2Y4OWMy",
   "tracks": [
     {
       "added_at": "2024-01-14 11:45:05",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Before I Self-Destruct",
+        "url": "https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Baby By Me",
+      "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -95,22 +115,6 @@
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
-    },
-    {
-      "added_at": "2024-01-17 08:49:59",
-      "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -157,6 +161,22 @@
       "url": "https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH"
     },
     {
+      "added_at": "2024-01-23 15:13:44",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH"
+      },
+      "artists": [
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        }
+      ],
+      "duration_ms": 146562,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp"
+    },
+    {
       "added_at": "2024-01-15 15:21:56",
       "album": {
         "name": "Scared To Start",
@@ -193,6 +213,38 @@
       "url": "https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt"
     },
     {
+      "added_at": "2024-01-17 08:49:59",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "P\u00e4rlor",
+      "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
+    },
+    {
       "added_at": "2024-01-14 11:45:05",
       "album": {
         "name": "Perfect (Exceeder)",
@@ -211,42 +263,6 @@
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Before I Self-Destruct",
-        "url": "https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Baby By Me",
-      "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Vapen & ammunition",
-        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
-      },
-      "artists": [
-        {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "P\u00e4rlor",
-      "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
     },
     {
       "added_at": "2024-01-22 10:20:27",
@@ -9920,7 +9936,7 @@
       "added_at": "2024-01-11 23:00:00",
       "album": {
         "name": "Head In The Clouds",
-        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+        "url": "https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0"
       },
       "artists": [
         {
@@ -9934,11 +9950,19 @@
         {
           "name": "Rich Brian",
           "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Higher Brothers",
+          "url": "https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ"
+        },
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
         }
       ],
       "duration_ms": 280841,
       "name": "Midsummer Madness",
-      "url": "https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn"
+      "url": "https://open.spotify.com/track/0qiMB9VYpBOhTcvi47h4nX"
     },
     {
       "added_at": "2024-01-11 23:00:00",

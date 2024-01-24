@@ -2,7 +2,7 @@
 
 ### [Halftime Hits](https://open.spotify.com/playlist/37i9dQZF1DWWNQEmXRHxVe)
 
-> Music from the most memorable Super Bowl halftime shows\. Cover: Rihanna
+> Music from the most memorable halftime shows\. Cover: Rihanna
 
 116 songs - 8 hr 8 min
 

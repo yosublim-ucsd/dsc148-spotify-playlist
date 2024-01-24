@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,489 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,519 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 4 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
 | 5 | [Darkskin Queen \- Edit](https://open.spotify.com/track/1wgJZsFX3FBcmyGYPw1XmM) | [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg) | [Darkskin Queen](https://open.spotify.com/album/5f82wZZ02LOj20GTvfEBGZ) | 3:12 |
 | 6 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
-| 7 | [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 |
+| 7 | [Sip of My Sip](https://open.spotify.com/track/6KZCtXIEXU4lmmL4QD8MMQ) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Svengali](https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx) | 3:18 |
 | 8 | [Vox](https://open.spotify.com/track/00L3bL1Nu22e6HPRq7R0go) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/70FtG9sondjv4bqPTMvNNL) | 0:59 |
 | 9 | [G.O.A.T](https://open.spotify.com/track/4AvD91GmVkVyDY6Q5Gdoan) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [G.O.A.T](https://open.spotify.com/album/4oVlzKpW3Sc17Jptq6PVb5) | 3:19 |
 | 10 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 |
 | 110 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 
-Snapshot ID: `MCxhZGUyZWU0ZGMxZGQzMjBkODE0OWY4NzYyOWU5Y2IyM2Q4ZTA3MmVm`
+Snapshot ID: `MCwyOTg0YThmNDhiNTJmOWE4MjMxMDVkNjllMGEwYzhkZDU3ODg3MGQ0`

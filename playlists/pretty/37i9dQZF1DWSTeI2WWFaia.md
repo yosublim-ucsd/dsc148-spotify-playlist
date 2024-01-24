@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Smoke DZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607,782 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,898 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 40 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
 | 41 | [Guapanese](https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:24 |
 | 42 | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD) | 3:50 |
-| 43 | [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 |
-| 44 | [MAYNARD VIGNETTE \[Feat\. T.I., JID, Jacquees\]](https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [MAYNARD VIGNETTE \[Feat\. T.I., JID, and Jacquees\]](https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL) | 4:48 |
+| 43 | [MAYNARD VIGNETTE \[Feat\. T.I., JID, Jacquees\]](https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [MAYNARD VIGNETTE \[Feat\. T.I., JID, and Jacquees\]](https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL) | 4:48 |
+| 44 | [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 |
 | 45 | [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 |
 | 46 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
 | 47 | [No Pun Intended](https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [No Pun Intended](https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Daddy Kane \(feat\. Action Bronson\)](https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:54 |
 | 50 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
 
-Snapshot ID: `MCwyZDZlOGE5MDc3ZjEzYTE2YjJlNzYzNjRlYWM3YzRiN2YyMmNjMWIy`
+Snapshot ID: `MCwzM2QyNmFmNmIzMzM0MDBhYmRkOTI2ZWRlMTk0ZGUzMTFjMTFhMTk4`

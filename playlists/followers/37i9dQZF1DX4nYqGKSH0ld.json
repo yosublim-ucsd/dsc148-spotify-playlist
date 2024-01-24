@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 161438,
+  "2024-01-24": 161399,
   "date_first_scraped": "2021-12-21",
   "description": "Get ready for good feels and fireworks!",
   "name": "4th of July Party",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 191306,
       "name": "Drink In My Hand",
       "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Dabin\(홍다빈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Yumewanaii\(유명한아이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-664 songs - 1 day 12 hr 5 min
+665 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Gasoline](https://open.spotify.com/track/69LA8ZxpRAkvD18qENtTrb) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Gasoline](https://open.spotify.com/album/3ElwPHW7K5ljC38BZ1bp1K) | 2:46 | 2022-05-03 | 2022-07-27 |
 | [GET \#MYWAY \(With LOTTE Department Store\)](https://open.spotify.com/track/4EaxY2suYRqcgjhPKgM16P) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Song for you project Vol.3 : GET \#MYWAY](https://open.spotify.com/album/4qAKZGcHNNweRbVKG5GFCR) | 2:45 | 2022-05-02 | 2022-07-27 |
 | [Get That Money](https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:13 | 2022-04-01 | 2022-04-21 |
+| [Geumcheon\-gu Doksan\-ro](https://open.spotify.com/track/16qzKZD89ivXfqnIn5wgsD) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Geumcheon\-gu Doksan\-ro](https://open.spotify.com/album/4ELet5GG8jzYer3Q3Ujb3R) | 2:34 | 2024-01-23 |  |
 | [GIRL \(Feat\. Yonko\)](https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn) | [KROM](https://open.spotify.com/artist/1nxLEnV5LWQdyno65PHCYT), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [GIRL](https://open.spotify.com/album/3n138B1zCEMn6gX1s850f6) | 3:40 | 2022-12-19 | 2023-01-11 |
 | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/track/1N8Qy5DhiBHE1WTJniYM1m) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [T₩OTUK](https://open.spotify.com/artist/3iAOHQi9GKQ8ARxHfD6YFt), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/album/0qGqRlZPFPDjoZULwItlXn) | 3:33 | 2023-01-10 | 2023-01-26 |
 | [Girls](https://open.spotify.com/track/0anCWbqkyJRgJ7c5PaPPQb) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [B.O.Y\. \(Because Of You\)](https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt) | 2:56 | 2022-04-21 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-04-01 |  |
 | [JUMP!2](https://open.spotify.com/track/7ajzfxYXzMBqskGoiMKNWr) | [UD](https://open.spotify.com/artist/5P9czMh52gUk3hS78Luarq) | [ALONE](https://open.spotify.com/album/48A2J4yLkn9GObh7WiMR2V) | 3:17 | 2022-05-05 | 2022-05-12 |
 | [Jumper \(Feat\. Gaeko, MINO\)](https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [mino](https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X) | [Remember Archive](https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1) | 3:35 | 2023-03-16 | 2023-07-28 |
-| [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 | 2022-04-01 |  |
+| [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 | 2022-04-01 | 2024-01-24 |
 | [Just the two of us](https://open.spotify.com/track/5SoN5GIDUG1aNQTuNqsVDu) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Just the two of us](https://open.spotify.com/album/0RoQvfw174dcjxfWjN4I5j) | 3:57 | 2022-04-01 | 2022-07-29 |
 | [KILL](https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:00 | 2022-04-21 | 2022-06-23 |
 | [Killin me softly \(feat\. Skinny Brown\)](https://open.spotify.com/track/1j8H6zxSArZDQsbpBCLtgn) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-01 | 2022-04-22 |

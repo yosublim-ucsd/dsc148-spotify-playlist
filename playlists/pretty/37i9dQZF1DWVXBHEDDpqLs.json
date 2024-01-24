@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30702,
+  "num_followers": 30709,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTRkZTRlNDQxNDc4NjRiODc4MDJmZTE0YzdiNDViMWI5NTc3OTEy",
+  "snapshot_id": "MCxiNTc3Yjc3NTVmOGM1YTNhMTNiY2E5YzYyMDAxMWJhODYyYjgyZWNi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -95,8 +95,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sip of My Sip",
-        "url": "https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM"
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx"
       },
       "artists": [
         {
@@ -110,7 +110,7 @@
       ],
       "duration_ms": 198362,
       "name": "Sip of My Sip",
-      "url": "https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG"
+      "url": "https://open.spotify.com/track/6KZCtXIEXU4lmmL4QD8MMQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Deliver",
-        "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
-      },
-      "artists": [
-        {
-          "name": "FHAT",
-          "url": "https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8"
-        },
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Deliver",
-      "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pree Me (Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 280620,
       "name": "Pree Me (Chris Lorenzo Remix)",
       "url": "https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
+      },
+      "artists": [
+        {
+          "name": "FHAT",
+          "url": "https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8"
+        },
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1179,22 +1179,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nah Follow Dem",
-        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
+        "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
       "artists": [
         {
-          "name": "Dom 877",
-          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
+          "name": "TSU Terry",
+          "url": "https://open.spotify.com/artist/0mvCpFrdf7doUhRu8AHjXT"
         },
         {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Nah Follow Dem",
-      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
+      "duration_ms": 162919,
+      "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
+      "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1219,26 +1223,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
+        "name": "Nah Follow Dem",
+        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
       },
       "artists": [
         {
-          "name": "TSU Terry",
-          "url": "https://open.spotify.com/artist/0mvCpFrdf7doUhRu8AHjXT"
+          "name": "Dom 877",
+          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
         },
         {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
         }
       ],
-      "duration_ms": 162919,
-      "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
-      "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+      "duration_ms": 183692,
+      "name": "Nah Follow Dem",
+      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ride It (SBF17)",
         "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "HARIK\u0112N",
         "url": "https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3"
       },
@@ -1427,6 +1427,30 @@
       "duration_ms": 160140,
       "name": "HARIK\u0112N",
       "url": "https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "STAND BACK (RELOADED)",
+        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "93rd",
+          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
+        },
+        {
+          "name": "Killa Kherk Cobain",
+          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "STAND BACK (RELOADED)",
+      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1467,46 +1491,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "STAND BACK (RELOADED)",
-        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
+        "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
+        "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
       },
       "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
         {
           "name": "UNIIQU3",
           "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         },
         {
-          "name": "93rd",
-          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
+          "name": "Thai Chi Ros\u00e8",
+          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
         },
         {
-          "name": "Killa Kherk Cobain",
-          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "STAND BACK (RELOADED)",
-      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "XL Mad",
+          "url": "https://open.spotify.com/artist/1A4YwQMDSQ8DnliFWNa4EK"
         },
         {
-          "name": "SHE KORO",
-          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
         }
       ],
-      "duration_ms": 178652,
-      "name": "Banter",
-      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+      "duration_ms": 188000,
+      "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
+      "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1547,6 +1559,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "SHE KORO",
+          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Banter",
+      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bubbly",
         "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
       },
@@ -1575,38 +1607,6 @@
       "duration_ms": 240960,
       "name": "BALTIMORE",
       "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
-        "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Thai Chi Ros\u00e8",
-          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
-        },
-        {
-          "name": "XL Mad",
-          "url": "https://open.spotify.com/artist/1A4YwQMDSQ8DnliFWNa4EK"
-        },
-        {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
-      "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1799,6 +1799,46 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Sweaty Clothes",
+        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes",
+      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
@@ -1839,26 +1879,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
-      },
-      "artists": [
-        {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 342481,
       "name": "TEMPRANO",
       "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sweaty Clothes",
-        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes",
-      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
     },
     {
       "added_at": "2023-10-06 04:00:00",

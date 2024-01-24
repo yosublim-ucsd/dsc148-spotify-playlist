@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Joy Orbison
 
-881 songs - 2 day 14 hr 15 min
+882 songs - 2 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Earn It](https://open.spotify.com/track/7dYCexMyeIX4gikhil1mV6) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Earn It](https://open.spotify.com/album/6ycZNwGgSHhcW0DBLATWsZ) | 2:29 | 2022-03-04 | 2022-05-06 |
 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 | 2023-03-30 | 2023-09-22 |
 | [Easy](https://open.spotify.com/track/2Z5pQyvM2jC2lFOJTjKCnv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Easy](https://open.spotify.com/album/0kcweyBVhphCeUTj1TBcPc) | 3:04 | 2021-11-24\* | 2022-02-05 |
-| [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-10 |  |
+| [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-10 | 2024-01-24 |
+| [Eats The Tale](https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB) | 3:43 | 2024-01-12 |  |
 | [Echolocation](https://open.spotify.com/track/7qrXPKKpEoWEjehANH01Re) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Brainstorm \- EP](https://open.spotify.com/album/2N5shz2jPjiMcsjcBrAUOE) | 6:10 | 2021-11-24\* | 2021-12-03 |
 | [Either Way](https://open.spotify.com/track/3Q4dGPkUXbbCIiMHS0wYbz) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Either Way](https://open.spotify.com/album/4N0XFLYnMhZz3uXmRQQtM9) | 4:52 | 2022-02-11 | 2022-05-27 |
 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-19 | 2022-11-09 |

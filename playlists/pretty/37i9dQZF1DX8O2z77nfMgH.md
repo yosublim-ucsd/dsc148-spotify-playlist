@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Prince Royce y Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,099 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,226 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 36 | [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 |
 | 37 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 |
 | 38 | [hasta la luna y de regreso](https://open.spotify.com/track/6Z6px53TMyEHaJKeRHYaH3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [hasta la luna y de regreso](https://open.spotify.com/album/5schejrJrPuz2SQxjWNreW) | 2:50 |
-| 39 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/2q8e4mdu5XQFBu30d3I3ry) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
+| 39 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
 | 40 | [Quédate Conmigo](https://open.spotify.com/track/6LF1lNIIAMjbF9bEhz6ZQL) | [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Quédate Conmigo](https://open.spotify.com/album/4VnEnJiogXJocF0xSkOs5V) | 2:32 |
 | 41 | [Vida Entera](https://open.spotify.com/track/6XPBzkZhTkExDvmAoNNIfg) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Vida Entera](https://open.spotify.com/album/3GR6VDh5t9VOJRUUZ54V95) | 3:42 |
 | 42 | [Porcelana](https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Porcelana](https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu) | 3:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Tropical](https://open.spotify.com/track/2qo8wunTxcySvz1oG5Y7az) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Tropical](https://open.spotify.com/album/4y2B0NZZ9FRdtHSKu4qAwH) | 2:03 |
 | 51 | [Ficadinha \- Ao Vivo](https://open.spotify.com/track/5Vt0SUtyilv1kwKd3Ob0GH) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3) | 2:34 |
 
-Snapshot ID: `MCwyMWQ5MDcwMDUzN2JiNWI4NDEwMTAxZjNiYjIzZjgxYzVlNjk5Mzg3`
+Snapshot ID: `MCwwYjA1NTE1ZGU2M2UwYjMzYzY4N2FkYmYxYzA2N2VlNzgzMzkxZWQ5`

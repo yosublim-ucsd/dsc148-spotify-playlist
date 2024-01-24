@@ -12803,6 +12803,28 @@
     },
     {
       "album": {
+        "name": "Where Does The Light Go",
+        "url": "https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Where Does The Light Go",
+      "url": "https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal"
+    },
+    {
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6"
       },

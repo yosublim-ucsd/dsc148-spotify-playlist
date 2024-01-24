@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Tropea
 
-713 songs - 1 day 15 hr 28 min
+714 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
 | [Forever](https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Forever](https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7) | 2:22 | 2023-03-10 | 2023-05-04 |
 | [Formica](https://open.spotify.com/track/2r9FyfGwi4BfXyU7dlK61f) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [Formica](https://open.spotify.com/album/5MILxJcZxxra3LlyGVuikM) | 3:13 | 2023-10-26 | 2023-11-24 |
+| [Fosforo \(feat\. Francesco Bianconi\)](https://open.spotify.com/track/5hm9gOhjEU6iM227OC9lxf) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [Francesco Bianconi](https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR) | [Fosforo \(feat\. Francesco Bianconi\)](https://open.spotify.com/album/2FxJtyaLXUGosK1OgAiDK9) | 3:00 | 2024-01-23 |  |
 | [Fragili](https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y) | [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [RAGAZZAcd](https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15) | 3:19 | 2023-02-23 | 2023-04-21 |
 | [frammenti](https://open.spotify.com/track/68dZVzwtDwAb7hWsRPEbHl) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [frammenti](https://open.spotify.com/album/3MydVHbZ2qsOzjlnoiYqLl) | 2:32 | 2023-11-30 | 2024-01-19 |
 | [FRANA](https://open.spotify.com/track/2iFvodhPAWaBcNGtk1rx7I) | [La Gabbia](https://open.spotify.com/artist/1VSD5ZQWKR9HeF3e2xCBiy) | [FRANA](https://open.spotify.com/album/6RtWwQlA3NYmZ7nUwIZWcI) | 3:00 | 2023-10-19 | 2023-11-09 |

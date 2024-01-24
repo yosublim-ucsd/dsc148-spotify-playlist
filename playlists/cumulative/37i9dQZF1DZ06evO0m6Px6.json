@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Collage",
       "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
@@ -616,6 +616,24 @@
       "duration_ms": 240000,
       "name": "How Can It Be (feat. Maddee)",
       "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+    },
+    {
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93437,
+      "name": "In The Dark (Interlude)",
+      "url": "https://open.spotify.com/track/0i7YGVzXLSH2jyEWuIiufc"
     },
     {
       "album": {
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 224327,
       "name": "Wavestation",
       "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"

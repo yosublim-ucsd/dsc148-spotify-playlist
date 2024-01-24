@@ -1,9 +1,27 @@
 {
-  "2024-01-23": 346170,
+  "2024-01-24": 345956,
   "date_first_scraped": "2021-12-21",
   "description": "Have yourself a little cozy Christmas.",
   "name": "Acoustic Christmas",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy"
+    },
     {
       "album": {
         "name": "(anywhere but) Home for the Holidays",
@@ -2563,28 +2581,6 @@
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
-    },
-    {
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5Ytq9BLazhMhrmUWUcag3p"
-      },
-      "artists": [
-        {
-          "name": "Retrib",
-          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
-        },
-        {
-          "name": "krmd",
-          "url": "https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245167,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6ecp6R13KgIGl8BqHQwbuy"
     },
     {
       "album": {

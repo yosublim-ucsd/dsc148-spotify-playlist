@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 74236,
+  "2024-01-24": 74229,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -6357,10 +6357,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Young Hearts (Polo & Pan Remix)",
+        "url": "https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Young Hearts (Polo & Pan Remix)",
+      "url": "https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV"
     },
     {
       "album": {

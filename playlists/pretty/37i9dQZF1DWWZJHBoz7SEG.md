@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Encuentra rolitas nuevas de Eladio Carrión, Kenia OS con Alvaro Diaz, Yandel y Natanael Cano para combatir la cuesta de Enero!
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,049 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,587 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 26 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 |
 | 27 | [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 |
 | 28 | [Ni Con Money](https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [Ni Con Money](https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA) | 4:06 |
-| 29 | [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 |
+| 29 | [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 |
 | 30 | [GTA](https://open.spotify.com/track/41bLlBHtmIwjuAUaBP3Uho) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [GTA](https://open.spotify.com/album/7ozyczf9FNC3aPSV1A6kDW) | 2:41 |
 | 31 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
 | 32 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 39 | [No pretendo negar](https://open.spotify.com/track/4FNXwlEqUL2r5b5TTQ3q0k) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Elenco de Siempre Fui Yo](https://open.spotify.com/artist/3xEUnjwk3avS6p0fD762As) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 3:02 |
 | 40 | [a media función](https://open.spotify.com/track/6AUAeQDPs9dl1SGTwJOJNw) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [a media función](https://open.spotify.com/album/3jKfkXI40BZdFB83JUHaRh) | 2:45 |
 | 41 | [Cliché \(No eres tu, soy yo\)](https://open.spotify.com/track/2hSMZabddq12ihjrRBDjCS) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV), [Majo Puente](https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte) | [Cliché \(No eres tu, soy yo\)](https://open.spotify.com/album/0QMhLNVuoQgxG35lpgiYNf) | 2:28 |
-| 42 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/2q8e4mdu5XQFBu30d3I3ry) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
+| 42 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
 | 43 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 |
 | 44 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 |
 | 45 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Shiver](https://open.spotify.com/track/4KQ9oQ7XR2eOzl6dEMLL7S) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Shiver](https://open.spotify.com/album/1v2NopRSJs7XJWzpLSsX5d) | 3:00 |
 | 50 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 
-Snapshot ID: `MCw2NTc3NTlhMzNhNzBlNWE0MjkwYTAwNjA4YzQwMDg1M2QzZjZiZTQ3`
+Snapshot ID: `MCxiNjQ5ZDllN2M2OGE2ODFkMzk0YjQ4NTIzMGI1MGFlMDBjODI5ZDRj`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-772 songs - 1 day 20 hr 53 min
+773 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [Yousef Sosta \- يوسف سوسته](https://open.spotify.com/artist/65Nyf594MWahWOsMrgcFq9) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-02 | 2021-12-06 |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-05-06 | 2023-04-25 |
-| [طب هص](https://open.spotify.com/track/7mqrrDU5Yvbr4SuEROMS0U) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Miso misara](https://open.spotify.com/artist/3c3wEE1EKZR8yXvzG82U1v) | [طب هص](https://open.spotify.com/album/1SkYBFUnXVJi8Y9Gtcc2z8) | 5:55 | 2024-01-13 |  |
+| [طب هص](https://open.spotify.com/track/7mqrrDU5Yvbr4SuEROMS0U) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Miso misara](https://open.spotify.com/artist/3c3wEE1EKZR8yXvzG82U1v) | [طب هص](https://open.spotify.com/album/1SkYBFUnXVJi8Y9Gtcc2z8) | 5:55 | 2024-01-13 | 2024-01-24 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-04-06 | 2022-05-07 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2021-12-27 | 2022-04-07 |
 | [طمنى عليك](https://open.spotify.com/track/44IiIpdfudUAV3np87r3gk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [ولا نص كلمة](https://open.spotify.com/album/3FXWjjh9LaJQLEZh4GHaVN) | 4:27 | 2023-04-08 | 2023-04-11 |
@@ -779,6 +779,7 @@
 | [يا صلاه الزين \- زوكش](https://open.spotify.com/track/2B6S1RKwNyGUOVmQ4U9j8N) | [الفنان محمد الذهبي](https://open.spotify.com/artist/3a1gxMLNrS4JK2JLqA8bkv) | [يا صلاه الزين \- زوكش](https://open.spotify.com/album/6U9reJReWqWRVzLkeaVQ9D) | 2:00 | 2023-04-29 | 2023-05-04 |
 | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/track/3vPePoOiJnSDLyqD3Hvrcr) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/album/7zg6KPeLKSdr2TclbBA22w) | 3:24 | 2023-11-21 |  |
 | [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-06 | 2023-07-03 |
+| [يلا نلعبو جوله](https://open.spotify.com/track/7AVngULvj8UIiF4TvM2zFt) | [حوده بوده](https://open.spotify.com/artist/4aa4VlPLbYO184dQMWmwcx), [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48) | [يلا نلعبو جوله](https://open.spotify.com/album/1F3vUJFcQynW76e1bwvF0w) | 0:48 | 2024-01-23 |  |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-02-02 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

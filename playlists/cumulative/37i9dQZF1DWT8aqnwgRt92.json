@@ -3367,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Fly Alive",
+        "url": "https://open.spotify.com/album/39R3hxUMqdRAEJFOpe4xQF"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221262,
+      "name": "Fly Alive",
+      "url": "https://open.spotify.com/track/7cxpZzDRjx3LHocgQwNOry"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn"
       },
@@ -3418,6 +3436,28 @@
       "duration_ms": 220253,
       "name": "Follow You!",
       "url": "https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr"
+    },
+    {
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        },
+        {
+          "name": "t.komuro",
+          "url": "https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318320,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
     },
     {
       "album": {
@@ -3666,7 +3706,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 271946,
       "name": "Gift",
       "url": "https://open.spotify.com/track/4kmfs7TFMD9F9z6E2u9gns"
@@ -4736,7 +4776,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 236546,
       "name": "Hop Step Egao Burst!",
       "url": "https://open.spotify.com/track/3GvHjXtjhe5X4qDXfk3Uq2"
@@ -6042,7 +6082,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 191105,
       "name": "Kura Kura",
       "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
@@ -10946,7 +10986,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 234000,
       "name": "SUKIGA LEVECHI",
       "url": "https://open.spotify.com/track/0J12Ou3SAblEYLhG4y4t93"
@@ -13674,7 +13714,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 184086,
       "name": "\u306a\u3042\u3001\u59b9",
       "url": "https://open.spotify.com/track/0LdP5GpDzleJlzwpbKqXKd"
@@ -14376,6 +14416,24 @@
       "duration_ms": 200267,
       "name": "\u30a2\u30ed\u30fc",
       "url": "https://open.spotify.com/track/0OdoZOlFD1PPPJ7Pifh6Gl"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
+        "url": "https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u30b8\u30e3\u30cb\u221e",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
+      "url": "https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k"
     },
     {
       "album": {
@@ -15530,6 +15588,24 @@
       "duration_ms": 251333,
       "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
       "url": "https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9 I LOVE YOU",
+        "url": "https://open.spotify.com/album/659ErKMuWO7zJkEkjbjxkW"
+      },
+      "artists": [
+        {
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9 I LOVE YOU",
+      "url": "https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6"
     },
     {
       "album": {
@@ -18262,6 +18338,24 @@
       "duration_ms": 213672,
       "name": "\u53ad\u308f\u306a\u3044",
       "url": "https://open.spotify.com/track/17f8pQdBqQd27349d4AINC"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276160,
+      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
     },
     {
       "album": {

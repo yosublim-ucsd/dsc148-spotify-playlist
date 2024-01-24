@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 43094,
+  "2024-01-24": 43155,
   "date_first_scraped": "2022-08-13",
   "description": "Everything Broadway-adjacent. Cover: WONKA",
   "name": "Off Broadway",
@@ -479,6 +479,28 @@
       "duration_ms": 266093,
       "name": "Any Worse (Squeak\u2019s Song)",
       "url": "https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX"
+    },
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187960,
+      "name": "Apex Predator",
+      "url": "https://open.spotify.com/track/0QcvmgRufHPKzWprfm6MAS"
     },
     {
       "album": {
@@ -1890,6 +1912,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
+        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Loser, Baby",
+      "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
+    },
+    {
+      "album": {
         "name": "Louder Than Words",
         "url": "https://open.spotify.com/album/74IjHcLoC6K2SJcdp132It"
       },
@@ -2337,7 +2389,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 278386,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6mfOySZI3Bw3g3pKw2itvo"
@@ -2359,7 +2411,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 225621,
       "name": "Only Us (with Dan + Shay) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
@@ -3591,7 +3643,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 217196,
       "name": "Unworthy of Your Love",
       "url": "https://open.spotify.com/track/05Xy99vdh4zFljTSZR2iCj"
@@ -3821,6 +3873,28 @@
       "duration_ms": 223553,
       "name": "Women Cannot Read",
       "url": "https://open.spotify.com/track/7hXu8jQCeK3ywSEMzIfLu5"
+    },
+    {
+      "album": {
+        "name": "World Burn",
+        "url": "https://open.spotify.com/album/7pISfAjwsGSIO6NLhoFWMN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215936,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/41G077moVwIPkFSO4Bt00L"
     },
     {
       "album": {

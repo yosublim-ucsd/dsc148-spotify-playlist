@@ -4,10 +4,11 @@
 
 > Listen to all her biggest hits, in one place.
 
-128 songs - 8 hr 9 min
+128 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 0:00 | 2020-10-16\* |  |
 | [1000 Doves](https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:35 | 2020-10-16\* | 2021-05-13 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2020-10-16\* |  |
 | [A\-YO](https://open.spotify.com/track/4aea4osXbQHKgeOwZGzgEV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 | 2020-10-16\* |  |
@@ -23,8 +24,7 @@
 | [Applause](https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [House Party Jams 2022](https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc) | 3:32 | 2022-05-09 | 2022-11-13 |
 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 |  |
 | [ARTPOP](https://open.spotify.com/track/4ExhU5WCMZXaYSL8RAarvv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/3P4ieBubW04cGQT52hPxt6) | 4:07 | 2022-05-09 | 2022-11-13 |
-| [ARTPOP](https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 4:07 | 2020-10-16\* | 2022-07-29 |
-| [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 | 2022-05-09 |  |
+| [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 | 2022-05-09 | 2024-01-24 |
 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2020-10-16\* | 2021-05-13 |
 | [Bad Romance](https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 4:54 | 2020-10-16\* | 2022-07-29 |
 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 | 2022-05-09 |  |

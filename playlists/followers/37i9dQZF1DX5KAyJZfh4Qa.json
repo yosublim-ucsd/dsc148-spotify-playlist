@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 38858,
+  "2024-01-24": 38899,
   "date_first_scraped": "2022-11-28",
   "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919\"> Sweet Pill</a>.",
   "name": "emo right now",
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 172186,
       "name": "Callin Me",
       "url": "https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 172893,
       "name": "Can We Just Get High?",
       "url": "https://open.spotify.com/track/3H7W6oVFTRBqrsiQvSVYCy"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 175081,
       "name": "Clean",
       "url": "https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM"
@@ -529,10 +529,28 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 154000,
       "name": "closure",
       "url": "https://open.spotify.com/track/0PnpSFbRM8BoUFHXCKTQNX"
+    },
+    {
+      "album": {
+        "name": "flea house",
+        "url": "https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd"
+      },
+      "artists": [
+        {
+          "name": "Frat Mouse",
+          "url": "https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2"
     },
     {
       "album": {
@@ -1858,6 +1876,28 @@
     },
     {
       "album": {
+        "name": "Open Container Blues (feat. Briana Wright of Cliffdiver)",
+        "url": "https://open.spotify.com/album/5eaFOZhqnsR3643DSzzmMM"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        },
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335392,
+      "name": "Open Container Blues - feat. Briana Wright of Cliffdiver",
+      "url": "https://open.spotify.com/track/0FdvxsO1nDPSSI39kdGWqQ"
+    },
+    {
+      "album": {
         "name": "Lovers Lane",
         "url": "https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58"
       },
@@ -2650,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/7KuDTDQQGfC5rVqt9J23rw"
+      },
+      "artists": [
+        {
+          "name": "Gulfer",
+          "url": "https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou"
+    },
+    {
+      "album": {
         "name": "Constant Springtime",
         "url": "https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb"
       },
@@ -2791,6 +2849,24 @@
       "duration_ms": 158853,
       "name": "White Trash Millionaire",
       "url": "https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/3cDOZ7o5SNWZbtq6mSnB9G"
+      },
+      "artists": [
+        {
+          "name": "Tourneforte",
+          "url": "https://open.spotify.com/artist/5C8nnsJYiL5AbRqzZEq2ES"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Wilmer",
+      "url": "https://open.spotify.com/track/46jTnBN3qzAUBWNu7HcKdq"
     },
     {
       "album": {

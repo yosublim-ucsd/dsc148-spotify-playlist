@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 82811,
+  "2024-01-24": 82845,
   "date_first_scraped": "2022-08-06",
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
   "name": "Blues Drive",
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 334800,
       "name": "Somehow, Somewhere, Someway",
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
@@ -1985,6 +1985,24 @@
       "duration_ms": 223533,
       "name": "The Pleasure's All Mine",
       "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+    },
+    {
+      "album": {
+        "name": "Years Gone By",
+        "url": "https://open.spotify.com/album/3zpze3mdxnwIuPIQMIXqoW"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/32ZrzDjibAsbGvsmV7IbJ9"
     },
     {
       "album": {

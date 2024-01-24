@@ -4,7 +4,7 @@
 
 > 
 
-1,113 songs - 2 day 14 hr 28 min
+1,114 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 | 2022-12-26 |  |
 | [Blow Up Your Squad](https://open.spotify.com/track/7JacyzaULlBPeFdEXVz3LH) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Drop The Bass](https://open.spotify.com/album/04Q0lTXiPIEG7xV7WPROvF) | 2:26 | 2023-11-02 |  |
 | [Blow Your Mind](https://open.spotify.com/track/1qZ9gHbC7qae4FYzG9LHUX) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Blow Your Mind](https://open.spotify.com/album/6czU5nzFIvvTPAQSCREAtf) | 3:09 | 2022-11-21 |  |
+| [Blue Moment](https://open.spotify.com/track/3ib0h4ydtAEPSqkdBmHKIO) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [Iori Matsunaga](https://open.spotify.com/artist/4zsHCgCP120tpGNA7bBOdW) | [Blue Moment](https://open.spotify.com/album/3WLewzhRIhpWjztSxCvkg3) | 4:00 | 2024-01-23 |  |
 | [Body Talk](https://open.spotify.com/track/01Zponc32DolmGvNWOKl9b) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Body Talk](https://open.spotify.com/album/0488FwtTdi0JQG0vJWST73) | 2:17 | 2022-09-10 |  |
 | [Body Thrasher](https://open.spotify.com/track/4EVEvYgygFnorizCWzuQ7n) | [Omar Santana](https://open.spotify.com/artist/4jlINwGiH4WGCv6OCRNdpT), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Wild Mothafukaz](https://open.spotify.com/album/0uMeoGjdc7dJaJ13FGBAsc) | 4:46 | 2023-04-04 |  |
 | [Bone Chilling Hardcore](https://open.spotify.com/track/5kpi79GGwemAB6V84gEFKd) | [Wreck Reality](https://open.spotify.com/artist/7Dn5YtJZi2nozyzpXy9yBR) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:18 | 2022-08-23 |  |

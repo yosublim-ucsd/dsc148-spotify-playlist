@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-262 songs - 11 hr 28 min
+263 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-03-30 | 2023-06-16 |
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |
-| [N'aptığını bilmesem de](https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [N'aptığını bilmesem de](https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK) | 2:18 | 2023-06-22 |  |
+| [N'aptığını bilmesem de](https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [N'aptığını bilmesem de](https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK) | 2:18 | 2023-06-22 | 2024-01-24 |
 | [Nasip](https://open.spotify.com/track/5EtvbFJ6zZ0XNVMJGzH6Cf) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Nasip](https://open.spotify.com/album/4dogjv6Sivh3guZtKcDDGh) | 2:17 | 2023-06-29 | 2023-07-14 |
 | [NAYLON](https://open.spotify.com/track/72Wph4Ou9qRjwNd3vR67Ug) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [NAYLON](https://open.spotify.com/album/3TGzqo19JQ5GULaZminGDl) | 2:28 | 2023-08-10 | 2023-09-01 |
 | [Ne Anlar Onlar](https://open.spotify.com/track/6oxmPTxpYqCkGQwGbYHgcl) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Ne Anlar Onlar](https://open.spotify.com/album/3TUAWkPFmNHmhZ0kFoR1S5) | 3:52 | 2023-08-24 | 2023-09-15 |
@@ -199,6 +199,7 @@
 | [PA$$$A VIBES V](https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI) | [PA$$$A VIBES V](https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw) | 1:41 | 2023-09-07 | 2023-09-22 |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2023-01-10 | 2023-05-05 |
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-16 | 2023-08-11 |
+| [Patlat](https://open.spotify.com/track/5qLnFAfF07nwUiARNSWZBJ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Patlat](https://open.spotify.com/album/0nNGqSZR6AA3KPUkngioIf) | 2:09 | 2024-01-23 |  |
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
 | [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 | 2023-05-06 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 | 2023-06-02 |

@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise 2024](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: JUMADIBA
+> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: JUMADIBA/ ＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
 
-1,355 songs - 3 day 10 hr 33 min
+1,357 songs - 3 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 | 2023-07-18 | 2023-09-07 |
 | [Coin Laundry](https://open.spotify.com/track/1qvK4SiFWA2wKKyPF6RR32) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:42 | 2023-03-22 | 2023-04-19 |
 | [Comb Song](https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Being Polite \(In a Mean Way\)](https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI) | 2:32 | 2023-12-19 | 2024-01-11 |
+| [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 |  |
 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 | 2022-10-11 | 2023-01-13 |
 | [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 | 2022-05-31 | 2022-06-19 |
 | [coming back](https://open.spotify.com/track/4rk7dX6JOIOjQuTbx72PUI) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [coming back](https://open.spotify.com/album/0oPJxMww7r09gyze9ZnqI4) | 3:29 | 2022-10-11 | 2022-10-13 |
@@ -253,7 +254,7 @@
 | [Free](https://open.spotify.com/track/0rIweEdu6BVuISxVYcllvp) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [W.O.L.F](https://open.spotify.com/album/0r1Yl2QyFlTSsGIcxM26bV) | 3:02 | 2022-03-08 | 2022-04-06 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-02-17 | 2022-02-23 |
 | [Freezin' Cold](https://open.spotify.com/track/6bEaHOVgu3Srz17tvh3FEA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 4:19 | 2022-02-17 | 2022-03-09 |
-| [FRESH!!!](https://open.spotify.com/track/5n2EYBtPJBlWE2VbcT4UaT) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL) | [FRESH!!!](https://open.spotify.com/album/6sWI22dHER5ZzTgcVtIX7N) | 3:24 | 2024-01-10 |  |
+| [FRESH!!!](https://open.spotify.com/track/5n2EYBtPJBlWE2VbcT4UaT) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL) | [FRESH!!!](https://open.spotify.com/album/6sWI22dHER5ZzTgcVtIX7N) | 3:24 | 2024-01-10 | 2024-01-24 |
 | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/track/1tNCkvccVymw8vb8zYuVt2) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/album/5ZV3AWQv944HTPZznYh6KA) | 3:04 | 2022-04-19 | 2022-06-15 |
 | [Friday Night](https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Friday Night](https://open.spotify.com/album/6dNszo04S4P26VRdTUGP0K) | 3:31 | 2023-02-14 | 2023-03-29 |
 | [Funktion](https://open.spotify.com/track/3xqpCXPBgkQQctOygx8Epk) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [FIRST LIGHT](https://open.spotify.com/album/7HNFkK46GTSOsEZuKjm3zs) | 2:48 | 2023-02-21 | 2023-03-15 |
@@ -746,6 +747,7 @@
 | [U\-MOON](https://open.spotify.com/track/1LX8QiHAc6QslLCNpuQhkB) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [U\-MOON](https://open.spotify.com/album/4q1GYQTdlSGDyQvsEipDeL) | 3:09 | 2023-05-16 | 2023-05-18 |
 | [Umaikotodekiteru \-That's How it Works\-](https://open.spotify.com/track/0GT2Reu9UJxF3EUiwaXphW) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Yume Ga Kanawanakattatokino Juno Taishohou](https://open.spotify.com/album/1tvYoPXLoVWLKDsFBKTqFu) | 3:26 | 2023-09-06 | 2023-10-06 |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-07-28 | 2022-10-26 |
+| [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 | 2024-01-23 |  |
 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 | 2023-08-24 | 2023-10-27 |
 | [Up Up](https://open.spotify.com/track/6hzaVqi6CHS7StPe7LRQFB) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Up Up](https://open.spotify.com/album/6Y6b2S0ugs69ByuTNliQMI) | 4:17 | 2022-06-30 | 2022-07-27 |
 | [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-08 | 2022-11-30 |
@@ -996,7 +998,7 @@
 | [バカ野郎](https://open.spotify.com/track/5nSEa5q3KBGVCtPgXe1nk5) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [I am hungry](https://open.spotify.com/album/2gWjWNdH7B6ro7Ys6hWXIf) | 1:34 | 2023-12-05 | 2024-01-11 |
 | [バケモノの話](https://open.spotify.com/track/6igRMpvxshpgzMwppQnOe3) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [バケモノの話](https://open.spotify.com/album/3aiJqaaEmrSGQsFbQQqMS9) | 3:25 | 2022-11-29 | 2022-12-01 |
 | [バタートースト](https://open.spotify.com/track/4qTFto4aU2hwHlN0ArGGxN) | [Torn Sticker](https://open.spotify.com/artist/3KmyswnWTsiaoiSsr93Z0e) | [バタートースト](https://open.spotify.com/album/2YN6atu2aT43PerPRsBxUo) | 3:47 | 2023-10-10 | 2023-11-16 |
-| [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-07 |  |
+| [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-07 | 2024-01-24 |
 | [バーボン and コーヒー](https://open.spotify.com/track/14PXuKMyrpbL4Vg44oSi2N) | [RYPPHYPE](https://open.spotify.com/artist/4dmXmyquVh7wDfvJdKATvz) | [バーボン and コーヒー](https://open.spotify.com/album/69GIVzC8NbF03BX4aZFB3E) | 2:57 | 2022-03-22 | 2022-04-05 |
 | [パラノイア](https://open.spotify.com/track/3BXOPG1v6z3augHRkaGyKy) | [UNISH](https://open.spotify.com/artist/1QBOFtlp9NHSmSaJ3ievuS) | [パラノイア](https://open.spotify.com/album/1hu48H4Rz2LG9WoPPvJPWW) | 3:50 | 2022-10-11 | 2022-11-16 |
 | [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 | 2023-11-23 |

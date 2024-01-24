@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,986 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,242 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 3 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
 | 4 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 5 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
-| 6 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/5VpkgBrj1Tavg9lVApoVF0) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
+| 6 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
 | 7 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 8 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 |
 | 9 | [Red Dot \(feat\. Shindy & AJ Tracey\)](https://open.spotify.com/track/09i3DCifm50ivVqqi3zl9b) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Red Dot \(feat\. Shindy & AJ Tracey\)](https://open.spotify.com/album/3SJsRSQVnC5WW9i6NTKsRL) | 1:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 64 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 65 | [VIVÊNCIAS DO TRAP](https://open.spotify.com/track/1RuqE9yKztjJcEL9D5MFM1) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:37 |
 
-Snapshot ID: `MCw1MDY5YzZiZjAwOTFmZDJmNzIzNTEzNzYwM2RkM2ExNWQ3MWI2YTgx`
+Snapshot ID: `MCwzYTQyOGY4ZDg4MThlNDIwMjE0NTVhYWY4MTJhMTBmOTZlMjhjMDEw`

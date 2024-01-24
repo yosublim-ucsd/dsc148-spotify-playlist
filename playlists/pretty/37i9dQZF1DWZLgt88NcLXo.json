@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11999,
+  "num_followers": 12001,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Catamount Mountain",
-        "url": "https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm"
-      },
-      "artists": [
-        {
-          "name": "Jacob Ledger",
-          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
-        }
-      ],
-      "duration_ms": 147627,
-      "name": "Catamount Mountain",
-      "url": "https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Virginia (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 140839,
       "name": "Virginia - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Catamount Mountain",
+        "url": "https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ledger",
+          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
+        }
+      ],
+      "duration_ms": 147627,
+      "name": "Catamount Mountain",
+      "url": "https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Unforced",
-        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
       },
       "artists": [
         {
-          "name": "Toledo Heights",
-          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
         }
       ],
-      "duration_ms": 141310,
-      "name": "Unforced",
-      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+        "name": "Unforced",
+        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
       },
       "artists": [
         {
-          "name": "Roy De Paz",
-          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
         }
       ],
-      "duration_ms": 153473,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
+      "duration_ms": 141310,
+      "name": "Unforced",
+      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Viajando Solo",
-        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
-      },
-      "artists": [
-        {
-          "name": "Joseph Gonzalez",
-          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
-        }
-      ],
-      "duration_ms": 163923,
-      "name": "Viajando Solo",
-      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Two Trees",
         "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 174216,
       "name": "Evenings at Point Reyes",
       "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Viajando Solo",
+        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "duration_ms": 163923,
+      "name": "Viajando Solo",
+      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Window From A Train",
+        "url": "https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT"
+      },
+      "artists": [
+        {
+          "name": "Carrie Mittenkemp",
+          "url": "https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P"
+        }
+      ],
+      "duration_ms": 145608,
+      "name": "Window From A Train",
+      "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "M\u00fasicas in\u00e9ditas en casas literarias: Casa-Museo Manuel Mar\u00eda",
         "url": "https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 127357,
       "name": "Sarita",
       "url": "https://open.spotify.com/track/6bT8FxJe2Bh27j9ZSt9HnP"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Window From A Train",
-        "url": "https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT"
-      },
-      "artists": [
-        {
-          "name": "Carrie Mittenkemp",
-          "url": "https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P"
-        }
-      ],
-      "duration_ms": 145608,
-      "name": "Window From A Train",
-      "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Something Special",
-        "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
-      },
-      "artists": [
-        {
-          "name": "Leo Krepper",
-          "url": "https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Path To The Mind",
         "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 203000,
       "name": "Path To The Mind",
       "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
+      },
+      "artists": [
+        {
+          "name": "Leo Krepper",
+          "url": "https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Alloa",
         "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 128873,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Isla de Pascua",
-      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Breakwater",
         "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 151500,
       "name": "Breakwater",
       "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "Isla de Pascua",
+      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Solitaria",
-        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Romance Castellano",
         "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 135568,
       "name": "Romance Castellano",
       "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+      },
+      "artists": [
+        {
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+        }
+      ],
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Velvet Morning",
         "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 156501,
       "name": "El Antiguo Camino",
       "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
-      },
-      "artists": [
-        {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Within You, Within Me",
-        "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hansen-Agard",
-          "url": "https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu"
-        }
-      ],
-      "duration_ms": 164390,
-      "name": "Within You, Within Me",
-      "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Senderos",
         "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 129000,
       "name": "Senderos",
       "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Within You, Within Me",
+        "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hansen-Agard",
+          "url": "https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu"
+        }
+      ],
+      "duration_ms": 164390,
+      "name": "Within You, Within Me",
+      "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
     },
     {
       "added_at": "2023-09-15 09:04:35",

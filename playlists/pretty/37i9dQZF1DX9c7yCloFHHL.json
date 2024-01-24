@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 180001,
+  "num_followers": 180122,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmEwZGZhYTY3MzZhY2E5NzI5YmIyY2NkNTkzMTJiZTllNDgzZWRh",
+  "snapshot_id": "MCxmOGE0OWUxZjE2YzI5M2VkZDFjYTc4ZjZhNGU2YTFkYjlhNzU3N2I2",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "atr/cal (Piano Solo)",
+        "url": "https://open.spotify.com/album/2dFYwEwAWrNp2iOylWskYx"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 179439,
+      "name": "After the Rain - Piano Solo",
+      "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "atr/cal (Piano Solo)",
-        "url": "https://open.spotify.com/album/2dFYwEwAWrNp2iOylWskYx"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 179439,
-      "name": "After the Rain - Piano Solo",
-      "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "regrets",
-        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
-      },
-      "artists": [
-        {
-          "name": "trapeia",
-          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
-        },
-        {
-          "name": "Raynix",
-          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
-        }
-      ],
-      "duration_ms": 136145,
-      "name": "regrets - Slowed",
-      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Vast (ANNA Remix)",
         "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 413241,
       "name": "Psychogeography",
       "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        }
+      ],
+      "duration_ms": 136145,
+      "name": "regrets - Slowed",
+      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "everybody's gone home (florence slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "everybody's gone home (florence slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 171072,
+      "name": "everybody's gone home (florence slowed version)",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Playplain",
+          "url": "https://open.spotify.com/artist/6ox2mZTM2Sf7GeBm4ayN01"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+      "duration_ms": 208000,
+      "name": "Drift Through the Need",
+      "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1147,22 +1163,6 @@
       "duration_ms": 344235,
       "name": "Get On With It",
       "url": "https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Conception",
-        "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
-      },
-      "artists": [
-        {
-          "name": "Playplain",
-          "url": "https://open.spotify.com/artist/6ox2mZTM2Sf7GeBm4ayN01"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Drift Through the Need",
-      "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Intention II",
+        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 138818,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Intention II",
-        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
-      },
-      "artists": [
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Places (Rerecorded)",
-        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
+        "name": "After the Flood",
+        "url": "https://open.spotify.com/album/6AbZWAv1wudSm3Ee8QkJ0w"
       },
       "artists": [
         {
           "name": "Alaskan Tapes",
           "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
         }
       ],
-      "duration_ms": 158774,
-      "name": "Places - Rerecorded",
-      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
+      "duration_ms": 295394,
+      "name": "After the Flood",
+      "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1587,6 +1591,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -1603,18 +1623,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+        "name": "Music For The Motion Picture Double Life",
+        "url": "https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu"
       },
       "artists": [
         {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+          "name": "Ava Rasti",
+          "url": "https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
         }
       ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+      "duration_ms": 403500,
+      "name": "Music For The Motion Picture Double Life",
+      "url": "https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1639,34 +1659,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Music For The Motion Picture Double Life",
-        "url": "https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu"
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
       },
       "artists": [
         {
-          "name": "Ava Rasti",
-          "url": "https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
         }
       ],
-      "duration_ms": 403500,
-      "name": "Music For The Motion Picture Double Life",
-      "url": "https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
+      "duration_ms": 301189,
+      "name": "JUL",
+      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1687,22 +1691,6 @@
       "duration_ms": 208000,
       "name": "Movement VI",
       "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 301189,
-      "name": "JUL",
-      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1731,26 +1719,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "By the Air (Six Missing Rework)",
-        "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
-      },
-      "artists": [
-        {
-          "name": "Wicked Expectation",
-          "url": "https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ"
-        },
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        }
-      ],
-      "duration_ms": 210243,
-      "name": "By the Air - Six Missing Rework",
-      "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -1767,6 +1735,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "The Notional Pastures Of Imaginary Softwoods",
+        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "Chalked Outlines Of A Polybius Square",
+      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Mycelium",
         "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
       },
@@ -1779,6 +1763,26 @@
       "duration_ms": 74181,
       "name": "Golden Waxcap",
       "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "By the Air (Six Missing Rework)",
+        "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
+      },
+      "artists": [
+        {
+          "name": "Wicked Expectation",
+          "url": "https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ"
+        },
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 210243,
+      "name": "By the Air - Six Missing Rework",
+      "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1803,18 +1807,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+        "name": "VIM",
+        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
         }
       ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+      "duration_ms": 207756,
+      "name": "VIM",
+      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
     }
   ],
   "unique_name": "Ambient X",

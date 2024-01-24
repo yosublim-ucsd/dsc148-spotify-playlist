@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 35987,
+  "num_followers": 36026,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc3YmY0ZTk2ODgzMGFlYTVhMTNlMDI1NmQ5Mzg3MWNhNzI4NDFm",
+  "snapshot_id": "MCw5MmJmZTcyNTI2NDBkYjA4MTg3YzA0OTQyM2RiZjI2ZDNkMWY0MmY5",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -491,8 +491,8 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+        "name": "Rock Danger Worldwide/Chile",
+        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
       "artists": [
         {
@@ -504,13 +504,25 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+      "duration_ms": 192223,
+      "name": "Diz Quem Ta na Pista",
+      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -647,8 +659,8 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Rock Danger Worldwide/Chile",
-        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
       "artists": [
         {
@@ -660,25 +672,13 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         }
       ],
-      "duration_ms": 192223,
-      "name": "Diz Quem Ta na Pista",
-      "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "DIMALOKA, Vol.1: Denso",
+        "url": "https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC"
+      },
+      "artists": [
+        {
+          "name": "Marabu",
+          "url": "https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc"
+        },
+        {
+          "name": "\u00d4bigo",
+          "url": "https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC"
+        }
+      ],
+      "duration_ms": 180382,
+      "name": "rua escura",
+      "url": "https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "DIMALOKA, Vol.1: Denso",
-        "url": "https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC"
-      },
-      "artists": [
-        {
-          "name": "Marabu",
-          "url": "https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc"
-        },
-        {
-          "name": "\u00d4bigo",
-          "url": "https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC"
-        }
-      ],
-      "duration_ms": 180382,
-      "name": "rua escura",
-      "url": "https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax"
     },
     {
       "added_at": "2024-01-19 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: METTE, Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,535 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,554 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 | 100 | [La Gente Se Levanta](https://open.spotify.com/track/1wAdnXc6Eas8BKww2CSKTB) | [Pelada](https://open.spotify.com/artist/1cUt6hBRKlav4TIgjopnHC), [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [La Gente Se Levanta](https://open.spotify.com/album/4UP9rrYuthNnKcZAdBKcfI) | 3:31 |
 
-Snapshot ID: `MCxiOGE2Yzg0ZTc3MWU5MmEyMTZiYzBjNDQzMzBlYzg1MTMwMjE0OTgz`
+Snapshot ID: `MCxjYzFmYTU2MjQ3MDVhNDY1YjU4MDkyZDMyNjQ3MTU4Y2E4NDhlMzg4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-23": 57728,
+  "2024-01-24": 57764,
   "date_first_scraped": "2021-12-21",
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
   "name": "Upbeat Blues",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 177831,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-23",
       "duration_ms": 148933,
       "name": "Just As Gone",
       "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"

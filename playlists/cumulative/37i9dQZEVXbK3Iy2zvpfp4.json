@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 113706,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/3V61OemfXgsHhb50Hrt1lT"
@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "BACKROOMS",
+        "url": "https://open.spotify.com/album/0uuJecIiLh64AJTixOfvBy"
+      },
+      "artists": [
+        {
+          "name": "mud washed denim",
+          "url": "https://open.spotify.com/artist/3wwdmXeB7T4O79vHR3ob4G"
+        },
+        {
+          "name": "liminal00",
+          "url": "https://open.spotify.com/artist/0TWkLGlTS3pQcPKgk0DNk8"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160391,
+      "name": "BACKROOMS",
+      "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
+    },
+    {
+      "album": {
         "name": "Bad And Boujee",
         "url": "https://open.spotify.com/album/4Pz7pqu1JmiQinfVu95jJQ"
       },
@@ -3090,6 +3112,24 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
       "album": {
@@ -3898,6 +3938,24 @@
       "duration_ms": 131625,
       "name": "Blicky",
       "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
+    },
+    {
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "album": {
@@ -10594,6 +10652,24 @@
     {
       "album": {
         "name": "Gangsta Track",
+        "url": "https://open.spotify.com/album/3BBhNs5m7xHIWKAfnKTulZ"
+      },
+      "artists": [
+        {
+          "name": "Dark Boy",
+          "url": "https://open.spotify.com/artist/17rYRvRZhbk3an3XkmZwHo"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "Gangsta Track",
+      "url": "https://open.spotify.com/track/0uvAAYuOgvKDAepS9SDCrd"
+    },
+    {
+      "album": {
+        "name": "Gangsta Track",
         "url": "https://open.spotify.com/album/50gu99rEdG0cz3beoviXpz"
       },
       "artists": [
@@ -10604,7 +10680,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 192312,
       "name": "Gangsta Track",
       "url": "https://open.spotify.com/track/0SBatkjHnyl27PyVgBY39q"
@@ -10648,6 +10724,24 @@
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
+      "album": {
+        "name": "Gengetek ellen",
+        "url": "https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "Gengetek ellen",
+      "url": "https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC"
     },
     {
       "album": {
@@ -11996,7 +12090,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 184000,
       "name": "Headache",
       "url": "https://open.spotify.com/track/1HtxGCsjuaokdASW95dBN3"
@@ -12214,6 +12308,28 @@
     {
       "album": {
         "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/0tRuBWwzAbhQg2bG8ZAhIi"
+      },
+      "artists": [
+        {
+          "name": "LEOWI",
+          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
+        },
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/15wO9y2WmgBdGqk0uePng2"
+    },
+    {
+      "album": {
+        "name": "Hey Ya!",
         "url": "https://open.spotify.com/album/1rDKlcy1wwTcEOJqsrv0bV"
       },
       "artists": [
@@ -12228,7 +12344,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 188571,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/4nOA58XLjVbRG9bHfbgyms"
@@ -13720,7 +13836,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 156500,
       "name": "IBA NA JEDEN",
       "url": "https://open.spotify.com/track/3IYYFmP8Tc5tcA1k3GYLeZ"
@@ -13756,7 +13872,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 181458,
       "name": "Ich k\u00fcndige",
       "url": "https://open.spotify.com/track/3PQwOaFhojT8wBrtD0en3U"
@@ -13988,7 +14104,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -15708,6 +15824,24 @@
       "duration_ms": 167832,
       "name": "Konfetti",
       "url": "https://open.spotify.com/track/3Ddwdb5tZwLiASafDVvrmw"
+    },
+    {
+      "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
     },
     {
       "album": {
@@ -17712,7 +17846,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -20810,7 +20944,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 165245,
       "name": "Never Lose Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
@@ -21218,7 +21352,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 158325,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
@@ -22418,7 +22552,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -24079,6 +24213,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -25358,6 +25510,32 @@
       "duration_ms": 165517,
       "name": "Rich Minion",
       "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
+    },
+    {
+      "album": {
+        "name": "SONY",
+        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
       "album": {
@@ -31988,7 +32166,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"

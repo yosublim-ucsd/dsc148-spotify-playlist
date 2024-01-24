@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,273 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,914 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 24 | [last breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [last breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 |
 | 25 | [Vibin](https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:22 |
 | 26 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 |
-| 27 | [Drive You Home](https://open.spotify.com/track/7uidJM7xBikobIitpHQKZ4) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/7AiL3QPCgFxmG64c8gXkvD) | 3:36 |
+| 27 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 |
 | 28 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 |
 | 29 | [All Your Fault \(Feat\. GRAY\)](https://open.spotify.com/track/4PP4siQamrO7i5Me9GOpqQ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:01 |
 | 30 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 |
 | 31 | [Switch It Up \(feat\. sokodomo\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up \(feat\. sokodomo\) \[Prod\. Cha Cha Malone\]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 |
 | 32 | [Meet Me When The Sun Goes Down \(From "Midnight Sun" Original Musical Soundtrack, Pt\. 1\)](https://open.spotify.com/track/4AaQHFtHzcj9qAI2vPoXih) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Meet Me When The Sun Goes Down \(From "Midnight Sun" Original Musical Soundtrack, Pt\. 1\)](https://open.spotify.com/album/49ePyMlTA6mOwNv7cVHgTk) | 3:25 |
-| 33 | [LMLY](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) | 3:29 |
+| 33 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
 | 34 | [One in a Million](https://open.spotify.com/track/1dkhx3oH7UVYnWaVCPSQY7) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [One in a Million](https://open.spotify.com/album/5S6CBbZZlniYlULmOmMDP3) | 3:16 |
 | 35 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/2JCUuaIDwYaoS0jWGxa7X9) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:11 |
 | 36 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 51 | [LOVE YOU BETTER](https://open.spotify.com/track/7inzKPIYYPKhOBIXBsycho) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 3:21 |
 | 52 | [TRUST MY LOVE](https://open.spotify.com/track/39qKn5wFGqrVvnQ0CKcKFb) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 3:12 |
 | 53 | [POISON](https://open.spotify.com/track/6bTwoNDpDDnXaTwZbDJRqX) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 2:55 |
-| 54 | [100 Ways](https://open.spotify.com/track/4mQMvcRtQou5yI8mjuJ1lf) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va) | 2:48 |
+| 54 | [100 Ways](https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha) | 2:48 |
 | 55 | [You Calling My Name](https://open.spotify.com/track/0IxEQbRKjdc0fKPmovjEYw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:14 |
 | 56 | [PRAY](https://open.spotify.com/track/2SDgKMYCh6UWIfSSIG5nVJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:47 |
 | 57 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 60 | [Crash & Burn](https://open.spotify.com/track/67VKMX5np3CcKOsqAMokQ1) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:24 |
 | 61 | [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 |
 | 62 | [DWAY!](https://open.spotify.com/track/5XfamJkzfdtJ8MvxYmEDhJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [DWAY!](https://open.spotify.com/album/08UXf4p7zAdrb7Vq0XA8Lg) | 2:25 |
-| 63 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 |
+| 63 | [BULLET TO THE HEART](https://open.spotify.com/track/5hkdIUh9TQLkyugILpsCaZ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/7w5qCvL7iFIpfILhOBHHn5) | 2:25 |
 | 64 | [LOVE LOOP](https://open.spotify.com/track/5aXG85maTCL3GBVPTGKzPj) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [LOVE LOOP](https://open.spotify.com/album/4GcJuT0qH5hBPqRdWWMdpt) | 3:42 |
 | 65 | [ECLIPSE](https://open.spotify.com/track/7Foj5OSXpA054zOMxNfPrG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:29 |
 | 66 | [1°](https://open.spotify.com/track/2He6Fqx5ZW7VJkbtph9y98) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:14 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 68 | [TIME OUT](https://open.spotify.com/track/5ZynmbezT5MBrXfkjbr3La) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:01 |
 | 69 | [믿어줄래](https://open.spotify.com/track/301ofNHiTFBWOGTnGABecz) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:05 |
 | 70 | [PAGE](https://open.spotify.com/track/6wuKTYIALaY34Olr0UU6mk) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:44 |
-| 71 | [Oxygen](https://open.spotify.com/track/1L3l7GXxByDSriYTwbwuZm) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw) | 2:38 |
+| 71 | [Oxygen](https://open.spotify.com/track/0ChCXUNWPN45flrl4udCDR) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/3u9lEiaSdDf0W9XuamgMBB) | 2:38 |
 | 72 | [TAKE](https://open.spotify.com/track/6A5zIuNYZ2IlgqZoTFcjE1) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [HE IS PSYCHOMETRIC \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6NjWRY4d4XN0CNELA9Qn0T) | 3:12 |
 | 73 | [Never Ever](https://open.spotify.com/track/4qSmg9wB3Ju6S3SiETOlXU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/35c38TkgFG0AIh3P9ARrzZ) | 3:14 |
 | 74 | [FOCUS ON ME](https://open.spotify.com/track/48oPOxN4MwjqXAkkzDC5EB) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH) | 3:36 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [From Now](https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:22 |
 
-Snapshot ID: `MCw2MzhjZGVjODM3NmVmY2U0ODEzOTQ5OWRkOTA0Y2ZhNDdlNWNlZjNl`
+Snapshot ID: `MCxlZTE4YTQ0MjExM2EyNjc4OWNkZWRlZmM2OTEzZTU3OTUyN2JhNzUz`

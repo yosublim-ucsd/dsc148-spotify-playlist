@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-522 songs - 1 day 2 hr 13 min
+523 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-05-26 | 2023-10-20 |
 | [Amber Rose \- Remix](https://open.spotify.com/track/1ZEgFQp4No0ana6d6WJ8mZ) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Amber Rose \(Remix\)](https://open.spotify.com/album/0PvZHPawKF81aefxMLlUuX) | 2:34 | 2023-09-09 | 2023-09-15 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-06-10 |
+| [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-01-19 |  |
 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 | 2023-04-20 | 2023-05-05 |
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-08-17 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-10-27 | 2023-11-28 |
@@ -311,7 +312,7 @@
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-02-24 |
 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 | 2022-08-26 | 2022-11-26 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-09-14 | 2023-09-18 |
-| [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 |  |
+| [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 | 2024-01-24 |
 | [Muzz](https://open.spotify.com/track/3MlgvF1fr3u5iVViwSv76N) | [STERLNG](https://open.spotify.com/artist/6XeoTCvCXoC4ZMPcbeKqe5), [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Muzz](https://open.spotify.com/album/72zFSllBIZye5DT7EKRSKs) | 3:15 | 2024-01-05 | 2024-01-19 |
 | [Muzz](https://open.spotify.com/track/7vXHFsPYEygrb2appmEJHF) | [STERLNG](https://open.spotify.com/artist/6XeoTCvCXoC4ZMPcbeKqe5), [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Muzz](https://open.spotify.com/album/2Ok1v79TGioZVzVa5XPuma) | 3:15 | 2023-12-15 | 2024-01-05 |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-02-24 |

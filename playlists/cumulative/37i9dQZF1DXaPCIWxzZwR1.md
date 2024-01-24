@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Kali Uchis
 
-1,842 songs - 3 day 17 hr 37 min
+1,843 songs - 3 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1774,6 +1774,7 @@
 | [What's My Name](https://open.spotify.com/track/6W4LdNDT6UOmZGz86Rtnbt) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [What's My Name](https://open.spotify.com/album/6d1OVfs0MPBMA6TirIkuSS) | 3:37 | 2021-07-01 | 2021-07-31 |
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2022-12-03 |
 | [what's your problem?](https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:47 | 2022-06-03 | 2022-11-26 |
+| [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-23 |  |
 | [Whatever](https://open.spotify.com/track/324ExCnVzZf5c5rj6Nw3jj) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Whatever](https://open.spotify.com/album/0FGGdMSPmOZwMpcR9Iz7V8) | 1:55 | 2021-09-18 | 2021-10-09 |
 | [When I'm Gone](https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [When I'm Gone](https://open.spotify.com/album/2G6TE8tQJBuQdzK05gY9W2) | 2:20 | 2023-05-26 | 2023-08-12 |
 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 | 2021-07-20 | 2021-07-31 |

@@ -4,7 +4,7 @@
 
 > You know what time it is.
 
-161 songs - 9 hr 46 min
+162 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Get Up Again](https://open.spotify.com/track/3tpFewlKhFoWp46WUVAuth) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes \(Explicit Version\)](https://open.spotify.com/album/72wOWW1ayFNvYwSC555L6b) | 2:56 | 2021-09-06 | 2022-07-29 |
 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 | 2022-06-18 |  |
 | [Give Me More](https://open.spotify.com/track/0HSEyJt38uoyVJiQHTmIrV) | [Apartment 26](https://open.spotify.com/artist/2IrsNu3Xt4kwhTikS8xLdn) | [Music For The Massive](https://open.spotify.com/album/0fVbIR8Y2jrOEa8lpWoc9C) | 3:41 | 2022-04-17 | 2022-04-29 |
-| [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 | 2021-09-06 |  |
+| [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 | 2021-09-06 | 2024-01-24 |
 | [Going Under](https://open.spotify.com/track/07EeNeSCYJajyJW5U7Q3Wd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:34 | 2021-09-06 | 2022-07-27 |
 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 | 2022-06-18 |  |
 | [Going Under](https://open.spotify.com/track/6bAzbrcPCpUjqZclPpssGv) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Break Stuff](https://open.spotify.com/album/5jEBpbz4KEOTTJy90tsuNC) | 3:34 | 2022-11-03 | 2022-11-13 |
@@ -115,6 +115,7 @@
 | [Numb](https://open.spotify.com/track/1y1sChqjzdNWzwdHQADMrR) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:05 | 2021-09-06 | 2022-04-21 |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2022-06-18 |  |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-09-06 |  |
+| [Out Of Control](https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 2:42 | 2023-05-16 |  |
 | [Out Of Control](https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 2:42 | 2022-11-01 | 2024-01-19 |
 | [Pain](https://open.spotify.com/track/6qXttgX0Pd99pTF6izZFkl) | [Stereomud](https://open.spotify.com/artist/0XyWrKlieKYjGrIkA3Kieq) | [Perfect Self](https://open.spotify.com/album/44ludvtIka8uqwZsks7lD0) | 3:37 | 2022-04-17 | 2022-07-20 |
 | [Paper Tiger](https://open.spotify.com/track/4TSoJNCsdLcAX3L110HFtF) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Dead And Dreaming](https://open.spotify.com/album/1k45VJt1vQRg0MeY1FOCUb) | 3:49 | 2022-04-17 | 2022-06-10 |

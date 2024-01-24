@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Kygo & Ava Max, Green Day, Zara Larsson, Mumford & Sons, Pharrell Williams and more! Cover: Kygo & Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,154 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,152 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [Passionfruit](https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 9:22 |
 | 74 | [Running in Circles](https://open.spotify.com/track/0sghbuZbmj7e3p6OE8o9Je) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Y A N A](https://open.spotify.com/artist/2tgaNPdcqIK4tTnawm5vms) | [Running in Circles](https://open.spotify.com/album/3udV0KTjvxOJdqQvV07QNJ) | 3:28 |
 | 75 | [汀の宿](https://open.spotify.com/track/6hmp8nILZzePqlOj5tuSHr) | [夢ノ結唱 POPY](https://open.spotify.com/artist/2vjP6SAC2Urw3pl7s1aTOJ), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [汀の宿](https://open.spotify.com/album/6aZic33YRfSq11RAHWmuhG) | 3:01 |
-| 76 | [Rio Tokyo](https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz) | 3:28 |
+| 76 | [Rio Tokyo](https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [Jet](https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz) | 3:28 |
 | 77 | [Monoxide](https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/06lzzmqcqpzK6Ga4VpXrof) | 3:12 |
 | 78 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 79 | [sunshine](https://open.spotify.com/track/1ekTOhefDvMDd0pfeBzePe) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [sunshine](https://open.spotify.com/album/4lL6BEOObcD162mpuaegOD) | 3:41 |
 
-Snapshot ID: `MCw1NzMyMzQ3NmY2NjMwZDgxOGU4ZWYyYWRmYTIwYTg1NmRhODU2YzI5`
+Snapshot ID: `MCxlMDQxMjkwMmIwY2E1ZWMyMTIwNTU1ZDczZDk1NzAyOGYyM2M3Mjdm`

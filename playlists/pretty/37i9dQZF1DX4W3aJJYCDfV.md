@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mumford & Sons \(pictured\), Nia Archives, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,460 likes - 122 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,272 likes - 122 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 19 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 |
 | 20 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
 | 21 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
-| 22 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/5VpkgBrj1Tavg9lVApoVF0) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
+| 22 | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/track/3DngwqehziKsCZA4HJZolC) | [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [SWITCH \(feat\. BM, Geolier, Guè & Finem\)](https://open.spotify.com/album/07WzC4BvkEhEbJISdCHt6F) | 3:13 |
 | 23 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 |
 | 24 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 25 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [In Your Eyes](https://open.spotify.com/track/14qq1BqxguYojuOGaun0xW) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [In Your Eyes](https://open.spotify.com/album/5drImt8RdXUTgqSeFL12A8) | 3:49 |
 | 122 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
 
-Snapshot ID: `MCwxN2M3N2U5Njc3NTBiNWY3MjQzZDAzMWYzMWQ3MTg2ODk4OWYyZDdm`
+Snapshot ID: `MCxhMDVmZjU2ODdlZWU0MzkyNjczZTdmNTE5Y2IxZWFkMzIyNTg0YTY2`

@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 706287,
+  "num_followers": 706307,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQyZGYxMDJlZTVkYzM2YzM4NTExMzJmNDU1ZjBkOGE2Mzg2Y2I4",
+  "snapshot_id": "MCw4OTU1OWI3NjNiY2Q3OWFhNzA5NWI4ODI3N2MyYmJkMzRkODgwYzQy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 290946,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 320546,
       "name": "Hearts / Wires",
       "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 290946,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Dressed Up As Life",
+        "url": "https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC"
+      },
+      "artists": [
+        {
+          "name": "Sick Puppies",
+          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Dressed Up As Life",
-        "url": "https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC"
-      },
-      "artists": [
-        {
-          "name": "Sick Puppies",
-          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "All The Same",
-      "url": "https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dying in LA",
-      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "The Stories We Tell Ourselves",
         "url": "https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 364906,
       "name": "Fade In / Fade Out",
       "url": "https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dying in LA",
+      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2023-10-20 04:01:00",

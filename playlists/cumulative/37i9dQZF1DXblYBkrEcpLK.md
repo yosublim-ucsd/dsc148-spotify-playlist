@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-573 songs - 1 day 14 hr 37 min
+574 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-20 | 2022-11-12 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Koko de Iki wo Shite](https://open.spotify.com/album/37eKnOf4wa5owxHtsBZIho) | 3:36 | 2022-10-03 | 2022-11-13 |
 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 | 2023-04-11 | 2023-06-30 |
+| [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2024-01-23 |  |
 | [Labyrinth](https://open.spotify.com/track/4gfrsAiT2SFaPqMovxjTWM) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Labyrinth](https://open.spotify.com/album/7zRMS627gQSee5r8S9PZtU) | 3:59 | 2022-06-14 | 2022-07-10 |
 | [Lapis](https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Lapis](https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r) | 3:59 | 2022-06-09 | 2022-07-23 |
 | [Leap of faith](https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [Leap of faith](https://open.spotify.com/album/3W2pY2vDliZZtnlWvuJtwn) | 5:45 | 2022-06-21 | 2022-07-27 |
@@ -267,7 +268,7 @@
 | [Starlight](https://open.spotify.com/track/1ABjxk6Qi7TVUDOdGuwUku) | [山崎エリイ](https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e) | [夜明けのシンデレラ](https://open.spotify.com/album/6BwUGhGZ8oVop9FdTXnwyz) | 4:35 | 2022-07-19 | 2022-07-24 |
 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 | 2022-07-07 | 2022-07-10 |
 | [STAR☆T☆RAIN \- New Arrange Ver.](https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:52 | 2023-07-04 | 2023-07-06 |
-| [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 |  |
+| [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 | 2024-01-24 |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 | 2023-10-04 |
 | [StrangeX](https://open.spotify.com/track/1qwPJiw1QCZHdDtkUxXtm3) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [StrangeX](https://open.spotify.com/album/5Ra9EsYjAtlh7TfzLrhO7L) | 3:32 | 2023-06-29 | 2023-07-05 |
 | [Strobe Memory](https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:44 | 2022-06-12 | 2022-07-24 |

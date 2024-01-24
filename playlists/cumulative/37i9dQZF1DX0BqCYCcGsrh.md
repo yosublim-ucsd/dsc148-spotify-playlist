@@ -4,7 +4,7 @@
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-86 songs - 6 hr 55 min
+87 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/0QIorkRF9ki6Nh9EFrxfcx) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 5:29 | 2023-07-03 |  |
 | [Saihate Aini](https://open.spotify.com/track/5tGnceg0MUqFtR9c8kwgQG) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 3:45 | 2023-07-03 |  |
 | [Sakebe](https://open.spotify.com/track/2CJd89i8HkbyUZWiGYEMOQ) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Arutokoroni no Teiri](https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie) | 4:53 | 2023-07-03 |  |
-| [Seikai \- 18Fes Version](https://open.spotify.com/track/023ihux3LWWFmC65WISucL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 5:57 | 2023-07-03 |  |
+| [Seikai \- 18Fes Version](https://open.spotify.com/track/023ihux3LWWFmC65WISucL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 5:57 | 2023-07-03 | 2024-01-24 |
 | [SHINSEKAI](https://open.spotify.com/track/6pnMuubrDJH3g8rKPwHVnn) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [SHINSEKAI](https://open.spotify.com/album/2etv7HmuhbjI55EBQhrEyN) | 4:14 | 2023-07-03 |  |
 | [SHIWAKUCHA](https://open.spotify.com/track/1b8HEZPlDwXcpFPT84iyFX) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [FOREVER DAZE](https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5) | 4:05 | 2023-07-03 |  |
 | [Sokkenai](https://open.spotify.com/track/1rYg6v89UhWyPMbr8uf4fl) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 6:32 | 2023-07-03 |  |
@@ -92,6 +92,7 @@
 | [指切りげんまん](https://open.spotify.com/track/6HvUoCSSaRbRdO3kRZgaWF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:04 | 2023-07-03 |  |
 | [最大公約数](https://open.spotify.com/track/6B6PeBESFdk0OjBmGDllYI) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 \~無人島に持っていき忘れた一枚\~](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 4:34 | 2023-07-03 |  |
 | [有心論](https://open.spotify.com/track/7KGXHjytcuqx3cW4VyWtCM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [有心論](https://open.spotify.com/album/67Lf9JiwFuCOaoxcrfXyb8) | 4:10 | 2023-07-03 |  |
+| [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 |  |
 | [螢](https://open.spotify.com/track/0h0cuQyKvNmfcHm3boPEhb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 \~無人島に持っていき忘れた一枚\~](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 4:18 | 2023-07-03 |  |
 | [遠恋](https://open.spotify.com/track/1ZpdYiZlp4xv0X0CMOePzD) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:41 | 2023-07-03 |  |
 

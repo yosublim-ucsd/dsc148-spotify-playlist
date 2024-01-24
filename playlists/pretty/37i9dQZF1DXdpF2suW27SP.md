@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,987 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,900 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [FICAR RICO E FICAR CONTIGO](https://open.spotify.com/track/7ieKYTIZabcFxyAnlfVqAQ) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [FICAR RICO E FICAR CONTIGO](https://open.spotify.com/album/7t37wd5YM5uaSFAE3Ba285) | 2:28 |
 | 75 | [RGTN](https://open.spotify.com/track/4XFv4UoCEUwCTSCVCNEIbZ) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [RGTN](https://open.spotify.com/album/6Mwv6cb12FzgvKWAzk2jSm) | 3:31 |
 
-Snapshot ID: `MCxkOWFiY2U4OGNjNjEwN2E3Y2MwYzIzNWE0Y2I4NThmMGZiZGQ0NWU3`
+Snapshot ID: `MCxhYTU3ZDhmNjEyNDdiZDk3NTI1NTUwYmZhYWMzYTRiMzNkMzI1OWZl`
