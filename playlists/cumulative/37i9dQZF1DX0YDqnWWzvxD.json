@@ -824,10 +824,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 399666,
       "name": "Goddess Evocation",
       "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
+    },
+    {
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399675,
+      "name": "Goddess Evocation",
+      "url": "https://open.spotify.com/track/52UG36Llh8DgE4DaFJ7tUX"
     },
     {
       "album": {

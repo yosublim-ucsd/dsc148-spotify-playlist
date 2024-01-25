@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,527 likes - 54 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,559 likes - 54 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 | 3 | [DnB Jan](https://open.spotify.com/track/4oTvqiuPSGcw6y3VF3xYIA) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt), [Triš](https://open.spotify.com/artist/6byhuv0gOpGyeknRzcF6Al) | [In Your Head](https://open.spotify.com/album/05tjBP9Pyew5MU9HBK8Gxq) | 3:49 |
 | 4 | [Kakko Kaf](https://open.spotify.com/track/2ub6U1VLhEtEaXC8jbV0zY) | [Outtaaakeee](https://open.spotify.com/artist/6kdwzQXMKVXyk0xPMg2H1b) | [Junky Stuff](https://open.spotify.com/album/7d3KzPCLcXBW3VhsWdg9Du) | 1:03 |
 | 5 | [Where Should We Go](https://open.spotify.com/track/1qZnRUeh0NSjwvn1cu8oqH) | [Tazo Meipariani](https://open.spotify.com/artist/2KvHjIQQKPX4feop1w5typ) | [Cold Outside](https://open.spotify.com/album/2o4fN4lMzqtBB2GZxnvtDQ) | 5:16 |
-| 6 | [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 |
+| 6 | [2special](https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu) | 2:47 |
 | 7 | [Everything About You Is Special](https://open.spotify.com/track/0kSXmWgeL8Rns9mKW6oC3Z) | [Venetian Snares](https://open.spotify.com/artist/7eKIP3IoPoUAZgZuvMM6hf) | [Traditional Synthesizer Music](https://open.spotify.com/album/3sUJqLwFONUgxUBcEnfcLg) | 3:46 |
 | 8 | [King Of The City](https://open.spotify.com/track/1NsujNyxhl5v3B429WGjYh) | [Felix K](https://open.spotify.com/artist/3KylRrokQ7wO8EpeLqrZC2) | [Archive \#3](https://open.spotify.com/album/58svwGnUyZWV4jHRcHSt9f) | 4:40 |
 | 9 | [Bangbang](https://open.spotify.com/track/1ncs6WgNRDxOR2lRXMdfmo) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Astral](https://open.spotify.com/album/4X2Elpe7mDxWhVjEUwV9NB) | 5:24 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 | 53 | [Le Miroir Fantastique](https://open.spotify.com/track/5etaJW5AlBtN1OBntWAYDX) | [Galatée](https://open.spotify.com/artist/5oX1nHTiGbJywdggothJP1) | [The Last](https://open.spotify.com/album/3Akq8Kq2tfgiHEvdVPdLAx) | 2:00 |
 | 54 | [Kyiv](https://open.spotify.com/track/0NyRt9UsUwt4bepaohDUNv) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Better Than Going Under](https://open.spotify.com/album/7D9Bpy9EJplovHAW0K2REg) | 4:23 |
 
-Snapshot ID: `MCw3NGRjOTVlOTM1MGE1ZjI0YmI4N2Q4MDUyNTZhNWU3YWZmZmEyNzFh`
+Snapshot ID: `MCwyMTAzY2VjOTUxZjI3MTAxMDBiZjhiOWE0MmVjNjA0NmE2ZmYxMmE0`

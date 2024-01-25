@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,238 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,288 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
 | 55 | [Soprano](https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Soprano](https://open.spotify.com/album/4Y08s8bqsT5lEPbquo3HhU) | 2:40 |
 
-Snapshot ID: `MCw2YThkODVkN2Q4MDhjMjk0MmRkMTkwOThjMGNjYTU0Yzc0ZWNmYThi`
+Snapshot ID: `MCxmOWE5YTU2NmM1YTUxYWUzMDNhNWRmNzU3NWU4NGRkODhkYTFlNmZi`

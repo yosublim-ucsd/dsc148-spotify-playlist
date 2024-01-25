@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,381 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,384 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 13 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
 | 14 | [Pressure \(feat\. Kojey Radical\)](https://open.spotify.com/track/1QUJFuJbhEyEutqd5TRBBv) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Pressure \(feat\. Kojey Radical\)](https://open.spotify.com/album/6SI636Bu9xVxodVRMOfuko) | 3:44 |
 | 15 | [Kissy](https://open.spotify.com/track/1tNtLfImpwBhciVlVVYRIV) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [If My Jeans Could Talk](https://open.spotify.com/album/3Ra38oWsOPAv3x4Bv7jdLT) | 2:56 |
-| 16 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
+| 16 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
 | 17 | [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 |
 | 18 | [Lazy](https://open.spotify.com/track/2kZo01ECeedfL95z4zpVKf) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Lazy](https://open.spotify.com/album/3pAueoomvTwfDObLNimgOL) | 3:42 |
 | 19 | [When the light turns off](https://open.spotify.com/track/3cI0emT9tuQvNv79jrNdTk) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [When the light turns off](https://open.spotify.com/album/1GAEdq8tPKC9kPeAVVVLP2) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [nasake](https://open.spotify.com/track/781vI5c61CWskQxvyOSeB8) | [rowbai](https://open.spotify.com/artist/04KOkP9uy9w56JxWuTMf0r) | [nasake](https://open.spotify.com/album/52nzf0Rfwln7CNb7P6ajjS) | 3:05 |
 | 60 | [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 |
 
-Snapshot ID: `MCxlZjA3NTc0Nzg0NDc0ZjQ1YWFmZjk2YzRjZmU4ZjdhNjY4MTgzZDcw`
+Snapshot ID: `MCxlMTBjZjNmMWFjNmYwYWY5YTgwOTJmMjZhODgyMWI2ZWJiMWFmNmNi`

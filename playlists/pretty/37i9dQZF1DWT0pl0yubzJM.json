@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15553,
+  "num_followers": 15558,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWYwNWZmMmFiMzNlMjVjYTkxMjdjZDk4YTdkNzJiNjE2NTk5N2Ji",
+  "snapshot_id": "MCw5MGFlZDA4NGY4YjY0ZDAwMWVjNGMxOWVkYjRkNzE5MGMxY2ZkODQz",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -207,38 +207,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
@@ -251,6 +219,38 @@
       "duration_ms": 191000,
       "name": "MATE",
       "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -303,24 +303,24 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
       "artists": [
         {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
         }
       ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
+      "duration_ms": 228466,
+      "name": "Post Crucifixion",
+      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
     },
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,18 +371,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
       },
       "artists": [
         {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Post Crucifixion",
-      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 318906,
+      "name": "Travesia",
+      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
@@ -515,38 +531,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Remisero",
-      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 318906,
-      "name": "Travesia",
-      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Miss Universo",
         "url": "https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228466,
       "name": "Emoci\u00f3n Diamante",
       "url": "https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
     },
     {
       "added_at": "2020-03-13 13:21:28",

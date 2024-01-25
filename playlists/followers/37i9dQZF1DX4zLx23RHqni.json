@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 52422,
+  "2024-01-25": 52474,
   "date_first_scraped": "2023-05-19",
   "description": "Explore the Romantic side of Tamil Indie ",
   "name": "Tamil Indie : Romance",
@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Ithuvum Kadanthu Pogum",
+        "url": "https://open.spotify.com/album/7j5BLQoD616UNe6oyD3dUf"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        },
+        {
+          "name": "Hi-Polar",
+          "url": "https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "Ithuvum Kadanthu Pogum",
+      "url": "https://open.spotify.com/track/6E7xTWbbKFH1gHpK0SNCaX"
+    },
+    {
+      "album": {
         "name": "Kaadhalae Thalli Pogadhae",
         "url": "https://open.spotify.com/album/7mRoK0kbC9SKdaqXiYE5Wa"
       },
@@ -627,7 +649,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 262800,
       "name": "Kannale Kollathe",
       "url": "https://open.spotify.com/track/3MJk5YJszXWtoHUgX1E1hF"
@@ -711,7 +733,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 229565,
       "name": "Kuru Kure",
       "url": "https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5"

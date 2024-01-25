@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,740 likes - 40 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,972 likes - 40 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 39 | [Vilambit Tintâl](https://open.spotify.com/track/7zdEcelcAAzpjv0fSfBJ77) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 22:31 |
 | 40 | [Ants To You, Gods To Who ?](https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 6:42 |
 
-Snapshot ID: `MCxjYzM3NTVlNDczOGEwY2NlZTVmOTgzNjJlZTk3OTkwNzAwOTQwNzZm`
+Snapshot ID: `MCxiNzZjYmZhZDNiZjM0NjFlYjA3M2NmODcxMGZlYTE3ODAzOTMxYWM1`

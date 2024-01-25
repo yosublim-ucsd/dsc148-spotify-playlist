@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10832,
+  "num_followers": 10848,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1",
+  "snapshot_id": "MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Nature Heritage",
-        "url": "https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos"
-      },
-      "artists": [
-        {
-          "name": "INDAYA",
-          "url": "https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Forest Therapy",
-      "url": "https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Relaxing Nature Sounds",
         "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 203707,
       "name": "Relaxing Jungle Sounds",
       "url": "https://open.spotify.com/track/17kqaq39xg9nP1j6goQW5A"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Nature Heritage",
+        "url": "https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos"
+      },
+      "artists": [
+        {
+          "name": "INDAYA",
+          "url": "https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Forest Therapy",
+      "url": "https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "English Rain and Nature Sounds",
-        "url": "https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4"
-      },
-      "artists": [
-        {
-          "name": "Forest Sounds",
-          "url": "https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "Forest Sounds",
-      "url": "https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 175769,
       "name": "Rainforest Ambience",
       "url": "https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "English Rain and Nature Sounds",
+        "url": "https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4"
+      },
+      "artists": [
+        {
+          "name": "Forest Sounds",
+          "url": "https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Forest Sounds",
+      "url": "https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj"
     },
     {
       "added_at": "2023-06-19 12:57:37",

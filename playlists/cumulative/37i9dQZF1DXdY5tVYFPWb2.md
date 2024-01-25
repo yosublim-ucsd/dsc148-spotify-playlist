@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-761 songs - 2 day 2 hr 16 min
+762 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Tattoo](https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Tattoo](https://open.spotify.com/album/07hAM6iu7A39wR2zwfaoCL) | 4:48 | 2023-04-20 |  |
 | [Taxi Driver](https://open.spotify.com/track/5T3v4s3Hrkd4KNK47RmQNY) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Taxi Driver](https://open.spotify.com/album/1oXqi7f9iOGN8r5daigwYx) | 3:45 | 2023-09-19 | 2023-09-28 |
 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-24 | 2023-03-07 |
+| [Telephone Number](https://open.spotify.com/track/2Xz19t9tqo2xkExORTsNtP) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Telephone Number](https://open.spotify.com/album/13bydbGo2lCTZDnNmwpTMb) | 3:51 | 2024-01-23 |  |
 | [Tell Me](https://open.spotify.com/track/0jqXq7qi9zCTH79ngbnftu) | [Arvin Homa Aya](https://open.spotify.com/artist/4WcICNhEEm7M00TVCP4Y2P), [THE IMAGE](https://open.spotify.com/artist/7MZGKjtu1K8crIews9Mjfp) | [Tell Me](https://open.spotify.com/album/6CDI6TwI14HxjFcET6CS0V) | 4:18 | 2023-12-12 | 2023-12-20 |
 | [Terminal](https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Terminal](https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB) | 3:59 | 2022-09-27 | 2022-10-05 |
 | [Thank you for the Music](https://open.spotify.com/track/1eKsUjRIRU6qJLDgNK5gBT) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/5YjWnYtYne2BxgybhtSJTM) | 5:23 | 2022-10-04 | 2022-10-06 |
@@ -607,7 +608,7 @@
 | [ダンスフロア](https://open.spotify.com/track/0qThhFqj4zzvGMA4y5iU6U) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロア](https://open.spotify.com/album/6nDOpp1BlN1SSZYl1NAmSD) | 3:55 | 2022-08-02 | 2022-08-10 |
 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 | 2022-09-08 | 2023-11-18 |
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-24 | 2022-06-26 |
-| [テレフォン・ナンバー](https://open.spotify.com/track/551g9w0Ucj6QSWkvwmUcP4) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [テレフォン・ナンバー](https://open.spotify.com/album/5QK9dCDRjAZaqWra9mBsRK) | 3:51 | 2024-01-23 |  |
+| [テレフォン・ナンバー](https://open.spotify.com/track/551g9w0Ucj6QSWkvwmUcP4) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [テレフォン・ナンバー](https://open.spotify.com/album/5QK9dCDRjAZaqWra9mBsRK) | 3:51 | 2024-01-23 | 2024-01-25 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/5aTbBqfHaRj4aEoz0GVkws) | [Rinapon](https://open.spotify.com/artist/5rTWFvJ8dggdYp0Kr4Ohcf) | [テレフォン・ナンバー](https://open.spotify.com/album/4iONxdOQkJzUX3uZt66ZsF) | 3:26 | 2022-06-30 | 2022-07-02 |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-11-14 |  |
 | [ナイトグルーヴ](https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Groove it](https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ) | 3:34 | 2023-11-10 |  |

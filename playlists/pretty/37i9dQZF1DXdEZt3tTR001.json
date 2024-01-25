@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 157460,
+  "num_followers": 157567,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGY2MTcyNTdlYmJhYmZjYWNlYzk5ZTYzYWM2MmM2MmEyMjllMjI1",
+  "snapshot_id": "MCxjYmQzYWQwYjBhYzM4ZWJhYjBkZDFmMTE1YjExMjFlMzA2YjYxMmYw",
   "tracks": [
     {
       "added_at": "2024-01-18 01:54:59",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2024-01-18 01:54:59",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Ash Lee",
+          "url": "https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT"
         }
       ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+      "duration_ms": 141555,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4"
     }
   ],
   "unique_name": "floating",

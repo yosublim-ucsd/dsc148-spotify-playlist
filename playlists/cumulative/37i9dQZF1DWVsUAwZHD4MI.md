@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-142 songs - 8 hr 36 min
+142 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn) | 0:00 | 2023-12-04 |  |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-11 | 2023-12-05 |
 | [Airborne Ashes \- Eartheater & Aleksandir Remix](https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Airborne Ashes \(Eartheater & Aleksandir Remix\)](https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E) | 4:29 | 2023-12-04 |  |
 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 | 2022-09-05 | 2023-12-05 |
@@ -62,7 +63,6 @@
 | [I Want U](https://open.spotify.com/track/0umwUcMEr5ZWTa9cL7fWwb) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/63AGRJfdaeEO4mYIFf0lsp) | 2:04 | 2023-12-04 | 2023-12-24 |
 | [I Want U](https://open.spotify.com/track/1iGYnuAoOIKaO0vHSzRDER) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/7uT93ZE08HdMrmzWL9Reja) | 2:04 | 2023-12-04 | 2023-12-22 |
 | [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 | 2023-12-04 | 2024-01-14 |
-| [I Want U](https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn) | 2:04 | 2023-12-04 |  |
 | [I Want U](https://open.spotify.com/track/2MJmqsyBcWSFrEkkkQMvoq) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X), [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/1t68mKo7cP1Lb9lmo4qhnk) | 2:04 | 2023-12-04 | 2023-12-30 |
 | [I Want You](https://open.spotify.com/track/1uHlk9gAbkjo5fIAa448BI) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/0JLKa77aRkFpKut3yAiu3e) | [Gaze At Me](https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6) | 3:46 | 2022-11-11 | 2022-11-14 |
 | [I Want You](https://open.spotify.com/track/4ZDTSzgw2enJ0LhQdG9lzk) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO) | [I Want You](https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q) | 3:46 | 2022-09-05 | 2023-12-05 |

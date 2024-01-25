@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 672739,
+  "num_followers": 672962,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2E1ZjczMjMxMDUwMjczZmE1YmQ3OWIxNWZkM2M4ZmQyNmY5OGUy",
+  "snapshot_id": "MCwxMGM3MWZiODEzMzcwMDdmZWNmYzMzNmFmYTViYjFmMDQxZWQ0NjY4",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "No me pueden parar",
         "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 208750,
       "name": "Me levante",
       "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Sabroso",
-        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Lleg\u00f3 Tu Papi",
-      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Inigualable",
         "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 283933,
       "name": "Te Pido Que La Dejes",
       "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Sabroso",
+        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Lleg\u00f3 Tu Papi",
+      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Provenza / Te Felicito / Despechao",
-        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
+        "name": "10 A\u00f1os Con Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 362817,
-      "name": "Provenza / Te Felicito / Despechao",
-      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
+      "duration_ms": 236543,
+      "name": "La Mejor Version de M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Con Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
+        "name": "Provenza / Te Felicito / Despechao",
+        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
         }
       ],
-      "duration_ms": 236543,
-      "name": "La Mejor Version de M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+      "duration_ms": 362817,
+      "name": "Provenza / Te Felicito / Despechao",
+      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Adi\u00f3s, Me Voy",
-        "url": "https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq"
+        "name": "Tu Fan (En Vivo)",
+        "url": "https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q"
       },
       "artists": [
         {
           "name": "Eugenia Quevedo",
           "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 237242,
-      "name": "Adi\u00f3s, Me Voy",
-      "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
+      "duration_ms": 248533,
+      "name": "Tu Fan - En Vivo",
+      "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1391,6 +1395,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Un Nuevo Tiempo",
+        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1411,38 +1431,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -1459,6 +1447,22 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2024-01-05 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,118 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,144 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 44 | [Destination](https://open.spotify.com/track/5hzWqytXNxnHaeLegfBz3Q) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Destination](https://open.spotify.com/album/0gMnriXEyTO9VDv9Dk32QJ) | 3:25 |
 | 45 | [Lost](https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Lost](https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX) | 2:50 |
 | 46 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 |
-| 47 | [Wrong \- Francis Mercier Sunrise Mix](https://open.spotify.com/track/5cWTsnpNUv45y2jPg2eUF4) | [Hank](https://open.spotify.com/artist/1I5hLsy14ppaxxq2nqeVxk), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Wrong \(Francis Mercier Sunrise Mix\)](https://open.spotify.com/album/2wOpEAZ4ihEQ5Kdpdjqbuk) | 3:42 |
+| 47 | [Wrong \- Francis Mercier Sunrise Mix](https://open.spotify.com/track/5cWTsnpNUv45y2jPg2eUF4) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Wrong \(Francis Mercier Sunrise Mix\)](https://open.spotify.com/album/2wOpEAZ4ihEQ5Kdpdjqbuk) | 3:42 |
 | 48 | [Gucci Bag](https://open.spotify.com/track/0S5pYslzTs7hL1YEXgW7FZ) | [Mr\. Kavalicious](https://open.spotify.com/artist/1kmI4oiZm0peQKvgF6BnIO) | [Gucci Bag](https://open.spotify.com/album/0QwMv3DjH64eV1EmiP2xYo) | 3:31 |
 | 49 | [Get Your Love \- Extended Mix](https://open.spotify.com/track/4vqEEyqMYBCMS4ptMTgGyY) | [Gabriele Ranucci](https://open.spotify.com/artist/3bNnbdDAWdFKF7OSdB8GwA) | [Get Your Love](https://open.spotify.com/album/2o7p8IgVf5mVTDGBydNciX) | 5:49 |
 | 50 | [Smack](https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Smack](https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y) | 2:33 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 58 | [Get On Down](https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Get On Down](https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz) | 3:05 |
 | 59 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 |
 | 60 | [Burning \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/2mPZOz3a2WHHSYeNyPL1Tj) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Burning \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/1d6L2N9hDMo1XPzRyYHiTA) | 2:50 |
-| 61 | [Odile](https://open.spotify.com/track/3SVs5qlrL4O3NYw1Q0SnQb) | [Hank](https://open.spotify.com/artist/1I5hLsy14ppaxxq2nqeVxk) | [Odile](https://open.spotify.com/album/3IRZJuTdFUjoswKXpTfaAC) | 3:17 |
+| 61 | [Odile](https://open.spotify.com/track/3SVs5qlrL4O3NYw1Q0SnQb) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Odile](https://open.spotify.com/album/3IRZJuTdFUjoswKXpTfaAC) | 3:17 |
 | 62 | [Warehouse Anthem \- Polymod Remix](https://open.spotify.com/track/2xQBAwN1fCgNdCqwBdB7GF) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Polymod](https://open.spotify.com/artist/6xFr5G6CrWFo0ZVMSwiLeV) | [Warehouse Anthem \(Polymod Remix\)](https://open.spotify.com/album/6EvS4J5tIxvvMABiqXahwH) | 5:36 |
 | 63 | [Asking \(feat\. Clementine Douglas\) \- K Motionz Remix](https://open.spotify.com/track/3EIUAfMmkLOnPH9c1uGGsf) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Asking \(feat\. Clementine Douglas\) \[K Motionz Remix\]](https://open.spotify.com/album/6WFC5IZeE2fJ3mzrR9sZE0) | 2:48 |
 | 64 | [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 79 | [In 'n' Out \- Radio Edit](https://open.spotify.com/track/0I6b4cc0AiI9B150JREcuZ) | [ELDON](https://open.spotify.com/artist/6so3Cydf32ZE4ztbphgyJV), [Deja](https://open.spotify.com/artist/1tQhPQaCikIyamVzWZyXfJ) | [On the Move \(Radio Edit\)](https://open.spotify.com/album/4BtjkeJY1RmqHml30jJO9U) | 3:27 |
 | 80 | [Insomnia](https://open.spotify.com/track/6Q5XmBbXPszddE3emn6hUr) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Insomnia / Ancestral Offerings](https://open.spotify.com/album/5GVfLqzwzi7AJR6fLAMJzX) | 6:19 |
 
-Snapshot ID: `MCw2ODlmNmEzYjM4ODQzNDhiOGNmZTJiOGE2NDAwNzg5ZGZiMzU1N2E4`
+Snapshot ID: `MCwzOTllYzBlMzIzMWQxNmY0OTBlYzEwYzgyNGIwOWZmZjIyYTg3NGVi`

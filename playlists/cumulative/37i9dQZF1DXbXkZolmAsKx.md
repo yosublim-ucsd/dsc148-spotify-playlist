@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-119 songs - 10 hr 20 min
+120 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [First Time Ruth Saw The Sea \- Original Mix](https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Talk To The Sea](https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK) | 3:19 | 2022-09-20 |  |
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-08-11 |  |
 | [Further Away \- Benoît Pioulard Rework](https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 5:48 | 2022-08-11 |  |
-| [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 | 2022-08-11 |  |
+| [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 | 2022-08-11 | 2024-01-25 |
 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2022-08-11 |  |
 | [Hand Covers Bruise](https://open.spotify.com/track/1v0uVPU6BWcbog5BiWLWVa) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 4:18 | 2022-08-11 |  |
 | [Hanging Glass Structure](https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 3:27 | 2022-08-11 |  |
@@ -108,6 +108,7 @@
 | [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 | 2022-08-17 |  |
 | [Sunrise on the Mississippi](https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 4:09 | 2022-09-20 |  |
 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 | 2022-08-11 |  |
+| [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/3DSSI5YZv4L9a82RL5PnEY) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/0ah1CKo5MPnljq6IXcVvJ6) | 3:24 | 2023-06-07 |  |
 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 | 2022-08-11 | 2024-01-09 |
 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 | 2022-08-17 |  |
 | [This Is Not My City](https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Drifters / Love Is the Devil](https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl) | 3:42 | 2022-08-11 |  |

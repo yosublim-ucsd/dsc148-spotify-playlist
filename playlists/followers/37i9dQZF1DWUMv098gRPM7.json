@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 9003,
+  "2024-01-25": 9014,
   "date_first_scraped": "2023-06-30",
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: KALLITECHNIS",
   "name": "R&B Rewind",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 203425,
       "name": "All Along",
       "url": "https://open.spotify.com/track/3FLkw9jj6BO6wWnPxo20eJ"
+    },
+    {
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203425,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/4HToFyAW5EcblMoydbCFCF"
     },
     {
       "album": {

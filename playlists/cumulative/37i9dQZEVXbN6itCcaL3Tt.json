@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -10514,7 +10514,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 131904,
       "name": "Garfield",
       "url": "https://open.spotify.com/track/7nl0YfumgokUqNDfVlYvkd"
@@ -17024,7 +17024,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -25745,6 +25745,28 @@
     },
     {
       "album": {
+        "name": "RAP",
+        "url": "https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS"
+    },
+    {
+      "album": {
         "name": "Rarara",
         "url": "https://open.spotify.com/album/2OqUTL50aaiUwf7s3QY7IZ"
       },
@@ -30835,6 +30857,32 @@
     },
     {
       "album": {
+        "name": "Z\u0142oty Byk",
+        "url": "https://open.spotify.com/album/65d9LdtxfvvtxeCPmf6DYG"
+      },
+      "artists": [
+        {
+          "name": "Popek",
+          "url": "https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz"
+        },
+        {
+          "name": "Razgonov",
+          "url": "https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15"
+        },
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168754,
+      "name": "Tuptanie",
+      "url": "https://open.spotify.com/track/2U8IkKAtHR1PnUi2BCMF6V"
+    },
+    {
+      "album": {
         "name": "RODZINNY BIZNES",
         "url": "https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS"
       },
@@ -30944,7 +30992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 142285,
       "name": "TYLE S\u0141O\u0143CA",
       "url": "https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO"

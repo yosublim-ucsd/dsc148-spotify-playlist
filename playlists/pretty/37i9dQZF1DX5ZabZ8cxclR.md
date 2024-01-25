@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain]
 
 > Enjoy the soundtrack of Broker! \(영화 브로커의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 25 songs - 43 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,428 likes - 25 songs - 43 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain]
 | 24 | [Us](https://open.spotify.com/track/5KNk7pUqW70iv1AC4obcmU) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 2:05 |
 | 25 | [Prayer](https://open.spotify.com/track/1xcy2SRnKyhHt7jNWthFK5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 1:17 |
 
-Snapshot ID: `MCwwZmQwMTk2MmQxMWM4MmVmN2FiYmZlZDJkZThiNDFlMWI0Yzc1MWE5`
+Snapshot ID: `MCxkMDIzMDE1NmFlODQ3MDQxMjkzMzg4YTJlOGZlOTc2NzlhZWVjMzlk`

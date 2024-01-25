@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 8688,
+  "2024-01-25": 8687,
   "date_first_scraped": "2022-05-01",
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
   "name": "API Pride",
@@ -1291,10 +1291,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 273080,
       "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
       "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+    },
+    {
+      "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/3ELSQlnkdBcEa8XEZRE0Tc"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/5ZAkzn6gq9gSSiwQoqE24M"
     },
     {
       "album": {

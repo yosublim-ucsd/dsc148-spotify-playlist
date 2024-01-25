@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-467 songs - 1 day 3 hr 51 min
+468 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Another In the Fire](https://open.spotify.com/track/4FFfvln3hGIqnenEQPn9Kk) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Sara Damon](https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75), [Joseph Whettam](https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa) | [Another In the Fire](https://open.spotify.com/album/1S6BSiiHUFEQb2D0ZSqH0a) | 2:45 | 2023-01-20 | 2023-07-22 |
 | [Another In The Fire](https://open.spotify.com/track/6WHwV2HTbHqZ7yPqliO5cf) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Sara Damon](https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75), [Joseph Whettam](https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa) | [Another In The Fire](https://open.spotify.com/album/7b2i1gPJDb1MFgs2NLO3HY) | 2:45 | 2022-02-27 | 2023-07-05 |
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-02-19 | 2022-06-25 |
-| [Armor](https://open.spotify.com/track/4FE0pyeci5eZpJuTVE6s9C) | [Seth & Nirva](https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL) | [Armor](https://open.spotify.com/album/5gxV2jkgNgFpKKOmG65jk5) | 3:40 | 2024-01-12 |  |
+| [Armor](https://open.spotify.com/track/4FE0pyeci5eZpJuTVE6s9C) | [Seth & Nirva](https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL) | [Armor](https://open.spotify.com/album/5gxV2jkgNgFpKKOmG65jk5) | 3:40 | 2024-01-12 | 2024-01-25 |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 | 2022-02-19 | 2022-06-26 |
 | [Ascend](https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [KDNS](https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0) | [Ascend](https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN) | 3:18 | 2022-04-01 | 2024-01-13 |
 | [Atmosphere](https://open.spotify.com/track/6sj6JEaj9Il7l87AEMlPzo) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Beloved Music](https://open.spotify.com/artist/6zZJfrWCq3o5OvmNAXbCLP) | [Atmosphere](https://open.spotify.com/album/0hhrJIIQMCIp3JOrjBcTRB) | 4:15 | 2022-06-25 | 2024-01-09 |
@@ -220,6 +220,7 @@
 | [It's Giving](https://open.spotify.com/track/2cOqrRTZKyhhPJgPeg3edl) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [It's Giving](https://open.spotify.com/album/3whj47mfFAS2jRc7pm0Bb8) | 2:35 | 2022-06-25 | 2023-01-16 |
 | [It's Gonna Be Alright \- Remix Radio Edit](https://open.spotify.com/track/3RM2kL165af3sq7Q9kpTiA) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [It's Gonna Be Alright](https://open.spotify.com/album/6WRMe7MtrPjDyf3S64mu6F) | 4:00 | 2022-02-19 | 2022-06-26 |
 | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue) | [Shontelle Norman\-Beatty](https://open.spotify.com/artist/7v8SIpv9peJmgRSROMQ2NX) | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/album/5kwykZUsyHdpcRaflSv7XC) | 4:08 | 2022-02-19 | 2022-06-26 |
+| [Joy](https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u) | [William Demps](https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Joy](https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI) | 4:02 | 2024-01-12 |  |
 | [joyful](https://open.spotify.com/track/1Eg2byzEpuiG5rM5PUFVAt) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [joyful](https://open.spotify.com/album/57XPU0P5oh5VlO9wfR6EK1) | 2:16 | 2022-02-19 | 2022-06-26 |
 | [Jump Ship \- Live](https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:50 | 2022-02-19 | 2022-06-26 |
 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 | 2023-10-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Espresso(\uc5d0\uc2a4\ud504\ub808\uc18c)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 284384,
+  "num_followers": 284423,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2I0MjA1MWI0YTIyZmY2MGIwYzIxYzdhOWZlZDgwZjQ2ODkxZDNm",
+  "snapshot_id": "MCxhNWEwMGYxYTI4ZTAyODg3OTllMTQxZTc2ZmY3M2ExMWI0NDRlOGRi",
   "tracks": [
     {
       "added_at": "2024-01-23 07:05:31",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-01-23 07:05:31",
       "album": {
+        "name": "Officially Missing You",
+        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
+      },
+      "artists": [
+        {
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
+    },
+    {
+      "added_at": "2024-01-23 07:05:31",
+      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2024-01-23 07:05:31",
-      "album": {
-        "name": "Officially Missing You",
-        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
-      },
-      "artists": [
-        {
-          "name": "Geeks",
-          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
     },
     {
       "added_at": "2024-01-23 07:05:31",

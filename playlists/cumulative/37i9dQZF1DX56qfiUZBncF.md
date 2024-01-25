@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-272 songs - 16 hr 12 min
+273 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 | 2022-04-29 |  |
 | [Would You Love Me the Same](https://open.spotify.com/track/3qiiRTPb1l2PTBtxttuz0V) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [Would You Love Me the Same](https://open.spotify.com/album/3wBj93MAo01J27xJVVh5Gy) | 3:02 | 2020-11-04\* | 2022-07-29 |
 | [You Don’t Look at Me the Same](https://open.spotify.com/track/2mNFhyfs6zXClFy20XHb34) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [You Don’t Look at Me the Same](https://open.spotify.com/album/5kKlM8cwqFu70WyLJjfXKf) | 2:56 | 2021-01-19 | 2022-07-29 |
-| [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-11-04\* |  |
+| [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 | 2023-01-11 |  |
+| [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-11-04\* | 2024-01-25 |
 | [Youth](https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU) | [Ben Khan](https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K) | [1992 EP](https://open.spotify.com/album/6NebCuedf30wTZqRTGprn2) | 3:17 | 2020-11-04\* | 2024-01-05 |
 
 \*This playlist was first scraped on 2020-11-04. Prior content cannot be recovered.

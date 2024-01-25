@@ -6433,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "Zakelijke Crush",
+        "url": "https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2"
+      },
+      "artists": [
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "Zakelijke Crush",
+      "url": "https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN"
+    },
+    {
+      "album": {
         "name": "Lars",
         "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
       },

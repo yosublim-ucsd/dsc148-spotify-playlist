@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-156 songs - 9 hr 27 min
+157 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,5 +164,6 @@
 | [いただきバベル \- Aiobahn Remix](https://open.spotify.com/track/2HsbIyJ1SmvoPDSvm4JMXg) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [いただきバベル \(Aiobahn Remix\)](https://open.spotify.com/album/6tFad3cyOcWJNfouUeWx6E) | 3:01 | 2023-06-28 | 2023-06-30 |
 | [アキバ20XX](https://open.spotify.com/track/1Ez0wnfGnuJKP5vNk6ZKRT) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [LindaAI\-CUE \[BNSI\]](https://open.spotify.com/artist/1L9M0K0MtxupTFkuhdvcgu), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [東雲和音 \(CV: 天音みほ\)](https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [アキバ20XX](https://open.spotify.com/album/5uDQtaKfJgJZZgwHTB0NiW) | 4:20 | 2023-02-22 | 2023-02-24 |
 | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/track/4PAo01ugWsBN6u6c4ttZwl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Pa's Lam System](https://open.spotify.com/artist/50ERkudmGin7lJt1hsOHyK), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/album/6LdesVSs6upBvsTXWMWgZ6) | 5:10 | 2022-08-30 | 2022-09-01 |
+| [稀びと](https://open.spotify.com/track/6w3xm2YE6CRz4qFiP4yFel) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Sho Okada \[Bandai Namco Studio Inc.\]](https://open.spotify.com/artist/65SYu5S01780daM46aDQZP), [安倍=シャクジ=摩耶 \(CV: SONOTA\)](https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW) | [稀びと](https://open.spotify.com/album/4ua2BMqM0nXUiRxI8io0zH) | 2:47 | 2024-01-24 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Kygo & Ava Max, Green Day, Zara Larsson, Mumford & Sons, Pharrell Williams and more! Cover: Kygo & Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,152 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,167 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 79 | [sunshine](https://open.spotify.com/track/1ekTOhefDvMDd0pfeBzePe) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [sunshine](https://open.spotify.com/album/4lL6BEOObcD162mpuaegOD) | 3:41 |
 
-Snapshot ID: `MCxlMDQxMjkwMmIwY2E1ZWMyMTIwNTU1ZDczZDk1NzAyOGYyM2M3Mjdm`
+Snapshot ID: `MCw1NzMyMzQ3NmY2NjMwZDgxOGU4ZWYyYWRmYTIwYTg1NmRhODU2YzI5`

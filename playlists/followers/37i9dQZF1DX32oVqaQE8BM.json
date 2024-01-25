@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 772017,
+  "2024-01-25": 771889,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chill out playlist.",
   "name": "Chill Out Music",
@@ -2323,6 +2323,24 @@
       "duration_ms": 171361,
       "name": "Dreamer - Edit",
       "url": "https://open.spotify.com/track/1mY5s1cLyo6qJ96iEP0zIg"
+    },
+    {
+      "album": {
+        "name": "dreams and demons",
+        "url": "https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146916,
+      "name": "dreams and demons",
+      "url": "https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX"
     },
     {
       "album": {
@@ -4783,6 +4801,24 @@
       "duration_ms": 215600,
       "name": "Lilly Pad",
       "url": "https://open.spotify.com/track/40aLPi04VSPDhGVdg7n81t"
+    },
+    {
+      "album": {
+        "name": "Limestone",
+        "url": "https://open.spotify.com/album/47tiW14l56cvqSLUinTdzf"
+      },
+      "artists": [
+        {
+          "name": "Il Greco",
+          "url": "https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157166,
+      "name": "Limestone",
+      "url": "https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv"
     },
     {
       "album": {

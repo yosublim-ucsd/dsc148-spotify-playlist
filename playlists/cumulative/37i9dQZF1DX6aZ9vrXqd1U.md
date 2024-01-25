@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-302 songs - 21 hr 30 min
+303 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Resolve](https://open.spotify.com/track/644M4CDzq23hv5gSspq6bX) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P フィーバー機動戦士ガンダム 逆襲のシャア](https://open.spotify.com/album/2Sic1dlGXEDPPYhAm2qP7E) | 4:13 | 2023-06-19 | 2023-06-21 |
 | [Result](https://open.spotify.com/track/4FQ8NOw5D10LRlQjwESDUI) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Graduation 〜Singles〜](https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2) | 4:16 | 2024-01-11 |  |
 | [RIVER](https://open.spotify.com/track/5mf0n04gtpdXbl9ZGgX1uY) | [Tatsuya Ishii](https://open.spotify.com/artist/07xwiTdCD7TbFYdwXcgr5V) | [super nipops](https://open.spotify.com/album/75agQWCXwsZZWL0ndw9AiU) | 4:51 | 2024-01-11 |  |
+| [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-01-23 |  |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 |  |
 | [sharp ♯](https://open.spotify.com/track/70VRn9TesY8dkfxNnEOZhY) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/6mlqY4QJsj8XDIstWD7ZwS) | 3:39 | 2022-07-27 | 2022-07-29 |
 | [Shinkai no Kodoku](https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I) | [Houko Kuwashima](https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP) | [Junshoku brilliant](https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6) | 4:00 | 2024-01-11 |  |
@@ -271,7 +272,7 @@
 | [儚くも永久のカナシ](https://open.spotify.com/track/3CKhqshvWzdsgAUMkIynVW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ALL TIME BEST \-FAN BEST\- \(EXTRA EDITION\)](https://open.spotify.com/album/3Vvhcz4SbV4KoGL4cRGhZz) | 4:10 | 2022-10-17 | 2022-11-13 |
 | [光の涯 \(feat\. アイナ・ジ・エンド\)](https://open.spotify.com/track/5cPB6t5awsMVnZln4Smxis) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 6:26 | 2022-07-27 | 2022-07-29 |
 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-07-27 | 2023-06-26 |
-| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 |  |
+| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 | 2024-01-25 |
 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 | 2022-07-27 | 2023-06-18 |
 | [君よ　気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ　気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-15 |  |
 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 | 2022-07-27 | 2023-06-15 |

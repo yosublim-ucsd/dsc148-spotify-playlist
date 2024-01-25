@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 106988,
+  "2024-01-25": 107066,
   "date_first_scraped": "2022-01-21",
   "description": "Chill house tracks to power your pilates session.",
   "name": "Pilates Lounge",
@@ -273,6 +273,24 @@
       "duration_ms": 164745,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG"
+    },
+    {
+      "album": {
+        "name": "Believe in Each Other",
+        "url": "https://open.spotify.com/album/6ntTycCMlcXWYLwjPtleNS"
+      },
+      "artists": [
+        {
+          "name": "Luca Tong",
+          "url": "https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216125,
+      "name": "Believe in Each Other",
+      "url": "https://open.spotify.com/track/2dFyfb4nOxIXnLjDOKkMon"
     },
     {
       "album": {
@@ -1796,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Live Til 100",
+        "url": "https://open.spotify.com/album/5zGjkxaFnVEjnVHR1TQ7EX"
+      },
+      "artists": [
+        {
+          "name": "Venus Bay",
+          "url": "https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Live Til 100",
+      "url": "https://open.spotify.com/track/5ZvPMhGsglY07w3tFtGjPx"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7"
       },
@@ -2629,6 +2665,24 @@
       "duration_ms": 190458,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2ebN0r76upG4bTetGQk996"
+    },
+    {
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/0rjHQHL5VIqecLapXxYGLP"
+      },
+      "artists": [
+        {
+          "name": "Don Battina",
+          "url": "https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151159,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY"
     },
     {
       "album": {

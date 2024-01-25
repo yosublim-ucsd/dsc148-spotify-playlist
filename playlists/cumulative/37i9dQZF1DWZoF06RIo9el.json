@@ -1226,6 +1226,24 @@
     {
       "album": {
         "name": "Bandida",
+        "url": "https://open.spotify.com/album/1RdBD1eIIiTwVlfUxba1vS"
+      },
+      "artists": [
+        {
+          "name": "Aron Luix",
+          "url": "https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/2gCm8iun5geZCA2PBC4J4J"
+    },
+    {
+      "album": {
+        "name": "Bandida",
         "url": "https://open.spotify.com/album/1wbEwwQ1CWBfo5nut7Rx3Y"
       },
       "artists": [

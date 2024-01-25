@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-107 songs - 7 hr 12 min
+109 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-03-03 |  |
 | [Riverman Is My Friend](https://open.spotify.com/track/21ULteEVcCRcLaR8o9AbIi) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Riverman Is My Friend](https://open.spotify.com/album/0h8aAVp5LkTVYpD9rs4vDF) | 2:27 | 2022-03-25 |  |
 | [Rivers of Relief](https://open.spotify.com/track/6ISH3ToV59LoriaqIOrwnw) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 3:55 | 2022-03-03 |  |
+| [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 | 2024-01-24 |  |
 | [Sabiá\-Da\-Praia](https://open.spotify.com/track/40OZD3lGLXaKwQSG2lCha0) | [Luccas Martins](https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV) | [Voar Doce Lar \(Original Handpan Soundtrack For Contemporary Art Exhibition\)](https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG) | 2:52 | 2022-09-08 |  |
 | [Sense of Pleasure](https://open.spotify.com/track/4HcQNQSyeKObpGIA9toSkU) | [Hang Drum Massive](https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb) | [Great Bliss \(The Cosmic Sounds and Magical Dreamscape of Hangpan\)](https://open.spotify.com/album/6qZZyULSyPxsHChJMBIfAI) | 5:26 | 2022-03-03 |  |
 | [Singing Wok](https://open.spotify.com/track/4GGyBcaGhqR7PfXZOLp38g) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 2:46 | 2022-03-03 |  |
@@ -115,5 +116,6 @@
 | [Under the Blue Sky](https://open.spotify.com/track/5LeobX1vuRcmKRU0tTRCj1) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:07 | 2022-03-03 |  |
 | [Whispering Creek](https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 8:01 | 2022-03-03 | 2022-12-31 |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-03-03 |  |
+| [World Of Zen \(Nature\)](https://open.spotify.com/track/4ihQRm3lSTYPrRqtc6kvwj) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [World Of Zen \(Nature\)](https://open.spotify.com/album/13WfCI1szPiUgeDjnzK3lm) | 2:58 | 2024-01-24 |  |
 
 \*This playlist was first scraped on 2022-03-15. Prior content cannot be recovered.

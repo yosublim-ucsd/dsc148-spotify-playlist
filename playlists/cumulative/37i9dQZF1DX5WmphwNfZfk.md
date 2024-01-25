@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch in the new year, handpicked by our curators\. Cover: DEBBY FRIDAY
 
-1,464 songs - 3 day 3 hr 4 min
+1,465 songs - 3 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,7 +987,8 @@
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-10-08 |
 | [Pressure](https://open.spotify.com/track/4oGzPrWCL1cMa4JQTYfRjV) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Pressure](https://open.spotify.com/album/10lqGyG2HYtsZr1R4FApdS) | 3:22 | 2022-05-06 | 2022-06-04 |
 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-02 | 2023-07-08 |
-| [Pretending](https://open.spotify.com/track/7CE2zBO7SCA3416Id6Pzf6) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 5:39 | 2023-11-29 |  |
+| [Pretending](https://open.spotify.com/track/7CE2zBO7SCA3416Id6Pzf6) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 5:39 | 2023-11-29 | 2024-01-25 |
+| [Pretending](https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 5:39 | 2023-11-29 |  |
 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 | 2022-04-01 | 2022-05-07 |
 | [Pretty Girl](https://open.spotify.com/track/63FX15MXCQSn4O2qrlyO0F) | [Jordan Solomon](https://open.spotify.com/artist/3F2OHxH7rWTkyfchtYA7bQ) | [Pretty Girl](https://open.spotify.com/album/2ZFSn6E5SqskjHq74LIDFL) | 2:21 | 2022-02-04 | 2022-03-05 |
 | [PREYING MANTIS !](https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY](https://open.spotify.com/album/02FnZYyHb5AccBVtO4OnjV) | 3:27 | 2023-06-02 | 2023-07-08 |

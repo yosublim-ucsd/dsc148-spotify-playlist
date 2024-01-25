@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,037 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,193 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
 | 60 | [Kyun](https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Kyun](https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18) | 3:42 |
 
-Snapshot ID: `MCxjZjI5M2U0YjFkYTljMjE5YWJkOGVlZmIwZWE4NzUwN2Q0YWY1OGQz`
+Snapshot ID: `MCw4OGUzODJmNDIwM2VjYWRiMDAyZmMyNWY5OWM5Yjc2MDUxMjAxYmU4`

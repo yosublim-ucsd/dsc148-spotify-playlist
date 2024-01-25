@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 72137,
+  "2024-01-25": 72076,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -4797,6 +4797,24 @@
       "duration_ms": 229956,
       "name": "Glasgow - Edit",
       "url": "https://open.spotify.com/track/0fbloYbpEh4pJljGYKn24o"
+    },
+    {
+      "album": {
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
       "album": {

@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191587,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh"
+    },
+    {
+      "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 250004,
       "name": "SUMMER LOVE\u2026",
       "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"

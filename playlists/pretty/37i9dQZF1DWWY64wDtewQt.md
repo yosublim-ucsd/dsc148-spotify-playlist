@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,427,243 likes - 100 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,431,545 likes - 100 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 63 | [NXSTY BLOOD](https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L) | [Wels](https://open.spotify.com/artist/5gQXdVmzGuWYNiG1ZOFS7S) | [NXSTY BLOOD](https://open.spotify.com/album/7ydimgAmoZWwEiKAIJ3GWP) | 1:54 |
 | 64 | [One Chance](https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [One Chance](https://open.spotify.com/album/60MO7zUtQgy8pFxyDD43yY) | 2:11 |
 | 65 | [TREINAMENTO DE FORÇA](https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [TREINAMENTO DE FORÇA](https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH) | 2:05 |
-| 66 | [ALORS BRAZIL](https://open.spotify.com/track/7EKDCrOpSuSwrnsPlyifMT) | [Legit](https://open.spotify.com/artist/7KPeM5CKg2PEnLH890C9Hn), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI) | [ALORS BRAZIL](https://open.spotify.com/album/4tFj1tRHpYRLkkXMomwhNB) | 1:41 |
+| 66 | [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 |
 | 67 | [SIMPLE](https://open.spotify.com/track/1fdqbJTHS8cwGbHDU9YU9A) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SIMPLE](https://open.spotify.com/album/6OOcFuabfwp9WvoOEQBJq4) | 1:41 |
 | 68 | [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 |
 | 69 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DEMONÍACO MANO](https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [DEMONÍACO MANO](https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU) | 1:24 |
 | 100 | [FREETATO](https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO) | [apillsinjuice](https://open.spotify.com/artist/2rhyPC4RI2bJ3XDFvdBVeo) | [FREETATO](https://open.spotify.com/album/1Q27gGAujyIvzDLxpuecsV) | 1:49 |
 
-Snapshot ID: `MCxlODI1NjJjZmIxMWNhMDEzZDcxMGM3YTMxNTFlZmQwNzMwYTc1M2Fh`
+Snapshot ID: `MCxiMjhmYmE5YTFlNzYzZTQ5Y2IzOWI0ODZjOTIyMzk2MmU5OTViY2Yy`

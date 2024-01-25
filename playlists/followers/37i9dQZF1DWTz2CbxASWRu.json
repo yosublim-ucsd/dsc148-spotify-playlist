@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 198720,
+  "2024-01-25": 198733,
   "date_first_scraped": "2023-08-09",
   "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta.",
   "name": "Trotamundos",
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 246509,
       "name": "Dans l'eau de la claire fontaine",
       "url": "https://open.spotify.com/track/3wu98sggSB6ScL50tCl4Pk"
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 290518,
       "name": "El Monte",
       "url": "https://open.spotify.com/track/6mb2VnsEIhCJzuYh8hDFef"

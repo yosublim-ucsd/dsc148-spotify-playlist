@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-188 songs - 10 hr 48 min
+189 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 | 2022-12-02 |  |
 | [Odyssey](https://open.spotify.com/track/43198ZeRQtET0J7fkhO595) | [Vilify](https://open.spotify.com/artist/1vcCPOlMYtuwIS7W7fzZno) | [Odyssey](https://open.spotify.com/album/3VFpo1ADsgO5W4qhQyjUKk) | 3:42 | 2022-09-09 | 2023-01-06 |
 | [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 | 2022-07-29 | 2022-12-03 |
-| [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-09 |  |
+| [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 | 2023-06-20 |  |
+| [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-09 | 2024-01-25 |
 | [Paint It In Blood](https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd) | [The Tryals](https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs) | [Paint It In Blood](https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt) | 3:08 | 2023-01-06 | 2023-05-19 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-10-14 | 2023-03-03 |
 | [Pessimist](https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia) | [VNDALE](https://open.spotify.com/artist/3fONcYljQ5hkvg95Q0W8Fh) | [Pessimist](https://open.spotify.com/album/4A8w8UM06UdAyEpWAc1Qpu) | 4:02 | 2022-07-29 | 2022-08-20 |

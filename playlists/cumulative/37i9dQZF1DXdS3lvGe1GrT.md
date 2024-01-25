@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Amble \| Visual Artist: Bailey Elder
 
-1,031 songs - 2 day 13 hr 46 min
+1,040 songs - 2 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Bush](https://open.spotify.com/track/4QEhaZQmYvwh3eZV3BAvKN) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [Bush](https://open.spotify.com/album/6x7wYTMcciUQiz08Y52Ybv) | 1:53 | 2023-06-14 | 2023-08-17 |
 | [but then i just stopped growing](https://open.spotify.com/track/4Q6PWBtCwVE6hzsWJdbzoL) | [Portra](https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe) | [but then i just stopped growing](https://open.spotify.com/album/4bv6jWjr4ULR2C7wI7UzMa) | 2:37 | 2023-07-12 | 2023-09-15 |
 | [Cafe Du Monde](https://open.spotify.com/track/08s1bWzjQY7zrszcXk0heZ) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Cafe Du Monde](https://open.spotify.com/album/1TPctzBJR77bATX80jyFLw) | 3:11 | 2023-05-17 | 2023-07-13 |
+| [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-01-24 |  |
 | [Calgary Skyline](https://open.spotify.com/track/5b650x4FrY2CiIw9LLcopY) | [Peach & Quiet](https://open.spotify.com/artist/1k9yLhNPTAVPf1R03eUnbc) | [Calgary Skyline](https://open.spotify.com/album/4TDb5JSdVdgXQY9cddv5WG) | 3:22 | 2023-01-11 | 2023-03-02 |
 | [Call On You](https://open.spotify.com/track/2Rumt01aXfbJA6I68ON2U3) | [Maxine Funke](https://open.spotify.com/artist/2WvBnOk0Lp8xjzFiIaOTO1) | [Two Songs From River Said](https://open.spotify.com/album/4metm4U8QTE7ZyuUw810UE) | 3:34 | 2023-04-12 | 2023-05-04 |
 | [Callus](https://open.spotify.com/track/6OJfjKUPww50wSdDNNO67g) | [micelf](https://open.spotify.com/artist/2oJQ6xl9JSTK0jb8I7j5EF) | [Callus](https://open.spotify.com/album/1cNxWN58A93kCMDetEJRFl) | 3:50 | 2023-07-26 | 2023-09-28 |
@@ -261,6 +262,7 @@
 | [Dog Days in LA](https://open.spotify.com/track/0MxqSOINLqZOwAFsGAMMux) | [Alicia Blue](https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG) | [Dog Days in LA](https://open.spotify.com/album/5ouXoBtz7T2j6yiOQmct1t) | 3:36 | 2022-06-15 | 2022-10-06 |
 | [Dog or Baby](https://open.spotify.com/track/2OxIWC9FjaZueYWAfA0YAF) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Dog or Baby](https://open.spotify.com/album/6RvD4WoxEhhhEEXPOyZu7J) | 3:21 | 2023-04-05 | 2023-05-18 |
 | [dog park](https://open.spotify.com/track/2N0scrG4sYYwWiwc9rShoI) | [Anna Kellam](https://open.spotify.com/artist/5kG2vfaHrnskPlXQXs7rHs) | [dog park](https://open.spotify.com/album/745NZnSvc0ziNbB1NN25OL) | 3:19 | 2023-02-08 | 2024-01-11 |
+| [don't look down](https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR) | [tarnisher](https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c) | [don't look down](https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4) | 3:54 | 2024-01-24 |  |
 | [Don’t Feel Right](https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9) | [Steven OH](https://open.spotify.com/artist/0CaLV3kAYhNSWUmci7PGbQ) | [Don’t Feel Right](https://open.spotify.com/album/2wJhrSr43N9bjoT3bsr4bd) | 3:00 | 2022-06-29 | 2022-09-22 |
 | [Dorian Gray](https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Dorian Gray](https://open.spotify.com/album/0jKocMWiAQNEE6a2ZglBjs) | 3:37 | 2023-01-11 | 2023-03-09 |
 | [Dot My i's](https://open.spotify.com/track/5BIp4fRwkRWsbNcXP8xvFL) | [kendall lujan](https://open.spotify.com/artist/5JvY8N4icJjp1ND34IJAqQ) | [kendall lujan](https://open.spotify.com/album/7cM3lwx5ctIJczuqTn4rdF) | 3:34 | 2023-03-29 | 2023-05-04 |
@@ -297,6 +299,7 @@
 | [Emily's Frown](https://open.spotify.com/track/7M0zHGTVnaFtZcGl3MXeM6) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Emily's Frown](https://open.spotify.com/album/4706Np4G7wb4FKzdW38nfF) | 3:02 | 2023-10-16 | 2023-12-11 |
 | [Empty Hands](https://open.spotify.com/track/2GBIKypnjEstvrRsXaSeOV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/2zwbcI5dCRCBUO3pjIs2E9) | 4:21 | 2023-01-11 | 2023-02-16 |
 | [End](https://open.spotify.com/track/7bx0K0DXHmQ5pLtXxtP1Jy) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [End](https://open.spotify.com/album/2gVBQDFmb1imLhIklGFtQ4) | 3:30 | 2022-08-03 | 2022-10-27 |
+| [End Of The World](https://open.spotify.com/track/3trrueLt7FceiknriMTt4m) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [End Of The World](https://open.spotify.com/album/1yMKghXe5iMNJ7sJigZ15n) | 3:09 | 2024-01-24 |  |
 | [Even in the Dark](https://open.spotify.com/track/3ir6zIQ2sulM6wUqTFU6S7) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Don't Let Your Heart Walk Away](https://open.spotify.com/album/4J5Rd46FQt4bZBeburzxtP) | 2:45 | 2022-11-30 | 2023-01-12 |
 | [Even in the Dark](https://open.spotify.com/track/7g7EZ9RyKdB75zvFusDKQb) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Even in the Dark](https://open.spotify.com/album/1zZZh9BQUEkr6Y6z8eGt7D) | 2:45 | 2022-08-03 | 2022-10-27 |
 | [Everglades](https://open.spotify.com/track/4FLtyQUs8xzwS40q1B2XAO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:43 | 2023-09-27 | 2023-12-11 |
@@ -356,6 +359,7 @@
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2022-06-29 | 2023-01-12 |
 | [For Good](https://open.spotify.com/track/5YcJOdqpFwgU5VilvHYUGR) | [June Rosewell](https://open.spotify.com/artist/4dQVhIUMTPzIarNMn8Bbmd) | [For Good](https://open.spotify.com/album/2JUBcgTTM2s85HwYqLXxhL) | 2:43 | 2023-10-25 | 2023-12-11 |
 | [For Selfish Reasons](https://open.spotify.com/track/5CDk0OliTd2gQAIiQzy93Y) | [Creeks](https://open.spotify.com/artist/13vBzl5RhtEkQiTYCFgWaA) | [For Selfish Reasons](https://open.spotify.com/album/1qWRUsFMgAM7XziZPRboF3) | 3:00 | 2022-09-28 | 2022-12-01 |
+| [For The Both of Us](https://open.spotify.com/track/6CLfnHnMwLfAtd1rqJsbCs) | [Kai Warrior](https://open.spotify.com/artist/651HnfrHpEqic34SYZPJ7J) | [For The Both of Us](https://open.spotify.com/album/1F38FvPkUKwcMsaZURPa8h) | 4:34 | 2024-01-24 |  |
 | [For The First Time](https://open.spotify.com/track/3fzkDpVmrEYxcyD6EfZ9ls) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [For The First Time](https://open.spotify.com/album/5zhiZZO5JYYeojHrR2FSEv) | 3:10 | 2023-05-03 | 2023-06-22 |
 | [For You I'll Wait](https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U) | [harf.](https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX) | [For You I'll Wait](https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0) | 3:55 | 2023-04-26 | 2024-01-11 |
 | [For You to Keep](https://open.spotify.com/track/7i41bhXcHFm0UFBJYKBWR5) | [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [For You to Keep](https://open.spotify.com/album/4JoUnppImVFmfa0lLB81M7) | 3:58 | 2023-01-11 | 2023-03-09 |
@@ -733,6 +737,7 @@
 | [pinch me](https://open.spotify.com/track/0FSiEayrUIN4WqUbzuGDZ2) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [pinch me](https://open.spotify.com/album/4OdRU8PY2W2gf0G5gxWtEO) | 2:32 | 2023-10-26 | 2023-12-11 |
 | [Pink](https://open.spotify.com/track/4jbtHXvWKM74sUUanCVGuS) | [Leila Sunier](https://open.spotify.com/artist/699kkddUX2J9DRXT8Ql1Pn) | [Pink](https://open.spotify.com/album/1ldcl6WOuj3HwDMqwNopuU) | 4:28 | 2023-11-08 | 2023-12-11 |
 | [please don't forget about me](https://open.spotify.com/track/79TOLoQPN2YQBU9M6v7EV0) | [Pompey](https://open.spotify.com/artist/2nWS0foFZts25bZ6sxfP9x) | [please don't forget about me](https://open.spotify.com/album/15YVZmVuMHxcPE5Dk6vkRp) | 3:00 | 2023-11-15 | 2023-12-11 |
+| [Point of View](https://open.spotify.com/track/3ltHC2cPucDcc9NKbupJsC) | [Will Hearn](https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ) | [Point of View](https://open.spotify.com/album/74ss7iI1XAs6YXUQADK962) | 3:44 | 2024-01-24 |  |
 | [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2023-01-11 | 2023-02-23 |
 | [Poor Madeline](https://open.spotify.com/track/3JWneiKPrQOEJQ8eXJWDq9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Poor Madeline](https://open.spotify.com/album/3fYAqgjv3QDYlgAYMY9jUg) | 3:31 | 2023-10-16 | 2023-12-11 |
 | [Pop Fly](https://open.spotify.com/track/17Dhcbtm8cE6LZvrP2n7Vy) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [The Older I Get The Funnier I Was](https://open.spotify.com/album/0Zo2bqwtYROgEczX4jG2W7) | 2:29 | 2022-10-26 | 2022-12-01 |
@@ -774,7 +779,9 @@
 | [Rollin' 7s](https://open.spotify.com/track/5CUHljLFS594vxJaetda3r) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7) | [Rollin' 7s](https://open.spotify.com/album/2iZ6qweZThLqflQNLgwYqh) | 3:37 | 2022-10-12 | 2022-12-01 |
 | [Roma](https://open.spotify.com/track/5Doo36g667KqGPU8J3ijzW) | [hallpass](https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z) | [Roma](https://open.spotify.com/album/4B12SFohzxZRPQojWtwG2K) | 4:25 | 2023-07-26 | 2024-01-11 |
 | [Room In The City](https://open.spotify.com/track/1Hk4BP0hDqQ5BVTKqMO9dC) | [Maxine Funke](https://open.spotify.com/artist/2WvBnOk0Lp8xjzFiIaOTO1) | [Room In The City](https://open.spotify.com/album/7DV18xY2RL7MzMMmQuqYxg) | 2:52 | 2022-09-28 | 2022-12-01 |
+| [rose sunglasses](https://open.spotify.com/track/1CwOAKzBt8nKosLa3nP70p) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [in the back of my closet](https://open.spotify.com/album/4sNEfD26meNFp3rwr4J9QK) | 3:18 | 2024-01-24 |  |
 | [rosemary](https://open.spotify.com/track/6ARssPT9pvPXfOF5hmd2jP) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [rosemary](https://open.spotify.com/album/1aJhGX29dXXfPNi5LPbTtA) | 3:12 | 2023-07-26 | 2023-09-21 |
+| [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 | 2024-01-24 |  |
 | [Run It Again](https://open.spotify.com/track/3ol4NqkJz0zRGSZ4mgDVIC) | [Sunspur](https://open.spotify.com/artist/16rfBFRECzNBUuVJ31MQPv) | [Run It Again](https://open.spotify.com/album/625z04LWbfHJOBqxq5VaRA) | 4:44 | 2023-09-13 | 2023-11-11 |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-13 | 2023-11-11 |
 | [Runaway Train \- GemsOnVHS Field Recording](https://open.spotify.com/track/4O1aKNl9yUxYCA91MoI1tQ) | [Josh Okeefe](https://open.spotify.com/artist/78zgfaEwcftA55VFMvTwAw), [GemsOnVHS](https://open.spotify.com/artist/7t78CwAbQIA6DKAKUKBYgl) | [Runaway Train \(GemsOnVHS Field Recording\)](https://open.spotify.com/album/2OSLlqhpnY4kMsgeiwVefV) | 3:01 | 2022-05-25 | 2022-07-21 |
@@ -886,6 +893,7 @@
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2022-11-30 | 2023-01-12 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 | 2023-03-22 | 2024-01-11 |
 | [Ten Hands](https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Ten Hands](https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z) | 2:27 | 2023-06-07 | 2023-08-03 |
+| [Texas Wide](https://open.spotify.com/track/7flgkD4d50MhuipLRe6HFL) | [Kate Stephenson](https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne) | [Texas Wide](https://open.spotify.com/album/2qqtJeHMwiB9sWFV9ugdHk) | 2:28 | 2024-01-24 |  |
 | [Thanks](https://open.spotify.com/track/05kamsQjIKeVWMWDThZkFZ) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Thanks](https://open.spotify.com/album/6rfxMqmfSOl6xXY7t93Kr5) | 3:34 | 2022-06-29 | 2022-10-06 |
 | [That So](https://open.spotify.com/track/39CGQf63kR3hgVbzPAyhRo) | [Oh Papa](https://open.spotify.com/artist/0Mfgu7MOEz6iAaSnQWerjJ) | [That So](https://open.spotify.com/album/2Gf44Na8LBbMwJMLK5gRU1) | 3:07 | 2022-05-25 | 2022-06-30 |
 | [That's Everything](https://open.spotify.com/track/76XOc4fQTSQwLxNsE2OUZz) | [Miki Fiki](https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd) | [That's Everything](https://open.spotify.com/album/6O0nCCwSprQhsE5VJ2elVF) | 3:45 | 2023-08-23 | 2023-11-11 |
@@ -1038,6 +1046,7 @@
 | [Young at Heart](https://open.spotify.com/track/2SL5zG9aPwXVLN97YQl3pH) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Young at Heart](https://open.spotify.com/album/2owx5fxhJfK0ObNtz6sCpa) | 3:46 | 2023-07-12 | 2023-09-15 |
 | [Young Heart](https://open.spotify.com/track/1lrMhK5zQJYTarnm2UggNZ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Young Heart](https://open.spotify.com/album/6LfENbSpcG3QX421jC5eYz) | 2:50 | 2023-10-11 | 2023-12-11 |
 | [Young Love](https://open.spotify.com/track/3HNBAtBajTcOduUHRwAqXV) | [Neal Carlson](https://open.spotify.com/artist/3L3ntzkKdkWdpV7HUel3oz) | [Greenwood Vol\. 1](https://open.spotify.com/album/2tmirmoeRxF9yzCIwnM2mo) | 2:46 | 2024-01-10 |  |
+| [Your House](https://open.spotify.com/track/1JHCAvJkUgAnjMUbsBmLsf) | [Mandelbro](https://open.spotify.com/artist/6EBPmRpxRECf55nXUERPZn) | [Your House](https://open.spotify.com/album/21gcbSTvzHeXcZUjSJ5Qsk) | 4:51 | 2024-01-24 |  |
 | [Your Side](https://open.spotify.com/track/3wM2Jve9yCTwYjAQcfSk7D) | [Spectre Jones](https://open.spotify.com/artist/4ew89Rjw5CRGDZJ7EdMvnS) | [Your Side](https://open.spotify.com/album/1jD5hECkUa5BHPV22plUFU) | 3:03 | 2023-10-04 | 2023-12-11 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

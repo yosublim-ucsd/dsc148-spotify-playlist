@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 67785,
+  "num_followers": 67839,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTk2ZTgzM2Q5M2ZiZThkYjcwMThhMWYwZWRkODhjNjI1ODA5MTZj",
+  "snapshot_id": "MCxiMTQ5MmJlMDNjN2NiYmU0YWRmMzJiNTFlODRhNDdkYTQ3ZmQ5ZTRj",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Que Beleza",
         "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 205200,
       "name": "Timoneiro",
       "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Que Falta Voc\u00ea Me Faz",
-        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Samba da B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -371,6 +355,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Um Corpo no Mundo",
         "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 196153,
       "name": "N\u00e3o Me Entrego Pros Caretas",
       "url": "https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Toda Menina Baiana",
-      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -483,22 +467,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Fera Ferida",
-      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -515,8 +483,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gilberto Gil (1969)",
-        "url": "https://open.spotify.com/album/53eqd316Rs3te41yGRovYz"
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
       },
       "artists": [
         {
@@ -524,9 +492,25 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 323773,
-      "name": "Aquele Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb"
+      "duration_ms": 226640,
+      "name": "Toda Menina Baiana",
+      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Fera Ferida",
+      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -667,6 +651,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Gilberto Gil (1969)",
+        "url": "https://open.spotify.com/album/53eqd316Rs3te41yGRovYz"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 323773,
+      "name": "Aquele Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb"
     },
     {
       "added_at": "2022-09-22 18:13:04",

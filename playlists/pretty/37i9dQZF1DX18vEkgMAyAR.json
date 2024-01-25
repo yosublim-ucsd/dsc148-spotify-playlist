@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 66371,
+  "num_followers": 66396,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2U1ODFmNDVkNTdjNWJjN2U0NjFkMTY4MjRkMmMwOWQ5YmMyYzM0",
+  "snapshot_id": "MCxlYzQxNjA2MWNiYTZhOTg2OTkzYThhMjM5ZjgwMDYzN2ZhMDAzMjc5",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Taking It Easy",
-        "url": "https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG"
+        "name": "OMOGE WA JO",
+        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
       },
       "artists": [
         {
-          "name": "GoodLuck",
-          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
         }
       ],
-      "duration_ms": 244030,
-      "name": "Taking It Easy",
-      "url": "https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF"
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO",
+      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     }
   ],
   "unique_name": "Feel Good Look Good",

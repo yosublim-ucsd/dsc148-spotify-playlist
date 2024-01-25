@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 412914,
+  "2024-01-25": 412856,
   "date_first_scraped": "2022-05-30",
   "description": "Ahgases! 7 or nothing.",
   "name": "This Is GOT7",
@@ -43,7 +43,7 @@
     {
       "album": {
         "name": "100 Ways",
-        "url": "https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va"
+        "url": "https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha"
       },
       "artists": [
         {
@@ -54,6 +54,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168626,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9"
+    },
+    {
+      "album": {
+        "name": "100 Ways",
+        "url": "https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 168626,
       "name": "100 Ways",
       "url": "https://open.spotify.com/track/4mQMvcRtQou5yI8mjuJ1lf"
@@ -403,10 +421,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 145720,
       "name": "BULLET TO THE HEART",
       "url": "https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo"
+    },
+    {
+      "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/7w5qCvL7iFIpfILhOBHHn5"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "BULLET TO THE HEART",
+      "url": "https://open.spotify.com/track/5hkdIUh9TQLkyugILpsCaZ"
     },
     {
       "album": {
@@ -627,7 +663,7 @@
     {
       "album": {
         "name": "Drive You Home",
-        "url": "https://open.spotify.com/album/7AiL3QPCgFxmG64c8gXkvD"
+        "url": "https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF"
       },
       "artists": [
         {
@@ -642,6 +678,28 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216163,
+      "name": "Drive You Home",
+      "url": "https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85"
+    },
+    {
+      "album": {
+        "name": "Drive You Home",
+        "url": "https://open.spotify.com/album/7AiL3QPCgFxmG64c8gXkvD"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 216163,
       "name": "Drive You Home",
       "url": "https://open.spotify.com/track/7uidJM7xBikobIitpHQKZ4"
@@ -1687,10 +1745,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 209998,
       "name": "LMLY",
       "url": "https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G"
+    },
+    {
+      "album": {
+        "name": "LMLY",
+        "url": "https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209998,
+      "name": "LMLY",
+      "url": "https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX"
     },
     {
       "album": {
@@ -2831,7 +2907,7 @@
     {
       "album": {
         "name": "Oxygen",
-        "url": "https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw"
+        "url": "https://open.spotify.com/album/3u9lEiaSdDf0W9XuamgMBB"
       },
       "artists": [
         {
@@ -2842,6 +2918,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/0ChCXUNWPN45flrl4udCDR"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 158709,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1L3l7GXxByDSriYTwbwuZm"

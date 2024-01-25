@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 96336,
+  "num_followers": 96368,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmYyYjczYmQ1YTY1Y2U0MmZkMjc0YjA2YmUyZjFjNjUyNGNjZTBk",
+  "snapshot_id": "MCwxN2JiYmFiNzNlMDdjYzE5ZDFkODZjOTZjNmNkYTFmNjgzYTUxMzYz",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -747,30 +747,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 740360,
-      "name": "Tannhauser: Venusberg Music",
-      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Symphonies In E Major & C Major",
         "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 284600,
       "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
       "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 740360,
+      "name": "Tannhauser: Venusberg Music",
+      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1119,6 +1119,62 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Parsifal",
+        "url": "https://open.spotify.com/album/058KG1ukF14Ldalzg5ROky"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Heidi Grant Murphy",
+          "url": "https://open.spotify.com/artist/4A2bdekJqmAzZh8Hh5ZZRQ"
+        },
+        {
+          "name": "Kaaren Erickson",
+          "url": "https://open.spotify.com/artist/3zH8Hhjft5SUs60iymYk3Z"
+        },
+        {
+          "name": "Korliss Uecker",
+          "url": "https://open.spotify.com/artist/07WmYSBwPW02k4EHq042UL"
+        },
+        {
+          "name": "Joyce Guyer",
+          "url": "https://open.spotify.com/artist/0q5WNVlAhrEBf7A0jbOMlO"
+        },
+        {
+          "name": "Jane Bunnell",
+          "url": "https://open.spotify.com/artist/51gmVTzlUNFmThYwRntUOX"
+        },
+        {
+          "name": "Wendy White",
+          "url": "https://open.spotify.com/artist/31P7GlYJjHalq7KJUbId5j"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Metropolitan Opera Chorus",
+          "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Parsifal / Act 2: \"Komm, holder Knabe!\"",
+      "url": "https://open.spotify.com/track/6ztMA5J0jPb6kRBJE3RSyg"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Opera Choruses",
         "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
       },
@@ -1183,62 +1239,6 @@
       "duration_ms": 383706,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
       "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Parsifal",
-        "url": "https://open.spotify.com/album/058KG1ukF14Ldalzg5ROky"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Heidi Grant Murphy",
-          "url": "https://open.spotify.com/artist/4A2bdekJqmAzZh8Hh5ZZRQ"
-        },
-        {
-          "name": "Kaaren Erickson",
-          "url": "https://open.spotify.com/artist/3zH8Hhjft5SUs60iymYk3Z"
-        },
-        {
-          "name": "Korliss Uecker",
-          "url": "https://open.spotify.com/artist/07WmYSBwPW02k4EHq042UL"
-        },
-        {
-          "name": "Joyce Guyer",
-          "url": "https://open.spotify.com/artist/0q5WNVlAhrEBf7A0jbOMlO"
-        },
-        {
-          "name": "Jane Bunnell",
-          "url": "https://open.spotify.com/artist/51gmVTzlUNFmThYwRntUOX"
-        },
-        {
-          "name": "Wendy White",
-          "url": "https://open.spotify.com/artist/31P7GlYJjHalq7KJUbId5j"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Metropolitan Opera Chorus",
-          "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Parsifal / Act 2: \"Komm, holder Knabe!\"",
-      "url": "https://open.spotify.com/track/6ztMA5J0jPb6kRBJE3RSyg"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Solti - Wagner - The Operas",
+        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Die Walk\u00fcre / Erster Aufzug: Orchestervorspiel",
+      "url": "https://open.spotify.com/track/1YzcrcgR3T2RwAZg5tSvYP"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -1435,30 +1459,6 @@
       "duration_ms": 290026,
       "name": "Lohengrin, WWV 75 / Act 3: \"Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?\"",
       "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Solti - Wagner - The Operas",
-        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Die Walk\u00fcre / Erster Aufzug: Orchestervorspiel",
-      "url": "https://open.spotify.com/track/1YzcrcgR3T2RwAZg5tSvYP"
     },
     {
       "added_at": "2022-06-28 08:58:25",

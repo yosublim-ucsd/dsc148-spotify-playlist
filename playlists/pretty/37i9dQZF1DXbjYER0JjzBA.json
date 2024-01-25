@@ -1,36 +1,28 @@
 {
   "description": "The tracklist to your holiday movie soundtrack. ",
-  "num_followers": 46100,
+  "num_followers": 46089,
   "original_name": "Holiday Movie Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzI1ZTllNjU0MjZmNDI2OGIzZjgyNmFjYzYzN2Q4M2ExMDI1MDI3",
+  "snapshot_id": "MCw5OWJhY2E4YmRhNzk2N2ViZTJjOTVjY2E3NDhiODM5YTQyNzUwNzU3",
   "tracks": [
     {
       "added_at": "2023-11-01 04:00:00",
       "album": {
-        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Ken Darby Singers",
-          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
-        },
-        {
-          "name": "John Scott Trotter & His Orchestra",
-          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
         }
       ],
-      "duration_ms": 177480,
-      "name": "White Christmas - 1947 Version",
-      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-11-01 04:00:00",

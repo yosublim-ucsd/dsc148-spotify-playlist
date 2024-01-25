@@ -1,9 +1,27 @@
 {
-  "2024-01-24": 37632,
+  "2024-01-25": 37672,
   "date_first_scraped": "2023-12-09",
   "description": "<a href=\"spotify:artist:3QFiymmbJlVBPpnrOatEAkq\">Myd</a>'s favourite tracks. Updated regularly. Curated by Myd. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Myd's track IDs",
   "tracks": [
+    {
+      "album": {
+        "name": "Homeboys",
+        "url": "https://open.spotify.com/album/0j4SjQNKeymCwADe5Ju83C"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho",
+          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396534,
+      "name": "000 Baby",
+      "url": "https://open.spotify.com/track/5euJ2q8Kk1p4nDux0JaBsD"
+    },
     {
       "album": {
         "name": "16-18 (Why You Lacking Energy?;Myd Remix)",
@@ -238,6 +256,24 @@
     },
     {
       "album": {
+        "name": "Baby You're A Star",
+        "url": "https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141206,
+      "name": "Baby You're A Star",
+      "url": "https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2"
+    },
+    {
+      "album": {
         "name": "Logic1000",
         "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
       },
@@ -405,6 +441,24 @@
       "duration_ms": 139363,
       "name": "Big Blues",
       "url": "https://open.spotify.com/track/1i3dBiG2khueQ72ZVp51ke"
+    },
+    {
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184917,
+      "name": "Bit",
+      "url": "https://open.spotify.com/track/6iXbXmRXqnmpn63mbgj1Sv"
     },
     {
       "album": {
@@ -799,6 +853,24 @@
       "duration_ms": 163488,
       "name": "Chiquetere (feat. Rafa Villalba)",
       "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
+    },
+    {
+      "album": {
+        "name": "Cigarrito",
+        "url": "https://open.spotify.com/album/7qyz5EKozAVpdedaHAuGV8"
+      },
+      "artists": [
+        {
+          "name": "Mainline Magic Orchestra",
+          "url": "https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/0SFyglNHGfxHrwUadOvG7O"
     },
     {
       "album": {
@@ -1750,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230643,
+      "name": "I Just Want To Love You",
+      "url": "https://open.spotify.com/track/2uxl3c56eaQdEogKA8nNag"
+    },
+    {
+      "album": {
         "name": "I No No",
         "url": "https://open.spotify.com/album/6ty1Za7IZbVFWaOLZURixv"
       },
@@ -2324,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "Logg",
+        "url": "https://open.spotify.com/album/7nQYD4gdDl3chRtjtakVAZ"
+      },
+      "artists": [
+        {
+          "name": "Logg",
+          "url": "https://open.spotify.com/artist/3v3t1WMcKhHpqDs6xGmjAQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390626,
+      "name": "Lay It on the Line",
+      "url": "https://open.spotify.com/track/0vjJyuhBMOWLfsEiHVzgvl"
+    },
+    {
+      "album": {
         "name": "Lemonlime",
         "url": "https://open.spotify.com/album/1HdXwyy3YtAim9QDjagN7y"
       },
@@ -2560,6 +2668,24 @@
     },
     {
       "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317835,
+      "name": "Makeshift Tourniquet",
+      "url": "https://open.spotify.com/track/4c6DqwAUGF2yDGZqWVGQfz"
+    },
+    {
+      "album": {
         "name": "Kenya Special Remix EP",
         "url": "https://open.spotify.com/album/14YcsJWinjwSB0cQdhym9a"
       },
@@ -2725,6 +2851,32 @@
       "duration_ms": 183308,
       "name": "Nagila Redingoted",
       "url": "https://open.spotify.com/track/2nN0pK4q6SDUf5Mh4XL9K9"
+    },
+    {
+      "album": {
+        "name": "Kingdoms In Colour Remixed",
+        "url": "https://open.spotify.com/album/4KBMoononZPCM80QtfOzXd"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389178,
+      "name": "Nervous Tics - DJ Tennis Remix",
+      "url": "https://open.spotify.com/track/6FEDMxhIewYQdzxFuB5640"
     },
     {
       "album": {
@@ -2983,6 +3135,32 @@
       "duration_ms": 354000,
       "name": "Petu - Dub Mix",
       "url": "https://open.spotify.com/track/4P258bRZUyvetnbVPhTV87"
+    },
+    {
+      "album": {
+        "name": "Petu EP",
+        "url": "https://open.spotify.com/album/4Owh1dR3uQLSLMfI5kD6OW"
+      },
+      "artists": [
+        {
+          "name": "Nonku Phiri",
+          "url": "https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV"
+        },
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365806,
+      "name": "Petu - Masalo Remix",
+      "url": "https://open.spotify.com/track/3zKpuOZp6KIneHiwhYxWM8"
     },
     {
       "album": {
@@ -3330,6 +3508,24 @@
     },
     {
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/5qlYH2pvRTzIVB7GxUoiXu"
+      },
+      "artists": [
+        {
+          "name": "Rimbaudian",
+          "url": "https://open.spotify.com/artist/2mBp5EJQEiv7xNhyriCl8r"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329756,
+      "name": "She Taught Me How to Love",
+      "url": "https://open.spotify.com/track/47P9IfPz7FtvrXZD3C4OUf"
+    },
+    {
+      "album": {
         "name": "Rare Singles and Previously Unreleased Masters, Vol. 1",
         "url": "https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3"
       },
@@ -3363,6 +3559,24 @@
       "duration_ms": 308880,
       "name": "Shishimai - \u7345\u5b50\u821e",
       "url": "https://open.spotify.com/track/6nqHiFSRnPVtiAyvCcLh17"
+    },
+    {
+      "album": {
+        "name": "20 Years Of Phonica (Digital Sampler 3)",
+        "url": "https://open.spotify.com/album/5N7u3kazHks21Bsvucg4ao"
+      },
+      "artists": [
+        {
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375737,
+      "name": "Slam",
+      "url": "https://open.spotify.com/track/0TYGCUSNdjz68pc9eu0hav"
     },
     {
       "album": {
@@ -3523,6 +3737,28 @@
       "duration_ms": 366755,
       "name": "Student Night",
       "url": "https://open.spotify.com/track/5WltyA542cYUVj8NCgOjIR"
+    },
+    {
+      "album": {
+        "name": "Lion's Drums Edits",
+        "url": "https://open.spotify.com/album/4I3ONc4TEAz0cvfE5zjkxl"
+      },
+      "artists": [
+        {
+          "name": "Sandy B",
+          "url": "https://open.spotify.com/artist/3Np5z6yU56Sw9744o6oFLl"
+        },
+        {
+          "name": "Lion's Drums",
+          "url": "https://open.spotify.com/artist/2Jl6DsGmwz7jFS7TiyOwBu"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336321,
+      "name": "Student Night (Lion's Drums Edit)",
+      "url": "https://open.spotify.com/track/7HBwe3xdD3nmQRAy9sRw0z"
     },
     {
       "album": {
@@ -3910,6 +4146,28 @@
     },
     {
       "album": {
+        "name": "Together We Stand (Chambord Remix)",
+        "url": "https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419480,
+      "name": "Together We Stand - Chambord Remix",
+      "url": "https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF"
+    },
+    {
+      "album": {
         "name": "Sd-1",
         "url": "https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ"
       },
@@ -4053,6 +4311,32 @@
       "duration_ms": 59970,
       "name": "varsity",
       "url": "https://open.spotify.com/track/7wtV4w8M9sAIOdRUoXGXsE"
+    },
+    {
+      "album": {
+        "name": "Viciosa",
+        "url": "https://open.spotify.com/album/48oOxfMcDO16txrQpaRU2h"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o Latino",
+          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
+        },
+        {
+          "name": "Valeria Vix",
+          "url": "https://open.spotify.com/artist/656cRBmIQevcYvL7rOxKXX"
+        },
+        {
+          "name": "Vix",
+          "url": "https://open.spotify.com/artist/75wnmUfl54n1xtyxEEp53f"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387466,
+      "name": "Viciosa - Vix Club Remix",
+      "url": "https://open.spotify.com/track/6z9boGNLLOYL9jx1sWrBnP"
     },
     {
       "album": {

@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 248117,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/0G73PAIeqQFjXT0upZPNdh"
@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/5ubNjaBEVJBj4WIU47n0Eu"
+      },
+      "artists": [
+        {
+          "name": "Celestial Wave",
+          "url": "https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182437,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/5QPQdWQgxtcW0i07WM2XRt"
+    },
+    {
+      "album": {
         "name": "Memories of Us",
         "url": "https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF"
       },
@@ -1320,6 +1338,24 @@
       "duration_ms": 275862,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG"
+    },
+    {
+      "album": {
+        "name": "Missing U",
+        "url": "https://open.spotify.com/album/1QYF9UxypegfOiap0LJaGC"
+      },
+      "artists": [
+        {
+          "name": "Cray Barnes",
+          "url": "https://open.spotify.com/artist/6fG2Y4YIB6PG8TyPOqOl2b"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/5MQkBuSB3pr3gFkConb028"
     },
     {
       "album": {
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 223304,
       "name": "One Thunder (Different Drums Version)",
       "url": "https://open.spotify.com/track/3mId35oszFyZoraEkjQUdy"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 124355,
       "name": "sensitivity",
       "url": "https://open.spotify.com/track/2fMhhLIxKzG6FjBYKMTgvo"
@@ -1922,6 +1958,24 @@
       "duration_ms": 368928,
       "name": "Somewhere Back There",
       "url": "https://open.spotify.com/track/2swpkJwi0UGrMMkMn0MUFa"
+    },
+    {
+      "album": {
+        "name": "Soul Seeker",
+        "url": "https://open.spotify.com/album/36EJeBLIUqtNePMRvVzwpD"
+      },
+      "artists": [
+        {
+          "name": "Dino Razer",
+          "url": "https://open.spotify.com/artist/2OxNPwfYykZEZcNPBtfeCe"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Soul Seeker",
+      "url": "https://open.spotify.com/track/6fdxICvGHYojIExfzEOceB"
     },
     {
       "album": {

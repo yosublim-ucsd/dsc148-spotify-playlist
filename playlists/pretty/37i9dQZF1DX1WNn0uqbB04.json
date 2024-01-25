@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGM3NWRlOTQ4NjlhMzk5MDQxMzAzYWJjNGY2MjFmM2NhM2EwZGI4",
+  "snapshot_id": "MCxhNzljYzBmOGIxOTBjOTk4ZGQ4Njg4N2YyMmM0NGQwYWE5M2I0Zjc2",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Di Meola Plays Piazzolla",
+        "url": "https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 375706,
+      "name": "Cafe 1930",
+      "url": "https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Muchacha (ojos de papel)",
         "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 198944,
       "name": "Muchacha (ojos de papel)",
       "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Di Meola Plays Piazzolla",
-        "url": "https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 375706,
-      "name": "Cafe 1930",
-      "url": "https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
-        "url": "https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Sgoliat vs KoolTURE",
-          "url": "https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1"
-        }
-      ],
-      "duration_ms": 216993,
-      "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
-      "url": "https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Libertango (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 206374,
       "name": "Libertango - En Vivo en Luna Park",
       "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
+        "url": "https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Sgoliat vs KoolTURE",
+          "url": "https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1"
+        }
+      ],
+      "duration_ms": 216993,
+      "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
+      "url": "https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tanghetto Plays Piazzolla",
-        "url": "https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj"
-      },
-      "artists": [
-        {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
-        }
-      ],
-      "duration_ms": 291850,
-      "name": "Oblivion - Instrumental",
-      "url": "https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Tango Groove",
         "url": "https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 223986,
       "name": "Bye Mom",
       "url": "https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Tanghetto Plays Piazzolla",
+        "url": "https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        }
+      ],
+      "duration_ms": 291850,
+      "name": "Oblivion - Instrumental",
+      "url": "https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Buenos Aires Dreams",
+        "url": "https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O"
+      },
+      "artists": [
+        {
+          "name": "Le Griser",
+          "url": "https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Buenos Aires Dreams",
+      "url": "https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Sebastian Barbui",
         "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 202866,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "De Arrabal",
-        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
-      },
-      "artists": [
-        {
-          "name": "Octavio Caruso",
-          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Taquito Militar",
-      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
     },
     {
       "added_at": "2023-11-24 03:00:00",

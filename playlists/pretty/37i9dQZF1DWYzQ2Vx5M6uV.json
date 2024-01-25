@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114748,
+  "num_followers": 114742,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw",
+  "snapshot_id": "MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Drogba (Joanna) [Global Latin Version]",
-        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chosen Few",
-          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
-        }
-      ],
-      "duration_ms": 197214,
-      "name": "Drogba (Joanna) - Global Latin Version",
-      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Mimosas (Remix)",
         "url": "https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 273370,
       "name": "Mimosas - Remix",
       "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Drogba (Joanna) [Global Latin Version]",
+        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chosen Few",
+          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
+        }
+      ],
+      "duration_ms": 197214,
+      "name": "Drogba (Joanna) - Global Latin Version",
+      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
     },
     {
       "added_at": "2023-12-08 05:00:00",

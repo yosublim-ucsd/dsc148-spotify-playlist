@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-291 songs - 16 hr 18 min
+293 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Drive You Home](https://open.spotify.com/track/7uidJM7xBikobIitpHQKZ4) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/7AiL3QPCgFxmG64c8gXkvD) | 3:36 | 2022-05-23 | 2024-01-24 |
 | [DRUNK ON YOU](https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:46 | 2022-05-23 | 2023-08-06 |
 | [DRUNK ON YOU](https://open.spotify.com/track/4bKYSsMbo15rYFkJcUAeES) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH) | 3:46 | 2022-05-23 |  |
-| [DWAY!](https://open.spotify.com/track/5XfamJkzfdtJ8MvxYmEDhJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [DWAY!](https://open.spotify.com/album/08UXf4p7zAdrb7Vq0XA8Lg) | 2:25 | 2022-05-23 |  |
+| [DWAY!](https://open.spotify.com/track/2dnhmTJQsFaCnRWmiN5v8U) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/7w5qCvL7iFIpfILhOBHHn5) | 2:25 | 2022-05-23 |  |
+| [DWAY!](https://open.spotify.com/track/5XfamJkzfdtJ8MvxYmEDhJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [DWAY!](https://open.spotify.com/album/08UXf4p7zAdrb7Vq0XA8Lg) | 2:25 | 2022-05-23 | 2024-01-25 |
 | [ECLIPSE](https://open.spotify.com/track/3FoiMgXMrO3D5FeJuotKyZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:29 | 2022-05-23 | 2023-08-06 |
 | [ECLIPSE](https://open.spotify.com/track/7Foj5OSXpA054zOMxNfPrG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:29 | 2022-05-23 |  |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2022-05-23 |  |
@@ -238,7 +239,8 @@
 | [THURSDAY](https://open.spotify.com/track/3v5BOhyPrVQN7PYE6JnY7j) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:26 | 2022-05-23 | 2023-08-06 |
 | [Time Out](https://open.spotify.com/track/4YQKoTs6QESahc7N4OI82A) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:01 | 2022-05-23 | 2023-08-07 |
 | [TIME OUT](https://open.spotify.com/track/5ZynmbezT5MBrXfkjbr3La) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:01 | 2022-05-23 |  |
-| [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 | 2022-05-23 |  |
+| [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 | 2022-05-23 | 2024-01-25 |
+| [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/7b7TdtSTjo0PhrMVJciQyh) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/5zHqrXJ3FUiHjs4wQdE7vj) | 2:21 | 2022-05-23 |  |
 | [Tomorrow, Today](https://open.spotify.com/track/6GKHrYccvceiS3AFZtfFxm) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/2nuQHw26iU71RvViaMx5Rl) | 3:55 | 2022-05-23 |  |
 | [TOUCH](https://open.spotify.com/track/0ozMNbPm8SGyDWK8rHS8o0) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH) | 3:19 | 2022-05-23 |  |
 | [TOUCH](https://open.spotify.com/track/5nOofjl5oaTWGeivGfNzDs) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:19 | 2022-05-23 | 2023-08-06 |

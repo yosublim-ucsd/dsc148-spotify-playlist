@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Meth Math. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Reyna Tropical. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 169302,
       "name": "100xCiento",
       "url": "https://open.spotify.com/track/72RtVHOxueiO3vE7ZBxG4q"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 180400,
       "name": "160",
       "url": "https://open.spotify.com/track/5Um3TrvTB1KG5Zx235DT5V"
@@ -1912,6 +1912,24 @@
       "duration_ms": 196246,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/0GPtTtncJBCsj960GfMSXy"
+    },
+    {
+      "album": {
+        "name": "AMANECER",
+        "url": "https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5"
+      },
+      "artists": [
+        {
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh"
     },
     {
       "album": {
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 212393,
       "name": "BYE",
       "url": "https://open.spotify.com/track/3emiDWCK8ftUuLmpHcuEYv"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 185017,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
@@ -5146,6 +5164,24 @@
       "duration_ms": 207658,
       "name": "Carnero",
       "url": "https://open.spotify.com/track/2kYsxnb2wgMDNXUIWZxri9"
+    },
+    {
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "album": {
@@ -5758,6 +5794,28 @@
       "duration_ms": 166738,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/3woHOk7oXSBn61tGSCZfs0"
+    },
+    {
+      "album": {
+        "name": "Clich\u00e9 (No eres tu, soy yo)",
+        "url": "https://open.spotify.com/album/0QMhLNVuoQgxG35lpgiYNf"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        },
+        {
+          "name": "Majo Puente",
+          "url": "https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Clich\u00e9 (No eres tu, soy yo)",
+      "url": "https://open.spotify.com/track/2hSMZabddq12ihjrRBDjCS"
     },
     {
       "album": {
@@ -7020,7 +7078,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160487,
       "name": "C\u00f3mo Est\u00e1s? :$",
       "url": "https://open.spotify.com/track/2f2B8KvxsxA3tymGr5UAnD"
@@ -16911,6 +16969,24 @@
     },
     {
       "album": {
+        "name": "La Rose",
+        "url": "https://open.spotify.com/album/0aHJCpyUduArsAg0AIb831"
+      },
+      "artists": [
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Man\u00e8ge",
+      "url": "https://open.spotify.com/track/5SD0CFd0p4BVh7K9ac1Ajx"
+    },
+    {
+      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
       },
@@ -17686,6 +17762,24 @@
       "duration_ms": 169715,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a"
+    },
+    {
+      "album": {
+        "name": "Me Viste Mi Novia",
+        "url": "https://open.spotify.com/album/1Q9AA1iBigw6yrJooOb5gd"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Me Viste Mi Novia",
+      "url": "https://open.spotify.com/track/6NdDKXroQmqQywhVejAbC5"
     },
     {
       "album": {
@@ -20034,7 +20128,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 211200,
       "name": "No Me Conoces",
       "url": "https://open.spotify.com/track/71zkmD0Icu8o2bfqu2Gsnc"
@@ -20270,6 +20364,28 @@
       "duration_ms": 218181,
       "name": "No Pasara",
       "url": "https://open.spotify.com/track/4EB5HtpOZ71vrl6WvjeiBt"
+    },
+    {
+      "album": {
+        "name": "No Pierdas La Cabeza",
+        "url": "https://open.spotify.com/album/4NdURclkNchMSMklnDxCN0"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "No Pierdas La Cabeza",
+      "url": "https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s"
     },
     {
       "album": {
@@ -20960,6 +21076,40 @@
       "duration_ms": 134000,
       "name": "Nubla La Mirada",
       "url": "https://open.spotify.com/track/1YufQZWMjN4C5ZFdG5MGj3"
+    },
+    {
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/0VKbHeYn2yURmG9asDjRQ9"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "V.Rod",
+          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
+        },
+        {
+          "name": "Dardd",
+          "url": "https://open.spotify.com/artist/7kOQvIBISx32duMnlJu1pg"
+        },
+        {
+          "name": "Danni Ble",
+          "url": "https://open.spotify.com/artist/1zBY2uQAr60siJjrsWkbsn"
+        },
+        {
+          "name": "Kenghis",
+          "url": "https://open.spotify.com/artist/48pyCEcR5JatKGreZw5ljZ"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188022,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/44zk4kBwPncRng4OIPjPH9"
     },
     {
       "album": {
@@ -24561,6 +24711,32 @@
     },
     {
       "album": {
+        "name": "Resolver",
+        "url": "https://open.spotify.com/album/5bRzJ2QvYc2IczuRdFACQa"
+      },
+      "artists": [
+        {
+          "name": "Glazzz",
+          "url": "https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz"
+        },
+        {
+          "name": "Young Dune",
+          "url": "https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT"
+        },
+        {
+          "name": "Keysan",
+          "url": "https://open.spotify.com/artist/4u32IhpoOiyE3CiTPt3g1c"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140889,
+      "name": "Resolver",
+      "url": "https://open.spotify.com/track/1jSLIMswogJ5ccDACgjZuL"
+    },
+    {
+      "album": {
         "name": "El Vivo Ritmo, Vol. 2",
         "url": "https://open.spotify.com/album/7v7curEYmy4s3rYAPU95eC"
       },
@@ -27212,6 +27388,24 @@
       "duration_ms": 169142,
       "name": "Surrounds Me",
       "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "album": {
@@ -30640,7 +30834,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 233394,
       "name": "Veluga",
       "url": "https://open.spotify.com/track/5ncIeQHF099fPZRtWPYHr6"
@@ -31154,7 +31348,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 184062,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH"

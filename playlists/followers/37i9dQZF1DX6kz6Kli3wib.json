@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 165374,
+  "2024-01-25": 165397,
   "date_first_scraped": "2021-12-21",
   "description": "Soft electronic music for your dinner.",
   "name": "Dinner Lounge",
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Cessna 172",
+        "url": "https://open.spotify.com/album/0ix24JqJ9uA38ZkPCwbsJ9"
+      },
+      "artists": [
+        {
+          "name": "taow",
+          "url": "https://open.spotify.com/artist/0zsZungCzCXvJ72jpsjUhD"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122068,
+      "name": "Cessna 172",
+      "url": "https://open.spotify.com/track/12EoeaExc41yiuzodHjzDo"
+    },
+    {
+      "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi"
       },
@@ -1209,6 +1227,24 @@
       "duration_ms": 139581,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY"
+    },
+    {
+      "album": {
+        "name": "Currency Trends",
+        "url": "https://open.spotify.com/album/1duJs27pAntlZDI8aJAJ8o"
+      },
+      "artists": [
+        {
+          "name": "heffaa",
+          "url": "https://open.spotify.com/artist/4wy8oQqp8igwjgKNMJEMY8"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Currency Trades",
+      "url": "https://open.spotify.com/track/27d3IGNbhYjppkLeDiyW5x"
     },
     {
       "album": {
@@ -4647,6 +4683,24 @@
       "duration_ms": 188727,
       "name": "Tidal Coasts",
       "url": "https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf"
+    },
+    {
+      "album": {
+        "name": "Tikka",
+        "url": "https://open.spotify.com/album/3oVmNykBqgixGyvvBrN1u1"
+      },
+      "artists": [
+        {
+          "name": "Wandsworth",
+          "url": "https://open.spotify.com/artist/1HRgXaepsBT07n30t1RpiX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Tikka",
+      "url": "https://open.spotify.com/track/6u71jQ49gijuHiDKMGyjdA"
     },
     {
       "album": {

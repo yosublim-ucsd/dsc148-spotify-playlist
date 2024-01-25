@@ -14761,6 +14761,28 @@
     },
     {
       "album": {
+        "name": "Chroma Panorama",
+        "url": "https://open.spotify.com/album/1r0Clva2PzpUl7uhtSYGL7"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2dHWqyeC0njhS84BcWezTD"
+    },
+    {
+      "album": {
         "name": "Sirius",
         "url": "https://open.spotify.com/album/0nLhLoUl7b4chfPNPF10I0"
       },

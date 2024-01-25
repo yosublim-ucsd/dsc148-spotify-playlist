@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Joey Bada$$, Fivio Foreign, Blxst and more\. Cover: Rob49 & Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,360 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,557 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [Give & Give](https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Give & Give](https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb) | 2:39 |
 | 12 | [Canarsie](https://open.spotify.com/track/4yyZkXQPuxfNhM5tPSFoHJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Canarsie](https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d) | 2:48 |
 | 13 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
-| 14 | [Diamondz n Roses](https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ) | 1:58 |
+| 14 | [Diamondz n Roses](https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ) | 1:57 |
 | 15 | [Forever On That](https://open.spotify.com/track/2DUuNEHxyeRz1JOZb9URyV) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Forever On That](https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP) | 2:08 |
 | 16 | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz) | 2:18 |
 | 17 | [Ghetto Clicc](https://open.spotify.com/track/3IpCm81pYbPf1iv4mzu733) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Ghetto Clicc](https://open.spotify.com/album/2yDXVrACoYkEXfnn9U592m) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got It on Me](https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Got It on Me](https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk) | 2:14 |
 | 50 | [No Cuffin](https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [No Cuffin](https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV) | 1:31 |
 
-Snapshot ID: `MCw4M2IxNTQ4MGE4MDM3MDFjYWEyYjQ4YzJkMzgxOGQ2ZTdjNjk2NzRm`
+Snapshot ID: `MCwwZjUzNGY3ZDFkZjM1MDYwZWYzZjZmNjhmZTczNzdhZWNhMjY5MTA4`

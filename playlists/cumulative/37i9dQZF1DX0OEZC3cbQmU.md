@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-99 songs - 10 hr 4 min
+100 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Vitorioso És \- Ao Vivo](https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Vitorioso És \(Ao Vivo\)](https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3) | 5:54 | 2022-09-02 |  |
 | [Você Consegue Sim](https://open.spotify.com/track/5odQGf8FjuPxfv1Kgd3g5K) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Você Consegue Sim](https://open.spotify.com/album/5lQfRYjaf8xD1nwO9Xt3pd) | 3:38 | 2022-09-02 | 2023-11-25 |
 | [Você é Precioso](https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Você é Precioso](https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr) | 4:22 | 2022-09-02 |  |
-| [Yahweh Se Manifestará \- Ao Vivo](https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Yahweh Se Manifestará \(Ao Vivo\)](https://open.spotify.com/album/6PkqqM3tz6lQCyWTqTvh7f) | 7:52 | 2023-06-02 |  |
+| [Yahweh Se Manifestará \- Ao Vivo](https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Yahweh Se Manifestará \(Ao Vivo\)](https://open.spotify.com/album/6PkqqM3tz6lQCyWTqTvh7f) | 7:52 | 2023-06-02 | 2024-01-25 |
+| [Yahweh Se Manifestará \- Ao Vivo](https://open.spotify.com/track/3plqEt5OtBwy5oiCupu9O6) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Yahweh Se Manifestará \(Ao Vivo\)](https://open.spotify.com/album/5Mnpo2mHKWYhlzHRdYczRJ) | 7:52 | 2024-01-05 |  |
 | [Yeshua](https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.1\)](https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY) | 8:42 | 2023-01-20 |  |
 | [Yeshua](https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [MOVER](https://open.spotify.com/artist/0wNTBKHmaWnXfxiPbdvi2m) | [Momentos](https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX) | 8:42 | 2022-09-02 | 2023-02-04 |
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:12 | 2022-09-02 |  |

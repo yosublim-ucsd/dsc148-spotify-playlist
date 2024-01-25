@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-152 songs - 10 hr 16 min
+153 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [The Dogs](https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:35 | 2022-06-21 |  |
 | [The Reluctant Heroes](https://open.spotify.com/track/6zSXcvXQ8T74fXm72OpSOb) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 4:27 | 2022-06-21 |  |
 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [MPI](https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 | 2022-06-07 | 2022-07-29 |
-| [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「七つの大罪 黙示録の四騎士」オリジナル・サウンドトラック](https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT) | 7:23 | 2024-01-23 |  |
+| [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/2YCz6kAkELWL4u1MXKVGvr) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [The Seven Deadly Sins Four Knights of the Apocalypse original soundtrack](https://open.spotify.com/album/1xAme6lxzPzIB0GBhE90xF) | 7:23 | 2024-01-23 |  |
+| [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「七つの大罪 黙示録の四騎士」オリジナル・サウンドトラック](https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT) | 7:23 | 2024-01-23 | 2024-01-25 |
 | [theDOGS](https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」後編\~自由の翼\~エンディングテーマ theDOGS produced by 澤野弘之](https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV) | 4:35 | 2022-06-07 | 2022-07-29 |
 | [Through My Blood <AM>](https://open.spotify.com/track/7nMyG8CJCgLweioZNOqRJc) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ninelie \- EP](https://open.spotify.com/album/0GUM4U7aSQfwnhEZ4NYlT3) | 4:01 | 2022-06-07 | 2022-07-29 |
 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 | 2022-06-21 |  |

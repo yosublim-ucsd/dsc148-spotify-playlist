@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-81 songs - 7 hr 4 min
+82 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Você Pode / Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music, EP 01 \(Ao Vivo\)](https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h) | 4:19 | 2023-12-29 |  |
 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 | 2023-12-29 |  |
 | [É no Pagode / Já Que Tá Gostoso Deixa \- Ao Vivo](https://open.spotify.com/track/2rQUkdMGz5kvc9l9zt2bdb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Mensageiro do Amor, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7jVb3Lcaakq6q2P8OwqlZx) | 4:47 | 2023-12-29 |  |
-| [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca) | 4:10 | 2023-12-29 |  |
+| [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2v0GhuP7TiSIGSPy5szhi2) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 4:10 | 2024-01-12 |  |
+| [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca) | 4:10 | 2023-12-29 | 2024-01-25 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

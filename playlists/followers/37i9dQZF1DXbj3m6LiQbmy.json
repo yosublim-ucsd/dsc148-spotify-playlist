@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 5878,
+  "2024-01-25": 5877,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Giol\u00ec & Assia in cover! \u2728",
   "name": "GLOW Italia",
@@ -1445,6 +1445,10 @@
         {
           "name": "soap",
           "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
         }
       ],
       "date_added": "2023-12-07",

@@ -4,7 +4,7 @@
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-40 songs - 12 hr 58 min
+42 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Daydream \(feat\. Ashwin Srinivasan\)](https://open.spotify.com/track/7EwFWulVd2B6NGvU7vYE3y) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Last Days of Meaning](https://open.spotify.com/album/77HZ58VO7LD44HRNPvhQGD) | 1:55 | 2022-03-03 | 2022-10-16 |
 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 | 2022-03-03 |  |
 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 | 2022-03-03 |  |
-| [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 | 2022-03-03 |  |
+| [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 | 2022-03-03 | 2024-01-25 |
+| [Goddess Evocation](https://open.spotify.com/track/52UG36Llh8DgE4DaFJ7tUX) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:39 | 2023-12-14 |  |
 | [Kaushi Kanada](https://open.spotify.com/track/2XOyluz7IWgOvvsRMtrYhw) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Madras 1964](https://open.spotify.com/album/6cDIt3S7CdWT8WrjzuDtJz) | 43:39 | 2022-03-03 |  |
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2022-03-03 |  |
 | [Pilu Ragmala in Rupak](https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Indranil Mallick](https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1) | [Immersion](https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i) | 13:50 | 2022-03-03 |  |
@@ -47,6 +48,7 @@
 | [Rajasthani Folk Melody in Raga Mand](https://open.spotify.com/track/3CNetfque43lmTkmZEVxLq) | [Santosh Nahar](https://open.spotify.com/artist/1NzfcWv0SxEZMg4Bm8XIvM) | [The Golden Bow](https://open.spotify.com/album/227981vkAdawvOqUpLJgIi) | 11:10 | 2022-03-03 |  |
 | [Rāg Mīyā kī Todī](https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp), [Wajahat Khan](https://open.spotify.com/artist/6fdCOQgyq1Pxw6LrJL54Uw) | [Rāg Mīyā kī Todī / Rāg Bilāskhānī Todī](https://open.spotify.com/album/0okl3bTNr5H1pw7XR9KNzS) | 38:14 | 2022-03-03 | 2022-07-29 |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-03-03 |  |
-| [The Union of Sun and Moon](https://open.spotify.com/track/5TeU9ZMgLcoSl1evO7TV5b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:59 | 2022-03-03 |  |
+| [The Union of Sun and Moon](https://open.spotify.com/track/5TeU9ZMgLcoSl1evO7TV5b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:59 | 2022-03-03 | 2024-01-25 |
+| [The Union Of Sun And Moon](https://open.spotify.com/track/5uMceXTnKnq3eUaJrtxXAG) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:59 | 2023-12-14 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

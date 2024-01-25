@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-382 songs - 21 hr 59 min
+383 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [undulations](https://open.spotify.com/track/2BQd1XaRUqANb211A2PWBz) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 3:16 | 2022-07-18 | 2022-10-28 |
 | [Vitamin E](https://open.spotify.com/track/3U95lm9tOPWklWZeqlU3KF) | [Rubber](https://open.spotify.com/artist/4ggmLhZPcjEdDs05jbdRTI), [Sam Bekt](https://open.spotify.com/artist/2GBRmvuhFzFRTdf3mSDlr2) | [Vitamin E](https://open.spotify.com/album/2SgcVts5kBn1gcRfIiTwTK) | 3:14 | 2022-02-04 | 2022-10-28 |
 | [W I L D](https://open.spotify.com/track/2gSh4JIbSm4WleCgpzEdaC) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [W I L D](https://open.spotify.com/album/2AK8jOgh0YJ2dQ8wwemipK) | 1:17 | 2022-02-04 | 2022-10-28 |
-| [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 | 2022-10-27 |  |
+| [W4TN](https://open.spotify.com/track/0qeePYqr2G0Zqb5G9X1Ryr) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx) | 2:41 | 2023-10-24 |  |
+| [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 | 2022-10-27 | 2024-01-25 |
 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 | 2022-02-04 | 2023-10-25 |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2022-10-27 |  |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-10-27 | 2023-02-02 |

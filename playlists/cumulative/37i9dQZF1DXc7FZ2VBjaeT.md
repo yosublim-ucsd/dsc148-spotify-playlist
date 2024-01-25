@@ -4,10 +4,12 @@
 
 > Listen to all her biggest hits, in one place.
 
-128 songs - 8 hr 5 min
+128 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1C79CxJdMHjk9RkwX04DRh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 0:00 | 2020-10-16\* |  |
+| [](https://open.spotify.com/track/3sQyifoaayj7MUTMxb5TjH) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 0:00 | 2020-10-16\* |  |
 | [](https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 0:00 | 2020-10-16\* |  |
 | [1000 Doves](https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:35 | 2020-10-16\* | 2021-05-13 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2020-10-16\* |  |
@@ -20,9 +22,8 @@
 | [Anything Goes](https://open.spotify.com/track/1Rz58vTzev4MpbJ0eePfqU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Anything Goes](https://open.spotify.com/album/7d0v0qC8d4OqEVOyAGlHQ1) | 2:03 | 2020-10-16\* | 2022-07-29 |
 | [Anything Goes](https://open.spotify.com/track/53AmnlRSyicd0MP1u0MaUH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [christmas but not christmas songs](https://open.spotify.com/album/6WTqtw3HlucpR9AFlVDlaa) | 2:03 | 2022-05-09 | 2022-11-13 |
 | [Anything Goes](https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:03 | 2022-05-09 |  |
-| [Applause](https://open.spotify.com/track/1C79CxJdMHjk9RkwX04DRh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 3:32 | 2020-10-16\* | 2022-07-29 |
 | [Applause](https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [House Party Jams 2022](https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc) | 3:32 | 2022-05-09 | 2022-11-13 |
-| [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 |  |
+| [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 | 2024-01-25 |
 | [ARTPOP](https://open.spotify.com/track/4ExhU5WCMZXaYSL8RAarvv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/3P4ieBubW04cGQT52hPxt6) | 4:07 | 2022-05-09 | 2022-11-13 |
 | [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 | 2022-05-09 | 2024-01-24 |
 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2020-10-16\* | 2021-05-13 |
@@ -47,9 +48,8 @@
 | [Enigma](https://open.spotify.com/track/7JDbfYUHjDzQPFSDh5lzGs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:59 | 2020-10-16\* | 2021-05-13 |
 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 | 2020-10-16\* |  |
 | [Fun Tonight](https://open.spotify.com/track/6hyQVqfHFvsJDjcmj4qrHf) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:53 | 2020-10-16\* | 2021-05-13 |
-| [G.U.Y.](https://open.spotify.com/track/3sQyifoaayj7MUTMxb5TjH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 3:52 | 2020-10-16\* | 2022-07-29 |
 | [G.U.Y.](https://open.spotify.com/track/41uJTt3lw4aKDgTH2gZ31s) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Summer Chill Hits](https://open.spotify.com/album/0MDj3Bze6Dnw1zENHdMEcX) | 3:52 | 2022-05-09 | 2022-11-13 |
-| [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 | 2022-05-09 |  |
+| [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 | 2022-05-09 | 2024-01-25 |
 | [Hair](https://open.spotify.com/track/2uk0YH2ahN0UE5jaCMa5jn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 5:07 | 2022-05-09 |  |
 | [Hair](https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* | 2022-07-29 |
 | [Hair](https://open.spotify.com/track/27pMfH0ba5cWg2tEl3zegS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Uplifting Pop](https://open.spotify.com/album/3p5jlBmgiaEtU6UtOcD9I5) | 5:08 | 2022-05-09 | 2022-11-13 |

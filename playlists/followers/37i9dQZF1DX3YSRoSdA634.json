@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 4046894,
+  "2024-01-25": 4046983,
   "date_first_scraped": "2021-12-21",
   "description": "Having a bad day? We know how it feels!",
   "name": "Life Sucks",
@@ -2343,7 +2343,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 207710,
       "name": "Ew",
       "url": "https://open.spotify.com/track/3Nc86B5XmDlG1KuEeSLD8x"
@@ -2657,7 +2657,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
@@ -5649,7 +5649,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
@@ -6421,7 +6421,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 195000,
       "name": "Run",
       "url": "https://open.spotify.com/track/1zmgEIHE0eXH0IhBGuoTkP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778,864 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,778,459 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 20 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 |
 | 21 | [Bae](https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Bae](https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN) | 2:17 |
 | 22 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
-| 23 | [Diamondz n Roses](https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ) | 1:58 |
+| 23 | [Diamondz n Roses](https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ) | 1:57 |
 | 24 | [Brainstorming](https://open.spotify.com/track/2ag63YRXI0d58BZpYZRhBO) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her \(Deluxe\)](https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8) | 2:44 |
 | 25 | [Express Myself](https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Express Myself](https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd) | 2:33 |
 | 26 | [Catch A B](https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Catch A B](https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Iced Tea](https://open.spotify.com/track/2dYbHSzgmr1175Dx2F9Hi9) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Iced Tea](https://open.spotify.com/album/4OTh7RQnEGvLNpqf33PYoy) | 2:34 |
 | 100 | [Going Crazy](https://open.spotify.com/track/6Shif3zQ84HcpovpwOuaR8) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Going Crazy](https://open.spotify.com/album/3xuMDBizmfgxu8RQ4CEqBc) | 2:36 |
 
-Snapshot ID: `MCwxOWI1NTQ5Mzc4MTc1N2EzZWJiODQyNGQ3MTM3MDk0NzU4YmZmOWZh`
+Snapshot ID: `MCw1N2UyNTI5NmNkZDQyZGE2MGIyZWY1MDhiNDFiNzVkZTI5ZWE0YmEz`

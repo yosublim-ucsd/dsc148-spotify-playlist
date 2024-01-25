@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,106 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,108 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 69 | [Te Lo Dije](https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:23 |
 | 70 | [Maldito Antojo](https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Garantizados](https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR) | 3:25 |
 | 71 | [Física y Química](https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 2:56 |
-| 72 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
-| 73 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
+| 72 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
+| 73 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
 | 74 | [Què Voy Hacer](https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 4:20 |
 | 75 | [Olvidame](https://open.spotify.com/track/0GvTHBiwOo2GiUhqu8mdsW) | [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Olvidame](https://open.spotify.com/album/5L5Q3dGox09sp50aBByuTG) | 3:11 |
 | 76 | [Pa' No Quedarme Con las Ganas](https://open.spotify.com/track/4mgFxkomGzWG5V0wD2FsFI) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Mano a Mano](https://open.spotify.com/album/36VIysGLIhLjb7m1kU8dBn) | 2:56 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 95 | [Él Es Mejor Que Tú](https://open.spotify.com/track/7Bzv0zQH7p6QSot9M0kL4h) | [Xitlali Sarmiento](https://open.spotify.com/artist/2iVFtC4FIq50YlHICk9FwG) | [Haciéndola Buena](https://open.spotify.com/album/7ucHxUOmlvCLkbhp8dISp6) | 2:48 |
 | 96 | [Ladrón](https://open.spotify.com/track/2PFGPKbUxaXSvCVY50XztN) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Shaira](https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso) | [Ladrón](https://open.spotify.com/album/7pHm8lNVjsM8xJi0FqXbUs) | 3:14 |
 | 97 | [Te Deseo](https://open.spotify.com/track/5ohauUtiVEwzHybD334I22) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [A Mi Modo](https://open.spotify.com/album/0LzSK72w0Bvi0KSmkTxR1V) | 3:27 |
-| 98 | [Ayer Y Hoy](https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Ayer Y Hoy](https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8) | 2:47 |
+| 98 | [Haciendo Historia](https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:20 |
 | 99 | [Pasatiempo](https://open.spotify.com/track/0QjSk1FuKdKRvAkomG8d0o) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Mi Promesa](https://open.spotify.com/album/0Ez3AihXSg9dVmgQcNnMmw) | 2:47 |
 | 100 | [Perdóname](https://open.spotify.com/track/4p5jLUvSnWQnzK5ME1zUxj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Besos Pasajeros](https://open.spotify.com/album/4hnLDA6aX8OHS3oHXSBKA0) | 3:39 |
 | 101 | [Es Bravo El Perro](https://open.spotify.com/track/1tO7eQ1bqCCVTjAvTFjJZh) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 2:47 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 104 | [Las Matemáticas](https://open.spotify.com/track/56fkIibWkNf9VeCBqxAS5t) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Ahora Soy Yo](https://open.spotify.com/album/7rKufttsZYMnWMhrTWm6Xl) | 3:11 |
 | 105 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/01U82GCUOncrdHenabtlDk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 2:26 |
 | 106 | [Buenos Días Mi Amor](https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [El Hijo Del Desierto](https://open.spotify.com/album/4Ei1NhM8VkWmoiNXkazooV) | 3:07 |
-| 107 | [Haciendo Historia](https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:20 |
+| 107 | [Ayer Y Hoy](https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Ayer Y Hoy](https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8) | 2:47 |
 | 108 | [No Consigo Olvidarte](https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6) | [No Consigo Olvidarte](https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3) | 3:49 |
 | 109 | [A Donde Vamos](https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:17 |
 | 110 | [Dejando Huella](https://open.spotify.com/track/30t4VO3UfXfmXacza0226g) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Dejando Huella](https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545) | 3:30 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 119 | [Pa' No Extrañarte Tanto](https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 3:14 |
 | 120 | [Voy A Calar Con Otra Boca](https://open.spotify.com/track/6ygoH1PdSWZfPxpzaSJqcd) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Kikin y Los Astros](https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx) | [Voy A Calar Con Otra Boca](https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9) | 3:04 |
 | 121 | [No Quieren](https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 2:18 |
-| 122 | [Te Descuidaste](https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Chicas Malas](https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e) | 3:35 |
-| 123 | [Me Está Gustando](https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G) | [Eduardo Cabral](https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB) | [Me Está Gustando](https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q) | 2:36 |
+| 122 | [Me Está Gustando](https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G) | [Eduardo Cabral](https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB) | [Me Está Gustando](https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q) | 2:36 |
+| 123 | [Te Descuidaste](https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Chicas Malas](https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e) | 3:35 |
 | 124 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
 | 125 | [Recomiéndame](https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Ni Juez Ni Parte \(Deluxe Edition\)](https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF) | 3:20 |
 | 126 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 |
 | 150 | [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 |
 
-Snapshot ID: `MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4`
+Snapshot ID: `MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0`

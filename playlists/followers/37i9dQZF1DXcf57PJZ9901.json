@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 109809,
+  "2024-01-25": 109857,
   "date_first_scraped": "2022-05-09",
   "description": "The best easy rock from the 2010s. Cover: Keane",
   "name": "10s Easy Rock",
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 188946,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV"
@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 269573,
       "name": "Wild Sun",
       "url": "https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl"

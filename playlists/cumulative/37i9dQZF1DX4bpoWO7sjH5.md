@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-198 songs - 13 hr 9 min
+199 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blanca Navidad](https://open.spotify.com/track/460i7EzVcjlmNM7fy2N8gk) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Blanca Navidad](https://open.spotify.com/album/3vDRQj8aNwIj3Yjk4SgkhM) | 2:24 | 2022-11-26 |  |
 | [Blanca Navidad](https://open.spotify.com/track/6dLYDxIKy3kMj8Dfx5kqS7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:07 | 2021-12-24 | 2022-07-29 |
 | [Blanca Navidad](https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:07 | 2021-12-24 |  |
+| [Buscando Al Rey](https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Lors](https://open.spotify.com/artist/3SuHjvLOEQDs3a7HaGKJN8), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Da' Ministry](https://open.spotify.com/artist/2kHUJ4qirJxS72oSMvfqMd) | [Buscando Al Rey](https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx) | 4:32 | 2023-12-15 |  |
 | [Campanas](https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 0:29 | 2021-12-24 | 2022-11-27 |
 | [Campanas de Salvación](https://open.spotify.com/track/31qOC3cubVPKA6a7ry0Xus) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Campanas de Salvación](https://open.spotify.com/album/3GkhdOhEohD9nhtZJRDxxG) | 3:13 | 2023-12-15 |  |
 | [Canela y Mantequilla](https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Postales Navideñas](https://open.spotify.com/album/4zwAGaYuF7KHNGBbW5LB4v) | 3:53 | 2022-11-26 |  |
@@ -161,7 +162,7 @@
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 | 2021-12-24 |  |
 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 | 2022-12-10 |  |
 | [Rey de Gloria](https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM) | [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Conexzion Directa](https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN) | [Rey de Gloria](https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB) | 3:22 | 2021-12-24 |  |
-| [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 |  |
+| [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 | 2024-01-25 |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2022-07-29 |
 | [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 | 2022-09-01 |
 | [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 | 2021-12-24 |  |

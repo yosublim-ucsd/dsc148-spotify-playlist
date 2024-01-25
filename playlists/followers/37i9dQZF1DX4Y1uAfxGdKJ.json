@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 140904,
+  "2024-01-25": 140975,
   "date_first_scraped": "2022-09-23",
   "description": "Driving electronic grooves for improved motivation and performance.",
   "name": "Electronic Running",
@@ -579,6 +579,24 @@
       "duration_ms": 193129,
       "name": "Dangerous Thing",
       "url": "https://open.spotify.com/track/1XvuCcjK1Q3R8e0U2axlet"
+    },
+    {
+      "album": {
+        "name": "Data",
+        "url": "https://open.spotify.com/album/0kQuIjj1U02ppcvhRWiGNr"
+      },
+      "artists": [
+        {
+          "name": "Harvio",
+          "url": "https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Data",
+      "url": "https://open.spotify.com/track/1cglvs3RiyEQWO6jQyIgeu"
     },
     {
       "album": {
@@ -2384,6 +2402,24 @@
     },
     {
       "album": {
+        "name": "Searching For Wisdom",
+        "url": "https://open.spotify.com/album/0x7CMGw3QJmo9rCviqYCnZ"
+      },
+      "artists": [
+        {
+          "name": "Ensaimada",
+          "url": "https://open.spotify.com/artist/63NtBEePdHXzCQHm09JJYw"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Searching for Wisdom",
+      "url": "https://open.spotify.com/track/4cBsG1TLPilTTMzXaUncPa"
+    },
+    {
+      "album": {
         "name": "Serenity Lake",
         "url": "https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91"
       },
@@ -2767,6 +2803,28 @@
       "duration_ms": 139681,
       "name": "We Are the Stars",
       "url": "https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y"
+    },
+    {
+      "album": {
+        "name": "We Shine",
+        "url": "https://open.spotify.com/album/3WzQWv3d9AdObd7uIHpbxU"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Giorgio",
+          "url": "https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB"
+        },
+        {
+          "name": "Chico Rocket",
+          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "We Shine",
+      "url": "https://open.spotify.com/track/22ydaAhu90qn4JHtOxKZXI"
     },
     {
       "album": {

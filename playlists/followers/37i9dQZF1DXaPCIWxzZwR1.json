@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 1309172,
+  "2024-01-25": 1309152,
   "date_first_scraped": "2021-02-16",
   "description": "next gen pop Cover: Kali Uchis",
   "name": "Pop Sauce",
@@ -32835,6 +32835,28 @@
       "duration_ms": 167373,
       "name": "what's your problem?",
       "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "album": {

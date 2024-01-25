@@ -993,6 +993,36 @@
     },
     {
       "album": {
+        "name": "Fraud Saiyaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Romi",
+          "url": "https://open.spotify.com/artist/6YMAzC42MchYYkPbGulfqx"
+        },
+        {
+          "name": "Arun",
+          "url": "https://open.spotify.com/artist/49jEL4469qocI2PxF9oCxP"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196301,
+      "name": "Chamma Chamma",
+      "url": "https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ"
+    },
+    {
+      "album": {
         "name": "Chandigarh Kare Aashiqui Title Track (From \"Chandigarh Kare Aashiqui\")",
         "url": "https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y"
       },
@@ -1802,7 +1832,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 260552,
       "name": "Dilliwaali Girlfriend",
       "url": "https://open.spotify.com/track/3W1XPf7mvuQcWQB7U7MbTM"
@@ -2624,7 +2654,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
@@ -4418,7 +4448,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 177158,
       "name": "Photo",
       "url": "https://open.spotify.com/track/4LGqTuFzQb97s1tmC5BxiD"

@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 563373,
+  "2024-01-25": 563772,
   "date_first_scraped": "2022-01-17",
   "description": "Dance tracks for a big workout.",
   "name": "Beast Mode Dance",
@@ -2775,7 +2775,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 220887,
       "name": "Explore Your Future",
       "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
@@ -6333,6 +6333,28 @@
       "duration_ms": 130757,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/6X6CUqG6rW8rtGXdzyCOJH"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189087,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
     },
     {
       "album": {

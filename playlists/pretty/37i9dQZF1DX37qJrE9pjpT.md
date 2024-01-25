@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,270 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 25 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 |
 | 26 | [Bondeni Freestyle](https://open.spotify.com/track/1wkRgjYqeFSvfF1wyrlPAk) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [Aiter trey](https://open.spotify.com/artist/0ibxf81fncwFFt8QStuDlP) | [Bondeni Freestyle](https://open.spotify.com/album/3F13mNEa4t3MEZwq3xfwAW) | 2:16 |
 | 27 | [Daddy Issues](https://open.spotify.com/track/2pF3kr4LYju9dBNZz5cnNo) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB) | [Daddy Issues](https://open.spotify.com/album/0mW2ngUVUED2RLX1W0Nq14) | 2:59 |
-| 28 | [Let it burn](https://open.spotify.com/track/60obQuxUCQdPaNEmPEw0Mk) | [TKLA](https://open.spotify.com/artist/6RVLKP28vQb5yC3s2kbmdb) | [Let it burn](https://open.spotify.com/album/2E7xLOgHzFwPRmamiT9cnz) | 2:16 |
+| 28 | [Let It Burn](https://open.spotify.com/track/60obQuxUCQdPaNEmPEw0Mk) | [TKLA](https://open.spotify.com/artist/6RVLKP28vQb5yC3s2kbmdb) | [Let It Burn](https://open.spotify.com/album/2E7xLOgHzFwPRmamiT9cnz) | 2:16 |
 | 29 | [New Material](https://open.spotify.com/track/3839CtDs1ySFB0VtgTw4Ep) | [Chemical](https://open.spotify.com/artist/0I7KLVHA1tXcQTJOrzcCv6) | [New Material](https://open.spotify.com/album/4HWu1KASNwCCp5FtyVotS7) | 3:21 |
 | 30 | [Mama Omollo](https://open.spotify.com/track/6CLdAahXVBGgFVN0lnwN9b) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Mama Omollo](https://open.spotify.com/album/1k0k3zRH1JdnoUUrPTjtKo) | 3:06 |
 | 31 | [Tunashine](https://open.spotify.com/track/3Sbh9hBmH00c1dJ8AKW9cA) | [P\-Funk Majani](https://open.spotify.com/artist/72Fjx7AuHaJN8sei8VFOg9), [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh) | [MAJANI](https://open.spotify.com/album/2Lm2VZwvLelZQvf2xVWQUE) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Juu Chini](https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ) | [Kuzza](https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm) | [Juu Chini](https://open.spotify.com/album/6kX26uPTfzWVE8aYQtq4gh) | 3:04 |
 | 50 | [Mdhambi](https://open.spotify.com/track/2KAaty1XUWrsELJHLDZKOg) | [Dicazzi](https://open.spotify.com/artist/4hWi07h5D1vykcvmWFUZCo) | [Mdhambi](https://open.spotify.com/album/5IsxHtDjpP0t6XEViVu2KE) | 2:45 |
 
-Snapshot ID: `MCxjNWQwYmQzMDVkODFhMTUxZDJmMjZjYmZjNzEyNTE2MmEyNzYxMzZk`
+Snapshot ID: `MCxkZDMwOGJjMDAzYmEwY2ZhMmFkMDM5Njk3MGE0MjM1OTM2MTE1M2Jm`

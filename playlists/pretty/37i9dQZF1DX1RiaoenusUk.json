@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25854,
+  "num_followers": 25861,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2E4MWVjYTc5ZDhjZjFjMjdlNmI3ZDI4YzNkNWM1NjBmZDY0NzU2",
+  "snapshot_id": "MCw0NDljYzRkYjA2MDM4ZDg5ZTNmOTJkZGVhOGRkOTVmY2RlNTc5NDc5",
   "tracks": [
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Kaos & Armon\u00eda",
         "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+        "name": "Hotel Boston",
+        "url": "https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1"
       },
       "artists": [
         {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+          "name": "Funk\u00b4chula",
+          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+      "duration_ms": 194000,
+      "name": "Hotel Boston",
+      "url": "https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1159,22 +1175,6 @@
       "duration_ms": 183651,
       "name": "Afromama Jams",
       "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Hotel Boston",
-        "url": "https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1"
-      },
-      "artists": [
-        {
-          "name": "Funk\u00b4chula",
-          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hotel Boston",
-      "url": "https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k"
     },
     {
       "added_at": "2024-01-12 16:14:58",

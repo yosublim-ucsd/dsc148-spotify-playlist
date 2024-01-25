@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 206014,
+  "2024-01-25": 205952,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Malaysia.",
   "name": "Top 50 - Malaysia",
@@ -6765,7 +6765,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
@@ -15851,7 +15851,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 220933,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/1rUQmXEy41tXwHIKFECNTa"

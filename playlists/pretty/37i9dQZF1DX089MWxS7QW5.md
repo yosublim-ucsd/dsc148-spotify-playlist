@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: H1\-KEY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,450 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,476 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 |
 | 51 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 |
 
-Snapshot ID: `MCw1YWY5ZjI5YTQwOWRmNDQ2ZDY0Njk3NGVhZDFhMjQ5NTdiYTMzMDll`
+Snapshot ID: `MCxjMGEyNDM4ZjhhYTRmMGU3MDcwZjI1MDJlMTc0NDhlYjU1ZjE2YmU1`

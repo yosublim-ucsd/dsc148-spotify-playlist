@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-437 songs - 1 day 16 hr 9 min
+438 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Answer Me \- Live from Budapest](https://open.spotify.com/track/58eWz82VjBZLNwL6u4li7F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Answer Me \(Live from Budapest\)](https://open.spotify.com/album/3C9m7THKeXyUkICSDItxOb) | 4:29 | 2020-05-14 | 2023-02-23 |
 | [Après Un Rêve](https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Après Un Rêve](https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql) | 4:28 | 2023-11-10 |  |
 | [Arm in Arm](https://open.spotify.com/track/5r16Jl53ZXzkOeMdBD9bF8) | [Nicolò Ricci](https://open.spotify.com/artist/2wXeYafaS8xCBLhtE4YhJ2) | [Arm in Arm](https://open.spotify.com/album/49Z9I1f38CayyMlcClA3Hc) | 8:43 | 2022-04-07 | 2022-10-05 |
+| [As It Were](https://open.spotify.com/track/0FHn2vcDngtc4qmVLwKbNx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [76](https://open.spotify.com/album/0XPAgAYpLScInEGM92pWj2) | 5:07 | 2024-01-19 |  |
 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 | 2023-08-03 | 2023-12-10 |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-10 | 2022-07-29 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-08-20 | 2022-06-01 |
@@ -257,7 +258,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 | 2023-10-13 | 2023-11-19 |
 | [Night Walk](https://open.spotify.com/track/7d9ND9ohwsKUB40Ce9ThFp) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 6:16 | 2022-04-14 | 2023-02-23 |
 | [No Cure](https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [No Cure](https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi) | 4:23 | 2023-03-14 |  |
-| [Nocturnal](https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 5:26 | 2023-08-03 |  |
+| [Nocturnal](https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 5:26 | 2023-08-03 | 2024-01-25 |
 | [Nocturno](https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:27 | 2020-09-12 |  |
 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 | 2023-08-03 | 2024-01-13 |
 | [Of Our Children](https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 6:00 | 2023-12-06 |  |

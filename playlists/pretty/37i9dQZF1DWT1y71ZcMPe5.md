@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: IVE, Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,315,236 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,698 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 50 | [The Day After You Said Goodbye](https://open.spotify.com/track/0037eQ5YPvX3aHBrLGVmB9) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [The Day After You Said Goodbye](https://open.spotify.com/album/5TP1Cq3t085WiwLzGg5o3l) | 3:37 |
 
-Snapshot ID: `MCw4YjE2ZWVhMDVlOWZkNGU1NGE3YzIzM2ZiYWFlMWE5ZDlhOWU2YzYx`
+Snapshot ID: `MCw1YjdhNWRkZGIzNTI5MjIxZDAyMWIxYTllNWQ3ZTcwMGViMzllNjZi`

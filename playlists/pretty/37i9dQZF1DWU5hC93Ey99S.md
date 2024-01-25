@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,785 likes - 146 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,879 likes - 146 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 62 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
 | 63 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 |
 | 64 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 |
-| 65 | [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 |
+| 65 | [Say Something](https://open.spotify.com/track/5kevKlMizn34WXt6t4MgHz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/4JSwVhJw8ssKvNRw45vhb2) | 3:20 |
 | 66 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 |
 | 67 | [Astray \- CRi Remix](https://open.spotify.com/track/1kHodAntPiM2UpEhC1rJMy) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray \(CRi Remix\)](https://open.spotify.com/album/7yWguavg78nSjTkuEQsJJZ) | 4:12 |
 | 68 | [Sign Of The Times](https://open.spotify.com/track/2ARN7wBXxusGxT1plo4X6O) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Fylo](https://open.spotify.com/artist/5pXpBRwYE8x1Gy8PnBqyG7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Sign Of The Times](https://open.spotify.com/album/5mbMwlniFCiNRDDV43dKok) | 3:22 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 114 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 115 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 |
 | 116 | [Never Giving Up \(Moss Remix\)](https://open.spotify.com/track/5yzqYrzYJncpweGfxNYZSV) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6) | [Never Giving Up](https://open.spotify.com/album/2O9Vnp4n6Ltg4rV8euCKiJ) | 4:20 |
-| 117 | [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 |
+| 117 | [The Way It Goes](https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/1kQlSA0X2r5RRa4WPTGjdw) | 3:04 |
 | 118 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
 | 119 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
 | 120 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 145 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
 | 146 | [Part Of Me](https://open.spotify.com/track/2RoSWh7aLeK5XA1iDKuv1s) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Part Of Me](https://open.spotify.com/album/1zDzf9fXQ9SVxxsmgoyYQx) | 2:23 |
 
-Snapshot ID: `MCwyZmM0OTU0ZDc4YzJiY2UyNjkwMzM3MDExOGU3YTllMjI2ZmEyNTJi`
+Snapshot ID: `MCw5OGE2ODNmMjYxNGI2OGI5NzkzNmQ4ZmUyMjM2Nzk3ZDFjODNmZDI5`

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56913,
+  "num_followers": 56920,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc1NDgyYmI3NTkwYzk5MzEyNGZmNWYzMDI0ZDQ2ZmM2ZjU0ZDRi",
+  "snapshot_id": "MCxlYWRlOWUyZDQxNjVlNDVhYmIxZTU1ZTRkZGQ0OGQ3MWUxNmRjYWEy",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -155,6 +155,30 @@
       "duration_ms": 172020,
       "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
       "url": "https://open.spotify.com/track/09FHQjJvTHGz0xwN3dLuBW"
+    },
+    {
+      "added_at": "2024-01-24 12:32:34",
+      "album": {
+        "name": "ANIMAL (KANNADA) (Deluxe Edition Album)",
+        "url": "https://open.spotify.com/album/6zQA08X1a9toojBTQExtP7"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 113386,
+      "name": "Nooraru (Soul Version)",
+      "url": "https://open.spotify.com/track/58ORbd6adFpA1nhnCLiD4M"
     },
     {
       "added_at": "2024-01-22 08:42:35",
@@ -675,26 +699,30 @@
     {
       "added_at": "2024-01-03 06:57:22",
       "album": {
-        "name": "Ghora Hara (From \"Captain Miller\")",
-        "url": "https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH"
+        "name": "Eerappanu (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/1BG9etsyWsihGFnVQijeLY"
       },
       "artists": [
         {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
         },
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Rakendu Mouli",
-          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+          "name": "Pramod Jois",
+          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
         }
       ],
       "duration_ms": 201777,
-      "name": "Ghora Hara (From \"Captain Miller\")",
-      "url": "https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe"
+      "name": "Eerappanu (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF"
     },
     {
       "added_at": "2023-12-21 09:15:43",
@@ -1655,26 +1683,6 @@
       "duration_ms": 142040,
       "name": "Eradu Gundege Katttaaalu",
       "url": "https://open.spotify.com/track/14JoAupAAEqIZ5AkyOUqNa"
-    },
-    {
-      "added_at": "2023-11-09 11:54:06",
-      "album": {
-        "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
-        "url": "https://open.spotify.com/album/5spE3B5XdFMzx8Q42GJCAm"
-      },
-      "artists": [
-        {
-          "name": "Madhuri Seshadri",
-          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
-        },
-        {
-          "name": "Midhun Mukundan",
-          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
-        }
-      ],
-      "duration_ms": 277635,
-      "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
-      "url": "https://open.spotify.com/track/2YUeI6etyJniTFjGFplqvd"
     },
     {
       "added_at": "2023-11-20 12:20:45",

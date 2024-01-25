@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 333768,
+  "num_followers": 334017,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzFmNzlkZGMxMWE1NGZlY2NmMWNhNjUwZjkyMTQyMzM1ZTNjMDYw",
+  "snapshot_id": "MCxmYmIwMWExYjE4NWU0Nzg5YzUzZDdiODEyZjEwMjRhODVlOGFmZWUw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Plastic Dreams",
-        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
-      },
-      "artists": [
-        {
-          "name": "Jaydee",
-          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "Plastic Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 194760,
       "name": "Chime - Edit",
       "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
+      },
+      "artists": [
+        {
+          "name": "Jaydee",
+          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "Plastic Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Best Of Crystal Waters",
-        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Silentintroduction",
         "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 485306,
       "name": "I Can't Kick This Feeling When It Hits",
       "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The Best Of Crystal Waters",
+        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
     },
     {
       "added_at": "2023-08-18 04:00:00",

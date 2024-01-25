@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Adrian L Santos, Joaquin Medina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,126 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,703 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [La Verdad](https://open.spotify.com/track/7onIiU1mi9YDbFzMsErUgw) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Mi Cautela](https://open.spotify.com/album/7i9Wby2FKiRw4RFz2WuF7I) | 4:02 |
 | 50 | [Tú Goza](https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [RefleXión](https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS) | 3:42 |
 
-Snapshot ID: `MCwzNWRhZTdmYTZhZTI1YmFiYTQyNWVmMTE0OTU1MzNkMzMzOTlhZjMz`
+Snapshot ID: `MCxhZjFiMTVlOWVkM2FjOWM2YTMzYWI0MTljODE5OThhNGE5NzAxOWQz`

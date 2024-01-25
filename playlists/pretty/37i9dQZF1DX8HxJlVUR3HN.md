@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Lysistrata
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,014 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,012 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Hurricanes](https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Hurricanes](https://open.spotify.com/album/3coIK4BNVCgOLy9kAPGumC) | 3:14 |
 | 50 | [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 |
 
-Snapshot ID: `MCxhNTgwOGFlY2E0NmNiYjI0ZjAxMDlhNDA2ZjcwNTQ0ODUyMmQ4Njlk`
+Snapshot ID: `MCxlZDM3ZmFhNTk5NDBkMjc3ZTFhZWU3M2ZjNjExZGUwZmYwMDI4ZjZm`

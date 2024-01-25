@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,058 likes - 176 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,081 likes - 176 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 68 | [Looking For Love \- Duskus Remix](https://open.spotify.com/track/1P4M5cERVSYoANyIbrjjqH) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Looking For Love \(Duskus Remix\)](https://open.spotify.com/album/7FXaI1qZ7Vtb13FnaqLO41) | 3:32 |
 | 69 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 | 70 | [The Power](https://open.spotify.com/track/696bVHNFOCocjXvAw61qvw) | [The Phantom's Revenge](https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe) | [Happiness Therapy 20: The Power](https://open.spotify.com/album/42I6I0sQtx5N9mbpGB08lo) | 6:14 |
-| 71 | [Ring The Alarm](https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA) | 3:04 |
+| 71 | [Ring The Alarm](https://open.spotify.com/track/63V2abEhvWhzWqQRbjhJ4G) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/54Yfq2YgjnsG472Z6Av61O) | 3:04 |
 | 72 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
 | 73 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 74 | [Talk On The Phone](https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 127 | [With U](https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [With U](https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU) | 4:24 |
 | 128 | [When I'm With You feat\. Jasper Tygner](https://open.spotify.com/track/5Pw4s0mZgN1gzBrme5kdsB) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 6:22 |
 | 129 | [Replay \- 1tbsp Remix](https://open.spotify.com/track/2uYvyxBmdtH3CtsNWfmRcx) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Replay \(1tbsp Remix\)](https://open.spotify.com/album/5jlhymdS1En6TztXpmG7jt) | 3:24 |
-| 130 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
+| 130 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 |
 | 131 | [away we go](https://open.spotify.com/track/1okoQz8zSkpsiItIWZXZpc) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [runaway](https://open.spotify.com/album/4nfEIcsk07kD6emNPSTWhH) | 3:16 |
 | 132 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 | 133 | [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 175 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 176 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCxiYTk5OTEzODJiMmEwNTA0ZGYxMWFmZjYwYjc5MzFmNzU2Mzg5YzYw`
+Snapshot ID: `MCwxMmEzYWZiOGVkZWJlMmY5OTdjZTMwYjYzYWE1ZDFlMWRjZWZkZjFl`

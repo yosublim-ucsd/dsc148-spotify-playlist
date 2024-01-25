@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Maureen x Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,266 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,331 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 38 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 |
 | 39 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 |
 
-Snapshot ID: `MCw3ZTNlZmZkZWE2OGU1MzFlY2Y1MzEyMTlkNTg4ZGI2MzhmNTY0ZTFi`
+Snapshot ID: `MCw1N2FjMmJiNGYzNTdjNzQxOGNlNmUxODBlNDU3ZGU4NzFjYjc2NDU5`

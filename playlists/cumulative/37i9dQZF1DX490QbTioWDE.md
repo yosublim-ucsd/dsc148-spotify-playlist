@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno  & Migrantes.
 
-383 songs - 1 day 0 hr 26 min
+384 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/track/0b3ecgOYbtZpuxM45S7PVf) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Sergio Torres](https://open.spotify.com/artist/20RFfhUr4ywekB37FCjaqW) | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh) | 5:03 | 2022-08-12 | 2022-09-10 |
 | [Adicto A Ti](https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:06 | 2021-12-24 | 2023-05-07 |
 | [Adios / El Frio de Tu Adios / Tu No Sospechas / Con Cada Beso / Venganza Leta](https://open.spotify.com/track/6xb6YQgMFFCproC0rjWU3N) | [Banda Express](https://open.spotify.com/artist/7tqwTqZQXmwtlvj4WdsGUe) | [Letal / Pasión de Bailarines](https://open.spotify.com/album/2YzlZeKSDrm7IIalP3zbpD) | 7:57 | 2021-12-24 | 2022-07-16 |
-| [Adiós, Me Voy](https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Adiós, Me Voy](https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq) | 3:57 | 2023-09-29 |  |
+| [Adiós, Me Voy](https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Adiós, Me Voy](https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq) | 3:57 | 2023-09-29 | 2024-01-25 |
 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 | 2023-08-25 |  |
 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 |  |
 | [Ahora mírame](https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:34 | 2023-09-15 |  |
@@ -353,6 +353,7 @@
 | [Tu Amor Me Duele / No Me Enseñaste](https://open.spotify.com/track/208zS5Knk6wFNxUiS5x2B7) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Gaston Fernandez](https://open.spotify.com/artist/6seOsZm5363Dh8LM0anuvG) | [Tu Amor Me Duele / No Me Enseñaste](https://open.spotify.com/album/4W7bpvQsWp76QyiqCiOLBe) | 4:44 | 2022-03-18 | 2022-07-06 |
 | [Tu Cárcel](https://open.spotify.com/track/0CJBpoz2Jno5oQA4MYnE3G) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Tu Cárcel](https://open.spotify.com/album/6GtW9B15gqXainTxPoNfLX) | 3:00 | 2022-11-04 | 2022-11-12 |
 | [Tu Dueño / Dueña de Mi \- En Vivo](https://open.spotify.com/track/48DtHWtaW9A9cGZhOm4r1i) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Dueño / Dueña de Mi \(En Vivo\)](https://open.spotify.com/album/0RoMJ4TaytcrBB59BAgM1P) | 4:49 | 2022-05-13 | 2022-05-21 |
+| [Tu Fan \- En Vivo](https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Tu Fan \(En Vivo\)](https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q) | 4:08 | 2024-01-05 |  |
 | [Tu Karma](https://open.spotify.com/track/6t7GoWo3XfYZxDqiOfqtPk) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Tu Karma](https://open.spotify.com/album/3psyJOjV7Gzsh4qejhN6Kv) | 3:52 | 2022-01-14 | 2022-07-24 |
 | [Tu maldito amor](https://open.spotify.com/track/1AtIb5oZBXHLKzyoM6POtc) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:27 | 2022-01-07 | 2022-07-14 |
 | [Tu Nombre](https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Tu Nombre](https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj) | 3:24 | 2022-04-15 | 2022-08-13 |

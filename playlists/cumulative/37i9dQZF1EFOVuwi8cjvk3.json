@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 250541,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3rb2RMzmaK8VtWjhDhOLQb"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 297386,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/7Kq32bm2y1CWictMb4hxwO"
@@ -2396,6 +2396,24 @@
     {
       "album": {
         "name": "The Sailor",
+        "url": "https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270130,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/0iUxQW0LRXKHcnur6CGu2c"
+    },
+    {
+      "album": {
+        "name": "The Sailor",
         "url": "https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d"
       },
       "artists": [
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 270130,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5zXK1z8U96zU3tZlFFXYdH"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 226973,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ"
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 241237,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/5LNnf6yjzk8bpvYD1LMTvh"
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 208708,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6HWhCZfP4JJiDWFVRjA4Sc"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 209722,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 240160,
       "name": "Rich $ex",
       "url": "https://open.spotify.com/track/2onCHFrhTinyUc6OawwU4Z"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 240213,
       "name": "Rich $ex",
       "url": "https://open.spotify.com/track/4nH4FtQLLUONaSB1ph7Ubn"
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 181503,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/67gc9yohVEYiLHiZdwZMVQ"
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 231963,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG"
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
@@ -4676,7 +4694,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 208021,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/4Y3ofI0Ga1jRM7DRyiwrbv"

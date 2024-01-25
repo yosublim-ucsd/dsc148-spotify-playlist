@@ -1,15 +1,79 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Yam\u00ea",
-  "num_followers": 104150,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Yvnnis",
+  "num_followers": 104151,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yzg3ZWE3MDVlMmQwMjBiYjYzMWJmMmIyM2RjNmU4ZmM0MTEzMTQ0",
+  "snapshot_id": "MCxjNjgyY2ZhYjU5MDg5ZGJkODM4MWVhZmU1ZGFkYjY1NDlkYjI2Mjk2",
   "tracks": [
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
+    },
+    {
+      "added_at": "2024-01-24 11:05:19",
+      "album": {
+        "name": "RECHERCHE&DESTRUCTION",
+        "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
+      },
+      "artists": [
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "12HEURES MINUIT",
+      "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
+    },
+    {
+      "added_at": "2024-01-24 11:05:19",
+      "album": {
+        "name": "premiers chocs",
+        "url": "https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 149480,
+      "name": "j'en ai marre",
+      "url": "https://open.spotify.com/track/4jmLCAQXdVuQmtODq9mMEA"
+    },
+    {
+      "added_at": "2024-01-24 11:05:19",
+      "album": {
+        "name": "L'AFRO OU LES TRESSES",
+        "url": "https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP"
+      },
+      "artists": [
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        }
+      ],
+      "duration_ms": 191637,
+      "name": "GARE DU NORD",
+      "url": "https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF"
+    },
+    {
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "ELOWI",
         "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
@@ -25,7 +89,7 @@
       "url": "https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "J'aimerais danser avec toi",
         "url": "https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO"
@@ -41,7 +105,7 @@
       "url": "https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -57,7 +121,7 @@
       "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "I Don't Remember",
         "url": "https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF"
@@ -89,7 +153,7 @@
       "url": "https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "SUN7",
         "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/0deOyyvJxyvTTJudDyIFqp"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Tell Me Who",
         "url": "https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Les visages et les odeurs",
         "url": "https://open.spotify.com/album/5Jm4aY0hAgdP67HoSUSZwc"
@@ -141,7 +205,7 @@
       "url": "https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Allo docteur",
         "url": "https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk"
@@ -157,7 +221,7 @@
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "L'angle mort",
         "url": "https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28"
@@ -173,7 +237,7 @@
       "url": "https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "GAR\u00c7ON",
         "url": "https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/60K93iDbax8CD5jwOtNegB"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "2006 (Opps qui court)",
         "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
@@ -253,7 +317,7 @@
       "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "G\u00e9n\u00e9ration",
         "url": "https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh"
@@ -269,7 +333,7 @@
       "url": "https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Ma Terre",
         "url": "https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN"
@@ -285,7 +349,7 @@
       "url": "https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Celui qui part",
         "url": "https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Ce qu'il restera de nous (et plus encore)",
         "url": "https://open.spotify.com/album/2I2dnvenAEBqTghHc50ebK"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/4PxGGYSyrpoL7meWZJuZnG"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Nature morte",
         "url": "https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "La grande d\u00e9sillusion",
         "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Je t'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Pour la vie enti\u00e8re",
         "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
@@ -381,10 +445,10 @@
       "url": "https://open.spotify.com/track/3Gp36IydZoAw6p1Lb9HvIS"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
-        "name": "Au bord de la mer",
-        "url": "https://open.spotify.com/album/3xXbebkT7vbwrGeJ6Ovv8c"
+        "name": "MNE",
+        "url": "https://open.spotify.com/album/7ehcqR3D3rLDDKiv2LSqu5"
       },
       "artists": [
         {
@@ -392,12 +456,12 @@
           "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Au bord de la mer",
-      "url": "https://open.spotify.com/track/1bXAnc9CO7JcMlSLuiBN4U"
+      "duration_ms": 172613,
+      "name": "Mets ta veste y va pleuvoir",
+      "url": "https://open.spotify.com/track/1otp7EwLpgTmEmTlMwouKB"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Scoot",
         "url": "https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7"
@@ -413,7 +477,7 @@
       "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "era 24",
         "url": "https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL"
@@ -445,7 +509,7 @@
       "url": "https://open.spotify.com/track/2lsYd6ZDRrV2W3CT4FcXaC"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "That Boom",
         "url": "https://open.spotify.com/album/5X421PzjGCYXBGAizNaXNK"
@@ -461,7 +525,7 @@
       "url": "https://open.spotify.com/track/2x5jjXueCFiPtL4POBTxUL"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "novembre",
         "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
@@ -477,7 +541,7 @@
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/4GUN6kkkCz42FuoVubGjMq"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Cendrier",
         "url": "https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "AERON SIT",
         "url": "https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Enfant roi",
         "url": "https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Jour avant caviar",
         "url": "https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Photographie",
         "url": "https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/50buPmiBu8HJrykNSPKofs"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/1sRQzflFI4OooCN1dQK9NG"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Int\u00e9rieur Vie",
         "url": "https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/1jOCvDllWTUbLUQP2aQhIz"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Par Fiert\u00e9",
         "url": "https://open.spotify.com/album/3joknrlbS386Npao4I4p49"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "La fin de la nuit",
         "url": "https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2"
     },
     {
-      "added_at": "2024-01-18 15:52:06",
+      "added_at": "2024-01-24 11:05:19",
       "album": {
         "name": "Immoral & Ill\u00e9gal",
         "url": "https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU"

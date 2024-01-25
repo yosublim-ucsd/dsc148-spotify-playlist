@@ -1,7 +1,7 @@
 {
-  "2024-01-24": 107874,
+  "2024-01-25": 108155,
   "date_first_scraped": "2022-03-28",
-  "description": "Montr\u00e9al\u2019s music scene, front and centre. Cover: Born At Midnite",
+  "description": "Montr\u00e9al\u2019s music scene, front and centre. Cover: Jane Penny",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 186000,
       "name": "en plein vol",
       "url": "https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4"
@@ -4446,6 +4446,24 @@
     },
     {
       "album": {
+        "name": "Messages",
+        "url": "https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2"
+      },
+      "artists": [
+        {
+          "name": "Jane Penny",
+          "url": "https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "Messages",
+      "url": "https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2"
+    },
+    {
+      "album": {
         "name": "Mieux que rien",
         "url": "https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L"
       },
@@ -4591,6 +4609,24 @@
       "duration_ms": 246818,
       "name": "Mort de rire",
       "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
+    },
+    {
+      "album": {
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
     },
     {
       "album": {
@@ -5475,7 +5511,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 241013,
       "name": "Picture in Picture",
       "url": "https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ"

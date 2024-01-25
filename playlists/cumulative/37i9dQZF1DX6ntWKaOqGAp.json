@@ -384,7 +384,7 @@
     {
       "album": {
         "name": "dip",
-        "url": "https://open.spotify.com/album/36m3kPgFPgpEmqf238i0bA"
+        "url": "https://open.spotify.com/album/0UWQZnG0mXuklojsP7DYGr"
       },
       "artists": [
         {
@@ -395,6 +395,24 @@
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151199,
+      "name": "ABRAKADABRA",
+      "url": "https://open.spotify.com/track/1QGPGnYDQhjC1sjfcxefUz"
+    },
+    {
+      "album": {
+        "name": "dip",
+        "url": "https://open.spotify.com/album/36m3kPgFPgpEmqf238i0bA"
+      },
+      "artists": [
+        {
+          "name": "Yoru no Honki Dance",
+          "url": "https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-25",
       "duration_ms": 151199,
       "name": "ABRAKADABRA",
       "url": "https://open.spotify.com/track/6b2cdEGBda0otzE6ayMqJv"
@@ -5658,6 +5676,24 @@
       "duration_ms": 243666,
       "name": "Kohaku",
       "url": "https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o"
+    },
+    {
+      "album": {
+        "name": "Koiwamoumoku",
+        "url": "https://open.spotify.com/album/14Ef8OVGMVRFNsBdeCmRxi"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Koiwamoumoku",
+      "url": "https://open.spotify.com/track/01cPDnLoiWyCl0Sj9G5xjd"
     },
     {
       "album": {
@@ -19252,7 +19288,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 209040,
       "name": "\u604b\u306f\u76f2\u76ee",
       "url": "https://open.spotify.com/track/7mFz5BQBeBS17IkoqryOOk"

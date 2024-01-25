@@ -4,7 +4,7 @@
 
 > Querencia is here !
 
-127 songs - 6 hr 54 min
+129 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Crazy Like You \(feat\. BIBI\)](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:55 | 2022-07-11 |  |
 | [Demente \(feat\. Guaynaa\)](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:43 | 2021-11-29 | 2024-01-24 |
 | [Demente \(feat\. Guaynaa\)](https://open.spotify.com/track/1flevwUylgHPrFtLFQbukx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:43 | 2022-10-22 |  |
-| [Demente \- Spanish Version](https://open.spotify.com/track/4pBsmktr55rBxprHFXIFy8) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Demente \(Spanish Version\)](https://open.spotify.com/album/46Veo9EtvuDO0UaNJN14Dv) | 2:43 | 2022-07-11 |  |
+| [Demente \- Spanish Version](https://open.spotify.com/track/4pBsmktr55rBxprHFXIFy8) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Demente \(Spanish Version\)](https://open.spotify.com/album/46Veo9EtvuDO0UaNJN14Dv) | 2:43 | 2022-07-11 | 2024-01-25 |
+| [Demente \- Spanish Version](https://open.spotify.com/track/7wgao0AjGbboSweUKzDuhz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Demente \(Spanish Version\)](https://open.spotify.com/album/34UtTP3m1ZsRsdKzonTZEZ) | 2:43 | 2022-10-22 |  |
 | [Do It](https://open.spotify.com/track/2tl26PSgyCVBLRimkQzmyD) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z) | 3:33 | 2021-11-29 | 2022-07-29 |
 | [Do It](https://open.spotify.com/track/5CBL6eFkYZEr5MshEN3MmL) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:33 | 2022-07-11 |  |
 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2022-07-11 | 2024-01-24 |
@@ -57,7 +58,8 @@
 | [FAST](https://open.spotify.com/track/5qz2JLETV6S7nWakMB37ki) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [FAST](https://open.spotify.com/album/1tnhaRf0aRqIrmdyCPPIYc) | 3:04 | 2021-11-29 |  |
 | [Flourishing](https://open.spotify.com/track/3ZBcChaDht7PCXsBzdVnBB) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:15 | 2021-11-29 | 2022-07-29 |
 | [Flourishing](https://open.spotify.com/track/5kbYgt4pAhKsmoQJGCj33x) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:15 | 2022-07-11 |  |
-| [Flying on Faith](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:06 | 2021-11-29 |  |
+| [Flying on Faith](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:06 | 2021-11-29 | 2024-01-25 |
+| [Flying on Faith](https://open.spotify.com/track/6GTN8y0pvTJpFaNzSy469N) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:06 | 2022-10-22 |  |
 | [From Now On](https://open.spotify.com/track/2mBSRrNtebhFsOeH2uXMKc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:29 | 2021-11-29 | 2022-07-29 |
 | [From Now On](https://open.spotify.com/track/3gNKQYq9kdTBWoqlGuDb6e) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:29 | 2022-07-11 |  |
 | [Good Night My Princess](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:52 | 2022-07-11 |  |

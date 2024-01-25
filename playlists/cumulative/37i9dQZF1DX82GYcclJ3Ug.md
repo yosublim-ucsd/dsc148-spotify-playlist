@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: EKKSTACY & The Kid LAROI
 
-1,579 songs - 3 day 12 hr 37 min
+1,580 songs - 3 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,7 +1066,8 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-27 | 2024-01-13 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-26 | 2023-08-05 |
 | [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 | 2023-04-28 | 2023-06-03 |
-| [Psychic Dance Routine](https://open.spotify.com/track/6zyr6nGB4mRu1uNywgjpke) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/7LaHk6zopmPwCD3N2ZVOY6) | 2:49 | 2023-11-10 |  |
+| [Psychic Dance Routine](https://open.spotify.com/track/2m4gRuVMkQGhNaL3gHXr59) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/2Az7jLElhhblOqnLvTluFk) | 2:49 | 2024-01-19 |  |
+| [Psychic Dance Routine](https://open.spotify.com/track/6zyr6nGB4mRu1uNywgjpke) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/7LaHk6zopmPwCD3N2ZVOY6) | 2:49 | 2023-11-10 | 2024-01-25 |
 | [psycho drama](https://open.spotify.com/track/2HkK2rzX0mmVZyaaBKlmBK) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [psycho drama](https://open.spotify.com/album/0xI70suMf8WQ5zL1Eo9e2m) | 2:24 | 2023-07-28 | 2023-09-30 |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2023-06-09 | 2023-08-26 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2022-11-05 |

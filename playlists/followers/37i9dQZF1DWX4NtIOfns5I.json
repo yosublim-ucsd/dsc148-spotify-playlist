@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 87447,
+  "2024-01-25": 87686,
   "date_first_scraped": "2023-10-07",
   "description": "where folk flowers bloom \ud83e\udebb cover: Michael Marcagi <3",
   "name": "juniper",
@@ -1551,6 +1551,24 @@
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+    },
+    {
+      "album": {
+        "name": "Lonely Island",
+        "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "Lonely Island",
+      "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
     },
     {
       "album": {

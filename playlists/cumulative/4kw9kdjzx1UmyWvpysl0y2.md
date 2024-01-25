@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-642 songs - 1 day 13 hr 13 min
+643 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-08 | 2023-06-01 |
 | [Ricochet](https://open.spotify.com/track/25izyWirNjcy6QQSjKP8G1) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Blvk Sheep](https://open.spotify.com/artist/1iFDlldazsxhcE1uKnIsXr), [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Ricochet](https://open.spotify.com/album/79FMrbPy2c7zRzadyNV9aa) | 4:19 | 2023-09-25 | 2024-01-11 |
 | [Riders in the Sky](https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Riders in the Sky](https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU) | 4:42 | 2023-03-27 | 2023-06-20 |
+| [Right Here, Right Now](https://open.spotify.com/track/6UAGp1Hg9VOqB8QU8salOK) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Right Here, Right Now](https://open.spotify.com/album/1pDqi26bklxKCIDRY9VHqc) | 4:03 | 2024-01-24 |  |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |
 | [Riot](https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 2:45 | 2023-03-17 | 2023-06-13 |
 | [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-23 | 2023-12-14 |

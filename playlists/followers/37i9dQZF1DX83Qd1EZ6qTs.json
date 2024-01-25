@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 6129,
+  "2024-01-25": 6139,
   "date_first_scraped": "2023-07-08",
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
   "name": "ECHO : Tabla Rhythms",
@@ -153,7 +153,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 479217,
       "name": "Cloud Nine",
       "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 771373,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"

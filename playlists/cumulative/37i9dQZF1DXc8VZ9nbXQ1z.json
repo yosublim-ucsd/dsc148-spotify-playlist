@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "Fulufhelo",
+        "url": "https://open.spotify.com/album/0G1pocVQXTI6PfLHst9Sbi"
+      },
+      "artists": [
+        {
+          "name": "Vuscare",
+          "url": "https://open.spotify.com/artist/7C1LihDHAPTUCMmUELa0os"
+        },
+        {
+          "name": "Tangi",
+          "url": "https://open.spotify.com/artist/3XOmUD6KOc81Gt1jC6SqT9"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Fulufhelo",
+      "url": "https://open.spotify.com/track/5m21eKVdcgzZloWfRnG0H5"
+    },
+    {
+      "album": {
         "name": "Gcwanini (Andhim Remix)",
         "url": "https://open.spotify.com/album/5wR7MRBRPnlk6PhZGSWJmn"
       },

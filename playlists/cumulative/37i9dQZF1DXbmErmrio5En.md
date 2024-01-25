@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-373 songs - 16 hr 32 min
+374 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [cut my wings](https://open.spotify.com/track/6cb6WTVLv0g2boJDbIpRsP) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [cut my wings](https://open.spotify.com/album/2kVb6PUQ9WbFhk8Bsug5QS) | 3:30 | 2023-08-04 | 2023-09-22 |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-12-04 | 2023-02-18 |
 | [cybercrush222](https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [cybercrush222](https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa) | 1:59 | 2023-06-23 |  |
-| [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 | 2023-11-03 |  |
+| [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 | 2023-11-03 | 2024-01-25 |
+| [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 | 2023-11-03 |  |
 | [dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [dark out](https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7) | 2:25 | 2023-06-09 | 2023-11-18 |
 | [darkage](https://open.spotify.com/track/41X82nKKeqaVgmqkfuTsX2) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [deer in the headlights](https://open.spotify.com/album/30L8wq1IvrXywhSLDIaHCX) | 3:17 | 2023-11-17 |  |
 | [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-14 | 2023-07-15 |

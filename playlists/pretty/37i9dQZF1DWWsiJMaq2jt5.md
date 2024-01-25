@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3JIRLDbCJ55I5nevDYiasK">Anita Lipnicka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,932 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,960 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Powoli](https://open.spotify.com/track/36XOOAEflEdRHoLi9tFDvC) | [Weronika Borowiec](https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx), [AronBeats](https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ) | [Powoli](https://open.spotify.com/album/0nV6Ff7t7YoIgQLi0rcSEm) | 3:15 |
 | 60 | [do końca](https://open.spotify.com/track/3RtlJV1xq0H0MqzWH6M4tm) | [sumi e.](https://open.spotify.com/artist/3hUSCDMKVJ0Cd8KqXF5Gsi) | [do końca](https://open.spotify.com/album/6RWlEIBGJZfjL8gpynheGE) | 2:46 |
 
-Snapshot ID: `MCw2MzlhNjQ5MzY4MjNjMDI3ZmM4OTQwM2MyZjZiYThmNmU3MjM5ODgy`
+Snapshot ID: `MCxlOTBhNGM5YjAzZjhlZmFmMjc1YjNlMTEyNTBlMTU2ZWFlZWFmMjcz`

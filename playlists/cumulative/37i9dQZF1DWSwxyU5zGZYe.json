@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 251076,
       "name": "Buniyaad 2.0",
       "url": "https://open.spotify.com/track/45vZrnB268uU9nYHIpk2Wf"
@@ -2352,6 +2352,28 @@
       "duration_ms": 215611,
       "name": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
       "url": "https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD"
+    },
+    {
+      "album": {
+        "name": "ANIMAL (Deluxe Edition Album)",
+        "url": "https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194261,
+      "name": "Satranga (Stripped)",
+      "url": "https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj"
     },
     {
       "album": {

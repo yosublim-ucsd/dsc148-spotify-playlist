@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,265 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,387 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 86 | [Hanged by My Hand](https://open.spotify.com/track/1Aa6LobMaLKCRi2B1eJEeb) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 3:13 |
 | 87 | [Concordat \(The Pact\) I](https://open.spotify.com/track/24BYrNvSfUpsXxr5HHk744) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Unholy Deification](https://open.spotify.com/album/5SHd2KcCSIvUHcqCLeu60o) | 4:39 |
 | 88 | [Faking It](https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:28 |
-| 89 | [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 |
+| 89 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/6pvMie3cCYqDJ7b8mS2XyT) | 1:18 |
 | 90 | [Living Proof](https://open.spotify.com/track/5EiE9ElrC8UNnyuEOIpPeV) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 3:22 |
 | 91 | [Attainable](https://open.spotify.com/track/2RMWx21y9xyUZ8naxDae2w) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Only Constant](https://open.spotify.com/album/3khEZvQmpSLplYYIlmK8ti) | 1:43 |
 | 92 | [Ctrl+C](https://open.spotify.com/track/1jTxqpySVTE0xT4r4DKC7O) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Harvest](https://open.spotify.com/track/50oQWJ18RA54OEftbo7Ss2) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:50 |
 | 100 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 
-Snapshot ID: `MCw4YzVjZGI2OGNhMjRmYTkxNWIxZWIxNmVhODgxMzc3NDUzN2VhNzcx`
+Snapshot ID: `MCw4MGQyYzg2MWUzMmY3Yjc1YWE0ODk2Y2Y3NWQ2N2VmZjIwNmUwYTg2`

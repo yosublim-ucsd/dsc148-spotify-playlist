@@ -1,12 +1,12 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10614,
+  "num_followers": 10616,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY2MSwxMTEzMjExYjZkZDE5YzEzNTIwOTNkNjhmYzRjYjJkZDg2MWI0OGJm",
+  "snapshot_id": "MjY2MyxlODg5NzI3YjEzY2I0OTI2NzUxOTBhODRiZDNkOWM2YzZhZmI0Njdk",
   "tracks": [
     {
       "added_at": "2024-01-19 17:36:22",
@@ -43,6 +43,42 @@
     {
       "added_at": "2024-01-19 17:36:22",
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-01-19 17:36:22",
+      "album": {
+        "name": "Mean Girls",
+        "url": "https://open.spotify.com/album/5pyO5W1ssC5hhgtyGuYkwC"
+      },
+      "artists": [
+        {
+          "name": "Glowe",
+          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
+        }
+      ],
+      "duration_ms": 167803,
+      "name": "Mean Girls",
+      "url": "https://open.spotify.com/track/7f4DG9vrgpSgOLWpc7yipo"
+    },
+    {
+      "added_at": "2024-01-19 17:36:22",
+      "album": {
         "name": "Rave Angel",
         "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
       },
@@ -75,22 +111,6 @@
     {
       "added_at": "2024-01-19 17:36:22",
       "album": {
-        "name": "Mean Girls",
-        "url": "https://open.spotify.com/album/5pyO5W1ssC5hhgtyGuYkwC"
-      },
-      "artists": [
-        {
-          "name": "Glowe",
-          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
-        }
-      ],
-      "duration_ms": 167803,
-      "name": "Mean Girls",
-      "url": "https://open.spotify.com/track/7f4DG9vrgpSgOLWpc7yipo"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
         "name": "If I Don't Laugh I'll Cry",
         "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 150014,
       "name": "Chloe Enough!",
       "url": "https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2024-01-19 17:36:22",

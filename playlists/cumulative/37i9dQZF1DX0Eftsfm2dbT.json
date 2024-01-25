@@ -4331,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Kids Return",
+        "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193279,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
+    },
+    {
+      "album": {
         "name": "Kimidake",
         "url": "https://open.spotify.com/album/1m4SyY3RrPEJq4s8FO9ISW"
       },
@@ -4386,10 +4404,28 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 162423,
       "name": "King Swan",
       "url": "https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV"
+    },
+    {
+      "album": {
+        "name": "King Swan",
+        "url": "https://open.spotify.com/album/77GgZFHFDGoopROjsv2Udk"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162423,
+      "name": "King Swan",
+      "url": "https://open.spotify.com/track/1cWeCO7Fc9Z6z3BDQz2Vwm"
     },
     {
       "album": {
@@ -5888,10 +5924,28 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 226771,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1UITSxN96W4yMS9c4EXzrq"
+    },
+    {
+      "album": {
+        "name": "Ocean / Only You",
+        "url": "https://open.spotify.com/album/0Qe4JAYJjWfXuQd3OnhhbK"
+      },
+      "artists": [
+        {
+          "name": "SPARTA",
+          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/5YsWlhntxtCQssejNhhGVi"
     },
     {
       "album": {
@@ -7338,6 +7392,28 @@
     {
       "album": {
         "name": "High Rat \u03b2",
+        "url": "https://open.spotify.com/album/6HtcNi9Ir2Y812G9DhzQAd"
+      },
+      "artists": [
+        {
+          "name": "TORAUMA",
+          "url": "https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U"
+        },
+        {
+          "name": "2VAY",
+          "url": "https://open.spotify.com/artist/7p3T7c0uQTSIOxRCEC6BmN"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/0AVS0B9NETtFfWaHJxRkKj"
+    },
+    {
+      "album": {
+        "name": "High Rat \u03b2",
         "url": "https://open.spotify.com/album/7IkJ68yY9M8ExKqAiBO66c"
       },
       "artists": [
@@ -7352,7 +7428,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 184000,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/7kN8PaSxqRX4WwjtovtPn7"
@@ -8374,6 +8450,24 @@
     {
       "album": {
         "name": "nayba",
+        "url": "https://open.spotify.com/album/7uUYbIyaCJhgSHVi1onb5c"
+      },
+      "artists": [
+        {
+          "name": "COVAN",
+          "url": "https://open.spotify.com/artist/1ujnYUV1P8PbLH2O1qpjeL"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/1a2AiqpQVXgtEZ23MXF5nf"
+    },
+    {
+      "album": {
+        "name": "nayba",
         "url": "https://open.spotify.com/album/5EFC98RtzrZEX2dTw8nn5C"
       },
       "artists": [
@@ -8384,7 +8478,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 203000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4aaNmx2CrByTvxXPAJozaL"
@@ -8406,7 +8500,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 81446,
       "name": "Victory Royale",
       "url": "https://open.spotify.com/track/2MqNyhJOdEhWpOmdpDVZN3"
@@ -8462,6 +8556,28 @@
     {
       "album": {
         "name": "Memo",
+        "url": "https://open.spotify.com/album/5T1R5hlk0mAt4uaBmxGrdw"
+      },
+      "artists": [
+        {
+          "name": "who28",
+          "url": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+        },
+        {
+          "name": "SHO-SENSEI!!",
+          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187521,
+      "name": "wait4me",
+      "url": "https://open.spotify.com/track/31aK27LYNykyLlSnZxQU5i"
+    },
+    {
+      "album": {
+        "name": "Memo",
         "url": "https://open.spotify.com/album/6O0mwea9nUXcOtWv1jN3pj"
       },
       "artists": [
@@ -8476,7 +8592,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 187521,
       "name": "wait4me",
       "url": "https://open.spotify.com/track/61CqHbAAZ3gKo6VtIZqRW7"

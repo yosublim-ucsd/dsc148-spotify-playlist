@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RfiDKI9cHC.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=87a2593f6abb427a">Scowl's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,036 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,098 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 |
+| 1 | [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 |
 | 2 | [The Brightest Star](https://open.spotify.com/track/719pSqXGWdmjGHJz6n1rad) | [Godstar](https://open.spotify.com/artist/0LeXelhldWZeqIZJrGwk4m) | [The Brightest Star 7" \- EP](https://open.spotify.com/album/5IwakoxqMxlDaEigPTGuJz) | 2:19 |
 | 3 | [Clever One](https://open.spotify.com/track/4OxU2sfHl9GNSQtUA93SLs) | [The Flipsides](https://open.spotify.com/artist/3bq86Iduw6WaLwyzl7x1LH) | [Clever One](https://open.spotify.com/album/5TJUxDtrt3Ya2Ws0P4LW0g) | 2:52 |
 | 4 | [Constructs](https://open.spotify.com/track/6kYH2CeMvXz7CHnNaDUP6N) | [Plume](https://open.spotify.com/artist/3D0BxmQtExV38e7mPDjvkD) | [Plume](https://open.spotify.com/album/6OjI4Cnj8hnFwodLZG4G0r) | 2:08 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RfiDKI9cHC.md) - [plain]
 | 29 | [No Justice, No Peace](https://open.spotify.com/track/1Yc3ZItIejmZNP7VRYjHnC) | [Aus Rotten](https://open.spotify.com/artist/2AEBd7Gd3l28yVkLLGlD3a) | [The System Works for Them](https://open.spotify.com/album/1oLnRaiMdQf4LH9GmQ5TqL) | 3:03 |
 | 30 | [Heading For Hell](https://open.spotify.com/track/7811tVgmykmUS1TEGRYpWV) | [Anti Cimex](https://open.spotify.com/artist/1mLYahiL1Os2Ill7PRkldB) | [Scandinavian Jawbreaker](https://open.spotify.com/album/4FrDKIfFKugO4jQbjcTEzv) | 3:48 |
 
-Snapshot ID: `MCxiNTJlNGVmYzlkM2JiMzQ1NDMxMDk0ZmIzNmU3NGFjY2MyZDU2YzFl`
+Snapshot ID: `MCxiNTJjODY0YTk3NTMzYTliM2FiNzg0YzJkOTM3OWIzZDg3YWUzMzc2`

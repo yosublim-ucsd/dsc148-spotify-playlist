@@ -4,7 +4,7 @@
 
 > Lo mejor de enero 2024
 
-736 songs - 1 day 15 hr 17 min
+737 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-12-14 | 2022-01-21 |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-02-25 | 2022-04-29 |
 | [Baja Sube Sube](https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Baja Sube Sube](https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM) | 3:31 | 2023-07-21 | 2023-09-09 |
+| [Bandida](https://open.spotify.com/track/2gCm8iun5geZCA2PBC4J4J) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv) | [Bandida](https://open.spotify.com/album/1RdBD1eIIiTwVlfUxba1vS) | 2:35 | 2024-01-24 |  |
 | [Bandida](https://open.spotify.com/track/1Gq7wM0F22XRuUEgxJFbJQ) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Bandida](https://open.spotify.com/album/1wbEwwQ1CWBfo5nut7Rx3Y) | 3:27 | 2022-11-28 | 2023-02-22 |
 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-19 | 2022-06-28 |
 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-11-07 | 2024-01-10 |

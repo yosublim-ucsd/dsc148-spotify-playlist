@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-626 songs - 2 day 14 hr 12 min
+627 songs - 2 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Doomscrolling \- LORRAINNE Remix](https://open.spotify.com/track/6si9ARtgGV9mLDll570H5D) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [LORRAINNE](https://open.spotify.com/artist/3bmSLlxmls1bnwUooX4xW3) | [Doomscrolling EP](https://open.spotify.com/album/7FM6rDlWokL8N9gHScKsN6) | 7:28 | 2021-07-22 | 2021-12-07 |
 | [Drago](https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Drago](https://open.spotify.com/album/6juKR9M4yV7SIxX5niEUZP) | 6:49 | 2021-10-10 | 2022-06-24 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2023-01-13 | 2024-01-05 |
+| [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2023-11-27 |  |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-26 |  |
 | [Dreaming \- Casper Cole Remix](https://open.spotify.com/track/1QhtyPVcTEoRa6fkizTwkj) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Dreaming \(Casper Cole Remix\)](https://open.spotify.com/album/3HqGiVhA5ASObu5Nzq8uVd) | 4:25 | 2022-10-07 | 2022-10-29 |
 | [Drifter](https://open.spotify.com/track/3qTJbiHIjxSm1RDTtwybdE) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Drifter](https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2) | 4:39 | 2022-07-08 | 2022-08-13 |
@@ -623,7 +624,7 @@
 | [When Comes the Night](https://open.spotify.com/track/5T5DVG9Ym69motMYiVFgaL) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [When Comes the Night](https://open.spotify.com/album/57NL4w6BTRqzCKONQ4NRvF) | 3:52 | 2020-05-30 | 2022-02-09 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 | 2022-10-07 | 2023-07-01 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-03-06 | 2022-10-17 |
-| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 |  |
+| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 | 2024-01-25 |
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-06-05 | 2023-09-02 |
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [X](https://open.spotify.com/track/0pORLCI6Ep1eyqHJXbUPKG) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:33 | 2021-05-07 | 2021-05-28 |

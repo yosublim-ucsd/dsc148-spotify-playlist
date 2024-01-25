@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! ",
-  "num_followers": 101670,
+  "num_followers": 101661,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjg2ZjI4OGRjYmM1NmI1MGU2ZmMxZTU2MDcwZDgwODBiYjY4ODY0",
+  "snapshot_id": "MCw2MGQ4ODkzNWUzNzk1MjY2M2JmNTcwNDg0MjQwZmZjYTE3OWRhZTBj",
   "tracks": [
     {
       "added_at": "2024-01-03 06:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-03 06:00:00",
       "album": {
-        "name": "EL FINAL",
-        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 232283,
-      "name": "EL FINAL",
-      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
-    },
-    {
-      "added_at": "2024-01-03 06:00:00",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 255660,
       "name": "TRASCENDER",
       "url": "https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K"
+    },
+    {
+      "added_at": "2024-01-03 06:00:00",
+      "album": {
+        "name": "EL FINAL",
+        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 232283,
+      "name": "EL FINAL",
+      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
     },
     {
       "added_at": "2024-01-03 06:00:00",

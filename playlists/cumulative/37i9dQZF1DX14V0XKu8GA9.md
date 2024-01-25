@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-366 songs - 17 hr 14 min
+367 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [BAG CHASER](https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [BAG CHASER](https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC) | 2:49 | 2023-05-27 | 2023-09-16 |
 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 | 2023-09-15 |  |
 | [Bag Talk](https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Bag Talk](https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v) | 2:21 | 2022-06-07 | 2023-01-28 |
-| [Balance Beam](https://open.spotify.com/track/4vetEfwqNcu6I7gz0GrXEl) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/2xbV9B1JAdkmkVtjRbsT15) | 2:46 | 2024-01-08 |  |
+| [Balance Beam](https://open.spotify.com/track/4vetEfwqNcu6I7gz0GrXEl) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/2xbV9B1JAdkmkVtjRbsT15) | 2:46 | 2024-01-08 | 2024-01-25 |
+| [Balance Beam](https://open.spotify.com/track/1AoMflBvnqkv0YB1vpasc9) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/4gFhhySpDU28o3eS46Bf4f) | 2:46 | 2024-01-17 |  |
 | [Ball Out](https://open.spotify.com/track/42sdTil36Lbb1tj9bGa4ob) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Flexotb](https://open.spotify.com/artist/26pb3Pv8HOE8a6hDkibQ4J) | [Ball Out](https://open.spotify.com/album/3RzrGoIttlAT3ELSLioJ9m) | 2:03 | 2022-01-10 | 2022-07-05 |
 | [Bandemic \(E.D.D.\)](https://open.spotify.com/track/3pusbxWdMqyCgbMN3TmSWX) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Bandemic \(E.D.D.\)](https://open.spotify.com/album/2jjAGUIGvfJ1zkqMqvhKvV) | 1:56 | 2022-01-10 | 2022-02-26 |
 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 | 2022-01-10 | 2022-09-12 |

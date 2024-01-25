@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 291902,
+  "2024-01-25": 291934,
   "date_first_scraped": "2022-05-26",
   "description": "Great chilled house.",
   "name": "100% Lounge",
@@ -21,6 +21,24 @@
       "duration_ms": 155294,
       "name": "A Little Bit Closer",
       "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "album": {
+        "name": "A Minute Walk",
+        "url": "https://open.spotify.com/album/45O8QBkFpKXPoAjDtKr2In"
+      },
+      "artists": [
+        {
+          "name": "Nora Valt",
+          "url": "https://open.spotify.com/artist/5EauIIqbRu486BNeQp6aOZ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127222,
+      "name": "A Minute Walk",
+      "url": "https://open.spotify.com/track/00zmd0PtkYxVaCXsvu6hVt"
     },
     {
       "album": {
@@ -3146,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Lord",
+        "url": "https://open.spotify.com/album/27k9sf4fXxHlL1GoVAXORB"
+      },
+      "artists": [
+        {
+          "name": "Sogal",
+          "url": "https://open.spotify.com/artist/2FWMikMPlHPCgrK6MZbJ0z"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Lord",
+      "url": "https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi"
+    },
+    {
+      "album": {
         "name": "Lost and sound",
         "url": "https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU"
       },
@@ -4115,6 +4151,24 @@
       "duration_ms": 193867,
       "name": "Oya",
       "url": "https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6"
+    },
+    {
+      "album": {
+        "name": "Palm",
+        "url": "https://open.spotify.com/album/2vY4PFFkaNn75vnakvvNdI"
+      },
+      "artists": [
+        {
+          "name": "Odelot",
+          "url": "https://open.spotify.com/artist/043oiM1Cq2fxfT8ofnyPXe"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163342,
+      "name": "Palm",
+      "url": "https://open.spotify.com/track/4HfNXRCqcg3IQs6nLeT5Sy"
     },
     {
       "album": {

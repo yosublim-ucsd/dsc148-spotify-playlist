@@ -2,12 +2,13 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Yamê
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Yvnnis
 
-150 songs - 7 hr 49 min
+155 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12HEURES MINUIT](https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [RECHERCHE&DESTRUCTION](https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4) | 3:47 | 2024-01-24 |  |
 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 | 2024-01-18 |  |
 | [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-11 | 2024-01-19 |
 | [Ados](https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ados](https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw) | 2:53 | 2022-11-24 | 2023-09-09 |
@@ -15,7 +16,7 @@
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2024-01-18 |  |
 | [Amoureuse](https://open.spotify.com/track/3OfpwR1gdxutEtmylaf425) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Karaoké Vie](https://open.spotify.com/album/3r9KJgOT0lDeaJfr1wQVvP) | 3:10 | 2023-11-17 | 2024-01-19 |
 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 | 2024-01-18 |  |
-| [Au bord de la mer](https://open.spotify.com/track/1bXAnc9CO7JcMlSLuiBN4U) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Au bord de la mer](https://open.spotify.com/album/3xXbebkT7vbwrGeJ6Ovv8c) | 3:21 | 2023-10-13 |  |
+| [Au bord de la mer](https://open.spotify.com/track/1bXAnc9CO7JcMlSLuiBN4U) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Au bord de la mer](https://open.spotify.com/album/3xXbebkT7vbwrGeJ6Ovv8c) | 3:21 | 2023-10-13 | 2024-01-25 |
 | [Au bout de ma rue](https://open.spotify.com/track/1ZpXOfL9NpKMjitFteTZlk) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Au bout de ma rue](https://open.spotify.com/album/4kK37mGx9LtXd6vsTAmO6W) | 3:54 | 2021-12-02 | 2022-02-04 |
 | [Bahwai](https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:45 | 2023-10-13 | 2024-01-19 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-01 | 2022-09-30 |
@@ -61,6 +62,7 @@
 | [Filage et faits](https://open.spotify.com/track/2FeFLCNEoZSFB9H9cAY5at) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Filage et faits](https://open.spotify.com/album/0LXyoJhbPZkfv5LQKqfqtC) | 3:05 | 2021-12-02 | 2022-02-08 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [Fous](https://open.spotify.com/track/76SdXXI996exZt00GiO5Co) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 2:31 | 2023-09-08 | 2024-01-19 |
+| [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 | 2024-01-24 |  |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-01-24 |  |
 | [Génération](https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Génération](https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh) | 2:52 | 2023-03-10 |  |
 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 | 2023-10-04 |  |
@@ -72,6 +74,7 @@
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2022-06-10 |  |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-09-08 | 2024-01-19 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2024-01-18 |  |
+| [j'en ai marre](https://open.spotify.com/track/4jmLCAQXdVuQmtODq9mMEA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:29 | 2024-01-24 |  |
 | [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 | 2023-03-11 |
 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 | 2024-01-18 |  |
 | [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2024-01-18 |  |
@@ -97,6 +100,7 @@
 | [Ma Terre](https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Ma Terre](https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN) | 2:54 | 2023-03-10 |  |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-03-10 | 2023-10-14 |
 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 | 2022-06-10 |  |
+| [Mets ta veste y va pleuvoir](https://open.spotify.com/track/1otp7EwLpgTmEmTlMwouKB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [MNE](https://open.spotify.com/album/7ehcqR3D3rLDDKiv2LSqu5) | 2:52 | 2024-01-24 |  |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 | 2022-03-25 |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 | 2024-01-19 |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
@@ -121,6 +125,7 @@
 | [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 | 2022-03-25 |
 | [Rayons Gamma](https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:15 | 2022-02-07 | 2022-06-11 |
 | [Reuts](https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Reuts](https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux) | 5:26 | 2022-11-24 | 2023-09-09 |
+| [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 | 2024-01-24 |  |
 | [Roméo&Juliette](https://open.spotify.com/track/2tIWSnNLyD2EdGgcnkyzl3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Roméo&Juliette](https://open.spotify.com/album/59WxYXTPmlmd2Y1aZWM6eP) | 3:52 | 2022-09-29 | 2022-11-25 |
 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-01 | 2023-11-18 |
 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 | 2024-01-18 |  |

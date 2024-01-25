@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: RADWIMPS
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,959 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,998 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 44 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 45 | [秘密の](https://open.spotify.com/track/21HHx5khXbKGckVI2gEH6h) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [秘密の](https://open.spotify.com/album/2PVW5hX4UvLXzhqOMCB8Wk) | 4:28 |
 | 46 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
-| 47 | [碧〜アオ〜](https://open.spotify.com/track/2PqY84kCLme8GPbOyGApRP) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [SS\-POP Ver.碧](https://open.spotify.com/album/76Y1Magxh7ZzSUr3wcDu6h) | 4:46 |
+| 47 | [AO](https://open.spotify.com/track/45I5cehUH3Qy1sVMr4JA7C) | [Suzukisuzuki](https://open.spotify.com/artist/690KyTd8rr5DRhIbtsO19x) | [SS\-POP Ver.AO](https://open.spotify.com/album/05GIgeP1GUjj82679Dylbr) | 4:46 |
 | 48 | [六号線](https://open.spotify.com/track/3taGT26WKIm8im08YLArTU) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [六号線](https://open.spotify.com/album/2Dwnn6vVBJ0DmxAfF5yTGw) | 3:28 |
 | 49 | [仲間](https://open.spotify.com/track/0tb1goN5JzATGVZ0Ta0EtQ) | [Skypeace](https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk) | [FEVER](https://open.spotify.com/album/57RZKuKx20oy4NxqV8FpPA) | 3:18 |
 | 50 | [紛い者](https://open.spotify.com/track/5xADu8kVRHsD8b1kpfDfYF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 |
 | 60 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 |
 
-Snapshot ID: `MCxhMzg5MzdlMjlkYTU4NzM5MGRhZTEzNzA0NjJmMjRmMjNmZjdiMGNl`
+Snapshot ID: `MCwyZDRhYmJmZmNlYzM2NTg5MjkyZjQ3YTUzMmI2ZmZkM2M0YWQ3ZDNh`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 120591,
+  "num_followers": 120597,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjlmMTgxNDhjMDU0NTE4NDQ1MWEzNTk2OWE5NjIxYTc5MDFjMTEw",
+  "snapshot_id": "MCxmY2I2NjBjYTgyZjQxZjBkMDQxNjYzMmUyMjVkY2NmZDVkNDQzMTdm",
   "tracks": [
     {
       "added_at": "2024-01-19 11:31:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "fr\u00edo al verte",
         "url": "https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 174234,
       "name": "fr\u00edo al verte",
       "url": "https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
+        "name": "Si llega el fin",
+        "url": "https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck"
+      },
+      "artists": [
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 138074,
+      "name": "Si llega el fin",
+      "url": "https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -915,38 +931,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Si llega el fin",
-        "url": "https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck"
-      },
-      "artists": [
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 138074,
-      "name": "Si llega el fin",
-      "url": "https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
-        "name": "Vals de la Luna",
-        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Vals de la Luna",
-      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "NACE UNA MADRE",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 144545,
-      "name": "NACE UNA MADRE",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -995,6 +979,22 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "NACE UNA MADRE",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "NACE UNA MADRE",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
         "name": "Los versos s\u00e1ficos",
         "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
       },
@@ -1095,38 +1111,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "Condenada",
         "url": "https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 169887,
       "name": "Condenada",
       "url": "https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1311,6 +1295,22 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
-      },
-      "artists": [
-        {
-          "name": "Rocio Igarzabal",
-          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
-        },
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 185431,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "Cumbia de la Paciencia",
         "url": "https://open.spotify.com/album/2g8tt7LoZqKnV2lTI8YM6y"
       },
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
+      },
+      "artists": [
+        {
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 185431,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
         "name": "El Vuelo",
         "url": "https://open.spotify.com/album/4V2o5BWHr885dH7i7kMSM9"
       },
@@ -1587,6 +1587,26 @@
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/6qoi71vyo13PQeM1jPhMBv"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "Soy lo que Doy",
+        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Soy lo que Doy",
+      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "Soy lo que Doy",
-        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Soy lo que Doy",
-      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
         "name": "Sana sana",
         "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1703,6 +1687,22 @@
       "duration_ms": 258000,
       "name": "Alma en Vilo",
       "url": "https://open.spotify.com/track/4GlgzFZp9FyYXiT2hJSyzM"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
+        "name": "Luna de Xelaj\u00fa",
+        "url": "https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 240949,
+      "name": "Luna de Xelaj\u00fa",
+      "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+    },
+    {
+      "added_at": "2024-01-19 11:31:22",
+      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1759,34 +1775,18 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "La Maza (Desde Fonobox) [En Vivo]",
-        "url": "https://open.spotify.com/album/0ZdXn6TRcIYKZutBHYVQHg"
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD"
       },
       "artists": [
         {
-          "name": "Priscilla F\u00e9lix",
-          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+          "name": "Emilia y Pablo",
+          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
         }
       ],
-      "duration_ms": 303849,
-      "name": "La Maza - En Vivo Desde Fonobox",
-      "url": "https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle"
-    },
-    {
-      "added_at": "2024-01-19 11:31:22",
-      "album": {
-        "name": "Luna de Xelaj\u00fa",
-        "url": "https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 240949,
-      "name": "Luna de Xelaj\u00fa",
-      "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+      "duration_ms": 210413,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG"
     },
     {
       "added_at": "2024-01-19 11:31:22",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2024-01-19 11:31:22",
       "album": {
-        "name": "D\u00eda De Lluvia En Madrid",
-        "url": "https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx"
+        "name": "La Maza (Desde Fonobox) [En Vivo]",
+        "url": "https://open.spotify.com/album/0ZdXn6TRcIYKZutBHYVQHg"
       },
       "artists": [
         {
-          "name": "Nacho Rodriguez",
-          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
         }
       ],
-      "duration_ms": 194165,
-      "name": "D\u00eda De Lluvia En Madrid",
-      "url": "https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf"
+      "duration_ms": 303849,
+      "name": "La Maza - En Vivo Desde Fonobox",
+      "url": "https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle"
     }
   ],
   "unique_name": "Cancionistas",

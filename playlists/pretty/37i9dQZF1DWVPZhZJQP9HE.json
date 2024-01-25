@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
-  "num_followers": 64356,
+  "num_followers": 64372,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2EyODZiZGY1YWFiNDNjNWQzN2YwOTE1NGY5YTJkMjk4OTUxM2Fk",
+  "snapshot_id": "MCxiMTA0MzIyNjNlYTcyN2M1MTRhYjU2ZTE1OTAzMGVmMTNmNTQwODI0",
   "tracks": [
     {
       "added_at": "2024-01-15 04:19:55",
@@ -72,17 +72,33 @@
       "added_at": "2024-01-19 11:24:08",
       "album": {
         "name": "Manasukkul - Symphony of Emotions",
-        "url": "https://open.spotify.com/album/5ECiO7v795pQfdBqWI20nz"
+        "url": "https://open.spotify.com/album/1eODUFRMcYuN8Sdq356sQV"
       },
       "artists": [
         {
+          "name": "Sujith Benjamin",
+          "url": "https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz"
+        },
+        {
           "name": "Pavani Vasa",
           "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        },
+        {
+          "name": "Robin Sebastian",
+          "url": "https://open.spotify.com/artist/3S2Iuo7ze3YXAhMJZAOGdp"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
         }
       ],
-      "duration_ms": 211199,
+      "duration_ms": 211200,
       "name": "Manasukkul - Symphony of Emotions",
-      "url": "https://open.spotify.com/track/32wxNNLUIjD3o8IPqOt2zl"
+      "url": "https://open.spotify.com/track/3BOnjnpBt9ZwS4K0pG8Pae"
     },
     {
       "added_at": "2023-11-06 05:46:42",
@@ -148,7 +164,7 @@
           "url": "https://open.spotify.com/artist/0CF2xFxAubE3okREUvLY1g"
         }
       ],
-      "duration_ms": 236379,
+      "duration_ms": 228965,
       "name": "Lovendra Cassandra - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/41An84CexsUMCeV6KkDVyy"
     },

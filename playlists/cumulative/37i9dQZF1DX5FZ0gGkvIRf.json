@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "A New Tomorrow",
+        "url": "https://open.spotify.com/album/6pvMie3cCYqDJ7b8mS2XyT"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78733,
+      "name": "Fakin' Tha Funk (You Get Did)",
+      "url": "https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX"
+    },
+    {
+      "album": {
         "name": "The Weight Of The Mask",
         "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 78733,
       "name": "Fakin\u2019 Tha Funk (You Get Did)",
       "url": "https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi"

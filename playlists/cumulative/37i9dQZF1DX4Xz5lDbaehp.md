@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-189 songs - 9 hr 50 min
+190 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All I Need](https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [All I Need](https://open.spotify.com/album/1ZnoaQUOjszDsLOUvNycts) | 3:16 | 2021-12-01 |  |
 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 | 2021-12-01 |  |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-01 | 2023-11-05 |
-| [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2021-12-01 |  |
+| [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2021-12-01 | 2024-01-25 |
+| [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 | 2021-12-01 |  |
 | [Baby Choppa](https://open.spotify.com/track/2oR601lE6D3Jrl0vT0Mhct) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3CZb7LkapC9PW8rQjedVBd) | 2:24 | 2021-12-01 |  |
 | [Baby Choppa](https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 2:24 | 2021-12-01 | 2023-10-25 |
 | [Baby Choppa](https://open.spotify.com/track/7H5lveJYjj2X4GWjiuPYnM) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Baby Choppa](https://open.spotify.com/album/5ubvyUwyLff5nuJmN6N7Qw) | 2:24 | 2021-12-01 | 2022-11-13 |

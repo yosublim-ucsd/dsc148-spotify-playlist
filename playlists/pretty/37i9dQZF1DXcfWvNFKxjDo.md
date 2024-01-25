@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Oaks, Robin Schulz, Topic
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,434 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,529 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Time Travel](https://open.spotify.com/track/4ol1XBvP2Wh2kPhWcgCUAk) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Time Travel](https://open.spotify.com/album/5DcSoQ1pMWTVvzn6jB4lBK) | 2:47 |
 | 75 | [Broke](https://open.spotify.com/track/2tMNhlNZVGwSwYi8UwdMVr) | [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Broke](https://open.spotify.com/album/5XnIfTsEP0jOrnTpyJKybi) | 2:40 |
 
-Snapshot ID: `MCw2ZTg3MzQ3MzFiNzRmNzZkNGUyZjE5MTA0NzA0Njk0YmI5Mjg0ZmM4`
+Snapshot ID: `MCwzOTkzZWE5NzNiN2Y3YmM3NTcyNDczMDEzZjYxN2VjZWM5ZTFiMjY1`

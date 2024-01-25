@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: N\u00c2N",
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Puppy",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -4326,7 +4326,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 232994,
       "name": "Ch\u00e0ng Trai B\u1ea5t T\u1eed",
       "url": "https://open.spotify.com/track/18iADruKMXIloyA9vCJXFE"
@@ -6873,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
+        "url": "https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e"
+      },
+      "artists": [
+        {
+          "name": "Duniverse",
+          "url": "https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
+      "url": "https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup"
+    },
+    {
+      "album": {
         "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
         "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
       },
@@ -7717,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "LET'S TAKE A TRIP",
+        "url": "https://open.spotify.com/album/6MHVhuErme6OuzQeqIfPuQ"
+      },
+      "artists": [
+        {
+          "name": "TYO Ly ",
+          "url": "https://open.spotify.com/artist/3AnK8Vk9ShlL5osVmpAKKx"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253031,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/6N5g8SXjmcB4JZq8Gz2jro"
+    },
+    {
+      "album": {
         "name": "derelict.",
         "url": "https://open.spotify.com/album/7HBxHqyaJtQxVQx3hZHXqk"
       },
@@ -7736,6 +7772,28 @@
       "duration_ms": 172000,
       "name": "derelict.",
       "url": "https://open.spotify.com/track/6tot4omWduqUvfx8rWzcur"
+    },
+    {
+      "album": {
+        "name": "Deva n Diamonds",
+        "url": "https://open.spotify.com/album/1v8jALNcHtFJqrYwGY86FU"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Icy Nirvana",
+          "url": "https://open.spotify.com/artist/6HlhQXrlr6nxMDr7R6vFvS"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112125,
+      "name": "Deva n Diamonds",
+      "url": "https://open.spotify.com/track/6CQ7VEDy0jKrm9NvhbEeGf"
     },
     {
       "album": {
@@ -10592,7 +10650,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 253373,
       "name": "Ha Va Oai",
       "url": "https://open.spotify.com/track/7m3XEa7rP33gsjeYJYoRBl"
@@ -17919,6 +17977,32 @@
     },
     {
       "album": {
+        "name": "Nh\u00ecn Theo B\u00f3ng Em (feat. \u0110\u1ee9c Duy & \u0110\u1ecf)",
+        "url": "https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK"
+      },
+      "artists": [
+        {
+          "name": "Tony Ho\u00e0ng Anh",
+          "url": "https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox"
+        },
+        {
+          "name": "\u0110\u1ee9c Duy",
+          "url": "https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo"
+        },
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nh\u00ecn Theo B\u00f3ng Em (feat. \u0110\u1ee9c Duy & \u0110\u1ecf)",
+      "url": "https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue"
+    },
+    {
+      "album": {
         "name": "Nh\u01b0 L\u00e0 M\u01a1 (Acoustic Version)",
         "url": "https://open.spotify.com/album/79uEgDj5hxr7x7CQC52T2s"
       },
@@ -18790,7 +18874,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 236600,
       "name": "N\u01a1i C\u00f3 Ch\u00fang Ta",
       "url": "https://open.spotify.com/track/6t5iuTRg9MCMeaMe8B3dBU"
@@ -27320,7 +27404,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 135724,
       "name": "White",
       "url": "https://open.spotify.com/track/6aBMjErEmM2p9ryFkdnoBu"
@@ -27452,7 +27536,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 201003,
       "name": "wish you had",
       "url": "https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD"
@@ -27726,6 +27810,28 @@
       "duration_ms": 204923,
       "name": "YES SIR",
       "url": "https://open.spotify.com/track/3ItVGqbbxwTYw5F16hwDi1"
+    },
+    {
+      "album": {
+        "name": "YES YES",
+        "url": "https://open.spotify.com/album/73xBtLjz4kAprFg3Qvbtja"
+      },
+      "artists": [
+        {
+          "name": "VY Jacko",
+          "url": "https://open.spotify.com/artist/0mDoUba96VCtvihkndNxpU"
+        },
+        {
+          "name": "VY Nav",
+          "url": "https://open.spotify.com/artist/2YVpAVFVOtnf61s8SlWxex"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182722,
+      "name": "YES YES",
+      "url": "https://open.spotify.com/track/4za2TeEktvREhFgsrntHFA"
     },
     {
       "album": {
@@ -30244,6 +30350,24 @@
       "duration_ms": 196158,
       "name": "\u1ebeCH NG\u1ed2I \u0110\u00c1Y GI\u1ebeNG",
       "url": "https://open.spotify.com/track/3vJz6A6xfiGwjC4xKoRoUP"
+    },
+    {
+      "album": {
+        "name": "\u1ed4n Th\u00f4i M\u00e0 (Gwenchana)",
+        "url": "https://open.spotify.com/album/0oE1rOLxnokX9QuYL0XecD"
+      },
+      "artists": [
+        {
+          "name": "Alex TKN",
+          "url": "https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297142,
+      "name": "\u1ed4n Th\u00f4i M\u00e0 (Gwenchana)",
+      "url": "https://open.spotify.com/track/3SBMoue4CeHUdCbvb8bh5u"
     },
     {
       "album": {

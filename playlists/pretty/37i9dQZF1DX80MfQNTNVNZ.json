@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 171589,
+  "num_followers": 171676,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2YxZmYxMzc1MDc4OWM2Yjc2ODdiNmVmOGQ2YTFkN2ZjYjc3N2E5",
+  "snapshot_id": "MCw1NTg0ZjRjZmJiODIwNDY4NjhiZDY0NjgwYzIyYWZjY2YyYjc0ZDI5",
   "tracks": [
     {
       "added_at": "2024-01-18 16:06:12",
@@ -363,38 +363,6 @@
     {
       "added_at": "2024-01-18 16:06:12",
       "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
-    },
-    {
-      "added_at": "2024-01-18 16:06:12",
-      "album": {
-        "name": "RACING",
-        "url": "https://open.spotify.com/album/59YLKCcSuRDwKAvJ2A3Bsc"
-      },
-      "artists": [
-        {
-          "name": "Ferge X Fisherman",
-          "url": "https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV"
-        }
-      ],
-      "duration_ms": 188408,
-      "name": "RACING",
-      "url": "https://open.spotify.com/track/2pUmPWadj3IHlwjztX4KRm"
-    },
-    {
-      "added_at": "2024-01-18 16:06:12",
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2024-01-18 16:06:12",
+      "album": {
+        "name": "RACING",
+        "url": "https://open.spotify.com/album/59YLKCcSuRDwKAvJ2A3Bsc"
+      },
+      "artists": [
+        {
+          "name": "Ferge X Fisherman",
+          "url": "https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV"
+        }
+      ],
+      "duration_ms": 188408,
+      "name": "RACING",
+      "url": "https://open.spotify.com/track/2pUmPWadj3IHlwjztX4KRm"
+    },
+    {
+      "added_at": "2024-01-18 16:06:12",
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": "2024-01-18 16:06:12",

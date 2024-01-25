@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 401233,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt"
@@ -1972,6 +1972,24 @@
       "duration_ms": 304466,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
+    },
+    {
+      "album": {
+        "name": "Fellowship",
+        "url": "https://open.spotify.com/album/7rTZ97K6Ho6RGMnQ8PUk8k"
+      },
+      "artists": [
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396426,
+      "name": "Westinghouse",
+      "url": "https://open.spotify.com/track/55UjR3GUomXEVVxpZA9zX0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-150 songs - 9 hr 42 min
+151 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [My Love \(feat\. Jess Glynne\) \- Sigma Remix](https://open.spotify.com/track/4gjTpaz6WRV9nX7q4fHwRp) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [My Love \(feat\. Jess Glynne\) \[Remixes\]](https://open.spotify.com/album/4zQRCFEwZX7qvPij5qWlVW) | 4:30 | 2022-08-05 | 2023-06-07 |
 | [My Love \- Sigma Remix](https://open.spotify.com/track/0vSkBIWphrAM777tZr0eBi) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/4uenMswaaasTqFvu2KsWuY) | [My Love](https://open.spotify.com/album/7FSfVdPaYgi3mQfjpfmMBP) | 4:30 | 2023-06-13 |  |
 | [Never Let You Down \(feat\. Penny Ivy\)](https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Penny Ivy](https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL) | [Never Let You Down \(feat\. Penny Ivy\)](https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID) | 3:08 | 2022-08-05 | 2023-10-06 |
+| [Never Let You Down \(feat\. Penny Ivy\)](https://open.spotify.com/track/2duupjRLTcPDcbfxV7vVTa) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Penny Ivy](https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL) | [We May Grow Old But We Never Grow Up](https://open.spotify.com/album/6a8XfCfcN2CRmPJ1nQCk5q) | 3:08 | 2023-11-17 |  |
 | [No Ice Cream Sound](https://open.spotify.com/track/0UzbUnUhtG61kjL9RXB1oV) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Acee](https://open.spotify.com/artist/5Y22IkIsPlVMnLRsC7qSkM), [Kayla Amor](https://open.spotify.com/artist/6iflsFzsJMe8sRWguPdZtt) | [No Ice Cream Sound](https://open.spotify.com/album/0EzaMaoUOW8B7FxFjofbvC) | 3:51 | 2023-10-06 |  |
 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 | 2022-08-05 |  |
 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-13 | 2023-08-14 |
@@ -155,7 +156,7 @@
 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 |  |
 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 | 2022-08-05 | 2023-09-12 |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-05-19 |  |
-| [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 |  |
+| [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 | 2024-01-25 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-07-21 |  |
 | [you don't want love \(in the club\)](https://open.spotify.com/track/38ASpHzf1kXpko2TSlhTof) | [Robin Knightz](https://open.spotify.com/artist/7zmMLJIDnDu5yQjJwWWYS8), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [you don’t want love \(in the club\)](https://open.spotify.com/album/2RlKzPi1Ekl9MbmcRMYZlY) | 2:16 | 2023-08-11 |  |
 

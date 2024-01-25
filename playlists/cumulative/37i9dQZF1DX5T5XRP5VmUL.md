@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-347 songs - 18 hr 51 min
+348 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,8 +341,9 @@
 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 | 2023-10-13 |  |
 | [What I See](https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Joy to the World](https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh) | 2:49 | 2021-12-24 | 2023-10-14 |
 | [When We Are Together](https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Together](https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t) | 2:26 | 2021-12-24 | 2023-10-14 |
+| [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2023-12-16 |  |
 | [White Christmas](https://open.spotify.com/track/7stYKLLBpbwrbce4kqhuG9) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [White Christmas](https://open.spotify.com/album/01pI5ExgWQxiX4tGzoe11T) | 2:59 | 2021-12-24 | 2022-07-29 |
-| [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2023-10-13 |  |
+| [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2023-10-13 | 2024-01-25 |
 | [Winter](https://open.spotify.com/track/1GNo5jlhEdsK4XxlKyg57k) | [The Record Breakers](https://open.spotify.com/artist/7fXSBKJYR43vWcakHtlXzI) | [Winter](https://open.spotify.com/album/7AuuCBYF2CpARhzTGpwmQT) | 4:02 | 2021-12-24 | 2022-07-29 |
 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 | 2021-12-24 | 2023-10-14 |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2023-10-13 |  |

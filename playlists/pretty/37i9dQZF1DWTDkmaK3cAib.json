@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 43594,
+  "num_followers": 43612,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTUxNTJhNjk1NDgzMGY3YTNmZTRlOTE0ZGMyMWYxZjkwM2I1MWI1",
+  "snapshot_id": "MCxhNzBlZjYyYmM1NDVmOWRhNDAwNDA0MzA2ZmY1M2UyNDNjMzEwMmY3",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/1Uvl2i3MlsoqGConBaKi7G"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI"
-      },
-      "artists": [
-        {
-          "name": "suei",
-          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
-        }
-      ],
-      "duration_ms": 157884,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI"
+      },
+      "artists": [
+        {
+          "name": "suei",
+          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
+        }
+      ],
+      "duration_ms": 157884,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         },
         {
-          "name": "Carlota Urdiales",
-          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 163755,
-      "name": "COLTRANE",
-      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+      "duration_ms": 226844,
+      "name": "DameLove (feat. Cuco)",
+      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "COLTRANE",
+      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 163482,
       "name": "CAMA KING (feat. Chita)",
       "url": "https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "DameLove (feat. Cuco)",
-      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
     },
     {
       "added_at": "2023-12-12 22:35:32",

@@ -878,7 +878,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 228960,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 231689,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/3KYuT5lWCNsuW2ZeDq86w8"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 158933,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/6Z0x8WDZnXs7QbRz1Atick"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 232973,
       "name": "La F\u00f3rmula (feat. Chris Jedi)",
       "url": "https://open.spotify.com/track/55NwAn7bAl1edTEg1azLOW"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 235944,
       "name": "La f\u00f3rmula (feat. Chris Jedi)",
       "url": "https://open.spotify.com/track/4A1IqVYiEujgHrJO9NTTVK"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 252466,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 278314,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/2VWLm3cy2tkiYDinhY5rKf"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 246653,
       "name": "Mi tesoro (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/5HABnFSYvl6mTmg8nSdzHa"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 220202,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq"
@@ -4363,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190697,
+      "name": "YA NO TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg"
+    },
+    {
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -4404,7 +4422,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 191920,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP"
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 199008,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/6gQ5iqmArrmScljgWoPfBA"

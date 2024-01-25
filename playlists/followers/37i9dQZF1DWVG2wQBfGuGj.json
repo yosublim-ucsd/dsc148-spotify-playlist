@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 71252,
+  "2024-01-25": 71343,
   "date_first_scraped": "2023-05-16",
   "description": "Surrender to the chill of the White Island with these laid-back house and nu-disco groovers. ",
   "name": "Ibiza Lounge",
@@ -673,6 +673,24 @@
       "duration_ms": 152308,
       "name": "come with me",
       "url": "https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP"
+    },
+    {
+      "album": {
+        "name": "Command",
+        "url": "https://open.spotify.com/album/0HFJ2jMHzxO66Zj88UTcvd"
+      },
+      "artists": [
+        {
+          "name": "Green Gold",
+          "url": "https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151351,
+      "name": "Command",
+      "url": "https://open.spotify.com/track/3G2Z6961Suis6IlOLhsVRE"
     },
     {
       "album": {
@@ -2914,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/4CTAiLbbQkgMrSrcijELPH"
+      },
+      "artists": [
+        {
+          "name": "Reese Straut",
+          "url": "https://open.spotify.com/artist/7aAhTDn0TyolcU68PAYULR"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125727,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/0zinWIi33Y0HY9FzAjoQP7"
+    },
+    {
+      "album": {
         "name": "Staff Picks",
         "url": "https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT"
       },
@@ -3077,6 +3113,24 @@
       "duration_ms": 150508,
       "name": "Summersome",
       "url": "https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G"
+    },
+    {
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/0Bcj1W4MDQmv5M5BCPILxn"
+      },
+      "artists": [
+        {
+          "name": "LE OBAL",
+          "url": "https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq"
     },
     {
       "album": {

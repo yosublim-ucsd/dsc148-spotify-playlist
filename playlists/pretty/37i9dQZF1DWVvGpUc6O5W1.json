@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42106,
+  "num_followers": 42108,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "No Fue Necesario",
+        "url": "https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "No Fue Necesario",
+      "url": "https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 181386,
       "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
       "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "No Fue Necesario",
-        "url": "https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "No Fue Necesario",
-      "url": "https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
+      "duration_ms": 200226,
+      "name": "Haciendo Historia",
+      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1767,8 +1767,8 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
       },
       "artists": [
         {
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Haciendo Historia",
-      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
+      "duration_ms": 167840,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Chicas Malas",
-        "url": "https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Te Descuidaste",
-      "url": "https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 156453,
       "name": "Me Est\u00e1 Gustando",
       "url": "https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Chicas Malas",
+        "url": "https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Te Descuidaste",
+      "url": "https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I"
     },
     {
       "added_at": "2022-01-25 18:24:05",

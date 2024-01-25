@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-275 songs - 15 hr 55 min
+276 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-19 | 2023-11-10 |
 | [Blue Sweatshirt](https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Blue Sweatshirt](https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU) | 3:10 | 2023-02-07 | 2023-05-24 |
 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol\. 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 | 2023-08-25 |  |
+| [Breathe](https://open.spotify.com/track/2mNolLedgnG8ys1bDlpjTJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Breathe](https://open.spotify.com/album/5aZDNvlGX9pOKoG09jvYNH) | 4:55 | 2023-12-15 |  |
 | [Breathe](https://open.spotify.com/track/3tc1QVfc8kTEKbJF4Zu9HG) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Breathe](https://open.spotify.com/album/0m76qirwn1jI9Y0u9qQvwl) | 4:55 | 2023-01-20 | 2023-04-20 |
 | [Built to Fall Apart](https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0) | [Sera Sanyal](https://open.spotify.com/artist/0ortRu9VeGzI3W1hrhFRM3) | [Built to Fall Apart](https://open.spotify.com/album/2VxmF9cxdv2gp1xS01lbk0) | 3:59 | 2022-07-08 | 2023-05-20 |
 | [Butterflies](https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Butterflies](https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N) | 2:33 | 2022-03-25 | 2022-06-30 |
@@ -169,7 +170,7 @@
 | [Midnight Till Dawn](https://open.spotify.com/track/09tHTTwxrj0s5MalRj7J4n) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Midnight Till Dawn](https://open.spotify.com/album/3DlIiyHpqcLBoffxq8QtSr) | 2:31 | 2023-05-19 | 2023-05-24 |
 | [Midnite Spaceflite](https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa) | [Midnite Spaceflite](https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn) | 3:26 | 2022-09-02 | 2023-02-01 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-03-25 | 2023-05-20 |
-| [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 | 2023-08-25 |  |
+| [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 | 2023-08-25 | 2024-01-25 |
 | [Monopoly Money](https://open.spotify.com/track/2HHI9VOqg0nY4SOdwLLllZ) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W) | [Monopoly Money](https://open.spotify.com/album/6IaKWgpPEkAPo1n0R3G8A6) | 2:48 | 2023-03-20 | 2023-04-29 |
 | [Moondance](https://open.spotify.com/track/17yvccxoD44O8rWIa0P03W) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Moondance](https://open.spotify.com/album/7qQifVVRwztG6YPGvU8sBr) | 3:24 | 2023-10-27 |  |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2023-05-19 |  |

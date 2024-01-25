@@ -1229,6 +1229,32 @@
     },
     {
       "album": {
+        "name": "Cop Shop",
+        "url": "https://open.spotify.com/album/7wIsdXNC0W7EPS9Yc2yzDU"
+      },
+      "artists": [
+        {
+          "name": "Akash",
+          "url": "https://open.spotify.com/artist/4SuBbeCjG1fMubGCIwyhMk"
+        },
+        {
+          "name": "Simar Gill",
+          "url": "https://open.spotify.com/artist/4Ryb63Sk8UqMKBKdM1Kj76"
+        },
+        {
+          "name": "Pav Dharia",
+          "url": "https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Cop Shop",
+      "url": "https://open.spotify.com/track/14s8yfEEvCSsta6koomyka"
+    },
+    {
+      "album": {
         "name": "Court",
         "url": "https://open.spotify.com/album/1sWveBnE9UEJXH3rlFqulY"
       },
@@ -1310,7 +1336,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 153846,
       "name": "Daang Te Dera - From \"Khadari\"",
       "url": "https://open.spotify.com/track/4kTuCpxZpGrUwiEnbHIEfU"
@@ -1332,7 +1358,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
@@ -1358,7 +1384,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 142200,
       "name": "Dead (From 'Warning 2\")",
       "url": "https://open.spotify.com/track/2WHXKqVX63rEwZ3v801lbR"
@@ -2796,7 +2822,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 207272,
       "name": "Jail",
       "url": "https://open.spotify.com/track/3GqvCPECYIcL4nV88jYGyT"
@@ -3621,6 +3647,28 @@
     },
     {
       "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm"
+      },
+      "artists": [
+        {
+          "name": "NADAR",
+          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
+        },
+        {
+          "name": "Dabrown",
+          "url": "https://open.spotify.com/artist/5HBHViJYgCsbJtSUq3dGkS"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU"
+    },
+    {
+      "album": {
         "name": "FAME",
         "url": "https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg"
       },
@@ -4153,6 +4201,28 @@
     },
     {
       "album": {
+        "name": "Nakhro",
+        "url": "https://open.spotify.com/album/5hskIdcDek1mjsLDzLErbn"
+      },
+      "artists": [
+        {
+          "name": "DJ Flow",
+          "url": "https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "Nakhro",
+      "url": "https://open.spotify.com/track/5wTJUBrXap0YwoXLEYMAn9"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe"
       },
@@ -4522,6 +4592,32 @@
       "duration_ms": 198000,
       "name": "Ok Reportaan",
       "url": "https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu"
+      },
+      "artists": [
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        },
+        {
+          "name": "Ishan",
+          "url": "https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu"
+        },
+        {
+          "name": "Ilam",
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd"
     },
     {
       "album": {

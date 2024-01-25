@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-899 songs - 1 day 20 hr 38 min
+900 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Can't Lose](https://open.spotify.com/track/7qA50FpI5cdD4WB8JHdUof) | [RIYL](https://open.spotify.com/artist/0b6wDAeyxmC3Xzpl7JaxfB), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Can't Lose](https://open.spotify.com/album/5XxCt6XqhaKtiYgJA5L3Yk) | 2:22 | 2022-02-27 | 2022-04-21 |
 | [Can't Tell It All](https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:42 | 2021-12-11 | 2022-01-14 |
 | [Cardio](https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Cardio](https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU) | 3:36 | 2023-12-15 |  |
+| [carter.](https://open.spotify.com/track/41ihOosX2s2sD9i5QsZUx2) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [carter.](https://open.spotify.com/album/78VNMdYyBooljBr6XeKXuP) | 3:02 | 2024-01-19 |  |
 | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/track/3U8RSjBoIeaKrZflJkzPNd) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Deuces](https://open.spotify.com/artist/7nbV86re4AiI8C726Efapf) | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/album/5R47KD9aQmmXumlBAK333I) | 2:22 | 2022-02-04 | 2022-02-13 |
 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 | 2022-08-06 | 2023-08-26 |
 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 | 2022-04-29 | 2022-08-07 |
@@ -797,7 +798,7 @@
 | [Too Far In Love](https://open.spotify.com/track/5jJitdFoXDG4NOE1EKOPzi) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [Too Far In Love](https://open.spotify.com/album/71o4kxfGdcSLGBy9l01j9B) | 2:49 | 2021-12-11 | 2022-01-17 |
 | [Too In \(with Kay Sade\)](https://open.spotify.com/track/2LDrzFPomdLVZ4OzJVBQZj) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Sindy Versus Victoria](https://open.spotify.com/album/1T9mQCtrWNKqGTALO09BRf) | 4:00 | 2021-12-11 | 2022-04-27 |
 | [Top Up \(S1 EP1 \- Konola\)](https://open.spotify.com/track/3ApvUzX3QI5LoD6xwjyqeC) | [Aligned Vision](https://open.spotify.com/artist/1sYCFMXOAq4TOtbtqb2JwF), [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Top Up \(S1 EP1 \- Konola\)](https://open.spotify.com/album/3g6SsgeILrsxtSwStesQhs) | 4:57 | 2022-02-04 | 2022-02-27 |
-| [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 | 2023-12-15 |  |
+| [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 | 2023-12-15 | 2024-01-25 |
 | [Toxic](https://open.spotify.com/track/6Yqc30NRfmI9cRwIuHcRo0) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Toxic](https://open.spotify.com/album/3woPyxl6KdRO8YmbaWbHcn) | 2:46 | 2022-02-04 | 2022-04-25 |
 | [Trade It All](https://open.spotify.com/track/7ss4s3jFOUjMUqNZXaUkWn) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Trade It All](https://open.spotify.com/album/4Hyw9B3QDXQ6SxBGgyVRZ5) | 3:24 | 2022-02-04 | 2022-07-29 |
 | [TRENDING](https://open.spotify.com/track/2uwErdBFk3sFlfKQPQFBbU) | [Jeremiah Bonds](https://open.spotify.com/artist/3z6G8rh5Hw6IEHMZjDVh0C), [GodzG](https://open.spotify.com/artist/3oizJnQDLNfSeWwsOUOpM2) | [S7AVE](https://open.spotify.com/album/1GNcEMo76kfhrDH1PQ2cho) | 3:38 | 2021-12-11 | 2022-02-04 |

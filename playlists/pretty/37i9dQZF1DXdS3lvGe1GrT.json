@@ -1,13 +1,173 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Amble | Visual Artist: Bailey Elder",
-  "num_followers": 58844,
+  "num_followers": 59195,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWNjN2I3MDE4MmE0NmY4OTQ5NTUwOTk4MzI2MjFjMjk1Yjc4ZTUz",
+  "snapshot_id": "MCxhNWJlNTdkY2Y5NTY4ZWI4YjQ3MTZiMjM4NjczNjUyMWI1M2I3MWFm",
   "tracks": [
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Rotting Fruit",
+        "url": "https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 230677,
+      "name": "Rotting Fruit",
+      "url": "https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Texas Wide",
+        "url": "https://open.spotify.com/album/2qqtJeHMwiB9sWFV9ugdHk"
+      },
+      "artists": [
+        {
+          "name": "Kate Stephenson",
+          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Texas Wide",
+      "url": "https://open.spotify.com/track/7flgkD4d50MhuipLRe6HFL"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "in the back of my closet",
+        "url": "https://open.spotify.com/album/4sNEfD26meNFp3rwr4J9QK"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "duration_ms": 198031,
+      "name": "rose sunglasses",
+      "url": "https://open.spotify.com/track/1CwOAKzBt8nKosLa3nP70p"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/74ss7iI1XAs6YXUQADK962"
+      },
+      "artists": [
+        {
+          "name": "Will Hearn",
+          "url": "https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/3ltHC2cPucDcc9NKbupJsC"
+    },
+    {
+      "added_at": "2024-01-11 21:07:41",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sonnier",
+          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "don't look down",
+        "url": "https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4"
+      },
+      "artists": [
+        {
+          "name": "tarnisher",
+          "url": "https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "don't look down",
+      "url": "https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "For The Both of Us",
+        "url": "https://open.spotify.com/album/1F38FvPkUKwcMsaZURPa8h"
+      },
+      "artists": [
+        {
+          "name": "Kai Warrior",
+          "url": "https://open.spotify.com/artist/651HnfrHpEqic34SYZPJ7J"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "For The Both of Us",
+      "url": "https://open.spotify.com/track/6CLfnHnMwLfAtd1rqJsbCs"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
+      },
+      "artists": [
+        {
+          "name": "Marianne Ross",
+          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
+        }
+      ],
+      "duration_ms": 110322,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Your House",
+        "url": "https://open.spotify.com/album/21gcbSTvzHeXcZUjSJ5Qsk"
+      },
+      "artists": [
+        {
+          "name": "Mandelbro",
+          "url": "https://open.spotify.com/artist/6EBPmRpxRECf55nXUERPZn"
+        }
+      ],
+      "duration_ms": 291825,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/1JHCAvJkUgAnjMUbsBmLsf"
+    },
     {
       "added_at": "2024-01-17 05:00:00",
       "album": {
@@ -23,6 +183,22 @@
       "duration_ms": 211102,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3QJxQ3CnVwpRNHF3ANKWTr"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "Lonely Island",
+        "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Lonely Island",
+      "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -41,6 +217,22 @@
       "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
     },
     {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Jessie's Blues",
@@ -55,6 +247,22 @@
       "duration_ms": 304396,
       "name": "Jessie's Blues",
       "url": "https://open.spotify.com/track/0q9WJFr9bDnQXqr4WmvE4G"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/1yMKghXe5iMNJ7sJigZ15n"
+      },
+      "artists": [
+        {
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+        }
+      ],
+      "duration_ms": 189092,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/3trrueLt7FceiknriMTt4m"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -185,22 +393,6 @@
       "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"
     },
     {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Lonely Island",
-        "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Lonely Island",
-      "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
-    },
-    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "New Years",
@@ -247,22 +439,6 @@
       "duration_ms": 272746,
       "name": "These Ghosts",
       "url": "https://open.spotify.com/track/6mutJYePzlpQXk2Kf9PGYt"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -461,22 +637,6 @@
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
-      "added_at": "2024-01-11 21:07:41",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sonnier",
-          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "Keepsakes",
@@ -651,22 +811,6 @@
       "duration_ms": 257251,
       "name": "Nocturnal Animals",
       "url": "https://open.spotify.com/track/6NOb0KzgzFt4OoA3G0ixZO"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
-      },
-      "artists": [
-        {
-          "name": "Marianne Ross",
-          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
-        }
-      ],
-      "duration_ms": 110322,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
     },
     {
       "added_at": "2024-01-10 17:00:00",

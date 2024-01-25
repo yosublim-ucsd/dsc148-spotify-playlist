@@ -1,15 +1,15 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14677,
+  "num_followers": 14678,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MzM1MzUsMDAwMDAwMDA0MmNmYzMyYzhlODFjOGZhZWU4MzYzYmU2MDkzY2NiZg==",
+  "snapshot_id": "Mjg0MzUwNjYsMDAwMDAwMDBkMDlkODk5MGI0MmQ4NGQ2MjE2MTJmNzkwYjkyMjk5Yw==",
   "tracks": [
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Viajero Frecuente",
         "url": "https://open.spotify.com/album/1bTNKPf95iD8ltYReGkVrS"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
         "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1pyA01cXyIK49MGbjVMMYZ"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Am\u00e9n",
         "url": "https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "If The World Was Ending (Spanglish Version)",
         "url": "https://open.spotify.com/album/2GszvoZ2OFlv8iRSDHw5Ek"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/5Lp9GcZAY7H2M2NjIS3Cdn"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Si Existe",
         "url": "https://open.spotify.com/album/4RAHRRXkzErtE6F2OGCTp9"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2V1lhszC64pVFw79uB0RhL"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Me Liber\u00e9",
         "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
@@ -209,7 +209,23 @@
       "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
@@ -229,23 +245,7 @@
       "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Uno M\u00e1s Uno",
         "url": "https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Yo Me Salv\u00e9",
         "url": "https://open.spotify.com/album/4pAE0aW14Z2S7CrsojMtEG"
@@ -277,7 +277,27 @@
       "url": "https://open.spotify.com/track/5vJrecmwMX3i5iilsZvHeK"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 222598,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
@@ -301,27 +321,7 @@
       "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222598,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
         "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Por Tu Amor",
         "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
@@ -357,47 +357,7 @@
       "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Interludio: La Gloria de Dios",
-      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
         "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
@@ -421,7 +381,47 @@
       "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Interludio: La Gloria de Dios",
+      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
         "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
@@ -445,51 +445,7 @@
       "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
@@ -517,27 +473,7 @@
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Avivamiento",
-        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 359303,
-      "name": "Quiero A Cristo",
-      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
@@ -550,14 +486,38 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
         "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
@@ -593,7 +553,47 @@
       "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Avivamiento",
+        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 359303,
+      "name": "Quiero A Cristo",
+      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
         "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
@@ -645,7 +645,27 @@
       "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
@@ -673,27 +693,7 @@
       "url": "https://open.spotify.com/track/5gAsh9ARvb03FCffajAXyE"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
@@ -717,7 +717,27 @@
       "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "Unforgettable (feat. Evaluna Montaner)",
+        "url": "https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Unforgettable (feat. Evaluna Montaner)",
+      "url": "https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Luna Para Ti (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
@@ -741,10 +761,10 @@
       "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
-        "name": "Unforgettable (feat. Evaluna Montaner)",
-        "url": "https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG"
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
       },
       "artists": [
         {
@@ -756,12 +776,12 @@
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 208095,
-      "name": "Unforgettable (feat. Evaluna Montaner)",
-      "url": "https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf"
+      "duration_ms": 198178,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Nadie Como Yo (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
@@ -785,27 +805,7 @@
       "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 198178,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Eva (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
@@ -829,23 +829,7 @@
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
     },
     {
-      "added_at": "2024-01-23 12:15:15",
-      "album": {
-        "name": "KOATI Original Soundtrack",
-        "url": "https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 136841,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL"
-    },
-    {
-      "added_at": "2024-01-23 12:15:15",
+      "added_at": "2024-01-24 13:46:19",
       "album": {
         "name": "Ya Nada Nos Separa (feat. Sebasti\u00e1n Silva)",
         "url": "https://open.spotify.com/album/08zZ1Kxa8U7SehXUW6CPEb"
@@ -867,6 +851,22 @@
       "duration_ms": 157933,
       "name": "Ya Nada Nos Separa (feat. Sebasti\u00e1n Silva)",
       "url": "https://open.spotify.com/track/1HIVHh8wyN32e0v3hCwkog"
+    },
+    {
+      "added_at": "2024-01-24 13:46:19",
+      "album": {
+        "name": "KOATI Original Soundtrack",
+        "url": "https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 136841,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL"
     }
   ],
   "unique_name": "This Is Evaluna Montaner",

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-260 songs - 13 hr 36 min
+262 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 | 2023-09-01 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 | 2023-07-22 |
+| [Anticipation](https://open.spotify.com/track/2kquN2eOnCnY4oK8QiJvUd) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Anticipation](https://open.spotify.com/album/3Ug6zLk4vJ4V99LXOG3Wk2) | 2:59 | 2024-01-24 |  |
 | [Aquarious](https://open.spotify.com/track/6g7keElPVodgBUw450CRWO) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Aquarious](https://open.spotify.com/album/1Hw4krAnuUAfTWWNI4tnDW) | 1:44 | 2023-08-04 | 2023-10-06 |
 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 | 2022-03-30 | 2022-11-18 |
 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 | 2022-05-25 |  |
@@ -126,6 +127,7 @@
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
 | [lips list](https://open.spotify.com/track/632FOOc5n5wRJbBvqWliwT) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [lips list](https://open.spotify.com/album/3O4rUMESlirkPiWXU26MFO) | 3:12 | 2022-03-30 |  |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-03-30 |  |
+| [Lose The Distraction](https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Lose The Distraction](https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD) | 3:55 | 2024-01-24 |  |
 | [Lost in Dreamland](https://open.spotify.com/track/5Ld0nTNShgRHfMC7iDyeTb) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Lost in Dreamland](https://open.spotify.com/album/7hUBfDIeGg5CRAQ0SdXtX1) | 3:09 | 2022-03-30 |  |
 | [lost in motions](https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lost in motions EP](https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT) | 2:33 | 2023-01-13 |  |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 | 2023-02-04 |

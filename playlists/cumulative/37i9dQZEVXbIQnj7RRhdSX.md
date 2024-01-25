@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,607 songs - 3 day 10 hr 20 min
+1,608 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@
 | [MILANO](https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:14 | 2023-09-30 | 2024-01-07 |
 | [Milano Bene](https://open.spotify.com/track/2O8WUIrr2N2DYC6OqwWCdq) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 2:42 | 2023-11-18 | 2023-12-16 |
 | [Milano Demons](https://open.spotify.com/track/2OOtjHSaaYvKkcaXB2iwhc) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:43 | 2022-11-26 | 2022-12-04 |
-| [Milano Shotta Freestyle](https://open.spotify.com/track/6FQ4crWhH4XY0rG2TwxnEN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Shotta Freestyle](https://open.spotify.com/album/44D2zarWHrlQYyVk2kuv6U) | 2:33 | 2024-01-11 |  |
+| [Milano Shotta Freestyle](https://open.spotify.com/track/6FQ4crWhH4XY0rG2TwxnEN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Shotta Freestyle](https://open.spotify.com/album/44D2zarWHrlQYyVk2kuv6U) | 2:33 | 2024-01-11 | 2024-01-25 |
 | [Milioni \(feat\. Fulminacci\)](https://open.spotify.com/track/5uDVt3ty7ZEFcXj9cgQO1n) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [DENTRO](https://open.spotify.com/album/3Iq213w0DW1OoLRYyMfw3E) | 3:12 | 2023-04-22 | 2023-04-24 |
 | [Mille Voci \(feat\. Drast\)](https://open.spotify.com/track/6Aklmk8BrOWxbYEpTaWJyg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Mille Voci \(feat\. Drast\)](https://open.spotify.com/album/2SEIh231SA5x5lQo2Bosdt) | 3:30 | 2023-04-08 | 2023-04-10 |
 | [MILLE – feat\. Orietta Berti](https://open.spotify.com/track/6qdMhG7pRFi0csRlFGvLE4) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw) | [MILLE – feat\. Orietta Berti](https://open.spotify.com/album/4hxHffYYs32MfS9C1H5l6q) | 2:55 | 2021-06-13 | 2021-11-12 |
@@ -1377,6 +1377,7 @@
 | [Spari sul petto](https://open.spotify.com/track/3JbfrsMXcd2Li2LI0QR7sS) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Solo](https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw) | 3:10 | 2021-10-23 | 2021-10-24 |
 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 | 2023-11-16 | 2023-12-01 |
 | [SPINE \(feat\. Coez\)](https://open.spotify.com/track/6WeWS6o2LddqgPKgmW7AVa) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:35 | 2022-01-15 | 2022-01-20 |
+| [Spingere](https://open.spotify.com/track/3RgpMcg7uRz9b4Sbn1iXec) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Spingere](https://open.spotify.com/album/5M31DXq0glzwh6sxOrW6Be) | 2:37 | 2024-01-24 |  |
 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-02-10 | 2023-03-29 |
 | [Sponsor \(feat\. dutchavelli\)](https://open.spotify.com/track/0KDfnaFHRKoZ3oPUzy28E2) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:05 | 2021-12-12 | 2021-12-18 |
 | [Sport](https://open.spotify.com/track/0UZoRj2sEtpMpPAdizF0N0) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Sport](https://open.spotify.com/album/3ulq6RamdkC27QXqIhqlOe) | 2:51 | 2021-04-10 | 2021-04-11 |

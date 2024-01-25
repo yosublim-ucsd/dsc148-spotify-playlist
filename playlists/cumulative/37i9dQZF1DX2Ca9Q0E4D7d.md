@@ -4,13 +4,14 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-77 songs - 4 hr 0 min
+79 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [199 Hz \- Beta Sinus](https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk) | [Healing Yoga Meditation Music Consort](https://open.spotify.com/artist/38PxQFwKE257tcBkgrr9lb), [Gentle Instrumental Music Paradise](https://open.spotify.com/artist/21XKjuPImIZ82r6lvJPvH5) | [Healing Yoga Meditation 128 Hz\-606 Hz: Solfeggio Bliss, Opening Chakras, Soothing Frequencies for Insomnia Cure, Chakra Relaxation](https://open.spotify.com/album/5pRaImzAiq5lEIsJZAu1hO) | 3:46 | 2022-09-06 |  |
 | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/track/1FEF3YNOw8lIX6dMf2exvO) | [Miracle Healing Tones TP](https://open.spotify.com/artist/63kwdbdX8dCCyiJGJTlIM1), [Solfeggio Frequencies TP](https://open.spotify.com/artist/2LJBMojG5pw23egZt0hOAw) | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/album/1byB0uRoP12fbeHiYLx9Uk) | 2:25 | 2023-11-17 |  |
 | [Appreciation \(Beta 105 Hz \- 121 Hz\)](https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 3:43 | 2023-01-13 |  |
+| [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-24 |  |
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 | 2023-10-06 |
 | [Beta Ambience 92 + 96 hz](https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Binaural Beta Waves](https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3) | 3:16 | 2023-03-16 |  |
 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
@@ -73,6 +74,7 @@
 | [Dream Focus Beta Waves \(146\-160 Hz\)](https://open.spotify.com/track/47EcLhPvEOhBMXPZfYrW5H) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Dream Focus Beta Waves](https://open.spotify.com/album/6vf4eKCWwo8IgwbZ12bx0G) | 3:05 | 2022-09-06 |  |
 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 | 2023-04-06 |  |
 | [Memory \(98.7Hz \- 117.6Hz\)](https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:52 | 2022-09-06 | 2023-10-06 |
+| [Porch Thoughts E Theta \(80\-84hz\)](https://open.spotify.com/track/11KGooXHkq7YhFrDsPtza7) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Settle Down Theta](https://open.spotify.com/album/0zMekCx6Gww7LJAv0A80VD) | 2:45 | 2024-01-24 |  |
 | [Presence Beta Sinus 130 Hz \- 146 Hz](https://open.spotify.com/track/39NMPaHisCJGGODQDArsiN) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 2:56 | 2022-11-23 |  |
 | [Pure Beta Binaural beat \- Increased Concentration](https://open.spotify.com/track/31sVwkyXHzYVmvIWPeGMp3) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/5YdEDCuKxG6ZaGBMoNNB9y) | 5:11 | 2023-11-17 |  |
 | [Realign \(Beta 130.5 Hz \- 149.1 Hz\)](https://open.spotify.com/track/2hhOdjkHZXyNnHw4nLTFM5) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 2:40 | 2022-11-23 | 2023-10-06 |

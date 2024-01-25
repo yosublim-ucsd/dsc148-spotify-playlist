@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 291933,
+  "num_followers": 292115,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhjNjFkMWNiYTJmY2YwYWQ5YTdlZmZlMmIxMTQ2YWQ1ZjEwYzhh",
+  "snapshot_id": "MCxhZjBjOGFhNzA3MGJhN2Y5YTA4YzU1YzI5MDA5MmEwM2RlZjI2YmIx",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2KqyIbbCPKhNfqqzUVq9H9"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 200213,
       "name": "Don't",
       "url": "https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2KqyIbbCPKhNfqqzUVq9H9"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "7 Series",
-        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "F With U (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Late Nights: Red Roses",
         "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 179653,
       "name": "The Light",
       "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "7 Series",
+        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "F With U (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
     },
     {
       "added_at": "2023-03-03 13:37:54",

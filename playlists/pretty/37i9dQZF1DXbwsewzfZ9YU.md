@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,027 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,117 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 |
+| 1 | [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 |
 | 2 | [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 |
 | 3 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 4 | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1) | 2:37 |
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 10 | [The Sin of Human Frailty](https://open.spotify.com/track/2d1mziSU1ZqRdYdMj2Yn5o) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:11 |
 | 11 | [Theatre Of Cruelty](https://open.spotify.com/track/5Axsl42T0DhsvSOTKVjPf3) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:58 |
 | 12 | [Eyes Wide Shut](https://open.spotify.com/track/0bBPFGHqMcZrb9v65cJlgF) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Severance](https://open.spotify.com/album/7x7A9ppDKbtuLRVOC0CSAY) | 2:57 |
-| 13 | [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 |
+| 13 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/6pvMie3cCYqDJ7b8mS2XyT) | 1:18 |
 | 14 | [Squintro](https://open.spotify.com/track/2QHV45Y0JnbiHAttqoefHC) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Feel It All Wash Away](https://open.spotify.com/album/1KKKwoAuiAaKnvPoQ40A3o) | 0:41 |
 | 15 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 |
 | 16 | [WORLD OF MALICE](https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [WORLD OF MALICE](https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn) | 3:24 |
 | 17 | [Snack Run](https://open.spotify.com/track/5YftK2fb0dnyoY88UvljS1) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 0:56 |
-| 18 | [Lifer](https://open.spotify.com/track/2dJT7tA9E1lzY2KBDHDm9L) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/0cV9OMw0QzGrHDztTvRYU9) | 1:32 |
+| 18 | [Lifer](https://open.spotify.com/track/0DzHf51O0XvVEP5D40gEze) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/4IxCFOxIORp5RUQgsP8tdg) | 1:32 |
 | 19 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 |
 | 20 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 |
 | 21 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 52 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
 | 53 | [No Convenient Apocalypse](https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv) | 3:13 |
 | 54 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
-| 55 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
+| 55 | [In the Moment](https://open.spotify.com/track/0NlTiLCrtFjup8wFtiPvUW) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/5TdfffxcU8zEX1V0KlFPB3) | 2:40 |
 | 56 | [In The City](https://open.spotify.com/track/2i9RPuyGUPhNXbEefdQX3S) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/0MVWEsdOeomWGb9LDBoltV) | 3:12 |
 | 57 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 |
 | 58 | [Famine](https://open.spotify.com/track/4X8jREuc6luiF7HeCdDHes) | [Paint It Black](https://open.spotify.com/artist/7GtvuoYRvRQbBnvgu9VS11) | [Famine](https://open.spotify.com/album/3d8dwL3KjNSfhduDaVCObn) | 1:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 97 | [Killing Wage](https://open.spotify.com/track/4V3F6sf0U3DkIgoZlPeeGT) | [Enemy](https://open.spotify.com/artist/4jJEXN720s7o5vBPEJjvOD) | [Maladjusted](https://open.spotify.com/album/5C8PwVl2pPjnpGf68dV8PD) | 1:03 |
 | 98 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 |
 | 99 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
-| 100 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 |
+| 100 | [Apology Denied](https://open.spotify.com/track/4MzCYwWHfleM9HORAQNNbB) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5HEZd6pZmeCNT2Cn4PcA2G) | 2:21 |
 
-Snapshot ID: `MCw0ODk2YzM0N2Q4ZTVlODFhMjhjODU2ZGU1NTkzNDFhOWM5MDMxODBj`
+Snapshot ID: `MCxkMjYyMzU0OGEwMDIzOTM0MDM4MGMzODc1OTIyNDA0ODA4Mjk4ODQ2`

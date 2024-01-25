@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9378,
+  "num_followers": 9377,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4N2VjMjQ0ZTFhYzdlODlhMzY3ZTc1ZTBlZmRhZjg2Zjg0YzIw",
+  "snapshot_id": "MCxkZjg0NWQxZTY5MTQyNmE0MTY2OWQ4NjYwNmUzMmU4MGZkYzUxNzA1",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/4NGWXJbwcdxnToRZccGnZs"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "X (Butterfly)",
+      "url": "https://open.spotify.com/track/4T1vIORq5H4VzaOyAPcA3J"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -1039,30 +1055,6 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "School Rapper3 Final",
-        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
-      },
-      "artists": [
-        {
-          "name": "Young Kay",
-          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 229467,
-      "name": "HERE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
     },
     {
       "added_at": "2024-01-08 08:25:31",

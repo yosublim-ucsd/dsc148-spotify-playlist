@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,033 likes - 386 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,550 likes - 386 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -368,7 +368,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 358 | [Jungle](https://open.spotify.com/track/4FLBxkwDTGKvo4KxRcSvOk) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Jungle](https://open.spotify.com/album/5vpbwGDjZMu1rjcX8Z8kDI) | 2:22 |
 | 359 | [Rebrov](https://open.spotify.com/track/4iBjkytItSWcqF0Na6LcNL) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Rebrov](https://open.spotify.com/album/1MCAd7spOJILM7kYtU8PUN) | 2:12 |
 | 360 | [the wide blue](https://open.spotify.com/track/6Wu4dXb4GKNVejCpufptAR) | [calima.wav](https://open.spotify.com/artist/6AMRD46xHAlgS5rW7QXcWN) | [the wide blue](https://open.spotify.com/album/0Kw5d11WrmJsmzsfuO70Wv) | 2:11 |
-| 361 | [changes \- lofi](https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Dion Evans](https://open.spotify.com/artist/3T63GJFhhxuxhCWiPGpYlL), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [lofi chill vibes with 2Pac](https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q) | 2:18 |
+| 361 | [changes \- lofi](https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc) | [lofi chill vibes with 2Pac](https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q) | 2:18 |
 | 362 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 |
 | 363 | [loner](https://open.spotify.com/track/0pn8vJvv2W9kVo3cgYu0xE) | [miracle.](https://open.spotify.com/artist/1li0e5vjVNNle6uu2vJsQx), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [loner](https://open.spotify.com/album/1fIoxwDTi4cZnLqxnLTMF8) | 1:54 |
 | 364 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 385 | [Tough Night](https://open.spotify.com/track/4qzBVxq0XSjUuqWTEu5QON) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Tough Night](https://open.spotify.com/album/61qouf83vvQBSFpHUXGZkN) | 2:13 |
 | 386 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 |
 
-Snapshot ID: `MCw1NGFhYWIzMzRjMjRmMjhhMDBlNTI3ZDJiZjQxYzZjNDI1ZGE4ODQ0`
+Snapshot ID: `MCw4ZThkYzg2MzQ4NTBkMWU0MDU3ZGRmMGM1ZjZmZDJlYjNmNzY4Y2Fh`

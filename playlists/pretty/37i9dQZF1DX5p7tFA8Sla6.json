@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54914,
+  "num_followers": 54932,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
+  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 279866,
       "name": "Diggin' On James Brown",
       "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
+    },
+    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Undercover Mixtape",
@@ -1179,22 +1195,6 @@
       "duration_ms": 274580,
       "name": "All This Love That I'm Giving",
       "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
-    },
-    {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Gnomes and Badgers",
-        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "I'm Your Biggest Fan",
-      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Gnomes and Badgers",
+        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "I'm Your Biggest Fan",
+      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Stay Good",
-        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        },
-        {
-          "name": "Iwan VanHetten",
-          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
-        }
-      ],
-      "duration_ms": 332661,
-      "name": "Miss Mess",
-      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1471,6 +1447,30 @@
       "duration_ms": 273880,
       "name": "Water",
       "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Stay Good",
+        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        },
+        {
+          "name": "Iwan VanHetten",
+          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
+        }
+      ],
+      "duration_ms": 332661,
+      "name": "Miss Mess",
+      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
-      },
-      "artists": [
-        {
-          "name": "Garth.",
-          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
-        },
-        {
-          "name": "Mammal Dap",
-          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
-        }
-      ],
-      "duration_ms": 212065,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
+      },
+      "artists": [
+        {
+          "name": "Garth.",
+          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
+        },
+        {
+          "name": "Mammal Dap",
+          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
+        }
+      ],
+      "duration_ms": 212065,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
     },
     {
       "added_at": "2019-08-22 14:26:16",

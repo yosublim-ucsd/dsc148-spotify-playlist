@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-218 songs - 14 hr 35 min
+219 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [EYE TO EYE](https://open.spotify.com/track/7xPjw7o7FGf17nYmaGIaPd) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY \(SPECIAL EDITION\)](https://open.spotify.com/album/1Bpy8O2S4go0xe7Au7xuX4) | 3:53 | 2022-11-30 | 2023-05-05 |
 | [Face Ripped Off \(feat\. Aaron Heard\)](https://open.spotify.com/track/3Wd984FGyUfBaWcylWl1l4) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [Homicidal Ecstasy](https://open.spotify.com/album/32ZHR9tU1jBp3xdYldee30) | 2:53 | 2023-11-29 |  |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5yc4CGOURXVKgSkKZ0PoLB) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [See What's On The Inside \(Deluxe\)](https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA) | 3:05 | 2022-11-30 | 2023-11-30 |
+| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/6pvMie3cCYqDJ7b8mS2XyT) | 1:18 | 2023-11-29 |  |
 | [Faking It](https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:28 | 2023-11-29 |  |
-| [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 | 2023-11-29 |  |
+| [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 | 2023-11-29 | 2024-01-25 |
 | [Feel What I Believe](https://open.spotify.com/track/29F2qNwSe4U7DCHUCoRriI) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/1Xs6w4Qx0rHSteeQls8LRI) | 3:59 | 2022-11-30 | 2023-11-30 |
 | [Find a Way or Make One](https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB) | 4:30 | 2022-11-30 | 2023-11-30 |
 | [Forest Dweller](https://open.spotify.com/track/0olmW14ZFT1jC3Ela6HgJG) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Heimdal](https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG) | 5:55 | 2023-11-29 |  |

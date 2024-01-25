@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,938 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,830 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 9 | [Work Out](https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Work Out](https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt) | 3:43 |
 | 10 | [Wild Days](https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wild Days](https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3) | 3:39 |
 | 11 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 |
-| 12 | [under your tongue](https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh) | [Pretty Jane & the Magazines](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [under your tongue](https://open.spotify.com/album/4wPePRy9BV6lmm4wMw3TMH) | 3:20 |
+| 12 | [under your tongue](https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh) | [Pretty Jane](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [under your tongue](https://open.spotify.com/album/4wPePRy9BV6lmm4wMw3TMH) | 3:20 |
 | 13 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 |
 | 14 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 15 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 |
 | 100 | [I'm Only Me When I'm With You](https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm Only Me When I'm With You](https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M) | 4:07 |
 
-Snapshot ID: `MCxhNTI0ZmJmYmZjOGIwNDFlYWFiY2IxNjhhY2ZmNjljMDZjZDExOGY4`
+Snapshot ID: `MCw5ODZjYWI2YzA4MDY0OGMxMmQzM2FiZGUwYzY2OGNlYzA5ZDUwNjc0`

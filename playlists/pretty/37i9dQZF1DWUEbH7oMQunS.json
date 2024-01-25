@@ -1,13 +1,29 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59025,
+  "num_followers": 59048,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
+  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Thousand Hallelujahs (Live)",
+        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 328933,
       "name": "Great I Am - Live",
       "url": "https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "A Thousand Hallelujahs (Live)",
-        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 309329,
-      "name": "A Thousand Hallelujahs - Live",
-      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hymns for Eventide (Eventide Mix)",
+        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Hymns for Eventide (Eventide Mix)",
-        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Attention (a Devotional Project)",
         "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222613,
       "name": "Rest with Me",
       "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Freedom Fighter (Jimmy James Remix)",
-        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
-      },
-      "artists": [
-        {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
-        },
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Freedom Fighter (Jimmy James Remix)",
-      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
@@ -1331,6 +1311,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
+      },
+      "artists": [
+        {
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        },
+        {
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Survive These Seas",
-        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Survive These Seas",
-      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Survive These Seas",
+        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Survive These Seas",
+      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Love Has a Name",
-        "url": "https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c"
-      },
-      "artists": [
-        {
-          "name": "Mezzo Piano",
-          "url": "https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ"
-        }
-      ],
-      "duration_ms": 270500,
-      "name": "Weight of Heaven",
-      "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Love Has a Name",
+        "url": "https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c"
+      },
+      "artists": [
+        {
+          "name": "Mezzo Piano",
+          "url": "https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ"
+        }
+      ],
+      "duration_ms": 270500,
+      "name": "Weight of Heaven",
+      "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "One Thing",
         "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 188586,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rekindle",
-        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
-      },
-      "artists": [
-        {
-          "name": "The Church Vessel",
-          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
-        }
-      ],
-      "duration_ms": 327186,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 219782,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     }
   ],
   "unique_name": "The Good Cup",

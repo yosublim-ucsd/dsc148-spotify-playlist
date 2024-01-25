@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 323215,
+  "2024-01-25": 323560,
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up? This will help!",
   "name": "Energy Booster: Metal",
@@ -1212,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138709,
+      "name": "Disappoint Me",
+      "url": "https://open.spotify.com/track/20aCoP9JO1OGnnsSW6RQ67"
+    },
+    {
+      "album": {
         "name": "Don't Need You (Edit)",
         "url": "https://open.spotify.com/album/7DRnBLuaOHdetg3zKcrcn0"
       },
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 237933,
       "name": "Incense & Iron",
       "url": "https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ"
@@ -2527,6 +2545,24 @@
       "duration_ms": 220368,
       "name": "Learn To Live",
       "url": "https://open.spotify.com/track/6zROcM9OvgYBjvnOnJ6nHE"
+    },
+    {
+      "album": {
+        "name": "Left Behind (Acoustic)",
+        "url": "https://open.spotify.com/album/3vXU8TC9EDEdmnRUoGuOb1"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/1fELNqKkbCNDWpxJHOXuVY"
     },
     {
       "album": {
@@ -3576,6 +3612,24 @@
     },
     {
       "album": {
+        "name": "Re-Vision",
+        "url": "https://open.spotify.com/album/3cZYVDFa2tUQUif0YxklQG"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Re-Vision",
+      "url": "https://open.spotify.com/track/7oH5PloCvUrTxcaRBgsZBa"
+    },
+    {
+      "album": {
         "name": "The Death We Seek",
         "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
       },
@@ -3811,7 +3865,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 263947,
       "name": "Slaughterhouse (feat. Bryan Garris)",
       "url": "https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX"
@@ -4989,7 +5043,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 286941,
       "name": "welcome2paradise",
       "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"

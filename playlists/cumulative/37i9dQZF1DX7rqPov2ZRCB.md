@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-252 songs - 19 hr 20 min
+252 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 | 2019-09-09 |  |
 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 | 2019-09-09 | 2022-11-25 |
 | [Adan y Eva](https://open.spotify.com/track/0RJs8drfEtEtUWy5Ujwbup) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Grandes Exitos](https://open.spotify.com/album/6s3CqsbYOpa4nUuiguAUIN) | 2:43 | 2019-09-09 | 2022-07-20 |
-| [Adan Y Eva](https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re) | [Tatico Henriquez Songs](https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE) | [Cumbia Sampuesana](https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8) | 2:44 | 2019-09-09 |  |
 | [Adán y Eva](https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [La Cuestión](https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD) | 2:44 | 2019-09-09 | 2023-02-24 |
 | [Ah Vas A Seguir](https://open.spotify.com/track/76iBvpmKIhyGujiLOH8lua) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Merengue Party Vol\. 2](https://open.spotify.com/album/2ZrtjCxnJAFwIXbrct78sZ) | 4:39 | 2019-09-09 | 2022-07-24 |
 | [Al Que Le Pique](https://open.spotify.com/track/3rHdsROdo2VVY3NUoQihT2) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [1](https://open.spotify.com/album/6ewQaPepdmwT139inGJBJ9) | 7:47 | 2019-09-09 |  |
@@ -96,6 +95,7 @@
 | [El Maja Pap](https://open.spotify.com/track/5e9roZqNNZyyo4pqAc1rtB) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Tipicohits 2005](https://open.spotify.com/album/6DwmcieC9KBvAkFsR92AmT) | 4:55 | 2019-09-09 | 2022-07-25 |
 | [El Número Telefónico \- En Vivo](https://open.spotify.com/track/0H7LGh228bDHFMJzh0ZWyQ) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Kiko el Presidente: Live from Santiago](https://open.spotify.com/album/5Iw0HyzfuxfD5aLECUD1nM) | 8:03 | 2019-09-09 | 2022-07-27 |
 | [El pegao](https://open.spotify.com/track/3vpRselJc43gqIUjlnRYDp) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:52 | 2019-09-09 | 2022-07-29 |
+| [El Pequeñuelo](https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re) | [Tatico Henriquez Songs](https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE) | [Cumbia Sampuesana](https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8) | 2:43 | 2019-09-09 |  |
 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 | 2019-09-09 | 2022-09-23 |
 | [El Pobre Infeliz](https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo) | 4:21 | 2019-09-09 |  |
 | [El Pobre Infeliz](https://open.spotify.com/track/3pR2s1iAU7G2PrgK64Gz2t) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/4wNqjMnwMHHlIuZQfjTPVT) | 4:21 | 2019-09-09 | 2022-07-27 |
@@ -115,6 +115,7 @@
 | [Esa Muchacha \- En Vivo](https://open.spotify.com/track/6e64YZWafZke4rwrMLg4yP) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Kiko el Presidente: Live from Santiago](https://open.spotify.com/album/5Iw0HyzfuxfD5aLECUD1nM) | 5:21 | 2019-09-09 | 2022-07-29 |
 | [Esta Noche Me Emborracho](https://open.spotify.com/track/2isA1Ifv91JCSh8Kn0xTl0) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Two Strong Live \(Summer Latino, Vol.2\)](https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6) | 4:07 | 2019-09-09 | 2022-07-28 |
 | [Haciendo la Cena](https://open.spotify.com/track/41E7MZbiA4b2OmL9dUiEAS) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Haciendo la Cena](https://open.spotify.com/album/1sURoT9wU61OM6BPeUNJHg) | 3:15 | 2019-09-09 | 2022-07-29 |
+| [Homenaje a Bolo \- En Vivo](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 5:54 | 2019-09-09 |  |
 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 | 2019-09-09 |  |
 | [Kiri Kra](https://open.spotify.com/track/61vd4QaA1nBa5mu7gcw2R1) | [Tulile](https://open.spotify.com/artist/6bTDDuLBAc970gDKmysb9h) | [Suena Estupido Pero No Lo Es](https://open.spotify.com/album/6gzPIuJ3oFt6wtjqQLOVrx) | 3:56 | 2019-09-09 | 2022-07-28 |
 | [La Aldaba](https://open.spotify.com/track/4oOQqiQ3CLr8Z06LhmfsEH) | [Wilman Peña](https://open.spotify.com/artist/4ZCt8TwKamzijlmkvHxuKH) | [Qué Linda](https://open.spotify.com/album/6fCoSrjnnmEpkej8iiyiox) | 5:35 | 2019-09-09 | 2022-07-29 |
@@ -246,7 +247,6 @@
 | [Vamos a Hablar Ingles](https://open.spotify.com/track/3hR8Y6HYNsIJUnBsj5Gar8) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Los Llevo Presente](https://open.spotify.com/album/4HHcAjfDygFZVakXAHczEf) | 4:36 | 2019-09-09 | 2023-04-10 |
 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 | 2019-09-09 | 2022-12-25 |
 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 | 2019-09-09 |  |
-| [Vamos Hablar Ingles](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 4:35 | 2019-09-09 |  |
 | [Vamos Pa la Playa](https://open.spotify.com/track/0S5e0l6A8iZhUl2WQCFecX) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 4:44 | 2019-09-09 | 2022-07-29 |
 | [Vamos Pa la Playa](https://open.spotify.com/track/2UFuyJNjpIhpCAvLeGB2W5) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:44 | 2019-09-09 | 2022-07-26 |
 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 | 2019-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,421 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,449 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 69 | [Munchies](https://open.spotify.com/track/6KwliIK6KXwVLY6TKOkOOx) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Munchies](https://open.spotify.com/album/5genJf5NzSsmOEeVCpzIiM) | 2:37 |
 | 70 | [Forgiveless \(feat\. Ol' Dirty Bastard\)](https://open.spotify.com/track/5IcP1PPnleZ2kuwKDyfNC5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:21 |
 | 71 | [TOPIC](https://open.spotify.com/track/0r5Sp6vDej7NpEVljHWzYI) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/7eNRzznJs1D3r7e5pmg28z) | 1:14 |
-| 72 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 |
+| 72 | [W4TN](https://open.spotify.com/track/0qeePYqr2G0Zqb5G9X1Ryr) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/6RMqx6Us3m901HEDkQ4ILx) | 2:41 |
 | 73 | [All Natural](https://open.spotify.com/track/6ti0huIVHb1J9JiwKbj7vM) | [Overkissed](https://open.spotify.com/artist/4m194iCkQ1ow7ijhuu9lk3) | [Porn Cuts](https://open.spotify.com/album/1KgBNDMEyu45mrAcG5y5rE) | 3:35 |
 | 74 | [Toxic](https://open.spotify.com/track/7lEaKSYmt8AQ9A9zqzfayM) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue \(After Hours Deluxe\)](https://open.spotify.com/album/2YgVEpyUtHUdr5pLHDhuPX) | 1:51 |
 | 75 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCwyM2RhN2JhMWNmOWY1ZDc3NjE0MjIyOGRkZDE4NGQ0NWZlNDQ2ZWVl`
+Snapshot ID: `MCw5NmM5MjNhNDZlMjhlNTI2MDkwM2Q3YWU5OTYyYmY5NDhmYzc2MTM0`

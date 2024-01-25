@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: adoracion
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,104 likes - 79 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,096 likes - 79 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 78 | [Hey Kamu](https://open.spotify.com/track/5dJCpBIK5EwXzFpo3vJMWZ) | [Sagala Ripuh](https://open.spotify.com/artist/1Onp1cnBPSJY0cIMfEEUXs) | [Hey Kamu](https://open.spotify.com/album/5ezsONzxAd3UJmwzEyPfel) | 5:10 |
 | 79 | [Berarti](https://open.spotify.com/track/2p68Wi7VGwJIWrRZy9GJDS) | [Denny Indrajaya](https://open.spotify.com/artist/1FJsMaXbB2RrxmfBE7ExHD) | [Berarti](https://open.spotify.com/album/4LohwMVhbEQbDi2zuX6Ns5) | 4:31 |
 
-Snapshot ID: `MCwyYTMzZjIwYmE1ZDYyZTMwZjI2OTlmYTEwMGExMTJlMjczYjVlYjdj`
+Snapshot ID: `MCw2NTNmNDU1MzBlNzU0MGJmMThkODUyMWE5Zjk4ZjgxNWVkNmYwMjQy`

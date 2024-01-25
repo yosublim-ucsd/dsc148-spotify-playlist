@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 24 min
+95 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [DIBBY DIBBY](https://open.spotify.com/track/4AU668eWG5FicichFuxyuJ) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 3:36 | 2023-12-13 |  |
 | [DOSE II](https://open.spotify.com/track/3Rv996DTJVR6RtG7cLfoMa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:43 | 2023-12-13 |  |
 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 | 2023-12-13 |  |
-| [DWAY!](https://open.spotify.com/track/0IbaAAp2pL2QMCshGQlvTe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:25 | 2023-12-13 |  |
+| [DWAY!](https://open.spotify.com/track/0IbaAAp2pL2QMCshGQlvTe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:25 | 2023-12-13 | 2024-01-25 |
+| [DWAY!](https://open.spotify.com/track/3IqdWoxvlK7IZNhvy2S5wX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/5zHqrXJ3FUiHjs4wQdE7vj) | 2:25 | 2024-01-24 |  |
 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 | 2023-12-13 |  |
 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 | 2023-12-13 |  |
 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 | 2023-12-13 |  |

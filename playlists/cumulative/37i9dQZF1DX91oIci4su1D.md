@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-813 songs - 2 day 1 hr 27 min
+814 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Carcerem](https://open.spotify.com/track/4CrDAeFy6asxsCrDsKS4cR) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Funkagenda](https://open.spotify.com/artist/2bElZdbJcj6B8WIP2fiKsG) | [Carcerem](https://open.spotify.com/album/2Ax5FAZzgxkbSE5HCOe58q) | 3:28 | 2021-12-17 | 2022-03-12 |
 | [Carte Blanche](https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Carte Blanche](https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1) | 3:21 | 2023-06-02 |  |
 | [Cassini](https://open.spotify.com/track/2xE2KgloGwFiKvyISkMSJp) | [Activa](https://open.spotify.com/artist/2B18AH9f6R9LcJWM03Szob), [Slipstream](https://open.spotify.com/artist/35hGbA4ugdojhwMAh4jUXj) | [Cassini](https://open.spotify.com/album/6sx41AEVkLVs3fKPMwoqlu) | 8:15 | 2022-06-03 | 2022-06-29 |
+| [Catch](https://open.spotify.com/track/68bVU37B5M7iWivhixMvqZ) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Catch](https://open.spotify.com/album/5NnjMNuQGs4IdrmE5lgCRh) | 3:20 | 2024-01-19 |  |
 | [Chains](https://open.spotify.com/track/176ZaaR8vH0qRbQvpq1mOT) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Chains](https://open.spotify.com/album/7EsOLB2VgtVhoxhLaH0sJ5) | 3:37 | 2023-02-24 |  |
 | [Chains](https://open.spotify.com/track/6yyjcaUe0zqxo2CV1Jv3ar) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Chains](https://open.spotify.com/album/2odIsNw88KYMvRYws0xCmI) | 3:37 | 2022-08-19 | 2023-02-23 |
 | [Change The World](https://open.spotify.com/track/7DDWs7TCnDrQyZJQ6B7maV) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Sarah Russell](https://open.spotify.com/artist/130O0cb6ht7pUyIJmpbQuP) | [Change The World](https://open.spotify.com/album/1UudyzciU5nu3hvFSZJQOm) | 3:08 | 2022-01-21 | 2023-02-25 |
@@ -396,7 +397,7 @@
 | [Leave a Little Love \- Club Mix](https://open.spotify.com/track/7vW1njtiA0lFgHRrurMIKc) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave a Little Love \(Club Mix\)](https://open.spotify.com/album/0Nqfemx6roJ0N0x2GUhFNZ) | 2:53 | 2021-12-17 | 2022-02-26 |
 | [Leaving Me](https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Leaving Me](https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p) | 3:20 | 2023-09-08 |  |
 | [Les Etoiles](https://open.spotify.com/track/0OAllrym4XCje0r2SPEYTk) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m), [Frank Spector](https://open.spotify.com/artist/1LlWF34CT7pudW0sFZpsuG) | [Les Etoiles](https://open.spotify.com/album/6kTPIdXZG5QqebmBckLz5s) | 3:05 | 2023-06-30 |  |
-| [Let Go](https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Let Go](https://open.spotify.com/album/0UTLMtGykn3zILn2iZayjx) | 3:29 | 2023-03-17 |  |
+| [Let Go](https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Let Go](https://open.spotify.com/album/0UTLMtGykn3zILn2iZayjx) | 3:29 | 2023-03-17 | 2024-01-25 |
 | [Let Me Out](https://open.spotify.com/track/0UaUxHmxqaVTKMNFQc8roy) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Let Me Out](https://open.spotify.com/album/6E7KPmVTFVshga6VEuVySy) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Let You Down](https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 3:30 | 2022-06-10 | 2022-11-12 |
 | [Let You Down \- Chris Schweizer Remix](https://open.spotify.com/track/5uHEofIJPJaU01HuZ9R1Yw) | [Eco](https://open.spotify.com/artist/53B8p4TVFXCtarwosey71M), [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [Let You Down](https://open.spotify.com/album/1ofE9M2CxwoQdff327H2J5) | 3:06 | 2021-12-17 | 2022-09-26 |

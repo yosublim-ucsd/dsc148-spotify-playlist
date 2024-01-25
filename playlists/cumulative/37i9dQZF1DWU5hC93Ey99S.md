@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-395 songs - 21 hr 22 min
+397 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Save a Soul](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Woods](https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F) | 4:22 | 2023-04-20 |  |
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-04-13 |  |
 | [say my name](https://open.spotify.com/track/2vJXLcot7FkfJ4uca2b1V4) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [say my name](https://open.spotify.com/album/5dMKkALzboXaoj3kFVE73n) | 2:38 | 2023-05-04 | 2023-10-20 |
-| [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 | 2023-08-03 |  |
+| [Say Something](https://open.spotify.com/track/5kevKlMizn34WXt6t4MgHz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/4JSwVhJw8ssKvNRw45vhb2) | 3:20 | 2023-12-21 |  |
+| [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 | 2023-08-03 | 2024-01-25 |
 | [Say Yes To Heaven \- sim0ne & Melo Nada Remix](https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV), [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 4:13 | 2023-06-01 | 2023-07-22 |
 | [Say You Want Me \- Pocket Remix](https://open.spotify.com/track/1tTgKFv9pYOAIJ4n7hY5Bb) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Say You Want Me \(Pocket Remix\)](https://open.spotify.com/album/67sGQE5Ga6F2IjvDNciRJH) | 3:10 | 2023-11-16 | 2024-01-06 |
 | [Scared To Lose You](https://open.spotify.com/track/3HfTXw9hR8dHkhdc7aKrfP) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Scared To Lose You](https://open.spotify.com/album/4tFfoVxGgISgXfGodGaQSj) | 2:31 | 2023-10-19 | 2024-01-06 |
@@ -344,7 +345,8 @@
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-08-31 | 2024-01-06 |
 | [The Pace \- niina Remix](https://open.spotify.com/track/4yI1ZlRHKK5oUkcbdunYpJ) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [Guiding Hand Remixes](https://open.spotify.com/album/7C0IjpdbCnfygW5Kp7mZQn) | 3:43 | 2023-12-08 |  |
 | [the search](https://open.spotify.com/track/6YGQnwuKcbKIMkDwjwLBWA) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [the search](https://open.spotify.com/album/1s1PoYSfV17Cu2Ee1qvbG1) | 3:07 | 2023-12-14 | 2024-01-06 |
-| [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 | 2023-12-08 |  |
+| [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 | 2023-12-08 | 2024-01-25 |
+| [The Way It Goes](https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/1kQlSA0X2r5RRa4WPTGjdw) | 3:04 | 2023-12-21 |  |
 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 | 2023-08-03 | 2024-01-06 |
 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-23 | 2024-01-06 |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-04-13 |  |

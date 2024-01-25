@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 73645,
+  "num_followers": 73689,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDlmM2NkN2QwYTRmOTRlZTU4NTM0ZDcyMGQyYWIxOWFmOWQ2MGEw",
+  "snapshot_id": "MCw5NDNkZDZlMmI1NjJjZDgyMmM5YWQ2YTg2Y2RjY2ViNWNiMTgwNjcw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Han Jan",
-        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 242982,
-      "name": "Han Jan - Edit",
-      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Work It (Soulwax Remix)",
         "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Han Jan",
+        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 242982,
+      "name": "Han Jan - Edit",
+      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "L'uomo d'affari / Italove",
         "url": "https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Lesser Man EP",
         "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 439490,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
-      },
-      "artists": [
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 149051,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Family Portrait",
         "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 306118,
       "name": "Thank God I'm A Lizard",
       "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Animosity (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
       },
       "artists": [
         {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+      "duration_ms": 308858,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 308858,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
     },
     {
       "added_at": "2024-01-12 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32657,
+  "num_followers": 32683,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -239,6 +239,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Luv Dancin'",
+        "url": "https://open.spotify.com/album/0ovIONj4SSFNw6L0NNz5Dp"
+      },
+      "artists": [
+        {
+          "name": "Underground Solution",
+          "url": "https://open.spotify.com/artist/5npk2VWFPRppHeqXqQVFw8"
+        },
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        }
+      ],
+      "duration_ms": 501526,
+      "name": "Luv Dancin' (In Deep Mix)",
+      "url": "https://open.spotify.com/track/43CxehImZTDLTClNOZajCY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/6naxk0MtAT5YJawdeNeUaC"
       },
@@ -271,22 +291,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Luv Dancin'",
-        "url": "https://open.spotify.com/album/0ovIONj4SSFNw6L0NNz5Dp"
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
       },
       "artists": [
         {
-          "name": "Underground Solution",
-          "url": "https://open.spotify.com/artist/5npk2VWFPRppHeqXqQVFw8"
-        },
-        {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
         }
       ],
-      "duration_ms": 501526,
-      "name": "Luv Dancin' (In Deep Mix)",
-      "url": "https://open.spotify.com/track/43CxehImZTDLTClNOZajCY"
+      "duration_ms": 474560,
+      "name": "Zulu (Change Mix)",
+      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -307,34 +323,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
+        "name": "Feel It / Waterfalls",
+        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "After Hours",
+          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
         }
       ],
-      "duration_ms": 474560,
-      "name": "Zulu (Change Mix)",
-      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Reach - The Ultimate Remixes",
-        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
-      },
-      "artists": [
-        {
-          "name": "Lil' Mo' Yin Yang",
-          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
-        }
-      ],
-      "duration_ms": 472453,
-      "name": "Reach (Little \"More\" Mix)",
-      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
+      "duration_ms": 358680,
+      "name": "Waterfalls (3 A.M. Mix)",
+      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Feel It / Waterfalls",
-        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
+        "name": "Reach - The Ultimate Remixes",
+        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
       },
       "artists": [
         {
-          "name": "After Hours",
-          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
         }
       ],
-      "duration_ms": 358680,
-      "name": "Waterfalls (3 A.M. Mix)",
-      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
+      "duration_ms": 472453,
+      "name": "Reach (Little \"More\" Mix)",
+      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "So Deep, so Good",
-        "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
-      },
-      "artists": [
-        {
-          "name": "M & M",
-          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
-        }
-      ],
-      "duration_ms": 456236,
-      "name": "So Deep, so Good (Ndako Gboya Mix)",
-      "url": "https://open.spotify.com/track/36q4kV9QMWJOOANWJR21Wr"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/2GR2SyVgjnJCDyCxajyCEB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "So Deep, so Good",
+        "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
+      },
+      "artists": [
+        {
+          "name": "M & M",
+          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+        }
+      ],
+      "duration_ms": 456236,
+      "name": "So Deep, so Good (Ndako Gboya Mix)",
+      "url": "https://open.spotify.com/track/36q4kV9QMWJOOANWJR21Wr"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Hey! / The Size (Mixes)",
-        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "Hey! / The Size (Mixes)",
+        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+      "duration_ms": 427132,
+      "name": "Hey! (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -867,6 +851,22 @@
       "duration_ms": 398566,
       "name": "Spark da Meth (Bangin Like a Benzi Mix)",
       "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Set My Spirit Free",
+        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
+      },
+      "artists": [
+        {
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
+        },
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        }
+      ],
+      "duration_ms": 468520,
+      "name": "Set My Spirit Free (feat. Sandy Rivera)",
+      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 605294,
       "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
       "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Set My Spirit Free",
-        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
-      },
-      "artists": [
-        {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        }
-      ],
-      "duration_ms": 468520,
-      "name": "Set My Spirit Free (feat. Sandy Rivera)",
-      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
+      "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

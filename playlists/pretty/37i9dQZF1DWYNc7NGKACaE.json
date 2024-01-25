@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 76351,
+  "num_followers": 76386,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk",
+  "snapshot_id": "MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "SEGREDO VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
-      },
-      "artists": [
-        {
-          "name": "Dj Vr Silva",
-          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
-        },
-        {
-          "name": "Karui",
-          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
-        }
-      ],
-      "duration_ms": 156922,
-      "name": "SEGREDO VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ametista (Speed Up)",
         "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 107095,
       "name": "Ametista - Speed Up",
       "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "SEGREDO VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
+      },
+      "artists": [
+        {
+          "name": "Dj Vr Silva",
+          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
+        },
+        {
+          "name": "Karui",
+          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
+        }
+      ],
+      "duration_ms": 156922,
+      "name": "SEGREDO VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
     },
     {
       "added_at": "2023-12-27 14:18:14",

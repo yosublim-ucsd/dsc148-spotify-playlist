@@ -1,9 +1,27 @@
 {
-  "2024-01-24": 262087,
+  "2024-01-25": 262041,
   "date_first_scraped": "2021-12-21",
-  "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
+  "description": "Nominees \u2014 and past winners \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
   "name": "Hollywood's Big Night",
   "tracks": [
+    {
+      "album": {
+        "name": "Poor Things (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
+      },
+      "artists": [
+        {
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53093,
+      "name": "\"I Just Hope She's Alright\"",
+      "url": "https://open.spotify.com/track/7BZHB6hhlQDP6epkc3ayZK"
+    },
     {
       "album": {
         "name": "Rocketman (Music From The Motion Picture)",
@@ -261,7 +279,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 182016,
       "name": "Applause - From \"Tell It Like a Woman\"",
       "url": "https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl"
@@ -359,6 +377,24 @@
       "duration_ms": 240000,
       "name": "Can You Feel The Love Tonight",
       "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
+    },
+    {
+      "album": {
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110160,
+      "name": "Can You Hear The Music",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
     },
     {
       "album": {
@@ -801,7 +837,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
@@ -952,6 +988,24 @@
     },
     {
       "album": {
+        "name": "It Never Went Away (From the Netflix Documentary \u201cAmerican Symphony\u201d)",
+        "url": "https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "It Never Went Away - From the Netflix Documentary \u201cAmerican Symphony\u201d",
+      "url": "https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK"
+    },
+    {
+      "album": {
         "name": "Don't Look Up (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
       },
@@ -967,6 +1021,24 @@
       "duration_ms": 154394,
       "name": "It's A Strange Glorious World",
       "url": "https://open.spotify.com/track/1SshbVdE2eoozhRWnVDIuL"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
     },
     {
       "album": {
@@ -1091,7 +1163,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -1214,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "American Fiction (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196947,
+      "name": "My Pafology - From \"American Fiction\" Soundtrack",
+      "url": "https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe"
+    },
+    {
+      "album": {
         "name": "Diwali Special Party Songs",
         "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
       },
@@ -1280,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Indiana Jones and the Dial of Destiny (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2oaBMWEc8mY8TsCfOREHfV"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257160,
+      "name": "New York, 1969",
+      "url": "https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J"
+    },
+    {
+      "album": {
         "name": "No Time To Die",
         "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
       },
@@ -1334,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "Osage Oil Boom",
+      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
+    },
+    {
+      "album": {
         "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
       },
@@ -1345,7 +1471,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 102608,
       "name": "Paul",
       "url": "https://open.spotify.com/track/3Ws54uOiepC4hx6NeWUU8K"
@@ -1399,7 +1525,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 104320,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
@@ -1656,6 +1782,24 @@
     },
     {
       "album": {
+        "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
+        "url": "https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200099,
+      "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
+      "url": "https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy"
+    },
+    {
+      "album": {
         "name": "The Midnight Sky (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/6vmu6V3J4WABvjKoAwqrQw"
       },
@@ -1801,7 +1945,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 160288,
       "name": "This Is How I Fight",
       "url": "https://open.spotify.com/track/3M0Q7Zf7WIWA3DErPigGg8"
@@ -1884,6 +2028,24 @@
     },
     {
       "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Osage Tribal Singers",
+          "url": "https://open.spotify.com/artist/31qo6S8u0K0ZI8zFylCtsX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385588,
+      "name": "Wahzhazhe (A Song for My People)",
+      "url": "https://open.spotify.com/track/10u90DStR4xXoggkuyiKmd"
+    },
+    {
+      "album": {
         "name": "Black Panther (Original Score)",
         "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
       },
@@ -1917,7 +2079,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 77960,
       "name": "Walking Home Alone",
       "url": "https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ"
@@ -2021,7 +2183,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 240000,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0Hn9iSg0dwEfw7a7o8JjUZ"
@@ -2159,6 +2321,24 @@
       "duration_ms": 284398,
       "name": "What This Mission's About",
       "url": "https://open.spotify.com/track/6gZpNkvDpjsTi02VV1O2WI"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {

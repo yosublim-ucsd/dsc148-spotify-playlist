@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,023 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,113 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Loner](https://open.spotify.com/track/36hwRicttksOhAu8m93811) | [Elisha k](https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM), [Rinyu](https://open.spotify.com/artist/6hkQE2Mjf72c4BXnawAcq7) | [Loner](https://open.spotify.com/album/3wLWb1V6HmUW7h29NGydXg) | 2:37 |
 | 49 | [Mamae](https://open.spotify.com/track/05O5SXB2UNtknsETkzYo5O) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF) | [Mamae](https://open.spotify.com/album/7F8XVMXoqeQ7b1SBLshRHF) | 2:50 |
 
-Snapshot ID: `MCw3NjJiMDAzMWFjZTc5ZDM0MjM3M2VmYjVhMDI1NzJhMmNmZDc1YmUz`
+Snapshot ID: `MCw4N2Q0NGQ3ZmZhZTAzNTc3NjZmYTNjYTc2MWMyNTlhZGUyYTk5MDVl`

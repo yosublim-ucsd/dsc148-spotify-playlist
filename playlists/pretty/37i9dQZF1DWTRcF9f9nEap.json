@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 86486,
+  "num_followers": 86546,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQyMTA0YTg4YjYyMDM0NDk4NmY5ZDU0M2E1MTc2YWI3NzRjMzEw",
+  "snapshot_id": "MCwwYzZiNDEyMmMzZThlYzcwOWIzNTQyZDgzMmJmY2NlZGIwMjBlMmMz",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "An Anthology",
         "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Songlines",
         "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Best - Southern Blues",
         "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "At The Crossroads: The Blues Of Robert Johnson",
         "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 268133,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
     },
     {
       "added_at": "2023-01-16 21:05:55",

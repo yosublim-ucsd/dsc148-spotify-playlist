@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-505 songs - 1 day 6 hr 32 min
+506 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-24 | 2023-08-19 |
 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 | 2023-03-25 | 2023-04-15 |
 | [Día de lluvia en Madrid](https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día de lluvia en Madrid](https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC) | 3:14 | 2023-03-17 | 2023-04-19 |
-| [Día De Lluvia En Madrid](https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día De Lluvia En Madrid](https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx) | 3:14 | 2024-01-19 |  |
+| [Día De Lluvia En Madrid](https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día De Lluvia En Madrid](https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx) | 3:14 | 2024-01-19 | 2024-01-25 |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-06-10 | 2022-06-16 |
 | [El Agua Y La Miel / Milagro \(Demo\)](https://open.spotify.com/track/3Ujdh4BxO47sP3pkFxw7lm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:58 | 2021-12-24 | 2022-04-29 |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/08dAUY4e3dZeasrZV76hNf) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Edel Juárez](https://open.spotify.com/artist/6ms3D0kJqKLA6VOXG2z17J) | [El Alma y el Cuerpo](https://open.spotify.com/album/1sHTegawC3Q6eCe72EgHFy) | 5:02 | 2022-03-07 | 2022-03-12 |
@@ -306,6 +306,7 @@
 | [Mirando el Mar \- Versión Palmera](https://open.spotify.com/track/6gu0EkZTYS1fomV6G3XBIH) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Vuela Lejos \(Abriendo Latidos\)](https://open.spotify.com/album/7gMauUcw3rCV8hxRVbAruM) | 3:07 | 2022-06-10 | 2022-06-25 |
 | [Miña Rula / Non Teñas Medo](https://open.spotify.com/track/6t5rXtW76GQiCfdR4IWHQW) | [Santi Araújo](https://open.spotify.com/artist/4OhOLgx55siRiNJmSXoAMc), [Leonor Watling](https://open.spotify.com/artist/3Ugtds1yOqfTzTwP9iHFZ3) | [Miña Rula / Non Teñas Medo](https://open.spotify.com/album/68eQTK4Za02Ytl2IJ9qF1w) | 3:32 | 2022-02-04 | 2022-05-27 |
 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 | 2021-12-24 | 2023-02-18 |
+| [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 | 2024-01-19 |  |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 | 2023-12-01 |  |

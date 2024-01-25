@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,594 likes - 43 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,644 likes - 43 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 3 | [Cheers](https://open.spotify.com/track/3l9kDKeLojCDYtySQ8g4KB) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Cheers](https://open.spotify.com/album/3COWSsQHCMD3mcOz0WO0sJ) | 3:07 |
 | 4 | [Broken Enough](https://open.spotify.com/track/37jDkd3aFJE0ZGoLQpdMTp) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Broken Enough](https://open.spotify.com/album/6hEdQPrR8iZXM3fzQkGUXh) | 2:59 |
 | 5 | [Blue Hundreds](https://open.spotify.com/track/480UYYizbyMxnzxtC8BZOk) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Blue Hundreds](https://open.spotify.com/album/4BtuFEz9Je4R0p2qzQsARC) | 2:19 |
-| 6 | [Balance Beam](https://open.spotify.com/track/4vetEfwqNcu6I7gz0GrXEl) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/2xbV9B1JAdkmkVtjRbsT15) | 2:46 |
+| 6 | [Balance Beam](https://open.spotify.com/track/1AoMflBvnqkv0YB1vpasc9) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/4gFhhySpDU28o3eS46Bf4f) | 2:46 |
 | 7 | [Sixty Eight \(feat\. YBN Nahmir\)](https://open.spotify.com/track/56KcjeWdz56bfJFZhhcEM7) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Sixty Eight \(feat\. YBN Nahmir\)](https://open.spotify.com/album/5zWesSKq40WYL36Biw32d5) | 3:44 |
 | 8 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
 | 9 | [Doin' The Most](https://open.spotify.com/track/0JUcdOSgUMBUWowljLrisK) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Doin' The Most](https://open.spotify.com/album/7lUU9LoDouWp8woqJqJvLB) | 1:55 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 42 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 43 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
 
-Snapshot ID: `MCwxMDU4MTI5MjI5NDRiZjA3NTY1NWY0MWEwMzEwYmQ0ZjBmMjk5YTQ4`
+Snapshot ID: `MCw3YWM0YTYyNDU5YWMxNGQwNzg0MTYxODQxMTE0MzNkZmNmNzZjZTkx`

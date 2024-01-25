@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 251274,
+  "num_followers": 251419,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzgwZDNkYjQ0Y2UxMGZiNjczMjE4MDEzMDMwZmZkZWY0MjY2MDU1",
+  "snapshot_id": "MCw0NzEyZjRkZmJjOTNhMDAxNDkyMTgwNzIxODcwMmI5NmFmNTI3MTVh",
   "tracks": [
     {
       "added_at": "2024-01-19 17:31:05",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
         "name": "Firewater",
         "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+        "name": "And You Are Me",
+        "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
       },
       "artists": [
         {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
         }
       ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+      "duration_ms": 275520,
+      "name": "Keep The Wolves Away",
+      "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -167,22 +183,6 @@
       "duration_ms": 182653,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
-        "name": "And You Are Me",
-        "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Keep The Wolves Away",
-      "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ"
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 176226,
-      "name": "Troubadour",
-      "url": "https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH"
+      "duration_ms": 257413,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Geronimo",
-        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 257413,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
+      "duration_ms": 176226,
+      "name": "Troubadour",
+      "url": "https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 205337,
       "name": "Must Be the Whiskey",
       "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Snake Farm",
-        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Snake Farm",
-      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Vol. 1- EP",
         "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 206210,
       "name": "Every Single Kiss",
       "url": "https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Snake Farm",
+        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Snake Farm",
+      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Any Night in Texas",
-        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Boots on a Dance Floor",
-      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 233106,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Any Night in Texas",
+        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Boots on a Dance Floor",
+      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Cross Canadian Ragweed",
         "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 319200,
       "name": "17",
       "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 246803,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
     }
   ],
   "unique_name": "Heart Of Texas",

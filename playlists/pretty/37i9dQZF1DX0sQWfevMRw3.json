@@ -1,13 +1,33 @@
 {
   "description": "VI VILL HA L\u00c5DVIN UH DET \u00c4R V\u00c5R BENSIN!!",
-  "num_followers": 155158,
+  "num_followers": 155145,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmYzMTdmYjU3YTU5NDAzMWJmNmE1MmI2MWExMDM5NDc5YWE2OGIx",
+  "snapshot_id": "MCwxODlmY2Q3MjQ0NzJiODNlOTkxNzlhNWNiZDU3NzQxNzkzNmQ4MTI1",
   "tracks": [
+    {
+      "added_at": "2024-01-24 08:24:11",
+      "album": {
+        "name": "Jeg vil ha (Parlamentet)",
+        "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        },
+        {
+          "name": "Roc Meiniac",
+          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
+        }
+      ],
+      "duration_ms": 183615,
+      "name": "Jeg vil ha (Parlamentet)",
+      "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
+    },
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {

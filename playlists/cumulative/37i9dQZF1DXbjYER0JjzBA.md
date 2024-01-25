@@ -4,7 +4,7 @@
 
 > The tracklist to your holiday movie soundtrack.
 
-50 songs - 2 hr 33 min
+51 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Walking in the Air \- The Story of the Snowman edit](https://open.spotify.com/track/2SlPxY0UmlVdCnGMfXFTLK) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 3:30 | 2023-11-01 |  |
 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 | 2023-11-01 |  |
 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 | 2023-11-01 |  |
-| [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2023-11-01 |  |
+| [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2023-11-01 |  |
+| [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2023-11-01 | 2024-01-25 |
 | [Winter In St\. Louis](https://open.spotify.com/track/4hR1I8PGsnERdIDW8izZeZ) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Georgie Stoll](https://open.spotify.com/artist/2tP6jN57QfGI0IOUhShSUq) | [Meet Me In St\. Louis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE) | 0:46 | 2023-11-01 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6ZgigeSB0XUMqc0jjzaq6d) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [How The Grinch Stole Christmas](https://open.spotify.com/album/13cUx8LoPoOcG4LEeRBv2q) | 2:56 | 2023-11-01 |  |
 

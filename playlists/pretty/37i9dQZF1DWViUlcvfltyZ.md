@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Tropea
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,347 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,340 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 75 | [Vera](https://open.spotify.com/track/61iQdnOwXVvI7QuALy5ZLV) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:58 |
 | 76 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
 
-Snapshot ID: `MCxhOGRmZjRjODUzYTZmZWMzNDk5OGU1ZjkxMDgzMzA0NDEyYTY4YTg1`
+Snapshot ID: `MCwyYjVhMTY5YTFiNGVkMjU5NGI1OWUxNjc4OGRlZTgyNGJlNjhlMzU3`

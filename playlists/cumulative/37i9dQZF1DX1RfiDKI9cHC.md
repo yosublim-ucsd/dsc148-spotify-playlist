@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=87a2593f6abb427a">Scowl's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-30 songs - 1 hr 35 min
+31 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [My Somebody](https://open.spotify.com/track/7llhCqgJIxynd6uO5DDdbW) | [Jordan Jones](https://open.spotify.com/artist/5jzNsfaWzpV3g1R88zQYhx) | [Jordan Jones](https://open.spotify.com/album/70RPj9fV8dqxMJh6ioetc6) | 2:25 | 2023-12-08 |  |
 | [No Justice, No Peace](https://open.spotify.com/track/1Yc3ZItIejmZNP7VRYjHnC) | [Aus Rotten](https://open.spotify.com/artist/2AEBd7Gd3l28yVkLLGlD3a) | [The System Works for Them](https://open.spotify.com/album/1oLnRaiMdQf4LH9GmQ5TqL) | 3:03 | 2023-12-08 |  |
 | [Nothing \- From 10 Song 7 Inch EP 1982](https://open.spotify.com/track/52iI6RzIhhzLyLSP685yzh) | [Negative Approach](https://open.spotify.com/artist/1DijMV2W1I2CfGLcarzgav) | [Total Recall](https://open.spotify.com/album/54ebrK34aJ9bHYB6fCr2P0) | 1:51 | 2023-12-08 |  |
-| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-12-08 |  |
+| [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 | 2023-12-08 |  |
+| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-12-08 | 2024-01-25 |
 | [Stuck on You](https://open.spotify.com/track/6vvy5pRjQOXeigpYE2TDbZ) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 4:28 | 2023-12-08 |  |
 | [Sugarless](https://open.spotify.com/track/54M2XssVMTLbj1xhFiJIhj) | [Autolux](https://open.spotify.com/artist/7HizNYe1mSfmvbXlx3la3m) | [Future Perfect](https://open.spotify.com/album/6LoLOun0sJqNEpSuDZrKoS) | 5:22 | 2023-12-08 |  |
 | [The Brightest Star](https://open.spotify.com/track/719pSqXGWdmjGHJz6n1rad) | [Godstar](https://open.spotify.com/artist/0LeXelhldWZeqIZJrGwk4m) | [The Brightest Star 7" \- EP](https://open.spotify.com/album/5IwakoxqMxlDaEigPTGuJz) | 2:19 | 2023-12-08 |  |

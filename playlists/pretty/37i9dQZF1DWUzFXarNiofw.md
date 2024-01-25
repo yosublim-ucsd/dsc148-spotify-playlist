@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Naomi Sharon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,178 likes - 155 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,229 likes - 155 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 9 | [In 2 Deep](https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [In 2 Deep](https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8) | 2:15 |
 | 10 | [Badder Not Sadder](https://open.spotify.com/track/1TtBDWugbqv4YrSMAUffeT) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Badder Not Sadder](https://open.spotify.com/album/1HPdHGw0vMOEVx5u4wGuEJ) | 2:18 |
 | 11 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 12 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
+| 12 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
 | 13 | [Beautiful Day \[Feat\. PJ Morton\]](https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Beautiful Day](https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes) | 3:27 |
 | 14 | [Only One](https://open.spotify.com/track/205vIudEsOhPEozChgIv03) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Only One](https://open.spotify.com/album/3PJTM9AZNAMKSpSPx0p6Ne) | 2:49 |
 | 15 | [Come Closer](https://open.spotify.com/track/1zCuiT4EIkENyjt1t38fgv) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Come Closer](https://open.spotify.com/album/1rPP64ICGRpUdbWMz0kn4F) | 3:12 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 154 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 155 | [Luv Everybody](https://open.spotify.com/track/0rhdpXHATq8svRh4sQbYFz) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:42 |
 
-Snapshot ID: `MCxhZTc5NzgwYjZhY2NiNzhjMTdkYzFlN2JhNTUyZmI4M2NmMWEyZDFi`
+Snapshot ID: `MCxmODBiMzA3ZGYyNzdhMTIxM2JiZTcxNWJkZTE1Mjc2Y2RjMDQ0MjFi`

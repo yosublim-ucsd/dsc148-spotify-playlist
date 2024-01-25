@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
-  "num_followers": 58608,
+  "num_followers": 58633,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjEyYWI4YjU2MmU4MTdiMDlkNmYwN2U5ZWJkOTQ2YzUyMzNkOTAz",
+  "snapshot_id": "MCxhZWZkNzMyMTQ2OWEyZjkwMjc2YTE5N2ViZTYxZjlmOTQ5NjUzMDRk",
   "tracks": [
     {
       "added_at": "2024-01-12 06:00:00",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "99",
-        "url": "https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "99",
-      "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
-    },
-    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Sofa Kings",
@@ -217,20 +201,20 @@
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
-      "added_at": "2023-10-05 08:01:42",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+        "name": "99",
+        "url": "https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 175833,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+      "duration_ms": 170500,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -247,6 +231,22 @@
       "duration_ms": 203093,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7"
+    },
+    {
+      "added_at": "2023-10-05 08:01:42",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
     },
     {
       "added_at": "2023-12-19 09:00:44",
@@ -365,6 +365,22 @@
       "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
     },
     {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "BOW",
+        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 182124,
+      "name": "BOW",
+      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
+    },
+    {
       "added_at": "2023-11-10 06:00:00",
       "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
@@ -383,22 +399,6 @@
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "BOW",
-        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 182124,
-      "name": "BOW",
-      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/2RjvQychgHPcxpghmP2p9s"
     },
     {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Wil Je Dat Ik Blijf",
+        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Wil Je Dat Ik Blijf",
+      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
+    },
+    {
       "added_at": "2024-01-12 06:00:00",
       "album": {
         "name": "475",
@@ -591,22 +607,6 @@
       "duration_ms": 207274,
       "name": "MUSE",
       "url": "https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Wil Je Dat Ik Blijf",
-        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Wil Je Dat Ik Blijf",
-      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Hoa C\u1ecf Lau",
-        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
-      },
-      "artists": [
-        {
-          "name": "Phong Max",
-          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
-        }
-      ],
-      "duration_ms": 210820,
-      "name": "Hoa C\u1ecf Lau",
-      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
-    },
-    {
       "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "F\u00fchrerschein",
@@ -731,6 +715,22 @@
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Hoa C\u1ecf Lau",
+        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
+      },
+      "artists": [
+        {
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+        }
+      ],
+      "duration_ms": 210820,
+      "name": "Hoa C\u1ecf Lau",
+      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Kaybettim Yirmilerimde",
+        "url": "https://open.spotify.com/album/51QMEOoRKIKVVptlOtjhZc"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 230812,
+      "name": "Kaybettim Yirmilerimde",
+      "url": "https://open.spotify.com/track/2NbgiffvZvNdUa9ul5lM9s"
+    },
+    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "OIK",
@@ -779,22 +795,6 @@
       "duration_ms": 159069,
       "name": "OIK",
       "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "La loi du papillon",
-      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
+      "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Kaybettim Yirmilerimde",
-        "url": "https://open.spotify.com/album/51QMEOoRKIKVVptlOtjhZc"
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
       "artists": [
         {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 230812,
-      "name": "Kaybettim Yirmilerimde",
-      "url": "https://open.spotify.com/track/2NbgiffvZvNdUa9ul5lM9s"
+      "duration_ms": 177266,
+      "name": "La loi du papillon",
+      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr"
     },
     {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
@@ -901,22 +917,6 @@
       "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "no-vacancy",
-        "url": "https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq"
-      },
-      "artists": [
-        {
-          "name": "lost spaces",
-          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
-        }
-      ],
-      "duration_ms": 204032,
-      "name": "35.mm",
-      "url": "https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1"
-    },
-    {
       "added_at": "2023-10-27 06:00:00",
       "album": {
         "name": "8h sonne",
@@ -931,38 +931,6 @@
       "duration_ms": 188880,
       "name": "8h sonne",
       "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
-    },
-    {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "Bazaar",
-        "url": "https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3"
-      },
-      "artists": [
-        {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
-        }
-      ],
-      "duration_ms": 296098,
-      "name": "Huzur (Reprise)",
-      "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Alta Tensione",
-        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Alta Tensione",
-      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -987,6 +955,54 @@
       "duration_ms": 130039,
       "name": "GENNAIO 24",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "no-vacancy",
+        "url": "https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "duration_ms": 204032,
+      "name": "35.mm",
+      "url": "https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "duration_ms": 296098,
+      "name": "Huzur (Reprise)",
+      "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 198088,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2023-11-23 06:00:00",
@@ -1071,6 +1071,22 @@
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1441,24 +1441,36 @@
       "url": "https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y"
     },
     {
-      "added_at": "2023-12-07 06:00:00",
+      "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Mamas Car",
-        "url": "https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o"
+        "name": "HAPPY ACCIDENTS VOL. 1",
+        "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
       },
       "artists": [
         {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
-        },
-        {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
         }
       ],
-      "duration_ms": 136734,
-      "name": "Mamas Car",
-      "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
+      "duration_ms": 192453,
+      "name": "SHOWER MUSIC",
+      "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "Ud Ke Chali",
+        "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        }
+      ],
+      "duration_ms": 235172,
+      "name": "Ud Ke Chali",
+      "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1477,20 +1489,24 @@
       "url": "https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "HAPPY ACCIDENTS VOL. 1",
-        "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
+        "name": "Mamas Car",
+        "url": "https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o"
       },
       "artists": [
         {
-          "name": "PLAYERTWO",
-          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
         }
       ],
-      "duration_ms": 192453,
-      "name": "SHOWER MUSIC",
-      "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
+      "duration_ms": 136734,
+      "name": "Mamas Car",
+      "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1517,20 +1533,20 @@
       "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
     },
     {
-      "added_at": "2023-10-27 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Ud Ke Chali",
-        "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
+        "name": "Beautiful Everything",
+        "url": "https://open.spotify.com/album/6h6vVbN20Moi61HDllYhR9"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
         }
       ],
-      "duration_ms": 235172,
-      "name": "Ud Ke Chali",
-      "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1597,22 +1613,6 @@
       "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Beautiful Everything",
-        "url": "https://open.spotify.com/album/6h6vVbN20Moi61HDllYhR9"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Beautiful Everything",
-      "url": "https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg"
-    },
-    {
       "added_at": "2023-10-13 06:00:00",
       "album": {
         "name": "Esta Vez Fui Yo",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "daughter",
-        "url": "https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE"
-      },
-      "artists": [
-        {
-          "name": "Kids With Buns",
-          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
-        }
-      ],
-      "duration_ms": 203702,
-      "name": "daughter",
-      "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
-    },
-    {
       "added_at": "2023-07-04 08:33:15",
       "album": {
         "name": "Kele Kele - Spotify Singles",
@@ -1695,6 +1679,22 @@
       "duration_ms": 130909,
       "name": "Kele Kele",
       "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "daughter",
+        "url": "https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 203702,
+      "name": "daughter",
+      "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
     },
     {
       "added_at": "2023-09-08 07:14:00",

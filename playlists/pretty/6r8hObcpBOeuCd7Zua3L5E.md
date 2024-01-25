@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on TikTok and around the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Sped up TikTok audios\. Sped up TikTok audios 2023\. Nightcore\. Sped up nightcore.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 24,889 likes - 50 songs - 2 hr 22 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 24,890 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

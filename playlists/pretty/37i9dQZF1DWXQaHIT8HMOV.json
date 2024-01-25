@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1932,
+  "num_followers": 1931,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzUxYjk3MmRhNTNmY2M0MTg3OWMxOGViZWVmNzdiYzVmMGVhMDYz",
+  "snapshot_id": "MCw4YTgzMGQ2MzdkNjYzNGUwNTFhMzNiYzY0M2Q1YTc0M2JiZWI1NTQy",
   "tracks": [
     {
       "added_at": "2024-01-19 04:47:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
-      },
-      "artists": [
-        {
-          "name": "OMUTUME PLANET",
-          "url": "https://open.spotify.com/artist/7bnCd7NLxA2hjoZZiaj8Ic"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -847,6 +831,22 @@
       "duration_ms": 196000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Chai We Njaye",
+        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
+      },
+      "artists": [
+        {
+          "name": "OMUTUME PLANET",
+          "url": "https://open.spotify.com/artist/7bnCd7NLxA2hjoZZiaj8Ic"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Chai We Njaye",
+      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -923,13 +923,29 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "Tutamire",
+        "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Tutamire",
+      "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
       "artists": [
         {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+          "name": "Jozzi Uganda",
+          "url": "https://open.spotify.com/artist/3MDL0K0VQwb4tji9qSek91"
         },
         {
           "name": "Will84",
@@ -939,26 +955,6 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Type Of Girl",
-        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
-      },
-      "artists": [
-        {
-          "name": "Sanyu",
-          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
-        },
-        {
-          "name": "Kamanzi",
-          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Type Of Girl",
-      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
     }
   ],
   "unique_name": "Made In Uganda",

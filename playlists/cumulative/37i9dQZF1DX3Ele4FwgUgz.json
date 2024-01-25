@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "New Year's March!",
+        "url": "https://open.spotify.com/album/0onmu5ny53ehIAOV8j1yPe"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244613,
+      "name": "New Year's March!",
+      "url": "https://open.spotify.com/track/4tntAyjJG0VioM5B2jkKkj"
+    },
+    {
+      "album": {
         "name": "New Year's March\uff01",
         "url": "https://open.spotify.com/album/0a9wGjMMzOrTcSbAw2c4UI"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 244613,
       "name": "New Year's March\uff01",
       "url": "https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi"

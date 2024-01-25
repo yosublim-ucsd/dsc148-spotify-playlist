@@ -4,7 +4,7 @@
 
 > VI VILL HA LÅDVIN UH DET ÄR VÅR BENSIN!!
 
-939 songs - 1 day 16 hr 1 min
+940 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [JAG VILL SUPA](https://open.spotify.com/track/4o7sIxm5dJeK1rY7Nft54F) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [JAG VILL SUPA](https://open.spotify.com/album/08p4RiVUZqpmrPV2sY1SmJ) | 2:18 | 2022-08-25 | 2022-10-21 |
 | [JAG ÄR EN FAKKBOI](https://open.spotify.com/track/5BhiR0rEBD6bXJJ4tgndgV) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Luderexpressen](https://open.spotify.com/artist/3o8iwN26eymjx3gKXsv2cY) | [JAG ÄR EN FAKKBOI](https://open.spotify.com/album/5D6JwDG2680A3mSFPeFhxy) | 2:02 | 2023-04-20 | 2023-06-09 |
 | [JAG ÄR EN NYKTERIST](https://open.spotify.com/track/4JBDQ3eh4l6BOXc97dvvqe) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [JAG ÄR EN NYKTERIST](https://open.spotify.com/album/3fOQbWS0xpjsYkhhY6yv0x) | 1:58 | 2023-04-06 | 2023-04-14 |
+| [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 | 2024-01-24 |  |
 | [JH5GLIMPI](https://open.spotify.com/track/5sRmrySDs6LREVMmj32QM0) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [DUBBELDROPP II](https://open.spotify.com/album/66cptU0dxttMk8llHfglpE) | 2:03 | 2022-06-02 | 2022-07-27 |
 | [Jul I Vårat Hem](https://open.spotify.com/track/2k5MZjgBHLaoTFpoGwXHva) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Jul I Vårat Hem](https://open.spotify.com/album/7r70ISMldTSJo3YKRSBZrS) | 2:24 | 2023-11-30 | 2024-01-02 |
 | [JUL IGEN](https://open.spotify.com/track/6gZ2evMGSHjIzSLKid6XrP) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [JUL IGEN](https://open.spotify.com/album/4JUiZaXeJyzGBvYknWkL4R) | 2:45 | 2023-11-30 | 2024-01-02 |

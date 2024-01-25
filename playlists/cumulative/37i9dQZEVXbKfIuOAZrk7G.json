@@ -3435,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Backrooms",
+        "url": "https://open.spotify.com/album/272ODPydw2yyTI5SBOTYod"
+      },
+      "artists": [
+        {
+          "name": "liminal00",
+          "url": "https://open.spotify.com/artist/0TWkLGlTS3pQcPKgk0DNk8"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166207,
+      "name": "Backrooms",
+      "url": "https://open.spotify.com/track/3KsOnCppQHV0uJY1KuFS2S"
+    },
+    {
+      "album": {
         "name": "BACKROOMS",
         "url": "https://open.spotify.com/album/0uuJecIiLh64AJTixOfvBy"
       },
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160391,
       "name": "BACKROOMS",
       "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
@@ -20456,7 +20474,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 226933,
       "name": "King Shit",
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
@@ -23204,6 +23222,24 @@
       "duration_ms": 186998,
       "name": "Maan Meri Jaan (Afterlife)",
       "url": "https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {
@@ -29220,10 +29256,32 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder) [1234 \u2013 Let Me Hear You Scream] \u2013 Sped Up",
+        "url": "https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/6zr24DUdgL4zYn5YVh0SHG"
     },
     {
       "album": {
@@ -29688,6 +29746,32 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7ttrlfQIDc8JlxtH7fVDWp"
+    },
+    {
+      "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
       "album": {
@@ -33012,7 +33096,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 215000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"

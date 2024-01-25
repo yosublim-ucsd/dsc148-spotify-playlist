@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,054 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,013 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 50 | [QUE PASA?](https://open.spotify.com/track/1dDqO9FjKbhQysspzpTCSQ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [ASKER](https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei) | 2:20 |
 
-Snapshot ID: `MCxhYjAyNmYwMWZlYjFkNDhmMmJmY2ZjZWNkYjMzNDAxMjNjZmI5YjUw`
+Snapshot ID: `MCw4OGIwOTIwNmI3ZmVmODYzMzJhMDYzMjE2OWU5MGJiZDE2ZGU4NTY4`

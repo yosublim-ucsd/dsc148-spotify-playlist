@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32969,
+  "num_followers": 32974,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
+  "snapshot_id": "MCw1ZjMzZDdmYzc5YzlhZGI2ZWI4ZGIxMDAxOWQ5OTY0NTc4ZDMyZGQ5",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Kingsize",
         "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 153974,
       "name": "Kingsize",
       "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "CRISIS QUEEN",
+      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/6Te7u1x6u2uBGaEbWelpgr"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 122034,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/203dC8cfQJfxcfqzKBppZZ"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "TROUBLESHOOTER",
-        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
-      },
-      "artists": [
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "CRISIS QUEEN",
-      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Just Us Going",
-        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Just Us Going",
-      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 185200,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Just Us Going",
+        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Just Us Going",
+      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
     },
     {
       "added_at": "2024-01-09 23:00:00",

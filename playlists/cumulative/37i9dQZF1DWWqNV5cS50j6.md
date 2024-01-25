@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,590 songs - 3 day 4 hr 40 min
+1,593 songs - 3 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Can't Run Forever](https://open.spotify.com/track/6S7cGE7tuH49h7Zp4ckgPw) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Can't Run Forever](https://open.spotify.com/album/4bmtLtnh3Hk0I43QV2K3mB) | 3:48 | 2021-01-23 | 2021-10-14 |
 | [Cancel Me](https://open.spotify.com/track/2FMO2IFR4cJSe5D4BlpDV8) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:17 | 2020-10-13\* | 2021-05-29 |
 | [Candles on Fire!](https://open.spotify.com/track/0xwB2I5hGwAqjwPufvKtnc) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 2:47 | 2021-04-10 | 2021-05-03 |
-| [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 |  |
+| [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 | 2024-01-25 |
 | [car](https://open.spotify.com/track/67T47UzX4SkgsSN5vNI0ec) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [exhausted\. / car](https://open.spotify.com/album/08g6Iht3H6hh9jnETTp7lI) | 2:06 | 2020-10-13\* | 2021-05-03 |
 | [Car](https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [Car](https://open.spotify.com/album/2Nc2587YJw9Lu2gYAk1hAz) | 3:46 | 2022-02-04 | 2022-05-10 |
 | [CARBON FIBER](https://open.spotify.com/track/2df0yoUDN2sroDcAwRqBWu) | [Sora](https://open.spotify.com/artist/152c4om9YE0xnviYewG7qH) | [CARBON FIBER](https://open.spotify.com/album/0lPCbnt0zPOUmoI8DKbZCv) | 4:07 | 2022-01-28 | 2022-03-01 |
@@ -330,7 +330,8 @@
 | [Dance No More](https://open.spotify.com/track/1MgfRvRsXVIsSYsCgCAtM7) | [Swaine Delgado](https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof) | [Dance No More](https://open.spotify.com/album/2SQfMYYWtX9Y2pNv57Z3gq) | 3:12 | 2021-01-28 | 2021-10-13 |
 | [Dancing On My Grave](https://open.spotify.com/track/7yJSJthb06XSJyVrI6aJ2o) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Dancing On My Grave](https://open.spotify.com/album/28qVezLAgShXv5A4loiqyx) | 2:40 | 2023-04-14 | 2023-07-22 |
 | [dancing with the dead](https://open.spotify.com/track/3kHeyz9qENrscXY4tBpdS7) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [dancing with the dead](https://open.spotify.com/album/0MfaLfmENi9IrSSNTtZ6UK) | 3:41 | 2021-10-27 | 2022-02-12 |
-| [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 | 2023-11-03 |  |
+| [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 | 2023-11-03 | 2024-01-25 |
+| [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 | 2024-01-09 |  |
 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 | 2021-12-10 | 2022-12-01 |
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2021-03-14 | 2023-02-15 |
 | [dark](https://open.spotify.com/track/2pIwMNpQIH5ChP39Uup9lG) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [dark](https://open.spotify.com/album/1NRgdLZ9RWB71wpCqWxAAf) | 1:33 | 2021-02-06 | 2021-10-16 |
@@ -532,6 +533,7 @@
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-03-02 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 |  |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
+| [Gimme Love](https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:34 | 2024-01-09 |  |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2024-01-24 |
 | [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 | 2023-05-24 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 | 2023-04-27 |
@@ -1329,7 +1331,8 @@
 | [SWEET](https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SWEET](https://open.spotify.com/album/1HUGoLeGEmtg1Csw88DeTs) | 4:34 | 2023-10-13 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2022-11-17 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-17 |  |
-| [sweet tooth](https://open.spotify.com/track/7Ip7z542rLsvn0LFZ7HUZZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sweet tooth](https://open.spotify.com/album/2aRRL6f516XszykD7DKiFZ) | 2:28 | 2023-12-15 |  |
+| [sweet tooth](https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:28 | 2024-01-09 |  |
+| [sweet tooth](https://open.spotify.com/track/7Ip7z542rLsvn0LFZ7HUZZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sweet tooth](https://open.spotify.com/album/2aRRL6f516XszykD7DKiFZ) | 2:28 | 2023-12-15 | 2024-01-25 |
 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 | 2023-06-16 | 2024-01-09 |
 | [SWEETBABYRAE](https://open.spotify.com/track/6MNTsxexrJEsDW4fSEAiXS) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [SWEETBABYRAE](https://open.spotify.com/album/5lM0nji3ybQGwNhHOoxIrJ) | 2:43 | 2021-08-07 | 2021-10-16 |
 | [Sweets](https://open.spotify.com/track/6e00JUwAfYnotIMLbNhTaE) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sweets](https://open.spotify.com/album/0SnyMBptlJ62tcEg3gMW1Z) | 2:45 | 2021-07-18 | 2021-10-16 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 60734,
+  "2024-01-25": 60736,
   "date_first_scraped": "2022-03-28",
   "description": "Weird year overall, but great for indie. Editors' picks of the best tracks of the year. Cover: Phoebe Bridgers",
   "name": "Best of Indie 2020",
@@ -1811,7 +1811,7 @@
     {
       "album": {
         "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
       "artists": [
         {
@@ -1822,6 +1822,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207265,
+      "name": "MODUS",
+      "url": "https://open.spotify.com/track/0nMX1lL1FPkKjzAnNvTBFz"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 207265,
       "name": "MODUS",
       "url": "https://open.spotify.com/track/5BibcbKVdZUuTttSG02JTp"

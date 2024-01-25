@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,454 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,535 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 61 | [Você Pode / Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music, EP 01 \(Ao Vivo\)](https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h) | 4:19 |
 | 62 | [Papo Furado / Quero Mais / História de Cinema / Amor Eterno](https://open.spotify.com/track/2GfhSjgfkG601z4BLXnzNn) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Respeita Minha História](https://open.spotify.com/album/1i3BOWNhLbF3v2Zk1YLiJP) | 6:32 |
 | 63 | [Pot\-Pourri: Teu Segredo / Já Tentei](https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 6:22 |
-| 64 | [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca) | 4:10 |
+| 64 | [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2v0GhuP7TiSIGSPy5szhi2) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 4:10 |
 | 65 | [Climatizar/ O Que Tinha Que Dar/ Idem \- Ao vivo](https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Climatizar/ O Que Tinha Que Dar/ Idem \(Ao vivo\)](https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0) | 3:25 |
 | 66 | [Quando É Amor / Temporal / Meu Jeito de Amar](https://open.spotify.com/track/49cQG4KjGXlgN5ICgyrdaH) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Respeita Minha História 2](https://open.spotify.com/album/5nEWrZ8zyD5omIMxwhIFPZ) | 4:34 |
 | 67 | [Meu Jeito Moleque / S.O.S Paixão \- Ao Vivo](https://open.spotify.com/track/5AKmZ7GOu4WJecD4TSTicI) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0) | [Meu Jeito Moleque / S.O.S Paixão \(Ao Vivo\)](https://open.spotify.com/album/3gFpyj3gbMuOibXLUNkVa9) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 |
 | 75 | [Fica / Vida Que Segue \- Ao Vivo](https://open.spotify.com/track/0IPmfBhRrdt3KwNw8JT15R) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Fica / Vida Que Segue \(Ao Vivo\)](https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa) | 4:15 |
 
-Snapshot ID: `MCw2MjM2NGRmYTliZTQ2Mjc2NzhkYzJjZDBlOWJkYTE5MjdhZWJmODRk`
+Snapshot ID: `MCwwMDA5ZTQzYTAxZTZlYmU5NTExYzRlN2Q5NGVlZWQ0ZmQ3OGIwZDZi`

@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 126623,
+  "2024-01-25": 126619,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -12801,6 +12801,28 @@
       "duration_ms": 228000,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D"
+    },
+    {
+      "album": {
+        "name": "Where Does The Light Go",
+        "url": "https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Where Does The Light Go",
+      "url": "https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal"
     },
     {
       "album": {

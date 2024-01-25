@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 374844,
+  "num_followers": 374843,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl",
+  "snapshot_id": "MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 140733,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "The Carroll County Accident",
-      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Saginaw, Michigan",
-        "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
+        "name": "Great Picks & New Traditions",
+        "url": "https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
         }
       ],
-      "duration_ms": 182573,
-      "name": "Saginaw, Michigan",
-      "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
+      "duration_ms": 201173,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Great Picks & New Traditions",
-        "url": "https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs"
+        "name": "Saginaw, Michigan",
+        "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
       },
       "artists": [
         {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE"
+      "duration_ms": 182573,
+      "name": "Saginaw, Michigan",
+      "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
     },
     {
       "added_at": "2023-11-21 21:06:39",

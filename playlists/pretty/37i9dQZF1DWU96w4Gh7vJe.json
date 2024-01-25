@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 586492,
+  "num_followers": 586355,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh",
+  "snapshot_id": "MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Gusto With Ya",
         "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Kung Wala Ka",
-      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Langit Mong Bughaw",
         "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 282094,
       "name": "Kahit Di Mo Alam",
       "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Don't Know What To Do (Don't Know What To Say)",
-        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
+        "name": "Till My Heartaches End (From \"The Significant Other\")",
+        "url": "https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ"
       },
       "artists": [
         {
-          "name": "Mark Carpio",
-          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
         }
       ],
-      "duration_ms": 167086,
-      "name": "Don't Know What To Do (Don't Know What To Say)",
-      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
+      "duration_ms": 256923,
+      "name": "Till My Heartaches End - From \"The Significant Other\"",
+      "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Till My Heartaches End (From \"The Significant Other\")",
-        "url": "https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ"
+        "name": "Don't Know What To Do (Don't Know What To Say)",
+        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
       },
       "artists": [
         {
-          "name": "KZ Tandingan",
-          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
         }
       ],
-      "duration_ms": 256923,
-      "name": "Till My Heartaches End - From \"The Significant Other\"",
-      "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
+      "duration_ms": 167086,
+      "name": "Don't Know What To Do (Don't Know What To Say)",
+      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Dramachine",
-        "url": "https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk"
-      },
-      "artists": [
-        {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Tulog Na",
-      "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Ang Aking Awitin",
         "url": "https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Dramachine",
+        "url": "https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk"
+      },
+      "artists": [
+        {
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Tulog Na",
+      "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
     },
     {
       "added_at": "2023-12-08 07:32:26",

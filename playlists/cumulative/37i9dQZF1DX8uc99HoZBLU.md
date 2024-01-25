@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-310 songs - 15 hr 47 min
+311 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Sister](https://open.spotify.com/track/3iNVzacmZCzDpdbAoQuvXD) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Sister](https://open.spotify.com/album/1IOkssEvsCR3BBd3GP9FW2) | 2:36 | 2021-07-23 | 2022-06-30 |
 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2021-06-08 | 2022-06-30 |
 | [Skate](https://open.spotify.com/track/2el67ztWZN11RnAS8pTFRe) | [Trees and Lucy](https://open.spotify.com/artist/201BDST0ijVDCJ5c27rLQl) | [Day Off](https://open.spotify.com/album/46zKdca7QCLtl2cCkglXfj) | 1:57 | 2021-06-08 | 2022-04-20 |
-| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2021-06-08 |  |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2021-06-08 | 2024-01-25 |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2023-08-17 |  |
 | [Slow Down Babe](https://open.spotify.com/track/0jxa4KjlYCLIIVhNaCnKBA) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Dwyer](https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv) | [Slow Down Babe](https://open.spotify.com/album/38TIm5neYACRsSVt4aej8u) | 2:49 | 2021-06-25 | 2022-05-08 |
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-19 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/0Ys4J7iim6STsGeLmFLWIo) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Smile](https://open.spotify.com/album/2Pe9AGGhdZnIYZ0uLBAbN3) | 2:24 | 2021-06-08 | 2022-04-21 |

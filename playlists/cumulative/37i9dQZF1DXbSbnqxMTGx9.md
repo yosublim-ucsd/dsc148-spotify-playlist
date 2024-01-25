@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-615 songs - 1 day 10 hr 13 min
+616 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Intensified '68](https://open.spotify.com/track/4v6iaARbqmHtyaiP7wazRr) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:45 | 2022-09-22 | 2023-11-03 |
 | [Intensified '68](https://open.spotify.com/track/714fA9Lc9FUfuq6CS2zqVr) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:45 | 2022-09-22 |  |
 | [Intensified \(aka Music Like Dirt\)](https://open.spotify.com/track/6wwhI9Q76clWwizgY6bFFE) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Rudy Got Soul: The Early Beverley's Sessions 1963\-1968](https://open.spotify.com/album/14a6SZQ8uwvC1bvGGPmlDp) | 2:43 | 2022-09-22 | 2023-11-11 |
-| [Ire Feelings \(Leggo Skanga\)](https://open.spotify.com/track/04tcBWxZTDPNVjhcG07bmA) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 2:49 | 2022-09-22 |  |
+| [Ire Feelings \(Leggo Skanga\)](https://open.spotify.com/track/04tcBWxZTDPNVjhcG07bmA) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Reggae Chartbusters, Vol\. 5](https://open.spotify.com/album/079kR7Egz6DWvTNyEge3qg) | 2:49 | 2022-09-22 | 2024-01-25 |
 | [Is It Because I'm Black?](https://open.spotify.com/track/4ASogDCIhWkef6lgskCeEA) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Best of Ken Boothe](https://open.spotify.com/album/17iaBFo1jcO5B327FIoJb7) | 3:40 | 2021-03-02 | 2022-05-06 |
 | [Is It Because I'm Black?](https://open.spotify.com/track/1EiArEscUFzXKHEeIQVkpe) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/6cSDnbzwTqmz3h9v38qMuA) | 3:42 | 2022-09-22 |  |
 | [Is It Because I'm Black?](https://open.spotify.com/track/3FEEfb772gpjK2J7GUsEb8) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 3:42 | 2022-09-22 | 2023-11-11 |
@@ -280,6 +280,7 @@
 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond & Zap Pow](https://open.spotify.com/artist/0o9mP6OaZCcKVfkhXi54KL) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 | 2022-09-22 |  |
 | [Last War](https://open.spotify.com/track/7LjmwVHnGqRsDvFCf2FfSt) | [Beres Hammond & Zap Pow](https://open.spotify.com/artist/0o9mP6OaZCcKVfkhXi54KL) | [Can't Stop A Man](https://open.spotify.com/album/6ghigyTicHIi5CjSMVzFa9) | 4:02 | 2022-08-18 | 2022-09-23 |
 | [Legalize It](https://open.spotify.com/track/605ZHoLZx7PtQ8fXgvN10K) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [The Essential Peter Tosh \(The Columbia Years\)](https://open.spotify.com/album/5Up8MjtHf71WW4vnVqyb1g) | 4:39 | 2022-09-22 |  |
+| [Leggo Skanga](https://open.spotify.com/track/04Ii2Dchi9YEmVSO5ib8nC) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 2:50 | 2022-09-22 |  |
 | [Leggo Skanga](https://open.spotify.com/track/62CusNc8LLpl2AWgYJvYMw) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:50 | 2021-03-02 | 2023-11-11 |
 | [Let Down](https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Radiodread](https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ) | 4:44 | 2021-03-02 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/1FDCOnNeSDzuOWrWDfklMv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/3RxfT8zLSmteZfX3snggnb) | 2:55 | 2022-09-22 |  |

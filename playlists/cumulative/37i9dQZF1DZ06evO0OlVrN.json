@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "De Qu\u00e9 Es Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137136,
+      "name": "Mis 20 Novias",
+      "url": "https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf"
+    },
+    {
+      "album": {
         "name": "20 Boleros de Oro: Grandes \u00c9xitos de la M\u00fasica Norte\u00f1a",
         "url": "https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr"
       },

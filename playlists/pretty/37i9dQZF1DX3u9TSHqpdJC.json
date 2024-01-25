@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Nxdia. Artwork by Paola Saliby",
-  "num_followers": 203909,
+  "description": "The best new pop music by independent artists and labels. Cover: Haven Madison. Artwork by Paola Saliby",
+  "num_followers": 204165,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjI1YWRhZDBkYmVlOTFmOWIxZDc3ZGZlZmVlMzA5Njk4OTNjYThh",
+  "snapshot_id": "MCw0MmI0NmUwMmFlNWE5Y2FiNDdjZTdiYzlkNmMwOGYxYTZkNDM4OWFk",
   "tracks": [
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Sky Up",
+        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Sky Up",
+      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/1O1sg4ZylF8qjqX7MsUR6I"
+      },
+      "artists": [
+        {
+          "name": "PrettyUgly",
+          "url": "https://open.spotify.com/artist/0E8A04ZukBqS3V5J8sKvPU"
+        }
+      ],
+      "duration_ms": 146687,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/6saJQVfcQ08Bowup4nZpb7"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Bible Belt",
+        "url": "https://open.spotify.com/album/191JnqnJNWLE29v3NlgtRN"
+      },
+      "artists": [
+        {
+          "name": "Sid Dorey",
+          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "Bible Belt",
+      "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "LABEL",
+        "url": "https://open.spotify.com/album/1ejfxcxQfj19qoLh7r9wo1"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lipton",
+          "url": "https://open.spotify.com/artist/7pGsvDKuZ3OumdrpDwCB2f"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "LABEL",
+      "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "hate myself for loving you",
+        "url": "https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "hate myself for loving you",
+      "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "tetherball",
+        "url": "https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "tetherball",
+      "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
+    },
     {
       "added_at": "2024-01-17 05:00:00",
       "album": {
@@ -25,6 +121,54 @@
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "affirmations! affirmations!",
+        "url": "https://open.spotify.com/album/6nAJfmblUxC6nmEM41fGHd"
+      },
+      "artists": [
+        {
+          "name": "Maya Malkin",
+          "url": "https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ"
+        }
+      ],
+      "duration_ms": 132573,
+      "name": "affirmations! affirmations!",
+      "url": "https://open.spotify.com/track/1sqqlPRqM3DcRt26g5a5G0"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "28th of Never",
+        "url": "https://open.spotify.com/album/621Z1UmndfFKPU4TAKWUY3"
+      },
+      "artists": [
+        {
+          "name": "Gia Lily",
+          "url": "https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "28th of Never",
+      "url": "https://open.spotify.com/track/1P6LlkBx9B5ArbsQvr0855"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "When Does a Rumor Become Gospel",
+        "url": "https://open.spotify.com/album/02f2KUp6rSY1zhOirxsFdO"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "When Does a Rumor Become Gospel",
+      "url": "https://open.spotify.com/track/6NkX6zw5a7Mu0hcd35IUzF"
+    },
+    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Lose Her",
@@ -39,6 +183,118 @@
       "duration_ms": 170515,
       "name": "Lose Her",
       "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Standby Baby",
+        "url": "https://open.spotify.com/album/1EYRPp03Jr5KLY3n4B1Nha"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "duration_ms": 282477,
+      "name": "Standby Baby",
+      "url": "https://open.spotify.com/track/6esccUfWY4NWL3oYJajQHU"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Doing Well",
+        "url": "https://open.spotify.com/album/5DZTs9t1ri0hytANHzEqw3"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Doing Well",
+      "url": "https://open.spotify.com/track/1zxIL4vzGNKJWwQLgdfWGN"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Blame It On You",
+        "url": "https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd"
+      },
+      "artists": [
+        {
+          "name": "Mellie",
+          "url": "https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Blame It On You",
+      "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "FUCK. IT.",
+        "url": "https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD"
+      },
+      "artists": [
+        {
+          "name": "Limandi",
+          "url": "https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS"
+        }
+      ],
+      "duration_ms": 165992,
+      "name": "FUCK. IT.",
+      "url": "https://open.spotify.com/track/18wQ1oES9OK2gYu7oUqrp2"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "I Wish I Was The Moon",
+        "url": "https://open.spotify.com/album/6y8IS2k08fSN7uCgCzhY8D"
+      },
+      "artists": [
+        {
+          "name": "Margo Raats",
+          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
+        }
+      ],
+      "duration_ms": 183877,
+      "name": "I Wish I Was The Moon",
+      "url": "https://open.spotify.com/track/0x2s2YyudOmRu4Y0TwX8fY"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Love Is BS",
+        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Love Is BS",
+      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -411,22 +667,6 @@
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/5ETawageyvGD6MhKFuEgND"
-      },
-      "artists": [
-        {
-          "name": "Random Chance",
-          "url": "https://open.spotify.com/artist/4g016POLki9LoNd5eMsVpY"
-        }
-      ],
-      "duration_ms": 104767,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/35MdtrnG6m0RiYpQ0LOD8W"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
         "name": "Egocentric",
         "url": "https://open.spotify.com/album/6yZQzb3Rr7QnZdXeNK96xK"
       },
@@ -491,22 +731,6 @@
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
-        "name": "bumpercar",
-        "url": "https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk"
-      },
-      "artists": [
-        {
-          "name": "harper",
-          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
-        }
-      ],
-      "duration_ms": 144752,
-      "name": "bumpercar",
-      "url": "https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
         "name": "BIG BABY!",
         "url": "https://open.spotify.com/album/3rhBz1tMWR1BWtxwpYO6aF"
       },
@@ -535,38 +759,6 @@
       "duration_ms": 162128,
       "name": "Monster",
       "url": "https://open.spotify.com/track/267gC1Dt6Yp4qmq8pJS5Qx"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "I Get It Now",
-        "url": "https://open.spotify.com/album/5aJBG5DqIAZSR441s7KGd5"
-      },
-      "artists": [
-        {
-          "name": "Wass",
-          "url": "https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo"
-        }
-      ],
-      "duration_ms": 197531,
-      "name": "I Get It Now",
-      "url": "https://open.spotify.com/track/5SFpsx7nJOZ1wedSjtQJ8B"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7kAXVka5jf1LjLnbK0GTfm"
-      },
-      "artists": [
-        {
-          "name": "Mariah Rose Faith",
-          "url": "https://open.spotify.com/artist/2Q2Z74Il8tZHMtfFcmz5fh"
-        }
-      ],
-      "duration_ms": 253368,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/4UMVMjGUK9mij06jp2gO3Z"
     },
     {
       "added_at": "2024-01-10 05:00:00",
@@ -647,22 +839,6 @@
       "duration_ms": 151036,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5gPKKLIHcsJ4sxzfgiBlGr"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Realign",
-        "url": "https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi"
-      },
-      "artists": [
-        {
-          "name": "King Kerby",
-          "url": "https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "Realign",
-      "url": "https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM"
     },
     {
       "added_at": "2024-01-10 05:00:00",

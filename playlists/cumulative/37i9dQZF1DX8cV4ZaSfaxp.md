@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: KWON EUNBI\(권은비\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-311 songs - 19 hr 17 min
+312 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Landed](https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 3:55 | 2023-05-05 |  |
 | [Leave Me Alone \(Feat\. Kingo Hamada\) \(Monthly Project 2020 July Yoon Jong Shin\)](https://open.spotify.com/track/6hhyOAMZc32ZZH4KKS5ZIT) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [Leave Me Alone \(Feat\. Kingo Hamada\) \(Monthly Project 2020 July Yoon Jong Shin\)](https://open.spotify.com/album/3Ufmq1QAEYPZXbnkGTFXHa) | 5:11 | 2022-05-11 | 2022-07-27 |
 | [Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 | 2022-05-11 | 2023-08-07 |
+| [Let You Go](https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU) | 3:11 | 2023-11-02 |  |
 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 | 2023-10-24 |  |
 | [Like Summer](https://open.spotify.com/track/6C6ILuz5vtD0e5xcC3f2Ht) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Like Summer](https://open.spotify.com/album/1BdiUNdilBdWKPssBDCndB) | 3:12 | 2022-05-11 | 2022-07-19 |
 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 | 2022-05-11 | 2022-11-19 |
@@ -250,7 +251,7 @@
 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 | 2022-07-22 |  |
 | [Suddenly Digging Club Seoul Version](https://open.spotify.com/track/03Ge4c8LmFTq95vjxc5iYq) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/6TpfVMxQlg9WFYJWIZy7cA) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [summer blossom](https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [summer blossom](https://open.spotify.com/album/2o2I9habr191db2ke30BAx) | 3:28 | 2022-05-11 | 2022-07-28 |
-| [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 | 2023-05-05 |  |
+| [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 | 2023-05-05 | 2024-01-25 |
 | [SUMMER LOVE…](https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu) | 4:10 | 2022-08-12 | 2022-11-13 |
 | [SUMMER LOVE…](https://open.spotify.com/track/2RfnRrDzHrrlHwkNDmhbYU) | [CSVC 치스비치](https://open.spotify.com/artist/3giVZjriL2C3Gn798Eciez), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [SUMMER LOVE…](https://open.spotify.com/album/1gquEqskA7QSxOnxeXZoY8) | 4:10 | 2022-05-11 | 2022-07-29 |
 | [Summer Man \(Monthly Project 2018 July Yoon Jong Shin\)](https://open.spotify.com/track/2foZ12Gccs46hemHwhg0Vx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer Man \(Monthly Project 2018 July Yoon Jong Shin\)](https://open.spotify.com/album/0yEI1Zp07O4nNEKqkNZYME) | 4:29 | 2022-05-11 | 2022-07-20 |

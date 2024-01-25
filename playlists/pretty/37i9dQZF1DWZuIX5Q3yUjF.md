@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: STE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,155 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,159 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
 | 65 | [Ma non adesso](https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Ma non adesso](https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k) | 2:59 |
 
-Snapshot ID: `MCxkY2Y1NjhmNmViNjllMTEzN2JkYmQ4YWYxYWQ2OGMyY2EwMjJiNDA3`
+Snapshot ID: `MCwxODU2NGIwMDRkZjk3ZGU5NGEzMmVkMTViZWM2MzVlZGE5OWFjYmZl`

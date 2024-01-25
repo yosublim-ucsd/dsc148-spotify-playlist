@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 76304,
+  "2024-01-25": 76307,
   "date_first_scraped": "2023-09-27",
   "description": "Everything will look beautiful if you're inspired by the simplicity of instrumental music.",
   "name": "Music for Drawing & Painting",
@@ -437,6 +437,24 @@
       "duration_ms": 188000,
       "name": "Canon in D Major, P. 37",
       "url": "https://open.spotify.com/track/2LRpkAGzGi82HYwWhpm0hG"
+    },
+    {
+      "album": {
+        "name": "De otro mundo",
+        "url": "https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/4NGNSSZKYo9RzLT1AHE8mD"
     },
     {
       "album": {

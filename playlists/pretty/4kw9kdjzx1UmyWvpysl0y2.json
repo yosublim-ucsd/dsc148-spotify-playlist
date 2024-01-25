@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126623,
+  "num_followers": 126619,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUyNyw5MzZmY2ZlMTgxYWMyMmQyYmQ3ZWM1M2M0MDQ4NDdjODFmOGE1NzVj",
+  "snapshot_id": "NDUyOCwyMWY5OGViNjBhY2NkZjQ0ZmFhZjcyMWE0NTgxYmVlZjRlMmY2NmIx",
   "tracks": [
+    {
+      "added_at": "2024-01-24 18:00:45",
+      "album": {
+        "name": "Right Here, Right Now",
+        "url": "https://open.spotify.com/album/1pDqi26bklxKCIDRY9VHqc"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/6UAGp1Hg9VOqB8QU8salOK"
+    },
     {
       "added_at": "2024-01-23 18:04:13",
       "album": {

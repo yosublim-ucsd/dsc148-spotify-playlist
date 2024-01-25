@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Ultra C",
+        "url": "https://open.spotify.com/album/3Z5cEIcR6IrrTGw7BngETM"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u91ce\u7814\u592a\u6717",
+          "url": "https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179281,
+      "name": "Ultra C",
+      "url": "https://open.spotify.com/track/6sGgy2vdkDQxFsc4yRFj3V"
+    },
+    {
+      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 179281,
       "name": "\u30a6\u30eb\u30c8\u30e9C",
       "url": "https://open.spotify.com/track/0141anOpsF7yGIsNtbvooz"

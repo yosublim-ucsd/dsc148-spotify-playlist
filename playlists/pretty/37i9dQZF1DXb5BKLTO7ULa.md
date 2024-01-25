@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,037 likes - 86 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,020 likes - 86 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 85 | [My Only Love](https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [My Only Love](https://open.spotify.com/album/0oo9DANNKIwWW1SgNNL3mY) | 3:35 |
 | 86 | [Richard Has a Racecar](https://open.spotify.com/track/16v5LEygjqndWhDbnMrsX1) | [MOOON](https://open.spotify.com/artist/53U4hWtcbNtLw3Q5w8ttDH) | [Richard Has a Racecar](https://open.spotify.com/album/68HIpXBAz0A5lMzowOmlCW) | 3:05 |
 
-Snapshot ID: `MCw2ZDBiNDJiZjI0YjdhNjlhZTc4NzRlOTljODViMjViOTU2NmQ3MWE2`
+Snapshot ID: `MCw5ZjU4Y2IwYzU1MTcxOGFiNDI5YTBlMGViNmRjMTUzNTMxODQwNzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,565 likes - 175 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,498 likes - 175 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 36 | [GUILTY](https://open.spotify.com/track/55lhIKhpnIy1r4y7zXBEvV) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Raia Was](https://open.spotify.com/artist/0Caz2P8AxfYKJ3Do90ObEx) | [GUILTY](https://open.spotify.com/album/3IVXFFsMmZiir7SlKs4ZtL) | 9:54 |
 | 37 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 38 | [Breaking In Brooklyn](https://open.spotify.com/track/2zDhyItaODgKJAIdTGMw3z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Breaking In Brooklyn](https://open.spotify.com/album/2ZJ1CNaPutPxKvgulcfQQH) | 3:06 |
-| 39 | [under your tongue](https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh) | [Pretty Jane & the Magazines](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [under your tongue](https://open.spotify.com/album/4wPePRy9BV6lmm4wMw3TMH) | 3:20 |
+| 39 | [under your tongue](https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh) | [Pretty Jane](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [under your tongue](https://open.spotify.com/album/4wPePRy9BV6lmm4wMw3TMH) | 3:20 |
 | 40 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 41 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
 | 42 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 |
 | 175 | [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 |
 
-Snapshot ID: `MCxjMWI4NGM1ZjEyMWE3Yjg1ODk5MTIwYjVjZmQ5ODI0MGRjOTg3YmRi`
+Snapshot ID: `MCw5NTFjYmViMThhZjQ2Y2RjZDQ2M2Y2ZTQxZWQzNDJhMjIzNGYwOWIz`

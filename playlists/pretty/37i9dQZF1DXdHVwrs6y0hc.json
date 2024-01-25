@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 74180,
+  "num_followers": 74261,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDkxMjE2ZWQxNmIwNjQ5MGY4NWM1MmFhOTU2MjE4MWIxYWUyM2Nk",
+  "snapshot_id": "MCxlNGNhMmVhYzNmYTNjZTU4NDUyMjhkZDgxOWI2NmNkNTYzZmFmMTVj",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Drinking Songs Vol 1",
-        "url": "https://open.spotify.com/album/5dlpSuvg8hvJAgoeYnisp0"
-      },
-      "artists": [
-        {
-          "name": "Waxies Dargle",
-          "url": "https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH"
-        }
-      ],
-      "duration_ms": 167372,
-      "name": "Paddle Me Own Canoe",
-      "url": "https://open.spotify.com/track/0AX7y4GEcZHOSaFp2vPdKM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "The Craic Is Mighty",
         "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 137146,
       "name": "Dicey Reilly",
       "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Drinking Songs Vol 1",
+        "url": "https://open.spotify.com/album/5dlpSuvg8hvJAgoeYnisp0"
+      },
+      "artists": [
+        {
+          "name": "Waxies Dargle",
+          "url": "https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH"
+        }
+      ],
+      "duration_ms": 167372,
+      "name": "Paddle Me Own Canoe",
+      "url": "https://open.spotify.com/track/0AX7y4GEcZHOSaFp2vPdKM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "The Black Velvet Band",
+      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
         "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
       },
       "artists": [
         {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
         }
       ],
-      "duration_ms": 228373,
-      "name": "The Black Velvet Band",
-      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
+      "duration_ms": 174693,
+      "name": "Paddy Dreaming",
+      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -447,22 +463,6 @@
       "duration_ms": 230440,
       "name": "Cap and Bells",
       "url": "https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Paddy Dreaming",
-      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "The Month of January",
-      "url": "https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 198733,
       "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
       "url": "https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "The Month of January",
+      "url": "https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj"
     },
     {
       "added_at": "2021-04-26 15:38:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,245 likes - 62 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,384 likes - 62 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 39 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 |
 | 40 | [Talking to Nature](https://open.spotify.com/track/6ayIQNnuIfw5Dz3RuE7ifP) | [Shastro](https://open.spotify.com/artist/5D7gnyD7U75lCDAJxIW5Ew) | [Satsang](https://open.spotify.com/album/3LJ2FWxDXAb6iuMkxXZgnf) | 4:38 |
 | 41 | [Osho Flute](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [Osho Flute](https://open.spotify.com/artist/0jWuY9fadcg1Rd3WdIqBEq) | [Osho Flute](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 7:06 |
-| 42 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 |
+| 42 | [Meeting Of Two Oceans](https://open.spotify.com/track/7drPBuHo0GQZqRZhLvM7dQ) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:14 |
 | 43 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
 | 44 | [Compassion](https://open.spotify.com/track/5pxPqW9c8F010Cv3VfJIJJ) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Compassion](https://open.spotify.com/album/6aIorUJ01obK1eRU74UHdj) | 7:10 |
 | 45 | [One Breath at a Time](https://open.spotify.com/track/32s96KMCWPfm1NKYWNZq9x) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [One Breath at a Time](https://open.spotify.com/album/05FBv2wOhPDZQOFjLNY5X6) | 5:55 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 56 | [Mandala](https://open.spotify.com/track/7yf8j7FGZhfO8EFyzrkvwb) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Indian Flute](https://open.spotify.com/album/2ygYSIMkHOlfRb9ysUAIsU) | 6:15 |
 | 57 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 |
 | 58 | [Love Is the Cure](https://open.spotify.com/track/6uCrly7EIwoSLbfg9m4jEl) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Gift of Love](https://open.spotify.com/album/5U3YRKw8YVOjw6Rl6N2O6m) | 6:24 |
-| 59 | [Tranquil Sunset](https://open.spotify.com/track/58cCbafr6TZ4u1T4u4weTI) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:37 |
+| 59 | [Tranquil Sunset](https://open.spotify.com/track/2IeJpqjaD2taFXlJWX3ru0) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:37 |
 | 60 | [Raag Durga \- Alap](https://open.spotify.com/track/5rIqVirVbzjmEIiwTlt9ag) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 5:58 |
 | 61 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 |
 | 62 | [Antar Naad \(Call Within\)](https://open.spotify.com/track/5OPIMYUmRmGTE4uopuJzF6) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/76GzjOK13C5TeJkjWPKAZv) | 6:43 |
 
-Snapshot ID: `MCw1NzA5MmExZDE1Njg2MGEyY2ViMDI5NDZiMzE1MzIzMzNmOWQ1Yjg3`
+Snapshot ID: `MCxjY2QwOWEyNWUzNjU2ZjFhNmIyNGJlZGI4ZTRmMjgxODQ2OGVmZmVj`

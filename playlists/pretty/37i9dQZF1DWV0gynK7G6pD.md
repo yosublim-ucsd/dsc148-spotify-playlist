@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Stephan Moccio
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,576 likes - 61 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,581 likes - 61 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 60 | [Wavesongs: Homeward Bound](https://open.spotify.com/track/3JDM92R6zBufnXq2j0wt3R) | [Gordon Crosse](https://open.spotify.com/artist/1emxTkq2JOO0FYcqJCsAEh), [Alexander Baillie](https://open.spotify.com/artist/7MhcrTOvQy38S5Twt1dS9Y), [Nigel Yandell](https://open.spotify.com/artist/2fCgs7Ip0WuyTbqKvaCsva) | [Homeward Bound from Wavesongs](https://open.spotify.com/album/6hoUFcKXMAymV3WlakkAum) | 2:32 |
 | 61 | [Donna, el pianto et la mia doglia](https://open.spotify.com/track/0t5ppOY8jG5XNy6pnN8KQy) | [Giovanni Serragli](https://open.spotify.com/artist/6zhCoajarqpWaKQaaoVIsY), [La Morra](https://open.spotify.com/artist/6DiL4QelSbjVZ72KE8GK4F), [Corina Marti](https://open.spotify.com/artist/7DEzNvsxPavmmhJ4P6ZPoI), [Michał Gondko](https://open.spotify.com/artist/4YRlo2wicp0cqYA2ZLJa7j) | [Serragli: Donna, el pianto et la mia doglia](https://open.spotify.com/album/0g9dzrqNXJq5uPrt2YOvYf) | 5:16 |
 
-Snapshot ID: `MCw1NzhhYzgwMDNhNDFjZDk2YzVkZjczMWVlOWEwNjkwMTgxZTA1OGE0`
+Snapshot ID: `MCxkMGRkM2ZiN2RmZWU4MWE2ZmIyMDIwMzU5YzI4YjY4YzUyMTNhZGQ1`

@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 454,
+  "2024-01-25": 454,
   "date_first_scraped": "2021-12-29",
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
   "name": "This Is Sonny Okosun",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 436533,
       "name": "Jah Love",
       "url": "https://open.spotify.com/track/02EHJkHb9mobu0tLe86zKT"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 365040,
       "name": "Know Jesus Know Life",
       "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 292800,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"

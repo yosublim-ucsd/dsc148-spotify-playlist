@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 808812,
+  "num_followers": 808904,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWFhNzEwYWM3ODE5MzM5YmUyNmIyNTAxZTIyMjY5N2NmNGE5YmEx",
+  "snapshot_id": "MCxjN2I5YjA4MzdjMzdjMDc1ZDgzOTZhMDJjZDEzYjdkZWZhYzQzNDFk",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Great R&B",
         "url": "https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 236106,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
       "added_at": "2021-04-01 19:37:56",

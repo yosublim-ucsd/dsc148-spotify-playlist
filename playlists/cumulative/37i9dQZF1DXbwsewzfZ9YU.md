@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-173 songs - 7 hr 14 min
+178 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 | 2023-02-24 | 2023-04-30 |
 | [Ambivalence](https://open.spotify.com/track/40CnUZ7PoaK77rSGqmx7Mi) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/2yTQM7NDekBNwq2OgGWso9) | 2:20 | 2023-04-21 | 2023-05-20 |
-| [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 | 2023-03-08 |  |
+| [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 | 2023-03-08 | 2024-01-25 |
+| [Apology Denied](https://open.spotify.com/track/4MzCYwWHfleM9HORAQNNbB) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5HEZd6pZmeCNT2Cn4PcA2G) | 2:21 | 2023-12-12 |  |
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-24 |  |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2023-02-24 | 2023-08-12 |
 | [Avenge](https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5) | [Sentinel](https://open.spotify.com/artist/52vLjSY4OTo3YyIr0zTJgE) | [Avenge](https://open.spotify.com/album/5WYedUR5YPq1Cwdt4ZS6M7) | 1:40 | 2023-11-14 |  |
@@ -53,7 +54,8 @@
 | [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 | 2023-04-21 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/0bBPFGHqMcZrb9v65cJlgF) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Severance](https://open.spotify.com/album/7x7A9ppDKbtuLRVOC0CSAY) | 2:57 | 2023-11-10 |  |
 | [Fabric Of Self](https://open.spotify.com/track/5Etc624VQKo16izd0ESQcU) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 5:03 | 2023-07-18 | 2023-08-26 |
-| [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 | 2023-08-11 |  |
+| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/6pvMie3cCYqDJ7b8mS2XyT) | 1:18 | 2023-12-12 |  |
+| [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 | 2023-08-11 | 2024-01-25 |
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-02-24 | 2023-08-12 |
 | [Famine](https://open.spotify.com/track/4X8jREuc6luiF7HeCdDHes) | [Paint It Black](https://open.spotify.com/artist/7GtvuoYRvRQbBnvgu9VS11) | [Famine](https://open.spotify.com/album/3d8dwL3KjNSfhduDaVCObn) | 1:52 | 2023-11-10 |  |
 | [Fool](https://open.spotify.com/track/3uYxIcmISekmOBE9uwMGtp) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 2:07 | 2023-04-21 |  |
@@ -77,13 +79,15 @@
 | [Imperalist Reign](https://open.spotify.com/track/3wTLbr8a8xUuaBbmFSJ24U) | [Move BHC](https://open.spotify.com/artist/0k0hZC312UEzXUseFlboyZ) | [Imperialist Reign / Summer Trend](https://open.spotify.com/album/0ZcAEVm9B7eLqB3LWRX5lL) | 2:19 | 2023-08-11 |  |
 | [In The City](https://open.spotify.com/track/2i9RPuyGUPhNXbEefdQX3S) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/0MVWEsdOeomWGb9LDBoltV) | 3:12 | 2023-12-12 |  |
 | [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 | 2023-12-23 |
-| [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 | 2023-02-24 |  |
+| [In the Moment](https://open.spotify.com/track/0NlTiLCrtFjup8wFtiPvUW) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/5TdfffxcU8zEX1V0KlFPB3) | 2:40 | 2023-12-12 |  |
+| [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 | 2023-02-24 | 2024-01-25 |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2023-02-24 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:26 | 2023-08-11 | 2023-09-09 |
 | [Killing Wage](https://open.spotify.com/track/4V3F6sf0U3DkIgoZlPeeGT) | [Enemy](https://open.spotify.com/artist/4jJEXN720s7o5vBPEJjvOD) | [Maladjusted](https://open.spotify.com/album/5C8PwVl2pPjnpGf68dV8PD) | 1:03 | 2023-07-18 |  |
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-03-10 |  |
 | [Life's Cold Grasp](https://open.spotify.com/track/2LPIlwH2FVqDXJZuffexj5) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk) | [2022 Promo](https://open.spotify.com/album/2hoK0gIkA5qLjBoGH6mfiN) | 2:55 | 2023-02-24 |  |
-| [Lifer](https://open.spotify.com/track/2dJT7tA9E1lzY2KBDHDm9L) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/0cV9OMw0QzGrHDztTvRYU9) | 1:32 | 2023-08-11 |  |
+| [Lifer](https://open.spotify.com/track/0DzHf51O0XvVEP5D40gEze) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/4IxCFOxIORp5RUQgsP8tdg) | 1:32 | 2023-12-12 |  |
+| [Lifer](https://open.spotify.com/track/2dJT7tA9E1lzY2KBDHDm9L) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/0cV9OMw0QzGrHDztTvRYU9) | 1:32 | 2023-08-11 | 2024-01-25 |
 | [Like A Sickness](https://open.spotify.com/track/0E3LY4IzJldhjtjXyA2YCZ) | [Carbonite](https://open.spotify.com/artist/5I9pUosfnguHmqabb3okuQ) | [Like A Sickness](https://open.spotify.com/album/7KUUQV2UQ0wMmwCIgbx9di) | 2:45 | 2023-02-24 |  |
 | [Lust For Destruction](https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Good To Feel](https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr) | 1:53 | 2023-02-24 | 2023-03-11 |
 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 | 2023-02-24 |  |
@@ -126,7 +130,8 @@
 | [Seizure The Day](https://open.spotify.com/track/1J2qs0fVkDgnqncjJPw0LH) | [Last Gasp](https://open.spotify.com/artist/0CAPzuyQdCsgOemfeAWmMK), [The Spudmonsters](https://open.spotify.com/artist/691xdXnx3KlkIRUi4CQ2GY) | [Who Wants to Die Tonight?](https://open.spotify.com/album/0hGt0SPLp3bF7HNcQcu3MF) | 1:33 | 2023-11-10 |  |
 | [SERRATED STEEL INTRO](https://open.spotify.com/track/15XZvMldL7gYISziYow1mT) | [Knife Wound](https://open.spotify.com/artist/6aHbtzEnui5mHu2bUeKexe) | [Serrated Steel Demo 23'](https://open.spotify.com/album/2DnCljWfdmglQBHnnpUtgg) | 1:49 | 2023-08-11 |  |
 | [Shadow Figure](https://open.spotify.com/track/1LFFTtAGghxZLGZcBj2jPo) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 2:31 | 2023-02-24 |  |
-| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-07-18 |  |
+| [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 | 2023-12-12 |  |
+| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-07-18 | 2024-01-25 |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-18 | 2023-09-23 |
 | [Sink In](https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA) | [Playytime](https://open.spotify.com/artist/37YG1k18DuWDs5fvr7oeH4) | [The Fun Never Ends](https://open.spotify.com/album/53KgNl5d5ff9Md1lfzj6gz) | 2:13 | 2023-08-11 |  |
 | [Six](https://open.spotify.com/track/4rPwYXHbHfxqkkgYaJIkWQ) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [SUNAMI \(L.P.\)](https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara) | 1:52 | 2023-12-12 |  |

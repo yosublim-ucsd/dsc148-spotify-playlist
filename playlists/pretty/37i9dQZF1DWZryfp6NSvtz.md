@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Enter Shikari
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,384 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,518 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 |
 | 50 | [Uruk](https://open.spotify.com/track/4SOkJGxpURoMaRi8awFiNJ) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 9:54 |
 
-Snapshot ID: `MCxiZTRmZDU1NDg0MDYzOWQ0MWU0MmIwYzdkODU2M2E1NWI4YmU1MGUz`
+Snapshot ID: `MCwwOTNjZmEyYmQyOTVlM2M2MDYxZjlmMjYxYWRiOGRiMTA5ZWU2Y2Vj`

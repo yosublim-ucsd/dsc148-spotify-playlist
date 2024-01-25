@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-74 songs - 6 hr 1 min
+75 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [I Got You \(Always and Forever\)](https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:41 | 2023-03-04 |  |
 | [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 | 2023-05-09 | 2023-08-31 |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2023-03-04 |  |
-| [Interlude \- Live](https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 0:55 | 2024-01-20 |  |
+| [Interlude \- Live](https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 0:55 | 2024-01-20 | 2024-01-25 |
+| [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 | 2024-01-24 |  |
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
 | [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 | 2023-11-11 |
 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 | 2023-03-04 |  |

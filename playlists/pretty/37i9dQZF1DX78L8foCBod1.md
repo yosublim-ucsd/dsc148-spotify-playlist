@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,759 likes - 97 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,792 likes - 97 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「七つの大罪 黙示録の四騎士」オリジナル・サウンドトラック](https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT) | 7:23 |
+| 1 | [The Seven Deadly Sins: Four Knights of the Apocalypse\-MAIN THEME](https://open.spotify.com/track/2YCz6kAkELWL4u1MXKVGvr) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [The Seven Deadly Sins Four Knights of the Apocalypse original soundtrack](https://open.spotify.com/album/1xAme6lxzPzIB0GBhE90xF) | 7:23 |
 | 2 | [NOD](https://open.spotify.com/track/2t5BsR1Q9xP3O7RSs5NNLe) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [NOD](https://open.spotify.com/album/11D4LDyI4T1EjVqrZP9wL0) | 2:43 |
 | 3 | [DARK ARIA <LV2>](https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEveL](https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M) | 2:22 |
 | 4 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 96 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 97 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MCxlMWY5NjY1ODZhMzRjY2JhMjE5MWJiNGVmMjRmMGJmODYxYzhjMWY4`
+Snapshot ID: `MCw5ZmI5OWFiNzVhYTRjMTU3Y2QzYmJmMGM1OTIyYzdhNDZiYjg4OGJm`

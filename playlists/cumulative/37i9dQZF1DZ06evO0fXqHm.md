@@ -4,7 +4,7 @@
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 17 min
+52 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [JANTA \(feat\. Lili AM, Mariana Mello e Gabz\)](https://open.spotify.com/track/0BkDgnk5GF4Nke4ttJ4T7m) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [JANTA \(feat\. Lili AM, Mariana Mello e Gabz\)](https://open.spotify.com/album/0eV8dgbNrS7N9nhMK5Q2Ga) | 4:30 | 2023-12-30 |  |
 | [Jogo Sujo](https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:25 | 2023-12-30 |  |
 | [Juma Marruá](https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:42 | 2023-12-30 |  |
-| [Kina](https://open.spotify.com/track/2vLmJJ6JeAdAXzj4QwI0GM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Suasória](https://open.spotify.com/album/2Aq4cexoooJTkd0mUmwtAu) | 3:03 | 2023-12-30 |  |
+| [Kina](https://open.spotify.com/track/2vLmJJ6JeAdAXzj4QwI0GM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Suasória](https://open.spotify.com/album/2Aq4cexoooJTkd0mUmwtAu) | 3:03 | 2023-12-30 | 2024-01-25 |
 | [LADIES NIGHT](https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [LADIES NIGHT](https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI) | 2:41 | 2024-01-20 |  |
 | [Love Me Two Times](https://open.spotify.com/track/7j19DBFzaXdIRRtWjvulBk) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:04 | 2023-12-30 |  |
 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 | 2023-12-30 |  |
@@ -59,5 +59,6 @@
 | [Tropa das Gostosa](https://open.spotify.com/track/1CbpZiTfVWCIpnn7dywl3q) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Piquezin do WC](https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV) | 2:01 | 2023-12-30 |  |
 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 | 2023-12-30 |  |
 | [Xananan](https://open.spotify.com/track/405ycvBuGfJwO2f2FSPwpc) | [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [Xananan](https://open.spotify.com/album/3ervcHXvhmcAEN81T4El9D) | 2:25 | 2023-12-30 |  |
+| [Zero Amor em Bh](https://open.spotify.com/track/7od2L9qLJAY7j4AL4lituj) | [MC Sam Da PS](https://open.spotify.com/artist/6xG8LkwYRoHw7wdM5UDebE), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc PC](https://open.spotify.com/artist/7icOYN4r8fou5FlbBNJVvI), [DJ JOÃO DO CAIÇARA](https://open.spotify.com/artist/2slpwTFqRuwmDChXrdFsKW) | [Zero Amor em Bh](https://open.spotify.com/album/17C7D1wbuZmUlIeUWwwNFE) | 2:35 | 2024-01-24 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

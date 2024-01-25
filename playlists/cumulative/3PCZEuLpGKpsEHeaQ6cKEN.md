@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: D.O.D and Hannah Boleyn
 
-895 songs - 1 day 23 hr 49 min
+896 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Silence \- Kryder Remix](https://open.spotify.com/track/6CIK3yytxa6CjskUp9oCZU) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:15 | 2023-07-31 | 2023-12-14 |
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2022-06-09 | 2023-03-25 |
 | [Sing With Me](https://open.spotify.com/track/4ZQOEMwNFB08TX1ojdwJKn) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Sing With Me](https://open.spotify.com/album/1iqKYPDXKP7qUJqh364zgK) | 2:33 | 2023-02-09 | 2023-06-23 |
+| [Sirens](https://open.spotify.com/track/2dHWqyeC0njhS84BcWezTD) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Chroma Panorama](https://open.spotify.com/album/1r0Clva2PzpUl7uhtSYGL7) | 2:54 | 2024-01-24 |  |
 | [Sirius](https://open.spotify.com/track/3GYH6TqF2fIihKps1Sedxc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Sirius](https://open.spotify.com/album/0nLhLoUl7b4chfPNPF10I0) | 3:46 | 2022-06-09 | 2022-07-22 |
 | [Sleepwalking](https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Sleepwalking](https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2) | 3:44 | 2023-01-05 | 2023-02-17 |
 | [Slip N Slide](https://open.spotify.com/track/4EWnfhH9PQt6QfEjDOYKiS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Slip N Slide](https://open.spotify.com/album/53DeGTSqgNwTEhN9HgAydp) | 2:26 | 2022-06-09 | 2022-07-01 |

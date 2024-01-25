@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld"
+      },
+      "artists": [
+        {
+          "name": "Mind Matters",
+          "url": "https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228624,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo"
+    },
+    {
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/6SNOMXRBFNzL18Xo96PmD6"
       },
@@ -1914,6 +1932,24 @@
       "duration_ms": 130250,
       "name": "Sarek",
       "url": "https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M"
+    },
+    {
+      "album": {
+        "name": "Sea Of Clouds",
+        "url": "https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC"
+      },
+      "artists": [
+        {
+          "name": "Convallaria",
+          "url": "https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179156,
+      "name": "Sea Of Clouds",
+      "url": "https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT"
     },
     {
       "album": {

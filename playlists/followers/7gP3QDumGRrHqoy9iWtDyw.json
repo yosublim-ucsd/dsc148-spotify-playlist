@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 22453,
+  "2024-01-25": 22452,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Malaa Selection ",
@@ -1577,6 +1577,24 @@
       "duration_ms": 228571,
       "name": "Is It All Over My Face - Black V Neck Remix",
       "url": "https://open.spotify.com/track/1WXqBRHwlkNGHHeSzw2tjA"
+    },
+    {
+      "album": {
+        "name": "Island Fever",
+        "url": "https://open.spotify.com/album/1WHvcz2G4cvXpX12RFWsyc"
+      },
+      "artists": [
+        {
+          "name": "Notorious Lynch",
+          "url": "https://open.spotify.com/artist/41xBuYs7L9gowDXy9zM1Xg"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Island Fever",
+      "url": "https://open.spotify.com/track/70Gms13Wyx7nMBE95TNJ8Q"
     },
     {
       "album": {

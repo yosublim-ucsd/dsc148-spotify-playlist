@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 8502,
+  "2024-01-25": 8556,
   "date_first_scraped": "2021-12-21",
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
   "name": "Peppl\u00e5tar till tr\u00e4ningspasset",
@@ -549,6 +549,36 @@
       "duration_ms": 161904,
       "name": "BOTH - David Guetta & Seth Hills Remix",
       "url": "https://open.spotify.com/track/6b7Z5ICFy6TbQwshMr9ORO"
+    },
+    {
+      "album": {
+        "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
+        "url": "https://open.spotify.com/album/5J3sxGutwiBWPWYw09lPIU"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Boyz In Paris (with VINAI) - W&W HardRave Mix",
+      "url": "https://open.spotify.com/track/3Qwq1lbufsx31JT77vEViw"
     },
     {
       "album": {
@@ -1543,7 +1573,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 248750,
       "name": "Goes Like This",
       "url": "https://open.spotify.com/track/7t1rB0I5QZFhCtPAwOuqqc"
@@ -2511,7 +2541,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
@@ -2713,6 +2743,24 @@
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
+    },
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
     },
     {
       "album": {

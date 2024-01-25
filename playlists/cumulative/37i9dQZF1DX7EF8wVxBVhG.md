@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-290 songs - 14 hr 46 min
+292 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [30 Hz Gamma](https://open.spotify.com/track/0giLh5A1qhQHLP68sH96Ub) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:22 | 2019-05-26\* | 2020-12-15 |
 | [432hz Gamma Waves](https://open.spotify.com/track/6PZ30RDmMNcgNwTrQEO86m) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [432hz Gama Waves](https://open.spotify.com/album/5hXNqqanZ7b8fXcOhzznRA) | 3:25 | 2021-04-10 | 2021-09-02 |
 | [50 Hz Gamma](https://open.spotify.com/track/1MIz2SmiVMvdQ62N8su8H0) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:10 | 2019-05-26\* | 2022-08-23 |
+| [528 Hz Tranquil Movement](https://open.spotify.com/track/3Yr2H92JZYghHGHApR2Y3E) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Tranquil Movement](https://open.spotify.com/album/6t5ZI4pjEPPM7TMBLza3Rg) | 2:30 | 2024-01-24 |  |
 | [70 Hz Gamma Sinus](https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 1:54 | 2021-02-03 | 2023-04-22 |
 | [80 Hz Gamma Waves \- Binaural Beats](https://open.spotify.com/track/6Nnz45KtRko0iE00zLKSf3) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Binaural Beats MT](https://open.spotify.com/artist/6JQBjYzGitZexdaxngUCH7) | [Binaural Beats \- Peak Awareness \(Gamma Waves\)](https://open.spotify.com/album/1QsPrWeubge8WfX20IFDql) | 2:03 | 2022-01-27 |  |
 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 | 2019-05-26\* | 2021-01-12 |
@@ -248,6 +249,7 @@
 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 | 2019-05-26\* |  |
 | [Mind Warrior \(Beta 13 Hz\)](https://open.spotify.com/track/7yMLsyHDOlIs3LjvEyolv4) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 2:59 | 2020-12-03 | 2020-12-15 |
 | [mind window \- Alpha Sinus 127Hz \- 134Hz](https://open.spotify.com/track/5kagVj2KD9SZ7frebran62) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 3:10 | 2021-03-25 |  |
+| [Minderize 396Hz](https://open.spotify.com/track/5H0EWH7SxilqGdMuseQ6ye) | [SineWire](https://open.spotify.com/artist/3cl9K86n8EkrY9GvUSEXa1) | [Minderize 396Hz](https://open.spotify.com/album/1kJoInlAba7fylE2KOEw0U) | 3:12 | 2024-01-24 |  |
 | [Mindul Gamma](https://open.spotify.com/track/3LpE1uxGM1fO55mSDq2M6c) | [FX Sleep Creator](https://open.spotify.com/artist/6YPpB1iVfPRurxJ7fNIevL) | [Brainwaves for Sleeping](https://open.spotify.com/album/5mVunfGHykgb3pvqEanPaT) | 3:36 | 2019-05-26\* | 2020-05-07 |
 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 | 2021-04-10 |  |
 | [Miyus Alpha Waves 93\-103 Hz](https://open.spotify.com/track/6aWrkNQd64IWVfRZysKArA) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Alfalfa Waves](https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF) | 2:56 | 2022-08-22 |  |

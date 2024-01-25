@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Westend and Max Styler
 
-1,435 songs - 3 day 9 hr 50 min
+1,436 songs - 3 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-03-11 | 2022-06-18 |
 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 | 2023-10-27 |  |
 | [La Gente](https://open.spotify.com/track/0lZmmbkXLmfzGzk4eQOWkq) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/1yMQ7a4fay6bmaCKDS6Q7a) | 3:12 | 2023-10-13 | 2023-12-02 |
+| [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 | 2023-10-27 |  |
 | [La La La](https://open.spotify.com/track/1EmhWg1fKL7uNZNPXKPvFI) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [La La La](https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8) | 3:07 | 2022-06-24 | 2022-07-23 |
 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-07-21 | 2024-01-13 |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-06-03 | 2022-09-10 |
@@ -1305,7 +1306,7 @@
 | [Tra Tra Tra](https://open.spotify.com/track/6ASgz3OP3Nv79u0V1ffio9) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Ordonez](https://open.spotify.com/artist/73qIXR9dxJidokewevaNox) | [Tra Tra Tra](https://open.spotify.com/album/2adrBwmOa3BsD0k8PSZDQj) | 3:23 | 2022-08-12 | 2022-08-20 |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-10 | 2023-04-09 |
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-12 | 2023-07-01 |
-| [Transcendence](https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [East Meets West](https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX) | 4:07 | 2023-12-01 |  |
+| [Transcendence](https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [East Meets West](https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX) | 4:07 | 2023-12-01 | 2024-01-25 |
 | [Treat Myself](https://open.spotify.com/track/4t6UIBVpaNkaHYICnhkKcs) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ) | [Treat Myself](https://open.spotify.com/album/375uGcYM31zQCKtdDUFBPo) | 2:10 | 2023-07-28 | 2023-09-23 |
 | [Trenches](https://open.spotify.com/track/7dSk1w7c15D6qVbxM3rOEo) | [Late Delivery](https://open.spotify.com/artist/3XcQJquQvF5yIHk2gH2saH) | [Trenches](https://open.spotify.com/album/0zkHSiu19cjxid9bcM11fj) | 6:24 | 2022-12-28 | 2023-01-06 |
 | [TRIBAL SPACEMAN](https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TRIBAL SPACEMAN](https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x) | 3:56 | 2022-12-02 | 2022-12-29 |

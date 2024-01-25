@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,511 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,523 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 16 | [X](https://open.spotify.com/track/2dsYpJEcjDNm3BoG3Q5YXm) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 4:15 |
 | 17 | [Stay Tonight](https://open.spotify.com/track/5KRY2UxuFPXmQNMmKwj5aW) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:37 |
 | 18 | [Masquerade](https://open.spotify.com/track/7IGe32Cs03oyIoKQ8Ug9OM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:17 |
-| 19 | [Flying on Faith](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:06 |
+| 19 | [Flying on Faith](https://open.spotify.com/track/6GTN8y0pvTJpFaNzSy469N) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:06 |
 | 20 | [Luce Sicut Stellae](https://open.spotify.com/track/5shXaz8TI4chgndsE3g04n) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:11 |
 | 21 | [My Lips Like Warm Coffee](https://open.spotify.com/track/3BWTaW69km35u55PN4O1UH) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [My Lips Like Warm Coffee](https://open.spotify.com/album/5RsWNGFreBwwHCHln5CL6D) | 3:34 |
-| 22 | [Demente \- Spanish Version](https://open.spotify.com/track/4pBsmktr55rBxprHFXIFy8) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Demente \(Spanish Version\)](https://open.spotify.com/album/46Veo9EtvuDO0UaNJN14Dv) | 2:43 |
+| 22 | [Demente \- Spanish Version](https://open.spotify.com/track/7wgao0AjGbboSweUKzDuhz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Demente \(Spanish Version\)](https://open.spotify.com/album/34UtTP3m1ZsRsdKzonTZEZ) | 2:43 |
 | 23 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
 | 24 | [Bother Me](https://open.spotify.com/track/7B59ozzoEdLbaa4slfGLRZ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:22 |
 | 25 | [Chill](https://open.spotify.com/track/6QblwZvUmFqgNkxpOVtLOJ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 74 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
 | 75 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 
-Snapshot ID: `MCxlMTdmNDFlYmI3YmI5OTk4MzIyYzliNGZkYzU1ODZjNjhmOWM3ZWI1`
+Snapshot ID: `MCxiZTE3NjEzMjA4ZWJjNzY4YTM2NDE5YzRiOTFhYTljNjc1NTFkOTAz`

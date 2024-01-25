@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 153571,
       "name": "Bliss - From \"Jimmy\"",
       "url": "https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB"
@@ -1048,6 +1048,28 @@
       "duration_ms": 233843,
       "name": "Desi Haan Ji",
       "url": "https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW"
+    },
+    {
+      "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/3XMFgKKrzGdhiJRn8RyjD3"
+      },
+      "artists": [
+        {
+          "name": "Raju Punjabi",
+          "url": "https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8"
+        },
+        {
+          "name": "Ishu Kaswan",
+          "url": "https://open.spotify.com/artist/6rZtEdypx0YSD2uXa3v2ib"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ"
     },
     {
       "album": {

@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 177549,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/57b8FvUqnDN7SS2NfnLtKT"
@@ -1095,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/4KXk3q6Nm5ZtKCmYyZQYF0"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1I0M7VXgBF8XgHmbu02aqb"
+    },
+    {
+      "album": {
         "name": "War Time",
         "url": "https://open.spotify.com/album/7Ls8KgBDSfyWTDDtzRR8uu"
       },
@@ -1362,6 +1384,24 @@
     {
       "album": {
         "name": "Fifty Shades Darker (Crazy in Love)",
+        "url": "https://open.spotify.com/album/256Agj9EYoYHzDPYQhmQNe"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "Fifty Shades Darker (Crazy in Love)",
+      "url": "https://open.spotify.com/track/2AjGfBkqW1e1nUPkcBD2jx"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Darker (Crazy in Love)",
         "url": "https://open.spotify.com/album/6YlFtB8YLeclZvUKrOyvJN"
       },
       "artists": [
@@ -1372,7 +1412,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 215602,
       "name": "Fifty Shades Darker (Crazy in Love)",
       "url": "https://open.spotify.com/track/6SiqDm2VW8x6YVoEIPM9S2"
@@ -1436,6 +1476,24 @@
       "duration_ms": 103923,
       "name": "Flying Home",
       "url": "https://open.spotify.com/track/2NcL1ofi0cVpUSJxN8VvLo"
+    },
+    {
+      "album": {
+        "name": "footsteps",
+        "url": "https://open.spotify.com/album/6sdJImswzD1F7srPqiqHNt"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103675,
+      "name": "footsteps",
+      "url": "https://open.spotify.com/track/15pIyCA3MNSIOBghly77mP"
     },
     {
       "album": {
@@ -1660,7 +1718,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 278706,
       "name": "Gentle Steps",
       "url": "https://open.spotify.com/track/1nhMbHYS4G0xNPMM9flamb"
@@ -2162,7 +2220,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 109714,
       "name": "Invitation of Windblume (Piano)",
       "url": "https://open.spotify.com/track/1x2ixEb4JrpEuN4m7T5O7V"
@@ -2220,7 +2278,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 67862,
       "name": "Kazuha Moonlit Breeze (Piano)",
       "url": "https://open.spotify.com/track/3uVb8OWiRgmETfxJRIdw0O"
@@ -2753,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "My Own Worst Enemy",
+        "url": "https://open.spotify.com/album/7uJSG7TlzndNZfWXBGYHOj"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144395,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/4u0kIagvyrIDsG1gB7ZZ0h"
+    },
+    {
+      "album": {
         "name": "My Quiet Place",
         "url": "https://open.spotify.com/album/6AgvMajrpbLe2yH1LyZpE1"
       },
@@ -3046,6 +3122,24 @@
       "duration_ms": 127200,
       "name": "onset",
       "url": "https://open.spotify.com/track/1bYyA6zLjC57wsu04g1zHd"
+    },
+    {
+      "album": {
+        "name": "ornaments",
+        "url": "https://open.spotify.com/album/2oGlaQrJBnHqTyEsjKkLzm"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125842,
+      "name": "ornaments",
+      "url": "https://open.spotify.com/track/3yd42pzQLdP8iODgDdmd68"
     },
     {
       "album": {
@@ -3785,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/1rvvkiAvOu1SzRC1hjiZG1"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136045,
+      "name": "Somewhere Over The Rainbow",
+      "url": "https://open.spotify.com/track/5iGVci3iKtwLZRD7XM7BvE"
+    },
+    {
+      "album": {
         "name": "Soothe, Vol. 5: Lullaby Dreams - Music for a Peaceful Escape",
         "url": "https://open.spotify.com/album/6O5uhu8C7c1QYQ7cKFxbea"
       },
@@ -4214,7 +4326,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 101546,
       "name": "This Little Fairytale",
       "url": "https://open.spotify.com/track/09CYiwVBdIlt6KQVtU5QYh"
@@ -4320,6 +4432,24 @@
       "duration_ms": 70640,
       "name": "Tom's Tree",
       "url": "https://open.spotify.com/track/2itVcHUiqI1eIK8oYGEcm8"
+    },
+    {
+      "album": {
+        "name": "Tra le Vite",
+        "url": "https://open.spotify.com/album/4gcIoNrjmrHsYMpahLplSR"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191535,
+      "name": "Tra le Vite",
+      "url": "https://open.spotify.com/track/063ieS7p8K2lAu060Ao84O"
     },
     {
       "album": {

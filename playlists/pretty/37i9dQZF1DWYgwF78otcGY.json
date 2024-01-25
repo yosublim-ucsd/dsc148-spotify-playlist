@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 27525,
+  "num_followers": 27627,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzgwMWI2ZjhlNzljMWFjZTdmZGJhNTJjNzM0MzEyZjJiMTkwMWMz",
+  "snapshot_id": "MCxkYTYyM2QwNjllZmFhZGY0YmNlYzBlZjNhYjlmMzA5YjAwYzQxOWY4",
   "tracks": [
     {
       "added_at": "2024-01-19 08:50:53",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
+        "name": "Guld och gr\u00f6na skogar",
+        "url": "https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW"
+      },
+      "artists": [
+        {
+          "name": "Hasse Andersson",
+          "url": "https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Guld och gr\u00f6na skogar",
+      "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
         "name": "Fairytales",
         "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 183093,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -155,18 +187,18 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
       },
       "artists": [
         {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -215,22 +247,6 @@
       "duration_ms": 172000,
       "name": "Air",
       "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Guld och gr\u00f6na skogar",
-        "url": "https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW"
-      },
-      "artists": [
-        {
-          "name": "Hasse Andersson",
-          "url": "https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Guld och gr\u00f6na skogar",
-      "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 191047,
       "name": "Bada nakna",
       "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+        "name": "Om om och om igen",
+        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
       "artists": [
         {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+      "duration_ms": 167346,
+      "name": "Om om och om igen",
+      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
     }
   ],
   "unique_name": "Mellofest! ",

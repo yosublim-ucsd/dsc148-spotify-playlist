@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-475 songs - 1 day 16 hr 42 min
+476 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1OF1](https://open.spotify.com/track/2ajY8tmLO4qrdsw2SnvNE2) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/1wnWYFIRM8UmWB56ONiOSw) | 5:18 | 2023-02-10 | 2023-03-18 |
 | [20inch Chrome](https://open.spotify.com/track/1v7Q3UPfnigXASLANpu0UF) | [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox), [Dollkraut](https://open.spotify.com/artist/0ocSwGS6cbsOhgWvbKZVNT) | [Bitte Everyday!](https://open.spotify.com/album/5d0B96rOzXBhq2gomLAWpc) | 5:08 | 2022-12-03 | 2023-02-11 |
 | [24 heures](https://open.spotify.com/track/3ciwAwn2puUb3oYU4zI7XN) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [24](https://open.spotify.com/album/3KwcVoM8Ej7mXYLjrnDD9F) | 3:17 | 2023-04-14 | 2023-04-29 |
-| [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 | 2024-01-19 |  |
+| [2special](https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu) | 2:47 | 2024-01-19 |  |
+| [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 | 2024-01-19 | 2024-01-25 |
 | [5AM](https://open.spotify.com/track/63Zb6HzaNZerzH4gIqOZxg) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Ufox01](https://open.spotify.com/album/1WhqM3Hg4n9hAwwRDsZGTN) | 6:53 | 2023-02-10 | 2023-03-18 |
 | [A Gringo Like Me](https://open.spotify.com/track/2VIEk6qVe64LsqTD2twaH2) | [Monte Cazazza](https://open.spotify.com/artist/0cEGUcdqnh2zh6iUxVS10L) | [The Cynic](https://open.spotify.com/album/5dw4mdN7X8VxzlVDTaMDOg) | 4:23 | 2023-08-04 | 2023-12-14 |
 | [A Matter of Time \- Anstam Remix](https://open.spotify.com/track/22Bxj9QohQQNZaYJeFXfb9) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW), [Anstam](https://open.spotify.com/artist/6x5cI9zBbzsVZ3UiOtiYDT) | [A Matter of Time](https://open.spotify.com/album/0mUt2AwXZtZnvjKOLMRDRY) | 3:49 | 2023-05-25 | 2023-06-17 |

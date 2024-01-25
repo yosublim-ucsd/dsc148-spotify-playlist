@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Joel Embiid
 
 565 songs - 1 day 4 hr 45 min
 

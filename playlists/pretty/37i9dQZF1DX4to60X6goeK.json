@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Skepsis",
-  "num_followers": 54671,
+  "num_followers": 54719,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTQ2Y2M3ODQ2MzAzYjczMjBiM2QyM2M5ODg4ZTE1NjJhY2VmZmFi",
+  "snapshot_id": "MCwwZGIwYWQ3NjBjOWVjNzFiZDI3NTBiZWJiZjlkYWMwMTNiNzI1NTM0",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/3lsohFPyLkdGHhXhl0rPMR"
     },
     {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Polarity (VIP)",
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "looking 4 me",
-        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 147245,
-      "name": "looking 4 me",
-      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
       },
@@ -641,20 +641,20 @@
       "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
+      "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+        "name": "looking 4 me",
+        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
       },
       "artists": [
         {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
         }
       ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+      "duration_ms": 147245,
+      "name": "looking 4 me",
+      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -793,6 +793,26 @@
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
+        }
+      ],
+      "duration_ms": 204171,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Forever Changes",
@@ -855,26 +875,6 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Morals",
-        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
-        }
-      ],
-      "duration_ms": 204171,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
     },
     {
       "added_at": "2023-11-17 16:57:48",

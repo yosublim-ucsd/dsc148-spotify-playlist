@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 21100,
+  "num_followers": 21135,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTAxMjY1MGY4N2Q0NDI4MDU2MDc1M2FjOTYzODVjMDkxODE3MjI3",
+  "snapshot_id": "MCxmZWM5NjlkZTUwOWM5YTIyNzg3OGE5MDBiMTBmZWUwMDU0YmUxYTIy",
   "tracks": [
     {
       "added_at": "2024-01-19 00:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "nwayi",
+      "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "SUPARO (Remix)",
         "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Sad Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "nwayi",
-      "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "san siro (remix)",
-        "url": "https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 207575,
-      "name": "san siro - remix",
-      "url": "https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "san siro (remix)",
+        "url": "https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 207575,
+      "name": "san siro - remix",
+      "url": "https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Lonely At The Top EP",
-        "url": "https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN"
+        "name": "SNAPCHAT",
+        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Lonely At The Top - Acoustic",
-      "url": "https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H"
+      "duration_ms": 185033,
+      "name": "SNAPCHAT",
+      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+        "name": "Lonely At The Top EP",
+        "url": "https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+      "duration_ms": 160000,
+      "name": "Lonely At The Top - Acoustic",
+      "url": "https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "SNAPCHAT",
-        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
       "artists": [
         {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 185033,
-      "name": "SNAPCHAT",
-      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Do What U Want",
-        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
-      },
-      "artists": [
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 112540,
-      "name": "Do What U Want",
-      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
+      },
+      "artists": [
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 112540,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
     },
     {
       "added_at": "2024-01-19 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Bas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,338 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,369 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 |
 | 100 | [Stay Beside Me](https://open.spotify.com/track/63g8gWlA4KtbJ2V0yt1bij) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Lucky Me](https://open.spotify.com/album/47jzrGCudVC17eem7BkxRt) | 3:18 |
 
-Snapshot ID: `MCxjYjczZGFlMDFlZjQyOTNhZmU4ZjdiMWQ2NTg0YzE4NTQ1N2RhOTU1`
+Snapshot ID: `MCwzOTYyZGNjNThkMjU4YjJkYzE0MWUzODIxZWFjZTc2MTQ3MzE4Mjky`

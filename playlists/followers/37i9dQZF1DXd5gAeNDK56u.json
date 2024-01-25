@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 107672,
+  "2024-01-25": 107828,
   "date_first_scraped": "2023-03-30",
   "description": "Mic check, 1, 2. ",
   "name": "Freestyle Beats",
@@ -379,6 +379,24 @@
       "duration_ms": 144000,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq"
+    },
+    {
+      "album": {
+        "name": "Cloudy Valley",
+        "url": "https://open.spotify.com/album/2aoqmbswiGBF3iLfrK0kNu"
+      },
+      "artists": [
+        {
+          "name": "Sphere One",
+          "url": "https://open.spotify.com/artist/0TLuaYqEEbAXD9VS45U3Vm"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131546,
+      "name": "Cloudy Valley",
+      "url": "https://open.spotify.com/track/3x215QEW1A2AwMtcIABmLt"
     },
     {
       "album": {
@@ -1001,6 +1019,24 @@
       "duration_ms": 179602,
       "name": "Lunch Break",
       "url": "https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8"
+    },
+    {
+      "album": {
+        "name": "Malaku",
+        "url": "https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx"
+      },
+      "artists": [
+        {
+          "name": "Uhrk-Nagimi",
+          "url": "https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156286,
+      "name": "Malaku",
+      "url": "https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x"
     },
     {
       "album": {

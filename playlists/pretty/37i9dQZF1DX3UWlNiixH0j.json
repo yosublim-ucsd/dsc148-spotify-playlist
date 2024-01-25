@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u89d2\u9285\u771f\u5b9f(Manami Kakudo)",
-  "num_followers": 55953,
+  "num_followers": 55997,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDJmZWE4ZTllOTBhN2JmYTFhYjllNDRmNjJiNzI5NWVlMjk3ZTQx",
+  "snapshot_id": "MCw2M2YyMmQ2ODM1NDlhYTE2NjQxY2I2OGQxMmFhNDg2NDNmZDY3YTFl",
   "tracks": [
     {
       "added_at": "2024-01-23 15:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
+        "name": "\u7d20\u76f4",
+        "url": "https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "duration_ms": 226342,
+      "name": "\u7d20\u76f4",
+      "url": "https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 223109,
       "name": "SHOZEN",
       "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "\u7d20\u76f4",
-        "url": "https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        }
-      ],
-      "duration_ms": 226342,
-      "name": "\u7d20\u76f4",
-      "url": "https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw"
     },
     {
       "added_at": "2024-01-23 15:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
         "name": "\u30b0\u30ea\u30f3\u30fb\u30b0\u30ea\u30fc\u30f3\u30ec\u30c3\u30c9",
         "url": "https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 302956,
       "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
       "url": "https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     },
     {
       "added_at": "2024-01-23 15:00:00",
@@ -1227,6 +1227,30 @@
       "duration_ms": 276666,
       "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
       "url": "https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
+        "name": "\u5b63\u7bc0\u306e\u97f3",
+        "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "\u5b63\u7bc0\u306e\u97f3",
+      "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
     },
     {
       "added_at": "2024-01-23 15:00:00",
@@ -1299,22 +1323,6 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Sashiiro",
-      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
         "name": "2023\u5e7412\u670813\u65e57\u4eba\u7de8\u6210 (Live)",
         "url": "https://open.spotify.com/album/5htPgk9AjglTmT00TPGlFf"
       },
@@ -1331,42 +1339,18 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
-        "name": "\u5b63\u7bc0\u306e\u97f3",
-        "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
       "artists": [
         {
-          "name": "Jane Jade",
-          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
-        },
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        },
-        {
-          "name": "SAKURA FUJIWARA",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 242432,
-      "name": "\u5b63\u7bc0\u306e\u97f3",
-      "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "\u30a8\u30c7\u30f3\u306e\u82b1",
-        "url": "https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX"
-      },
-      "artists": [
-        {
-          "name": "BBHF",
-          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "\u30a8\u30c7\u30f3\u306e\u82b1",
-      "url": "https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt"
+      "duration_ms": 185133,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
     },
     {
       "added_at": "2024-01-23 15:00:00",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
+        "name": "\u30a8\u30c7\u30f3\u306e\u82b1",
+        "url": "https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX"
+      },
+      "artists": [
+        {
+          "name": "BBHF",
+          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "\u30a8\u30c7\u30f3\u306e\u82b1",
+      "url": "https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
         "name": "\u7729\u3057\u3044\u65e5\u3005\u3078",
         "url": "https://open.spotify.com/album/0J0UZyf07GTJVw4kJcKB1D"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne"
-      },
-      "artists": [
-        {
-          "name": "DYGL",
-          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
         "name": "\u767d\u3044\u6905\u5b50",
         "url": "https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 183111,
       "name": "\u767d\u3044\u6905\u5b50",
       "url": "https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs"
     },
     {
       "added_at": "2024-01-23 15:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-01-23 15:00:00",
       "album": {
+        "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
+        "url": "https://open.spotify.com/album/3YKxhyBvBneyNLtDKdUWdK"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30b3\u30eb\u30e0\u306e\u5c71\u3005",
+          "url": "https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix"
+        }
+      ],
+      "duration_ms": 262230,
+      "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
+      "url": "https://open.spotify.com/track/76Tz5SxVVaRSvduZZQj8lG"
+    },
+    {
+      "added_at": "2024-01-23 15:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "\u3042\u305f\u3057\u3050\u3089\u3044\u306f\u9858\u3046\u305f\u3073",
-        "url": "https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ"
-      },
-      "artists": [
-        {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
-        }
-      ],
-      "duration_ms": 260441,
-      "name": "\u3042\u305f\u3057\u3050\u3089\u3044\u306f\u9858\u3046\u305f\u3073",
-      "url": "https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT"
     }
   ],
   "unique_name": "Edge!",

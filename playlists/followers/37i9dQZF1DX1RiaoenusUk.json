@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 25854,
+  "2024-01-25": 25861,
   "date_first_scraped": "2023-08-25",
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
   "name": "Nota Funk",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 196000,
       "name": "Libre",
       "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"

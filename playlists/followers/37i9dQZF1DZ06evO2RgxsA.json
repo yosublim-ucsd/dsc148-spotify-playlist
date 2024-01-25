@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 85610,
+  "2024-01-25": 85626,
   "date_first_scraped": "2022-09-17",
   "description": "This is NOFX. The essential tracks, all in one playlist.",
   "name": "This Is NOFX",
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 118973,
       "name": "Happy Guy",
       "url": "https://open.spotify.com/track/5JRHkcSjh9NEo4AqvrPxzt"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 97973,
       "name": "The Cause",
       "url": "https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC"

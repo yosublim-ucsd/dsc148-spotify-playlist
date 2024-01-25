@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,182 songs - 3 day 2 hr 28 min
+1,184 songs - 3 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-10-08 |
 | [Salvia \- Anime Size](https://open.spotify.com/track/2vcO3eoQ9WME8dfHGt3sdm) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Salvia \(Anime Size\)](https://open.spotify.com/album/334tOSdOVCOPAbJKPg6c1h) | 1:29 | 2023-08-17 | 2023-08-30 |
+| [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-01-23 |  |
 | [Sarracenia](https://open.spotify.com/track/1ZGqDkDwBr8APzB4inZ8RQ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:08 | 2023-08-29 | 2023-10-06 |
 | [Sarracenia \- Anime Size](https://open.spotify.com/track/5KtPFNqzEMHzFpqRF9EhmP) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia \-Anime Size\-](https://open.spotify.com/album/3SZRbGsCc48IW8WKSDkqYM) | 1:28 | 2023-08-10 | 2023-08-30 |
 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 | 2024-01-18 |  |
@@ -986,7 +987,7 @@
 | [勿忘草](https://open.spotify.com/track/7y6snjAYUv3hYPTEiAcOp4) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [勿忘草](https://open.spotify.com/album/6Auq1xX3GbhFZ2CXGtyLZ1) | 4:02 | 2023-08-01 | 2023-10-04 |
 | [千年トラベラー](https://open.spotify.com/track/1yMiSJSpTy7YROR6XRUJg3) | [Ikusaburo Yamazaki](https://open.spotify.com/artist/6Gb2Ypn3fY7iNn9aHQDu85) | [千年トラベラー](https://open.spotify.com/album/7JJBPum3eBvexM6wGqAcMp) | 3:20 | 2023-04-25 | 2023-05-24 |
 | [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 | 2023-01-17 | 2023-04-10 |
-| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 |  |
+| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 | 2024-01-25 |
 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 | 2022-09-29 | 2022-11-03 |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 | 2022-07-06 |
 | [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 | 2023-01-12 | 2023-01-14 |
@@ -1007,7 +1008,8 @@
 | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/track/6jcncY7ZCJnPkJmzXgpl6s) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/album/2H365zwPM4W0fVbvUCEnWx) | 1:36 | 2022-07-07 | 2022-07-29 |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-24 | 2023-11-06 |
 | [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-04-25 | 2023-07-05 |
-| [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 |  |
+| [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 | 2024-01-23 |  |
+| [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 | 2024-01-25 |
 | [夢想的クロニクル](https://open.spotify.com/track/1gCtuZ1H0PbzBkNY1UIx6n) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [夢想的クロニクル](https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w) | 4:01 | 2022-07-12 | 2022-07-29 |
 | [夢現、夏風薫る](https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [夢現、夏風薫る](https://open.spotify.com/album/54cPWGbDrhtKQ6p7idmprT) | 4:30 | 2023-09-19 | 2023-10-04 |
 | [大胆](https://open.spotify.com/track/0SMtNovWLTRkt9UXMY3SCO) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [大胆](https://open.spotify.com/album/4jzrfUDZNu71SR9pkcMPSF) | 4:01 | 2024-01-04 |  |

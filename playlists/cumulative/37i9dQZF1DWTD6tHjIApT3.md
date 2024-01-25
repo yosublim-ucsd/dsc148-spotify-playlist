@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-2,118 songs - 5 day 16 hr 33 min
+2,120 songs - 5 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [MISSION](https://open.spotify.com/track/4nhIjg2wDZpbZWb6J2X3FW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MISSION](https://open.spotify.com/album/1rUpgKR4NnFImLnAvglIHl) | 3:22 | 2024-01-16 | 2024-01-24 |
 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 | 2023-03-16 | 2023-03-22 |
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-06-07 | 2022-07-17 |
+| [Mizuiro Seiza](https://open.spotify.com/track/1DJN6SEaLO9JlbPFhkWcbm) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Tree](https://open.spotify.com/album/6rqEhEHsOrhLHP3LyYrSk4) | 4:41 | 2024-01-23 |  |
 | [Monochrome](https://open.spotify.com/track/7J8ENLP5vsz5VtUqtu9uRd) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Monochrome](https://open.spotify.com/album/1qHBXHC4LQzwKuD5f2JOVf) | 4:13 | 2023-08-22 | 2023-08-30 |
 | [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 | 2023-08-17 |  |
 | [Moon In Shadow](https://open.spotify.com/track/5xo3WhTDgzea1QmCg4YoDd) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [T.B.D.](https://open.spotify.com/album/6PCU5NyvqdaxJKoRAz79kD) | 2:54 | 2022-06-02 | 2022-07-17 |
@@ -894,6 +895,7 @@
 | [rush](https://open.spotify.com/track/0nwExdohc2fbpAyAXr0udo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [衣](https://open.spotify.com/album/4WkdCPzpqwvJWQS5jTTDHR) | 4:32 | 2023-03-09 | 2023-03-15 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
 | [Sabishii no Iro](https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sabishii no Iro](https://open.spotify.com/album/6OQMBijqwcgC2vBcDcuKUE) | 3:58 | 2023-07-25 | 2023-08-02 |
+| [Saigo ni Hitotsu](https://open.spotify.com/track/2BfJdiTXqI44lnGqDFejKc) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 4:04 | 2024-01-23 |  |
 | [Sailing](https://open.spotify.com/track/5bkb0z3NyoyOokKRrsIsua) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Sailing](https://open.spotify.com/album/1aiaI6bjMi0gOEBPzS9yCl) | 5:49 | 2022-06-02 | 2022-07-27 |
 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-05 | 2023-12-27 |
 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
@@ -1883,7 +1885,7 @@
 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
 | [曇りくらいが丁度いい](https://open.spotify.com/track/6xA7IXaV1u3c3WAzZC7Vsm) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [曇りくらいが丁度いい](https://open.spotify.com/album/0juzJ32rR3Ub6qyq23uim4) | 3:40 | 2023-08-15 | 2023-08-17 |
 | [更衣室ディストピア](https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [更衣室ディストピア](https://open.spotify.com/album/1lMcGC8tL5QEGIFCNrXexL) | 4:16 | 2023-10-10 | 2023-10-18 |
-| [最後にひとつ](https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [未成線上](https://open.spotify.com/album/4a1ZiuceJCKjRm6lMdx5gT) | 4:04 | 2024-01-23 |  |
+| [最後にひとつ](https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [未成線上](https://open.spotify.com/album/4a1ZiuceJCKjRm6lMdx5gT) | 4:04 | 2024-01-23 | 2024-01-25 |
 | [最後のキスなら](https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [最後のキスなら](https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB) | 5:26 | 2023-05-09 | 2023-05-17 |
 | [最後のバイバイ。](https://open.spotify.com/track/6GIleTVqnlr59AlzZVka0W) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [最後のバイバイ。](https://open.spotify.com/album/1IyHzXr7Rh4xWf1botendX) | 3:51 | 2023-12-26 |  |
 | [最終列車で君に会いにゆく](https://open.spotify.com/track/4A2JdTWhKTKOxRwLvg91PE) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [最終列車で君に会いにゆく](https://open.spotify.com/album/4S9DGlG019QxILVaNV32RF) | 4:28 | 2023-01-17 | 2023-01-25 |
@@ -1918,7 +1920,7 @@
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-03 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-08-23 |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-29 | 2022-07-29 |
-| [水色星座](https://open.spotify.com/track/18A5nJIEjkj8tLH7tkQ96L) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Tree](https://open.spotify.com/album/5SqmHSq5xpFJl21A6H52BQ) | 4:41 | 2024-01-23 |  |
+| [水色星座](https://open.spotify.com/track/18A5nJIEjkj8tLH7tkQ96L) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Tree](https://open.spotify.com/album/5SqmHSq5xpFJl21A6H52BQ) | 4:41 | 2024-01-23 | 2024-01-25 |
 | [水面に、アイス](https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [水面に、アイス](https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA) | 4:30 | 2022-08-17 | 2022-10-05 |
 | [氷菓子](https://open.spotify.com/track/6MF5izfGvk0tiA5wc1iRBd) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [氷菓子](https://open.spotify.com/album/0pmSuAcrLJ74uM8rUZbpVW) | 5:17 | 2023-07-11 | 2023-07-13 |
 | [油そば](https://open.spotify.com/track/3ZOFJgcE6oZ7MHoF1VsOzQ) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [油そば](https://open.spotify.com/album/7uEnKSzsnqVlzD7Rm8NriL) | 2:18 | 2022-07-19 | 2022-07-27 |

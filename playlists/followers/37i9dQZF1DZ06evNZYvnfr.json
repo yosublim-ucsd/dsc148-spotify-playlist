@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 2175,
+  "2024-01-25": 2183,
   "date_first_scraped": "2023-04-03",
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
   "name": "This Is Micah Tyler",
@@ -421,10 +421,32 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 225784,
       "name": "People Like Us",
       "url": "https://open.spotify.com/track/39pQLthr7p9e4CQsN5fP18"
+    },
+    {
+      "album": {
+        "name": "People Like Us (feat. Emerson Day)",
+        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226348,
+      "name": "People Like Us (feat. Emerson Day)",
+      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
     },
     {
       "album": {

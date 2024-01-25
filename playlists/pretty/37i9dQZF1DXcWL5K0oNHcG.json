@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie",
-  "num_followers": 207597,
+  "num_followers": 207822,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmUxMjQ3MjhkZWUwMTViMmE5MmFkMjAwM2ZiNjZjYmJiNGE5Yjhi",
+  "snapshot_id": "MCxmNmI2MmYyYTRhM2ZhMDExN2FiOGIyNmI4MDBlNDQ4MjVmYTFkYTA5",
   "tracks": [
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Ramble In The Rainbow",
+        "url": "https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq"
+      },
+      "artists": [
+        {
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+        }
+      ],
+      "duration_ms": 243161,
+      "name": "Ramble In The Rainbow",
+      "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -23,6 +39,102 @@
       "duration_ms": 254025,
       "name": "Millennial Blues",
       "url": "https://open.spotify.com/track/4cWadzVZdZ1Xuj1BLoMJJY"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Beautiful Dreamer",
+        "url": "https://open.spotify.com/album/3gUd6UI6ra8jUH1kVk7BWa"
+      },
+      "artists": [
+        {
+          "name": "Rory Sturgeon",
+          "url": "https://open.spotify.com/artist/7v5gnZba4iB7tjlnZKS1Oo"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/3NPzHaUQnWmoSU1cPjnZLT"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Callisto",
+        "url": "https://open.spotify.com/album/3H3grs4rYynO2osDOZbT55"
+      },
+      "artists": [
+        {
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "Luck Is The Best Answer",
+      "url": "https://open.spotify.com/track/76xxv58VXHVOdAUqMcze2A"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Troxy Fot",
+        "url": "https://open.spotify.com/album/45l8t74Zz7DqVQdzmo5Lxg"
+      },
+      "artists": [
+        {
+          "name": "PSA Trio",
+          "url": "https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM"
+        },
+        {
+          "name": "Pritesh Walia",
+          "url": "https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl"
+        },
+        {
+          "name": "Avery Logan",
+          "url": "https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs"
+        },
+        {
+          "name": "Sharik Hasan",
+          "url": "https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy"
+        }
+      ],
+      "duration_ms": 508000,
+      "name": "Troxy Fot",
+      "url": "https://open.spotify.com/track/720m5j5CFZFpv0vfO1qGtc"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/41yktN4HFvhkIcDvm6YxWD"
+      },
+      "artists": [
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "duration_ms": 179127,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/1Sw2x4OTceaCVnUjia3MZP"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -723,26 +835,6 @@
       "duration_ms": 122500,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU"
-    },
-    {
-      "added_at": "2023-11-29 05:00:00",
-      "album": {
-        "name": "matter",
-        "url": "https://open.spotify.com/album/1KuGOEYZFDDzxjVj4w5PlO"
-      },
-      "artists": [
-        {
-          "name": "Nezumi Coo",
-          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
-        },
-        {
-          "name": "Chloe Kibble",
-          "url": "https://open.spotify.com/artist/5cQSNL47g1aGl81nwFAxJy"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "matter",
-      "url": "https://open.spotify.com/track/5zvkuCpPtkP3iW5GdubZCa"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

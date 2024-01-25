@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Tizzo, Shreez, Le Ice, Salgrimo, Peeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,793 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,800 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 24 | [A Long](https://open.spotify.com/track/6jcHiQdJlz8wrXB24kTK0N) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [A Long](https://open.spotify.com/album/25Gs0I7nq3dmVnleVeTcDN) | 2:14 |
 | 25 | [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 |
 | 26 | [Gucci Mane](https://open.spotify.com/track/0orQYTHoXULc1CSPiWWOMc) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Gucci Mane](https://open.spotify.com/album/0Vatwjn6J75kCIdTxQnc5M) | 2:29 |
-| 27 | [Récession Disco 2](https://open.spotify.com/track/6REJ4MiExwSnDSWxDhf6Cj) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy), [Key Watch](https://open.spotify.com/artist/4iH7YzKgfq5SdcYUmK8usu) | [Récession Disco 2](https://open.spotify.com/album/5ySJK6I81k8TSuCFPNoynw) | 2:31 |
+| 27 | [Récession Disco 2](https://open.spotify.com/track/6REJ4MiExwSnDSWxDhf6Cj) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy), [Key Watch](https://open.spotify.com/artist/4iH7YzKgfq5SdcYUmK8usu), [l'aube](https://open.spotify.com/artist/49JgNvjYiRO9Ip00Y6cmnx) | [Récession Disco 2](https://open.spotify.com/album/5ySJK6I81k8TSuCFPNoynw) | 2:31 |
 | 28 | [Dostoïevski](https://open.spotify.com/track/0idqbFaYYmGuEbusmJwMUV) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [Dostoïevski](https://open.spotify.com/album/4eoX3ZrU4hA3EGXcKt2Co6) | 1:58 |
 | 29 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 |
 | 30 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCw2YmQyYjYyYTMwMGI1MjBiYzI5NjI4ZGMxODlkMmFiNTVlMDBkYzJk`
+Snapshot ID: `MCxkMjQxNDE3MTEwMWE3MzY4MDBkMjM2YTFhZDdiMWJkOGJmNWQzOTYz`

@@ -1,12 +1,12 @@
 {
   "description": "Its pop punk, its the best",
-  "num_followers": 44092,
+  "num_followers": 44087,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "Njc5NSw0Nzk3NDhlZWEzZjQ2ZTVjYmM0ZGViNWM2YWQ2Nzg5ZDJjMGMyNTE5",
+  "snapshot_id": "Njc5OSwxMjA5MzNjOTY3YzZjMWEwOTBmYTY0NzE1Y2Q4ZGJlOTUxNWQ3MzYz",
   "tracks": [
     {
       "added_at": "2024-01-09 23:10:56",
@@ -103,6 +103,22 @@
       "duration_ms": 224866,
       "name": "Coffee at Midnight",
       "url": "https://open.spotify.com/track/0O5WAeW9fQb0E1sKUi5QZt"
+    },
+    {
+      "added_at": "2024-01-24 04:42:46",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-01-09 23:16:27",
@@ -231,6 +247,26 @@
       "duration_ms": 258573,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/5bjWdmEdAQxGQPbtob0Xld"
+    },
+    {
+      "added_at": "2024-01-24 04:43:00",
+      "album": {
+        "name": "Fight 4 Luv",
+        "url": "https://open.spotify.com/album/5gIIp16EjzDmzTtYwaN4Jp"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Miller",
+          "url": "https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC"
+        },
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Fight 4 Luv",
+      "url": "https://open.spotify.com/track/0W8ww4rAWdDYEE6rFgZKgi"
     },
     {
       "added_at": "2024-01-09 23:09:44",

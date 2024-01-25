@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best pop songs of the year\. Cover: Hana Shafa
 
-342 songs - 20 hr 18 min
+343 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/track/6tf5W3igpStLoEHOuPTYQE) | [Udana Dhananja Kodikara](https://open.spotify.com/artist/7ERe3tRyPHRV5H4r0KIWXt) | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/album/0TT8jE7NMreD9isuE7DNdR) | 5:56 | 2022-07-29 | 2022-09-24 |
 | [Mohini](https://open.spotify.com/track/4UlPkYWzyo3Z8nHuoyj5LP) | [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Mohini](https://open.spotify.com/album/773CcSlELfchY80wB0smkb) | 4:01 | 2023-07-24 | 2023-11-30 |
 | [Mukulu Kala](https://open.spotify.com/track/7g5J1AaxoItl3JVSOyAELX) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu) | [Mukulu Kala](https://open.spotify.com/album/2k7R0B6V0ZOEZTLbluOIb1) | 2:49 | 2023-10-17 | 2023-11-30 |
-| [Mulawe](https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc) | 3:55 | 2022-06-16 |  |
+| [Mulawe](https://open.spotify.com/track/0KFSSZ7PgFR79z8a1NMYxZ) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/2xLKrJjiSB9xslmG73JNNH) | 3:55 | 2023-11-29 |  |
+| [Mulawe](https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc) | 3:55 | 2022-06-16 | 2024-01-25 |
 | [Na Kawadawath](https://open.spotify.com/track/4qoIePUCWByxpL9qhLYfl6) | [Dilan Weerasooriya](https://open.spotify.com/artist/5cnnucfQ5hig4YzDFqH0cF), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1), [Prakash Ranasinghe](https://open.spotify.com/artist/4gr5pY4m0J81O0npGEq0D7) | [Na Kawadawath](https://open.spotify.com/album/4MK3ZDKdiMQqXJ8x9gxpcJ) | 3:29 | 2022-08-12 | 2022-11-05 |
 | [Na Shoken](https://open.spotify.com/track/5XxwvH8oOYZA4d1dTPycf7) | [K80](https://open.spotify.com/artist/7jvKsuq2aPoiq2JXYGiOQ3), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Prasa Kg](https://open.spotify.com/artist/3HaP9sMgQL1AheFPTrjwkB) | [Na Shoken](https://open.spotify.com/album/15T63Ta9UcPUEH51Dq46RO) | 5:59 | 2023-05-26 | 2023-07-25 |
 | [Naadagam Geeya](https://open.spotify.com/track/2z1xxec9iMmanvQEYsuJUO) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 4:31 | 2023-05-26 | 2023-10-18 |

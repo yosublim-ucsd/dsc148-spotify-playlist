@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-128 songs - 8 hr 56 min
+129 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [My Shadow](https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT) | [Karin Asaka \(CV: Miyu Kubota\)](https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:45 | 2023-10-03 | 2024-01-10 |
 | [Märchen Star](https://open.spotify.com/track/7chCaPHPbAtQJ1ldS9gE6R) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:47 | 2022-06-25 | 2022-07-29 |
 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-06-25 | 2023-05-10 |
-| [New Year's March！](https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March！](https://open.spotify.com/album/0a9wGjMMzOrTcSbAw2c4UI) | 4:04 | 2024-01-23 |  |
+| [New Year's March!](https://open.spotify.com/track/4tntAyjJG0VioM5B2jkKkj) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March!](https://open.spotify.com/album/0onmu5ny53ehIAOV8j1yPe) | 4:04 | 2024-01-23 |  |
+| [New Year's March！](https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [New Year's March！](https://open.spotify.com/album/0a9wGjMMzOrTcSbAw2c4UI) | 4:04 | 2024-01-23 | 2024-01-25 |
 | [Not Sad](https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Swinging!](https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K) | 4:17 | 2022-06-25 | 2022-07-28 |
 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 | 2022-11-22 |  |
 | [Poker face&お願い!Fairy](https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:47 | 2022-06-25 | 2023-02-12 |

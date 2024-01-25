@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,556 songs - 4 day 11 hr 8 min
+1,557 songs - 4 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-28 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
-| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 |  |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 | 2024-01-25 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
 | [GG \- Monstergetdown Remix](https://open.spotify.com/track/5ItsigUl8EZKgECyY13DnK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Monstergetdown](https://open.spotify.com/artist/1D3UqPAp0iBjhlFN2aBuYH) | [mau5ville: Level 2](https://open.spotify.com/album/1avRid1zaRK4UDSrwduIPX) | 6:31 | 2020-05-18 | 2020-07-18 |
@@ -990,6 +990,7 @@
 | [Not Going Home](https://open.spotify.com/track/7C7GwLFoDQztNFElOFHjc3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/3zwDMdI7ZaNBMV5GouGTJG) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Nothing But You](https://open.spotify.com/track/49X1d9QKZKU2WFBtm4GUzN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 3:39 | 2020-03-20 | 2020-10-09 |
 | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5rFPaZ5DpO3t7Z9JppR9hM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/album/7ulMDKBaFYF11sytYHkB6A) | 4:31 | 2020-03-16 | 2020-10-09 |
+| [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw) | 4:18 | 2024-01-19 |  |
 | [Now You Know](https://open.spotify.com/track/3uv74bJQCukadVWQsEbjhy) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:59 | 2020-04-14 | 2020-10-09 |
 | [nowhere](https://open.spotify.com/track/3GO5rhSwva3FehBw36GhF3) | [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG) | [nowhere](https://open.spotify.com/album/0nxyFLQ27Mg74ZeKwQUMR0) | 4:20 | 2020-05-18 | 2020-07-03 |
 | [Numb](https://open.spotify.com/track/7rBpjxstrSsuOLqnuOC028) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/0wM4Ss4GefFaHkJsaAEzLK) | 3:50 | 2020-05-19 | 2021-03-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,704 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,706 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Postcard Xo](https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Postcard From A Living Hell](https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS) | 2:56 |
 | 100 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 |
 
-Snapshot ID: `MCwxYTA1ODQyYWMwOTNjY2U2MWEwMGMzOTc2MTJhMDcyMWE2ZDIwODIx`
+Snapshot ID: `MCw4MzM1OTk2MGYxNjMwYzA1MGQ1MzI1NTZjZDM0OThkZjIxZWEwZjk0`

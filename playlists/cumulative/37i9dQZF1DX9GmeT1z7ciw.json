@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 202413,
       "name": "Rave-up Tonight",
       "url": "https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT"
@@ -1002,6 +1002,24 @@
       "duration_ms": 202413,
       "name": "Rave-up Tonight",
       "url": "https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im"
+    },
+    {
+      "album": {
+        "name": "Denial // Rebirth",
+        "url": "https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0JjaBtJv5jHQG5pQlEAhPa"
     },
     {
       "album": {

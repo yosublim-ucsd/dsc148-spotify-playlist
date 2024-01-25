@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,914 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,856 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 58 | [THURSDAY](https://open.spotify.com/track/2oR3LyhJcuy0GOHhCPcoHo) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:26 |
 | 59 | [RUN AWAY](https://open.spotify.com/track/3JRpqnCVFSbyOrkr4TKeUN) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 4:04 |
 | 60 | [Crash & Burn](https://open.spotify.com/track/67VKMX5np3CcKOsqAMokQ1) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:24 |
-| 61 | [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 |
-| 62 | [DWAY!](https://open.spotify.com/track/5XfamJkzfdtJ8MvxYmEDhJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [DWAY!](https://open.spotify.com/album/08UXf4p7zAdrb7Vq0XA8Lg) | 2:25 |
+| 61 | [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/7b7TdtSTjo0PhrMVJciQyh) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/5zHqrXJ3FUiHjs4wQdE7vj) | 2:21 |
+| 62 | [DWAY!](https://open.spotify.com/track/2dnhmTJQsFaCnRWmiN5v8U) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/7w5qCvL7iFIpfILhOBHHn5) | 2:25 |
 | 63 | [BULLET TO THE HEART](https://open.spotify.com/track/5hkdIUh9TQLkyugILpsCaZ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/7w5qCvL7iFIpfILhOBHHn5) | 2:25 |
 | 64 | [LOVE LOOP](https://open.spotify.com/track/5aXG85maTCL3GBVPTGKzPj) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [LOVE LOOP](https://open.spotify.com/album/4GcJuT0qH5hBPqRdWWMdpt) | 3:42 |
 | 65 | [ECLIPSE](https://open.spotify.com/track/7Foj5OSXpA054zOMxNfPrG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:29 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [From Now](https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:22 |
 
-Snapshot ID: `MCxlZTE4YTQ0MjExM2EyNjc4OWNkZWRlZmM2OTEzZTU3OTUyN2JhNzUz`
+Snapshot ID: `MCw2MzhjZGVjODM3NmVmY2U0ODEzOTQ5OWRkOTA0Y2ZhNDdlNWNlZjNl`

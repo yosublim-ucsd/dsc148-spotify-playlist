@@ -4,7 +4,7 @@
 
 > songs voor je playlist!
 
-322 songs - 16 hr 11 min
+323 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 | 2023-07-11 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2023-05-01 | 2023-05-26 |
+| [Zakelijke Crush](https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN) | [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Zakelijke Crush](https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2) | 3:11 | 2024-01-24 |  |
 | [Zij Laat Me Praten](https://open.spotify.com/track/1o2rSW6lzJgAQjTRew74hR) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:11 | 2023-12-07 | 2023-12-30 |
 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-09 | 2023-10-03 |
 

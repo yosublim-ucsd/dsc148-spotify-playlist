@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 54601,
+  "num_followers": 54624,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI5MDUzYzg1ZDVmYTdiMGJlOTUyMDgzMmE1ZDVjYzk1YTBmN2M0",
+  "snapshot_id": "MCxkNzcxMjczNzI5ZDcxNDIwZTIwOGFjZGU4YmVhZTlmNWJmNGVjODc4",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Joyce Alane Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 192554,
       "name": "Final - Ao Vivo",
       "url": "https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Eu Tava Em Casa",
-      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Carinho",
         "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 178666,
       "name": "Carinho",
       "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Eu Tava Em Casa",
+      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Ondina",
         "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 244000,
       "name": "Ondina",
       "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "That's Why I Love You",
-        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
       "artists": [
         {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        },
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
         }
       ],
-      "duration_ms": 218000,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -607,6 +603,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "That's Why I Love You",
+        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        },
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "SHAWTY",
         "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Segredos",
+        "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
+      },
+      "artists": [
+        {
+          "name": "Latrel",
+          "url": "https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "Segredos",
+      "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -703,22 +723,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -743,6 +747,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
       },
@@ -759,22 +779,6 @@
       "duration_ms": 346939,
       "name": "Onda - Remix",
       "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -799,22 +803,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Segredos",
-        "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
       },
       "artists": [
         {
-          "name": "Latrel",
-          "url": "https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ"
-        },
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 171176,
-      "name": "Segredos",
-      "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-01-19 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 持續發掘世一超新聲！Cover: PetPetShawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,571 likes - 71 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,576 likes - 71 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 70 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 71 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCwwYzNmM2IwOTY3ZTAzODg1NDc2NzkzOGMwNGE5MTQwMDIyMmI0ZmQ0`
+Snapshot ID: `MCxmOTliNWFmMDM5OWQwOGUxOTBjMzNmNjVjMDZkOWVmMTMzODA4ZDQ2`

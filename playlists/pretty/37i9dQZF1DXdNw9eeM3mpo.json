@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 446084,
+  "num_followers": 446172,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODUzMzZmZjU3MTJjNzU0NjY4Yjk2N2Y0MDM1ODZjN2EzZGI2NWM3",
+  "snapshot_id": "MCw1YjZjNzBhZDRlN2UzMDA4NDhjMDlmYTc5Y2Q0MzBkNThhOTVhNTlm",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 213217,
-      "name": "Crazy Life",
-      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "En la Kalle",
         "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217826,
       "name": "Skalari Rude Klub (SRK)",
       "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 213217,
+      "name": "Crazy Life",
+      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
-      },
-      "artists": [
-        {
-          "name": "Buena Onda Reggae Club",
-          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
-        }
-      ],
-      "duration_ms": 210069,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Una cosa es el ska y otra cosa es el rocksteady",
         "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
       },
@@ -1487,6 +1455,38 @@
       "duration_ms": 235602,
       "name": "Seamos m\u00e1s que amigos - Remastered",
       "url": "https://open.spotify.com/track/1gev95yWXDR4cv8WlkVxfm"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
+      },
+      "artists": [
+        {
+          "name": "Buena Onda Reggae Club",
+          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
+        }
+      ],
+      "duration_ms": 210069,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-01-19 06:00:00",

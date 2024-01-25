@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-167 songs - 7 hr 49 min
+169 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,12 +108,14 @@
 | [Prague](https://open.spotify.com/track/0nZBVfNvj54NQ0pxMw8My1) | [Marta Stivender](https://open.spotify.com/artist/5n2PYwVLxFzpVXptXhwEOU) | [Prague](https://open.spotify.com/album/0JGYMvCHdcEFySffamjjo7) | 1:47 | 2022-03-21 | 2023-07-29 |
 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 | 2022-03-21 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2022-03-21 | 2022-08-13 |
+| [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 | 2024-01-24 |  |
 | [Rest Your Soul](https://open.spotify.com/track/2J0E98htocXNbw8f5GLahx) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Solitude](https://open.spotify.com/album/6SNOMXRBFNzL18Xo96PmD6) | 3:35 | 2022-03-21 |  |
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2022-03-21 |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2022-03-21 | 2023-07-29 |
 | [Saga Of Me](https://open.spotify.com/track/3gc5hmuRFBI2Vnd3Owjsok) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Saga Of Me](https://open.spotify.com/album/4NkpuGYcUFAb1QZulZlUcL) | 2:34 | 2022-03-21 |  |
 | [Sanctuary](https://open.spotify.com/track/07faNDmHpfee71OHyar3F4) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Sanctuary](https://open.spotify.com/album/3s7wjADNC8XLgZSedXwozE) | 2:53 | 2022-03-21 | 2022-09-07 |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-03-21 |  |
+| [Sea Of Clouds](https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT) | [Convallaria](https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4) | [Sea Of Clouds](https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC) | 2:59 | 2024-01-24 |  |
 | [See You Another Day](https://open.spotify.com/track/5r3qJnZp1tMU4Snad9kUhb) | [D Orbea](https://open.spotify.com/artist/5zIA2WFT6BBxHqtA8tmi8K) | [See You Another Day](https://open.spotify.com/album/19DJwKFtHn4Qmt8g4AR52S) | 2:00 | 2022-04-21 | 2023-07-29 |
 | [Sequioas](https://open.spotify.com/track/0xJfNmsjXXnpF0gkFAISPy) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:37 | 2022-03-21 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-03-21 |  |

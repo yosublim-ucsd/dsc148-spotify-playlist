@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17784,
+  "num_followers": 17787,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2RiNWFmODEyNGIyODIyYTZhZDNmNTQ0MWIyNmZiZmQ3ZGNhMWUy",
+  "snapshot_id": "MCwzYjc0ZDFjZDkwNmZkYmZkNjdlYmY1NjZjZTE1ZGI4N2RkYWE3ZTQx",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "N\u00f3 na Orelha",
+        "url": "https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Grajauex",
+      "url": "https://open.spotify.com/track/6hWZ4XD4CyBashmhla59lO"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Caro Vapor / Vida e Veneno de Don L",
         "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "N\u00f3 na Orelha",
-        "url": "https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Grajauex",
-      "url": "https://open.spotify.com/track/6hWZ4XD4CyBashmhla59lO"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Irm\u00e3o Dqbrada!",
         "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
       },
@@ -715,34 +715,6 @@
       "duration_ms": 360559,
       "name": "Irm\u00e3o DQbrada!",
       "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Olhares",
-        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Olhares",
-      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -791,6 +763,34 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Olhares",
+        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Olhares",
+      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
         "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Wallpaper",
-        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
       },
       "artists": [
         {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 191798,
-      "name": "Wallpaper",
-      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 366413,
       "name": "Cantando pro Santo",
       "url": "https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Wallpaper",
+        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 191798,
+      "name": "Wallpaper",
+      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
     },
     {
       "added_at": "2023-12-29 03:00:00",

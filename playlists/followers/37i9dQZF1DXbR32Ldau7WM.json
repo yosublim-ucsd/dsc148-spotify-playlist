@@ -1,7 +1,7 @@
 {
-  "2024-01-24": 276840,
+  "2024-01-25": 276905,
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now!  Cover: the telephones",
+  "description": "The biggest rock bands/artists in Japan right now!  Cover: ZAZEN BOYS",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -97,6 +97,24 @@
       "duration_ms": 211841,
       "name": "1994",
       "url": "https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq"
+    },
+    {
+      "album": {
+        "name": "24030\u756a\u5730\u306b\u56de\u89a7\u677f\u3092\u56de\u305b",
+        "url": "https://open.spotify.com/album/6PsYIDULBBHLQ7naBNQsaF"
+      },
+      "artists": [
+        {
+          "name": "TsuShiMaMiRe",
+          "url": "https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142561,
+      "name": "24030\u756a\u5730\u306b\u56de\u89a7\u677f\u3092\u56de\u305b",
+      "url": "https://open.spotify.com/track/2HLBlrjoXrYOvA4oWrcTPW"
     },
     {
       "album": {
@@ -855,6 +873,24 @@
       "duration_ms": 206999,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH"
+    },
+    {
+      "album": {
+        "name": "birdy",
+        "url": "https://open.spotify.com/album/46sDbfKKTHlXaY9rVlpDFT"
+      },
+      "artists": [
+        {
+          "name": "Bloodthirsty Butchers",
+          "url": "https://open.spotify.com/artist/63qkJPRz0f5lssgosVUum1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281640,
+      "name": "birdy",
+      "url": "https://open.spotify.com/track/4RsLOdf3aH9UndQVzdBJXu"
     },
     {
       "album": {
@@ -1622,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "DANBIRA",
+      "url": "https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"
+    },
+    {
+      "album": {
         "name": "COMPACT DISC",
         "url": "https://open.spotify.com/album/22V3Kxi5wlfh6V2jt39Q2I"
       },
@@ -1759,7 +1813,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 273146,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi"
@@ -2229,7 +2283,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 157871,
       "name": "Endless Etude (BEST WISHES TO ALL ver.)",
       "url": "https://open.spotify.com/track/4VzyVdmjdy5ud6oqpGkA6j"
@@ -4237,7 +4291,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 235743,
       "name": "Kowareso",
       "url": "https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg"
@@ -4799,7 +4853,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 241503,
       "name": "Loss(Angels)",
       "url": "https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG"
@@ -6107,7 +6161,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 278293,
       "name": "No more cry",
       "url": "https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3"
@@ -6631,7 +6685,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 130225,
       "name": "Parasites",
       "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
@@ -6883,7 +6937,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 243161,
       "name": "Ramble In The Rainbow",
       "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
@@ -8793,7 +8847,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 260031,
       "name": "SweetSweet",
       "url": "https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG"
@@ -9229,7 +9283,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 173279,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
@@ -10217,7 +10271,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 234517,
       "name": "Whaleland",
       "url": "https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB"
@@ -10337,6 +10391,24 @@
       "duration_ms": 201073,
       "name": "W\u25cfRK",
       "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291906,
+      "name": "YAKIIMO",
+      "url": "https://open.spotify.com/track/35UY3e5HiGSmOu5yuISc36"
     },
     {
       "album": {
@@ -10787,7 +10859,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 307666,
       "name": "\u3042\u308b\u8a3c\u660e",
       "url": "https://open.spotify.com/track/210KKbtaSEC8dazqRyNwsM"
@@ -11973,7 +12045,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 222320,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
@@ -12449,7 +12521,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 191509,
       "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn"
@@ -12554,6 +12626,24 @@
     },
     {
       "album": {
+        "name": "10\u5e74\u5f8c\u306e\u30bb\u30f3\u30b9\u30ec\u30b9\u30fb\u30ef\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53"
+      },
+      "artists": [
+        {
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258630,
+      "name": "\u30bb\u30f3\u30b9\u30ec\u30b9\u30fb\u30ef\u30f3\u30c0\u30fc[ReREC]",
+      "url": "https://open.spotify.com/track/0vxB49O2ae1Hf3LWw3xoXq"
+    },
+    {
+      "album": {
         "name": "\u30bd\u30a6\u30eb\u30fb\u30d6\u30ec\u30a4\u30c9",
         "url": "https://open.spotify.com/album/55rzLkZnf2qAoxyQkrnOzz"
       },
@@ -12641,6 +12731,24 @@
       "duration_ms": 269782,
       "name": "\u30c0\u30cb",
       "url": "https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "album": {
@@ -12767,6 +12875,24 @@
       "duration_ms": 288358,
       "name": "\u30c7\u30b8\u30e3\u30c7\u30b8\u30e3\u30d6\u30fc\u30d6\u30fc",
       "url": "https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G"
+    },
+    {
+      "album": {
+        "name": "E.",
+        "url": "https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR"
+      },
+      "artists": [
+        {
+          "name": "Enfants",
+          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z"
     },
     {
       "album": {
@@ -13004,6 +13130,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262120,
+      "name": "\u30d0\u30e9\u30af\u30fc\u30c0",
+      "url": "https://open.spotify.com/track/2XuvZtse5sbiRvqg3Jqtw9"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30fc\u30c9\u30d8\u30c3\u30c9\u30d6\u30eb\u30fc\u30b9",
         "url": "https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH"
       },
@@ -13166,6 +13310,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277026,
+      "name": "\u30d6\u30c3\u30ab\u30c4\u5e30\u308a\u306e\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/7bYnsTGKItlm0hK7pPNLk2"
+    },
+    {
+      "album": {
         "name": "BEST HIT AKG 2 (2012-2018)",
         "url": "https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma"
       },
@@ -13181,6 +13343,24 @@
       "duration_ms": 222826,
       "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "\u30d6\u30eb\u30fc\u30b5\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/4lOab1TvV4llY5kvFliKU9"
     },
     {
       "album": {
@@ -13660,6 +13840,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "\u4e71\u571f",
+      "url": "https://open.spotify.com/track/3XOQImZq2wMFCJXFRPbsqU"
+    },
+    {
+      "album": {
         "name": "Tough Layer",
         "url": "https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz"
       },
@@ -13862,6 +14060,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "\u516b\u65b9\u7f8e\u4eba",
+      "url": "https://open.spotify.com/track/4wFLm5TY0cfidrRG7gotm4"
+    },
+    {
+      "album": {
         "name": "\u516b\u6708\u306f\u50d5\u306e\u540d\u524d",
         "url": "https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU"
       },
@@ -13877,6 +14093,24 @@
       "duration_ms": 232100,
       "name": "\u516b\u6708\u306f\u50d5\u306e\u540d\u524d",
       "url": "https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410600,
+      "name": "\u516c\u5712\u306b\u306f\u8ab0\u3082\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/6LBDWumYw1E6dBeqnlQtqC"
     },
     {
       "album": {
@@ -14071,7 +14305,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 277360,
       "name": "\u540d\u524d\u3092\u547c\u3076\u3088",
       "url": "https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg"
@@ -14641,7 +14875,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 236666,
       "name": "\u5e73\u6210\u30da\u30a4\u30f3",
       "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
@@ -14995,7 +15229,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 231151,
       "name": "\u65c5\u3092\u3086\u3051",
       "url": "https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm"
@@ -15273,6 +15507,24 @@
       "duration_ms": 255133,
       "name": "\u671d\u713c\u3051",
       "url": "https://open.spotify.com/track/0zWMYryiunqAzp8VyfwaUe"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "\u6749\u4e26\u306e\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/7zKFMDQ8CQNQaEHhXBPSRN"
     },
     {
       "album": {
@@ -16256,6 +16508,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "\u80f8\u713c\u3051\u3046\u3069\u3093\u306e\u4f5c\u308a\u65b9",
+      "url": "https://open.spotify.com/track/6UytqOt6nMA8reOGvcdl63"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30dd\u30fc\u30c4",
         "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
@@ -16973,6 +17243,24 @@
       "duration_ms": 233266,
       "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
       "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "\u9ec4\u6cc9\u306e\u56fd",
+      "url": "https://open.spotify.com/track/5Wjr32cfS2M71FvZkBAm1m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM"

@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 110581,
       "name": "Amli Anthem",
       "url": "https://open.spotify.com/track/7x4jPB2jvTeIXms30ak5W8"
@@ -754,6 +754,28 @@
       "duration_ms": 173895,
       "name": "Defend",
       "url": "https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo"
+    },
+    {
+      "album": {
+        "name": "Walk in Victory",
+        "url": "https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Cheetah",
+          "url": "https://open.spotify.com/artist/0UssK1rMiTP251lIwkpHwr"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146532,
+      "name": "Desi Hood",
+      "url": "https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs"
     },
     {
       "album": {

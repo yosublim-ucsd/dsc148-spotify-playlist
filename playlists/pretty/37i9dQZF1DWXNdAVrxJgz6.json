@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 130363,
+  "num_followers": 130407,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmE3ODE1ZWYwYjgxYzY4OTY2YjU3NzliN2I2YzFiMDNkM2UzOWI1",
+  "snapshot_id": "MCwxNjVhMDgwY2RkZmI5NTMyOGNjMWE1OThiYTMxZDdhYTkwNDBjZjhl",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 198392,
+      "name": "Tomando Ando",
+      "url": "https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Belleza Pura",
         "url": "https://open.spotify.com/album/0Uwwu94n5PorWVnc0fo5Vr"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 212636,
       "name": "Belleza Pura",
       "url": "https://open.spotify.com/track/6nn27SuUIvUP6BoCF3wLkC"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "La Joya",
-        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 198392,
-      "name": "Tomando Ando",
-      "url": "https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7"
     },
     {
       "added_at": "2023-10-06 06:00:00",

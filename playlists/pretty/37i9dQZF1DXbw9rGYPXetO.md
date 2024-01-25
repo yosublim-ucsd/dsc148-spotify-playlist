@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,925 likes - 37 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,922 likes - 37 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 11 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
 | 12 | [Raga Jansanmohini \- Alap Jod Zala \- Gat Vilambit Roopak Taal \- Gat Drut Teentaal](https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN) | [Pandit Vibhav Nageshkar](https://open.spotify.com/artist/4wIohauC6Hl22Kt2F2bD1m), [Zarin Daruwala](https://open.spotify.com/artist/3xXsIF0r4I6TRbRdY1SS78) | [Zarin Daruwala](https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb) | 6:58 |
 | 13 | [Rajasthani Folk Melody in Raga Mand](https://open.spotify.com/track/3CNetfque43lmTkmZEVxLq) | [Santosh Nahar](https://open.spotify.com/artist/1NzfcWv0SxEZMg4Bm8XIvM) | [The Golden Bow](https://open.spotify.com/album/227981vkAdawvOqUpLJgIi) | 11:10 |
-| 14 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
+| 14 | [Goddess Evocation](https://open.spotify.com/track/52UG36Llh8DgE4DaFJ7tUX) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:39 |
 | 15 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 |
 | 16 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
 | 17 | [Rag Pilu](https://open.spotify.com/track/7hQz2t0LNgfoWHLRviDwrv) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Wajahat Khan](https://open.spotify.com/artist/6fdCOQgyq1Pxw6LrJL54Uw), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp) | [Rag Jhinjhoti & Rag Pilu](https://open.spotify.com/album/2qDsr02ZOG72aLQ6HIJOZO) | 26:35 |
 | 18 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
 | 19 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
-| 20 | [The Union of Sun and Moon](https://open.spotify.com/track/5TeU9ZMgLcoSl1evO7TV5b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:59 |
+| 20 | [The Union Of Sun And Moon](https://open.spotify.com/track/5uMceXTnKnq3eUaJrtxXAG) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:59 |
 | 21 | [Raga Des](https://open.spotify.com/track/6m1a6CJdLBx5wXObZNwOIC) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 22:08 |
 | 22 | [Rag Alam Bhairav](https://open.spotify.com/track/11mvJnbO7eCSHLeE3ivwBn) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:09 |
 | 23 | [Rag Bhimpalasi: Alap, Jod, Jhala](https://open.spotify.com/track/6pABGyScqkMTvMYJGNj8TH) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS) | [Rag Bhimpalasi](https://open.spotify.com/album/2jfrFg8TijCLBRF2X7zziH) | 41:04 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 36 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 |
 | 37 | [Rag Miya Ki Todi](https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp) | [Rag Miya Ki Todi & Rag Bilaskhani Todi](https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu) | 38:14 |
 
-Snapshot ID: `MCxiNDYzYWY3YTY5Njc2NzFiMGJiOTVlMTQ0MzI5NTI2ZTNmNTc4MGYx`
+Snapshot ID: `MCxmZmU4OTc2NTgzMWNmNmNhNjUyODI2OGVlOGEwNjY0NGMwMmE5Yjc2`

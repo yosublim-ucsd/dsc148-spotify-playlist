@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,036 likes - 210 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,145 likes - 210 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 170 | [your destination](https://open.spotify.com/track/6GtAIZZMpMiSBP2Mpe2mpR) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [your destination](https://open.spotify.com/album/3oAhQBzerDMF0azuuCMXze) | 2:20 |
 | 171 | [Moving On](https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Moving On](https://open.spotify.com/album/3dvbkdGKNIIl8maPEI6TwD) | 2:08 |
 | 172 | [Aviary](https://open.spotify.com/track/47JfSVq7GkR8ARSPfHKchZ) | [Nalter](https://open.spotify.com/artist/7AdoSikmQXvbkuJ5awqnbp), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Aviary](https://open.spotify.com/album/0HxT6dEc5sUB1USYnJaSQP) | 2:36 |
-| 173 | [seascape](https://open.spotify.com/track/12CFFjAlfinT0TYzoNv5Ki) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/6Hmp3LvswJ1dXJ8wMThWFT) | 2:17 |
+| 173 | [seascape](https://open.spotify.com/track/12CFFjAlfinT0TYzoNv5Ki) | [affogato.wav](https://open.spotify.com/artist/5IVNgz7eOCRq61neiYgXZT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/6Hmp3LvswJ1dXJ8wMThWFT) | 2:17 |
 | 174 | [The Nervous Start](https://open.spotify.com/track/5bokIgCf4mC2fgwjWXGw3n) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Crispy](https://open.spotify.com/artist/0FeKA3PTgdvhkEPyuVNJ8g) | [The Nervous Start](https://open.spotify.com/album/65zdZntEGGknkKd2gHCvNN) | 2:10 |
 | 175 | [waves of dawn](https://open.spotify.com/track/4nWxcwuBD8Y33YrZuvxzP8) | [Dymas](https://open.spotify.com/artist/3d4CdboHk00789IhccNRF3) | [waves of dawn](https://open.spotify.com/album/74eUHbIdZEmeVRBJmeU4Ig) | 3:00 |
 | 176 | [Floating In My Mind](https://open.spotify.com/track/6yu27h62kqulVfC9o6jr4n) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic) | [Night Time Memories Pt\. 2](https://open.spotify.com/album/1vXhnvqp6jhHLbU4kR0DRZ) | 2:09 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 209 | [keep me waiting](https://open.spotify.com/track/4aYNLaGrC49TIf59hDFxGQ) | [tremolo](https://open.spotify.com/artist/02Kg8FUEOMP356Zpy6oZRz), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [lonely place](https://open.spotify.com/album/4URtGeM6Vuo6j2zUEoOpOj) | 1:43 |
 | 210 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCwwMGU1OTlhYWI0YmE3Yjg4MzJlNjRjN2IzNjUzNTY2ZmMwYTM0MWUz`
+Snapshot ID: `MCw3YjZmODMwNTIyOTI3ZGNjYWJiYWZjNmU0M2JiZmM0M2MwNjY4ODhi`

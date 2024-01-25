@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 86938,
+  "2024-01-25": 86995,
   "date_first_scraped": "2023-10-25",
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
   "name": "Hip-hop Vi\u1ec7t",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
@@ -377,10 +377,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 200000,
       "name": "B\u1eadt Nh\u1ea1c L\u00ean",
       "url": "https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus"
+    },
+    {
+      "album": {
+        "name": "1St.",
+        "url": "https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7"
+      },
+      "artists": [
+        {
+          "name": "D\u1ebf Cho\u1eaft (DC)",
+          "url": "https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Chim S\u1ebb & D\u00e2u T\u00e2y - Stage Version",
+      "url": "https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s"
     },
     {
       "album": {
@@ -2291,6 +2309,24 @@
       "duration_ms": 209174,
       "name": "Tr\u00ean T\u00ecnh B\u1ea1n D\u01b0\u1edbi T\u00ecnh Y\u00eau (with 16 Typh)",
       "url": "https://open.spotify.com/track/4nsNzuB6sGMr5MHaIJaW5k"
+    },
+    {
+      "album": {
+        "name": "Tr\u0103ng Hoa M\u00e2y M\u01b0a",
+        "url": "https://open.spotify.com/album/6ru2eI8JeIf0wMh0xuXwOq"
+      },
+      "artists": [
+        {
+          "name": "B\u00ecnh Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193999,
+      "name": "Tr\u0103ng Hoa M\u00e2y M\u01b0a",
+      "url": "https://open.spotify.com/track/2BDE7KducbOuOPY4tlERyJ"
     },
     {
       "album": {

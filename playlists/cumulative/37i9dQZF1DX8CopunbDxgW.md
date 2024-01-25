@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: METTE and Sam Gellaitry
 
-1,114 songs - 2 day 23 hr 10 min
+1,115 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,7 +987,8 @@
 | [the search](https://open.spotify.com/track/6YGQnwuKcbKIMkDwjwLBWA) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [the search](https://open.spotify.com/album/1s1PoYSfV17Cu2Ee1qvbG1) | 3:07 | 2023-12-15 | 2024-01-13 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-11 | 2022-07-29 |
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-04-29 | 2022-07-20 |
-| [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 | 2023-12-08 |  |
+| [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 | 2023-12-08 | 2024-01-25 |
+| [The Way It Goes](https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/1kQlSA0X2r5RRa4WPTGjdw) | 3:04 | 2023-12-08 |  |
 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-18 | 2023-08-26 |
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-12-10 |
 | [The Witching Hour](https://open.spotify.com/track/0wCAUFC6yyUh5Eax8uTLwk) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [I Come for Your Love](https://open.spotify.com/album/1Puz3OhgsjrTtILUCoIZYt) | 4:26 | 2022-01-28 | 2022-04-14 |

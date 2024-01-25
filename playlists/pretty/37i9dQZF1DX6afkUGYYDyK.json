@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18888,
+  "num_followers": 18889,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWMyODg0MWNkMDJhZDg0ODU2MTdkODMyMDk3MjhkMTc4MzUyZjFi",
+  "snapshot_id": "MCw3Y2MxOTJmYTVlN2FlZmI2YmFhOTg5YzgwYWE2OTM4NDQ4M2VkZGVh",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 305581,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 203800,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 305581,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Oh Give Thanks (Psalm 107) [Live]",
-        "url": "https://open.spotify.com/album/36LAY52wPfMK172ikMQrha"
-      },
-      "artists": [
-        {
-          "name": "Wendell Kimbrough",
-          "url": "https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B"
-        }
-      ],
-      "duration_ms": 369666,
-      "name": "Oh Give Thanks (Psalm 107) - Live",
-      "url": "https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Gratitude (Live)",
         "url": "https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 376628,
       "name": "Gratitude - Live",
       "url": "https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Oh Give Thanks (Psalm 107) [Live]",
+        "url": "https://open.spotify.com/album/36LAY52wPfMK172ikMQrha"
+      },
+      "artists": [
+        {
+          "name": "Wendell Kimbrough",
+          "url": "https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B"
+        }
+      ],
+      "duration_ms": 369666,
+      "name": "Oh Give Thanks (Psalm 107) - Live",
+      "url": "https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -751,4 +751,4 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 741 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 |
 | 742 | [4L](https://open.spotify.com/track/1uULQtJ8rbsX5TwjPpPc9Q) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 
-Snapshot ID: `OTA3LGU0NmMzZDY3ZGJmNjlkYmU1ZDhmYWZkMTM2NjkyMGRhYzQxMDBkM2I=`
+Snapshot ID: `OTA5LGFlY2UwYzk1Mjc1Y2I2YTQwOGFkNTJjNmI3NzM4ZDMwYzcyYzFjZGQ=`

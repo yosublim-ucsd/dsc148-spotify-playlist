@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-127 songs - 5 hr 7 min
+128 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amor Amor](https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n) | [Amor Amor](https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt) | 2:16 | 2023-05-05 |  |
 | [Amorcito corazón lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito corazón lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 | 2023-09-04 |  |
 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 | 2023-05-05 | 2024-01-12 |
+| [Areca](https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks) | 1:59 | 2023-12-22 |  |
 | [At The Park](https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [At The Park](https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G) | 2:02 | 2023-11-24 |  |
 | [Ay Cabrón](https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Ay Cabrón](https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9) | 1:37 | 2023-10-09 |  |
 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 | 2023-05-05 |  |
@@ -71,7 +72,7 @@
 | [La Villa](https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [La Villa](https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu) | 2:24 | 2023-07-21 |  |
 | [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 | 2023-05-05 |  |
 | [Lluvia de Oro](https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Yunani HU](https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB) | [Lluvia de Oro](https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg) | 2:20 | 2023-05-05 |  |
-| [Lo\-Fi Bolero Perron](https://open.spotify.com/track/3n9wcyw39oHjudHYQYmsqR) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Bolero Perron](https://open.spotify.com/album/6rNYYMWZJd2f7II4Fo2juw) | 3:00 | 2023-05-05 |  |
+| [Lo\-Fi Bolero Perron](https://open.spotify.com/track/3n9wcyw39oHjudHYQYmsqR) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Bolero Perron](https://open.spotify.com/album/6rNYYMWZJd2f7II4Fo2juw) | 3:00 | 2023-05-05 | 2024-01-25 |
 | [Lo\-Fi Burrito Sabanero](https://open.spotify.com/track/43vEi6kpBn2L9ebnDLq01E) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Burrito Sabanero](https://open.spotify.com/album/4MOgM80pmEgBQqqFZyuFTZ) | 2:34 | 2023-05-05 | 2023-10-10 |
 | [Lo\-Fi Desayunando Huevito antes de la escuela](https://open.spotify.com/track/06aGkAjkul4YVPyYd2Emyi) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Desayunando Huevito antes de la escuela](https://open.spotify.com/album/66OTO7Ou4vememwiXEvh5j) | 3:30 | 2023-05-05 | 2023-11-25 |
 | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs) | 3:17 | 2023-05-05 | 2023-11-16 |

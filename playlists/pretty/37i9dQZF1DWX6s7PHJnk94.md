@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033 likes - 25 songs - 40 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 25 songs - 40 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 | 24 | [Opp och hoppa, sitt ej och dra dig](https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 0:46 |
 | 25 | [Uppå källarbacken](https://open.spotify.com/track/68sx2L7W1EHJbWflGm3zcG) | [Lily Berglund](https://open.spotify.com/artist/4Nyl3xHIedqFlfgIoTfK4n) | [Musik vi minns](https://open.spotify.com/album/4WlO54WIrNqdNeS5TZnfBT) | 2:38 |
 
-Snapshot ID: `MCxjYTYyYTRhNzc3MjI5Yzg3OWZlMGIxNDJhNDdlNTBjODJiODZmNTc4`
+Snapshot ID: `MCxjYWQ5OGNjZGYwNDU5ZmI3MWM5YTlhZGFhNGNmOGNiMjI0NjI4YTgx`

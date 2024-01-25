@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,169 likes - 52 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,202 likes - 52 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 41 | [The Golden Path](https://open.spotify.com/track/4Yfx8KnmfYaNr58SVLV4QY) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 2:58 |
 | 42 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 43 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
-| 44 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 |
+| 44 | [Meeting Of Two Oceans](https://open.spotify.com/track/7drPBuHo0GQZqRZhLvM7dQ) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:14 |
 | 45 | [Full Moon](https://open.spotify.com/track/0PYoJZ7HhxsBudRpKwSMka) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Buddha Moon](https://open.spotify.com/album/1nwmizF7DFsjNBySkHeJ5R) | 13:46 |
 | 46 | [Evening Meditation](https://open.spotify.com/track/2Ao32nF0lHXSrF4wjj2wpO) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Cosmic Meditation](https://open.spotify.com/album/3Fz75bL5JPz1UopPGGUbIu) | 7:57 |
 | 47 | [Bay of Bengal](https://open.spotify.com/track/1SRz2uFfZpvJXfOHPED9iT) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Yoga \- 7 Chakra "Muladhara"](https://open.spotify.com/album/1RcXyvXp6I7tWoRw6UwixR) | 4:02 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 51 | [Surrender To The Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
 | 52 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
-Snapshot ID: `MCxmMjEwNzcyYzExNzM2NzkwYTBhZGU1ZTA2NzdhYzg1YjQ0NDFjYjM5`
+Snapshot ID: `MCxmMWVjMzcwYTY2NGZjYjc4YjMwZmVkZjQyNTYzZGYzMTc0NGZmY2Vm`

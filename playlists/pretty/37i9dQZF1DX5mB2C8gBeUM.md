@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Redferrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,194 likes - 155 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,988 likes - 155 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 154 | [Superpower](https://open.spotify.com/track/2CZKg7bfs1gIw4pg7WQwMy) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:38 |
 | 155 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 |
 
-Snapshot ID: `MCwyNzA5Y2RmNGE1NWY1NzRlYjEzYjAwMGJhNWFhNGY2NDhkNTE0OWU0`
+Snapshot ID: `MCw5NjJlNGU2NTFjZWE3MDBmNTViMGU4OGY1NzliMTBiNWIwM2ZkYjkx`

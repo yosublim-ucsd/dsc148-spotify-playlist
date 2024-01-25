@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DPR IAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,881 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,066 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 59 | [Smoke \(Prod\. Dynamicduo, Padi\) \- Remix](https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5) | [Smoke \(Remix\)](https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk) | 4:43 |
 | 60 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 
-Snapshot ID: `MCwzMzhlMDI4OTExYzVmNjA0ZTFkZmUyMWMwYzFiNzg0Y2IyNTU1OTY2`
+Snapshot ID: `MCw2Yzc5YTAxZjkxYTA1ZTFjMmUwMzliOTQ0YTIxNDUzMDNmOWY0NzUx`

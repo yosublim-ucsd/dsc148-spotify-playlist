@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217571,
+  "num_followers": 217561,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2E2MzgyZGE5Y2E4ZDM3NThmNzQyYWI4MzMzZjk4NjhkZjAxZDNh",
+  "snapshot_id": "MCwxYTZlYzQ3NTQ1YmQxNGFkMDcxYjEwOTIyZTE1NjY3NjVlYjJjYzUy",
   "tracks": [
     {
       "added_at": "2024-01-09 09:49:14",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Smile in the wind",
-        "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
-      },
-      "artists": [
-        {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
-        }
-      ],
-      "duration_ms": 125603,
-      "name": "Smile in the wind",
-      "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "M\u00e9lange Weaved",
-        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 126778,
-      "name": "M\u00e9lange Weaved",
-      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Ignis",
         "url": "https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 146967,
       "name": "Countless",
       "url": "https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Smile in the wind",
+        "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 125603,
+      "name": "Smile in the wind",
+      "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "M\u00e9lange Weaved",
+        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 126778,
+      "name": "M\u00e9lange Weaved",
+      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 126673,
       "name": "Syllables Flow",
       "url": "https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Daffodils",
-        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Daffodils",
-      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Zephyr",
-        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Then I Saw You",
         "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
       },
       "artists": [
         {
-          "name": "Catherine Peterson",
-          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
         }
       ],
-      "duration_ms": 155750,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
+      "duration_ms": 160694,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "The Lights Around the Shore",
+        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "The Lights Around the Shore",
+      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -651,18 +667,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "The Lights Around the Shore",
-        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
       },
       "artists": [
         {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
         }
       ],
-      "duration_ms": 171063,
-      "name": "The Lights Around the Shore",
-      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
+      "duration_ms": 131106,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -679,22 +695,6 @@
       "duration_ms": 120080,
       "name": "A Day In June",
       "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
-      },
-      "artists": [
-        {
-          "name": "Allard Sidonia",
-          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Chasing lights",
+        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
+      },
+      "artists": [
+        {
+          "name": "Giles Garnier",
+          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
+        }
+      ],
+      "duration_ms": 134109,
+      "name": "Chasing lights",
+      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 162921,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Chasing lights",
-        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
-      },
-      "artists": [
-        {
-          "name": "Giles Garnier",
-          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
-        }
-      ],
-      "duration_ms": 134109,
-      "name": "Chasing lights",
-      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Sailing Away",
         "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Along dammed rivers",
-        "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 135310,
-      "name": "Along dammed rivers",
-      "url": "https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Feeling for the next",
         "url": "https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 124723,
       "name": "Feeling for the next",
       "url": "https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Along dammed rivers",
+        "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 135310,
+      "name": "Along dammed rivers",
+      "url": "https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1099,22 +1115,6 @@
       "duration_ms": 156000,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+        "name": "Into the unknown",
+        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
       },
       "artists": [
         {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
+      "duration_ms": 128022,
+      "name": "Into the unknown",
+      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Into the unknown",
-        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
-      },
-      "artists": [
-        {
-          "name": "Yuko Kimura",
-          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
-        }
-      ],
-      "duration_ms": 128022,
-      "name": "Into the unknown",
-      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Morning-Star",
         "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 180308,
       "name": "Morning-Star",
       "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2024-01-09 09:49:14",

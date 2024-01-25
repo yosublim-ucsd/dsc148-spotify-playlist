@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 103979,
+  "2024-01-25": 103996,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bolivia.",
   "name": "Top 50 - Bolivia",
@@ -4806,6 +4806,24 @@
     },
     {
       "album": {
+        "name": "Gangster Digital",
+        "url": "https://open.spotify.com/album/0xU9cjKe6GG1v67aZTAyRC"
+      },
+      "artists": [
+        {
+          "name": "Epi XXL",
+          "url": "https://open.spotify.com/artist/1hlfmledJYgEPjvEoDCeYf"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146546,
+      "name": "Gangster Digital",
+      "url": "https://open.spotify.com/track/1soIdr5A9njmJDRe876X0n"
+    },
+    {
+      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -6531,7 +6549,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"

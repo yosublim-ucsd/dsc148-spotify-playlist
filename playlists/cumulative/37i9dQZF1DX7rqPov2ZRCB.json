@@ -117,24 +117,6 @@
     },
     {
       "album": {
-        "name": "Cumbia Sampuesana",
-        "url": "https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez Songs",
-          "url": "https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE"
-        }
-      ],
-      "date_added": "2019-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164000,
-      "name": "Adan Y Eva",
-      "url": "https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re"
-    },
-    {
-      "album": {
         "name": "La Cuesti\u00f3n",
         "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
       },
@@ -1593,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Sampuesana",
+        "url": "https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez Songs",
+          "url": "https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "El Peque\u00f1uelo",
+      "url": "https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re"
+    },
+    {
+      "album": {
         "name": "El Pobre Infeliz",
         "url": "https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL"
       },
@@ -1936,6 +1936,24 @@
       "duration_ms": 195201,
       "name": "Haciendo la Cena",
       "url": "https://open.spotify.com/track/41E7MZbiA4b2OmL9dUiEAS"
+    },
+    {
+      "album": {
+        "name": "La Marapica",
+        "url": "https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt"
+      },
+      "artists": [
+        {
+          "name": "Tipico Dominicano",
+          "url": "https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Homenaje a Bolo - En Vivo",
+      "url": "https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG"
     },
     {
       "album": {
@@ -4342,24 +4360,6 @@
       "duration_ms": 271106,
       "name": "Vamos hablar ingles",
       "url": "https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e"
-    },
-    {
-      "album": {
-        "name": "La Marapica",
-        "url": "https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt"
-      },
-      "artists": [
-        {
-          "name": "Tipico Dominicano",
-          "url": "https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt"
-        }
-      ],
-      "date_added": "2019-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275000,
-      "name": "Vamos Hablar Ingles",
-      "url": "https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG"
     },
     {
       "album": {

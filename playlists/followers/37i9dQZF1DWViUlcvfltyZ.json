@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 84347,
+  "2024-01-25": 84340,
   "date_first_scraped": "2022-05-11",
   "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Tropea",
   "name": "Rock Italia",
@@ -4341,6 +4341,28 @@
       "duration_ms": 193336,
       "name": "Formica",
       "url": "https://open.spotify.com/track/2r9FyfGwi4BfXyU7dlK61f"
+    },
+    {
+      "album": {
+        "name": "Fosforo (feat. Francesco Bianconi)",
+        "url": "https://open.spotify.com/album/2FxJtyaLXUGosK1OgAiDK9"
+      },
+      "artists": [
+        {
+          "name": "Amalfitano",
+          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
+        },
+        {
+          "name": "Francesco Bianconi",
+          "url": "https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Fosforo (feat. Francesco Bianconi)",
+      "url": "https://open.spotify.com/track/5hm9gOhjEU6iM227OC9lxf"
     },
     {
       "album": {

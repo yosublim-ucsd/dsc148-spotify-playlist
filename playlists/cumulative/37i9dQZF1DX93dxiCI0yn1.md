@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-116 songs - 5 hr 42 min
+117 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [KANGOL](https://open.spotify.com/track/1hpA2P32EUrK9bigmodoeh) | [week dudus](https://open.spotify.com/artist/2dO3ifkbiQLreBJYSvkbsg) | [KANGOL](https://open.spotify.com/album/4kJGuTdRaDFA1RK5lDlAHs) | 2:44 | 2023-10-24 | 2023-11-29 |
 | [Karenai](https://open.spotify.com/track/2WnLirfXdCS0tcSNoHUZKp) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Bandit](https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv) | 2:21 | 2023-10-24 |  |
 | [Key](https://open.spotify.com/track/4kTyBRvPePNfzgvKtSshsn) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Key](https://open.spotify.com/album/2JT2qK2CGgfVfSy47YOIVA) | 1:55 | 2023-10-24 | 2023-11-29 |
-| [King Swan](https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI) | 2:42 | 2024-01-23 |  |
+| [King Swan](https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI) | 2:42 | 2024-01-23 | 2024-01-25 |
+| [King Swan](https://open.spotify.com/track/1cWeCO7Fc9Z6z3BDQz2Vwm) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/77GgZFHFDGoopROjsv2Udk) | 2:42 | 2024-01-23 |  |
 | [Legacy](https://open.spotify.com/track/2Elr96P9cEKu1Rw9AHFJzT) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Legacy](https://open.spotify.com/album/1GjN9hdYlJaz6kXC75px8F) | 2:47 | 2023-10-24 |  |
 | [Legacy 2](https://open.spotify.com/track/23vNzL3iCyVelYeW0sg5dW) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 2:59 | 2023-10-24 |  |
 | [Leon S\. Kennedy](https://open.spotify.com/track/4NriW0BNFdc1FVvNOGxeuQ) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Leon S\. Kennedy](https://open.spotify.com/album/7bjrDn5KiMEdTrWtHHYMLu) | 2:53 | 2023-11-07 | 2023-11-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 
 > 한계를 뛰어넘는 당신을 운동을 위하여\. \(Push yourself to your limits with powerful Korean music.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,561 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,576 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 99 | [EZ \(Prod\. Czaer\)](https://open.spotify.com/track/2cYc4Jcyg2h3QtKTPfgCKF) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 2:45 |
 | 100 | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU) | 2:48 |
 
-Snapshot ID: `MCw3YTU0ZjIyYjJhMzI4MGJhYjE5YjYzODk4N2FlZDcxM2U4ZDZiYjVh`
+Snapshot ID: `MCw5N2YyMGQ3MjUzMzJjMmEyYzZkY2YzM2YwZjI1ZjA2NTdlNjM5NjEz`

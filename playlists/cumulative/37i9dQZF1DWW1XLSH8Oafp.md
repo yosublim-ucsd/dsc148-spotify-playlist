@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring charlieeeee
 
-803 songs - 1 day 20 hr 57 min
+804 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [1975](https://open.spotify.com/track/12HJOH8NQ1l7U6eRJ8LKj5) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [1975](https://open.spotify.com/album/5aQcSUI8hRBpMuaNbmZy5B) | 2:44 | 2022-09-30 | 2022-10-29 |
 | [1999 She](https://open.spotify.com/track/6hwYxvmMI0UflYGmDOXys9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:46 | 2022-01-07 | 2022-07-27 |
 | [2 HOT 4 THIS \(let's do shots!\)](https://open.spotify.com/track/52lpCOhVaj7BQxRPyNOdNs) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [2 HOT 4 THIS \(let's do shots!\)](https://open.spotify.com/album/0Iv7Nltzo6yiO8dq4QzWil) | 2:46 | 2023-06-30 |  |
-| [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 | 2023-08-25 |  |
+| [2special](https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu) | 2:47 | 2024-01-12 |  |
+| [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 | 2023-08-25 | 2024-01-25 |
 | [432 Drip](https://open.spotify.com/track/5YmoINLXV15DcfJNwi1s1v) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Abdel Hady](https://open.spotify.com/artist/7Kz7E6ZDI7TL8DaFwXFSkr) | [432 Drip](https://open.spotify.com/album/2MbDDoLYfcsvb9MsRoVhpl) | 2:56 | 2022-11-11 | 2023-05-19 |
 | [4ever1](https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [4ever1](https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl) | 2:36 | 2023-08-25 |  |
 | [4EVR](https://open.spotify.com/track/7vmZoz2eLrumizTBsfkCVn) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR), [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO) | [4EVR](https://open.spotify.com/album/2tkmTUucbpt0tO8RD1wcZR) | 2:34 | 2022-07-11 | 2022-08-27 |

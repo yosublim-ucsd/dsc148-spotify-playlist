@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-456 songs - 1 day 21 hr 44 min
+457 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2023-01-25 | 2023-03-07 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-09-13 | 2022-12-15 |
 | [From Nibiru](https://open.spotify.com/track/1v1wU0nzJRN4imzZH9Z3KR) | [Freddy da Stupid](https://open.spotify.com/artist/1uj5EutAF1zvnbWFhSzQB3) | [Bantu Origins](https://open.spotify.com/album/584UxtYBI8YcOUMCHEUdFc) | 5:40 | 2023-12-21 |  |
+| [Fulufhelo](https://open.spotify.com/track/5m21eKVdcgzZloWfRnG0H5) | [Vuscare](https://open.spotify.com/artist/7C1LihDHAPTUCMmUELa0os), [Tangi](https://open.spotify.com/artist/3XOmUD6KOc81Gt1jC6SqT9) | [Fulufhelo](https://open.spotify.com/album/0G1pocVQXTI6PfLHst9Sbi) | 8:00 | 2024-01-24 |  |
 | [Gcwanini \- Andhim Remix](https://open.spotify.com/track/6VnGbWPvlVbCOa2ZOAfQ1H) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Korus](https://open.spotify.com/artist/7jYA9hE1kihWgNZQrn4jkh), [Sobantwana](https://open.spotify.com/artist/0DoNVl96ZWKJ1hbnKGaj93), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Gcwanini \(Andhim Remix\)](https://open.spotify.com/album/5wR7MRBRPnlk6PhZGSWJmn) | 4:22 | 2023-11-16 |  |
 | [Gemini's](https://open.spotify.com/track/2WlnkMzWW9Qnpcs48zkAEz) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Anjunadeep Explorations 22](https://open.spotify.com/album/47oCuJRbLrVvmuaps6C956) | 3:49 | 2023-06-07 | 2023-10-13 |
 | [Ghost City](https://open.spotify.com/track/0aC198BigttLuWXdMbpLMo) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Ghost City](https://open.spotify.com/album/2Rd5vodRQf2YJ5ewpoSiEz) | 6:09 | 2023-03-23 | 2023-08-09 |

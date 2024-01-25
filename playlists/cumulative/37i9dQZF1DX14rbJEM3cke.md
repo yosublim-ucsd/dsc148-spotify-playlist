@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-253 songs - 12 hr 43 min
+254 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 | 2022-06-03 | 2022-12-03 |
 | [Alive!](https://open.spotify.com/track/3mFFL4AvGi0t2RhZ66GtYC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:52 | 2024-01-19 |  |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2022-07-22 | 2022-08-27 |
-| [All Eyes On You](https://open.spotify.com/track/0PCxjGxmj0q3b3wpYZAgWe) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:32 | 2023-06-02 |  |
+| [All Eyes On You](https://open.spotify.com/track/0PCxjGxmj0q3b3wpYZAgWe) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:32 | 2023-06-02 | 2024-01-25 |
+| [All Eyes On You](https://open.spotify.com/track/10t72oj1mOIkWNZReYjO0J) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/3DYCuD1bLsxXpXot6O4xpp) | 1:32 | 2024-01-19 |  |
 | [All My Friends](https://open.spotify.com/track/47fADKpvNG60AU6s6VVWjZ) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [The Ends](https://open.spotify.com/album/2xY1XseDL8vVO8TLofNbXm) | 3:20 | 2022-02-12 | 2022-07-23 |
 | [Alone In December](https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Alone In December](https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw) | 2:50 | 2023-07-14 |  |
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-19 |  |

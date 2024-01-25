@@ -1,7 +1,7 @@
 {
-  "2024-01-24": 66387,
+  "2024-01-25": 66515,
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c2024\u5e74\u306b\u8e8d\u9032\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2024\u300d10\u7d44\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u767a\u8868\uff01\uff01 Cover: JUMADIBA",
+  "description": "Spotify\u304c2024\u5e74\u306b\u8e8d\u9032\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2024\u300d10\u7d44\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u767a\u8868\uff01\uff01 Cover: JUMADIBA/ \uff0a<a href=\"https://spotify-earlynoise.jp/\">2024.3.15 Early Noise Night#16\u958b\u50ac\u6c7a\u5b9a\uff01</a>",
   "name": "RADAR: Early Noise 2024",
   "tracks": [
     {
@@ -2566,6 +2566,24 @@
     },
     {
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "album": {
         "name": "Chrome Season",
         "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
       },
@@ -4611,7 +4629,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 204705,
       "name": "FRESH!!!",
       "url": "https://open.spotify.com/track/5n2EYBtPJBlWE2VbcT4UaT"
@@ -13774,6 +13792,24 @@
     },
     {
       "album": {
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
+    },
+    {
+      "album": {
         "name": "Unmellow",
         "url": "https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ"
       },
@@ -18345,7 +18381,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 209388,
       "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ"

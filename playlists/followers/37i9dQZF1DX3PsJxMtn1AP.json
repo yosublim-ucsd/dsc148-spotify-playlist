@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 74217,
+  "2024-01-25": 74253,
   "date_first_scraped": "2023-03-18",
   "description": "A sonic wonderland of mesmerizing tunes...",
   "name": "Kaleidoscope",
@@ -1209,6 +1209,24 @@
       "duration_ms": 162421,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+    },
+    {
+      "album": {
+        "name": "De otro mundo",
+        "url": "https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "De otro mundo",
+      "url": "https://open.spotify.com/track/0AUv5cNkt2gwLkQ1jckx4I"
     },
     {
       "album": {
@@ -3015,7 +3033,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 196583,
       "name": "New Joy",
       "url": "https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 220093,
       "name": "Nodos",
       "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
@@ -4229,6 +4247,24 @@
       "duration_ms": 240400,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
+    },
+    {
+      "album": {
+        "name": "Mount Matsu",
+        "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324978,
+      "name": "Takahashi Timing",
+      "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
     },
     {
       "album": {

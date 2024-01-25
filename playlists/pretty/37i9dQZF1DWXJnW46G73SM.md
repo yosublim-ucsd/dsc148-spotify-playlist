@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف : تامر حسني، زاب ثروت
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,995 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,208 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [بجننها](https://open.spotify.com/track/4KoqDXkPiia2Ym0Rglaexi) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [بجننها](https://open.spotify.com/album/2tKwYcytQaJ4mOAmXwXviF) | 3:16 |
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 
-Snapshot ID: `MCxmYWNmM2I1M2MxNTg5N2JiZjAyYTExNzU5MjJmODU1YWI3M2FmY2Iy`
+Snapshot ID: `MCwwODY2YjgyNTBlNWNlYTU4OTA2NzllOGUzYzFlYzY5MDBhYjA1NjQ1`

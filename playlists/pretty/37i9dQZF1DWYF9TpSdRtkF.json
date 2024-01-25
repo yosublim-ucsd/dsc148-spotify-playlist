@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 16309,
+  "num_followers": 16319,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTY4NmIwZmQ1ZjFmOTY4ZWUzMWVhZDQ3NzNhY2VlMGM0MTY2MzNh",
+  "snapshot_id": "MCw5MWI2OTIyMmY3YWIyMTVjNTZmYmYxZDUyNTcxNTU1Y2Q0MmIxNTRh",
   "tracks": [
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1347,6 +1347,34 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
+      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
         "url": "https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3"
       },
@@ -1380,29 +1408,17 @@
       "added_at": "2023-11-07 18:19:56",
       "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
-        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
       },
       "artists": [
         {
-          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
-          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
-        },
-        {
-          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
-          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+          "name": "CLEVER CLOVER",
+          "url": "https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3"
         }
       ],
-      "duration_ms": 231133,
-      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
-      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+      "duration_ms": 254360,
+      "name": "Shamrock Vivace",
+      "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1419,22 +1435,6 @@
       "duration_ms": 242440,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
-        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
-      },
-      "artists": [
-        {
-          "name": "CLEVER CLOVER",
-          "url": "https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Shamrock Vivace",
-      "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "duration_ms": 300413,
+      "name": "\u991e\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
         "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 339120,
       "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01Ver.",
       "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
-        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
-      },
-      "artists": [
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
-        }
-      ],
-      "duration_ms": 300413,
-      "name": "\u991e\u306e\u9ce5",
-      "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
     },
     {
       "added_at": "2023-11-07 18:19:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,473 likes - 87 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,659 likes - 87 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 | 86 | [Tibetan Meditation Sound \(Sound Bath\)](https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/1RkIzOVRLMe6VJezRD32c6) | 3:26 |
 | 87 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 
-Snapshot ID: `MCw4MzcyYjZkYmZlNDZjMjY5ZmE5ZGM3ZDk4M2FjMzRlN2Y5N2ZkOTc4`
+Snapshot ID: `MCw0N2NhY2EzYmI4MWZiNWNjZDdiMjc2N2Q2ZmViNWFiYmYyZTA3NTQw`

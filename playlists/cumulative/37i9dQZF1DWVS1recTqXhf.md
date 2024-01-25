@@ -4,7 +4,7 @@
 
 > Guided meditations for a variety of needs.
 
-98 songs - 12 hr 36 min
+101 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,13 @@
 | [Brief Mindfulness of Breathing](https://open.spotify.com/track/4Esex0laFVPY2WxYbrdRl0) | [Guided Meditation With Dr\. Miles Neale](https://open.spotify.com/artist/2ayhMBc10ml9bI8X35wX1Y) | [Mindfulness Meditations for Tranquility and Insight](https://open.spotify.com/album/5I0h6smX9qKeBvO4GjL7wt) | 7:14 | 2023-08-22 |  |
 | [Chapter 1 \- Binaural Deep Sleep Hypnosis](https://open.spotify.com/track/1npHiUNIkmNkAbMAPg5EvC) | [Glenn Harrold](https://open.spotify.com/artist/2Yko0hxpnv3Nexh06aJgQf) | [Binaural Deep Sleep Hypnosis](https://open.spotify.com/album/0xs7b9Sh97J7Ae0YOyu8gS) | 5:01 | 2023-08-22 |  |
 | [Creating Space Meditation](https://open.spotify.com/track/7pMx2LoFWKGcPfd1EPDOdK) | [Michelle DuVal](https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM) | [Growing Mindfulness: Guided Meditations](https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L) | 10:45 | 2023-08-22 | 2023-12-14 |
+| [Cultivating Gratitude and Peace](https://open.spotify.com/track/75HloZBqvp8bkOSs7LvXqa) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Affirmation Meditations](https://open.spotify.com/album/2Ls6UmY3eo36KLnWXgwclQ) | 3:36 | 2024-01-25 |  |
 | [De\-stress For Deep Rest Guided Sleep Meditation](https://open.spotify.com/track/507qB43H4LsS3V9gZzTbjr) | [Mindful Mental Meditations](https://open.spotify.com/artist/4NU4cgUddV7hJ2Rq4MNWMC) | [De\-stress For Deep Rest Guided Sleep Meditation](https://open.spotify.com/album/2TUj24FZPbXNOlf8AeVuND) | 5:56 | 2023-08-22 |  |
 | [Deep Sleep: Guided Meditation \- Part 2](https://open.spotify.com/track/0TDdxllPPSTDrfS3AkCJPf) | [Mona Anand](https://open.spotify.com/artist/4ZE0tfLSWuvX8VhVFHiYaT), [Into the Bliss](https://open.spotify.com/artist/7s9mBl0PtKL63sKkhAtEdx) | [Deep Sleep: Guided Meditation](https://open.spotify.com/album/3FFTeK8TyVFa0oo7h1eFTg) | 5:31 | 2023-08-22 |  |
 | [Deepening Relaxation with Guided Sleep Visualization](https://open.spotify.com/track/0gMTqpdHED35G1REqaPUK5) | [Sacred Body Scans](https://open.spotify.com/artist/0mpuyeMeBxHhE1JTGLWyic) | [Serenity Slumber: Guided Body Scan Meditation for Deep Sleep](https://open.spotify.com/album/6AyZZ64fA5O9Wl84vtRIcg) | 2:04 | 2023-08-22 |  |
 | [Deeply Letting Go Meditation](https://open.spotify.com/track/5aQW72KlFdLt9Nwya9BnyJ) | [Michelle DuVal](https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM) | [Growing Mindfulness: Guided Meditations](https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L) | 16:57 | 2023-08-22 |  |
+| [Embracing Abundance and Confidence](https://open.spotify.com/track/1xuY4L7Qgyc04xqR85COzG) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Affirmation Meditations](https://open.spotify.com/album/2Ls6UmY3eo36KLnWXgwclQ) | 5:03 | 2024-01-25 |  |
+| [Embracing Positivity and Self Love](https://open.spotify.com/track/4fctKO6Yz0baFEu83io6e1) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Affirmation Meditations](https://open.spotify.com/album/2Ls6UmY3eo36KLnWXgwclQ) | 3:28 | 2024-01-25 |  |
 | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/track/2LuOb3ZBWt05ECgQgdfUOc) | [The Honest Guys](https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V) | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/album/3Dd4WuCF8HvasKUWfoOlkw) | 9:55 | 2023-08-22 |  |
 | [Fear](https://open.spotify.com/track/3z3MwJyOz8gfYJP3juPie1) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/2z4A7jYYtKSk1Dceafkip3) | 1:57 | 2023-08-22 |  |
 | [Gratitude \(with Guided Meditation\)](https://open.spotify.com/track/1WhSiIdd2NR3RvWnO3mggO) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Gratitude](https://open.spotify.com/album/5ScFsECiROA6op1LT2lYkD) | 4:14 | 2023-08-22 |  |

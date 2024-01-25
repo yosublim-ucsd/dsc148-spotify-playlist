@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 279749,
+  "2024-01-25": 280526,
   "date_first_scraped": "2023-05-09",
   "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Creepy Nuts",
   "name": "Gacha Pop",
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 176017,
       "name": "Magic sword",
       "url": "https://open.spotify.com/track/2SDG8TEEBGX3tPwSjqX5xG"
@@ -2677,6 +2677,24 @@
       "duration_ms": 183000,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/08TD3JtW8nc3NEgxaSBNbL"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "album": {

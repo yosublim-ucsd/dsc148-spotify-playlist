@@ -1,29 +1,13 @@
 {
   "description": "FEEL GOOD ALERT \ud83c\udf3c\ud83c\udf3b Beetje indie, beetje alternative en alles wat nog meer goed voelt.",
-  "num_followers": 30719,
+  "num_followers": 30729,
   "original_name": "EXTASE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjlmYjk0YTU3OTc4NzZiN2QyZDI3NTgzMDc2YWQ1MzFhMmNjNzg3",
+  "snapshot_id": "MCxiNzI1YzUxYWUxMThiYWMxZTA5OGU2MTRmMDQwMjA3MjI1Zjg0MjBh",
   "tracks": [
-    {
-      "added_at": "2024-01-19 12:59:26",
-      "album": {
-        "name": "Beautiful People (Stay High)",
-        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
-    },
     {
       "added_at": "2024-01-19 12:59:26",
       "album": {
@@ -67,18 +51,18 @@
     {
       "added_at": "2024-01-19 12:59:26",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
       "added_at": "2024-01-19 12:59:26",
@@ -323,6 +307,22 @@
       "duration_ms": 196013,
       "name": "At Least That\u2019s What They\u2019re Saying",
       "url": "https://open.spotify.com/track/5fDZ51dVnkGJuh4KeebRuu"
+    },
+    {
+      "added_at": "2024-01-19 12:59:26",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-01-19 12:59:26",

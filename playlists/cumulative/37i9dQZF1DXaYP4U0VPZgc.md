@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-122 songs - 9 hr 24 min
+124 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [ring your bell](https://open.spotify.com/track/4x5e0piwQGLlgv0RtAdTfl) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ring your bell](https://open.spotify.com/album/5HAd8vJNZZYlHnxavEWMGv) | 5:16 | 2022-02-28 | 2022-07-29 |
 | [ring your bell](https://open.spotify.com/track/6GHMBep0v40pSejtpr87qP) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ring your bell](https://open.spotify.com/album/4hFDwdFGrNxGfQ3TmWzNi1) | 5:16 | 2022-02-28 | 2022-11-13 |
 | [romanesque](https://open.spotify.com/track/3aO4zQR7NDnJqbJ1WIDr0T) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 4:23 | 2022-02-28 |  |
+| [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-01-23 |  |
 | [Shinkai no Kodoku](https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I) | [Houko Kuwashima](https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP) | [Junshoku brilliant](https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6) | 4:00 | 2023-05-07 |  |
 | [ship of fools](https://open.spotify.com/track/6RKKLvRopHp3eoAxIC6ozV) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:42 | 2022-02-28 |  |
 | [Shizukana Yoru ni](https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt) | 4:53 | 2023-05-07 | 2023-06-18 |
@@ -88,14 +89,15 @@
 | [光の旋律](https://open.spotify.com/track/42F3KCBi64pMYfNrMtN4n7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM) | 6:13 | 2022-02-28 | 2022-07-29 |
 | [光の旋律](https://open.spotify.com/track/4kGCEIEGq8R8k3PBGZHAMW) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF) | 6:13 | 2022-02-28 |  |
 | [光の旋律](https://open.spotify.com/track/4kapKtjdu0ILha72HkvMC6) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 6:13 | 2022-02-28 | 2022-11-14 |
-| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 |  |
+| [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-01-23 | 2024-01-25 |
 | [君がいた物語](https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:07 | 2022-02-28 |  |
 | [君が見た夢の物語](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [君が見た夢の物語](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 | 2022-02-28 |  |
 | [君の銀の庭](https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:06 | 2022-02-28 |  |
 | [君の銀の庭](https://open.spotify.com/track/3LsjEGxV5LbJ985Ls5ijwG) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/207BrZB1WM0SC3Zp3NT0ia) | 5:07 | 2022-02-28 | 2022-07-29 |
 | [君の銀の庭](https://open.spotify.com/track/4ng5y9p7whitO0yq4nTBpA) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 5:08 | 2022-02-28 | 2022-11-13 |
 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 | 2022-02-28 | 2023-06-18 |
-| [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 |  |
+| [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 | 2024-01-23 |  |
+| [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 | 2024-01-25 |
 | [太陽の航路](https://open.spotify.com/track/3XGSEetBWHmbLarbxhWjZG) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [太陽の航路](https://open.spotify.com/album/43l55BFdVisx8Oi2LkNfJx) | 4:08 | 2022-02-28 | 2022-07-29 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-02-28 |  |
 | [春はゆく](https://open.spotify.com/track/2RSrmN9IbgDQTmGhv5X9eX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [春はゆく / marie](https://open.spotify.com/album/2yo4hx7Z6ZGGrZFmJ36E9u) | 5:04 | 2022-02-28 | 2022-11-13 |

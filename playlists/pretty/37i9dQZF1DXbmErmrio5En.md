@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,108 likes - 119 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,144 likes - 119 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 30 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 |
 | 31 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
 | 32 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 |
-| 33 | [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 |
+| 33 | [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 |
 | 34 | [break!](https://open.spotify.com/track/2uuBejJUbUb6EsKfEwE00L) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [break!](https://open.spotify.com/album/0xBcwKwEV6QJaRxDK7A5rY) | 3:47 |
 | 35 | [lie](https://open.spotify.com/track/0C9T668QTVtOnQVH7LpRrC) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [lieu](https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx) | [lie](https://open.spotify.com/album/5XLJ7PaBflkx1ggcYGomZw) | 2:00 |
 | 36 | [all out of love](https://open.spotify.com/track/5L9IoRiEwBa9F3cZj4yQQM) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [all out of love](https://open.spotify.com/album/4xldIoQMfWknQAEq3P2ORa) | 2:14 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 118 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 |
 | 119 | [Think About It](https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Delusional](https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx) | 2:20 |
 
-Snapshot ID: `MCxlZDgyMGViYmI0M2QyZTRjOWY2MWZjYzliNGMzZTM3MjE5NTI3OGEx`
+Snapshot ID: `MCxkYmE5MjhmYmJjMmFlZWFjYWFmMTFmOTg0NTBmMWUyZTMxZjc5YmFk`

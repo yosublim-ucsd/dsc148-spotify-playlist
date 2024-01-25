@@ -1,9 +1,27 @@
 {
-  "2024-01-24": 1625726,
+  "2024-01-25": 1626000,
   "date_first_scraped": "2020-10-16",
   "description": "Listen to all her biggest hits, in one place.",
   "name": "This Is Lady Gaga",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il"
+    },
     {
       "album": {
         "name": "Chromatica",
@@ -289,24 +307,6 @@
     {
       "album": {
         "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "date_added": "2020-10-16",
-      "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
-      "duration_ms": 247533,
-      "name": "ARTPOP",
-      "url": "https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il"
-    },
-    {
-      "album": {
-        "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
       },
       "artists": [
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 247533,
       "name": "ARTPOP",
       "url": "https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh"

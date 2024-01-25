@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 3248,
+  "2024-01-25": 3247,
   "date_first_scraped": "2022-06-09",
   "description": "\u5982\u679c\u611b\u662f\u4e0d\u540c\u5f62\u72c0\u7d44\u6210\u7684\u5bc6\u78bc\uff0c\u516b\u500b\u5973\u5b69\u5b50\u4fbf\u6703\u6709\u516b\u7d44\u4e0d\u540c\u7684\u611b\u7684\u5bc6\u78bc\uff01",
   "name": "\u516b\u7a2e\u611b\u7684\u5bc6\u8a9e",
@@ -169,7 +169,7 @@
     {
       "album": {
         "name": "I Love You 3000",
-        "url": "https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5"
+        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
       },
       "artists": [
         {
@@ -180,6 +180,24 @@
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209734,
+      "name": "I Love You 3000",
+      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
+    },
+    {
+      "album": {
+        "name": "I Love You 3000",
+        "url": "https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-24",
       "duration_ms": 209734,
       "name": "I Love You 3000",
       "url": "https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc"

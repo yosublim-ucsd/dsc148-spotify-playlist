@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,395 likes - 55 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,427 likes - 55 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 10 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 |
 | 11 | [Obsidian \- Oscar L Remix](https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Obsidian \(Oscar L Remix\)](https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP) | 6:33 |
 | 12 | [Soulstice](https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Soulstice](https://open.spotify.com/album/0SuGNn5zkJSHyiJA1Q4rbe) | 3:51 |
-| 13 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
+| 13 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 |
 | 14 | [Hera \- Radio Edit](https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y) | 3:25 |
 | 15 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 |
 | 16 | [UTOPIA](https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [UTOPIA](https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX) | 6:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [Bam Bam Bam](https://open.spotify.com/track/6eqETh5hUY97kVWmX9LQuU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/309YqMFysiuxHcOJppcCme) | 5:25 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCxlNDg5ZmQwODkzY2YzOGQ5Yjc1MjkxODM3ZTJjNDBkMjEzNjUyZWEw`
+Snapshot ID: `MCxjODNlNGU2NmRhNmJmZDk2ZDJiNjU1NTE5ZWUxOTFiN2U5MGY2NWU1`

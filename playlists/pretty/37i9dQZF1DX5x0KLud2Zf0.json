@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102054,
+  "num_followers": 102057,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
+  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -259,18 +259,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "A Trav\u00e9s del Vaso",
-        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
       },
       "artists": [
         {
-          "name": "Grupo Arranke",
-          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 188661,
-      "name": "A Trav\u00e9s del Vaso",
-      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -307,18 +307,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+        "name": "A Trav\u00e9s del Vaso",
+        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Grupo Arranke",
+          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
         }
       ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+      "duration_ms": 188661,
+      "name": "A Trav\u00e9s del Vaso",
+      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Tres Canciones",
-        "url": "https://open.spotify.com/album/5SLRNc3FKQLsPXIUFlKUya"
-      },
-      "artists": [
-        {
-          "name": "Reyes",
-          "url": "https://open.spotify.com/artist/4GJkKi18z77uo2pfrkEyIr"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Tres Canciones",
-      "url": "https://open.spotify.com/track/2BRnwjSI28g8ZLbCR5BkTj"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "La Vida En Un Trago",
         "url": "https://open.spotify.com/album/5KseE8Kjoy4IVyS90I2r1C"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 157080,
       "name": "La Vida En Un Trago",
       "url": "https://open.spotify.com/track/2tmLW5HY368hQGkXX9CmeK"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Tres Canciones",
+        "url": "https://open.spotify.com/album/5SLRNc3FKQLsPXIUFlKUya"
+      },
+      "artists": [
+        {
+          "name": "Reyes",
+          "url": "https://open.spotify.com/artist/4GJkKi18z77uo2pfrkEyIr"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Tres Canciones",
+      "url": "https://open.spotify.com/track/2BRnwjSI28g8ZLbCR5BkTj"
     },
     {
       "added_at": "2021-11-11 19:24:28",

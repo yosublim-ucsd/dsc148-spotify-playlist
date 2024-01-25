@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-496 songs - 1 day 3 hr 53 min
+497 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-03-01 | 2022-09-30 |
 | [Favourite Colour](https://open.spotify.com/track/17mS1Cr70SD2PTOTnqL3LT) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [E·mo·tion \(Deluxe\)](https://open.spotify.com/album/09qAJ8LMsiil5IixKRjYGJ) | 3:29 | 2019-05-26\* | 2021-10-16 |
 | [Feel Bad](https://open.spotify.com/track/286KbUJbu5B3085uQfNuDi) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Feel Bad](https://open.spotify.com/album/4DunVQ036tz6QtNzSXMMsM) | 3:23 | 2020-03-28 | 2021-10-02 |
-| [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-11-14 |  |
+| [feel like shit](https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:23 | 2024-01-22 |  |
+| [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-11-14 | 2024-01-25 |
 | [Feel Love](https://open.spotify.com/track/0F1cmOZH5gdNIDJRfl5Nsi) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Feel Love](https://open.spotify.com/album/5HSHwOlB8x9TaF1ulnKY6c) | 2:36 | 2021-08-07 | 2021-10-02 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-06-24 |  |
 | [Feels Like](https://open.spotify.com/track/3v4GROPtpHzWRHec5qnOo5) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [Feels Like / Pretty In Pink](https://open.spotify.com/album/39hjOgGSEFeUuLJWCI0dH2) | 2:44 | 2021-12-17 | 2022-01-19 |

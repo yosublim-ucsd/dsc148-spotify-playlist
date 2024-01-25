@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Niko Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,589 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,927 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 |
 | 100 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 |
 
-Snapshot ID: `MCw3NWRjNTJhMTQxOWJjNTIzZjNkZTU1ZDA1YzM4MDYyODc3NTA5YTdl`
+Snapshot ID: `MCxlZDQ2NGE3MTA4ZGJhNzgwYjNiMDZmNjBhZWIzZjkyMTYxYmUxMzUz`

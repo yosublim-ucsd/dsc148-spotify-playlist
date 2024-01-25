@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 
 > Wrench your heart out with NIKI but she's letting go
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,156 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,306 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 | 17 | [Around](https://open.spotify.com/track/3UIxHki9PY9pWZI925dPFr) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 3:03 |
 | 18 | [Indigo](https://open.spotify.com/track/6y0WlFecBZMaIlitqe9bNg) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds II](https://open.spotify.com/album/0XTfFhfbxxwYx0658sgGAh) | 2:53 |
 | 19 | [See U Never](https://open.spotify.com/track/2MSP40OG9ENSpsDhTj6Yf8) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [See U Never](https://open.spotify.com/album/0188hWtSANbU5Jwn64wA9d) | 3:41 |
-| 20 | [odds](https://open.spotify.com/track/6PUtUVzOu0Wj6RvoJKini9) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR) | 3:03 |
+| 20 | [odds](https://open.spotify.com/track/67iT31uHTE3XeIhADNmbgH) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/2ZFg5xTsm9GNA9jwM6E2Kn) | 3:03 |
 | 21 | [Dancing with the Devil](https://open.spotify.com/track/7ttsFGLq5qALPx8u3jouUL) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 2:42 |
 | 22 | [Pandemonium](https://open.spotify.com/track/27ogrfmzztbJUg4i6AUrE2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/7BYMS9hVqR7UH9b3WeqPsw) | 3:47 |
 | 23 | [California \(feat\. Jackson Wang & Warren Hue\) \- \[Remix\]](https://open.spotify.com/track/1SZcEr3Wo7vvK4UUn3bi8v) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Jackson Wang & Warren Hue\) \[Remix\]](https://open.spotify.com/album/2gg6B0XKlAW0XwIMIrwk2n) | 4:33 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 | 26 | [Plans \(feat\. Vory\)](https://open.spotify.com/track/3FX4Tc5jbcfQ26Pw4AEemW) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 2:18 |
 | 27 | [Little Prince \(feat\. NIKI\)](https://open.spotify.com/track/3jKJnHixssQxdCShjpirKQ) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Amen](https://open.spotify.com/album/4Y2V5TihhuWyKGnUzLQEpH) | 2:52 |
 | 28 | [Shouldn't Couldn't Wouldn't \- Acoustic Version](https://open.spotify.com/track/3hS9i4opEzwjNHCTtktWWS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/6DCIkaHedG9bOhkHGN3GXM) | 2:42 |
-| 29 | [Newsflash!](https://open.spotify.com/track/4jbA7VSQHZeWLktuUuHWbz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX) | 3:24 |
+| 29 | [Newsflash!](https://open.spotify.com/track/4O06hd5uspDmGI5mZA6wps) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 3:24 |
 | 30 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/3hfRucio8TtptNiHFmBCOq) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:30 |
 | 31 | [Plot Twist](https://open.spotify.com/track/5thBzOSPr0VlurlkJg8mXk) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/7BYMS9hVqR7UH9b3WeqPsw) | 3:27 |
-| 32 | [Shouldn't Couldn't Wouldn't](https://open.spotify.com/track/16ox7ZM0ozbzBOTjFecYuY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 3:15 |
+| 32 | [Shouldn't Couldn't Wouldn't](https://open.spotify.com/track/6gGgWXoJ4VB0HCX3zWPpGr) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds II](https://open.spotify.com/album/0XTfFhfbxxwYx0658sgGAh) | 3:15 |
 | 33 | [Spell](https://open.spotify.com/track/0IGknPywRZrcd8JiGhhyNj) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 3:46 |
 | 34 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
 | 35 | [Switchblade](https://open.spotify.com/track/6RufIITrVLg4TI8toUNMBd) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/7BYMS9hVqR7UH9b3WeqPsw) | 3:24 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 | 47 | [Forever \(feat\. NIKI\)](https://open.spotify.com/track/2wyp1XPf7VKe7mTljnsMs8) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chameleon](https://open.spotify.com/album/7lIManImBDxFptYJylm8mB) | 2:56 |
 | 48 | [Poolside Manor](https://open.spotify.com/track/0Lytvn2YtyVLgvw8NSQFXR) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 2:50 |
 
-Snapshot ID: `MCw5Y2U2MjI2MDU0NzUyMDA2NzQwMzRlYWQ1MDQ1NWY1ZTg1NTM0ZTA0`
+Snapshot ID: `MCw0M2Y2MTZiZTBhMzcxMDE4NmRmOWMzNDhjZDgxZjkwMzg1MWE2N2Vm`

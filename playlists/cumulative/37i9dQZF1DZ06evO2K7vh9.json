@@ -783,6 +783,32 @@
     },
     {
       "album": {
+        "name": "She Want Some More (feat. Ken Carson)",
+        "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184614,
+      "name": "She Want Some More (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },

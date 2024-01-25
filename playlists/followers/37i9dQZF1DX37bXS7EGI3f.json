@@ -1,5 +1,5 @@
 {
-  "2024-01-24": 760567,
+  "2024-01-25": 760678,
   "date_first_scraped": "2020-11-29",
   "description": "Epic and melodic metal. Cover: Within Temptation",
   "name": "Epic & Melodic",
@@ -463,6 +463,24 @@
       "duration_ms": 261680,
       "name": "All Shall Burn",
       "url": "https://open.spotify.com/track/4ZJQANWp7aZb66DRMVg8SA"
+    },
+    {
+      "album": {
+        "name": "Elements Of Power",
+        "url": "https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9"
+      },
+      "artists": [
+        {
+          "name": "Veonity",
+          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Altar Of Power",
+      "url": "https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx"
     },
     {
       "album": {
@@ -4001,7 +4019,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-24",
       "duration_ms": 275168,
       "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
       "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"

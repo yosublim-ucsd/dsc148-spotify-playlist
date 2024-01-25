@@ -1,15 +1,163 @@
 {
   "description": "<a href=\"spotify:artist:2EFsfh1zewsSWhDINv7j1I\">Logic1000's </a> favourite tracks.  Updated regularly. Curated by Logic1000. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 14395,
+  "num_followers": 14410,
   "original_name": "Logic1000's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTRlM2Y3NDZjOTExYTY5NjUxOGZmOGRjNWQ4MDVjMTJiMzJjZTMz",
+  "snapshot_id": "MCxmMDczNDUyMmJhNzgzNmZmNTZmZjFlMjY4MWZhZjZmYWNjOTBhZjU4",
   "tracks": [
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Iman.",
+          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+        }
+      ],
+      "duration_ms": 213045,
+      "name": "Wake Up Love (feat. IMAN)",
+      "url": "https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "Bacardi Papi",
+        "url": "https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 203608,
+      "name": "Bacardi Papi",
+      "url": "https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
+      "album": {
+        "name": "The Blue M&M 3",
+        "url": "https://open.spotify.com/album/4tSGP4AzRTEGzU09gmXBaS"
+      },
+      "artists": [
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "duration_ms": 199300,
+      "name": "Rerocc",
+      "url": "https://open.spotify.com/track/18Oo1PEO8leO5O0tP5SFVU"
+    },
+    {
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/6NujS5mtMdf1czulOADRNH"
@@ -25,7 +173,7 @@
       "url": "https://open.spotify.com/track/6hQl8iQgN5sV0JHusvOqav"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "The Basic Collective EP Pt. 5",
         "url": "https://open.spotify.com/album/5wGQ7zS3P3xHtnVFgReJkl"
@@ -45,7 +193,7 @@
       "url": "https://open.spotify.com/track/7sMYiKGd1ZPFowI9LBBZew"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Session 32",
         "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
@@ -61,7 +209,7 @@
       "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Mill's Theme EP",
         "url": "https://open.spotify.com/album/2CNRyiVzfrAUZTNtdcISZ0"
@@ -77,7 +225,7 @@
       "url": "https://open.spotify.com/track/2nIAin8uaDCKBu1qr5OpV8"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "What U See In Me",
         "url": "https://open.spotify.com/album/1Oo8XR2qAxUkQX5PNYJxQC"
@@ -97,7 +245,7 @@
       "url": "https://open.spotify.com/track/4ioDhAmW5JQPJLOobrzVVq"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Turn Off The Lights (Who's Afraid Of The Dark) Remixes",
         "url": "https://open.spotify.com/album/3KXbwHI63ksEAZPnDXPEEu"
@@ -121,7 +269,7 @@
       "url": "https://open.spotify.com/track/6HMdk1p69swDpZTGbWlGHv"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Stressed Out EP",
         "url": "https://open.spotify.com/album/6Wl5kJVgtsFNEFxEb3YHnW"
@@ -137,7 +285,7 @@
       "url": "https://open.spotify.com/track/6KdEBaBDkUyuU6sODlDOAe"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "African Spirits / Tribes (Fred P Interpretation)",
         "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
@@ -161,7 +309,7 @@
       "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
@@ -177,7 +325,7 @@
       "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
@@ -205,7 +353,7 @@
       "url": "https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "We Give Thee Honor / Makes Me Wanna",
         "url": "https://open.spotify.com/album/40wa0Bn4YAM1uPCt0CqVsp"
@@ -221,7 +369,7 @@
       "url": "https://open.spotify.com/track/5N4EFW5eHirh9urpVGFbGT"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "063",
         "url": "https://open.spotify.com/album/6ipPsxdz9GqLy2Ehy6b49i"
@@ -237,7 +385,7 @@
       "url": "https://open.spotify.com/track/0mnXRwO9ggGDcvDvkPFqip"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "1993-99 Main Street Records",
         "url": "https://open.spotify.com/album/5xRtyFjbbzTVAMiIWxUH8A"
@@ -257,7 +405,7 @@
       "url": "https://open.spotify.com/track/07oiZh5jfjIxv4DJGr3qxQ"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Around The House (Special Edition)",
         "url": "https://open.spotify.com/album/5tgVDeZ3r2IPYlitzedyjT"
@@ -273,7 +421,7 @@
       "url": "https://open.spotify.com/track/1Qd0No0lExyNRkbs7l4PtJ"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Breaking Up",
         "url": "https://open.spotify.com/album/4Pg3iFxswe2xNog8CgaBsZ"
@@ -289,7 +437,7 @@
       "url": "https://open.spotify.com/track/6IAlsmmCZ0AonpJUioEFJH"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Changing Channels / Hole Away",
         "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
@@ -305,7 +453,7 @@
       "url": "https://open.spotify.com/track/6ex8YIQvhg4U41mU9pKJzV"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "CHIBI (Nick Le\u00f3n Remix)",
         "url": "https://open.spotify.com/album/2QDzGhL4PT1531n5TGhPJa"
@@ -325,7 +473,7 @@
       "url": "https://open.spotify.com/track/43lXv1JVPq0KzNlDN0DcjZ"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Psssh 003",
         "url": "https://open.spotify.com/album/41tuPuEoR8mngf3eqL6Sni"
@@ -341,7 +489,7 @@
       "url": "https://open.spotify.com/track/1Tt531TrzUNKAwBNW1RnZ2"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Fort Bellefleur",
         "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
@@ -357,7 +505,7 @@
       "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Bford 14",
         "url": "https://open.spotify.com/album/65godysCySOKkKwP62hX7O"
@@ -373,7 +521,7 @@
       "url": "https://open.spotify.com/track/1J2HLUmgLEf9Nun0Stg0qj"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "A Parade, In The Place I Sit, The Floating World (& All Its Pleasures)",
         "url": "https://open.spotify.com/album/70oref5eMh1OF6bM5IG9qD"
@@ -389,7 +537,7 @@
       "url": "https://open.spotify.com/track/420f09vvRpnTwRGZxdg4ZO"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Graphite",
         "url": "https://open.spotify.com/album/2g4tjcjoYxN5EcyaCjy0s2"
@@ -405,7 +553,7 @@
       "url": "https://open.spotify.com/track/2VPY4HCQjCGJ4aQapVIfyw"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "I Never Knew Love",
         "url": "https://open.spotify.com/album/2JupQom4QixXJfhU3x140N"
@@ -421,7 +569,7 @@
       "url": "https://open.spotify.com/track/3xvQ7jFN3XoTPeH3GCGj6Q"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Lautschrift",
         "url": "https://open.spotify.com/album/4k3NfSUN4vT1AhQN1vR0Wo"
@@ -437,7 +585,7 @@
       "url": "https://open.spotify.com/track/12JZO424xmVCIxpajtEf4u"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Open Door (Expanded Edition)",
         "url": "https://open.spotify.com/album/0ZhBEQXekJLK0hZflDomWt"
@@ -453,7 +601,7 @@
       "url": "https://open.spotify.com/track/2ihgY3lpJMngAlmBCF3tJT"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Downtown World",
         "url": "https://open.spotify.com/album/2E2MCCeeV6pyBxbfgFwTFX"
@@ -469,7 +617,7 @@
       "url": "https://open.spotify.com/track/70pg0JK72l31vfVCThWMRv"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Let The Bass",
         "url": "https://open.spotify.com/album/0wJP2PJMzS86wxA1kVpl5s"
@@ -489,7 +637,7 @@
       "url": "https://open.spotify.com/track/6s5D2riEpAGU7X7w2p4qsb"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Muzik",
         "url": "https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44"
@@ -505,7 +653,7 @@
       "url": "https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Do It Your Way",
         "url": "https://open.spotify.com/album/2GeAr9D1kztZrxjuLfyYKv"
@@ -525,7 +673,7 @@
       "url": "https://open.spotify.com/track/6bxeekI9n4mFVw4GoeQZMa"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
@@ -549,7 +697,7 @@
       "url": "https://open.spotify.com/track/1thaBzVdtjQuCfXKL4Q2c5"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Three Chains / Nature",
         "url": "https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc"
@@ -565,7 +713,7 @@
       "url": "https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "orbs",
         "url": "https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe"
@@ -581,7 +729,7 @@
       "url": "https://open.spotify.com/track/2kIgDJcUogfY1e7HoTufxL"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Paranoid London",
         "url": "https://open.spotify.com/album/0wdxdBlbsDLeAYpDofB1NU"
@@ -601,7 +749,7 @@
       "url": "https://open.spotify.com/track/7CBTPgLDAxoyclmTXFEsZd"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "What's Your Shrine?",
         "url": "https://open.spotify.com/album/0MNesqCfV1hq6lUeSHpogf"
@@ -617,7 +765,7 @@
       "url": "https://open.spotify.com/track/1scxfqJcmDaE6UszDOF2tk"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Translation to Heaven",
         "url": "https://open.spotify.com/album/5IAiKs09l4DvJdTlG07oba"
@@ -633,7 +781,7 @@
       "url": "https://open.spotify.com/track/1zv7nMIgMYZoBjOpurzDK9"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "RKS Presents: Murder He Wrote Collection 1",
         "url": "https://open.spotify.com/album/3i6NBXz9u3eT3U8dFB5Bb4"
@@ -649,7 +797,7 @@
       "url": "https://open.spotify.com/track/5qURsGfF0MGHm0xv2gf9tS"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Rosa Rugosa",
         "url": "https://open.spotify.com/album/2OI88x7TDGHvrAvdzZKP87"
@@ -665,7 +813,7 @@
       "url": "https://open.spotify.com/track/49UzgjOfEOGcmiE3GnOqtm"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Skargard",
         "url": "https://open.spotify.com/album/4UFKRr7IWAmgBbuiUs1rRW"
@@ -681,7 +829,7 @@
       "url": "https://open.spotify.com/track/6ehGy1X3Z00HjMdMV0gxOZ"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Solaris",
         "url": "https://open.spotify.com/album/3gHlQ2mYGcwVoqnhcVQUCo"
@@ -697,7 +845,7 @@
       "url": "https://open.spotify.com/track/1sG7HS1giw6Wl9TV4M9xDI"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Word, Sound & Power",
         "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
@@ -717,7 +865,7 @@
       "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
     },
     {
-      "added_at": "2023-12-04 03:12:37",
+      "added_at": "2024-01-24 13:40:45",
       "album": {
         "name": "Switch Back to City EP",
         "url": "https://open.spotify.com/album/1wKXc6XsgO2NlaJY5MkZPt"

@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 72909,
+  "num_followers": 72924,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWFlZWExOGRlMGEwOTcxMDlhNjA4MjkzYWI5OGZkYzYzZGNmMjZi",
+  "snapshot_id": "MCwyZGZhYWNjYjg0N2Q1M2Y4MjgxODljMThmYWY1YWRiMjgyYjVhZmVh",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/5tC2V5bpIrr14ka5wAxFEQ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 191053,
       "name": "Lite og stort",
       "url": "https://open.spotify.com/track/20N6iAf42TLvjPVnQaCAEn"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Brev",
-        "url": "https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 279240,
       "name": "P\u00e5 vei",
       "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Brev",
+        "url": "https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "To over tolv",
-        "url": "https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "To over tolv",
-      "url": "https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "1988 EP",
         "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 257906,
       "name": "Du fortenar ein som meg - klineversjon",
       "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "To over tolv",
+        "url": "https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "To over tolv",
+      "url": "https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R"
     },
     {
       "added_at": "2024-01-18 23:00:00",

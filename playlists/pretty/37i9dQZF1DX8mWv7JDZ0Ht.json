@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Ferrugem, Thiaguinho",
-  "num_followers": 434519,
+  "num_followers": 434476,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZjNGVjOTU2NGNkMDUxNTZmYjQ1OWE0MWY2YmUxNjJjMGRkNDg2",
+  "snapshot_id": "MCwxYjgwNTUxNGYxYWQ4ZWQxZGE0MDdhODVlYjc5M2FlYmJkYWUzMWY3",
   "tracks": [
     {
       "added_at": "2024-01-19 03:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Noite",
         "url": "https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Melhor De Tr\u00eas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2YkAm2Wrk9iL36VNt0gXLI"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 195071,
-      "name": "Nova Bad - Ao Vivo",
-      "url": "https://open.spotify.com/track/3T1E29Lyz9fIDK2WM5zB10"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Melhor De Tr\u00eas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2YkAm2Wrk9iL36VNt0gXLI"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Nova Bad - Ao Vivo",
+      "url": "https://open.spotify.com/track/3T1E29Lyz9fIDK2WM5zB10"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+        "name": "LIVRE",
+        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
         }
       ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+      "duration_ms": 195989,
+      "name": "S\u00f3 Respira",
+      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "LIVRE",
-        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
       "artists": [
         {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 195989,
-      "name": "S\u00f3 Respira",
-      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 196642,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 148330,
       "name": "N\u00e3o Me Chame Mais De Ex",
       "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Cultivar (Deluxe)",
-        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 128427,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Tela Crua",
         "url": "https://open.spotify.com/album/2jeDKTduy4R3kG2gVgTjVC"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 225501,
       "name": "Tela Crua",
       "url": "https://open.spotify.com/track/3w7DZzCH9557MSCAcC3AHL"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Cultivar (Deluxe)",
+        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 128427,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Erup\u00e7ando",
-        "url": "https://open.spotify.com/album/2KTq5TxqwAkFzVJoeZRwc0"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "1000 Contatinhos",
-      "url": "https://open.spotify.com/track/5jJMRcf2rPRQufITrQ7aY9"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Erup\u00e7ando",
+        "url": "https://open.spotify.com/album/2KTq5TxqwAkFzVJoeZRwc0"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "1000 Contatinhos",
+      "url": "https://open.spotify.com/track/5jJMRcf2rPRQufITrQ7aY9"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Tudo Vai Ser Como Deve Ser",
-        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Tudo Vai Ser Como Deve Ser",
-      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Sintomas de Saudade",
         "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 194478,
       "name": "Sintomas de Saudade",
       "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Tudo Vai Ser Como Deve Ser",
+        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 174339,
+      "name": "Tudo Vai Ser Como Deve Ser",
+      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Dezembro",
-        "url": "https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Dezembro",
-      "url": "https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "TIME ERRADO",
         "url": "https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 133071,
       "name": "TIME ERRADO",
       "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Dezembro",
+        "url": "https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Dezembro",
+      "url": "https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Brincando De Amor",
-        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Black News",
-          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
-        }
-      ],
-      "duration_ms": 155822,
-      "name": "Brincando De Amor",
-      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Meu Lugar Preferido",
         "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 204935,
       "name": "Amanheceu Assim",
       "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Brincando De Amor",
+        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Black News",
+          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
+        }
+      ],
+      "duration_ms": 155822,
+      "name": "Brincando De Amor",
+      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
     },
     {
       "added_at": "2024-01-19 03:00:00",

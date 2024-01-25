@@ -11959,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Roforofo Fight",
+        "url": "https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726026,
+      "name": "Trouble Sleep Yanga Wake Am",
+      "url": "https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL"
+    },
+    {
+      "album": {
         "name": "Troupeau bleu",
         "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
       },

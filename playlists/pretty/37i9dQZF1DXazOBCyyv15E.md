@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Yard Act
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,148 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,161 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Toothache](https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Toothache](https://open.spotify.com/album/67lWLXOlTjMwtfdrgTMElp) | 3:06 |
 | 85 | [Dugout](https://open.spotify.com/track/1PIBttOCpRWSYCeJc3cdhc) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Mythomania](https://open.spotify.com/album/3qxzjhDwn0MTFeZmGwjAYV) | 2:00 |
 
-Snapshot ID: `MCwzZDQ0NGY3MTk1MTQ1MTFmYzhjYjkxNmI2ZTdkYmZjNWJiNjUxMDE4`
+Snapshot ID: `MCw5MjkxMWFmYzBlMzg5YzdmYWI3MzM2M2RmOGMwZTMwZTNmMzUwOGMx`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 16823,
+  "num_followers": 16839,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTMzMzc0NWE4ZGUyODMyMjJhYTAxM2JkZTQ4MjBhODYzOGRlYWZl",
+  "snapshot_id": "MCw4Nzc0ZjM2ZTBjYmM1YmUxNWM4Y2YwNzYyNzJlYTg4ZDdhZDY5ODdi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Claudine (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "Make Yours a Happy Home",
-      "url": "https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 399533,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Claudine (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Make Yours a Happy Home",
+      "url": "https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG"
     },
     {
       "added_at": "2022-10-01 16:00:00",

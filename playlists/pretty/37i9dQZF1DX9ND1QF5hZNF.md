@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,821 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,775 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 5 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 |
 | 6 | [Show Me](https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [KOSE](https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q) | [Show Me](https://open.spotify.com/album/7EhmVD2B6kOvTQ2xOl7SJP) | 2:54 |
 | 7 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
-| 8 | [MARAGARITA](https://open.spotify.com/track/3a83gjRLze4P3CZXoI3qAP) | [SWORRA](https://open.spotify.com/artist/3CwBdFm87pJQZU7NgZae00) | [MARAGARITA](https://open.spotify.com/album/0WmKyAG8q21joH2H3LIw21) | 3:35 |
+| 8 | [MARGARITA](https://open.spotify.com/track/3a83gjRLze4P3CZXoI3qAP) | [SWORRA](https://open.spotify.com/artist/3CwBdFm87pJQZU7NgZae00) | [MARGARITA](https://open.spotify.com/album/0WmKyAG8q21joH2H3LIw21) | 3:35 |
 | 9 | [Only God Knows](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [ECHoBOY](https://open.spotify.com/artist/5tGSpRGRAJGaHguGRHz3gJ) | [Only God Knows](https://open.spotify.com/album/6B6o64fBRzC3IiIfJdzs8I) | 3:30 |
 | 10 | [Tell Me](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ) | [Tell Me](https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3) | 2:12 |
 | 11 | [Yellow](https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Yellow](https://open.spotify.com/album/1AWfn2bdgCCoc1ufl0qsSE) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Sunsets](https://open.spotify.com/track/0PPdGlXl0Djfmp1IolZpZ1) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Sunsets](https://open.spotify.com/album/5w96i0VsQxI1eP8rDLOERy) | 2:32 |
 | 50 | [The Journey](https://open.spotify.com/track/7Js278ET3O52ymQd8LU5bq) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Soul Vibrations](https://open.spotify.com/album/1U8SQTNw2R6XgQ4RGfe8kF) | 3:51 |
 
-Snapshot ID: `MCwxMjEzNGFjZmE1M2FhZDY0NmYwMjBmYTExODJkNWI0MzY4OTVhZmEw`
+Snapshot ID: `MCwxYTQyZmM4MTNmNjA2NTAwZjY2ZmRhM2RmZDRkYjlmNTM4NDZkMGJl`

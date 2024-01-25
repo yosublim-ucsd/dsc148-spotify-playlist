@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Saca, prende y sorprende con esta selecci\u00f3n de buenas vibras. Foto: Cultura Prof\u00e9tica",
+  "description": "Saca, prende y sorprende con esta selecci\u00f3n de buenas vibras. Foto: Rawayana con Danny Ocean",
   "name": "Volando con Reggae",
   "tracks": [
     {
@@ -599,6 +599,46 @@
     },
     {
       "album": {
+        "name": "En el Aire",
+        "url": "https://open.spotify.com/album/0vP1B3u8j9YZIYE13hxgUs"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230214,
+      "name": "En el Aire",
+      "url": "https://open.spotify.com/track/4BWJUVSpIHqgE6amgS5zsn"
+    },
+    {
+      "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203665,
+      "name": "En La Tormenta",
+      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
+    },
+    {
+      "album": {
         "name": "Estos D\u00edas",
         "url": "https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX"
       },
@@ -657,6 +697,28 @@
     },
     {
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "D\u0113lian",
+          "url": "https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164789,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
+    },
+    {
+      "album": {
         "name": "Ganas de Verte",
         "url": "https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7"
       },
@@ -668,7 +730,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 245932,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC"
@@ -925,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Km 0",
+        "url": "https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166036,
+      "name": "Km 0",
+      "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
+    },
+    {
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/0SRVZjqbjlg0oyiBmdrSEa"
       },
@@ -936,7 +1016,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 272058,
       "name": "La Ficci\u00f3n",
       "url": "https://open.spotify.com/track/3b2BDfSRZkcxl4J1TkDft5"
@@ -1016,6 +1096,28 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "album": {
+        "name": "Llegaste A M\u00ed",
+        "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        },
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212342,
+      "name": "Llegaste A M\u00ed",
+      "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
     },
     {
       "album": {
@@ -1143,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "album": {
         "name": "Teorema",
         "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
       },
@@ -1252,7 +1376,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 356437,
       "name": "Qu\u00e9 es Vivir (What is Life)",
       "url": "https://open.spotify.com/track/0iOv981COUDmcUin4dTmaU"
@@ -1314,7 +1438,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/5NXpReJZXtxr6CuxbhXzmB"
@@ -1519,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172590,
+      "name": "The Heaven",
+      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+    },
+    {
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -1654,7 +1796,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 227677,
       "name": "Tierra de Jaguares",
       "url": "https://open.spotify.com/track/3MRTSZkWkTG4SJi7QNXPmF"
@@ -1690,7 +1832,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 166192,
       "name": "Tranquiliboy",
       "url": "https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB"
@@ -1886,7 +2028,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"

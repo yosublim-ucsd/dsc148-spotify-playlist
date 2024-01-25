@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. K\u00c1RYYN on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 290666,
       "name": "3210",
       "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 229718,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/4vKeomIq5cLAS6cr1Wvmeb"
@@ -10824,7 +10824,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 308575,
       "name": "hairdye",
       "url": "https://open.spotify.com/track/4w1loRCD8PBarpXj5v0Ugu"
@@ -13825,6 +13825,24 @@
     },
     {
       "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
+    },
+    {
+      "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
       },
@@ -14042,6 +14060,40 @@
       "duration_ms": 223448,
       "name": "L.O.M",
       "url": "https://open.spotify.com/track/3L36poDWNRauEKJounUPAC"
+    },
+    {
+      "album": {
+        "name": "A time to love, a time to die",
+        "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
+      },
+      "artists": [
+        {
+          "name": "Amor Muere",
+          "url": "https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh"
+        },
+        {
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+        },
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        },
+        {
+          "name": "Gibrana Cervantes",
+          "url": "https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312770,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
     },
     {
       "album": {
@@ -15156,7 +15208,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 186000,
       "name": "Lucky you, lucky me",
       "url": "https://open.spotify.com/track/7wVG9xoe1DtW3yrqnx8VKU"
@@ -15730,6 +15782,24 @@
       "duration_ms": 323662,
       "name": "maybe lucky",
       "url": "https://open.spotify.com/track/5ovabFdndPg6TjaYAWieHS"
+    },
+    {
+      "album": {
+        "name": "Me she said",
+        "url": "https://open.spotify.com/album/5aqxaHuCa2twoBbAql8ZSe"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
     },
     {
       "album": {
@@ -17643,6 +17713,24 @@
     },
     {
       "album": {
+        "name": "Night Plotters",
+        "url": "https://open.spotify.com/album/6T3lR1agu4rTwJPXZ9mDKj"
+      },
+      "artists": [
+        {
+          "name": "SabaSaba",
+          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194901,
+      "name": "Night Plotters",
+      "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
+    },
+    {
+      "album": {
         "name": "Nightpainting",
         "url": "https://open.spotify.com/album/65yS0rgtwgp3XxH3oX4VvN"
       },
@@ -18502,7 +18590,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 182360,
       "name": "One at a Time",
       "url": "https://open.spotify.com/track/1cxRql5t96eLnljeWBxQ16"
@@ -22132,7 +22220,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 206000,
       "name": "Show You My World",
       "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
@@ -22957,6 +23045,32 @@
     },
     {
       "album": {
+        "name": "something that lasts",
+        "url": "https://open.spotify.com/album/0zBqpV65kUId8AQLTm4Wbf"
+      },
+      "artists": [
+        {
+          "name": "Immaterialize",
+          "url": "https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by"
+        },
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        },
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238750,
+      "name": "something that lasts",
+      "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
+    },
+    {
+      "album": {
         "name": "Somni",
         "url": "https://open.spotify.com/album/2LPIoyjK6VR7i3kSH7f1Ff"
       },
@@ -23116,6 +23230,24 @@
       "duration_ms": 156625,
       "name": "Soundtrack to a Life",
       "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
+    },
+    {
+      "album": {
+        "name": "Soy Sauce",
+        "url": "https://open.spotify.com/album/35URROxXIrHUFscytU8FKa"
+      },
+      "artists": [
+        {
+          "name": "Josef Akin",
+          "url": "https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144478,
+      "name": "Soy Sauce",
+      "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
     },
     {
       "album": {
@@ -24110,6 +24242,24 @@
       "duration_ms": 260463,
       "name": "Sustain",
       "url": "https://open.spotify.com/track/6byxNuNEWQGi2RTPhVa0eA"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "album": {
@@ -28864,7 +29014,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 257752,
       "name": "What Do You Feel",
       "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
