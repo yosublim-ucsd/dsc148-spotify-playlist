@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 71446,
+  "2024-01-26": 71486,
   "date_first_scraped": "2023-05-19",
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
   "name": "Folk in India",
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 293500,
       "name": "Divine Krishna",
       "url": "https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk"
@@ -459,6 +459,44 @@
       "duration_ms": 260486,
       "name": "Ghat Ghat",
       "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
+    },
+    {
+      "album": {
+        "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
+        "url": "https://open.spotify.com/album/2BvmgU37aWulnWfAlF5B2D"
+      },
+      "artists": [
+        {
+          "name": "Jaysinh Gadhvi",
+          "url": "https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ"
+        },
+        {
+          "name": "Kushal Chokshi",
+          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
+        },
+        {
+          "name": "Bhargav Purohit",
+          "url": "https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc"
+        },
+        {
+          "name": "Sagar Patel",
+          "url": "https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5"
+        },
+        {
+          "name": "Raju Bhaai",
+          "url": "https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC"
+        },
+        {
+          "name": "Kavi Shree Ghanshyam Gadhvi",
+          "url": "https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175929,
+      "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
+      "url": "https://open.spotify.com/track/3QmeA8spViA3XNsOW0mQMQ"
     },
     {
       "album": {

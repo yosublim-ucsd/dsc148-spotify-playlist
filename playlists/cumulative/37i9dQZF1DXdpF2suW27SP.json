@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "BAGD\u00c1",
+        "url": "https://open.spotify.com/album/17PlolZoyWrsDyn0geyw5v"
+      },
+      "artists": [
+        {
+          "name": "HOODZ",
+          "url": "https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192642,
+      "name": "BAGD\u00c1",
+      "url": "https://open.spotify.com/track/4v2502SGdDDWt9Ka33KqX8"
+    },
+    {
+      "album": {
         "name": "Bailarina 2",
         "url": "https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd"
       },
@@ -4077,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Jardim",
+        "url": "https://open.spotify.com/album/2UOgGzsJBizdh2V413BhyC"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Jardim",
+      "url": "https://open.spotify.com/track/68CR5JoZqvAz1Tx9ieQFlo"
+    },
+    {
+      "album": {
         "name": "Jatinho",
         "url": "https://open.spotify.com/album/5pj3JgRdhRKS9Cy6AzCZ2n"
       },
@@ -4248,7 +4288,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157043,
       "name": "Ki Sabi",
       "url": "https://open.spotify.com/track/0LSqNawb5VspBagrAyLDk6"
@@ -5034,7 +5074,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 193573,
       "name": "Mesmo Assim",
       "url": "https://open.spotify.com/track/2FgZ8sm114fRxW88yMKw2p"
@@ -6485,6 +6525,28 @@
     },
     {
       "album": {
+        "name": "Para Tu Seres de Onde Eu Sou",
+        "url": "https://open.spotify.com/album/5oeT52JszMENaK1nQFDiBm"
+      },
+      "artists": [
+        {
+          "name": "King Bigs",
+          "url": "https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61"
+        },
+        {
+          "name": "Kosmo Da Gun",
+          "url": "https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "Para Tu Seres de Onde Eu Sou",
+      "url": "https://open.spotify.com/track/718DAFEvZP9MdqiydLCXBa"
+    },
+    {
+      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/2s1TkBbHp7JxsQGCG9cVKg"
       },
@@ -6552,6 +6614,32 @@
       "duration_ms": 218181,
       "name": "Peitto Feitto",
       "url": "https://open.spotify.com/track/7MuaeiBSGXeQQt4skDjdNU"
+    },
+    {
+      "album": {
+        "name": "Pengthing",
+        "url": "https://open.spotify.com/album/3sy9rlGAiDOegbBAIJ5lIh"
+      },
+      "artists": [
+        {
+          "name": "Mside",
+          "url": "https://open.spotify.com/artist/7Ddg0uyT8fliPrQwQn89pT"
+        },
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Freesesh",
+          "url": "https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "Pengthing",
+      "url": "https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W"
     },
     {
       "album": {
@@ -7226,7 +7314,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 211160,
       "name": "RGTN",
       "url": "https://open.spotify.com/track/4XFv4UoCEUwCTSCVCNEIbZ"
@@ -8042,7 +8130,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174117,
       "name": "S\u00f3 Eu Sei",
       "url": "https://open.spotify.com/track/3ylDoihcRi3UFQ7XqGh7g4"
@@ -8458,7 +8546,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180574,
       "name": "Tropa do Madruga",
       "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
@@ -9034,6 +9122,24 @@
       "duration_ms": 240366,
       "name": "Yard",
       "url": "https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl"
+    },
+    {
+      "album": {
+        "name": "Yeye",
+        "url": "https://open.spotify.com/album/6bvQP6p2Gm3FL3Zy0762e4"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Yeye",
+      "url": "https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu"
     },
     {
       "album": {

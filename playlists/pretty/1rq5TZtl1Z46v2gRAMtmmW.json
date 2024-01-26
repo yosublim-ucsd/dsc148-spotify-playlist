@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29124,
+  "num_followers": 29131,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzYwOSxiMWMxNGUwMjk0MGI3YmJjZDM4M2M1MTQxZDQ4NzAxOTc1MTg1YTdj",
+  "snapshot_id": "MzYxMyw2N2QyZjViYmI1ZDQwYjk4NzNiZmE5MDMxODFlYTRkNzUxZDE2ZmVl",
   "tracks": [
     {
       "added_at": "2024-01-18 16:31:34",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
     },
     {
-      "added_at": "2023-10-12 13:58:14",
-      "album": {
-        "name": "Its me ( g 8 ) / Oway ( f 7 )",
-        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 317765,
-      "name": "Its me ( g 8 )",
-      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
-    },
-    {
       "added_at": "2023-09-27 18:09:47",
       "album": {
         "name": "Deadbeat Gospel",
@@ -735,6 +719,22 @@
       "duration_ms": 260000,
       "name": "Vast Oceans, Empty Skies",
       "url": "https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E"
+    },
+    {
+      "added_at": "2024-01-25 14:17:53",
+      "album": {
+        "name": "24 hours",
+        "url": "https://open.spotify.com/album/6YEXnjflOIF7g0PghPnuAe"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 218393,
+      "name": "24 hours",
+      "url": "https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

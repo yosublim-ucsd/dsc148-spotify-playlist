@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  Anna hisbbuR",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  Daniel Toh",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1580,6 +1580,28 @@
       "duration_ms": 200298,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/3M3p5VOaMl2o9vgo0hweok"
+    },
+    {
+      "album": {
+        "name": "Come Out & Play",
+        "url": "https://open.spotify.com/album/3ljFFhpoOUvTqpBeQ9FRAq"
+      },
+      "artists": [
+        {
+          "name": "r.a.g.s.",
+          "url": "https://open.spotify.com/artist/2BpkEwGtXVEr5xejFjXkdn"
+        },
+        {
+          "name": "julian.",
+          "url": "https://open.spotify.com/artist/2OF4DfPj0RD76W3kUyfHNl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175975,
+      "name": "Come Out & Play",
+      "url": "https://open.spotify.com/track/31Brs2Z8uq7QEfsx44o8r0"
     },
     {
       "album": {
@@ -7019,6 +7041,28 @@
     },
     {
       "album": {
+        "name": "Pick Up The Damn Phone! (feat. J Jelly)",
+        "url": "https://open.spotify.com/album/5u621JujHuIfaMlbwElkHm"
+      },
+      "artists": [
+        {
+          "name": "KAREN YEE",
+          "url": "https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh"
+        },
+        {
+          "name": "J Jelly",
+          "url": "https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148111,
+      "name": "Pick Up The Damn Phone! (feat. J Jelly)",
+      "url": "https://open.spotify.com/track/5d83zd1R25UuBbo0qefJhm"
+    },
+    {
+      "album": {
         "name": "pick up your phone",
         "url": "https://open.spotify.com/album/5DubLw2TnutkxKYS0Nuygx"
       },
@@ -8952,6 +8996,24 @@
       "duration_ms": 241626,
       "name": "tell me i'm not annoying",
       "url": "https://open.spotify.com/track/15sM0O9U2nAhmUKmk4LVI9"
+    },
+    {
+      "album": {
+        "name": "tenderly",
+        "url": "https://open.spotify.com/album/7rGLqte04OEyOWJGvKTEvN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toh",
+          "url": "https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219300,
+      "name": "tenderly",
+      "url": "https://open.spotify.com/track/4oE64Nfd25mBzYcdlymJgv"
     },
     {
       "album": {
@@ -11977,6 +12039,24 @@
     },
     {
       "album": {
+        "name": "\u53ef\u5426\u4e00\u8d77\u5bc2\u5bde\u5230\u6700\u5f8c",
+        "url": "https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t"
+      },
+      "artists": [
+        {
+          "name": "Lewsz",
+          "url": "https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228425,
+      "name": "\u53ef\u5426\u4e00\u8d77\u5bc2\u5bde\u5230\u6700\u5f8c",
+      "url": "https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP"
+    },
+    {
+      "album": {
         "name": "\u541b\u83ab\u554f",
         "url": "https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG"
       },
@@ -12104,6 +12184,32 @@
       "duration_ms": 203076,
       "name": "\u5514\u597d\u5b32\u5566",
       "url": "https://open.spotify.com/track/6RTMWCzrx4q6S2hcYiZn4J"
+    },
+    {
+      "album": {
+        "name": "\u5514\u60f3\u77e5",
+        "url": "https://open.spotify.com/album/2IthuPvsJgVbz5yezBOJrl"
+      },
+      "artists": [
+        {
+          "name": "Hael",
+          "url": "https://open.spotify.com/artist/3wUWgSATQOy6LURkvU9oED"
+        },
+        {
+          "name": "Young Caasi",
+          "url": "https://open.spotify.com/artist/4MfbSEYRwoRyGCvV0o2rx5"
+        },
+        {
+          "name": "Shqun",
+          "url": "https://open.spotify.com/artist/7dJw7MSDejCNcIC2516sQU"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161648,
+      "name": "\u5514\u60f3\u77e5",
+      "url": "https://open.spotify.com/track/6P9WT83deKn2hHHOVZU28E"
     },
     {
       "album": {
@@ -14702,6 +14808,24 @@
       "duration_ms": 199449,
       "name": "\u7159",
       "url": "https://open.spotify.com/track/6pmuAMwi2dzTy9UkuFcIdy"
+    },
+    {
+      "album": {
+        "name": "\u7159",
+        "url": "https://open.spotify.com/album/4U22KBh4EvWG1MgDzD0Ydr"
+      },
+      "artists": [
+        {
+          "name": "The Priceless Boat",
+          "url": "https://open.spotify.com/artist/3aIis27ZwDnQzBIx7CqYXV"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "\u7159 Lofi Remix",
+      "url": "https://open.spotify.com/track/4Wsk0uyGAa3oAdPJ81tQJ5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It's murder on the dancefloor  🍆 \#fyp
 
-258 songs - 13 hr 41 min
+259 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Est\-ce que tu regrettes ?](https://open.spotify.com/track/68QlpGOAApokhQ3wcRpGpO) | [François Sentinelle](https://open.spotify.com/artist/4Y7qAdeJmlBZSORMVKyl0U) | [Est\-ce que tu regrettes ?](https://open.spotify.com/album/438JpOJjbCyhmOkWYSNAHO) | 3:00 | 2023-09-15 | 2023-11-11 |
 | [Faut des millions \- Bizon blanc](https://open.spotify.com/track/3eRRKua3z77NMMS4swGDbt) | [TobiHood](https://open.spotify.com/artist/4z2eCmlekWnUrHY0esLGXw) | [Faut des millions \(Bizon blanc\)](https://open.spotify.com/album/4z70FnNfQjMWskBec4v5yM) | 3:06 | 2023-09-15 | 2023-09-22 |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-02 | 2023-11-11 |
-| [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 | 2023-12-14 |  |
+| [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 | 2023-12-14 | 2024-01-26 |
+| [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 | 2023-12-14 |  |
 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 | 2023-06-16 | 2023-11-11 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-03-24 | 2023-08-26 |
 | [Garde la pêche](https://open.spotify.com/track/4PY22DbHm8KvhG2BKxQybo) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Ouest Side](https://open.spotify.com/album/3yT2JhKAfo78iIqgEkZNVw) | 2:51 | 2023-10-27 |  |

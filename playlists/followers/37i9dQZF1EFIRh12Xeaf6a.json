@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 3577,
+  "2024-01-26": 3578,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9\">Carole King</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Carole King",
@@ -605,10 +605,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 176400,
       "name": "Chains",
       "url": "https://open.spotify.com/track/1N9NKdaJ7xB4U87oLoZu6C"
+    },
+    {
+      "album": {
+        "name": "Here come... The Cookies!",
+        "url": "https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152764,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3Tjzaw3s36JkLACh1XY2Yi"
     },
     {
       "album": {

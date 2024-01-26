@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 140589,
+  "num_followers": 140659,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTdiYzA5YThmNzFmMTYzMTM4NWQyNmU4ZmY5NmU1YzhlNzg0YTcx",
+  "snapshot_id": "MCxjZjQxNDVlZmYyN2FjZjMwZTM2ODMxY2U4YjdmMzBmYjMyMzdhMGIz",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 144760,
       "name": "Disritmia",
       "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "A Voz e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Flor de Lis",
+      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -143,22 +159,6 @@
       "duration_ms": 228132,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "A Voz e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Flor de Lis",
-      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 174493,
-      "name": "As Rosas N\u00e3o Falam",
-      "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Samba Teresa",
         "url": "https://open.spotify.com/album/6G39y3eaasUT4iJSer4Hvx"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 193142,
       "name": "Samba Teresa",
       "url": "https://open.spotify.com/track/5RMVWN6PTVptYaVE7kE6QN"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 174493,
+      "name": "As Rosas N\u00e3o Falam",
+      "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "E o Mundo N\u00e3o Se Acabou",
-        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
       "artists": [
         {
-          "name": "Mimi Wankenne",
-          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 124880,
-      "name": "E o Mundo N\u00e3o Se Acabou",
-      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+        "name": "E o Mundo N\u00e3o Se Acabou",
+        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
       },
       "artists": [
         {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+          "name": "Mimi Wankenne",
+          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+      "duration_ms": 124880,
+      "name": "E o Mundo N\u00e3o Se Acabou",
+      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
     },
     {
       "added_at": "2024-01-19 03:01:00",

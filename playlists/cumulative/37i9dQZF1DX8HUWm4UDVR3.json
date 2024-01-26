@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Jeanne Bonjour",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180093,
       "name": "B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 201533,
       "name": "Carabine",
       "url": "https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0"
@@ -408,6 +408,24 @@
       "duration_ms": 167972,
       "name": "CHAVIRE",
       "url": "https://open.spotify.com/track/7Dz7FQgW6Wkr5hfxMKneFa"
+    },
+    {
+      "album": {
+        "name": "Comme ceux qui s'aiment",
+        "url": "https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC"
+      },
+      "artists": [
+        {
+          "name": "Nyv",
+          "url": "https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Comme ceux qui s'aiment",
+      "url": "https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis"
     },
     {
       "album": {
@@ -674,7 +692,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 202666,
       "name": "D\u00e9sert",
       "url": "https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173973,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH"
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Pilote",
+        "url": "https://open.spotify.com/album/1b5vs9vwsQMveVLedlKhZ4"
+      },
+      "artists": [
+        {
+          "name": "Fleur Copin",
+          "url": "https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141859,
+      "name": "Reviens-tu",
+      "url": "https://open.spotify.com/track/3rMKYCKljvm9Wo6fvshMz3"
+    },
+    {
+      "album": {
         "name": "Rien que pour moi",
         "url": "https://open.spotify.com/album/3RzViUQhU23rqMds2eN1oK"
       },
@@ -2254,6 +2290,24 @@
       "duration_ms": 158051,
       "name": "\u00c7a ira",
       "url": "https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4"
+    },
+    {
+      "album": {
+        "name": "\u00c9tat normal",
+        "url": "https://open.spotify.com/album/0JwKhFsPG4KIkGZeQy0YWY"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138299,
+      "name": "\u00c9tat normal",
+      "url": "https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ"
     },
     {
       "album": {

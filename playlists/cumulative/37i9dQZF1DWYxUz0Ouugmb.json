@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
   "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Anggi Marito",
-  "name": "RADAR Indonesia 2023",
+  "name": "RADAR Indonesia ",
   "tracks": [
     {
       "album": {
@@ -132,6 +132,42 @@
       "duration_ms": 215064,
       "name": "Aku Kamu Yang Lain",
       "url": "https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I"
+    },
+    {
+      "album": {
+        "name": "Aku Mengerti",
+        "url": "https://open.spotify.com/album/7x8ERxSmiCigSd8vLKCI7s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284178,
+      "name": "Aku Mengerti",
+      "url": "https://open.spotify.com/track/4w7cRm8psY5CMKv6qQT9mx"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225195,
+      "name": "Aku Mengerti (Prologue Version)",
+      "url": "https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd"
     },
     {
       "album": {
@@ -364,6 +400,24 @@
       "duration_ms": 240600,
       "name": "Berlagak Bahagia",
       "url": "https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI"
+    },
+    {
+      "album": {
+        "name": "Bersama Bukan Maumu (Live At Ska Reggae)",
+        "url": "https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299549,
+      "name": "Bersama Bukan Maumu - Live At Ska Reggae",
+      "url": "https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863"
     },
     {
       "album": {
@@ -2309,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "THE GRAND CHASE",
+        "url": "https://open.spotify.com/album/5LyYbjOZxOorwRmB7aqOei"
+      },
+      "artists": [
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "PULANG",
+      "url": "https://open.spotify.com/track/1gt5nseAiBxo6fgGJ0cOtt"
+    },
+    {
+      "album": {
         "name": "Putra Petir",
         "url": "https://open.spotify.com/album/6NCzDjlMh8oLKEaW6HbJAX"
       },
@@ -3058,6 +3130,24 @@
       "duration_ms": 225948,
       "name": "This Love Will Never End",
       "url": "https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK"
+    },
+    {
+      "album": {
+        "name": "tiba-tiba jumat lagi",
+        "url": "https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "tiba-tiba jumat lagi",
+      "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo e CEF Tanzy.
+> Fall in love with the sensual sounds of Kizomba! Cover: Damásio Brothers.
 
-341 songs - 20 hr 23 min
+342 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Hoje a Noite É Nossa](https://open.spotify.com/track/09aLSoFasuxNVnGzgrBxc6) | [Edivaldo Prince](https://open.spotify.com/artist/1gqTY48L61CaY4ZNUpc8wL), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC), [Lil Drizzy](https://open.spotify.com/artist/6J7bOfaTg7OVG7b2uP0cqO) | [Hoje a Noite É Nossa](https://open.spotify.com/album/7zMtgdb8TzDx0ZjssmjaT5) | 3:49 | 2022-01-14 | 2022-01-29 |
 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 | 2021-12-10 |  |
 | [If You Don't Know](https://open.spotify.com/track/6pYBjiuWk8coTvo3shvcWw) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Lisa Lopes](https://open.spotify.com/artist/4jZJ7wqkCF6ldDLzgWASKI) | [If You Don't Know](https://open.spotify.com/album/5dzWo4oakpXNQ6NOZOAjI7) | 3:15 | 2021-12-10 | 2022-07-21 |
-| [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 | 2022-04-22 |  |
+| [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 | 2022-04-22 | 2024-01-26 |
 | [Insistir Porquê \- Saxo\-Kizomba Remix](https://open.spotify.com/track/1T6FLxnygwAYRqBq02fZO0) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Saxo\-Kizomba](https://open.spotify.com/artist/76LGsqPHM3DIvCD6mXgK5M) | [Insistir Porquê \(Saxo\-Kizomba Remix\)](https://open.spotify.com/album/6iXf5JCkr024vX0W8HpSwj) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 | 2021-12-10 |  |
 | [Jamais](https://open.spotify.com/track/4ZvWMjmldmt1XVmRYHtWlx) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ), [Pegguy Tabu](https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y) | [Vida](https://open.spotify.com/album/3qkt4e3sxMHwJA5pDVqsz9) | 2:54 | 2022-01-14 | 2022-03-05 |
@@ -187,6 +187,7 @@
 | [Ms\. Killa](https://open.spotify.com/track/7qWszdYQHJUXLmlmDgWyqp) | [Mykel Forever](https://open.spotify.com/artist/3jUxO7G1txUnhHfRMSamzW), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Ms\. Killa \(feat\. Elji Beatzkilla\)](https://open.spotify.com/album/24bKRjjStT7iA7gGyCepsY) | 3:29 | 2022-03-25 | 2022-04-21 |
 | [Mulher Africana](https://open.spotify.com/track/7IVfK35wLBXmCX0aGEPV97) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Mulher Africana](https://open.spotify.com/album/7nDVYWGdHdjSd8u5MTxhux) | 3:43 | 2022-11-18 | 2022-12-16 |
 | [Mulherão](https://open.spotify.com/track/1Nw8yLoy7G0IObfjvAsfcI) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Novelas](https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ) | 3:40 | 2022-02-03 | 2022-02-11 |
+| [Mundo](https://open.spotify.com/track/7jjZsQLnYSDIBK9HxX1N6B) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Mundo](https://open.spotify.com/album/7uNsxczfyrd37MkAjBdo5t) | 2:35 | 2024-01-26 |  |
 | [Na Bo Mon](https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Na Bo Mon](https://open.spotify.com/album/72mZfjW41yycIsoeRfXoox) | 3:20 | 2021-12-10 | 2022-07-29 |
 | [Na Bo Mon](https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 3:22 | 2023-12-15 |  |
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |

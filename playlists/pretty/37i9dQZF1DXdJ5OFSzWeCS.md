@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 26 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 |
 | 27 | [Twilight Embrace](https://open.spotify.com/track/42uTb7TEMMmRfHpqMisPqg) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Twilight Embrace](https://open.spotify.com/album/25YSvB8DprutVKksUYghuH) | 1:51 |
 | 28 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 |
-| 29 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/2jYAYd7zgB1sOqrjewxci8) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 |
+| 29 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 |
 | 30 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 |
 | 31 | [Peaceful Night](https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI) | [Jonatan Järpehag](https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw) | [Peaceful Night](https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW) | 2:40 |
 | 32 | [Pat That Little Tummy](https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Pat That Little Tummy](https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R) | 1:33 |
@@ -375,4 +375,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 365 | [In Your Mother's Arms](https://open.spotify.com/track/3GdjJV0Eueo5wXkmnIqmZ7) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [In Your Mother's Arms](https://open.spotify.com/album/7qmaRNuKbo0GfTU3MZ2xlY) | 1:36 |
 | 366 | [Here and Now](https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Here and Now](https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU) | 1:31 |
 
-Snapshot ID: `MCxlZDE1M2I2MjUxYzI2NGZlY2EzYzUyMTA5OGI2M2FkYWYyZjIzNTM5`
+Snapshot ID: `MCw3N2I2YzNkMjM5NThkZGNkYmIyNzBlZGNhZWYyNTU3Y2E1OTZjZjI2`

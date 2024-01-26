@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Skepsis
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,719 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,788 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 36 | [Somebody Else, Pt\. 2](https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else, Pt\. 2](https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl) | 3:17 |
 | 37 | [Break It Down](https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Break It Down](https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw) | 3:23 |
 | 38 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
-| 39 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
-| 40 | [Rampage Anthem VIP](https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF) | [SASASAS](https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [MC Shabba D](https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr), [Stormin MC](https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM), [MC Skibadee](https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Rampage Anthem VIP](https://open.spotify.com/album/69szID4oSWL2iSddE56ryG) | 3:46 |
-| 41 | [Morals](https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Temple](https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH) | [Morals](https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR) | 3:24 |
+| 39 | [Morals](https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Temple](https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH) | [Morals](https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR) | 3:24 |
+| 40 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
+| 41 | [Rampage Anthem VIP](https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF) | [SASASAS](https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [MC Shabba D](https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr), [Stormin MC](https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM), [MC Skibadee](https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Rampage Anthem VIP](https://open.spotify.com/album/69szID4oSWL2iSddE56ryG) | 3:46 |
 | 42 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
 | 43 | [Firebreak \- 1991 Remix](https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Firebreak \(1991 Remix\)](https://open.spotify.com/album/6hjfikVWj1TJ3gFl3gOrNK) | 1:57 |
 | 44 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
 | 55 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
 
-Snapshot ID: `MCwwZGIwYWQ3NjBjOWVjNzFiZDI3NTBiZWJiZjlkYWMwMTNiNzI1NTM0`
+Snapshot ID: `MCxkYTU2YTljYzJmNjkwNTIxNWYwMzE0NTc3ZmE1NzlmNmM0ZjMxOTg4`

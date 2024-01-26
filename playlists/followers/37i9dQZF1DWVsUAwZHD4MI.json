@@ -1,9 +1,27 @@
 {
-  "2024-01-25": 58883,
+  "2024-01-26": 58879,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:3M3wTTCDwicRubwMyHyEDy\"> Shygirl</a>'s favorite tracks. Updated regularly. Curated by Shygirl. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Shygirl's track IDs",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2"
+    },
     {
       "album": {
         "name": "10:35",
@@ -1035,24 +1053,6 @@
       "duration_ms": 124343,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC"
-    },
-    {
-      "album": {
-        "name": "I Want U",
-        "url": "https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn"
-      },
-      "artists": [
-        {
-          "name": "Sellhis",
-          "url": "https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X"
-        }
-      ],
-      "date_added": "2023-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124343,
-      "name": "I Want U",
-      "url": "https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2"
     },
     {
       "album": {

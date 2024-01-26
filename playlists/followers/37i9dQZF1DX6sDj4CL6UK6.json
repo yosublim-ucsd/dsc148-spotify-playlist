@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 35219,
+  "2024-01-26": 35229,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Dot.",
   "name": "IndiEnglish",
@@ -551,6 +551,24 @@
       "duration_ms": 139591,
       "name": "Break From The Party",
       "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/5aZDNvlGX9pOKoG09jvYNH"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295984,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2mNolLedgnG8ys1bDlpjTJ"
     },
     {
       "album": {
@@ -3103,7 +3121,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 202605,
       "name": "Model",
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"

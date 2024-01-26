@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 198946,
       "name": "Indelebili",
       "url": "https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164848,
       "name": "Lei \u00c8...",
       "url": "https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ"
@@ -2339,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250630,
+      "name": "Nati senza (Outro)",
+      "url": "https://open.spotify.com/track/3lptopTJBfU6RtzLC3My85"
+    },
+    {
+      "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
@@ -2600,6 +2622,36 @@
       "duration_ms": 176485,
       "name": "PELLE D'OCA (feat. Medy)",
       "url": "https://open.spotify.com/track/2VxS5ZTxvHbYdfiZJeYNbD"
+    },
+    {
+      "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "1hellion",
+          "url": "https://open.spotify.com/artist/3KXy5B1nJf9WYod5vpnMXV"
+        },
+        {
+          "name": "prodbymiku",
+          "url": "https://open.spotify.com/artist/6MhvveMb6gshUHAeTYIfEo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200897,
+      "name": "Piccolo principe",
+      "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
     },
     {
       "album": {

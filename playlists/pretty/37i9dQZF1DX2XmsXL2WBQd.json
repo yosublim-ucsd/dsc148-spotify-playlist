@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 382416,
+  "num_followers": 382481,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTgyMzJlOGYxM2FmZmNiMmM4YmVlYzRlNDJlNGI5OGQ1MzE0Y2E3",
+  "snapshot_id": "MCxhMzkwMGM2NzQ3YzhmZGJmMWExMzM2M2FiMmZjY2EwMmNlNDM4MDQ2",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:05",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Just a Friend - EP",
-        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Just a Friend",
-      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 242040,
       "name": "Children's Story",
       "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "Just a Friend - EP",
+        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Just a Friend",
+      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Giant Single: Profile Records Rap Anthology",
-        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
+        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
+        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
       },
       "artists": [
         {
-          "name": "Dr. Jeckyll & Mr. Hyde",
-          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Genius Rap - 7\" Single Version",
-      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
+      "duration_ms": 290813,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,081 likes - 176 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,109 likes - 176 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 84 | [Tomorrow Never Comes](https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Tomorrow Never Comes](https://open.spotify.com/album/3g4I1lrC7oDxUhVysMfxZD) | 2:40 |
 | 85 | [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 |
 | 86 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
-| 87 | [Everything](https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 5:32 |
+| 87 | [Everything](https://open.spotify.com/track/6qyHSeCDJ1M2v8hZGfAN91) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 5:32 |
 | 88 | [Reason \(with Paige Cavell\) \- Pocket Remix](https://open.spotify.com/track/2QH0LmeIeA5fNnddvZN9EB) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Reason \(with Paige Cavell\) \[Pocket Remix\]](https://open.spotify.com/album/0RRovD8Qb2pbO6mtPDodsQ) | 2:55 |
 | 89 | [\(I've Been\) Lookin 4 U](https://open.spotify.com/track/3KzLce8EeBDnGkAvx0v3Xa) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [\(I've Been\) Lookin 4 U](https://open.spotify.com/album/46ZnIDroh8NNIJOKKVC6mv) | 2:21 |
 | 90 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 175 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 176 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCwxMmEzYWZiOGVkZWJlMmY5OTdjZTMwYjYzYWE1ZDFlMWRjZWZkZjFl`
+Snapshot ID: `MCxiZTQ1YWI2OGQ0MmY3YjVjMTBjNjkyMTQzNDY2OWUxYmVkNWFhYjg4`

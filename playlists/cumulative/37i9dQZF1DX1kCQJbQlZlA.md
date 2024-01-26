@@ -2,9 +2,9 @@
 
 ### [Về Quê](https://open.spotify.com/playlist/37i9dQZF1DX1kCQJbQlZlA)
 
-> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
+> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
 
-131 songs - 10 hr 19 min
+133 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Trăng Về Thôn Dã](https://open.spotify.com/track/0flxosFliKeD2nftYJtAUo) | [Ái Thanh](https://open.spotify.com/artist/2C6IlYdKn4jZq8BjxPawYn), [Chi Tai](https://open.spotify.com/artist/7gHc41Fe39ilUF7RE4Ezt7) | [Một Ông Hai Bà](https://open.spotify.com/album/2RfdeQfWDtKBTKzcsPgnjN) | 3:55 | 2022-05-12 | 2024-01-24 |
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4EsFje6KwIcdm1lfuTDEdp) | [Son Tuyen](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Thà Trắng Thà Đen](https://open.spotify.com/album/1VywfbWfieh83tyZfkmSxx) | 5:02 | 2022-05-12 | 2022-07-29 |
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 | 2022-07-15 |  |
+| [Tân Khúc Lý Cô Ba](https://open.spotify.com/track/6TRpFn93kffx16XZUE8k1C) | [NSND Bach Tuyet](https://open.spotify.com/artist/6BLc7t4KaJGJXuRlUgUNgx), [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te) | [Tân Khúc Lý Cô Ba](https://open.spotify.com/album/5UYisJuXkNCUvlafiK5Stj) | 4:20 | 2024-01-25 |  |
 | [Tình Lúa Duyên Trăng](https://open.spotify.com/track/4FtxhwPM6EnuAvWTfSh2zD) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Huynh That](https://open.spotify.com/artist/5QpW2yyV617XwROzHkqGzB) | [Tâm Sự Nàng Xuân](https://open.spotify.com/album/7girI5OMh6o8ft6DUiAp9B) | 4:35 | 2022-05-12 | 2022-07-16 |
 | [Tình Nhỏ Mau Quên](https://open.spotify.com/track/6nT25zd99pNhLRDfuUVeis) | [Nam Cuong](https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA), [Ngọc Liên](https://open.spotify.com/artist/7DJMiXpr6bRhOvkvMO479r) | [Tình Nhỏ Mau Quên](https://open.spotify.com/album/3BDJOmAgf8CXxp1KxdkGkh) | 3:52 | 2022-05-12 | 2022-07-29 |
 | [Tình Nhỏ Mau Quên](https://open.spotify.com/track/1EbchMb3W81Qj6m6ftU1EQ) | [Nam Cường](https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA), [Ngọc Liên](https://open.spotify.com/artist/6xaXA45aKi0Up6xbS8pfqO) | [Tình Nhỏ Mau Quên](https://open.spotify.com/album/65vgee8zpVyhx9j40LU9fa) | 3:52 | 2022-07-15 |  |
@@ -114,6 +115,7 @@
 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:33 | 2022-07-15 |  |
 | [Tết Hết Ga](https://open.spotify.com/track/4pgAxk2aNyxT7Yun9z2Ipz) | [Hoàng Lan](https://open.spotify.com/artist/6gXYhFIsjEGdcXcw4cRRP9), [Hào JK](https://open.spotify.com/artist/1NHHWa4xi8t3LIoOFtyCQu), [SinKra](https://open.spotify.com/artist/2T5dRhMqYYZCEx7zwRd9yP) | [Tết Hết Ga](https://open.spotify.com/album/0itVyG6JYyo1G9ml5yOwk6) | 3:24 | 2024-01-23 |  |
 | [Tết Về Miền Tây](https://open.spotify.com/track/07VnCAzjNOeKQZkWaC6UGE) | [Sona](https://open.spotify.com/artist/350AkrG58FEwakiQekOcZz) | [Tết Về Miền Tây](https://open.spotify.com/album/772mRepAs67iZ1rFgdpfBi) | 3:51 | 2023-01-18 |  |
+| [Về Miền Tây](https://open.spotify.com/track/5aGK4NYBqRQET6S0ZlGBKj) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Về Miền Tây](https://open.spotify.com/album/0zprVApNTxzbO8qipA7eZB) | 4:54 | 2024-01-25 |  |
 | [Về Nhà Đón Tết \- Solo Version](https://open.spotify.com/track/7Hy8fTfzJbtFDOhdLkDcvW) | [Võ Lê Mi](https://open.spotify.com/artist/1nrrnXuQWnuPEp6dHLXmgl) | [Về Nhà Đón Tết \(Solo Version\)](https://open.spotify.com/album/1RbIjqpNkpdYieHIVAg9Jh) | 3:24 | 2024-01-23 |  |
 | [Về Quê Ngoại](https://open.spotify.com/track/5oMCJAEW84GfIQ7NRk3JY9) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Nếu Đời Không Có Anh](https://open.spotify.com/album/5OBNE2Vuts89PIIvg7oWHN) | 5:51 | 2022-05-12 | 2024-01-24 |
 | [Về Quê Thăm Mẹ](https://open.spotify.com/track/5dS9CTGdzW1I3avG0KOtPF) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Về Quê Thăm Mẹ](https://open.spotify.com/album/7Kr1dZVpV99Cy3pprFOKvQ) | 4:47 | 2022-05-12 |  |

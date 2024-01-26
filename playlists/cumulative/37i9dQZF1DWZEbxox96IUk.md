@@ -4,7 +4,7 @@
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-65 songs - 4 hr 26 min
+67 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 | 2022-05-23 |  |
 | [Cœur de loup](https://open.spotify.com/track/3lwX10MDUwGfSzuwIfQAln) | [Philippe Lafontaine](https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu) | [Fa ma no ni ma \(Edition deluxe\)](https://open.spotify.com/album/5NDfxqZW5fxE98qkqpBlJd) | 3:42 | 2022-05-23 |  |
 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 | 2022-05-23 |  |
-| [Dès que le vent soufflera](https://open.spotify.com/track/4fUWOQk8Qk0KjRxQ0FH0zp) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 4:24 | 2022-05-23 |  |
+| [Dès que le vent soufflera](https://open.spotify.com/track/4fUWOQk8Qk0KjRxQ0FH0zp) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 4:24 | 2022-05-23 | 2024-01-26 |
+| [Dès que le vent soufflera](https://open.spotify.com/track/66oUD4UVvC2DsPaKzw8sJy) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 4:27 | 2023-12-13 |  |
 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [best of jeanne mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 | 2022-05-23 |  |
 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 | 2022-05-23 |  |
 | [Femme libérée](https://open.spotify.com/track/7H90dG9HiJ05b5NMNccm5C) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Stars 80 l’album anniversaire !](https://open.spotify.com/album/59fkKgFk49BHq1tgTBpVtb) | 3:44 | 2022-05-23 |  |
@@ -43,7 +44,8 @@
 | [Les brunes comptent pas pour des prunes](https://open.spotify.com/track/0m3nRJ6mqWIY4LRvuy98n7) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Pop Model](https://open.spotify.com/album/3wkTAR7eZXOmh7TZcpJzD5) | 3:09 | 2022-05-23 |  |
 | [Les Démons De Minuit](https://open.spotify.com/track/3aH9h8vb1pAprXf9EQLiwp) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Le Best Of](https://open.spotify.com/album/2T2U1wGRh944He0lb0pmbt) | 3:27 | 2022-05-23 | 2023-12-14 |
 | [Les démons de minuit \(Version single\)](https://open.spotify.com/track/4ePsPRmL0aXbgCY2BwOBGZ) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit \- EP](https://open.spotify.com/album/3tiEnone5M9hFCnmk9j6xj) | 3:56 | 2023-12-13 |  |
-| [Les lacs du Connemara](https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Les Lacs Du Connemara](https://open.spotify.com/album/3pTPQbaS5vKxke6Edvnlen) | 6:03 | 2022-05-23 |  |
+| [Les lacs du Connemara](https://open.spotify.com/track/1qqZp3jIXNctfD4oOhN6Ef) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Long Box](https://open.spotify.com/album/1BezUoM2R3WDKFk3CUhqWS) | 6:03 | 2023-12-13 |  |
+| [Les lacs du Connemara](https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Les Lacs Du Connemara](https://open.spotify.com/album/3pTPQbaS5vKxke6Edvnlen) | 6:03 | 2022-05-23 | 2024-01-26 |
 | [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 | 2022-05-23 |  |
 | [Libertine](https://open.spotify.com/track/1zlYAnYJD7TzHiXnA6oQEW) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Libertine](https://open.spotify.com/album/2nkqzj7uKomG5q4UHV2EGi) | 3:46 | 2022-05-23 |  |
 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 | 2022-05-23 |  |

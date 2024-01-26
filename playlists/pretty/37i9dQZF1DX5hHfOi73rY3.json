@@ -1,12 +1,12 @@
 {
-  "description": "Party anthems from the club to your ears!",
-  "num_followers": 278904,
+  "description": "Dance anthems from the club to your ears!",
+  "num_followers": 278955,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTliMTIxMzJlOTZlN2IyYjk2NzMwNjBhMWNhNWViYzZhM2MxODBk",
+  "snapshot_id": "MCw3MjFlZTlkNjgwZDEwYjY2MzZlNWJiMzEwNjA4MjI3MTRlZTMzNTA2",
   "tracks": [
     {
       "added_at": "2024-01-17 11:59:16",
@@ -117,20 +117,24 @@
       "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
     },
     {
-      "added_at": "2024-01-17 11:59:16",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Au Seve",
-        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
+        "name": "Take You On",
+        "url": "https://open.spotify.com/album/7I6qpO1jTxMunIMw3zghgr"
       },
       "artists": [
         {
-          "name": "Julio Bashmore",
-          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+          "name": "Josh Burnett (UK)",
+          "url": "https://open.spotify.com/artist/5OazACOH1YtPTkxiqTtILW"
+        },
+        {
+          "name": "ACT ON",
+          "url": "https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz"
         }
       ],
-      "duration_ms": 393387,
-      "name": "Au Seve",
-      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
+      "duration_ms": 165581,
+      "name": "Take You On",
+      "url": "https://open.spotify.com/track/07VI6sdD2s7hzPEezIMtiT"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -149,20 +153,24 @@
       "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
     },
     {
-      "added_at": "2024-01-17 11:59:16",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
       },
       "artists": [
         {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 288919,
-      "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
-      "url": "https://open.spotify.com/track/4vSsMRGjCez8mriReBzGD1"
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -489,20 +497,24 @@
       "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
-      "added_at": "2024-01-17 11:59:16",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
         }
       ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -539,6 +551,22 @@
     {
       "added_at": "2024-01-17 11:59:16",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2024-01-17 11:59:16",
+      "album": {
         "name": "Be Sharp Say Nowt",
         "url": "https://open.spotify.com/album/2Oc9mE5qOn4ft9hym2XJMw"
       },
@@ -551,22 +579,6 @@
       "duration_ms": 228571,
       "name": "Be Sharp Say Nowt - Edit",
       "url": "https://open.spotify.com/track/0j7O38949INodwi5ppDvFe"
-    },
-    {
-      "added_at": "2024-01-17 11:59:16",
-      "album": {
-        "name": "Back in Flight School",
-        "url": "https://open.spotify.com/album/0oQdjr3Ji8GpgMdJn5HETM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Campbell",
-          "url": "https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC"
-        }
-      ],
-      "duration_ms": 282598,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/1SUrmTCQHkcS5GZaQVWq0y"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -591,6 +603,22 @@
     {
       "added_at": "2024-01-17 11:59:16",
       "album": {
+        "name": "Back in Flight School",
+        "url": "https://open.spotify.com/album/0oQdjr3Ji8GpgMdJn5HETM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Campbell",
+          "url": "https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC"
+        }
+      ],
+      "duration_ms": 282598,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/1SUrmTCQHkcS5GZaQVWq0y"
+    },
+    {
+      "added_at": "2024-01-17 11:59:16",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
@@ -603,6 +631,22 @@
       "duration_ms": 198508,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -843,42 +887,6 @@
       "duration_ms": 301600,
       "name": "In For The Kill - Skream's Let's Get Ravey Remix",
       "url": "https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD"
-    },
-    {
-      "added_at": "2024-01-17 11:59:16",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/6zwUPGMAnjh2PLxfVDTdnf"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 359297,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
-    },
-    {
-      "added_at": "2024-01-17 11:59:16",
-      "album": {
-        "name": "Nothing Better",
-        "url": "https://open.spotify.com/album/6Ry6CCA0LD7gTqIf4xIX0e"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 218639,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/6qMHCyhQPPVQaadEHAsoJW"
     }
   ],
   "unique_name": "Warehouse Party",

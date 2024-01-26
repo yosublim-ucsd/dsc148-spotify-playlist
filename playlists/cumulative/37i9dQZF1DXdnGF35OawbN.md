@@ -2,7 +2,7 @@
 
 ### [Verano Forever](https://open.spotify.com/playlist/37i9dQZF1DXdnGF35OawbN)
 
-> El soundtrack del verano 2023 🏝️ Cover: KAROL G
+> El soundtrack del verano 2024 🏝️ Cover: KAROL G
 
 263 songs - 14 hr 20 min
 

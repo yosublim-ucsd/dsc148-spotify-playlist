@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-200 songs - 11 hr 31 min
+201 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 | 2023-11-16 |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 | 2023-09-26 |
 | [Vibe](https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq) | [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw), [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3) | [Vibe](https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V) | 3:13 | 2023-10-12 |  |
-| [Vittu Pogathae](https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT) | [Ramana](https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K) | [Vittu Pogathae](https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe) | 3:56 | 2023-11-15 |  |
+| [Vittu Pogathae](https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT) | [Ramana](https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K) | [Vittu Pogathae](https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe) | 3:56 | 2023-11-15 | 2024-01-26 |
+| [Vittu Pogathae](https://open.spotify.com/track/6pu4KNePO0edNqetGR8AEb) | [Ramana](https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K) | [Vittu Pogathae](https://open.spotify.com/album/3p5qiorY1mbwd1VreBAbcU) | 3:56 | 2023-11-15 |  |
 | [Vizhigalil Aasa](https://open.spotify.com/track/0M3vAjj63SOIIlfBr3Ts7M) | [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT) | [Vizhigalil Aasa](https://open.spotify.com/album/5Sb2VNYMrRVWAcO1KtOsso) | 4:02 | 2023-10-04 | 2024-01-07 |
 | [Vizhigalil Aasa \(From “Flames”\)](https://open.spotify.com/track/0qJyvMQ9VyX2jC0nPzC9yI) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6), [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Vizhigalil Aasa \(From "Flames"\)](https://open.spotify.com/album/3JleVlUVyrEYQAAf7IUOGN) | 4:02 | 2023-10-04 |  |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 | 2024-01-24 |

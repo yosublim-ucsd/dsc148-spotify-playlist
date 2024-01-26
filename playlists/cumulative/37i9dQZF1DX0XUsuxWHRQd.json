@@ -20487,6 +20487,28 @@
     },
     {
       "album": {
+        "name": "The Otha Side of the Trap",
+        "url": "https://open.spotify.com/album/73uzDr68dMgYY76VfJsBi6"
+      },
+      "artists": [
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258746,
+      "name": "Make tha Trap Say Aye (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/5fst2COuMGJQ7PzSRYGVj5"
+    },
+    {
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/2JNmVgpBCt1nnobJ3Mvzim"
       },

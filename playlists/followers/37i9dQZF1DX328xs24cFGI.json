@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 154436,
+  "2024-01-26": 154458,
   "date_first_scraped": "2023-02-14",
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
@@ -2026,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "Ultra C",
+        "url": "https://open.spotify.com/album/3Z5cEIcR6IrrTGw7BngETM"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u91ce\u7814\u592a\u6717",
+          "url": "https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179281,
+      "name": "Ultra C",
+      "url": "https://open.spotify.com/track/6sGgy2vdkDQxFsc4yRFj3V"
+    },
+    {
+      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
       },
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 179281,
       "name": "\u30a6\u30eb\u30c8\u30e9C",
       "url": "https://open.spotify.com/track/0141anOpsF7yGIsNtbvooz"

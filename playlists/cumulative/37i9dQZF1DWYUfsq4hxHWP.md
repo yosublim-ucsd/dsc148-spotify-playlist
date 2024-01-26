@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Kelsey Hart, Artwork: Fanélie Muselier
 
-2,088 songs - 4 day 17 hr 22 min
+2,092 songs - 4 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Always Known](https://open.spotify.com/track/6a6N51A7NV4xHkUH6o6Val) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Always Known](https://open.spotify.com/album/1PhReRL1AHGgw3ANMHDK4B) | 2:39 | 2022-11-02 | 2023-01-20 |
 | [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 | 2023-03-22 | 2023-05-11 |
 | [American Dirt](https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [American Dirt](https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7) | 3:02 | 2023-04-05 | 2023-05-18 |
+| [american dream](https://open.spotify.com/track/6Koj5ejCeCF8yoxqql8lb2) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [dear dolly](https://open.spotify.com/album/6t9kuRQWETA62U9tUH2Qxi) | 3:24 | 2024-01-25 |  |
 | [American Spirit](https://open.spotify.com/track/3zUnBXfvEXrFfiOLAx32s8) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [American Spirit](https://open.spotify.com/album/5R1id9x1OY0vnIPVKSxSyv) | 3:40 | 2022-10-12 | 2022-12-01 |
 | [Angela](https://open.spotify.com/track/4sEojVU7y6f05BCZehv9Tt) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Angela](https://open.spotify.com/album/7DxAj4kh0QOMarpfc0z8TM) | 2:45 | 2023-02-15 | 2023-03-23 |
 | [Angels In A Bar](https://open.spotify.com/track/2pme5tC5L56rYMNCMEIQuB) | [Nick Haynes](https://open.spotify.com/artist/4ptyV8u5XDaOlX0lifT7cr) | [Angels In A Bar](https://open.spotify.com/album/4LeJlpyLxJPCGfX1ovF2mf) | 3:36 | 2022-02-23 | 2022-04-07 |
@@ -616,6 +617,7 @@
 | [Fell In Love Again](https://open.spotify.com/track/2uQTkpNFf5EQ4rQJ2glxkK) | [Kyle Coulahan](https://open.spotify.com/artist/3IdOgOU1lVWJMqpKYJQCD6) | [Fell In Love Again](https://open.spotify.com/album/6kvfyYChMpg93IOkc4pLBx) | 3:39 | 2022-07-20 | 2022-08-18 |
 | [Fences](https://open.spotify.com/track/1m09N7oG6VPvKt64totSrx) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Fences](https://open.spotify.com/album/06kSYPE413cF0P4TJYsZRK) | 2:46 | 2023-10-04 | 2023-11-30 |
 | [Fight](https://open.spotify.com/track/5E1sCWlVUA6nNqvCwN7Hij) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Fight](https://open.spotify.com/album/6X0qAlTzZymQvem40fB0fo) | 3:36 | 2023-05-03 | 2023-06-22 |
+| [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-01-25 |  |
 | [Fine Line](https://open.spotify.com/track/6x65rzPIbTNgRjSXBwvmFs) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Fine Line](https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3) | 3:31 | 2022-03-30 | 2022-05-12 |
 | [Fine Without You](https://open.spotify.com/track/178n3WsHFIPeSDZoS70QD2) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Fine Without You](https://open.spotify.com/album/3PStd97C3cl4A5D491RWgK) | 2:05 | 2023-05-24 | 2023-07-27 |
 | [Finer Things](https://open.spotify.com/track/7c3oOHaPi1XRXA1ippRlLT) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Finer Things](https://open.spotify.com/album/2baTEApKglLijlTt5Ma2I8) | 2:56 | 2023-11-08 | 2023-11-30 |
@@ -650,6 +652,7 @@
 | [Forget About That](https://open.spotify.com/track/6ju0BBOqtojukKrgoJ30QC) | [Danny McMahon](https://open.spotify.com/artist/3Y5TQboNx3Zz6uLDQcFXA1) | [Forget About That](https://open.spotify.com/album/2kC6TAdM3WeLf83vIEQwY0) | 3:20 | 2022-11-30 | 2023-01-12 |
 | [Forget Me Not](https://open.spotify.com/track/5FFTK4T2BQyV1RQBULD5Uw) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Forget Me Not](https://open.spotify.com/album/13Dya0yuWvGBLn19IA0DUA) | 2:57 | 2023-01-25 | 2023-03-02 |
 | [Forget You](https://open.spotify.com/track/1WLDrAPFuq8ipBHlTuosRM) | [Zindee](https://open.spotify.com/artist/5Tjjsn0WdK3oJ2rHtVhWDy), [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Forget You](https://open.spotify.com/album/6AVJuPIjYC9pPnszfhVm09) | 2:23 | 2022-01-12 | 2022-01-20 |
+| [Friday After Midnight](https://open.spotify.com/track/5GA3u8KiIL1x4Iddm61LgQ) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Friday After Midnight](https://open.spotify.com/album/5x4FgF26zS8ue3pKuboain) | 3:51 | 2024-01-25 |  |
 | [Friends](https://open.spotify.com/track/5IHJbcaNA7Vaol0Eyb2z8g) | [Sylvia Aimee](https://open.spotify.com/artist/1RDuJ4WLsdSCAuft8dwt5P) | [Friends](https://open.spotify.com/album/3MDoJKMcLzaLLEuvScTdvf) | 3:51 | 2022-01-26 | 2022-03-10 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2022-10-05 | 2022-12-01 |
 | [From Where I'm Standing](https://open.spotify.com/track/0T9MHZrk0HADSHeFZr4TAY) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [From Where I'm Standing](https://open.spotify.com/album/6TeLYtf5mXdJ9yObYpw0E6) | 2:43 | 2023-05-03 | 2023-06-08 |
@@ -1058,6 +1061,7 @@
 | [Last Breath](https://open.spotify.com/track/0BmplI42wcvjzdAqJYebtB) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [On the Edge](https://open.spotify.com/album/6WMhtp5CrthQXMpOeWpLdB) | 3:48 | 2022-11-09 | 2023-01-26 |
 | [Last Call](https://open.spotify.com/track/5Cy3p7rHADiFtFKQb4PIO5) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Last Call](https://open.spotify.com/album/7Kqg2ZlhwPl4WpBIDuPBMV) | 2:28 | 2023-05-10 | 2023-07-20 |
 | [Last Call Last](https://open.spotify.com/track/6kayGg0oExDfXnFkTqp97B) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Last Call Last](https://open.spotify.com/album/3RBNJV4pLA6DVP1xNlqL8t) | 3:04 | 2023-03-29 | 2023-05-11 |
+| [Last Frontier](https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Last Frontier](https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt) | 3:28 | 2024-01-25 |  |
 | [Last Name on It](https://open.spotify.com/track/3AwQsbPF5SHEOtyRxuAABR) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Last Name on It](https://open.spotify.com/album/39ue09McDKRS7RwEPzFd2L) | 2:30 | 2022-06-29 | 2022-07-28 |
 | [Last Ones Up](https://open.spotify.com/track/38Ih6qjNGvyT4p2ftir5ou) | [Nicole Rayy](https://open.spotify.com/artist/5R1hcGaJHZ8vhRFaXsgvSC) | [Last Ones Up](https://open.spotify.com/album/5EvUluqvADZuLUHgIV5yyy) | 3:05 | 2022-06-29 | 2022-07-21 |
 | [Last Place I Want To Be](https://open.spotify.com/track/3ujflVU6iW4uA8dXCDC0DQ) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [Last Place I Want To Be](https://open.spotify.com/album/3RYYiRLySMiNcYVGtUNt9a) | 3:52 | 2022-01-12 | 2022-02-10 |

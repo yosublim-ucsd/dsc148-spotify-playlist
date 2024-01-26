@@ -4,7 +4,7 @@
 
 > New music each and every Friday\. <br/>Featuring some of our 2024 Artists to Watch across all genres!<br/> Cover: <a href="spotify:artist:5R1cUyk9ysrruOo4ErpGjg">LU KALA</a>
 
-2,674 songs - 5 day 13 hr 59 min
+2,675 songs - 5 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,7 +933,8 @@
 | [GIRLS](https://open.spotify.com/track/2Zx1sLVaoXv77kXEdF2iWz) | [Henri B\. Styles](https://open.spotify.com/artist/322ZqKAZhbx2sOuoU3nZqG) | [GIRLS](https://open.spotify.com/album/6mUclasFxgQDWXX9AZY8LH) | 2:34 | 2022-03-25 | 2022-04-16 |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-16 | 2023-01-14 |
 | [Girls Need Love \(Girls Mix\) \(feat\. Tink\)](https://open.spotify.com/track/2PTAhrQZGzK3Ev0Sa4btfz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 | 2023-10-20 | 2023-11-30 |
-| [Give It Time](https://open.spotify.com/track/2XvDCdT2I95gTEDMCTQhbJ) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/1DAN7ryKXvXXlcbn3YE6dW) | 2:53 | 2023-11-03 |  |
+| [Give It Time](https://open.spotify.com/track/0CljtNOUMlgPjnRFxVDcPS) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Honestly, We Just Need Jesus](https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz) | 2:53 | 2024-01-19 |  |
+| [Give It Time](https://open.spotify.com/track/2XvDCdT2I95gTEDMCTQhbJ) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/1DAN7ryKXvXXlcbn3YE6dW) | 2:53 | 2023-11-03 | 2024-01-26 |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 | 2023-05-20 |
 | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0) | 2:22 | 2022-08-19 | 2022-09-10 |
 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 | 2022-11-11 | 2022-12-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 153173,
+  "num_followers": 153217,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUwMGExZGM0NzVjZjI3MDlhMTUzZWU1NmY1ZTEyZWI1YzhjNjIy",
+  "snapshot_id": "MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "The Fantastic Expedition Of Dillard & Clark (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF"
-      },
-      "artists": [
-        {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Train Leaves Here This Mornin",
-      "url": "https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
         "name": "Austinology - Alleys of Austin",
         "url": "https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 256106,
       "name": "Cosmic Cowboy",
       "url": "https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Fantastic Expedition Of Dillard & Clark (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Train Leaves Here This Mornin",
+      "url": "https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ"
     },
     {
       "added_at": "2020-08-05 15:52:11",

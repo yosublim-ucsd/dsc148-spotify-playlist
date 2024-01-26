@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 90031,
+  "num_followers": 90098,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzFiNmI0MWE5NzY5NGQzMjc3ZmUyYzljNjRlODZjMTdhYjFmNDk3",
+  "snapshot_id": "MCxlODZkNGJiNmY0NzBhYzI0MWQ2YWY4ODIwOWZjMjNkNDI4ZjQwMGM3",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -787,26 +787,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 265153,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/6aaC97briYYZqVPMSjvJOm"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
     },
     {
       "added_at": "2021-04-23 23:14:33",

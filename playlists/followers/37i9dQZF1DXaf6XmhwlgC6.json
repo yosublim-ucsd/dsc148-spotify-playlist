@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 63176,
+  "2024-01-26": 63252,
   "date_first_scraped": "2022-04-20",
   "description": "Music from the ether to focus and study to.",
   "name": "Atmospheric Focus",
@@ -165,6 +165,24 @@
       "duration_ms": 185571,
       "name": "Anthem for No State, Pt. I",
       "url": "https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr"
+    },
+    {
+      "album": {
+        "name": "Anticipation",
+        "url": "https://open.spotify.com/album/3Ug6zLk4vJ4V99LXOG3Wk2"
+      },
+      "artists": [
+        {
+          "name": "Space Access",
+          "url": "https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179055,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/2kquN2eOnCnY4oK8QiJvUd"
     },
     {
       "album": {
@@ -2143,6 +2161,24 @@
       "duration_ms": 147307,
       "name": "Loosen Up",
       "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
+    },
+    {
+      "album": {
+        "name": "Lose The Distraction",
+        "url": "https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD"
+      },
+      "artists": [
+        {
+          "name": "Distant Waves",
+          "url": "https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235776,
+      "name": "Lose The Distraction",
+      "url": "https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3"
     },
     {
       "album": {

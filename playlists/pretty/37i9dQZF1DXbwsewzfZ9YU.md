@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,117 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,179 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 14 | [Squintro](https://open.spotify.com/track/2QHV45Y0JnbiHAttqoefHC) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Feel It All Wash Away](https://open.spotify.com/album/1KKKwoAuiAaKnvPoQ40A3o) | 0:41 |
 | 15 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 |
 | 16 | [WORLD OF MALICE](https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [WORLD OF MALICE](https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn) | 3:24 |
-| 17 | [Snack Run](https://open.spotify.com/track/5YftK2fb0dnyoY88UvljS1) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 0:56 |
+| 17 | [Snack Run](https://open.spotify.com/track/4wPX5hYCAWO3t3Nd1m2Ayc) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/3DYCuD1bLsxXpXot6O4xpp) | 0:56 |
 | 18 | [Lifer](https://open.spotify.com/track/0DzHf51O0XvVEP5D40gEze) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [One Way Track](https://open.spotify.com/album/4IxCFOxIORp5RUQgsP8tdg) | 1:32 |
 | 19 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 |
 | 20 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 100 | [Apology Denied](https://open.spotify.com/track/4MzCYwWHfleM9HORAQNNbB) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5HEZd6pZmeCNT2Cn4PcA2G) | 2:21 |
 
-Snapshot ID: `MCxkMjYyMzU0OGEwMDIzOTM0MDM4MGMzODc1OTIyNDA0ODA4Mjk4ODQ2`
+Snapshot ID: `MCwzNzUxMTI5M2YxYzAwNThmMmU3MzkxNmEyMzVhYjY3NDRhNDRlMWYy`

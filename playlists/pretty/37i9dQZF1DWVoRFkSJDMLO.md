@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Asake 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,972 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,012 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 17 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
 | 18 | [Hotta](https://open.spotify.com/track/5nRbUg6RP7LjGx9gDAxPOO) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Dancehall Riddim: Rush](https://open.spotify.com/album/0fLKkhsA6XpMtCoW5QZyOA) | 3:25 |
 | 19 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 20 | [Top Tier](https://open.spotify.com/track/3ozgRIW4uVNhRFut62cYqv) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2iqxTzkrbzt0BlPB4AkXEY) | 3:13 |
+| 20 | [Top Tier](https://open.spotify.com/track/6fn8eO4pon16p90bSE63yI) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2UIJE0D59c2RRPYRjpRf6G) | 3:13 |
 | 21 | [LumSum](https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [LumSum](https://open.spotify.com/album/7iANuyu5V1UXLG7pRyvWdM) | 2:26 |
 | 22 | [PELÉ](https://open.spotify.com/track/7kLaAZeq4RM2akAkUhARaD) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [PELÉ](https://open.spotify.com/album/6GMuaFcxtBulAjHaz1Rlyo) | 2:55 |
 | 23 | [Block Delete](https://open.spotify.com/track/34SQSpmW2m6Pmtigsiz4ya) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Block Delete](https://open.spotify.com/album/4b8P2KSA22bfbsJcP6MFO0) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Waiting](https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Beauty & Bliss](https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL) | 3:26 |
 | 100 | [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 |
 
-Snapshot ID: `MCxmMDliODM1MzE0NTgyM2I2ZTNjMDA1YmNiYWQ1NGEyMDcxY2ViZDll`
+Snapshot ID: `MCw1NzFkZDUxYjk2ZjVhMzZhOTJkZGJkMDk2MzYyZjNiMTRmZTRhZTMx`

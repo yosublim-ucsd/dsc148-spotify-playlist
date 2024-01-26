@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:7jS2YufaCykbNcmGLq37Wl">Julita Ziela Zielińska</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,949 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,947 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [NIE MA NIC ZA DARMO / MIEJSKI SYF](https://open.spotify.com/track/1gSyLEmBaTPUaIzrALt4Hr) | [$andro](https://open.spotify.com/artist/3qgIvOMz1aQ5LoWDTKxfbA), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [EFEKT MOTYLA](https://open.spotify.com/album/5nrsuDRFwagMoMTMyQc4Ip) | 3:37 |
 | 100 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCwxMjAyNjhhNTczNTkyZDk4ZmI3MWMzNDExNmI0MDRmNjAzZTVkYjli`
+Snapshot ID: `MCxhMzRkZjlkYTliM2JmOThhZTVhMWNlMmZkNTVjMTM3M2QzZTg4NTRl`

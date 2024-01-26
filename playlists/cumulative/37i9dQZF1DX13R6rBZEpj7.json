@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
+  "description": "Turn up the volume for some filthy bassline! ",
   "name": "Bassline Bangers",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221818,
       "name": "Barrington",
       "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
@@ -1368,6 +1368,24 @@
       "duration_ms": 223384,
       "name": "Duppy Them",
       "url": "https://open.spotify.com/track/0OnhVr0XzJlzGANtXwwS9D"
+    },
+    {
+      "album": {
+        "name": "Easy for them",
+        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
     },
     {
       "album": {
@@ -2983,6 +3001,28 @@
     },
     {
       "album": {
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
+    },
+    {
+      "album": {
         "name": "Mock Man (The VIP)",
         "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
@@ -3196,7 +3236,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
@@ -4201,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "T Dub",
+        "url": "https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9"
+      },
+      "artists": [
+        {
+          "name": "Luca T",
+          "url": "https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "T Dub",
+      "url": "https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4FuLhNgsflh3RNznQljG6p"
       },
@@ -4634,7 +4692,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"

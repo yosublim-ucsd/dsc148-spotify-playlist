@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 206772,
+  "num_followers": 206825,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E0NjUwZDg1ODA0MmJiYjY5MDkyYWJhZjg3YmFhYTQ4YzAxZjJl",
+  "snapshot_id": "MCxiMmM4ZTNiMDA4ZDZmN2E1YWE0MzA3Yzk4Y2ZmNWQ4NDQyZWY2MTBl",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 169493,
       "name": "Fuertemente",
       "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "FOREVER MAZZ",
-        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "30 Exitos Insuperables",
         "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 236293,
       "name": "Que Me Lleven Canciones",
       "url": "https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "FOREVER MAZZ",
+        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
     },
     {
       "added_at": "2023-03-10 18:44:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Faridkot
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,462 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,516 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 |
 | 3 | [Dil Kya Kare](https://open.spotify.com/track/05cPakbRjt3D3Zsn8HqXDS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Dil Kya Kare](https://open.spotify.com/album/23mkzLZ198waE7RzeA14m5) | 3:17 |
 | 4 | [Kaala Doriyaa](https://open.spotify.com/track/02dWjHFf7JhbqZh2HsLIo8) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Kaala Doriyaa](https://open.spotify.com/album/3INC2colH1nJtjnAqd8T8z) | 3:00 |
-| 5 | [Guzarish](https://open.spotify.com/track/1ml7kZvV4191rBiHTQN55G) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Guzarish](https://open.spotify.com/album/6YYGKMWkthTtwvBDhYuOUt) | 4:41 |
+| 5 | [Guzarish](https://open.spotify.com/track/1ml7kZvV4191rBiHTQN55G) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi), [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm) | [Guzarish](https://open.spotify.com/album/6YYGKMWkthTtwvBDhYuOUt) | 4:41 |
 | 6 | [Dastaan](https://open.spotify.com/track/0FoOOfeZbNo5v5MV7lyuHt) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dastaan](https://open.spotify.com/album/3Vylr62eULCsEtRjJjohbp) | 3:47 |
 | 7 | [Ruki Ruki Si](https://open.spotify.com/track/5heQAgYkqdLwDS5uDbtoXB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Ruki Ruki Si](https://open.spotify.com/album/6QGePohRZFlxfnk7Vg2fd3) | 3:46 |
 | 8 | [Jaadu Tone](https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaadu Tone](https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 44 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
 | 45 | [Door Aa Gaye](https://open.spotify.com/track/47IzfVVQs2orvksB1CGRvO) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Door Aa Gaye](https://open.spotify.com/album/7iQX4kragcaOI5gXsooG25) | 3:31 |
 | 46 | [Jawaab](https://open.spotify.com/track/25jISSHAd4q2CVTsO7EHJM) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Jawaab](https://open.spotify.com/album/3EXXgHH9BV9zelYJwKX5Kd) | 3:27 |
-| 47 | [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 |
+| 47 | [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 |
 | 48 | [Baarish Ke Aane Se](https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Baarish Ke Aane Se](https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7) | 4:00 |
 | 49 | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 |
 | 50 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 
-Snapshot ID: `MCxiYTMxMDkzOGEwZGFlZGU0NjMyZDUwODhhZjhkMWFiN2M5ODhmYmE3`
+Snapshot ID: `MCxkOGQ1MWY2YTkyY2JlZGE3NjdjNGRlNTBhZGQ1ODEzMWVmN2I2MDc3`

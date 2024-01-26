@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778,459 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,778,369 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Iced Tea](https://open.spotify.com/track/2dYbHSzgmr1175Dx2F9Hi9) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Iced Tea](https://open.spotify.com/album/4OTh7RQnEGvLNpqf33PYoy) | 2:34 |
 | 100 | [Going Crazy](https://open.spotify.com/track/6Shif3zQ84HcpovpwOuaR8) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Going Crazy](https://open.spotify.com/album/3xuMDBizmfgxu8RQ4CEqBc) | 2:36 |
 
-Snapshot ID: `MCw1N2UyNTI5NmNkZDQyZGE2MGIyZWY1MDhiNDFiNzVkZTI5ZWE0YmEz`
+Snapshot ID: `MCwwMWY1MTIxYzFlYTUwMGZlODRhOGQ2YzhmZWNlNjViM2E2MDU3ZTJi`

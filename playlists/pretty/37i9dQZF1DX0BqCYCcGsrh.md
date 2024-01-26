@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,802 likes - 86 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,856 likes - 86 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 | 85 | [Togenkyo](https://open.spotify.com/track/3117ksBuuIMssckgp86GNg) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5) | 4:03 |
 | 86 | [Utakata\-Uta](https://open.spotify.com/track/0LuR4Vb01bsraV1mWChElX) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [FOREVER DAZE](https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5) | 6:06 |
 
-Snapshot ID: `MCxhMDM1M2Q4ZTgzNjE3ZmU2ODk0NDFlZGM1YWQ5N2E5YTEzYWQzOGVi`
+Snapshot ID: `MCxhNmU5OGVjY2QxOGRjZDQ3ZmUyNzUxMWYzZjkwZTdhN2JhN2U5NzJk`

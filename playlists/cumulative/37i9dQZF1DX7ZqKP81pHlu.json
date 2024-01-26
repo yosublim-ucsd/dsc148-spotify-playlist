@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 246857,
       "name": "7CHOUMA",
       "url": "https://open.spotify.com/track/797McgitlHovktyFPMDZYc"
@@ -2166,6 +2166,24 @@
       "duration_ms": 294523,
       "name": "Machafouhach",
       "url": "https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0"
+    },
+    {
+      "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/0hqUvpyWBY0cdRZ0TxdzZk"
+      },
+      "artists": [
+        {
+          "name": "Amoune Talens",
+          "url": "https://open.spotify.com/artist/43mogRFYKNNGyFY4ZHUZ5v"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/32C8CgqPSjt92WU8ngGDMX"
     },
     {
       "album": {

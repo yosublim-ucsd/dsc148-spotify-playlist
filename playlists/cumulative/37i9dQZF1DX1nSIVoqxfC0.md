@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-348 songs - 23 hr 52 min
+349 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Walking On Clouds](https://open.spotify.com/track/5Dx4wEpUGIdoSPNYoLVrmr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 7:27 | 2020-10-20\* | 2022-07-29 |
 | [Walls \(feat\. Quilla\) \[Original Mix\]](https://open.spotify.com/track/227i5FjbQe5jjXqcvQbYmY) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Sultan](https://open.spotify.com/artist/7keTxAoT25sOIuKKfFizGT), [Quilla](https://open.spotify.com/artist/24psFjsCyZlTjAccGnZbaJ) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 6:06 | 2020-10-20\* | 2023-04-20 |
 | [Wasted](https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 3:10 | 2020-10-20\* |  |
+| [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-25 |  |
 | [We Own the Night \(feat\. Luciana\) \[Original Mix\]](https://open.spotify.com/track/6ns18ZPBRy4B4n06cplufL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-10-20\* | 2023-04-20 |
 | [We Rock \- Original Mix](https://open.spotify.com/track/1cFTe7shcc1XjYL7eTm2tq) | [Boys Will Be Boys](https://open.spotify.com/artist/0tT4T9TlpCoNesEgYcIURW) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 5:00 | 2020-10-20\* | 2023-04-20 |
 | [We Want Your Soul \- Thomas Gold Remix](https://open.spotify.com/track/0j5bIfMw1s4B80o6M01N96) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:30 | 2020-10-20\* | 2023-04-20 |

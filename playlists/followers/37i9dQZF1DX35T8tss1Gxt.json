@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 228603,
+  "2024-01-26": 228753,
   "date_first_scraped": "2022-02-25",
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
   "name": "Rhythm & Praise",
@@ -595,7 +595,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 220000,
       "name": "Armor",
       "url": "https://open.spotify.com/track/4FE0pyeci5eZpJuTVE6s9C"
@@ -4235,6 +4235,28 @@
       "duration_ms": 248008,
       "name": "Jesus Will Fix It (Trouble In My Way)",
       "url": "https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
+      },
+      "artists": [
+        {
+          "name": "William Demps",
+          "url": "https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242181,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
     },
     {
       "album": {

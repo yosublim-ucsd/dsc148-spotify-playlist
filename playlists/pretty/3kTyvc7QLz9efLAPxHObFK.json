@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "MTE1NywyMGQ5YWQwNWZkNDkzNGM0MzAxZDdkNzMwMGZhN2U0MzhhMzk5Mjcy",
+  "snapshot_id": "MTE1OSxhY2I0YjMyZTRmNWM4Y2FlOTQ0MGI5MDVlMmVhN2I4YTVlNDY2M2Uw",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -20871,6 +20871,42 @@
       "duration_ms": 240003,
       "name": "Blue Moment",
       "url": "https://open.spotify.com/track/3ib0h4ydtAEPSqkdBmHKIO"
+    },
+    {
+      "added_at": "2024-01-25 14:43:32",
+      "album": {
+        "name": "JUST DANCE HARDSTYLE (Sped Up)",
+        "url": "https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip"
+      },
+      "artists": [
+        {
+          "name": "Mr. Glass",
+          "url": "https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "JUST DANCE HARDSTYLE (Sped Up)",
+      "url": "https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a"
+    },
+    {
+      "added_at": "2024-01-25 15:55:19",
+      "album": {
+        "name": "Faded (Vexxed Remix)",
+        "url": "https://open.spotify.com/album/03lAo2bYlBxj59urKC7sks"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        }
+      ],
+      "duration_ms": 211522,
+      "name": "Faded - Vexxed Remix",
+      "url": "https://open.spotify.com/track/2gkkqsPru8KF3voVHJ4kZp"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",

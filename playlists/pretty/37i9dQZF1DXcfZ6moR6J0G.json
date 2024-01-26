@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1844221,
+  "num_followers": 1844860,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRjMjc0NjUzMmM5ZDM3YTc1ZmMwMzU0MmY1NjIwZTQwM2UzMDcy",
+  "snapshot_id": "MCxkNmQ3NGMyZGRlNTM1ZmY2ZGIwYWE3N2YyODY4MWZmNzVkNDQwYzk0",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "The Reason (20th Anniversary)",
-        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "The Height of Callousness",
         "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
       "artists": [
         {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
+      "duration_ms": 193200,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
     },
     {
       "added_at": "2023-05-16 09:14:45",

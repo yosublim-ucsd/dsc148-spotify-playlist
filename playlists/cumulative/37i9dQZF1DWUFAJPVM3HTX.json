@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt?si=3jLSFVDJTTSTHQS0MmNYJw\"> Asal Hazel</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb?si=jraEHBgyRlaNp_SfIvL5pw\"> Jordyn Simone </a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "All in One Night",
+        "url": "https://open.spotify.com/album/64RvPtjD5L04dueXItaoIy"
+      },
+      "artists": [
+        {
+          "name": "Laz\u0101",
+          "url": "https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116896,
+      "name": "Baggage Claim",
+      "url": "https://open.spotify.com/track/4oe7JgPkyo9PS3iOxdZjwx"
+    },
+    {
+      "album": {
         "name": "Bags",
         "url": "https://open.spotify.com/album/2QQM5pI8KDCvDO1eazhoFk"
       },
@@ -6095,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "Church of Your Heart",
+        "url": "https://open.spotify.com/album/3fpLw6H8oJzH7hhfxQAto7"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179557,
+      "name": "Church of Your Heart",
+      "url": "https://open.spotify.com/track/1en85tnpEoOQUHAWQSFE9J"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2"
       },
@@ -7864,6 +7900,24 @@
       "duration_ms": 188687,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5QfotYYaDUP0QBwnzQc1P7"
+    },
+    {
+      "album": {
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/0Xd91r7d5clGqpmvwy3HRn"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207317,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/054Xmlb3SLNSC0efKryLcI"
     },
     {
       "album": {
@@ -11118,6 +11172,28 @@
       "duration_ms": 182337,
       "name": "Final Dance",
       "url": "https://open.spotify.com/track/39Z6LwZezDkLN4YcGezypr"
+    },
+    {
+      "album": {
+        "name": "find a way",
+        "url": "https://open.spotify.com/album/3UuKyc7XauNfZLhufwKqZt"
+      },
+      "artists": [
+        {
+          "name": "Prxd. Jay",
+          "url": "https://open.spotify.com/artist/2BXB6wbzCaQKOx0kP4sTip"
+        },
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206281,
+      "name": "find a way",
+      "url": "https://open.spotify.com/track/5Lx5LvDPKvNNjrSVmyYyoO"
     },
     {
       "album": {
@@ -14450,6 +14526,24 @@
       "duration_ms": 170000,
       "name": "History",
       "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
+    },
+    {
+      "album": {
+        "name": "NO DEMO LEFT UNHEARD",
+        "url": "https://open.spotify.com/album/51x0bq0jh1KjY52glK4Fo7"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "HOLD ME",
+      "url": "https://open.spotify.com/track/3XOFLRsIwG0Q5XrkETV3ZN"
     },
     {
       "album": {
@@ -18361,6 +18455,24 @@
     },
     {
       "album": {
+        "name": "LIE BACK HARDER",
+        "url": "https://open.spotify.com/album/4o6p4bcvWaLIxInauE5CvI"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122153,
+      "name": "LIE BACK HARDER",
+      "url": "https://open.spotify.com/track/7ho7R7emSd3bEPb1Rm0BZ6"
+    },
+    {
+      "album": {
         "name": "Lies (Wasted Time)",
         "url": "https://open.spotify.com/album/4x9ZZ4WojHsGu0tQWJg5qZ"
       },
@@ -20318,6 +20430,24 @@
       "duration_ms": 164188,
       "name": "Marvin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI"
+    },
+    {
+      "album": {
+        "name": "maryjane",
+        "url": "https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V"
+      },
+      "artists": [
+        {
+          "name": "KHYA",
+          "url": "https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "maryjane",
+      "url": "https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z"
     },
     {
       "album": {
@@ -23943,6 +24073,24 @@
     },
     {
       "album": {
+        "name": "thanKful",
+        "url": "https://open.spotify.com/album/4VwTnq9wV0aNgAfJQU67SJ"
+      },
+      "artists": [
+        {
+          "name": "Troy Tyler",
+          "url": "https://open.spotify.com/artist/07hgLDZPVB5N3xr3RrVRdK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177966,
+      "name": "Ooh Ahh",
+      "url": "https://open.spotify.com/track/2ZUun0otxgb1EIyXKiIynu"
+    },
+    {
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/39lXlhsZGg2qOJBj9ITNqZ"
       },
@@ -25554,6 +25702,24 @@
       "duration_ms": 154500,
       "name": "Pleure Pas",
       "url": "https://open.spotify.com/track/2lLALKVkfMCtomkxTKoiwM"
+    },
+    {
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/2M50puF495igIoiOXvbEgh"
+      },
+      "artists": [
+        {
+          "name": "Kimani",
+          "url": "https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/2mh3P3YvOQXwsSTzB62oLP"
     },
     {
       "album": {
@@ -28610,6 +28776,24 @@
       "duration_ms": 191707,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/6ulc6gwAFUBEhCd5BCF6yh"
+    },
+    {
+      "album": {
+        "name": "Sun Daughter",
+        "url": "https://open.spotify.com/album/51lCDyBz5bcSFyCD44wuQX"
+      },
+      "artists": [
+        {
+          "name": "MADELEINE",
+          "url": "https://open.spotify.com/artist/6MOSscAqWtCilwmEt4b5vm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210755,
+      "name": "See Me Too",
+      "url": "https://open.spotify.com/track/23lHAcn7a37XceXZROWF4H"
     },
     {
       "album": {
@@ -32883,6 +33067,24 @@
     },
     {
       "album": {
+        "name": "The Reason Why",
+        "url": "https://open.spotify.com/album/4vfuVy84G6Gg1V26E6Bvf5"
+      },
+      "artists": [
+        {
+          "name": "Quail P",
+          "url": "https://open.spotify.com/artist/6kOrV7zImC5ky0SwYzfqA3"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192911,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/29IooXrS45K8B8ZhVu50iA"
+    },
+    {
+      "album": {
         "name": "Je Sais",
         "url": "https://open.spotify.com/album/4jmw5Q6kxTnkLyY5mCY6Fv"
       },
@@ -33214,6 +33416,24 @@
       "duration_ms": 172799,
       "name": "Throw It Away",
       "url": "https://open.spotify.com/track/1Khn7WhtkBK8ixeI95Msxx"
+    },
+    {
+      "album": {
+        "name": "thru with u",
+        "url": "https://open.spotify.com/album/6arX7ixS2NedK2JT9ufL0y"
+      },
+      "artists": [
+        {
+          "name": "benten",
+          "url": "https://open.spotify.com/artist/7MFLynuNlKGSveS2w8ZOfF"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114666,
+      "name": "thru with u",
+      "url": "https://open.spotify.com/track/6fcVPxYdYHQ9YioRXagiQB"
     },
     {
       "album": {
@@ -35759,6 +35979,24 @@
     },
     {
       "album": {
+        "name": "What Do We Know?",
+        "url": "https://open.spotify.com/album/5e0olK6a6yTTA5stLIFjOz"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "What Do We Know?",
+      "url": "https://open.spotify.com/track/5UIGKPkte6mv6eiyK5CNPn"
+    },
+    {
+      "album": {
         "name": "what do ya miss?",
         "url": "https://open.spotify.com/album/1jeYMiSSwERFGeqQWUkKfi"
       },
@@ -37076,6 +37314,24 @@
       "duration_ms": 192665,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/0d1k9YDLAaK9HzJlyoAhwo"
+    },
+    {
+      "album": {
+        "name": "wrestla'",
+        "url": "https://open.spotify.com/album/5jJ2NpIjt4AAfPCrSbFP16"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94581,
+      "name": "wrestla'",
+      "url": "https://open.spotify.com/track/54E9mPo0FwoIg4hdSZ5kvr"
     },
     {
       "album": {

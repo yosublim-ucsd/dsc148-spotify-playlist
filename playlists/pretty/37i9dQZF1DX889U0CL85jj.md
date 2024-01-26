@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472,315 likes - 140 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,472,434 likes - 140 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 5 | [SummerBrain](https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:28 |
 | 6 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 7 | [Chamber Of Reflection \- live stream 5/19/23](https://open.spotify.com/track/3gNmgzx1vOFcsA5UmIULgn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Chamber Of Reflection \(live stream 5/19/23\)](https://open.spotify.com/album/6mJyi0LV45BfhPWrguFDu9) | 2:33 |
-| 8 | [Bubba](https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/3jTD1rSEBGiYzLNvOKYkua) | 3:09 |
+| 8 | [Bubba](https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x) | 3:09 |
 | 9 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 |
 | 10 | [paralyzed](https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [paralyzed](https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9) | 2:01 |
 | 11 | [Overpowering](https://open.spotify.com/track/0xuecKhU77GCzBIcrQJIU1) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Overpowering](https://open.spotify.com/album/4u9QLqp02jIhC3cBP71v5Q) | 3:17 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 139 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 | 140 | [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 |
 
-Snapshot ID: `MCw5ZWUzNTMyYzI2MmRhYzEzYWFhMGU1YTFiNDMxOTY2OGEwZjBjYjMz`
+Snapshot ID: `MCw3MmMzYTI3M2YwOTJlMWRmNjhjYWRhYmM3MDg2MzllYTYwMjQ0ZWNk`

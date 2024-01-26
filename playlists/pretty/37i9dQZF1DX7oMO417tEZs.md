@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: METTE, Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,584 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,634 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 32 | [9AM IN LONDON](https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [9AM IN LONDON](https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G) | 3:22 |
 | 33 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 |
 | 34 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 35 | [Bubba](https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/3jTD1rSEBGiYzLNvOKYkua) | 3:09 |
+| 35 | [Bubba](https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x) | 3:09 |
 | 36 | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR) | 2:23 |
 | 37 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 38 | [Jungle](https://open.spotify.com/track/76anofjGblYvXoOmXBAAy8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Jungle](https://open.spotify.com/album/3voD7pJszKgAqaa1EIHbG7) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 | 100 | [La Gente Se Levanta](https://open.spotify.com/track/1wAdnXc6Eas8BKww2CSKTB) | [Pelada](https://open.spotify.com/artist/1cUt6hBRKlav4TIgjopnHC), [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [La Gente Se Levanta](https://open.spotify.com/album/4UP9rrYuthNnKcZAdBKcfI) | 3:31 |
 
-Snapshot ID: `MCxiOGE2Yzg0ZTc3MWU5MmEyMTZiYzBjNDQzMzBlYzg1MTMwMjE0OTgz`
+Snapshot ID: `MCwwNDM2YzFlY2VjYjVmMzUzMzY0NTIwMjM3YTQ1YTFhOWUzYzU3NTUz`

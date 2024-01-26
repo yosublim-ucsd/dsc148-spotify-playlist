@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 5938,
+  "num_followers": 5940,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2",
+  "snapshot_id": "MCw1NTJmZjAyZGQ5NTgyMDg4ZDlkODgwMTUxNGI3Y2ZlNTI3MmYzNDA2",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "The Boy and the Heron - Original Soundtrack",
-        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 108533,
-      "name": "Ask Me Why (Mother's Message)",
-      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 67669,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 108533,
+      "name": "Ask Me Why (Mother's Message)",
+      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "The Crown: Season Six (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN"
-      },
-      "artists": [
-        {
-          "name": "Martin Phipps",
-          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
-      "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
         "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 282640,
       "name": "Toxic (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Crown: Season Six (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
+      "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "The Diplomat (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 69626,
       "name": "Confirming Hal's Story",
       "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
     },
     {
       "added_at": "2023-12-19 16:37:32",

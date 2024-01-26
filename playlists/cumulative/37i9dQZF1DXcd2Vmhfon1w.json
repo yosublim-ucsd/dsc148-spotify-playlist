@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. FERNANDOCOSTA",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Al Safir",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -312,6 +312,28 @@
       "duration_ms": 204572,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a"
+    },
+    {
+      "album": {
+        "name": "Agua y Vino",
+        "url": "https://open.spotify.com/album/4ol44ntW6ggCAOOTMOoAlh"
+      },
+      "artists": [
+        {
+          "name": "Shaolin Monkey",
+          "url": "https://open.spotify.com/artist/4I0skumj8EGk1l25iBBMxM"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138501,
+      "name": "Agua y Vino",
+      "url": "https://open.spotify.com/track/0jJurSM7swEY7IKtyYuDDs"
     },
     {
       "album": {
@@ -794,6 +816,24 @@
       "duration_ms": 237527,
       "name": "Bicho raro",
       "url": "https://open.spotify.com/track/4MonThJItfsXWPFIvAT5EX"
+    },
+    {
+      "album": {
+        "name": "Boda Roja",
+        "url": "https://open.spotify.com/album/7wGbDZGUiPJ5B6gq40fBqm"
+      },
+      "artists": [
+        {
+          "name": "Subze",
+          "url": "https://open.spotify.com/artist/1iw6ZNe7cO6LGk61z3pMRJ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229750,
+      "name": "Boda Roja",
+      "url": "https://open.spotify.com/track/26IIwn9tXMwivQQmrOHJOP"
     },
     {
       "album": {
@@ -1660,7 +1700,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 154736,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/0g99Wc6vw9Wnzhb1ORyPub"
@@ -1982,7 +2022,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178706,
       "name": "Guajiro",
       "url": "https://open.spotify.com/track/7mzNtZ87Ha6gc1YZCQfA6c"
@@ -2215,6 +2255,46 @@
     },
     {
       "album": {
+        "name": "KILOMETROZERO",
+        "url": "https://open.spotify.com/album/7ua7tLsGckZ4ABttyGTA5K"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "KILOMETROZERO",
+      "url": "https://open.spotify.com/track/0OYbYJLgZoeRMhMPqjT4ka"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/4PgqmUFVilmDO8mQujXLkY"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Richie Rasheed",
+          "url": "https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/6NM41Wm4nFkgHtD90coUst"
+    },
+    {
+      "album": {
         "name": "Kurosawa",
         "url": "https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3"
       },
@@ -2238,7 +2318,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 258709,
       "name": "Kurosawa",
       "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
@@ -3199,6 +3279,32 @@
     },
     {
       "album": {
+        "name": "Diablos y Bermudas",
+        "url": "https://open.spotify.com/album/0wBdjkN7fzSzXjNYf5AL6m"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Lasser",
+          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
+        },
+        {
+          "name": "GXNZX",
+          "url": "https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336190,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3kR00xdtEf6QcJh9UMkgXI"
+    },
+    {
+      "album": {
         "name": "Modo Sport",
         "url": "https://open.spotify.com/album/51YCztz2tvzhQD55QKtlcR"
       },
@@ -3210,7 +3316,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164400,
       "name": "Modo Sport",
       "url": "https://open.spotify.com/track/41g8anQJNmH6PWbJrnPISD"
@@ -3408,7 +3514,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 296000,
       "name": "Nana",
       "url": "https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM"
@@ -3511,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/3xLbAeXBdWPIE0BDIXUWTY"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129016,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/5GxZb7dWrofxYI42cnEPK0"
+    },
+    {
+      "album": {
         "name": "No me hables de barras",
         "url": "https://open.spotify.com/album/5fPqgPf2cNMVZW9jpqpvVp"
       },
@@ -3588,6 +3712,24 @@
       "duration_ms": 129195,
       "name": "No Se Emula",
       "url": "https://open.spotify.com/track/0xAzuY0lzB7dsb8j0nDqCp"
+    },
+    {
+      "album": {
+        "name": "No Soy Nadie",
+        "url": "https://open.spotify.com/album/7luAa3DbfZe39ZGxx3aZlC"
+      },
+      "artists": [
+        {
+          "name": "Jarfaiter",
+          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192011,
+      "name": "No Soy Nadie",
+      "url": "https://open.spotify.com/track/7tum2jpajm3Ree988Am84y"
     },
     {
       "album": {
@@ -3936,7 +4078,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216062,
       "name": "Quiero volar",
       "url": "https://open.spotify.com/track/0TlVTrOwRNH8YGvBDHqPCo"
@@ -3994,7 +4136,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 273548,
       "name": "Reproches",
       "url": "https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn"
@@ -4564,7 +4706,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 283888,
       "name": "Solo pienso en ti",
       "url": "https://open.spotify.com/track/2hLyWkdMjWsudBEvJ5bokV"
@@ -5286,6 +5428,28 @@
       "duration_ms": 164571,
       "name": "Yo No S\u00e9",
       "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
+    },
+    {
+      "album": {
+        "name": "Zapatillas a estrenar",
+        "url": "https://open.spotify.com/album/656Q1w6NVajMaCrMn7skwm"
+      },
+      "artists": [
+        {
+          "name": "J Dose",
+          "url": "https://open.spotify.com/artist/1O77s4Fe4GrRPBlUKRUcEw"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209439,
+      "name": "Zapatillas a estrenar",
+      "url": "https://open.spotify.com/track/6IWCuyenKNfEg7eczZj9tS"
     },
     {
       "album": {

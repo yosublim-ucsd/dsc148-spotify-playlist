@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/4Mux1p6mzEmo2xWIuvzgap"
+      },
+      "artists": [
+        {
+          "name": "Israel Cannan",
+          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236885,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4dFO9pbidrrxDDkq1BP1z9"
+    },
+    {
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/66CWwotkujPP4AU2a4dgvv"
       },
@@ -4060,6 +4078,24 @@
       "duration_ms": 361411,
       "name": "balance",
       "url": "https://open.spotify.com/track/0hquhD6neSvmL8RwMITBV2"
+    },
+    {
+      "album": {
+        "name": "Banamba",
+        "url": "https://open.spotify.com/album/1nJVxaIzrw1fM8kfb6dyNM"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Ramo",
+          "url": "https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249888,
+      "name": "Banamba",
+      "url": "https://open.spotify.com/track/7r8OwIqRT5Rt9aTjdpEkke"
     },
     {
       "album": {
@@ -34492,6 +34528,28 @@
       "duration_ms": 192250,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/1Cm25pUwH4jncTym56LIff"
+    },
+    {
+      "album": {
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/2ha87AAmLoB5a0OFZSnKyx"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325851,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/2dDFMYtvTdcdTTfOghPBIH"
     },
     {
       "album": {

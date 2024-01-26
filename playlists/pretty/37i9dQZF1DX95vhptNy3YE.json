@@ -1,12 +1,12 @@
 {
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 225414,
+  "num_followers": 225433,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODBlNzM4OWU1OWJkNjE4MTMwYTQyYWIxN2RjNDQ3MzZjMWI5NzUx",
+  "snapshot_id": "MCwzNDAyZTI3MDZiYmRhZDYwMGIyZGQ1MWVhYzRjZDhiZDI1MzUzN2Fl",
   "tracks": [
     {
       "added_at": "2024-01-22 13:45:02",
@@ -387,30 +387,6 @@
     {
       "added_at": "2024-01-22 13:45:02",
       "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
-    },
-    {
-      "added_at": "2024-01-22 13:45:02",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-01-22 13:45:02",
+      "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2024-01-22 13:45:02",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-01-22 13:45:02",
       "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": "2024-01-22 13:45:02",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 209141,
       "name": "da lua",
       "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
-    },
-    {
-      "added_at": "2024-01-22 13:45:02",
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": "2024-01-22 13:45:02",
@@ -1215,6 +1215,46 @@
     {
       "added_at": "2024-01-22 13:45:02",
       "album": {
+        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
+      },
+      "artists": [
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 264471,
+      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
+    },
+    {
+      "added_at": "2024-01-22 13:45:02",
+      "album": {
+        "name": "Xuxu",
+        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Xuxu",
+      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2024-01-22 13:45:02",
+      "album": {
         "name": "Mega da Gang 06",
         "url": "https://open.spotify.com/album/08Hzh10xxUrZG1qWVZmub3"
       },
@@ -1255,46 +1295,6 @@
       "duration_ms": 313845,
       "name": "Mega da Gang 06",
       "url": "https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio"
-    },
-    {
-      "added_at": "2024-01-22 13:45:02",
-      "album": {
-        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
-      },
-      "artists": [
-        {
-          "name": "Pagode do Adame",
-          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 264471,
-      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
-      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
-    },
-    {
-      "added_at": "2024-01-22 13:45:02",
-      "album": {
-        "name": "Xuxu",
-        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Xuxu",
-      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
     },
     {
       "added_at": "2024-01-22 13:45:02",

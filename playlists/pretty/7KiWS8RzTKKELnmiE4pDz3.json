@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzE5MyxjMzZmMmU5N2U0NWU1YzUwMWZmN2VmNzdjYjIzZDljODdjOGU1OTdm",
+  "snapshot_id": "NzE5NCwyNTI4YWQwZTMxMmFhYjkwOWFkMTg2ZTJmNGYxMDRiMGMxZDRkNzI0",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2555,6 +2555,26 @@
       "duration_ms": 161826,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh"
+    },
+    {
+      "added_at": "2024-01-25 15:24:16",
+      "album": {
+        "name": "The Ecstatic",
+        "url": "https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "Auditorium",
+      "url": "https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ"
     }
   ],
   "unique_name": "main ",

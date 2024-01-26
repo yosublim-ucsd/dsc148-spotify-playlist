@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,722 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,725 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 18 | [Let's Fly](https://open.spotify.com/track/5KMYTVBflb2wAo10mwgs3W) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [Let’s Fly](https://open.spotify.com/album/46lG6zPVzEHqUnRN70kbRS) | 2:48 |
 | 19 | [Cuando Ya Esté Muerto](https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Cuando Ya Esté Muerto](https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v) | 3:28 |
 | 20 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 |
-| 21 | [Otro Concierto](https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/6lGoHLcS8Wwbl1YM392BRj) | 2:26 |
+| 21 | [Otro Concierto \(feat\. Irepelusa\)](https://open.spotify.com/track/3D0WvQvutvdA5L0Fw9H5nA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/5dNez4VlFHwFbcPn0lYhFC) | 2:26 |
 | 22 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 |
 | 23 | [Vuelve Y Juega](https://open.spotify.com/track/169Stxh6ZnHavcCrwFcE1S) | [Anyone/Cualkiera](https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Go Die](https://open.spotify.com/album/4X4f0vzyh2JQTQwh38XlQ2) | 2:28 |
 | 24 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCwyODQxYmQ0ZTE1YTBkNzIwNTBkNjhhNmZiMjFjNDNhY2RiMGU3MWY2`
+Snapshot ID: `MCxhYmM0MDU2N2JhN2NmNjU0MzFkOTM2ZjJkNjVmNjM5NzEyYzRlZmNh`

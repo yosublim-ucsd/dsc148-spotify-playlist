@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-156 songs - 8 hr 29 min
+157 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,10 @@
 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 | 2021-03-21 | 2023-04-06 |
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-10-19 |  |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2021-03-21 |  |
-| [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2021-03-21 |  |
+| [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2021-03-21 | 2024-01-26 |
 | [Il venait d'avoir 18 ans \- French Version](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 | 2021-03-21 | 2022-07-29 |
 | [Il venait d'avoir 18 ans \- French Version](https://open.spotify.com/track/0rqikbE6dfd6R8rcR29KJO) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [D'ici et d'ailleurs \- Le meilleur de Dalida à travers le monde](https://open.spotify.com/album/4N8rDc5TXbGctoRkzo9ByU) | 2:59 | 2021-03-21 | 2022-11-13 |
+| [Il venait d'avoir 18 ans \- Japanese Version](https://open.spotify.com/track/7pIQ2FwtwwntxMMxiMN3Ok) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Escales Autour Du Monde](https://open.spotify.com/album/1PEp2qHqMLlo2wQtrB45JK) | 2:56 | 2023-10-19 |  |
 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 | 2021-03-21 |  |
 | [Je suis malade](https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 4:08 | 2021-03-21 |  |
 | [Je suis malade](https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 4:09 | 2021-03-21 | 2022-07-29 |
@@ -97,8 +98,8 @@
 | [La vie en rose](https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 3:06 | 2021-03-21 | 2022-07-29 |
 | [La Vie en rose](https://open.spotify.com/track/1p11ncxFQmLmm4TcBkZHJX) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Le disque d'or](https://open.spotify.com/album/7Dvjf9rOxGq28HOTSM9Thm) | 3:07 | 2021-03-21 | 2022-11-13 |
 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 | 2021-03-21 |  |
-| [Lady Lay](https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Plus Grands Tubes 70's](https://open.spotify.com/album/5p9k85pZ6CRxssmNuNZm6c) | 2:55 | 2021-03-21 | 2022-07-29 |
-| [Lady Lay](https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Années 70s](https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh) | 2:59 | 2021-03-21 |  |
+| [Lady Lay](https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Plus Grands Tubes 70's](https://open.spotify.com/album/5p9k85pZ6CRxssmNuNZm6c) | 2:55 | 2021-03-21 |  |
+| [Lady Lay](https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Années 70s](https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh) | 2:59 | 2021-03-21 | 2024-01-26 |
 | [Lady Lay](https://open.spotify.com/track/4kTKQ2FbaxBbxwITd6TbtL) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Tubes pour l'été \- Années 70](https://open.spotify.com/album/72gzaVqKPQ0n1lVwPm8lnu) | 2:59 | 2021-03-21 | 2022-11-13 |
 | [Laissons entrer le soleil](https://open.spotify.com/track/6AvB7mysCWrkz1MQK6DdwW) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [100 Chansons](https://open.spotify.com/album/73oNS199uSvzoib5ib4U8Q) | 3:43 | 2021-03-21 | 2022-11-13 |
 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 | 2021-03-21 |  |

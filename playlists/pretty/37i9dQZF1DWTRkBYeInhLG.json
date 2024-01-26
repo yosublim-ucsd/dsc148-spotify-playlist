@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 465076,
+  "num_followers": 465218,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmY5YzFmZTg0YzljOThkOTIyNGQwMTM2MjRjNTY0YTYyZWQyZDQ3",
+  "snapshot_id": "MCwwMDAzOWRjNzViMTQ4MzVjYzRlZjY1MWQzMmU5MDVhZjlmZWVkZmFh",
   "tracks": [
     {
       "added_at": "2024-01-16 09:39:17",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-01-16 09:39:17",
       "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+        "name": "Judika",
+        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
       "artists": [
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
         }
       ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+      "duration_ms": 242942,
+      "name": "Jikalau Kau Cinta",
+      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
     },
     {
       "added_at": "2024-01-16 09:39:17",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-01-16 09:39:17",
       "album": {
-        "name": "Judika",
-        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
       },
       "artists": [
         {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
         }
       ],
-      "duration_ms": 242942,
-      "name": "Jikalau Kau Cinta",
-      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
     },
     {
       "added_at": "2024-01-16 09:39:17",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-01-16 09:39:17",
       "album": {
-        "name": "Selaras",
-        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
+        "name": "Pelangi Di Malam Hari",
+        "url": "https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx"
       },
       "artists": [
         {
-          "name": "Kunto Aji",
-          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
-        },
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
         }
       ],
-      "duration_ms": 273491,
-      "name": "Selaras",
-      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+      "duration_ms": 282973,
+      "name": "Nuansa Bening",
+      "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
     },
     {
       "added_at": "2024-01-16 09:39:17",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2024-01-16 09:39:17",
       "album": {
-        "name": "Pelangi Di Malam Hari",
-        "url": "https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx"
+        "name": "Selaras",
+        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
       },
       "artists": [
         {
-          "name": "VIDI",
-          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
         }
       ],
-      "duration_ms": 282973,
-      "name": "Nuansa Bening",
-      "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
+      "duration_ms": 273491,
+      "name": "Selaras",
+      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
     },
     {
       "added_at": "2024-01-16 09:39:17",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Sandra Nicolle",
+  "description": "The best French indie tracks right now. Cover : Papooz",
   "name": "Made in France",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 258385,
       "name": "1964",
       "url": "https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo"
+    },
+    {
+      "album": {
+        "name": "2LATE",
+        "url": "https://open.spotify.com/album/5GpX1Str4nO6jC5ZJ9jOiw"
+      },
+      "artists": [
+        {
+          "name": "nelick",
+          "url": "https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140440,
+      "name": "2LATE",
+      "url": "https://open.spotify.com/track/2stNSdzZFsvHzEIfOQKSCI"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194960,
       "name": "All day",
       "url": "https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167626,
       "name": "Free demain",
       "url": "https://open.spotify.com/track/2LYU4dW1b5IljPsZQi5fCk"
@@ -3233,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
+    },
+    {
+      "album": {
         "name": "Isn't It Something",
         "url": "https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb"
       },
@@ -3252,6 +3288,24 @@
       "duration_ms": 144107,
       "name": "Isn't It Something",
       "url": "https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD"
+    },
+    {
+      "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/7tIK8SgNtyAzhl4cuC43Ki"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180442,
+      "name": "IT HURTS ME",
+      "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
     },
     {
       "album": {
@@ -4408,6 +4462,28 @@
       "duration_ms": 201720,
       "name": "Looking Backward",
       "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ"
     },
     {
       "album": {
@@ -6781,6 +6857,24 @@
     },
     {
       "album": {
+        "name": "Soleil perdu",
+        "url": "https://open.spotify.com/album/2iyOnExTZ30jv8hk9UOoAo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Berline",
+          "url": "https://open.spotify.com/artist/01PV2K8vLywtUmZLQBx5jC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "Soleil perdu",
+      "url": "https://open.spotify.com/track/1BBnT7G0ycLfih2JqtnX8F"
+    },
+    {
+      "album": {
         "name": "Sombrer",
         "url": "https://open.spotify.com/album/2qSYR4ngUhgQmkoRDmFdvO"
       },
@@ -6988,7 +7082,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166500,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx"
@@ -8358,7 +8452,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 189169,
       "name": "\u00c7a me va",
       "url": "https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS"

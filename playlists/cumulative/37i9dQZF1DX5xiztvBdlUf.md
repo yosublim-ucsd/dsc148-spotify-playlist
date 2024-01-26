@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-376 songs - 1 day 10 hr 50 min
+377 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 | 2021-11-26 | 2023-11-16 |
 | [Release](https://open.spotify.com/track/3YQxEnlF1MSmxMbge5HwQS) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 | 2022-06-17 | 2022-07-20 |
 | [Reminiscence](https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Reminiscence](https://open.spotify.com/album/5rTtvod3o7BesmyPzfwowr) | 5:21 | 2021-11-26 | 2022-04-21 |
-| [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 | 2022-04-04 |  |
+| [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 | 2022-04-04 | 2024-01-26 |
 | [Restless Mind](https://open.spotify.com/track/1cWqKMY9UmPen1n6XH4byq) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Restless Mind](https://open.spotify.com/album/5wWBNB3N4JQM0ZvaU9cnNQ) | 7:44 | 2021-11-26 | 2022-06-25 |
 | [Resurrection](https://open.spotify.com/track/5e5IW2XLqA67asAqMNr5Um) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Resurrection](https://open.spotify.com/album/4eEozCG4NVNBkdevuiPMPN) | 3:46 | 2023-05-05 | 2023-05-30 |
 | [Rio Secreto](https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Human Nature \(Night\)](https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi) | 6:14 | 2021-11-26 | 2022-05-07 |
@@ -347,6 +347,7 @@
 | [Upwards into Freedom](https://open.spotify.com/track/1Dcu2S6Tl8sFReSepXha81) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6qYoN5DH2P3KCKi98ixAm6) | 3:40 | 2022-05-13 | 2022-07-11 |
 | [ut i rommet](https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ut i rommet](https://open.spotify.com/album/04A1xtX4Cp81M4YOEMi1J9) | 7:26 | 2022-02-04 | 2022-07-29 |
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-06-24 | 2023-07-03 |
+| [ut i rommet](https://open.spotify.com/track/6aEVhlxyq0Lm05es90KBwq) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/7xp98hOrKFnD3zO27YDNAG) | 7:26 | 2023-11-14 |  |
 | [Vacation to Life](https://open.spotify.com/track/6j3W3f1rYdOJtXRMPOttEd) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Vacation to Life EP](https://open.spotify.com/album/3OmOFM4AUabTpuRfRoeYjd) | 9:37 | 2022-04-04 | 2022-04-13 |
 | [Voices Above](https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Voices Above](https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ) | 3:10 | 2023-11-14 |  |
 | [Voices Above](https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh) | [Voices Above](https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW) | 3:10 | 2022-05-06 | 2023-11-06 |

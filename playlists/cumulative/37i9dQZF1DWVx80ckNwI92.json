@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative",
+  "description": "The future of African Indie and Alternative. Cover: Digital Sangoma",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -144,6 +144,32 @@
       "duration_ms": 140204,
       "name": "BAD 4 ME",
       "url": "https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS"
+    },
+    {
+      "album": {
+        "name": "Be You",
+        "url": "https://open.spotify.com/album/7CsI1Y3Xy7uLaIQXeo1lk4"
+      },
+      "artists": [
+        {
+          "name": "Riverays",
+          "url": "https://open.spotify.com/artist/5ryOUcwAfjNpX9DGgj83dC"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195460,
+      "name": "Be You",
+      "url": "https://open.spotify.com/track/6NQKDyqLsrQ38XW1rHmuNZ"
     },
     {
       "album": {
@@ -420,7 +446,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 165511,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw"
@@ -1720,6 +1746,24 @@
       "duration_ms": 221814,
       "name": "Sauti Ya Mama",
       "url": "https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M"
+    },
+    {
+      "album": {
+        "name": "Sekunjalo",
+        "url": "https://open.spotify.com/album/0zHCIfkUe24snVC8PhsX3F"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350400,
+      "name": "Sekunjalo",
+      "url": "https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt"
     },
     {
       "album": {

@@ -3247,6 +3247,32 @@
     },
     {
       "album": {
+        "name": "Katal Hai",
+        "url": "https://open.spotify.com/album/2eVE7V73mCGujc6VjBQjKx"
+      },
+      "artists": [
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Inder Dosanjh",
+          "url": "https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148277,
+      "name": "Katal Hai",
+      "url": "https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07"
+    },
+    {
+      "album": {
         "name": "Khadaak",
         "url": "https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5"
       },
@@ -4206,8 +4232,8 @@
       },
       "artists": [
         {
-          "name": "DJ Flow",
-          "url": "https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8"
+          "name": "Dj Flow",
+          "url": "https://open.spotify.com/artist/46ZZ5CWZwIeuBVBKalbpZ4"
         },
         {
           "name": "Pranjal Dahiya",
@@ -4512,7 +4538,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 144675,
       "name": "NOW",
       "url": "https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz"

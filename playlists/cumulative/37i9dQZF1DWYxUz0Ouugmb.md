@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYxUz0Ouugmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
 
-### [RADAR Indonesia 2023](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
+### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 
-179 songs - 11 hr 28 min
+184 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@
 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 | 2023-07-13 |  |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 | 2022-07-29 |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/2WbvbkUUDWh8yFKxzXNux1) | 3:35 | 2022-07-28 | 2023-04-14 |
+| [Aku Mengerti](https://open.spotify.com/track/4w7cRm8psY5CMKv6qQT9mx) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Aku Mengerti](https://open.spotify.com/album/7x8ERxSmiCigSd8vLKCI7s) | 4:44 | 2024-01-25 |  |
+| [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-25 |  |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 | 2023-10-08 |  |
 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 | 2023-10-11 |
@@ -27,6 +29,7 @@
 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-10-13 | 2023-04-14 |
 | [Benih](https://open.spotify.com/track/2Z00Dv9p5vFWBHay0ZAAs3) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Benih](https://open.spotify.com/album/3KS6UByFSUlxds9m260bz9) | 4:01 | 2023-02-02 | 2023-04-14 |
 | [Berlagak Bahagia](https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 4:00 | 2022-03-24 | 2023-04-14 |
+| [Bersama Bukan Maumu \- Live At Ska Reggae](https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bersama Bukan Maumu \(Live At Ska Reggae\)](https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ) | 4:59 | 2024-01-25 |  |
 | [Bismillah](https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 4:31 | 2021-11-25 | 2022-03-25 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |
 | [Blood & Light \(Prologue Version\)](https://open.spotify.com/track/5g2qaDg6fsIB1LKSQM3Zbq) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 4:42 | 2023-10-19 |  |
@@ -130,6 +133,7 @@
 | [Pilihan Ati](https://open.spotify.com/track/3ODS3N2Pdtacr7Jxllky2c) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pilihan Ati](https://open.spotify.com/album/5GWUfo0ZgDB2Gt0n4CTjUZ) | 4:59 | 2021-11-25 | 2022-03-25 |
 | [PIMPSHIT](https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [MY FIRST FRIEND](https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ) | 3:11 | 2023-04-13 |  |
 | [Pisah](https://open.spotify.com/track/0moK39JPJTSbypvshvH4NH) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pisah](https://open.spotify.com/album/1OK2oRKzT6csqvA0fMCDi1) | 4:40 | 2021-11-25 | 2022-03-25 |
+| [PULANG](https://open.spotify.com/track/1gt5nseAiBxo6fgGJ0cOtt) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [THE GRAND CHASE](https://open.spotify.com/album/5LyYbjOZxOorwRmB7aqOei) | 3:54 | 2024-01-25 |  |
 | [Putra Petir](https://open.spotify.com/track/1YLuNkA0rSZkJiQJqnWYkP) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Putra Petir](https://open.spotify.com/album/6NCzDjlMh8oLKEaW6HbJAX) | 2:21 | 2021-11-25 | 2022-03-25 |
 | [Queen of The South](https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Queen of The South](https://open.spotify.com/album/6Y0eJDOJccyw6nmrGFNFwk) | 3:23 | 2021-11-25 | 2022-03-25 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2023-04-14 |
@@ -170,6 +174,7 @@
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2023-04-13 | 2023-10-02 |
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 | 2022-03-25 |
+| [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 | 2024-01-25 |  |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 | 2022-09-16 |
 | [Timeless](https://open.spotify.com/track/64mtE2D4LtP9AaKbF5CGJT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:50 | 2022-09-01 | 2023-04-14 |
 | [to be with me](https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [wonder in time](https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB) | 3:39 | 2023-04-13 |  |

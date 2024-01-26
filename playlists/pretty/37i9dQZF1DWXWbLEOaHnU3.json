@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 532943,
+  "num_followers": 533076,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc4N2NjOTdjYzQ5Y2E3ZWIyZTI1NWUxZTUyN2Q4NWYyYzg3ZDU4",
+  "snapshot_id": "MCxiMzYwYzI5ZmY1NWQ1NWE2NmUyNjVhMTIzMTY0ZGMyYmI1YTIxZWE1",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -507,26 +507,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Sympathize",
-        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
+        "name": "Drivin Me Insane",
+        "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
       },
       "artists": [
         {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
         },
         {
-          "name": "Davee",
-          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
         },
         {
-          "name": "Ela",
-          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
         }
       ],
-      "duration_ms": 308785,
-      "name": "Sympathize",
-      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
+      "duration_ms": 195724,
+      "name": "Drivin Me Insane",
+      "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -551,26 +551,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Drivin Me Insane",
-        "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
+        "name": "Sympathize",
+        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
       },
       "artists": [
         {
-          "name": "Johnny Carrera",
-          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
         },
         {
-          "name": "Memento Mori",
-          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+          "name": "Davee",
+          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
         },
         {
-          "name": "Umali",
-          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+          "name": "Ela",
+          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
         }
       ],
-      "duration_ms": 195724,
-      "name": "Drivin Me Insane",
-      "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
+      "duration_ms": 308785,
+      "name": "Sympathize",
+      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/4J1eK2NDcAsAGyPyGQjZp2"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Naturalize",
+          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
+        }
+      ],
+      "duration_ms": 254678,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/15mHk5iNru3j49NsnMaZdV"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Stupid as Fvck (Physis Remix)",
         "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 329565,
       "name": "Stupid as Fvck (Physis Remix)",
       "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/4J1eK2NDcAsAGyPyGQjZp2"
-      },
-      "artists": [
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Naturalize",
-          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
-        }
-      ],
-      "duration_ms": 254678,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/15mHk5iNru3j49NsnMaZdV"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
       },
       "artists": [
         {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
         },
         {
-          "name": "Zahar",
-          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
         }
       ],
-      "duration_ms": 335834,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
       },
       "artists": [
         {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
         },
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "Zahar",
+          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
         }
       ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+      "duration_ms": 335834,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
       },
       "artists": [
         {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
         },
         {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         }
       ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2023-11-25 18:30:00",

@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 165333,
       "name": "Acelerar",
       "url": "https://open.spotify.com/track/7GlqylDuAfMmARdPKzz4dr"
@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Baby, We Go Fast",
+        "url": "https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB"
+      },
+      "artists": [
+        {
+          "name": "KROMI",
+          "url": "https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Baby, We Go Fast",
+      "url": "https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec"
+    },
+    {
+      "album": {
         "name": "Back To Where We Started",
         "url": "https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 168775,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
@@ -1634,6 +1652,24 @@
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
+    },
+    {
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL"
     },
     {
       "album": {

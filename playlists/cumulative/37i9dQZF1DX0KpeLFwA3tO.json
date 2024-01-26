@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Neck Deep",
+  "description": "The best new music from the wide world of punk. Cover: The Chisel",
   "name": "All New Punk",
   "tracks": [
     {
@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "A Predetermined Outcome",
+        "url": "https://open.spotify.com/album/7tFjUyhKAFvoHUXbzZshB8"
+      },
+      "artists": [
+        {
+          "name": "Sienna Skies",
+          "url": "https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "A Predetermined Outcome",
+      "url": "https://open.spotify.com/track/6KfFTiJskd1N8gsvCbwnxB"
+    },
+    {
+      "album": {
         "name": "A Real Thing",
         "url": "https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 151958,
       "name": "A Track In Orbit",
       "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
@@ -790,6 +808,24 @@
       "duration_ms": 152060,
       "name": "A. Hole",
       "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
+    },
+    {
+      "album": {
+        "name": "Abortion",
+        "url": "https://open.spotify.com/album/1ZcgrAlvWGlYthMo5bCsJC"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Abortion",
+      "url": "https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq"
     },
     {
       "album": {
@@ -990,6 +1026,24 @@
       "duration_ms": 155384,
       "name": "againagainagain",
       "url": "https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2"
+    },
+    {
+      "album": {
+        "name": "Agent Mayhem",
+        "url": "https://open.spotify.com/album/0yL3jaz0tGDuBr1CJY0IcV"
+      },
+      "artists": [
+        {
+          "name": "Hippie Trim",
+          "url": "https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145621,
+      "name": "Agent Mayhem",
+      "url": "https://open.spotify.com/track/5eJjfsGu30PFeezgVnEyR6"
     },
     {
       "album": {
@@ -1606,7 +1660,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 203767,
       "name": "april's",
       "url": "https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k"
@@ -2170,7 +2224,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 204147,
       "name": "Basement",
       "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
@@ -2729,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "BIBLICAL",
+        "url": "https://open.spotify.com/album/1FsM8KQ6wC9ipOhafEoJpR"
+      },
+      "artists": [
+        {
+          "name": "Bib",
+          "url": "https://open.spotify.com/artist/0bxo4CrCrmhdgfAZQ2th36"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109945,
+      "name": "BITTER MIND",
+      "url": "https://open.spotify.com/track/3ItYVt5aOMYpN37Iyu2xpV"
+    },
+    {
+      "album": {
         "name": "Bittersweet (Feat. Dashboard Confessional)",
         "url": "https://open.spotify.com/album/2TEE1RnUqjfSdOK5gxuswa"
       },
@@ -3022,6 +3094,24 @@
       "duration_ms": 189312,
       "name": "BLOODSTREAM",
       "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
+    },
+    {
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136682,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
     },
     {
       "album": {
@@ -3365,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
+    },
+    {
+      "album": {
         "name": "BRAIN DEAD",
         "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
       },
@@ -3452,6 +3560,24 @@
       "duration_ms": 126306,
       "name": "Brand New Soul",
       "url": "https://open.spotify.com/track/0ZAaxPIFsHtTFxe8bS8iUN"
+    },
+    {
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
     },
     {
       "album": {
@@ -4247,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG"
+    },
+    {
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -4979,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "COKEHEAD",
+        "url": "https://open.spotify.com/album/4JFfwqsgySYq0uYEokchgy"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134219,
+      "name": "COKEHEAD",
+      "url": "https://open.spotify.com/track/31rtGzjxNxjaMlI1ylfrKH"
+    },
+    {
+      "album": {
         "name": "Continuing Growth",
         "url": "https://open.spotify.com/album/7Lcaez86rvpfhWqHUY9fxX"
       },
@@ -5124,6 +5290,24 @@
       "duration_ms": 212250,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D"
+    },
+    {
+      "album": {
+        "name": "Coming After You!",
+        "url": "https://open.spotify.com/album/3jPYjmal6j9dRNvyFb9ysQ"
+      },
+      "artists": [
+        {
+          "name": "Broadway Calls",
+          "url": "https://open.spotify.com/artist/3Wu91JvrEq0es9cgXLQzbS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Coming After You",
+      "url": "https://open.spotify.com/track/0HSq4jgNpXzdReE9cUo1XB"
     },
     {
       "album": {
@@ -6315,6 +6499,24 @@
     },
     {
       "album": {
+        "name": "Default Parody",
+        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Default Parody",
+      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
+    },
+    {
+      "album": {
         "name": "Degenerate Inanimate",
         "url": "https://open.spotify.com/album/2H78Vi5y81P8Su7vZqilpH"
       },
@@ -6864,6 +7066,24 @@
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE"
+    },
+    {
+      "album": {
+        "name": "Do One",
+        "url": "https://open.spotify.com/album/7A7iMGBEB5KY5ZfUV40usr"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "Do One",
+      "url": "https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N"
     },
     {
       "album": {
@@ -14175,6 +14395,24 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/6K7dPVfSIjQrUy6EW8iY0T"
+      },
+      "artists": [
+        {
+          "name": "Tusky",
+          "url": "https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54991,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1aVC5rxMrEvSSsESJrvEaz"
+    },
+    {
+      "album": {
         "name": "Like Culture",
         "url": "https://open.spotify.com/album/74QDcKks0RIZo3ZRUMN8zo"
       },
@@ -14276,7 +14514,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 201390,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM"
@@ -15642,7 +15880,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184766,
       "name": "Mere Slaughter",
       "url": "https://open.spotify.com/track/24nEK3eH0VQ6Crlzs3FOY9"
@@ -15812,7 +16050,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174631,
       "name": "Mirror Game",
       "url": "https://open.spotify.com/track/6yqxM7jzslZdhNzUHvb8YG"
@@ -17482,7 +17720,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 219800,
       "name": "Oaklands Finest Glass Beaches",
       "url": "https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC"
@@ -18337,6 +18575,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3EgAfBMX6F9XRbrUdQz6m8"
+      },
+      "artists": [
+        {
+          "name": "DARTZ",
+          "url": "https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215597,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/21S1YmXsz3OUVclC7cFf8C"
+    },
+    {
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1ArPIbhfCmwoPKF27ff5eo"
       },
@@ -18701,6 +18957,24 @@
     },
     {
       "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "album": {
         "name": "Piping Angels",
         "url": "https://open.spotify.com/album/3ZYCTjM2zT1Y9fyYehfkoO"
       },
@@ -18730,7 +19004,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 179790,
       "name": "pity",
       "url": "https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV"
@@ -20020,7 +20294,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 98354,
       "name": "Refuse the Rules",
       "url": "https://open.spotify.com/track/6q5lmTclsSZqUHcX4ovGBy"
@@ -21388,7 +21662,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 250306,
       "name": "Shadow of a Doubt",
       "url": "https://open.spotify.com/track/1ztIebjhmfFdYPhH4m6ORE"
@@ -23092,7 +23366,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187596,
       "name": "Stitched Up",
       "url": "https://open.spotify.com/track/4Ggs9ddCiXMhjSYmvBBUuU"
@@ -23770,7 +24044,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 231200,
       "name": "S\u00f3 Her\u00f3is",
       "url": "https://open.spotify.com/track/0vEKCnpCeOQeVx9C6oVvil"
@@ -24749,6 +25023,24 @@
     },
     {
       "album": {
+        "name": "It's Sorted",
+        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156733,
+      "name": "The Fringe",
+      "url": "https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR"
+    },
+    {
+      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/00CaleppRhwLyiE6GYpINo"
       },
@@ -25000,6 +25292,24 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "The Same Ordinary",
+        "url": "https://open.spotify.com/album/38l16Gbz36o6lS2gPIW8GN"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70640,
+      "name": "The Same Ordinary",
+      "url": "https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9"
     },
     {
       "album": {
@@ -25740,7 +26050,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187644,
       "name": "TOO MANY REDS",
       "url": "https://open.spotify.com/track/2H8xBvBSXC92sjYYaIhxN2"
@@ -25838,7 +26148,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 93251,
       "name": "Tornillo",
       "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
@@ -26307,6 +26617,24 @@
     },
     {
       "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+    },
+    {
+      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
       },
@@ -26534,7 +26862,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167305,
       "name": "UNFRIENDING IS TRENDING",
       "url": "https://open.spotify.com/track/5uOJP46LOwp2YEAqCzqoKH"
@@ -27260,7 +27588,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228600,
       "name": "We Need More Bricks",
       "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
@@ -27610,7 +27938,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173152,
       "name": "When You Were Here",
       "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
@@ -28062,7 +28390,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 146045,
       "name": "World In Disguise",
       "url": "https://open.spotify.com/track/20ooL92gUFrwz5AwSGEjNy"

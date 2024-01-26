@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-111 songs - 6 hr 49 min
+112 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Restart](https://open.spotify.com/track/5jGCbDTm5ZXgasOymIwfJV) | [Carlile](https://open.spotify.com/artist/5oVmfRMAc0GXe5c3UJQ3dz) | [Restart](https://open.spotify.com/album/2Dh4QA6lBhNu8xAhs5AYDm) | 4:56 | 2023-03-07 |  |
 | [Revolution](https://open.spotify.com/track/0Gj3PXoKAHruBUy6n1Ui0F) | [Fanny Daggers](https://open.spotify.com/artist/6tZ1qdztwwwyHKcUVU9ehy) | [Revolution](https://open.spotify.com/album/3yGGx9XjFUrSnFEOqNZUkA) | 2:58 | 2023-03-10 |  |
 | [Revolution](https://open.spotify.com/track/3nrOxadECyhoHzNRpP4IIY) | [Fanny Daggers](https://open.spotify.com/artist/6tZ1qdztwwwyHKcUVU9ehy) | [Revolution](https://open.spotify.com/album/3gVvymSdOeXEKgh2Aw9qMv) | 2:58 | 2023-03-02 | 2023-12-18 |
-| [Run Away](https://open.spotify.com/track/3MD80K8o0ZOxk1PAf5Q1IK) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/5lElcMzc8iPxxBwlE1pJFb) | 3:05 | 2023-03-10 |  |
+| [Run Away](https://open.spotify.com/track/3MD80K8o0ZOxk1PAf5Q1IK) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/5lElcMzc8iPxxBwlE1pJFb) | 3:05 | 2023-03-10 | 2024-01-26 |
 | [Run Away](https://open.spotify.com/track/7GGkZHuudCVXORI9TSFP19) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/4RGZvJhiOIbyBUwt8NX5ld) | 3:05 | 2023-03-02 | 2023-10-02 |
+| [Run Away](https://open.spotify.com/track/2Y298W7sFS2XQxMbAhnK8u) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/7MYYdWA2QJhXnT9HBtqgba) | 3:05 | 2023-03-10 |  |
 | [Sex To Me](https://open.spotify.com/track/5VYxtmyTV8ZSMLLt6PMyYu) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 3:36 | 2023-03-02 |  |
 | [Skeleton Key](https://open.spotify.com/track/6dyKnkr6MYL2iGBugMi6OH) | [Love Inks](https://open.spotify.com/artist/53cpRRpTGy1ssi46x3wF8m) | [E.S.P.](https://open.spotify.com/album/6Y9zMUdqRdQ2XSdgpHfM4n) | 3:12 | 2023-03-02 |  |
 | [Skin](https://open.spotify.com/track/2gCD9DtVHPOARRqfFBEN76) | [Zarah Mahler](https://open.spotify.com/artist/718rfojS47AiuJOPIXBWFw) | [Ophidian](https://open.spotify.com/album/5k7t17ubA9BxRFUNVBYT6A) | 3:46 | 2023-03-02 |  |

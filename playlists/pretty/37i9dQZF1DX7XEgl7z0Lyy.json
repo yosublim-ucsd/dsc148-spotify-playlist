@@ -1,13 +1,33 @@
 {
   "description": "music from the underworld",
-  "num_followers": 295424,
+  "num_followers": 296850,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJkY2EzMGFmY2JiNGU4ZDY2ZDQyYjEzYjUxOGI1MTMzYjFlMGUz",
+  "snapshot_id": "MCxlMDhmNmI2YjQ0ZDUxZGYzNzc4ZDQxMTdiZWE1MGJlMWRjYjUyNDk2",
   "tracks": [
+    {
+      "added_at": "2024-01-25 17:08:18",
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
@@ -883,22 +903,6 @@
       "duration_ms": 125004,
       "name": "PURPLE HEART (w/ Don Toliver)",
       "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "onyx palace",
-        "url": "https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql"
-      },
-      "artists": [
-        {
-          "name": "kyszenn",
-          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
-        }
-      ],
-      "duration_ms": 133326,
-      "name": "onyx palace",
-      "url": "https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi"
     },
     {
       "added_at": "2024-01-12 05:00:00",

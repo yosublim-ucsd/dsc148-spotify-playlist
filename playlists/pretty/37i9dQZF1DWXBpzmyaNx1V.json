@@ -1,12 +1,12 @@
 {
   "description": "Un paseo por la ciudad pintada de violeta.",
-  "num_followers": 28063,
+  "num_followers": 28077,
   "original_name": "Jacarandas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjRmZjE5NTYxYjE4NzQzODEwMjUyZWE1NDg3ZjZkNzYyNmE0MTEz",
+  "snapshot_id": "MCw0YTFjYzQ3YjBkM2U0ODE4ZjUxOGY3Njc0NmQ4YWIzODU3YmM3MDQ4",
   "tracks": [
     {
       "added_at": "2022-03-13 21:12:32",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
+        "name": "If I Am Only My Thoughts",
+        "url": "https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "duration_ms": 233558,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 169049,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "If I Am Only My Thoughts",
-        "url": "https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO"
-      },
-      "artists": [
-        {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
-        }
-      ],
-      "duration_ms": 233558,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA"
     },
     {
       "added_at": "2022-03-13 21:12:32",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Love Song (Helado Negro Remix)",
-        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "Love Song - Helado Negro Remix",
-      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 174303,
       "name": "Aire",
       "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Love Song (Helado Negro Remix)",
+        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "Love Song - Helado Negro Remix",
+      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
     },
     {
       "added_at": "2024-01-11 21:48:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
         "name": "everything's worth it",
         "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219524,
       "name": "you\\me\\everyone",
       "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2022-03-13 21:12:32",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Melodi",
-        "url": "https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9"
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
       "artists": [
         {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 217552,
-      "name": "Elegy for Love",
-      "url": "https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA"
+      "duration_ms": 206320,
+      "name": "Purple Tones",
+      "url": "https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b"
     }
   ],
   "unique_name": "Jacarandas",

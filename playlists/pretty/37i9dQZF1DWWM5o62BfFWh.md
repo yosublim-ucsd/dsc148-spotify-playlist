@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Pitbull, Mawell & IAmChino
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,191 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,252 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 9 | [Si La Ves](https://open.spotify.com/track/1TNyXS0BBlbChi2fpgrIlM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Batule DJ](https://open.spotify.com/artist/349Ox95zDqb4BMjFf9C2Uq) | [Si La Ves](https://open.spotify.com/album/2dPRXosjxESVUNSg1cpiz9) | 3:43 |
 | 10 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
 | 11 | [Pa la Calle Salió](https://open.spotify.com/track/1zD4MUXUAVuwqwbnOs85uL) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Pa' la calle salió](https://open.spotify.com/album/0UNjMr8P7xvMy4tkL01BVj) | 2:32 |
-| 12 | [Cupido \- Official Version prod\. by Cuban Deejays, Ernesto Losa, Dj Conds](https://open.spotify.com/track/3aCsArlr9Tg02Ko6BoeCr3) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Cupido \(Official Version prod\. by Cuban Deejays, Ernesto Losa, Dj Conds\)](https://open.spotify.com/album/3cLDdwbUQFQdU8qI3FLoEo) | 3:30 |
+| 12 | [Cupido \- Official Version Prod\. by Roberto Ferrante, Ernesto Losa, Dj Conds](https://open.spotify.com/track/3aCsArlr9Tg02Ko6BoeCr3) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Cupido \(Official Version Prod\. by Roberto Ferrante, Ernesto Losa, Dj Conds\)](https://open.spotify.com/album/3cLDdwbUQFQdU8qI3FLoEo) | 3:30 |
 | 13 | [Corazon Callejero](https://open.spotify.com/track/5Gp5OYkKpfGT2WKmHvCCfy) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Corazon Callejero](https://open.spotify.com/album/26bcaLoIE0UurvkDgNMxBE) | 2:48 |
 | 14 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 15 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 74 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 |
 | 75 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 
-Snapshot ID: `MCxkYWFjMzMyYzUxZDk3NTE3NzNjOTdhYzdmNjk3NDk5ZGU5NDk1OTBh`
+Snapshot ID: `MCwyM2UxZWE4MDVlNjZiYTk3ZWZiNzcwYWVlNWE1ZDM4ZDk1OTEzNWUx`

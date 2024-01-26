@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Baby, We Go Fast",
+        "url": "https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB"
+      },
+      "artists": [
+        {
+          "name": "KROMI",
+          "url": "https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Baby, We Go Fast",
+      "url": "https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT"
       },

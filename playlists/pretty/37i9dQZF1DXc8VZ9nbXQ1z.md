@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,296 likes - 69 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,387 likes - 69 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 58 | [Wotofa](https://open.spotify.com/track/0jj94nNAj0fvrMxaNP6Wzm) | [Simone Vitullo](https://open.spotify.com/artist/2DmIxLxqj5Pu1QcZxuMZOQ), [Simone Burrini](https://open.spotify.com/artist/1uyu0PV5opPMIqzspmsukC) | [Wotofa](https://open.spotify.com/album/1q62uXKkG4e9jdruqEGLLk) | 6:49 |
 | 59 | [Horizon Red \- Black Coffee Remix](https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Horizon Red \(Black Coffee Remix\)](https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC) | 9:25 |
 | 60 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
-| 61 | [7 Seconds](https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ) | 5:15 |
+| 61 | [7 Seconds](https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/4cjJ5asufFmCnTM5ALAlFt) | 5:15 |
 | 62 | [Your Love \- Caiiro Remix](https://open.spotify.com/track/03oV9VRa9T2WZwUBDHf5OL) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Nanghiti](https://open.spotify.com/artist/07xogxi3veFBwKz1ekkbmL), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Your Love \(Caiiro Remix\)](https://open.spotify.com/album/21Py05lI3MMv8Fjf2QrVvZ) | 4:38 |
 | 63 | [The Chosen One](https://open.spotify.com/track/6Sw7rlPGPnHCLO2Sl1cQs7) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 8:04 |
 | 64 | [Just To Hear You Say \- Joseph Ray Remix](https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 5:03 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 68 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/4I5RFixXyhu6Bb43S2gchs) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:29 |
 | 69 | [I'm Fallin \(feat\. RY X\) \(feat\. RY X\)](https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 7:42 |
 
-Snapshot ID: `MCwyZWFjZTE3OTU4ZWJiYjMzNWE3ZGJlZGI2NjVkZWI3YzYyZmQ2MTdi`
+Snapshot ID: `MCw4YTc5ZTU1N2FjZDViMDY1OWQ5MzFkNzMzNTU5YjNhZjY0MGEyYmQ5`

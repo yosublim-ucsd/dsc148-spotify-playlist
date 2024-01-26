@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,241 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,269 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
 | 75 | [S'aimer plus fort](https://open.spotify.com/track/6NYjqmd0a3CZJZyJfty7Pv) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:36 |
 
-Snapshot ID: `MCxjMmY3Yjk1YjFkNmJkMTdhZWI0NWQ1MGY3ZmJjZTBmMDQwMWY3ZmI0`
+Snapshot ID: `MCw5ODExZDMxYjg3ZDM1MGMyYjg3NDNlYWMxNzhmODI3ZjM2NjFkNWNk`

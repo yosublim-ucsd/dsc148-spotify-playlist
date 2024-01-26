@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "FREAKY",
+        "url": "https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "FREAKY",
+      "url": "https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV"
+    },
+    {
+      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 151411,
       "name": "Ligga low",
       "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"

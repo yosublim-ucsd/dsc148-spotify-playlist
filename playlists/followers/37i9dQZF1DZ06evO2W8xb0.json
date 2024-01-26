@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 2867,
+  "2024-01-26": 2871,
   "date_first_scraped": "2021-12-29",
   "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
   "name": "This Is Chief Commander Ebenezer Obey",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 1052560,
       "name": "Austerity Measure",
       "url": "https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 171733,
       "name": "Palongo",
       "url": "https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt"

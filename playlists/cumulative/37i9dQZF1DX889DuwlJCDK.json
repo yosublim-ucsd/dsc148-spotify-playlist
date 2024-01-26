@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 227728,
       "name": "Aiai",
       "url": "https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7"
@@ -326,6 +326,24 @@
       "duration_ms": 273000,
       "name": "AOTOHARU",
       "url": "https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI"
+    },
+    {
+      "album": {
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I"
+      },
+      "artists": [
+        {
+          "name": "sayonaramiochan",
+          "url": "https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177183,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3"
     },
     {
       "album": {
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173690,
       "name": "silk",
       "url": "https://open.spotify.com/track/26Q8akkjgTF4bMDSaeA3Lp"
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 188733,
       "name": "\u3059\u304d\u3002",
       "url": "https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd"
@@ -5468,6 +5486,24 @@
       "duration_ms": 202394,
       "name": "\u30ce\u30fc\u30c0\u30a6\u30c8",
       "url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV"
+    },
+    {
+      "album": {
+        "name": "TAMENI",
+        "url": "https://open.spotify.com/album/49BPjWgatgpLKRLThuGrHu"
+      },
+      "artists": [
+        {
+          "name": "HelloNewWorld",
+          "url": "https://open.spotify.com/artist/5fbAGgsPSF3Acwghf0CpPH"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/2ymUOUQGz8lbsePwMSKyOJ"
     },
     {
       "album": {
@@ -7542,7 +7578,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 233173,
       "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
       "url": "https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm"

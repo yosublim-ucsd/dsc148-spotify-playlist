@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 55847,
+  "2024-01-26": 55857,
   "date_first_scraped": "2022-05-13",
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
   "name": "mint MX",
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 167500,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 121937,
       "name": "FUEL",
       "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
@@ -3907,7 +3907,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Scare",
       "url": "https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw"

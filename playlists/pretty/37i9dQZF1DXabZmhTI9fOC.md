@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,539 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,555 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 45 | [Hurts Like Hell](https://open.spotify.com/track/6A38hc0e0PqusTCQn0xkSc) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU) | [Love and War](https://open.spotify.com/album/5pt1GAcmsDuMUXgelOQYXA) | 3:52 |
 | 46 | [Ready or Not \(feat\. Esthero\)](https://open.spotify.com/track/0tjTzWkZwjoyQwd0NgnL3y) | [Mischa "Book" Chillak](https://open.spotify.com/artist/31nZOLCXFsFlhMP1BBhfsa), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Ready or Not \(feat\. Esthero\)](https://open.spotify.com/album/6cm8vvv5HPoiF13ebfCR9a) | 2:33 |
 | 47 | [Thinking](https://open.spotify.com/track/7A4EuppedQjfYJwR9Rpbvs) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Thinking](https://open.spotify.com/album/6ba6t2QiNOTPDft0CLToQ4) | 2:41 |
-| 48 | [Sunshine](https://open.spotify.com/track/19AbIIdWxmJoLkk41jJWkc) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:29 |
+| 48 | [Sunshine](https://open.spotify.com/track/2RHlCrbpWoZMyGyDdRLr4O) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/7xactQjQaqLS23k2cq02MC) | 2:29 |
 | 49 | [No One Dies From Love](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:06 |
 | 50 | [Start of Something New](https://open.spotify.com/track/1HQNQun08en2PgCvSEMRwP) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Legend of Ely](https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J) | 3:02 |
 | 51 | [Whose Side Are You On](https://open.spotify.com/track/0MOlM2M1hR6MYzQtXe4GVd) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Cinematic Songs \(Vol\. 1\)](https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK) | 3:11 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCwyNjEwZDdkMzk2MzkzNTY4OTczZmViZjRiNDc3ZWY2NGM3ZGI4Njli`
+Snapshot ID: `MCwzMDY5MDAyMTBhNzBkYmEwY2MyMzdiYzE4ODg3YTgyZDVhMWM4ODIy`

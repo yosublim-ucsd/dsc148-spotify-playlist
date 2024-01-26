@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 110316,
+  "num_followers": 110346,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi",
+  "snapshot_id": "MCwxODVmMDQ3Yjc0NjlkOWViZGZmMGNhZGMxYTVhNGRlNWQzYzE5YTY0",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 233564,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "No Te Creas Tan Importante",
         "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 351308,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 233564,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
       },
       "artists": [
         {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
         }
       ],
-      "duration_ms": 241319,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
       },
       "artists": [
         {
-          "name": "Explosi\u00f3n De Iquitos",
-          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
         }
       ],
-      "duration_ms": 246141,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
+      "duration_ms": 241319,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
     },
     {
       "added_at": "2023-09-22 04:59:00",

@@ -6443,6 +6443,28 @@
     },
     {
       "album": {
+        "name": "Faded (Vexxed Remix)",
+        "url": "https://open.spotify.com/album/03lAo2bYlBxj59urKC7sks"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211522,
+      "name": "Faded - Vexxed Remix",
+      "url": "https://open.spotify.com/track/2gkkqsPru8KF3voVHJ4kZp"
+    },
+    {
+      "album": {
         "name": "Fader (Technikore Remix)",
         "url": "https://open.spotify.com/album/0H10bZQd2Yk7QmpfrfU9PA"
       },
@@ -10678,6 +10700,24 @@
       "duration_ms": 209333,
       "name": "Just Begun",
       "url": "https://open.spotify.com/track/1kvrrTtbb3U77BFg0hpiOw"
+    },
+    {
+      "album": {
+        "name": "JUST DANCE HARDSTYLE (Sped Up)",
+        "url": "https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip"
+      },
+      "artists": [
+        {
+          "name": "Mr. Glass",
+          "url": "https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "JUST DANCE HARDSTYLE (Sped Up)",
+      "url": "https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a"
     },
     {
       "album": {

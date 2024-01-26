@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,114 songs - 2 day 14 hr 32 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,116 songs - 2 day 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1122,5 +1122,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1112 | [Rave From The Grave](https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Rave From The Grave](https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW) | 2:57 |
 | 1113 | [Chase The Sun](https://open.spotify.com/track/3tHX6Ry3LQEaZNEReRzyqd) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Chase The Sun](https://open.spotify.com/album/6o5wVFfC69zaTHcPTFxXHJ) | 2:54 |
 | 1114 | [Blue Moment](https://open.spotify.com/track/3ib0h4ydtAEPSqkdBmHKIO) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [Iori Matsunaga](https://open.spotify.com/artist/4zsHCgCP120tpGNA7bBOdW) | [Blue Moment](https://open.spotify.com/album/3WLewzhRIhpWjztSxCvkg3) | 4:00 |
+| 1115 | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a) | [Mr\. Glass](https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva) | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip) | 2:51 |
+| 1116 | [Faded \- Vexxed Remix](https://open.spotify.com/track/2gkkqsPru8KF3voVHJ4kZp) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Faded \(Vexxed Remix\)](https://open.spotify.com/album/03lAo2bYlBxj59urKC7sks) | 3:31 |
 
-Snapshot ID: `MTE1NywyMGQ5YWQwNWZkNDkzNGM0MzAxZDdkNzMwMGZhN2U0MzhhMzk5Mjcy`
+Snapshot ID: `MTE1OSxhY2I0YjMyZTRmNWM4Y2FlOTQ0MGI5MDVlMmVhN2I4YTVlNDY2M2Uw`

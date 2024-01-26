@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-133 songs - 7 hr 10 min
+134 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [ABCD](https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [ABCD](https://open.spotify.com/album/24EIh5nGjpZhau23E1rNBo) | 2:55 | 2023-08-21 |  |
 | [Adithattu Cypher](https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Kavo](https://open.spotify.com/artist/03YNVy4UYUPI0nw7J3W0Q1), [Ibnu Kopz](https://open.spotify.com/artist/39lndWMB0tQuIN68ayAl0T), [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7) | [Adithattu Cypher](https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s) | 4:45 | 2022-06-23 | 2023-07-24 |
 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 | 2022-10-25 |  |
-| [Ambambo](https://open.spotify.com/track/6c9qywBwjBzGmiTR1TcGlm) | [Abhilash Prabhasurendran](https://open.spotify.com/artist/2hznP9gAUfMmlPXHEV9rlq), [Aneesh Shanker A](https://open.spotify.com/artist/1v4OalC4jFKpHq7KzqRQaY), [Abhilash Surendran](https://open.spotify.com/artist/57LTyNEIhZXV8aFyyvi1T6) | [Blockbuster Days](https://open.spotify.com/album/2eHIz043z5FBRTYoHJu4jL) | 1:54 | 2023-12-08 |  |
+| [Ambambo](https://open.spotify.com/track/1PkTgt9jmns4V58HSvGC5s) | [Abhilash Prabhasurendran](https://open.spotify.com/artist/2hznP9gAUfMmlPXHEV9rlq), [Aneesh Shanker A](https://open.spotify.com/artist/1v4OalC4jFKpHq7KzqRQaY), [Abhilash Surendran](https://open.spotify.com/artist/57LTyNEIhZXV8aFyyvi1T6) | [Blockbuster Days](https://open.spotify.com/album/4EvwktXuX9UPGeLySTSjTh) | 1:54 | 2024-01-03 |  |
+| [Ambambo](https://open.spotify.com/track/6c9qywBwjBzGmiTR1TcGlm) | [Abhilash Prabhasurendran](https://open.spotify.com/artist/2hznP9gAUfMmlPXHEV9rlq), [Aneesh Shanker A](https://open.spotify.com/artist/1v4OalC4jFKpHq7KzqRQaY), [Abhilash Surendran](https://open.spotify.com/artist/57LTyNEIhZXV8aFyyvi1T6) | [Blockbuster Days](https://open.spotify.com/album/2eHIz043z5FBRTYoHJu4jL) | 1:54 | 2023-12-08 | 2024-01-26 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/2sngiZAoGkAyXocp4ycegn) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila](https://open.spotify.com/album/2lA7PI7Z1VioAJnlARl6mF) | 2:35 | 2022-12-23 | 2023-04-01 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/6wRQXidgQSSd4tXtl3S7qB) | [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lTCLlF8ulRo1Cfu1Y9aY1) | 2:36 | 2022-12-23 | 2023-08-29 |
 | [Aparaada Panka](https://open.spotify.com/track/6UrEu6rwdoHsULeFFWdTFq) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aparaada Panka \(From "Maradona" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fxqH4tL9geSj3V3c6bTxo) | 3:36 | 2022-06-23 | 2023-07-24 |

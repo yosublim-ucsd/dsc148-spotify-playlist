@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1217930,
+  "2024-01-26": 1219006,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: PONCHET",
   "name": "Lagi Viral",
@@ -1248,6 +1248,28 @@
     },
     {
       "album": {
+        "name": "Worldwide Link-Up",
+        "url": "https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO"
+      },
+      "artists": [
+        {
+          "name": "Dana Lu",
+          "url": "https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj"
+        },
+        {
+          "name": "Taina Rain",
+          "url": "https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
+    },
+    {
+      "album": {
         "name": "KING THE LAND (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/2ebXX351bi71c7tCkH9yiF"
       },
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 218954,
       "name": "December",
       "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
@@ -1562,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "Pidi Baiq",
+        "url": "https://open.spotify.com/album/5nxA1hVmViJJFF0wyIP6j7"
+      },
+      "artists": [
+        {
+          "name": "Pidi Baiq",
+          "url": "https://open.spotify.com/artist/6QR072SvyOLDQYYlplI4Ll"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "Di Ini Januari",
+      "url": "https://open.spotify.com/track/1IXbE1zCoiWNdmR6ai3Knf"
+    },
+    {
+      "album": {
         "name": "Di Tepian Rindu",
         "url": "https://open.spotify.com/album/3wcanKq3bDbrdvt6CvObPG"
       },
@@ -1573,7 +1613,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 221389,
       "name": "Di Tepian Rindu",
       "url": "https://open.spotify.com/track/624kdAdUsNsqIQIWEzRrdw"
@@ -2133,7 +2173,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 210840,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
@@ -3807,6 +3847,24 @@
       "duration_ms": 202441,
       "name": "O Ya",
       "url": "https://open.spotify.com/track/3XxBabUCVJOgYxMuMhFb2W"
+    },
+    {
+      "album": {
+        "name": "Oh Mymy : 7s",
+        "url": "https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Oh Mymy : 7s",
+      "url": "https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80"
     },
     {
       "album": {

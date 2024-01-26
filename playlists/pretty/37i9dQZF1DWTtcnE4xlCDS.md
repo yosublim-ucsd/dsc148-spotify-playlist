@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,674 likes - 139 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,736 likes - 139 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [稀びと](https://open.spotify.com/track/6w3xm2YE6CRz4qFiP4yFel) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Sho Okada \[Bandai Namco Studio Inc.\]](https://open.spotify.com/artist/65SYu5S01780daM46aDQZP), [安倍=シャクジ=摩耶 \(CV: SONOTA\)](https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW) | [稀びと](https://open.spotify.com/album/4ua2BMqM0nXUiRxI8io0zH) | 2:47 |
+| 1 | [Marebito](https://open.spotify.com/track/7MHRMexVGTi9h7pyTJqJVs) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Sho Okada \[Bandai Namco Studio Inc.\]](https://open.spotify.com/artist/65SYu5S01780daM46aDQZP), [安倍=シャクジ=摩耶 \(CV: SONOTA\)](https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW) | [Marebito](https://open.spotify.com/album/4NHAu0kY4BeVVVx90K0xOH) | 2:47 |
 | 2 | [Netsudenbakusan](https://open.spotify.com/track/5ZYzrOqxNOJxw7gZ5RxjLj) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Chibanyan](https://open.spotify.com/artist/65NB5I8NBDzDRZ4ozKkB5Q), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [Netsudenbakusan](https://open.spotify.com/album/7c24folcxISIPybFlOO2nl) | 2:50 |
 | 3 | [Resist](https://open.spotify.com/track/2H8tr6GrI4gP5pDyM0mNDX) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw) | [Resist](https://open.spotify.com/album/1eXIG6K4YgZkDUTUInt8GF) | 3:26 |
 | 4 | [Agent CODE:BLUE](https://open.spotify.com/track/3gbpTapgbhch3ZXwond6kh) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [雫來叉手毬 \(CV: 中村さんそ\)](https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ) | [Agent Code:BLUE](https://open.spotify.com/album/0x9TbkbUozzKTEGJYGDx6H) | 2:07 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 138 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 139 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCxmMzM2ZjdmM2JmMDJlZWMyMWZkZjk0ODgzNWMwNGJiNzgyZTIzMTlk`
+Snapshot ID: `MCxjY2JmZTg5ZDBlZGMxMjA2YjQ4YjVjNmYxYmQ0YWY0ZThhMWQxYjc0`

@@ -21386,7 +21386,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -22042,7 +22042,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -23702,6 +23702,32 @@
       "duration_ms": 136360,
       "name": "Perro Salchicha",
       "url": "https://open.spotify.com/track/16BBRNgw82jgleM4Ds31GG"
+    },
+    {
+      "album": {
+        "name": "Del Hampa Pal Mundo",
+        "url": "https://open.spotify.com/album/6ZdWC2vUfPCCtOWqPzc2NP"
+      },
+      "artists": [
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "Renaglock",
+          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
+        },
+        {
+          "name": "YoungGlizzy",
+          "url": "https://open.spotify.com/artist/1IfUd8MMwEpavJSD84fTmC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178163,
+      "name": "Pe\u00f1alolen Cuna de Ladrones",
+      "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"
     },
     {
       "album": {
@@ -28824,7 +28850,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 93553,
       "name": "Tanta Envidia",
       "url": "https://open.spotify.com/track/1TrpecVRGmTTgdbinxQsaR"

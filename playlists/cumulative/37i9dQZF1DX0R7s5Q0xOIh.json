@@ -4592,7 +4592,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 378000,
-      "name": "Nada Mais (Lately) [Ao Vivo]",
+      "name": "Nada Mais (Lately) - Ao Vivo",
       "url": "https://open.spotify.com/track/62MBkoN95QH0jqoGw5FvOC"
     },
     {
@@ -5838,6 +5838,10 @@
         {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
         }
       ],
       "date_added": "2023-12-15",

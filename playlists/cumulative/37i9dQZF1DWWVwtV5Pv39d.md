@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2022-12-06 |  |
-| [Alphabet Song](https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT) | [Cooltime](https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf) | [ABC KIDS SONGS えいごでうたお！](https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1) | 1:46 | 2023-03-17 |  |
+| [Alphabet Song](https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [ABC KIDS SONGS えいごでうたお！](https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1) | 1:46 | 2023-03-17 |  |
 | [Alphabet Song](https://open.spotify.com/track/1eiqW0DFMojEwi6jXmmePS) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX) | 1:46 | 2021-09-23 | 2022-07-29 |
 | [Alphabet Song](https://open.spotify.com/track/48J2LOgzd87JK4SUfdu38H) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [De regreso al colegio](https://open.spotify.com/album/5LTozJDLwFaF6eK46YIeVa) | 1:46 | 2022-07-08 | 2022-08-22 |
 | [Alphabet Song](https://open.spotify.com/track/4ESq7KLdbgVz4RTAF10UBu) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Happy Birthday Canzoni per bambini](https://open.spotify.com/album/6zDcHdfsjeWQep0hlu6MXi) | 1:46 | 2022-07-08 | 2022-11-13 |

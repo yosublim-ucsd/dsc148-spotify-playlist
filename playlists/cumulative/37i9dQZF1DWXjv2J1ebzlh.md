@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,194 songs - 6 day 3 hr 47 min
+2,195 songs - 6 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,7 +944,8 @@
 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 | 2022-07-12 |  |
 | [Homenaje a Justino](https://open.spotify.com/track/2TsPMpSWoqT5sfOaDAyqI2) | [Grupo Socavon](https://open.spotify.com/artist/68Xy7E0iR0xRCq2uAk6UyG) | [Pacifico Colombiano](https://open.spotify.com/album/6z5RhaZNJQfUgdKj0JOCH7) | 5:31 | 2022-06-09 |  |
 | [Hong Kong](https://open.spotify.com/track/3aF5mHzXj2bxtv2fpHbgTj) | [Michi Sarmiento y su Combo Bravo](https://open.spotify.com/artist/4sEESURYY5eLdFEKHCtub0) | [Cum Cumbelé](https://open.spotify.com/album/5QRkRiMAqnsbp4KdEjXKAv) | 3:53 | 2022-06-09 |  |
-| [Honour Your Mother and Father](https://open.spotify.com/track/2O4aXPntumZe59vCqMKnv2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Early Dekker](https://open.spotify.com/album/0tCUZ28lEp4k43hfG7WHoo) | 2:26 | 2023-10-06 |  |
+| [Honour Your Mother and Father](https://open.spotify.com/track/2O4aXPntumZe59vCqMKnv2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Early Dekker](https://open.spotify.com/album/0tCUZ28lEp4k43hfG7WHoo) | 2:26 | 2023-10-06 | 2024-01-26 |
+| [Honour Your Mother and Father](https://open.spotify.com/track/5Cif5fCDY3hctiqMEwFYzL) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [Beverley All Stars](https://open.spotify.com/artist/1sZsLTu47WBKrjkeh6eQer) | [King of Ska: The Indispensable Desmond Dekker](https://open.spotify.com/album/45WV6CgZjm1fqiqobZMVJe) | 2:25 | 2023-11-29 |  |
 | [Honour Your Mother and Father](https://open.spotify.com/track/2BIz2VHJtpKI0MzoM85c5z) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [Anthology: Israelites 1963\-1999](https://open.spotify.com/album/4uuRzNd7cWVoM3d44W7X6J) | 2:25 | 2022-07-12 | 2023-11-04 |
 | [Honour Your Mother and Father](https://open.spotify.com/track/4bNHfjoowNCk15XxRp8P6X) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [Rudy Got Soul: The Early Beverley's Sessions 1963\-1968](https://open.spotify.com/album/14a6SZQ8uwvC1bvGGPmlDp) | 2:25 | 2023-10-06 | 2023-11-05 |
 | [Horreya](https://open.spotify.com/track/0F0XV7AewUzMKvme1Yru1z) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 5:25 | 2022-10-31 |  |

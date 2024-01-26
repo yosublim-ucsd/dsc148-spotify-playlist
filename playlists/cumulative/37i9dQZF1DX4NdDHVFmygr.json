@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits marocains du moment. Cover: Morad, GIMS",
+  "description": "Les hits marocains du moment. Cover: Dada",
   "name": "Maroc Hits",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 169142,
       "name": "BABA (feat. Ghali)",
       "url": "https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg"
@@ -2038,6 +2038,24 @@
       "duration_ms": 244363,
       "name": "Ghorba",
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191229,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
     },
     {
       "album": {
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195541,
       "name": "Love / Liyam - Coke Studio Morocco 2023",
       "url": "https://open.spotify.com/track/3GZ47XyumoQQyHcV3ujPvU"
@@ -5668,6 +5686,24 @@
       "duration_ms": 206511,
       "name": "TODO BEN\u00c9 - Spotify Singles",
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
+    },
+    {
+      "album": {
+        "name": "TRAP ROUMI V5",
+        "url": "https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "TRAP ROUMI V5",
+      "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
     },
     {
       "album": {

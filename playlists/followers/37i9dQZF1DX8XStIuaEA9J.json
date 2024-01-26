@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 171998,
+  "2024-01-26": 172055,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: RADWIMPS",
   "name": "Teen Culture",
@@ -111,6 +111,24 @@
       "duration_ms": 127925,
       "name": "Any angle",
       "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
+    },
+    {
+      "album": {
+        "name": "SS-POP Ver.AO",
+        "url": "https://open.spotify.com/album/05GIgeP1GUjj82679Dylbr"
+      },
+      "artists": [
+        {
+          "name": "Suzukisuzuki",
+          "url": "https://open.spotify.com/artist/690KyTd8rr5DRhIbtsO19x"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286233,
+      "name": "AO",
+      "url": "https://open.spotify.com/track/45I5cehUH3Qy1sVMr4JA7C"
     },
     {
       "album": {
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 286233,
       "name": "\u78a7\u301c\u30a2\u30aa\u301c",
       "url": "https://open.spotify.com/track/2PqY84kCLme8GPbOyGApRP"

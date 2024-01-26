@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 56920,
+  "2024-01-26": 56937,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
   "name": "Latest Kannada",
@@ -6158,6 +6158,36 @@
     },
     {
       "album": {
+        "name": "Eerappanu (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/1BG9etsyWsihGFnVQijeLY"
+      },
+      "artists": [
+        {
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Pramod Jois",
+          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201777,
+      "name": "Eerappanu (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF"
+    },
+    {
+      "album": {
         "name": "Eerappanu (From \"Captain Miller\") (Kannada)",
         "url": "https://open.spotify.com/album/1t0ZsEntEBvoQTDywtCIGF"
       },
@@ -7573,7 +7603,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 201777,
       "name": "Ghora Hara (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe"
@@ -13985,7 +14015,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 277635,
       "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
       "url": "https://open.spotify.com/track/2YUeI6etyJniTFjGFplqvd"
@@ -17257,6 +17287,32 @@
       "duration_ms": 217500,
       "name": "Nondkobyaadve (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/1zIcWrcRWvD55I8r8cvKmG"
+    },
+    {
+      "album": {
+        "name": "ANIMAL (KANNADA) (Deluxe Edition Album)",
+        "url": "https://open.spotify.com/album/6zQA08X1a9toojBTQExtP7"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113386,
+      "name": "Nooraru (Soul Version)",
+      "url": "https://open.spotify.com/track/58ORbd6adFpA1nhnCLiD4M"
     },
     {
       "album": {

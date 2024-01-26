@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32974,
+  "num_followers": 32970,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjMzZDdmYzc5YzlhZGI2ZWI4ZGIxMDAxOWQ5OTY0NTc4ZDMyZGQ5",
+  "snapshot_id": "MCxjZGE0MjkyNjE4MjE1ZjQ5ODhkOWEyMDg5YzM2OTA0ODdmMDJlOTE3",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Schweinegeld",
+        "url": "https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby"
+      },
+      "artists": [
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "duration_ms": 128514,
+      "name": "Schweinegeld",
+      "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Ich darf das (feat. Josi)",
         "url": "https://open.spotify.com/album/6B8WZ0YXKGdWIDgIHvATUs"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 151706,
       "name": "Ich darf das (feat. Josi)",
       "url": "https://open.spotify.com/track/6fLoCrfYHClvmmk9VkIOfs"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Schweinegeld",
-        "url": "https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby"
-      },
-      "artists": [
-        {
-          "name": "SHOKI",
-          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
-        }
-      ],
-      "duration_ms": 128514,
-      "name": "Schweinegeld",
-      "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Kingsize",
-        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
-      },
-      "artists": [
-        {
-          "name": "DONNA SAVAGE",
-          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
-        }
-      ],
-      "duration_ms": 153974,
-      "name": "Kingsize",
-      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Hauptgewinn",
-        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
+        "name": "Kingsize",
+        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
       },
       "artists": [
         {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+          "name": "DONNA SAVAGE",
+          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
         }
       ],
-      "duration_ms": 122900,
-      "name": "Welt Ohne Dich",
-      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
+      "duration_ms": 153974,
+      "name": "Kingsize",
+      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -319,6 +303,22 @@
       "duration_ms": 176976,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Hauptgewinn",
+        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 122900,
+      "name": "Welt Ohne Dich",
+      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Beissgirls",
         "url": "https://open.spotify.com/album/3a9omO9IvUCY8yWS9Cd2aM"
       },
@@ -439,18 +423,34 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Wuz poppin",
-        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
       },
       "artists": [
         {
-          "name": "Kitty Kat",
-          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
         }
       ],
-      "duration_ms": 148462,
-      "name": "Wuz poppin",
-      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "K\u00f6nigin Panik",
+        "url": "https://open.spotify.com/album/0FhzRdQuWHDtftlHaaUeJe"
+      },
+      "artists": [
+        {
+          "name": "nae",
+          "url": "https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3"
+        }
+      ],
+      "duration_ms": 152682,
+      "name": "K\u00f6nigin Panik",
+      "url": "https://open.spotify.com/track/4kf6a1WQNY9d0F9GSn2QqX"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "K\u00f6nigin Panik",
-        "url": "https://open.spotify.com/album/0FhzRdQuWHDtftlHaaUeJe"
+        "name": "Wuz poppin",
+        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
       },
       "artists": [
         {
-          "name": "nae",
-          "url": "https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3"
+          "name": "Kitty Kat",
+          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
         }
       ],
-      "duration_ms": 152682,
-      "name": "K\u00f6nigin Panik",
-      "url": "https://open.spotify.com/track/4kf6a1WQNY9d0F9GSn2QqX"
+      "duration_ms": 148462,
+      "name": "Wuz poppin",
+      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
     },
     {
       "added_at": "2024-01-09 23:00:00",

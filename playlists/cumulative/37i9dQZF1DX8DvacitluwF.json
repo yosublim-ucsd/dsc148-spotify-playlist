@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191229,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9"
+    },
+    {
+      "album": {
         "name": "90's Anxiety",
         "url": "https://open.spotify.com/album/50Y1QCfzap5t0VdTZwEn7p"
       },
@@ -42,7 +64,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 150548,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3y8MHPIIdUbbp5QozCbJ9G"
@@ -180,7 +202,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 310000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX"
@@ -224,7 +246,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126545,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/1xVncI2PZc9wHHiThpnl6i"
@@ -387,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Closer To Me",
+        "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164663,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
+    },
+    {
+      "album": {
         "name": "CLOWN",
         "url": "https://open.spotify.com/album/328alaY3n5WRAWkBzkBl7G"
       },
@@ -474,7 +514,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 338975,
       "name": "Don't Lie/See It Through - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
@@ -518,7 +558,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191020,
       "name": "Down",
       "url": "https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz"
@@ -584,7 +624,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 185806,
       "name": "EBBS & FLOWS: Endlessly",
       "url": "https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx"
@@ -656,7 +696,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
@@ -758,7 +798,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177606,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT"
@@ -824,7 +864,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 218400,
       "name": "Forever (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/0xGP8GCqyoshKyKXXR4irB"
@@ -850,7 +890,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 198750,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K"
@@ -886,7 +926,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 152068,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/5UWNkFcMRrwjoLioVmr1Y7"
@@ -984,7 +1024,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
@@ -1060,7 +1100,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 238032,
       "name": "I Know What I Want",
       "url": "https://open.spotify.com/track/4t6lJovfXhtW2eKaWfc41S"
@@ -1082,7 +1122,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 148601,
       "name": "I Lay (feat. Xenia Manasseh)",
       "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
@@ -1165,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
+    },
+    {
+      "album": {
         "name": "iThuba",
         "url": "https://open.spotify.com/album/6AcE5eBmYc6e3SjmZMUwkr"
       },
@@ -1188,7 +1250,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 206600,
       "name": "iThuba",
       "url": "https://open.spotify.com/track/02yisxKfhmx0wYutmtC21a"
@@ -1210,7 +1272,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
@@ -1246,7 +1308,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 124776,
       "name": "Just The Start",
       "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
@@ -1264,7 +1326,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157387,
       "name": "King.",
       "url": "https://open.spotify.com/track/2p764iXYTC6DjmN4Go8OCF"
@@ -1340,7 +1402,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163014,
       "name": "Love/Hate",
       "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
@@ -1398,7 +1460,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 277720,
       "name": "Members Only (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
@@ -1456,7 +1518,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155276,
       "name": "Nazama - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2YX0cRQN7xSMpEhyokEUXM"
@@ -1518,7 +1580,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 113596,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/71So6HCJ4e5FW2eYKMrExF"
@@ -1634,7 +1696,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 135869,
       "name": "Only Starrr",
       "url": "https://open.spotify.com/track/4OQTPJ9saa4yLletR4B6JE"
@@ -1768,7 +1830,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 179560,
       "name": "Range 95\u2019",
       "url": "https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG"
@@ -1826,7 +1888,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 130626,
       "name": "She'll Be OK",
       "url": "https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN"
@@ -1990,7 +2052,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 88587,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R"
@@ -2052,7 +2114,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183428,
       "name": "Tender",
       "url": "https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U"
@@ -2200,7 +2262,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 249290,
       "name": "Uzong'khumbula",
       "url": "https://open.spotify.com/track/7mD56wV0H5HlbXzujpKFDS"
@@ -2258,7 +2320,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183341,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1"
@@ -2316,7 +2378,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153684,
       "name": "What Is Love?",
       "url": "https://open.spotify.com/track/2BSIFZLVJ8QIUWvIToGQzb"
@@ -2378,7 +2440,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228235,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza"
@@ -2408,7 +2470,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157714,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml"

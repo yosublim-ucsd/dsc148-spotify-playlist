@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Faridkot",
-  "num_followers": 48462,
+  "num_followers": 48516,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTMxMDkzOGEwZGFlZGU0NjMyZDUwODhhZjhkMWFiN2M5ODhmYmE3",
+  "snapshot_id": "MCxkOGQ1MWY2YTkyY2JlZGE3NjdjNGRlNTBhZGQ1ODEzMWVmN2I2MDc3",
   "tracks": [
     {
       "added_at": "2024-01-19 08:41:12",
@@ -110,6 +110,10 @@
         {
           "name": "Quincy Chett",
           "url": "https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi"
+        },
+        {
+          "name": "Afzal Yusuff",
+          "url": "https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm"
         }
       ],
       "duration_ms": 281078,
@@ -930,6 +934,10 @@
         {
           "name": "Shruti Pathak",
           "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
         }
       ],
       "duration_ms": 260709,

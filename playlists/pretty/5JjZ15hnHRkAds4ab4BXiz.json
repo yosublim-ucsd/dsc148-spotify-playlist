@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "OTUsMTljZmFjZDI5MTUxNmFjMDc1ZTc0NzEwZWMwMjA1OTJkOTM5N2U3OQ==",
+  "snapshot_id": "OTYsMmVmM2Y4MTFjZjcwODQ3MzJkN2NiMzM5MzVlY2I2Y2RhZWFhYWU3Yg==",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -1111,6 +1111,22 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "added_at": "2024-01-25 22:05:06",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     }
   ],
   "unique_name": "Ballads",

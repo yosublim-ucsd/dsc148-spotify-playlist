@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,593 songs - 3 day 4 hr 48 min
+1,594 songs - 3 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [FACEDOWN](https://open.spotify.com/track/7BBSPfuSgfIC4QNxGwv3To) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [FREERADICAL](https://open.spotify.com/album/16BKHt7X9RLsMWVzQdUheU) | 3:56 | 2020-10-13\* | 2021-01-23 |
 | [FADE](https://open.spotify.com/track/2queNX3zTuto5XSXuUZlEe) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [FADE](https://open.spotify.com/album/1Qok0qVzGIHGooRA7zWZGM) | 2:24 | 2021-06-12 | 2021-10-14 |
 | [FAF](https://open.spotify.com/track/70ig0TCWBDkxBBpx1C6cj5) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Wool](https://open.spotify.com/album/1WTHhcrE1GoGl28FM5FjT5) | 1:48 | 2020-10-13\* | 2021-01-23 |
-| [Failed at Math\(s\) \- Billy Lemos Remix](https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Failed at Math\(s\) \(Billy Lemos Remix\)](https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag) | 2:08 | 2023-12-08 |  |
+| [Failed at Math\(s\) \- Billy Lemos Remix](https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Failed at Math\(s\) \(Billy Lemos Remix\)](https://open.spotify.com/album/0xf3dWUvu8vDrKjPxqRvag) | 2:08 | 2023-12-08 | 2024-01-26 |
 | [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 | 2023-09-22 |  |
 | [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-15 | 2023-10-12 |
 | [Fairy Dust](https://open.spotify.com/track/5hV4znzZrmszoZw2v41aMD) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Fairy Dust](https://open.spotify.com/album/6vPj3iykyriaTaYRUQiG9c) | 2:54 | 2021-02-20 | 2021-10-16 |
@@ -756,7 +756,8 @@
 | [Keto](https://open.spotify.com/track/7bNjxTrAG2DuF3rmP7aFl7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USEE4YOURSELF](https://open.spotify.com/album/49BwECfeABwoB9DPAmTmwz) | 2:21 | 2021-10-12 | 2021-10-13 |
 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-06-10 | 2022-10-05 |
 | [Kevin](https://open.spotify.com/track/2DylrERZbUpx845Cd8y7hU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Kevin](https://open.spotify.com/album/6rqZTOVumjrqnV4cT6i9xq) | 3:19 | 2020-10-13\* | 2021-01-23 |
-| [kickstand](https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [kickstand](https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz) | 2:10 | 2023-09-22 |  |
+| [kickstand](https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:10 | 2024-01-09 |  |
+| [kickstand](https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [kickstand](https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz) | 2:10 | 2023-09-22 | 2024-01-26 |
 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 | 2022-10-25 | 2022-12-01 |
 | [KIDS ON MOLLY](https://open.spotify.com/track/4CbRVZuohuxJPMqvvWb2lT) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [KIDS ON MOLLY](https://open.spotify.com/album/3VJM3dpFbMnx9C0fgwi9jv) | 2:43 | 2021-08-15 | 2021-10-16 |
 | [Kill Some](https://open.spotify.com/track/6kpoI1wSs2Evbhszqs8cUQ) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [Kill Some](https://open.spotify.com/album/6ouMXGY2TTchLqS2oPBGly) | 2:44 | 2020-10-13\* | 2020-12-22 |
@@ -1446,7 +1447,7 @@
 | [triple check](https://open.spotify.com/track/63MY8NhFCU4W9fTkSRRL22) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [triple check](https://open.spotify.com/album/2xo6NArAUKDAsjpZzW8LKZ) | 2:22 | 2021-07-04 | 2021-10-11 |
 | [Triple Double](https://open.spotify.com/track/4QCYm5VF70vcx5Ua15aTSN) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 3:42 | 2022-08-27 | 2022-10-05 |
 | [Triple Double](https://open.spotify.com/track/4VsPMNoTStZSShv1bJwrv5) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pixel Bath](https://open.spotify.com/album/0j4s8goMrRPZWjG3v0UblY) | 3:42 | 2020-10-23 | 2021-10-16 |
-| [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-10-13\* | 2023-02-26 |
+| [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-10-13\* |  |
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-02-04 | 2023-03-02 |
 | [TROY BOLTON](https://open.spotify.com/track/62fpf6w40yy6htlkrGWcXS) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV) | [TROY BOLTON](https://open.spotify.com/album/6jp0lwK5M3CsYMd6X9LeDV) | 2:20 | 2021-05-08 | 2022-02-05 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-20 |  |

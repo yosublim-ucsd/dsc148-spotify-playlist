@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Beyries
 
-2,276 songs - 5 day 1 hr 33 min
+2,277 songs - 5 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
-| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 |  |
+| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 | 2024-01-26 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-22 | 2023-11-18 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2022-09-24 |
 | [Contvct \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7BIPJBIGoxQTn3i748Wk0j) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [LMDB](https://open.spotify.com/album/18xrakiypJXRVWnCD30zjD) | 2:56 | 2022-10-07 | 2022-10-22 |
@@ -1129,6 +1129,7 @@
 | [Laisser tout](https://open.spotify.com/track/0HPQLdINNh702Kd7HTXpki) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Laisser tout](https://open.spotify.com/album/3qF7fybaP7vQtMKxkztKeR) | 3:18 | 2022-01-21 | 2022-01-29 |
 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 | 2022-02-04 | 2022-02-19 |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2023-10-13 | 2023-10-21 |
+| [Lamborghini](https://open.spotify.com/track/7E1OKKYyt97Tjf5SWbJgEp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Lamborghini](https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx) | 2:16 | 2024-01-19 |  |
 | [Lame Eyes \- Version française](https://open.spotify.com/track/1kcYYFFWSlx20kdXM7w3Qd) | [Lampion](https://open.spotify.com/artist/59UGzTU8yLmdOgB3TCRQak) | [Lame Eyes \(Version française\)](https://open.spotify.com/album/6mJuQIZVbnjBjXweyHrh74) | 3:08 | 2022-09-30 | 2022-10-08 |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2022-07-30 |
 | [Lance\-Flamme Lance\-Glace](https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv) | [YOCTO](https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n) | [Lance\-Flamme Lance\-Glace](https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR) | 3:01 | 2023-03-24 | 2023-04-09 |

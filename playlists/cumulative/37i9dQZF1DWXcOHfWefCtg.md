@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-68 songs - 3 hr 48 min
+69 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Back Door Santa](https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:16 | 2021-11-12 |  |
 | [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 | 2023-11-11 |
 | [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 | 2023-11-10 |  |
-| [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 | 2021-11-12 |  |
+| [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 | 2021-11-12 | 2024-01-26 |
+| [Christmas Gift](https://open.spotify.com/track/54LItSE1N9MSjF8bIdwuYY) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Músicas de Natal](https://open.spotify.com/album/1RHO8o29AWNh6TmUPANc46) | 3:28 | 2022-12-06 |  |
 | [Christmas Groove](https://open.spotify.com/track/0H925kYkEofwvF8g2oIos1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:28 | 2022-12-06 |  |
 | [Christmas Kisses](https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Christmas Kisses](https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki) | 3:31 | 2023-11-03 |  |
 | [Christmas Love](https://open.spotify.com/track/2vETTjXh0QRlkUETTlcbOg) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Peace](https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW) | 3:11 | 2021-11-12 |  |

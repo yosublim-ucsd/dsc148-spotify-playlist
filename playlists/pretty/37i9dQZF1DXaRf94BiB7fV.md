@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Ruhaan79, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,225 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,241 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 42 | [Mere Qareeb](https://open.spotify.com/track/6K5UseQMawDU2WKKVV4Jcz) | [Purple Stringz](https://open.spotify.com/artist/4Iehn39e1T1sd4LfVqHXWB), [Doli Kalita](https://open.spotify.com/artist/0mrcviG7p9gw7vlrGHIDA0) | [Mere Qareeb](https://open.spotify.com/album/0fovxe4eHfrnV0eT1AK94C) | 2:38 |
 | 43 | [Gumshuda Main Hoon](https://open.spotify.com/track/3WloGOKxA9SHMN30wxefa3) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Gumshuda Main Hoon](https://open.spotify.com/album/6aySSUidnzLpeWVjRHJeDv) | 2:23 |
 | 44 | [Jeeya Jaaye Naa](https://open.spotify.com/track/1XvMkTZCTWVg4lh2uP3gSk) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Jeeya Jaaye Naa](https://open.spotify.com/album/7iUkttSpAY0rf3IhMq3zbk) | 3:02 |
-| 45 | [Tere Bina Jiya Jaye Na](https://open.spotify.com/track/0TthPVr1cZg4SuA7nsJe4a) | [Siddharth Bharadwaj](https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR), [Ranamit Sarma](https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2) | [Tere Bina Jiya Jaye Na](https://open.spotify.com/album/0oBm7u9JgClT1pOFZEilap) | 3:54 |
+| 45 | [Tere Bina Jiya Jaye Na](https://open.spotify.com/track/3g0PtWvvLSVl5G5N5nRF6d) | [Siddharth Bharadwaj](https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR), [Ranamit Sarma](https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2) | [Tere Bina Jiya Jaye Na](https://open.spotify.com/album/2yEdok1S6rmrldQc9ElNyI) | 3:54 |
 | 46 | [In My Mind](https://open.spotify.com/track/3DSEQ0vw0NbNcFtwDjFODN) | [Dev Mehta](https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl) | [In My Mind](https://open.spotify.com/album/4lT4PR8m65a1eClXovw2K7) | 3:37 |
 | 47 | [Fool's Gold](https://open.spotify.com/track/4rLIYo4sOLG22eFApqap92) | [Cana Nongkhlaw](https://open.spotify.com/artist/6ufQ7tUpZmW2aaxo8KtdnC) | [Meet Me in Gaḏ\-Šmānê](https://open.spotify.com/album/3Boa6cSmG2o8jK9a3EMVkG) | 3:27 |
 | 48 | [Jahaan](https://open.spotify.com/track/0lDbiE4PfsGJX61XUtSX6p) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Rhythm V](https://open.spotify.com/artist/3y9truNExJUI46Q17RJvyD), [Ro](https://open.spotify.com/artist/7vGhIQpt8BEDMmvc54Rbks) | [Jahaan](https://open.spotify.com/album/3tQL7BDhLcoqcijUqdLndX) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kho Na Jau](https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul) | [Shubham Sarita](https://open.spotify.com/artist/2M2UjSgx193L2gOGZ8lEkw) | [Kho Na Jau](https://open.spotify.com/album/5RcROEiAF3IFVKf90WDc1M) | 2:13 |
 | 100 | [Kahin Door \(Raw\)](https://open.spotify.com/track/48Ffp7BhtGsmxsz1b8YDlw) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Kahin Door \(Raw\)](https://open.spotify.com/album/0lSZjrFUdgpM6RZCppSYDO) | 2:48 |
 
-Snapshot ID: `MCw5OTcxOTU1MjU5ZDU4MGM1NzI5MmM0YTk3NzQ0N2U0NGRhODFjYTJl`
+Snapshot ID: `MCwyNGFhYWI3OTA0NTI1MDI0YzA0NWM1ZDNhOWQwMDIzODRhYTM5YzJm`

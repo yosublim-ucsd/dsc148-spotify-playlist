@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Keabadian Cinta",
+        "url": "https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4"
+      },
+      "artists": [
+        {
+          "name": "Sridevi DA",
+          "url": "https://open.spotify.com/artist/0b5wJp0t3tnafP9BnbQY98"
+        },
+        {
+          "name": "Kier King",
+          "url": "https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263919,
+      "name": "Keabadian Cinta",
+      "url": "https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU"
+    },
+    {
+      "album": {
         "name": "Kejam",
         "url": "https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73"
       },

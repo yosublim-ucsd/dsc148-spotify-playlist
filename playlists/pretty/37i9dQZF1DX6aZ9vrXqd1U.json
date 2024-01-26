@@ -1,15 +1,15 @@
 {
   "description": "Enjoy music from GUNDAM series! \u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u5275\u901a\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba",
-  "num_followers": 100311,
+  "num_followers": 100556,
   "original_name": "GUNDAM SERIES -\u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTRlZDIwNWI5NzkyODY5NGViNmNiYzc4NTA1NGZhODc1ZDBhNzgw",
+  "snapshot_id": "MCxiZjU1OGM4MzVjOTExNjVlM2VlN2EyMThmM2ZhZTY0ZmI0ZTQ3ZWIz",
   "tracks": [
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "FREEDOM",
         "url": "https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "SARIGIWA NO ROMANTICS",
         "url": "https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u671b\u90f7",
+        "url": "https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "duration_ms": 231833,
+      "name": "\u671b\u90f7",
+      "url": "https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/0c8uRnt3eEMJWxDotxoK8G"
@@ -61,7 +77,55 @@
       "url": "https://open.spotify.com/track/3jHwfPbqqMBRABSbqbWhlf"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "duration_ms": 81866,
+      "name": "\u51fa\u6483\uff01\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/4hRwSXQJEi0CtyF2Q9fvT4"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "duration_ms": 140300,
+      "name": "\u822a\u884c\u3059\u308b\u30df\u30ec\u30cb\u30a2\u30e0",
+      "url": "https://open.spotify.com/track/4F1LiP4RwiWzH4viDnXKOI"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "duration_ms": 258900,
+      "name": "\u5bfe\u6c7a\u306e\u523b",
+      "url": "https://open.spotify.com/track/26Eu3sztahcJ35RpJ21Ki3"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "coordinate",
         "url": "https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2"
@@ -77,7 +141,7 @@
       "url": "https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ"
@@ -93,7 +157,7 @@
       "url": "https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/1c6hdEBSFwutFim9pyaDHm"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Annani Isshodattanoni",
         "url": "https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "super nipops",
         "url": "https://open.spotify.com/album/75agQWCXwsZZWL0ndw9AiU"
@@ -141,7 +205,7 @@
       "url": "https://open.spotify.com/track/5mf0n04gtpdXbl9ZGgX1uY"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/1h4Lf9DpKDdO8gNSmedtht"
@@ -157,7 +221,7 @@
       "url": "https://open.spotify.com/track/6mj3XXPRbBXUPG2yynVWO3"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u300eelemental\u300f",
         "url": "https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id"
@@ -173,7 +237,7 @@
       "url": "https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "coordinate",
         "url": "https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/2WVLxptmqfKfGLve79U5s6"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Shizukana Yoruni",
         "url": "https://open.spotify.com/album/37Nw2Q4Wlhei7xl4iUWQGk"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/71qfrdlJLBfPusYA4RheiH"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mizu no Akashi",
         "url": "https://open.spotify.com/album/0shB8lOdBi934o9yQJxNvl"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/1WeJz5HHT6duRoUgYEo7t2"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1",
         "url": "https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt"
@@ -253,7 +317,7 @@
       "url": "https://open.spotify.com/track/6BrcLyVwbjghikxUEXlaYF"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy"
@@ -269,7 +333,7 @@
       "url": "https://open.spotify.com/track/728JtqbOrl6aCwc4GSAW6v"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy"
@@ -285,7 +349,7 @@
       "url": "https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 3",
         "url": "https://open.spotify.com/album/29DHnmWqGgdPnDTCCLA98h"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/4j2vj0EqIFr5tia2gFq3SI"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mobile Suit Gundam Seed Suit Vol.4 Miguel Ayman \u00d7 Nicol Amarfi",
         "url": "https://open.spotify.com/album/3en46C6DR535LT0Q7NG6RI"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/7AoVUFRPh55tomedeRhPCI"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "vertical infinity",
         "url": "https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "G\u221eVER",
         "url": "https://open.spotify.com/album/7wK4X1r1m6QEpLBw1jdDTs"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/3S78JYV8atqC3wiRDoFUwW"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u50d5\u305f\u3061\u306e\u884c\u65b9",
         "url": "https://open.spotify.com/album/52Jxsu8WaIiezLSzAkP4IL"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/4Cp6bLzWRk72OcnXsLiC5Z"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Wings of Words",
         "url": "https://open.spotify.com/album/4pNOBQoEctm1TN1Sf5nYEu"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/2H2eM8StBnOLOzRI0rZ7G2"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "CLOUD NINE",
         "url": "https://open.spotify.com/album/6TSLuI1wZYcXkpQcymNWjW"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/3HP9BI6rFPO41uSNVnTnjv"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Make Progress",
         "url": "https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9"
@@ -413,7 +477,7 @@
       "url": "https://open.spotify.com/track/6NHwaWtSIQTZKP4ki1riR1"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "ROSE ALBUM",
         "url": "https://open.spotify.com/album/2CrjeeVRKQmFY22ntJBFW8"
@@ -445,7 +509,7 @@
       "url": "https://open.spotify.com/track/7EFJ1ugMxOC2UzIXH9G7XU"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Kimi wa Boku ni Niteiru",
         "url": "https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S"
@@ -461,7 +525,7 @@
       "url": "https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "circus",
         "url": "https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9"
@@ -477,7 +541,7 @@
       "url": "https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Junshoku brilliant",
         "url": "https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Quiet Night C.E.73",
         "url": "https://open.spotify.com/album/6eJP1BgVZlvT96Hu9zHeWA"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/5KyfI9H9gcjwpD54Q24Yqe"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "EMOTION",
         "url": "https://open.spotify.com/album/1SUFlnYsli4YMKa7DivoxU"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/0PQ9dS0Pv3GAQmBBQM6wT0"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Fields of hope",
         "url": "https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM SEED DESTINY Original Motion Picture Soundtrack 1",
         "url": "https://open.spotify.com/album/6bU65XgooKmPseVZkZna7x"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/2H1lCU6rGt9t7WVs0vebZU"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/6uGL7LBdrlZAZwRPOOuX0m"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 3",
         "url": "https://open.spotify.com/album/2uoYWnHvDhchTUH5At0u42"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/37MjNKJloMptG0j5ogWYDn"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Graduation \u301cSingles\u301c",
         "url": "https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/4FQ8NOw5D10LRlQjwESDUI"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "tears",
         "url": "https://open.spotify.com/album/0wsiSUnH2aTP3NiYVdQ8j3"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/0MLhX6Najd6lo8wZEnjLTq"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u53c2",
         "url": "https://open.spotify.com/album/5zmnBCHxv3euQ8Hm9j974K"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/2BY3sslLXvGBoRmlVxQGGt"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "STARGAZER ~Hoshi no Tobira",
         "url": "https://open.spotify.com/album/6sJlTWLri6rfw0CYPCKKqm"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/0sqnhyi5mDBb9MC8SBKJDM"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Red:birthmark",
         "url": "https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "slash",
         "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
@@ -701,7 +765,7 @@
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u795d\u798f",
         "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
@@ -717,7 +781,7 @@
       "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u541b\u3088\u3000\u6c17\u9ad8\u304f\u3042\u308c",
         "url": "https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc"
@@ -733,7 +797,7 @@
       "url": "https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u5b9d\u77f3\u306e\u65e5\u3005",
         "url": "https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ"
@@ -749,7 +813,7 @@
       "url": "https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack (Incomplete Edition)",
         "url": "https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3"
@@ -765,7 +829,7 @@
       "url": "https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u9583\u5149",
         "url": "https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju"
@@ -781,7 +845,7 @@
       "url": "https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9006\u8972\u306e\u30b7\u30e3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx"
@@ -797,7 +861,7 @@
       "url": "https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mizu no Hoshi e Ai wo Komete",
         "url": "https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823"
@@ -813,7 +877,7 @@
       "url": "https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mobile Suit Gundam U.C. Engage Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv"
@@ -829,7 +893,7 @@
       "url": "https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Line of sight",
         "url": "https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc"
@@ -845,7 +909,7 @@
       "url": "https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u30d2\u30ab\u30ea\u30c8\u30ab\u30bc",
         "url": "https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\"SD GUNDAM BATTLE ALLIANCE\" Theme Songs",
         "url": "https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv"
@@ -881,7 +945,7 @@
       "url": "https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Blaze",
         "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
@@ -897,7 +961,7 @@
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
@@ -925,7 +989,7 @@
       "url": "https://open.spotify.com/track/3FgvBg0X20xbF0Dfq0N01E"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
@@ -941,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u30b3\u30ac\u30cd\u30be\u30e9",
         "url": "https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy"
@@ -957,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
@@ -973,7 +1037,7 @@
       "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
@@ -989,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0zz23sDNfQ0onyVh80GwqF"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MISIA THE GREAT HOPE BEST",
         "url": "https://open.spotify.com/album/7pUZqSUfhCkV2MegF30rve"
@@ -1005,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7uJLIW51cR6Vp5edmquXZU"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "THE END",
         "url": "https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI"
@@ -1021,7 +1085,7 @@
       "url": "https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Around the TRUE",
         "url": "https://open.spotify.com/album/15uHffJGg720NSYqceFyMG"
@@ -1037,7 +1101,7 @@
       "url": "https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "KINGDOM",
         "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
@@ -1053,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Pierrot Dancin'",
         "url": "https://open.spotify.com/album/4SyIdDTlbshUB2LXYsO19e"
@@ -1069,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7mdSaYT0WO5V3R8W4Xj0D3"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "NAMiDA",
         "url": "https://open.spotify.com/album/4TIjCLimDsRCS2rI921BU9"
@@ -1085,7 +1149,7 @@
       "url": "https://open.spotify.com/track/63Eem2YcddulJTylUNo4Xt"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD"
@@ -1101,7 +1165,7 @@
       "url": "https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "KISS",
         "url": "https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ"
@@ -1117,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Re:RISE -e.p.- 2",
         "url": "https://open.spotify.com/album/68cfv9QcZdp77dKxk4MtDZ"
@@ -1133,7 +1197,7 @@
       "url": "https://open.spotify.com/track/7Mmhlc7Uy8cXJ3NJJq7VVc"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Ai Senshi",
         "url": "https://open.spotify.com/album/7ElpBzSDigXgsFhCgxS2mm"
@@ -1149,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1H69lVwtjpEUB8nAyeahfy"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30fb\u30f4\u30a9\u30a4\u30b9 / with \u5bfa\u4e95\u5c1a\u5b50",
         "url": "https://open.spotify.com/album/5SEsi8e78FRTZakCm4QaJF"
@@ -1169,23 +1233,7 @@
       "url": "https://open.spotify.com/track/0m0H7NxmPiRv1E7yDHYb6F"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "CROSS",
-        "url": "https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi"
-      },
-      "artists": [
-        {
-          "name": "LUNA SEA",
-          "url": "https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS"
-        }
-      ],
-      "duration_ms": 333426,
-      "name": "THE BEYOND",
-      "url": "https://open.spotify.com/track/6dl8M66EcAPoZQATKRi2yp"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u9006\u5149\u5099\u5fd8\u9332",
         "url": "https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8"
@@ -1201,7 +1249,7 @@
       "url": "https://open.spotify.com/track/79Jpqsmno4iZV7ko4h5rqM"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Tobe! GUNDAM",
         "url": "https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU"
@@ -1225,7 +1273,7 @@
       "url": "https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Meguriai",
         "url": "https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt"
@@ -1241,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "AwakEVE",
         "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
@@ -1257,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "R\u2203/MEMBER",
         "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
@@ -1277,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Prototype",
         "url": "https://open.spotify.com/album/5F1nPVlPoUxlANLGQRcDid"
@@ -1293,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3QAsiWZa6JQ1Vh4sCBlvcx"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "WHATEVER",
         "url": "https://open.spotify.com/album/3sRJVKtEFdGWQtagF9FFq0"
@@ -1309,7 +1357,7 @@
       "url": "https://open.spotify.com/track/14M2PHwzDaKocGozilYUKI"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "BACK TO PARADISE",
         "url": "https://open.spotify.com/album/5fekYQVLo4LirV5M8PdIzT"
@@ -1325,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3pC3Jsx8zFCiRDMmOyuRuW"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM NT (Narrative) Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0qbCFg0xqkC0TUadjNaTfu"
@@ -1341,7 +1389,7 @@
       "url": "https://open.spotify.com/track/56gXhLZNBqY3tlHjrYMFRG"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
@@ -1357,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2",
         "url": "https://open.spotify.com/album/6CHzOvncncZpIt3htstibX"
@@ -1377,7 +1425,7 @@
       "url": "https://open.spotify.com/track/76ucx0i5WBu3fTPIrG1jh3"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Eien ni Amuro",
         "url": "https://open.spotify.com/album/4MMC7xYQirRnEXFoCva9uZ"
@@ -1397,7 +1445,7 @@
       "url": "https://open.spotify.com/track/3e6JumfGKJAW7NiifbVAdo"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Turn\uff21Turn",
         "url": "https://open.spotify.com/album/6Egklu4WXNhgR2EHW2rWci"
@@ -1413,7 +1461,7 @@
       "url": "https://open.spotify.com/track/1eVTPymRl3GyeLqLyBiIXv"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MEN OF DESTINY",
         "url": "https://open.spotify.com/album/4zZ6FlBnUujPNsSeeKsNVf"
@@ -1429,7 +1477,7 @@
       "url": "https://open.spotify.com/track/0h8nMNEoNIjOKAN7XTKtLZ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "PORTAL",
         "url": "https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI"
@@ -1445,7 +1493,7 @@
       "url": "https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/4MPUghtsFa9IEJSoViVL9j"
@@ -1461,7 +1509,7 @@
       "url": "https://open.spotify.com/track/2mSrfjmPtLLsROCmqzjceV"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "ETERNAL WIND~Hohoemi wa Hikaru-Kaze no Naka~",
         "url": "https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH"
@@ -1477,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "CHEMISTRY 2001-2011",
         "url": "https://open.spotify.com/album/2l8d2WWpeZ5qwlsrCTeSpR"
@@ -1493,7 +1541,7 @@
       "url": "https://open.spotify.com/track/4S0VjlSeynqtyeRRXzIyuR"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Itsuka Sora ni Todoite",
         "url": "https://open.spotify.com/album/2j2K7EVhtxWhYC2Xcrb72U"
@@ -1509,7 +1557,7 @@
       "url": "https://open.spotify.com/track/6oMv7PFkrX8GpMeWmhu8t7"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "CENTURY COLOR",
         "url": "https://open.spotify.com/album/2NnLGNv8l4TVDw8lxNMMk8"
@@ -1525,7 +1573,7 @@
       "url": "https://open.spotify.com/track/1gzTPfpOuQFs4G9kUdsAX1"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "It's Just Love!",
         "url": "https://open.spotify.com/album/02MQbrGo7J9wUzIavyyMNP"
@@ -1541,7 +1589,7 @@
       "url": "https://open.spotify.com/track/78jURUkHQSxcbcZcZgVUQ9"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Linkage Ring",
         "url": "https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE"
@@ -1557,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u300eelemental\u300f",
         "url": "https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id"
@@ -1573,7 +1621,7 @@
       "url": "https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Kimi wo Mitsumete - The time I'm seeing you-",
         "url": "https://open.spotify.com/album/2wXUyRN798oGDFYvynJxPW"
@@ -1589,7 +1637,7 @@
       "url": "https://open.spotify.com/track/5HadYBJYIzaqxxrIEyPpS3"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "EMBRACE",
         "url": "https://open.spotify.com/album/0hbSoP9XsJKWshAbUH9rKG"
@@ -1605,7 +1653,7 @@
       "url": "https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "2V-ALK",
         "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
@@ -1625,7 +1673,7 @@
       "url": "https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "complete single collection '97-'08",
         "url": "https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2"
@@ -1641,7 +1689,7 @@
       "url": "https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Core",
         "url": "https://open.spotify.com/album/2XJXjtxjFCUJFynQbIaII6"
@@ -1657,7 +1705,7 @@
       "url": "https://open.spotify.com/track/0MITczUCwALiMtuRdYeUAz"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "BEST THE BACK HORN",
         "url": "https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v"
@@ -1673,7 +1721,7 @@
       "url": "https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "I CAN'T DO ANYTHING-\u5b87\u5b99\u3088-",
         "url": "https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl"
@@ -1693,39 +1741,7 @@
       "url": "https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "AFTER ALL",
-        "url": "https://open.spotify.com/album/2rz5aACagypyxXTq6X8g07"
-      },
-      "artists": [
-        {
-          "name": "Donna Burke",
-          "url": "https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR"
-        }
-      ],
-      "duration_ms": 255440,
-      "name": "AFTER ALL",
-      "url": "https://open.spotify.com/track/5MaskUiW0XdWIgDLdZKnnW"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "Toi Kioku",
-        "url": "https://open.spotify.com/album/29VSyq9u2D3j1R1shmlc8V"
-      },
-      "artists": [
-        {
-          "name": "Megumi Shiina",
-          "url": "https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Toi Kioku",
-      "url": "https://open.spotify.com/track/7D9OcT1srZnAIW1rI4kAYZ"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "WINNERS FOREVER ~Shorisha-yo~",
         "url": "https://open.spotify.com/album/0aFfO1ufGHdqu8cLD063lA"
@@ -1741,7 +1757,7 @@
       "url": "https://open.spotify.com/track/10Ut2frwiawvm9PviuikNi"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "STAND UP TO THE VICTORY ~TO THE VICTORY~",
         "url": "https://open.spotify.com/album/0HrbtaAUY8zVKupEhY799D"
@@ -1757,7 +1773,7 @@
       "url": "https://open.spotify.com/track/4H8Gnxc2UAzw7BVcZPJxR7"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Don't Stop!Carry On!",
         "url": "https://open.spotify.com/album/2ZRE2cQDCWOlqvsW8Gczpl"
@@ -1773,7 +1789,7 @@
       "url": "https://open.spotify.com/track/24xNsj7P4uVRiibGBLJ2Np"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Planet Zone",
         "url": "https://open.spotify.com/album/2Fq1FPNCcXcjkrL2H8EtZD"
@@ -1789,7 +1805,7 @@
       "url": "https://open.spotify.com/track/1XgeXpAjtaIzgGj7yp9Xsr"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0"
@@ -1805,7 +1821,7 @@
       "url": "https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
@@ -1821,7 +1837,7 @@
       "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO"
@@ -1837,7 +1853,7 @@
       "url": "https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u30cb\u30d6\u30f3\u30ce\u30a4\u30c1 / INFINITY",
         "url": "https://open.spotify.com/album/1vd8lSOGx9dDHWWeJ2Ee0m"
@@ -1853,7 +1869,7 @@
       "url": "https://open.spotify.com/track/7v3ORF68iK8NQmyLs3sDey"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
@@ -1869,7 +1885,7 @@
       "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Silent Voice",
         "url": "https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB"
@@ -1885,7 +1901,7 @@
       "url": "https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "R\u2203/MEMBER",
         "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
@@ -1905,7 +1921,7 @@
       "url": "https://open.spotify.com/track/3Nme2cUHImNsW4nYF7q4VZ"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "DREAM",
         "url": "https://open.spotify.com/album/4GbeKEc9Cu20nUMXCY8LEb"
@@ -1921,7 +1937,7 @@
       "url": "https://open.spotify.com/track/2GPHXW8PoRhtNGxjyQzbT0"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
@@ -1937,7 +1953,7 @@
       "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "THE WINNER",
         "url": "https://open.spotify.com/album/0bMfJnt6F8tmHdIErmuV4l"
@@ -1953,23 +1969,7 @@
       "url": "https://open.spotify.com/track/6vLWoFMzWecjj5U3DvcmBc"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
-      "album": {
-        "name": "G no Senkou",
-        "url": "https://open.spotify.com/album/2tPzjsitz5lUOHohXo2FxT"
-      },
-      "artists": [
-        {
-          "name": "Daisuke Hasegawa",
-          "url": "https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "G no Senkou",
-      "url": "https://open.spotify.com/track/1xpnMMf8rS1ySRcp9iolup"
-    },
-    {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "A Hydrangea Blooms",
         "url": "https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu"
@@ -1985,7 +1985,7 @@
       "url": "https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u6d41\u661f\u306e\u30ca\u30df\u30c0",
         "url": "https://open.spotify.com/album/0775Tib7vuRC40mJKvHJos"
@@ -2001,7 +2001,7 @@
       "url": "https://open.spotify.com/track/6ijZSjXxCvHnfWr2wMC7Iv"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Do You Know ?",
         "url": "https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0"
@@ -2017,7 +2017,7 @@
       "url": "https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/3TpgBK0jom391y7SdJF1iO"
@@ -2037,7 +2037,7 @@
       "url": "https://open.spotify.com/track/4deAcev969KEs1YrSgnhmS"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "INFINITY",
         "url": "https://open.spotify.com/album/4rott6m5l5Da3dDGr5Iic0"
@@ -2053,7 +2053,7 @@
       "url": "https://open.spotify.com/track/3kC6Iy8ocMnkAJsFdBSfNP"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "\u30a2\u30b5\u30a4\u30e9\u30e0",
         "url": "https://open.spotify.com/album/5Iabzqqw8kKxNuhFTG0Fap"
@@ -2069,7 +2069,7 @@
       "url": "https://open.spotify.com/track/5ilBO8iKJLgxhj2eFTE1i9"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Into the Sky EP",
         "url": "https://open.spotify.com/album/1XOEmSbX53VfOTPdtkNigy"
@@ -2089,7 +2089,7 @@
       "url": "https://open.spotify.com/track/4hth3prmCax5PvYPt6KnFn"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Z Toki wo Koete",
         "url": "https://open.spotify.com/album/0olODiVVYbRhP4hJXxDJOL"
@@ -2105,7 +2105,7 @@
       "url": "https://open.spotify.com/track/41XtgJqrZQHJdK2dB1kKPT"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Free Jugement (Remaster Deluxe Edition)",
         "url": "https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0"
@@ -2121,7 +2121,7 @@
       "url": "https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "2V-ALK",
         "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
@@ -2141,7 +2141,7 @@
       "url": "https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB"
     },
     {
-      "added_at": "2024-01-23 15:00:00",
+      "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Hoshizora no Believe",
         "url": "https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1"

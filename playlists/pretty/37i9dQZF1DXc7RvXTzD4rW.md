@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,845 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,855 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 |
 | 50 | [PIZZA SUSHI planet walking](https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [PIZZA SUSHI planet walking](https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj) | 3:16 |
 
-Snapshot ID: `MCwxOTQ1N2MyMGE1ZDFiMDE0OGZmMWZmMWQ1YWU2MTE4NTEzMGQzZTNk`
+Snapshot ID: `MCxjZDQ1M2U3OTBkYTU4ZGEwNDMyZTQ2NjFmMTE5ZGJlNjczNjM5NGU5`

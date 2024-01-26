@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:Donny Benét\. Artwork: Isu Kim
 
-3,040 songs - 6 day 22 hr 48 min
+3,043 songs - 6 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Animal](https://open.spotify.com/track/1Wr0gqqKIeFWE00rQmmjxD) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Animal](https://open.spotify.com/album/53bJj1UMAaNByFZV7h2QUC) | 2:36 | 2023-08-02 | 2023-08-24 |
 | [Annihilation](https://open.spotify.com/track/4fkF6joMzinXgD2scNoHf0) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Annihilation](https://open.spotify.com/album/3wCBZLOZOogCu8u6vmddpz) | 3:56 | 2023-08-30 |  |
 | [Another Day Done](https://open.spotify.com/track/3ZgMSiVtkzWFmI0WvqKK7d) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [Another Day Done](https://open.spotify.com/album/2QHYElfqQXDfwo1e98Iv4q) | 3:27 | 2023-05-30 | 2023-06-22 |
+| [Another Life](https://open.spotify.com/track/4dFO9pbidrrxDDkq1BP1z9) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Another Life](https://open.spotify.com/album/4Mux1p6mzEmo2xWIuvzgap) | 3:56 | 2024-01-25 |  |
 | [Another World](https://open.spotify.com/track/2QYXD4xFe7U2vhacHEcxrC) | [REALMS](https://open.spotify.com/artist/4oZXGbpGCPfvXAjXG9xQZD) | [Another World](https://open.spotify.com/album/66CWwotkujPP4AU2a4dgvv) | 2:56 | 2022-04-06 | 2022-05-05 |
 | [Answer](https://open.spotify.com/track/5br04RlIhItYQmNIqGXO7E) | [Queenz](https://open.spotify.com/artist/2A0WFBUwFhCSrYVmBI8mu8) | [Answer](https://open.spotify.com/album/6Aniw68r3mUgOMtKucLpnU) | 2:15 | 2023-10-19 | 2023-11-23 |
 | [Answers](https://open.spotify.com/track/2vNUQwVATvBswrG7HGPw2W) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Answers](https://open.spotify.com/album/0Eb8Vnpx2PBDPH9G3glEpu) | 2:48 | 2022-04-20 | 2022-05-05 |
@@ -221,6 +222,7 @@
 | [Baited](https://open.spotify.com/track/41lowvypEqMPKvKBKXRQV3) | [Driftwood.](https://open.spotify.com/artist/2QQ0v1cmktl5dR4cKXjpEB) | [Baited](https://open.spotify.com/album/3wZeuz1AUxZkfdJXo9k0NM) | 2:13 | 2023-09-27 | 2023-10-20 |
 | [Bala](https://open.spotify.com/track/3nV8q03kF89tsFrktTytoj) | [Ausecuma Beats](https://open.spotify.com/artist/7d35U5u1gkrwQEllYy3II5), [Horatio Luna](https://open.spotify.com/artist/2J1cLnr7Zips2B4hfMxdqk) | [Musso](https://open.spotify.com/album/78V2gfoU4S1WvovUTqA4cI) | 4:07 | 2021-12-28 | 2022-01-13 |
 | [balance](https://open.spotify.com/track/0hquhD6neSvmL8RwMITBV2) | [Shoeb Ahmad](https://open.spotify.com/artist/2h708ZTAjPlRu96CjKqAK7) | [Facade](https://open.spotify.com/album/7kv2dAE6QCXLMTKj794rtw) | 6:01 | 2021-12-28 | 2022-01-13 |
+| [Banamba](https://open.spotify.com/track/7r8OwIqRT5Rt9aTjdpEkke) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7) | [Banamba](https://open.spotify.com/album/1nJVxaIzrw1fM8kfb6dyNM) | 4:09 | 2024-01-25 |  |
 | [Bandi Bubi](https://open.spotify.com/track/2t2dw3SDACwlxUO0DmGsgJ) | [Yaw Faso](https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV), [SK Simeon](https://open.spotify.com/artist/3hZ4mgW0lM6GBP8EgCIxjP) | [Bandi Bubi](https://open.spotify.com/album/4p7Kse284RNg1qXiRfYkXw) | 2:51 | 2022-02-09 | 2022-02-24 |
 | [Bandz](https://open.spotify.com/track/0YymIzKTWEuZBOhVBh9Qoi) | [Mzuki](https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9) | [Bandz](https://open.spotify.com/album/7iOgJjSeT1tQYIR7ZPNppc) | 2:18 | 2022-04-20 | 2022-05-05 |
 | [Bang](https://open.spotify.com/track/6xnXVf3hVDJ4KOwdHHFMom) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Bang](https://open.spotify.com/album/1ISswBS6taUSLcBuTUXhqD) | 2:44 | 2022-04-13 | 2022-05-05 |
@@ -1839,6 +1841,7 @@
 | [Night Off](https://open.spotify.com/track/6hOHbkPI5ZmXu5YoGtE43B) | [Annie Hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [Night Off](https://open.spotify.com/album/0fbvw7QHReXzmhGI2ftmj1) | 3:20 | 2022-03-09 | 2022-03-31 |
 | [Night Riding](https://open.spotify.com/track/5mNFlPtzX0cN3SzM2eX0da) | [Jude Korab](https://open.spotify.com/artist/021K3LDRbHpb8eEILhfgmT) | [Night Riding](https://open.spotify.com/album/47anw2fkszWvTdcly7Rmt1) | 4:34 | 2022-06-29 | 2022-07-28 |
 | [Nightmare](https://open.spotify.com/track/1Cm25pUwH4jncTym56LIff) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [Deluxe](https://open.spotify.com/album/1BGy6FX8ehEArYpI4Zh2SZ) | 3:12 | 2023-03-01 | 2023-03-16 |
+| [NIGHTMARE](https://open.spotify.com/track/2dDFMYtvTdcdTTfOghPBIH) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [NIGHTMARE](https://open.spotify.com/album/2ha87AAmLoB5a0OFZSnKyx) | 5:25 | 2024-01-25 |  |
 | [Nightmare](https://open.spotify.com/track/3XSjpEXa5TlCleuUFnY6Pu) | [Yung Gwopp](https://open.spotify.com/artist/11T18BfcT9H4yKtTcHEEJL) | [Nightmare](https://open.spotify.com/album/2upSshsBppz40erVzlNMym) | 3:15 | 2022-09-14 | 2022-10-05 |
 | [Nightshade](https://open.spotify.com/track/3sivx4DwnH31JwTw1iHsnX) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [Nightshade](https://open.spotify.com/album/08GKug36f7WyoVZVW5wAc5) | 3:31 | 2022-10-26 | 2022-12-01 |
 | [Ninacamina](https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Ninacamina](https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv) | 3:07 | 2024-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,574 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,582 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 3 | [Absent](https://open.spotify.com/track/3QfYGmwgdT7B0h9Iy1jop0) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Absent](https://open.spotify.com/album/6qrBwieNtLtsZznNMu4PrX) | 3:09 |
 | 4 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
 | 5 | [Farzi](https://open.spotify.com/track/7gPW8y7DH08zvh1hlppkPe) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Farzi](https://open.spotify.com/album/74MsCeAfiK6697UL8n6yiH) | 3:07 |
-| 6 | [Ishq Ibaadat](https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Ishq Ibaadat](https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC) | 2:41 |
+| 6 | [Ishq Ibaadat](https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Ishq Ibaadat](https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC) | 2:41 |
 | 7 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 | 8 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
 | 9 | [tum sukoon](https://open.spotify.com/track/3j3ZhSSG1pfbaMTp6D737r) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ammad Khan](https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV) | [tum sukoon](https://open.spotify.com/album/3aFY3TeRe7WMlwldpG8FA0) | 3:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 75 | [Ghar agya main](https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Ghar agya main](https://open.spotify.com/album/47HaoQ183IYU9ajXzMdihI) | 4:17 |
 | 76 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 
-Snapshot ID: `MCxiOTVkNDYzZGQ1MjY3Nzk2YjlhZjgwYTIzMjg0N2Q3OTdmOWQ1ZDc1`
+Snapshot ID: `MCwzOWYyOTBjNDg0Yzg2ZTg1MDdkODlmNDdmZTVmOWM3YTA4MmE1ZTUz`

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-325 songs - 16 hr 13 min
+326 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fargo Season 4 Main Theme \(Dustbowl\)](https://open.spotify.com/track/6wFhqQlSiQU5gTbKA2FCiq) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Fargo Year 4 \(Soundtrack from the MGM/FXP Series\)](https://open.spotify.com/album/2RbODMpxJNeZdeBTGv713k) | 2:16 | 2021-12-20 | 2022-07-09 |
 | [Father Ghost](https://open.spotify.com/track/0GREywg9ilk2u04Oy22Apu) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Alejandro G\. Iñárritu](https://open.spotify.com/artist/2qI1BI8FZYj7AYhxBIlK6R) | [Bardo \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2LaSuEnvNjz5Q311ATpioK) | 2:33 | 2022-12-09 |  |
 | [Father's Daughter](https://open.spotify.com/track/6rwOaV5ZyudZuqNEkdAwUt) | [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr), [Fredrik Söderström](https://open.spotify.com/artist/09Td4Nq6SI7pshIfAHHbLV) | [Last Weekend With Jenny And John \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69ijbWA2z6b54psWZX5T2w) | 1:31 | 2023-03-10 |  |
+| [Felix Amica](https://open.spotify.com/track/2dtRoZSU49jCGS6wnuum5T) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:35 | 2024-01-25 |  |
 | [Fencing Duel](https://open.spotify.com/track/0GSJipW8Nt5ZNRtQEpUzfP) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Chevalier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y2KkTMbsx3E35iUTb971k) | 2:15 | 2023-04-21 |  |
 | [Fireflies](https://open.spotify.com/track/6Vv5cih2XP3f5LxNuRUOxz) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Widow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK) | 3:13 | 2021-12-20 |  |
 | [Floating Into Focus \- From ''The Reason I Jump'' Soundtrack](https://open.spotify.com/track/4eiqnYhAoCSi6TZl25DirS) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [Floating Into Focus \(From ''The Reason I Jump'' Soundtrack\)](https://open.spotify.com/album/1XOWgDQeOQsJDYQf44rQZG) | 3:01 | 2021-12-20 |  |

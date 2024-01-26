@@ -1413,6 +1413,32 @@
     },
     {
       "album": {
+        "name": "Polished",
+        "url": "https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA"
+      },
+      "artists": [
+        {
+          "name": "Iori Izumi (CV: Toshiki Masuda)",
+          "url": "https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU"
+        },
+        {
+          "name": "Mitsuki Izumi (CV: Tsubasa Yonaga)",
+          "url": "https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C"
+        },
+        {
+          "name": "Riku Nanase (CV: Kensho Ono)",
+          "url": "https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "Polished",
+      "url": "https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ"
+    },
+    {
+      "album": {
         "name": "SUISAI",
         "url": "https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol"
       },
@@ -2046,7 +2072,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 247360,
       "name": "YOUR RHAPSODY",
       "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"

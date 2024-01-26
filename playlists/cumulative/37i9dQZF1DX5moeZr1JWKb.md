@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-104 songs - 5 hr 37 min
+105 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [No Se Sobrepase](https://open.spotify.com/track/3FXGe1es7PX9UgBQvLGk2r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [No Se Sobrepase](https://open.spotify.com/album/1u9AhrCsNV1rpokYfUr7zC) | 3:03 | 2023-05-26 |  |
 | [Otra Vez](https://open.spotify.com/track/3iVuCCtTBOVHwiyzb4USXk) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Ruben Chi](https://open.spotify.com/artist/1Zu6vTdmWNYpvrP2FhNqwD) | [Otra Vez](https://open.spotify.com/album/2P8sjccIUOqDsfpeuKTORp) | 2:36 | 2023-11-10 |  |
 | [Otra Vez \(Prod Ruben Chi\)](https://open.spotify.com/track/4xUfaHjJg3N9xQbUjVadwA) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Ruben Chi](https://open.spotify.com/artist/1Zu6vTdmWNYpvrP2FhNqwD) | [Otra Vez \(Prod Ruben Chi\)](https://open.spotify.com/album/2JmZu36gVElK4lC6CBlpVs) | 2:36 | 2023-05-26 | 2023-12-08 |
-| [Otro Concierto](https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/6lGoHLcS8Wwbl1YM392BRj) | 2:26 | 2023-08-04 |  |
+| [Otro Concierto](https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/6lGoHLcS8Wwbl1YM392BRj) | 2:26 | 2023-08-04 | 2024-01-26 |
+| [Otro Concierto \(feat\. Irepelusa\)](https://open.spotify.com/track/3D0WvQvutvdA5L0Fw9H5nA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/5dNez4VlFHwFbcPn0lYhFC) | 2:26 | 2023-11-10 |  |
 | [Pa' la Pollita](https://open.spotify.com/track/19pDfu2jX4amfY2IUo4XYp) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Timeless](https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh) | [Cañonazos Bailables Todoenuno](https://open.spotify.com/album/4WbV2GwiuCHfeelumaF13s) | 2:40 | 2023-09-29 | 2023-11-11 |
 | [Palabra de Honor](https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Palabra de Honor](https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB) | 3:37 | 2023-09-29 |  |
 | [Palmar](https://open.spotify.com/track/6kHFzH442PWTxiQWjSag8J) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Palmar](https://open.spotify.com/album/15c4KC9VuWmPxjokIDPHYY) | 3:58 | 2023-09-08 |  |

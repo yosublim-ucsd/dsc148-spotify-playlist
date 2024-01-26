@@ -792,10 +792,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 258246,
       "name": "Sitar Symphony",
       "url": "https://open.spotify.com/track/7K0iwTdjpiBagDCfhXWWFe"
+    },
+    {
+      "album": {
+        "name": "Fusion Lounge",
+        "url": "https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg"
+      },
+      "artists": [
+        {
+          "name": "Suhel Rais Khan, Ustad Sultan Khan",
+          "url": "https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258178,
+      "name": "Sitar Symphony - Original",
+      "url": "https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,743 likes - 333 songs - 21 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,747 likes - 333 songs - 21 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toma Toma Pau \(free\)](https://open.spotify.com/track/353gM5AZL8OWRoBYR2JxDs) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ TN Beat](https://open.spotify.com/artist/2izGaoIYoEdXcfIW6D8ktN), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Dj Dédda](https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX), [DJ Vmc](https://open.spotify.com/artist/64bvTjzzoJ5K9QiNzbqVZG), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Toma Toma Pau \(free\)](https://open.spotify.com/album/3sXQYL5XRCyb9phAf9YPaR) | 1:45 |
-| 2 | [Sarra Novinha no Grau](https://open.spotify.com/track/1yubc9XEVMvp1Q7Bh234bT) | [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Funk Music, Vol\. 1](https://open.spotify.com/album/1Vp3gssADGxHmoYQxWIHwg) | 1:55 |
+| 2 | [Sarra Novinha no Grau](https://open.spotify.com/track/1yubc9XEVMvp1Q7Bh234bT) | [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Funk Music, Vol\. 1](https://open.spotify.com/album/1Vp3gssADGxHmoYQxWIHwg) | 1:55 |
 | 3 | [Atura Ou Surta 2](https://open.spotify.com/track/7I8LAsRQcz4Tvv4DAmg76m) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Atura Ou Surta 2](https://open.spotify.com/album/1PRHlJLkHqRBSdvmbnWClQ) | 3:01 |
 | 4 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 |
 | 5 | [Porradeiro Vs Marretada](https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ) | [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [MC FG](https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI), [LC Santos](https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP) | [Porradeiro Vs Marretada](https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF) | 2:29 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 157 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 5:07 |
 | 158 | [De Cara](https://open.spotify.com/track/3RhCHcfWOZuyFgcvUEa6bX) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [OFF MODE](https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev) | 3:26 |
 | 159 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 |
-| 160 | [Nada Mais \(Lately\) \[Ao Vivo\]](https://open.spotify.com/track/62MBkoN95QH0jqoGw5FvOC) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Trinca de Ases \(Ao Vivo\)](https://open.spotify.com/album/0BzPAKchvZk8mwaWdk1sSG) | 6:18 |
+| 160 | [Nada Mais \(Lately\) \- Ao Vivo](https://open.spotify.com/track/62MBkoN95QH0jqoGw5FvOC) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Trinca de Ases \(Ao Vivo\)](https://open.spotify.com/album/0BzPAKchvZk8mwaWdk1sSG) | 6:18 |
 | 161 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
 | 162 | [Dano Sarrada](https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:25 |
 | 163 | [Ladeirinha](https://open.spotify.com/track/0X5WUTfkftVSrQhLcZSLD8) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Milagreiro](https://open.spotify.com/album/0VrYHszrgS31q8ChCj8MXE) | 3:38 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 332 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 |
 | 333 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 
-Snapshot ID: `MCxlNTRmZjAzNTk3Y2QyMWZhYWZmNGZhMGI0OTliMDBmYjU4ZmZhZDRh`
+Snapshot ID: `MCxjNjk0NDRlZWNlZWRiMzRlZDNlY2UzMWIwNmIyNWMwZDBjNmMyOGVh`

@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 0,
+  "2024-01-26": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -1457,6 +1457,10 @@
         {
           "name": "Pill",
           "url": "https://open.spotify.com/artist/3Gr3VowS86A6dNdKvs7qH6"
+        },
+        {
+          "name": "Win On The Track",
+          "url": "https://open.spotify.com/artist/0dfEfxhz9yB4WZyGJvBwe3"
         }
       ],
       "date_added": "2024-01-19",
@@ -10101,7 +10105,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 153766,
       "name": "J CHRIST",
       "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
@@ -15923,7 +15927,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"

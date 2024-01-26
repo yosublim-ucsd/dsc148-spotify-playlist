@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 71936,
+  "2024-01-26": 72002,
   "date_first_scraped": "2023-11-11",
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
   "name": "This Is Lil Tecca",
@@ -781,6 +781,32 @@
       "duration_ms": 132363,
       "name": "SEASIDE (feat. iann dior)",
       "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
+    },
+    {
+      "album": {
+        "name": "She Want Some More (feat. Ken Carson)",
+        "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184614,
+      "name": "She Want Some More (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 69635,
+  "num_followers": 69659,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTVkODg2YjI1NmJjYTg2YjVhYmQ1ZmY0MDExMDM0YjZkZWI4YTk4",
+  "snapshot_id": "MCw1MTNkZjI0ZTQwMDBmZjdlOTg4ZDJjZDdlNzg4ZWQxZGZhMGNlZGE1",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Kitsun\u00e9 Boombox Mixed by Jerry Bouthier",
-        "url": "https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7"
-      },
-      "artists": [
-        {
-          "name": "Riot In Belgium",
-          "url": "https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G"
-        },
-        {
-          "name": "JBAG",
-          "url": "https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "La musique (JBAG's Boomboxed Re-Edit) - Mixed",
-      "url": "https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Kitsun\u00e9 Maison Compilation 4",
         "url": "https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 400040,
       "name": "My Moon My Man - Boys Noize Classic Mix",
       "url": "https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Kitsun\u00e9 Boombox Mixed by Jerry Bouthier",
+        "url": "https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7"
+      },
+      "artists": [
+        {
+          "name": "Riot In Belgium",
+          "url": "https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G"
+        },
+        {
+          "name": "JBAG",
+          "url": "https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "La musique (JBAG's Boomboxed Re-Edit) - Mixed",
+      "url": "https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf"
     },
     {
       "added_at": "2022-08-24 22:29:13",

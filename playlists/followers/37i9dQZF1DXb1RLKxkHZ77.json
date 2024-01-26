@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 334155,
+  "2024-01-26": 334200,
   "date_first_scraped": "2022-05-30",
   "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Projector Band",
   "name": "Carta Malaysia 50",
@@ -317,6 +317,42 @@
       "duration_ms": 218864,
       "name": "Angan",
       "url": "https://open.spotify.com/track/2A7TC8oKZ0ypchFutlXwnZ"
+    },
+    {
+      "album": {
+        "name": "Angau",
+        "url": "https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL"
+      },
+      "artists": [
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160078,
+      "name": "Angau",
+      "url": "https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP"
+    },
+    {
+      "album": {
+        "name": "Diandra Arjunaidi - EP",
+        "url": "https://open.spotify.com/album/4N65Gs3WBxCBDwUpKaXMBb"
+      },
+      "artists": [
+        {
+          "name": "Diandra Arjunaidi",
+          "url": "https://open.spotify.com/artist/5K8T2JyTGWyELw74e8JMPD"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "Angkasa",
+      "url": "https://open.spotify.com/track/0RH4euHK2FHSgoMA8bzi7V"
     },
     {
       "album": {
@@ -2592,6 +2628,24 @@
     },
     {
       "album": {
+        "name": "Infiniti Cinta",
+        "url": "https://open.spotify.com/album/04WRPwN4YADh44fnRoF3LF"
+      },
+      "artists": [
+        {
+          "name": "Zizan Razak",
+          "url": "https://open.spotify.com/artist/2RCzl5Ja47S9izjAcDriUF"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243217,
+      "name": "Infiniti Cinta",
+      "url": "https://open.spotify.com/track/1jIBXDiZRVoyUBZxwOZgHp"
+    },
+    {
+      "album": {
         "name": "INI MASA AKU",
         "url": "https://open.spotify.com/album/4k0mjYfIUk7qckspnMVyDV"
       },
@@ -2607,7 +2661,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 147407,
       "name": "INI MASA AKU",
       "url": "https://open.spotify.com/track/1F2mblK5PB6KoUd6qfKNBV"
@@ -2625,7 +2679,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160117,
       "name": "Inilah JalanNya",
       "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
@@ -4302,6 +4356,24 @@
     },
     {
       "album": {
+        "name": "Mula",
+        "url": "https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180576,
+      "name": "Mula",
+      "url": "https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV"
+    },
+    {
+      "album": {
         "name": "Muli",
         "url": "https://open.spotify.com/album/5KwnbPGbQHdnRhTXZgNIup"
       },
@@ -4487,7 +4559,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 298452,
       "name": "OR7",
       "url": "https://open.spotify.com/track/1jBArINXOIRzHaK2WuPhtU"
@@ -5171,7 +5243,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH"
@@ -5269,6 +5341,28 @@
       "duration_ms": 186521,
       "name": "Sabar",
       "url": "https://open.spotify.com/track/1NqEelh9GHYQhTc9l8ZL5e"
+    },
+    {
+      "album": {
+        "name": "SAH",
+        "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Alfie Zumi",
+          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228055,
+      "name": "SAH",
+      "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
     },
     {
       "album": {
@@ -5766,6 +5860,28 @@
     },
     {
       "album": {
+        "name": "Sempurnakan Aku",
+        "url": "https://open.spotify.com/album/2F6MpKeZr3K3Zehe4sLSwc"
+      },
+      "artists": [
+        {
+          "name": "Nadzira Shafa",
+          "url": "https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos"
+        },
+        {
+          "name": "Iss Arffan",
+          "url": "https://open.spotify.com/artist/0Ju1icSDrLeZ1aQFPvt61q"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234193,
+      "name": "Sempurnakan Aku",
+      "url": "https://open.spotify.com/track/2q5ALstTObricA6x4T9Qeb"
+    },
+    {
+      "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
       },
@@ -5853,7 +5969,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 215480,
       "name": "Seribu Tahun",
       "url": "https://open.spotify.com/track/1Wo3RhG2UJ9dSUXBdh1e9p"
@@ -6189,7 +6305,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 237769,
       "name": "Tak Berharap Lagi",
       "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"

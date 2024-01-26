@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-304 songs - 18 hr 17 min
+305 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [bedroom floor \- Moods Remix](https://open.spotify.com/track/5i5LHbxQdOylqIx3Nxb17x) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [bedroom floor \(Moods Remix\)](https://open.spotify.com/album/6yxueMxDDOFGGARZeivkSj) | 2:55 | 2022-09-09 |  |
 | [Bend The Rules \- Full Crate Remix](https://open.spotify.com/track/2ypbQkN9QmWNMRZ0ioNQpu) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Bend The Rules \(Full Crate Remix\)](https://open.spotify.com/album/6cqm4baMze3aMs3skx9u6r) | 2:56 | 2022-09-09 | 2023-07-08 |
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-09-09 |  |
+| [Blast Fo Me](https://open.spotify.com/track/6vWnFNr7NKXLtrRM0G5IEC) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Blast Fo Me](https://open.spotify.com/album/3Vp1PO5RWhxy5amODsSNwp) | 2:55 | 2024-01-25 |  |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-09-09 | 2022-10-15 |
 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-09-09 | 2023-05-07 |
 | [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 | 2023-04-20 |  |

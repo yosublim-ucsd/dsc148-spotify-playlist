@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,066 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,056 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 52 | [Presents for Christmas](https://open.spotify.com/track/4fJkHmCq6M5tsbdI0VjKKQ) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [King Solomon](https://open.spotify.com/album/6zaZtXGGz88MkRhTBOuEFz) | 3:10 |
 | 53 | [One Little Christmas Tree](https://open.spotify.com/track/1QGJ4tts3Owl4lnOU2bFJQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:47 |
 | 54 | [May Christmas Bring You Happiness](https://open.spotify.com/track/3wpn5NCocub0rM2Qj8ujFI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Christmas Music: 111 Christmas Songs](https://open.spotify.com/album/622lCf9Fo0DgSPsWTvGCho) | 4:29 |
-| 55 | [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 |
+| 55 | [Christmas Gift](https://open.spotify.com/track/54LItSE1N9MSjF8bIdwuYY) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Músicas de Natal](https://open.spotify.com/album/1RHO8o29AWNh6TmUPANc46) | 3:28 |
 | 56 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5IJtebzTIHk9h3xW3Z2ENd) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [Christmas Time](https://open.spotify.com/album/037BEuITII5Gx7IVQh1ssU) | 4:43 |
 | 57 | [Soul Santa](https://open.spotify.com/track/11gh3UiFOxuWFmC8u0bSBn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:13 |
 | 58 | [My Favorite Things](https://open.spotify.com/track/6Bbak9Sp1vo0l8kptfv3Xd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas](https://open.spotify.com/album/6wP6F93vo81jsyGMnHvFGP) | 2:48 |
 | 59 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 |
 | 60 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 
-Snapshot ID: `MCxlNmExYjQ0MjlhNzk1ZWZjMzUzOWE2NjJhMDVjOGRkNWVkNGVkMjU4`
+Snapshot ID: `MCwyOWI5YWE1MjM0Y2QwYzhjMmJkY2M3MWYxNDhlNzM2YjNmNjk1ZWUy`

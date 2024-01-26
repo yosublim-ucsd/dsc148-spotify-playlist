@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: METTE and Sam Gellaitry
 
-1,115 songs - 2 day 23 hr 13 min
+1,116 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,7 +880,8 @@
 | [Six Days \- Remix](https://open.spotify.com/track/3IEG65Fi7Zm8cQEEG3uJ4H) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Six Days](https://open.spotify.com/album/3zsH6IvqLVtTR4XuoxL3u4) | 3:52 | 2022-09-17 | 2022-10-06 |
 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 | 2024-01-19 |  |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-08-25 |  |
-| [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 | 2024-01-12 |  |
+| [Skrt](https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6) | 3:01 | 2024-01-12 |  |
+| [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 | 2024-01-12 | 2024-01-26 |
 | [sleepatsunrise](https://open.spotify.com/track/3wDQTpgStc5ztupOBYKH1B) | [Krishna Canning](https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [sleepatsunrise](https://open.spotify.com/album/3kmAEP1YD4OxM8JDmHze2Z) | 2:56 | 2023-10-02 | 2023-11-25 |
 | [Slipstream](https://open.spotify.com/track/7yygpnlQyzmy0zXiMTpoZv) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 5:07 | 2023-06-16 | 2023-08-12 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-11-11 | 2023-07-15 |

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-482 songs - 1 day 4 hr 38 min
+483 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Death in Reverse](https://open.spotify.com/track/1gQBJLHT1uHoa52ZYlRK4X) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Death in Reverse](https://open.spotify.com/album/1UGW0FEM2zXsejRl8or0YE) | 3:56 | 2023-11-03 |  |
 | [Deconstruction](https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Deconstruction](https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva) | 4:27 | 2020-12-18 | 2022-07-04 |
 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 | 2023-04-07 |  |
-| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 |  |
+| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 | 2024-01-26 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-04 |  |
 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 | 2020-12-18 | 2023-02-19 |
 | [DNA](https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [DNA](https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ) | 3:49 | 2020-12-18 | 2022-07-23 |
@@ -314,6 +314,7 @@
 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 | 2023-08-04 |  |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-02-19 | 2023-08-05 |
 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 | 2020-12-18 | 2023-02-19 |
+| [Person of Peace](https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw) | [PKYB](https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ) | [Person of Peace](https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC) | 2:59 | 2023-12-15 |  |
 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 | 2023-02-19 | 2023-11-04 |
 | [Picking Petals](https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp) | [Rilena](https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d) | [Picking Petals](https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI) | 3:55 | 2023-04-21 | 2023-07-16 |
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-12-18 | 2023-02-19 |

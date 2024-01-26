@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 76386,
+  "num_followers": 76430,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw",
+  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -635,42 +635,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Meus Manos Faz Dinheiro Com Site",
-        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
-      },
-      "artists": [
-        {
-          "name": "St.Borges",
-          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Meus Manos Faz Dinheiro Com Site",
-      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        },
-        {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
-        }
-      ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -699,6 +663,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Meus Manos Faz Dinheiro Com Site",
+        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
+      },
+      "artists": [
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Meus Manos Faz Dinheiro Com Site",
+      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Agora que eu estou sozinho nesse mal caminho speed up",
         "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 96548,
       "name": "Agora que eu estou sozinho nesse mal caminho speed up",
       "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
+      },
+      "artists": [
+        {
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+        },
+        {
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
+        }
+      ],
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
     },
     {
       "added_at": "2023-12-27 14:18:14",

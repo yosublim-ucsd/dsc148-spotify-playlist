@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 146895,
+  "2024-01-26": 147003,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl\">1K Phew</a>",
   "name": "The Flow",
@@ -2933,6 +2933,24 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "album": {
+        "name": "carter.",
+        "url": "https://open.spotify.com/album/78VNMdYyBooljBr6XeKXuP"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "carter.",
+      "url": "https://open.spotify.com/track/41ihOosX2s2sD9i5QsZUx2"
     },
     {
       "album": {
@@ -16791,7 +16809,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 140122,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"

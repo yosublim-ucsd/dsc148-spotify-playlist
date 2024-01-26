@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 107211,
+  "2024-01-26": 107311,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
   "name": "Women's Voice",
@@ -13196,6 +13196,24 @@
     },
     {
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/6rqEhEHsOrhLHP3LyYrSk4"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Yakushimaru",
+          "url": "https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "Mizuiro Seiza",
+      "url": "https://open.spotify.com/track/1DJN6SEaLO9JlbPFhkWcbm"
+    },
+    {
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/1qHBXHC4LQzwKuD5f2JOVf"
       },
@@ -16991,6 +17009,24 @@
       "duration_ms": 238394,
       "name": "Sabishii no Iro",
       "url": "https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le"
+    },
+    {
+      "album": {
+        "name": "Miseisenjo",
+        "url": "https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244033,
+      "name": "Saigo ni Hitotsu",
+      "url": "https://open.spotify.com/track/2BfJdiTXqI44lnGqDFejKc"
     },
     {
       "album": {
@@ -35687,7 +35723,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 244033,
       "name": "\u6700\u5f8c\u306b\u3072\u3068\u3064",
       "url": "https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD"
@@ -36341,7 +36377,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 281546,
       "name": "\u6c34\u8272\u661f\u5ea7",
       "url": "https://open.spotify.com/track/18A5nJIEjkj8tLH7tkQ96L"

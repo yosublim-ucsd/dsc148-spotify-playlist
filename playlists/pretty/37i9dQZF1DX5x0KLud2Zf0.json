@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102057,
+  "num_followers": 102087,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
+  "snapshot_id": "MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Mi Error Favorito",
-        "url": "https://open.spotify.com/album/423FL3yZS8QzgWCVHhQnQk"
-      },
-      "artists": [
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Mi Error Favorito",
-      "url": "https://open.spotify.com/track/7tH5H9VrfK6R7YZdGfUSXG"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Nos Divertimos Logrando Lo Imposible",
         "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 245586,
       "name": "Como La Palma de Mi Mano",
       "url": "https://open.spotify.com/track/5hcvgFFPMohgecJkH8Nx2z"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Fue Bueno Mientras Fue",
+        "url": "https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Fue Bueno Mientras Fue",
+      "url": "https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/0B6dRIWp77dVdmpX9UOaVR"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Plato De Segunda Mesa",
+      "url": "https://open.spotify.com/track/2qY49wDYVIAMdRkLgrlrqp"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Mi Premio O Mi Castigo",
         "url": "https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P"
       },
@@ -1091,38 +1107,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/0B6dRIWp77dVdmpX9UOaVR"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Plato De Segunda Mesa",
-      "url": "https://open.spotify.com/track/2qY49wDYVIAMdRkLgrlrqp"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Fue Bueno Mientras Fue",
-        "url": "https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp"
-      },
-      "artists": [
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Fue Bueno Mientras Fue",
-      "url": "https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "La Vida En Un Trago",
         "url": "https://open.spotify.com/album/5KseE8Kjoy4IVyS90I2r1C"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 157080,
       "name": "La Vida En Un Trago",
       "url": "https://open.spotify.com/track/2tmLW5HY368hQGkXX9CmeK"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Mi Error Favorito",
+        "url": "https://open.spotify.com/album/423FL3yZS8QzgWCVHhQnQk"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Mi Error Favorito",
+      "url": "https://open.spotify.com/track/7tH5H9VrfK6R7YZdGfUSXG"
     },
     {
       "added_at": "2021-11-11 19:24:28",

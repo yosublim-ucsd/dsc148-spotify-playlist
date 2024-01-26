@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8283,
+  "num_followers": 8279,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDIzYjI5MGNlM2FmOTEyOGQ0NDI2MzZjYjAyNjgzMGJjZjJmMjRm",
+  "snapshot_id": "MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Novamente",
         "url": "https://open.spotify.com/album/0ibQw0V0Y9WfFMWZdIwTJe"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 418240,
       "name": "Jesus Te Amamos (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gl\u00f3ria e Aleluia (Christmas)",
-        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 234663,
-      "name": "Gl\u00f3ria e Aleluia - Christmas",
-      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Viva",
         "url": "https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 275880,
       "name": "Reden\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Gl\u00f3ria e Aleluia (Christmas)",
+        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 234663,
+      "name": "Gl\u00f3ria e Aleluia - Christmas",
+      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
     },
     {
       "added_at": "2023-12-22 03:00:00",

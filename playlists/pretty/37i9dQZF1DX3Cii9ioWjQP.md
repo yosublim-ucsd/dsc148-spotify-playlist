@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Minna Seo\(서민아\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,989 likes - 101 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,005 likes - 101 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 100 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 101 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCw1YzFjNTM0N2ZiMjI0Y2Q0YWIwN2U0ZDM3NTg0ZjBhYTI2NDZhZDFi`
+Snapshot ID: `MCwyOTI3ZDMzZjI5NDkzMTNiMzIxMmMwMmY4YTA1NDg4ZWU0MmQ4ZjVi`

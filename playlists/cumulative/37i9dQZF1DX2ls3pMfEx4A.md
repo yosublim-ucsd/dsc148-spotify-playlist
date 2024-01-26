@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-75 songs - 2 hr 48 min
+76 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Pink Fluffy Unicorns Dancing On Rainbows](https://open.spotify.com/track/4Xn2RsLiDUDisOgJ24FigK) | [Songs To Wear Pants To](https://open.spotify.com/artist/0UizQYD2qphg8nfPOdeOdX) | [Corduroys, With Tassles](https://open.spotify.com/album/5LwQFB5zCZDbaMQ8f6uSZG) | 1:33 | 2022-03-11 |  |
 | [PPAP \(Pen Pineapple Apple Pen\) \- Long Version](https://open.spotify.com/track/4bw49rU057FSUTpGF4pnxq) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [PPAP \(Pen Pineapple Apple Pen\) \[Long Version\]](https://open.spotify.com/album/0TTreMWrqyCSiKJrnLjvlE) | 2:04 | 2022-03-11 |  |
 | [PPAP\(Pen\-Pineapple\-Apple\-Pen\) \- Long ver.](https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [I have a PPAP](https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc) | 2:02 | 2022-03-11 | 2023-10-14 |
-| [Putt Putt Butt Butt](https://open.spotify.com/track/06QdgOu6C18330sXSrcpWR) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Putt Putt Butt Butt](https://open.spotify.com/album/0ksaoAQwf9Q8Wa5mnupwSf) | 3:51 | 2022-03-11 |  |
+| [Putt Putt Butt Butt](https://open.spotify.com/track/06QdgOu6C18330sXSrcpWR) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Putt Putt Butt Butt](https://open.spotify.com/album/0ksaoAQwf9Q8Wa5mnupwSf) | 3:51 | 2022-03-11 | 2024-01-26 |
+| [Putt Putt Butt Butt](https://open.spotify.com/track/0B0xYkmx0RrlR0aeKE21V1) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Slow Clap](https://open.spotify.com/album/5BNpmqEcuU57S56heJB1cZ) | 3:51 | 2022-03-11 |  |
 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 | 2022-03-11 |  |
 | [Ridiculous](https://open.spotify.com/track/1YyFEBVK5vitR8gI4t8r0U) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:46 | 2022-03-11 |  |
 | [Ridiculous](https://open.spotify.com/track/48iEwZRRBJqkkEQjmmKx65) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Ridiculous](https://open.spotify.com/album/3JazKQ0JHgJTXZGxvsTPmQ) | 2:46 | 2022-03-11 | 2022-10-01 |

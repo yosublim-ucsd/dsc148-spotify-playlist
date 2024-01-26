@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 1622575,
       "name": "Briefly",
       "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 379765,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/5J89tAo7DU0cA0OdNWLaw1"
@@ -5768,6 +5768,24 @@
       "duration_ms": 183233,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/2d8cXtTTzs0X4UTdhO98am"
+    },
+    {
+      "album": {
+        "name": "Garden of Dreams (Inner Space Version)",
+        "url": "https://open.spotify.com/album/2A7rhWSZetLjLirdZdCN0h"
+      },
+      "artists": [
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371186,
+      "name": "Garden of Dreams - Inner Space Version",
+      "url": "https://open.spotify.com/track/5ll8iUvWUd9rJVoq8lmJ9K"
     },
     {
       "album": {
@@ -7770,6 +7788,28 @@
       "duration_ms": 275199,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+    },
+    {
+      "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/5fQZ7mthdgHZVxmLjuk1Bp"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        },
+        {
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Knows No End",
+      "url": "https://open.spotify.com/track/3I0YRqrBMoA4DAlK3MKj34"
     },
     {
       "album": {
@@ -13053,6 +13093,24 @@
     },
     {
       "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/350dy6LTYxrWAI1o55kmDd"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353083,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/5FgOOjqhGLiwsmN67ppx6B"
+    },
+    {
+      "album": {
         "name": "Solved Quick",
         "url": "https://open.spotify.com/album/5WRG2CEnkAaG3O7ywrsw2Q"
       },
@@ -14827,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224303,
+      "name": "The Path Less Travelled",
+      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
+    },
+    {
+      "album": {
         "name": "The Rapture Pt.II",
         "url": "https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c"
       },
@@ -15542,7 +15618,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 138200,
       "name": "Tumbler",
       "url": "https://open.spotify.com/track/0sIETaTpa1K66BS4AEtmFr"

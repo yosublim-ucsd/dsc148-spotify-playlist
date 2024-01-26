@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-514 songs - 21 hr 5 min
+516 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Apology To Myself](https://open.spotify.com/track/1HAfzaTtEOwry54gB6uMwd) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Apology To Myself](https://open.spotify.com/album/2JZgOyJ5uc8DCeayHQs80H) | 1:40 | 2019-05-26\* | 2019-06-15 |
 | [archipelago](https://open.spotify.com/track/2cJrM72wG5Kj1497cklAUi) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [archipelago](https://open.spotify.com/album/4uV1hspSYL4kVL8bHX85Pj) | 2:58 | 2020-11-06 | 2021-10-23 |
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
+| [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2024-01-25 |  |
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2023-10-21 |
 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 |  |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 | 2024-01-06 |
@@ -97,7 +98,7 @@
 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 | 2023-06-04 |
 | [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
 | [cruisin](https://open.spotify.com/track/5W9Mq15IiRgTdzebzrdmJe) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [cruisin](https://open.spotify.com/album/5dWnaOrXtnDxS8yxmCTiOu) | 1:30 | 2019-05-26\* | 2021-05-26 |
-| [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 | 2019-05-26\* |  |
+| [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 | 2019-05-26\* | 2024-01-26 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-09-19 |
 | [Daisy Vibes](https://open.spotify.com/track/7noiYUt0ShJvgJZBYletqg) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Daisy Vibes](https://open.spotify.com/album/67qXWPDEc1rG9LEEKH9mgX) | 2:01 | 2019-08-31 | 2021-09-10 |
 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 | 2021-07-22 | 2023-04-10 |
@@ -292,6 +293,7 @@
 | [Momma Time](https://open.spotify.com/track/1oT9Ax3RM3yv3zSNAaNQLe) | [Kankick](https://open.spotify.com/artist/1F9XUalYzU3FBioU2EBJro) | [Kan Cassette Vol.1](https://open.spotify.com/album/3yYfMdo5u2OKxiHGmwBXZW) | 2:12 | 2019-05-26\* | 2020-01-14 |
 | [More Life](https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [More Life](https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw) | 2:34 | 2019-08-31 | 2022-11-05 |
 | [Morning Cartoons](https://open.spotify.com/track/0KjQTnwnwBddIkplN5xsU8) | [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98), [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Morning Cartoons](https://open.spotify.com/album/2BBagTuzwUy6XWJpIFzufV) | 2:07 | 2020-06-29 | 2022-04-21 |
+| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 |  |
 | [My Girl](https://open.spotify.com/track/6TXeLPNseWzCnmCjgexEfE) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Welcome Home](https://open.spotify.com/album/0dk2xXCxLT1KEO61WQ2YKg) | 1:39 | 2020-06-19 | 2020-10-02 |
 | [My Type Of Comfortable](https://open.spotify.com/track/0rXo6tpkeF3wNIHYMdjRwY) | [Hayai Sake](https://open.spotify.com/artist/3kID2s74JivIv9p0yAVIKa), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [Banana Katana](https://open.spotify.com/artist/3qUAvx09Sip4PpmP3LsEvQ) | [My Type Of Comfortable](https://open.spotify.com/album/5aw9ZE2yBUaIpDjiVgUbUH) | 1:17 | 2020-07-18 | 2022-06-17 |
 | [mysa](https://open.spotify.com/track/1jklKFn7x3Vn659OA0DyoO) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Dernière](https://open.spotify.com/album/53rEo4OVa0J3dTTDPraRX5) | 1:26 | 2019-06-14 | 2021-10-16 |
@@ -476,7 +478,7 @@
 | [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 | 2022-07-28 |  |
 | [Too Tired](https://open.spotify.com/track/4XUuEwjqJ5rlZ1vKeECch5) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/3GuuBoRHpLF94YJwa2au5a) | 1:56 | 2019-05-26\* | 2022-04-20 |
 | [tora](https://open.spotify.com/track/7pllf8BgSRWlPP1Bh2nwgF) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [tora](https://open.spotify.com/album/63taLK3FkJPnmKk2S6Ni4f) | 2:01 | 2021-06-13 | 2021-09-08 |
-| [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 | 2023-04-06 |  |
+| [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 | 2023-04-06 | 2024-01-26 |
 | [Transit\(ions\)](https://open.spotify.com/track/6BAN3aAd99anwTOAv7VmKh) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit\(ions\)](https://open.spotify.com/album/5iieWP46GtJp4CdEPuuX7R) | 2:12 | 2019-05-26\* | 2022-04-19 |
 | [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 | 2020-03-27 | 2022-07-21 |
 | [Two Colours](https://open.spotify.com/track/5p39ZChrnnpFDnhlv5OT7w) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Two Colours](https://open.spotify.com/album/7zl7DRsfq3JYpHvOi2y2lB) | 2:01 | 2020-06-19 | 2021-09-10 |

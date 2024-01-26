@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-316 songs - 23 hr 47 min
+317 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [María y José \- En Vivo](https://open.spotify.com/track/7dRcduV7DKRzYhFkFUJVFF) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Huracanes en Luna Plateada \(En Vivo\)](https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx) | 4:18 | 2022-04-01 | 2022-10-18 |
 | [Matador \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/1PpFbfG447nP3TZtnZwDkk) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 5:02 | 2022-04-01 | 2023-10-07 |
 | [Me Cuesta Creer \- En Vivo](https://open.spotify.com/track/0R1kLJXw9LFfpaej8U4BqA) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 4:42 | 2022-04-01 | 2022-07-29 |
-| [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 | 2023-06-02 |  |
+| [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 | 2023-06-02 | 2024-01-26 |
 | [Me estás atrapando otra vez \- En directo, Las Ventas 7 septiembre 1993](https://open.spotify.com/track/4w0IK3h9bT0FeY5YcH9A2t) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [En Las Ventas 7 septiembre 1993 \(En directo\)](https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q) | 5:56 | 2022-04-01 | 2022-07-25 |
 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 | 2022-04-01 | 2023-10-07 |
 | [Me Puedo Programar \(En Vivo](https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [En Vivo\-Vol.2](https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw) | 3:21 | 2022-04-01 |  |
@@ -197,6 +197,7 @@
 | [Mujer \- En Vivo](https://open.spotify.com/track/4DhGPPgqfoXr4DvxchjUkx) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Sesiones en Vivo](https://open.spotify.com/album/1ha68AY5hm2xkpFiFB9dXM) | 4:24 | 2022-04-01 | 2022-07-24 |
 | [Mujer Amante \- En Vivo](https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [En el Teatro Opera \- En Vivo](https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR) | 5:34 | 2022-04-01 | 2023-10-07 |
 | [Más Allá o Más Acá \- En Vivo](https://open.spotify.com/track/6GWr98MylDihLmEuGrRHXf) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Una Noche de Rock en Medallo \(En Vivo\)](https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3) | 3:20 | 2022-04-01 | 2022-07-28 |
+| [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 | 2024-01-25 |  |
 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 | 2023-06-16 |  |
 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 | 2023-03-03 | 2024-01-06 |
 | [Niebla Rosada \- En Vivo](https://open.spotify.com/track/1k5JoCQKj03GKvWDSRVJg7) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Niebla Rosada \(En Vivo\)](https://open.spotify.com/album/1QG8uJkxtxPTyKCCoi11I8) | 3:11 | 2022-04-01 | 2022-05-29 |

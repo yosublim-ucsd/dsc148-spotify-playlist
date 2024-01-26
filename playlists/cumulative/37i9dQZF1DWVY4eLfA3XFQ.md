@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Westend and Max Styler
 
-1,436 songs - 3 day 9 hr 54 min
+1,436 songs - 3 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Deep In Your Heart](https://open.spotify.com/track/4aWzNzb2VXhqQw491l9yB1) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Deep In Your Heart](https://open.spotify.com/album/6wCnIDSFu2IlfLWu5B0L0u) | 2:34 | 2022-10-21 | 2022-11-29 |
 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 | 2022-07-29 | 2022-09-06 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-06-11 |
-| [Deeper Love](https://open.spotify.com/track/4GHn5psPeMauQ7DFqZQFRJ) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [Deeper Love](https://open.spotify.com/album/3bBJ0IDLcRbHnMfihxl1Cg) | 3:20 | 2024-01-19 |  |
+| [Deeper Love](https://open.spotify.com/track/4GHn5psPeMauQ7DFqZQFRJ) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [Deeper Love](https://open.spotify.com/album/3bBJ0IDLcRbHnMfihxl1Cg) | 2:49 | 2024-01-19 |  |
 | [DEEPFAKE](https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [DEEPFAKE](https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn) | 2:46 | 2023-03-17 | 2023-08-12 |
 | [Defibrillator](https://open.spotify.com/track/5TiZncdB9U1m1WCO89wyYF) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB) | [Defibrillator](https://open.spotify.com/album/3rno4Z2E80NRT2iHuS8dkT) | 2:22 | 2023-01-27 | 2023-04-22 |
 | [Demon Time](https://open.spotify.com/track/4Rjr9hSQOlviDN3XZE3w3A) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [King Saaidi](https://open.spotify.com/artist/41SptUOO4HsFNu7EayYspX), [Supply & Demand \(US\)](https://open.spotify.com/artist/0UHA3j6mogPKFBOpHQDPQ1) | [Demon Time](https://open.spotify.com/album/2eyOhgQY4OLEmwRjSoAE3i) | 3:35 | 2023-10-06 | 2023-11-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 66127,
+  "num_followers": 66132,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmNjNTgzODVmODRhNjllM2EwZDUzYzdhZjgzMmVmYmI5ZjhmMDU4",
+  "snapshot_id": "MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -699,38 +699,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "La Marapica",
-        "url": "https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt"
-      },
-      "artists": [
-        {
-          "name": "Tipico Dominicano",
-          "url": "https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "Homenaje a Bolo - En Vivo",
-      "url": "https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "60 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "La Correa",
-      "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Out of Control",
         "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
       },
@@ -747,34 +715,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Cumbia Sampuesana",
-        "url": "https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8"
+        "name": "60 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
       },
       "artists": [
         {
-          "name": "Tatico Henriquez Songs",
-          "url": "https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE"
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
         }
       ],
-      "duration_ms": 163000,
-      "name": "El Peque\u00f1uelo",
-      "url": "https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
-      },
-      "artists": [
-        {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
-        }
-      ],
-      "duration_ms": 256625,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
+      "duration_ms": 169000,
+      "name": "La Correa",
+      "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -811,6 +763,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+      },
+      "artists": [
+        {
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+        }
+      ],
+      "duration_ms": 256625,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "El Consejo a Las Mujeres",
         "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 237640,
       "name": "Las Viejas De Ahora",
       "url": "https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Muy Loco",
+        "url": "https://open.spotify.com/album/1qJGNCdWQH7U8Wueh2ojCl"
+      },
+      "artists": [
+        {
+          "name": "Yiki Lee",
+          "url": "https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/65BnKBgzomEwHIFeZTI5CT"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "\"El Cacique\" - Todo Exitos",
+        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Por Esa Mujer",
+      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
     }
   ],
   "unique_name": "Merengue T\u00edpico",

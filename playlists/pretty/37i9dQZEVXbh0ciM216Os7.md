@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 23 | [Spaghetti Polonaise](https://open.spotify.com/track/5ZgsblCqzc7oR3y2aUKR6O) | [Dorfrocker](https://open.spotify.com/artist/5jvJoybRSHYAlPYyz6cnOd), [Kings of Günter](https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY) | [Spaghetti Polonaise](https://open.spotify.com/album/3bGOnJKTQyGxbMe4tfk9TC) | 2:58 |
 | 24 | [Am Falkenstein](https://open.spotify.com/track/0bMMVhsfY09wf54alspNTR) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Am Falkenstein](https://open.spotify.com/album/6hAKjATeeoNdkm5Q2WwR1z) | 3:44 |
 | 25 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 26 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
-| 27 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
-| 28 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
+| 26 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
+| 27 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
+| 28 | [née\-nah](https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [née\-nah](https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT) | 3:40 |
 | 29 | [CHECK YA FASHION](https://open.spotify.com/track/60AybeRltLiX4ZATUkoRDS) | [Twan the Prophet](https://open.spotify.com/artist/54PJCcEgCvyILsrgLEP8Zy), [Westcoast Mo](https://open.spotify.com/artist/2tT7nQdRPSLspfAIJLsVyS), [Killa Kali](https://open.spotify.com/artist/75eyGnvvRWP3hAvvNNag8W), [Mic Zoldiah](https://open.spotify.com/artist/6ufNwbpcn8olcjpYl2I61f), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [WESTCOAST KILLA PROPHECY](https://open.spotify.com/album/3oiZUeMewk9D7xhuj6bKQC) | 3:43 |
 | 30 | [12 HUNNID \(feat\. Terrace Martin & The Melodiks\)](https://open.spotify.com/track/7mfLtXAhUiM8CspzksCaQM) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [The Melodiks](https://open.spotify.com/artist/0BKSrGWkUwEUHaUdJGffUN) | [A Compton Story \(Director's Cut\)](https://open.spotify.com/album/4Htph9ONzvIStrBb0aRj2t) | 2:40 |
 
-Snapshot ID: `Mjg0MjczNDAsMDAwMDAwMDAxMDNkOGE5MmM3MDkxNGFlYzgxOGNjNTNjYjMzN2UwMg==`
+Snapshot ID: `Mjg0MjczNDAsMDAwMDAwMDAyOWE5MjE4Yzg2YjBhYzkwYTE1YWI1MmVhMzU5YTFiNw==`

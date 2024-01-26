@@ -7604,6 +7604,24 @@
     {
       "album": {
         "name": "JUST LIKE CANDY",
+        "url": "https://open.spotify.com/album/4naBKZx2cng8JXWnLZ8LE3"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "JUST LIKE CANDY",
+      "url": "https://open.spotify.com/track/2F67eoAIARJ6E9FdhoxOYV"
+    },
+    {
+      "album": {
+        "name": "JUST LIKE CANDY",
         "url": "https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1"
       },
       "artists": [
@@ -7614,7 +7632,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 160000,
       "name": "JUST LIKE CANDY",
       "url": "https://open.spotify.com/track/2HGMJumlVE3cN88AT3q9F9"

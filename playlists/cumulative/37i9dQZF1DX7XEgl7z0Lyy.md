@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-167 songs - 5 hr 44 min
+168 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [33.1FM](https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ) | 2:15 | 2023-07-21 |  |
 | [feel the same](https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR) | [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [feel the same](https://open.spotify.com/album/6nOkaB0oVdfsSSoUI4a4mU) | 2:03 | 2024-01-05 |  |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
+| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-25 |  |
 | [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 | 2023-11-20 |  |
 | [GAME OVER](https://open.spotify.com/track/3tVzkAo4dmzdYxbnrWIwxM) | [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2), [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [GAME OVER](https://open.spotify.com/album/030Jb57zSFdga6o06m7IDu) | 1:26 | 2023-11-08 |  |
 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 | 2023-12-08 | 2024-01-13 |
@@ -118,7 +119,7 @@
 | [OK WE SININ](https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV) | [OK WE SININ](https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA) | 1:20 | 2023-09-01 | 2023-12-11 |
 | [OK WE SININ](https://open.spotify.com/track/3stbW6MArOPEjS2yr8tCRA) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/6mFJ6p0JXGBH8z38219P7r) | [OK WE SININ](https://open.spotify.com/album/3LA7ZCMNSH17iZYMd2TBqd) | 1:20 | 2023-09-22 | 2023-12-16 |
 | [ON THE FLOOR](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 | 2023-09-08 |  |
-| [onyx palace](https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql) | 2:13 | 2023-09-22 |  |
+| [onyx palace](https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql) | 2:13 | 2023-09-22 | 2024-01-26 |
 | [onyx palace](https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG) | 2:13 | 2023-07-21 | 2023-11-30 |
 | [party addict](https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/52zsEp1nlqjnzxBFRN9TCm) | 2:05 | 2023-09-22 |  |
 | [party addict](https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A) | 2:05 | 2023-07-21 | 2023-10-18 |

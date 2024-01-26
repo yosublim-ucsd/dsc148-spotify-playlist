@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : So La Lune
+> Le meilleur du rap français version cloud\. Photo : USKY
 
-333 songs - 16 hr 32 min
+334 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cali](https://open.spotify.com/track/3kGMQAKHYYRTKBHnTKC63C) | [Wood](https://open.spotify.com/artist/0kf6QUZVdM4imfVvEmSnm9) | [Pas stable](https://open.spotify.com/album/7oTnxM3xUaU4J3C9LiRAnA) | 4:30 | 2022-11-17 | 2023-03-03 |
 | [CASCADE](https://open.spotify.com/track/2OBxlYIG1JCFQuCKdn2177) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [CASCADE](https://open.spotify.com/album/3Coi3CC35a80Y5WXwlHMo2) | 2:48 | 2023-02-02 | 2023-04-07 |
 | [CAUCHEMAR](https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit) | 2:52 | 2022-07-14 | 2022-09-30 |
-| [CAVIAR OU PESTO](https://open.spotify.com/track/5vp9BsHDp7vIOknFC62HeE) | [Laroma](https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw) | [L'EFFET DU TEMPS](https://open.spotify.com/album/3ANUOjqlTITE0VgsroNPwC) | 2:57 | 2023-12-14 |  |
+| [CAVIAR OU PESTO](https://open.spotify.com/track/5vp9BsHDp7vIOknFC62HeE) | [Laroma](https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw) | [L'EFFET DU TEMPS](https://open.spotify.com/album/3ANUOjqlTITE0VgsroNPwC) | 2:57 | 2023-12-14 | 2024-01-26 |
 | [Chance](https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Chance](https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr) | 3:01 | 2023-06-08 | 2023-07-21 |
 | [CHEMINS](https://open.spotify.com/track/01C3b59tdndDqaWlAb7Zyw) | [Charlie Pill](https://open.spotify.com/artist/1F9opBvFsZhyjP67Dwj5V7), [Verso](https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7), [Nael Céleste](https://open.spotify.com/artist/3WuIkKiG2lFgrDqcWvW4Bw) | [CHEMINS](https://open.spotify.com/album/6ICJkCduEoZnmVzPVa8keo) | 2:55 | 2023-11-30 | 2024-01-12 |
 | [Cicatrice](https://open.spotify.com/track/7s97KyBEO1UJWAoFFlArGp) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Cicatrice](https://open.spotify.com/album/22CGW1ncY9rhzp7I98DZeo) | 2:39 | 2023-05-25 | 2023-11-10 |
@@ -180,6 +180,7 @@
 | [Le jour se lève](https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [Le jour se lève](https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL) | 2:13 | 2023-06-22 |  |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
 | [Le Nine](https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Le Nine](https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr) | 3:20 | 2023-10-12 |  |
+| [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 | 2024-01-25 |  |
 | [LES VOIX DANS MA TÊTE](https://open.spotify.com/track/3LdwUrCS2gdJe4ygH41uZO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [STRATUS JOYEUX](https://open.spotify.com/album/2UhMgGhAAl1fIWgAnveYRu) | 3:20 | 2023-03-16 | 2023-04-28 |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 | 2023-02-10 |
 | [LIBRE \- Dysphoria](https://open.spotify.com/track/50gMceCjKprl6DUYnFrWSE) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/0P0fYHITU1W4DMmLw2XtRu) | 2:40 | 2023-01-26 | 2023-05-12 |

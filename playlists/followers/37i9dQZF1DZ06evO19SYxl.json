@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 8013,
+  "2024-01-26": 8016,
   "date_first_scraped": "2023-01-14",
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
   "name": "This Is Tex Tex",
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 149541,
       "name": "Devuelvelo",
       "url": "https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 58586,
       "name": "El Bailable",
       "url": "https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI"

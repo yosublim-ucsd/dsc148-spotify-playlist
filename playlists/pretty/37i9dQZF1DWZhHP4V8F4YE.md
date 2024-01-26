@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,168 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,294 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Dubula \- Remake](https://open.spotify.com/track/5G7OciBUZ9RT1kqY0nV9A5) | [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza), [DJ Latimmy](https://open.spotify.com/artist/0bdSJtV8PfjTCfHjcb5tqG) | [Dubula \(Remake\)](https://open.spotify.com/album/6x3wDYb2tPkcotPOXXlFpv) | 5:06 |
 | 50 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 
-Snapshot ID: `MCxlYmY5MTM4NDA0OTdmMTMzZjE5YmY4NmNiMmM5NzZlNDdkMGJkN2Ni`
+Snapshot ID: `MCwxNjU5ZjNmMmNiOTc4YzY5OTUxZWM4MWI0YmRiYmVhYjFmN2Q4MTA3`

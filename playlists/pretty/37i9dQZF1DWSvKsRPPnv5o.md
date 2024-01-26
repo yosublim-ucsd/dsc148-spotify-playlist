@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: The Game & Big Hit
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,451 likes - 85 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,501 likes - 85 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 7 | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz) | 2:18 |
 | 8 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
 | 9 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
-| 10 | [Stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 |
+| 10 | [stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 |
 | 11 | [Ghetto Barbie](https://open.spotify.com/track/5q4AyMRaXeAZ61ns0moZg6) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Fenix Flexin Vol\. 3](https://open.spotify.com/album/1ZefxpDa6v1nUij91wY62w) | 2:14 |
 | 12 | [Take A Sip \(feat\. Hott Boy Zay\)](https://open.spotify.com/track/5AH0wCYthxjHaRlUjlZvoW) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Hott Boy Zay](https://open.spotify.com/artist/3O7PsoS8yBCnx5Fe7BHQYc) | [Another Summer Night](https://open.spotify.com/album/0LFRpZraGwxBcc0pypFDKy) | 2:08 |
 | 13 | [Still Numb](https://open.spotify.com/track/5rIT3IR3w6szWJhD2vVkv5) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [420tiesto](https://open.spotify.com/artist/68w9bGhGIhqjAXNtKgXS7L) | [Still Numb](https://open.spotify.com/album/066UpTuyIXbqv2XAQwTZQj) | 2:41 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 35 | [Recess](https://open.spotify.com/track/7yxXAh18ta3thwaU3iaHrO) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Recess](https://open.spotify.com/album/3CX3lvLLNnqsTRL3owcdxG) | 2:17 |
 | 36 | [The 5](https://open.spotify.com/track/0y7P5NsVwO4vRft1rY5Wt9) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Trophies](https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp) | 2:28 |
 | 37 | [ALLAT](https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [ALLAT](https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU) | 2:23 |
-| 38 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 38 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
 | 39 | [One in a Million](https://open.spotify.com/track/6vHzZYu56CfLbNf4VkA0m7) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [One in a Million](https://open.spotify.com/album/6tlOv3F5sWoblEXlgNwyRz) | 2:22 |
 | 40 | [Lotta Cash](https://open.spotify.com/track/1goCHDPWXm9SJ1B04czejH) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Lotta Cash](https://open.spotify.com/album/34O6YH7aVuHHxFAOBjUcpT) | 2:24 |
 | 41 | [IF I DIE RIGHT NOW](https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [IF I DIE RIGHT NOW](https://open.spotify.com/album/4cAgvy7ZjVP0SxreZZulHI) | 2:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 84 | [booted](https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [booted](https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD) | 2:18 |
 | 85 | [Rules](https://open.spotify.com/track/3NTPNlVaX80h6y2zoe5TOs) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Who is Lil Kayla?](https://open.spotify.com/album/7ibYBH48xmJbCendGqf67I) | 1:08 |
 
-Snapshot ID: `MCw4MjNhOGE1MTgxMTRiNjI5YjE4MjU2OWExZGFlNTc4NmNkYjdmNWVk`
+Snapshot ID: `MCxkNmNhYTdhMzc1MzlhMzAwMDQxY2I1MzVlMTZjMWU2NTQxZGM4Mjlk`

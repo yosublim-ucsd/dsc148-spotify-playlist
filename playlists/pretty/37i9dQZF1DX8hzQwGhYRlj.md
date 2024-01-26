@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,836 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,845 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 | 59 | [Lyrische Stücke Op\. 62 \(Band/Volume VII\): Tak/Dank/Gratitude](https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gerhard Oppitz](https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo) | [Grieg: Complete Solo Piano Music](https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs) | 4:47 |
 | 60 | [Grieg: Lyric Pieces, Book 8, Op\. 65: No\. 1, From Early Years](https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Grieg: Piano Concerto, 6 Lyric Pieces \- Liszt: Piano Concerto No\. 2](https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8) | 4:39 |
 
-Snapshot ID: `MCw3ODIyYzAyOWExYmZkMDRlNWNmZWYzNGEyNjZiNWZjODE2YjUyNDEx`
+Snapshot ID: `MCwxYWQyMTU1ZjA5ZThmMWFiNmQzMjEzYjczNzBiMGQ0MmJhNWMwMTk2`

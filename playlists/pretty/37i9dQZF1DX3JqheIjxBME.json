@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21586,
+  "num_followers": 21594,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBiNmY5NDIwNzgxMjUxMTg2YjM1MjZhZDFhZWIyMjBkMWE0ODgy",
+  "snapshot_id": "MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -51,22 +51,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Pachangon en el Infierno",
-        "url": "https://open.spotify.com/album/2YiNeBrJ8bhCdbUO4qGbUi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 231550,
-      "name": "La Venganza de Pancho Villa",
-      "url": "https://open.spotify.com/track/67GbchXJhrzZbWfT1m0NjI"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Sus Mas Grandes Exitos",
         "url": "https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Pachangon en el Infierno",
+        "url": "https://open.spotify.com/album/2YiNeBrJ8bhCdbUO4qGbUi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 231550,
+      "name": "La Venganza de Pancho Villa",
+      "url": "https://open.spotify.com/track/67GbchXJhrzZbWfT1m0NjI"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -316,13 +316,17 @@
       },
       "artists": [
         {
-          "name": "Hermanas Villa Oro",
-          "url": "https://open.spotify.com/artist/45P2CfSKnIplQU0tBZp3xw"
+          "name": "Lucha Reyes",
+          "url": "https://open.spotify.com/artist/28fsPBiCL1h647XqcwmSN0"
+        },
+        {
+          "name": "El Mariachi Tapat\u00edo",
+          "url": "https://open.spotify.com/artist/7Ix0AZDnZxIwrMr7bj7poU"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Toma de Torre\u00f3n",
-      "url": "https://open.spotify.com/track/1JjnL63tZZmH2u01N2V1ni"
+      "duration_ms": 157986,
+      "name": "Canci\u00f3n Mexicana",
+      "url": "https://open.spotify.com/track/2LncnfV034Z4R8HtdGGFcY"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -428,17 +432,13 @@
       },
       "artists": [
         {
-          "name": "Lucha Reyes",
-          "url": "https://open.spotify.com/artist/28fsPBiCL1h647XqcwmSN0"
-        },
-        {
-          "name": "El Mariachi Tapat\u00edo",
-          "url": "https://open.spotify.com/artist/7Ix0AZDnZxIwrMr7bj7poU"
+          "name": "Hermanas Villa Oro",
+          "url": "https://open.spotify.com/artist/45P2CfSKnIplQU0tBZp3xw"
         }
       ],
-      "duration_ms": 157986,
-      "name": "Canci\u00f3n Mexicana",
-      "url": "https://open.spotify.com/track/2LncnfV034Z4R8HtdGGFcY"
+      "duration_ms": 176000,
+      "name": "Toma de Torre\u00f3n",
+      "url": "https://open.spotify.com/track/1JjnL63tZZmH2u01N2V1ni"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -628,13 +628,13 @@
       },
       "artists": [
         {
-          "name": "Los Rancheros",
-          "url": "https://open.spotify.com/artist/2keaE6yQzPkWsB0XZ76rmg"
+          "name": "Dueto Los Pajareros",
+          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
         }
       ],
-      "duration_ms": 167786,
-      "name": "Soldado de Levita",
-      "url": "https://open.spotify.com/track/4T2MfJaZ3Se9GyZcsFFqnX"
+      "duration_ms": 169040,
+      "name": "Las Cuatro Milpas",
+      "url": "https://open.spotify.com/track/4IOp33ou5fDyKgARvcyqEO"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -676,29 +676,13 @@
       },
       "artists": [
         {
-          "name": "Dueto Los Pajareros",
-          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+          "name": "Los Rancheros",
+          "url": "https://open.spotify.com/artist/2keaE6yQzPkWsB0XZ76rmg"
         }
       ],
-      "duration_ms": 169040,
-      "name": "Las Cuatro Milpas",
-      "url": "https://open.spotify.com/track/4IOp33ou5fDyKgARvcyqEO"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "Juana Gallo",
-      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
+      "duration_ms": 167786,
+      "name": "Soldado de Levita",
+      "url": "https://open.spotify.com/track/4T2MfJaZ3Se9GyZcsFFqnX"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -715,6 +699,22 @@
       "duration_ms": 192000,
       "name": "El Desterrado",
       "url": "https://open.spotify.com/track/6xvsVekA9AsEhfHFcKVVkI"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "Juana Gallo",
+      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 185446,
-      "name": "La Toma De Zacatecas",
-      "url": "https://open.spotify.com/track/7JPnfBUaOniky8WIn4U48c"
+      "duration_ms": 158882,
+      "name": "El Centauro De Oro",
+      "url": "https://open.spotify.com/track/3QuujadEZ52El7vMb4t6SH"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 158882,
-      "name": "El Centauro De Oro",
-      "url": "https://open.spotify.com/track/3QuujadEZ52El7vMb4t6SH"
+      "duration_ms": 185446,
+      "name": "La Toma De Zacatecas",
+      "url": "https://open.spotify.com/track/7JPnfBUaOniky8WIn4U48c"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
-        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 329640,
-      "name": "Corrido del Agrarista",
-      "url": "https://open.spotify.com/track/49uMErrmWCBAOpYcwIDgBd"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Corridos Y Canciones De La Revolucion Mexicana",
         "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 333773,
       "name": "Caritina",
       "url": "https://open.spotify.com/track/0qrI3yRNEM03BmRMjg2Rz2"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
+        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 329640,
+      "name": "Corrido del Agrarista",
+      "url": "https://open.spotify.com/track/49uMErrmWCBAOpYcwIDgBd"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Relatos Y Corridos De La Revoluci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/1o5KADqR7DINeCIUOn0nm6"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 986173,
-      "name": "Perd\u00f3n a un Valiente",
-      "url": "https://open.spotify.com/track/1jYjR8jCNRZnAA2ABhJbK7"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
         "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 179560,
       "name": "Caballo Alaz\u00e1n Lucero",
       "url": "https://open.spotify.com/track/6RWcNPLVXGsWs7J1jFGrRe"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Relatos Y Corridos De La Revoluci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/1o5KADqR7DINeCIUOn0nm6"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 986173,
+      "name": "Perd\u00f3n a un Valiente",
+      "url": "https://open.spotify.com/track/1jYjR8jCNRZnAA2ABhJbK7"
     },
     {
       "added_at": "2022-08-02 23:07:07",

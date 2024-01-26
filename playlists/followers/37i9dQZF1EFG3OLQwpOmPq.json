@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1010,
+  "2024-01-26": 1010,
   "date_first_scraped": "2022-05-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp\">sad alex</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By sad alex",
@@ -1721,10 +1721,36 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 195052,
       "name": "Shouldn't Couldn't Wouldn't",
       "url": "https://open.spotify.com/track/16ox7ZM0ozbzBOTjFecYuY"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/0XTfFhfbxxwYx0658sgGAh"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195052,
+      "name": "Shouldn't Couldn't Wouldn't",
+      "url": "https://open.spotify.com/track/6gGgWXoJ4VB0HCX3zWPpGr"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ?si=BuRQnFJQTfme77IrVmdr7w\">JZyNo</a>",
-  "num_followers": 8973,
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=hQdL67LfSD-fyv0qtUJEhw\">CKay</a>",
+  "num_followers": 9010,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVjZmI4ZTNmNjFiYzQ1Y2MyNjJhYjg0ZmVmYjM1OWY2ZTQ5MjA1",
+  "snapshot_id": "MCwxOTE1OTYxZGE0ZTA0ZmRkZDdiNjFlNzg4YmQ5NjkyNjIyYmViNzhj",
   "tracks": [
     {
-      "added_at": "2024-01-17 13:58:19",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Yakunay",
         "url": "https://open.spotify.com/album/7sFabzFIwrdInO0AGVc3Qu"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/2PKThuOwwDMNhqh4UyVNWH"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Clear Road",
         "url": "https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Hillary Remix (feat. Pabi Cooper)",
         "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/61eUczFKcjmdfX5FtFUpyW"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Test My Patience",
         "url": "https://open.spotify.com/album/4eZBROOHJS10x63PWPZuvy"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/2b9M5HCxQfO2eW9QrkjKcI"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "You're Hired (feat. Ayra Starr) [Legendury Beatz Remix]",
         "url": "https://open.spotify.com/album/0B3ZuzcrBsPWRkGkm5zZ2C"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/5i16HfVleOCQPwDnvUlnyl"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Yo Fam!",
         "url": "https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/2PBljrtBDlby5LvWFC3lXl"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/3w6sbb4d9p4XC9EF0BoB4c"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "G\u00e9n\u00e9rations Street",
         "url": "https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Things on Things",
         "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "VACAY",
         "url": "https://open.spotify.com/album/67BkeBWZnt6sPINQg9J4Nl"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6IYWAQtBQ2sDGd0eXmnah4"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "International Arrivals Vol. 4",
         "url": "https://open.spotify.com/album/3tHQfZUCQf5rZML0h0uFHn"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/64ZjngztTdU3j6G1ekJh0D"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Get Busy (Mshikashika)",
         "url": "https://open.spotify.com/album/51t31jOVRJMnffJmXTbR3L"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/5kTKXAvNPxUjvHybQmhwpo"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "VIBES GOT NO BORDERS Vol. 1",
         "url": "https://open.spotify.com/album/1cIQ09uYElQ8c3z8Bbstky"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/4nIvqi1dzOw3k7bIkCFxpm"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "What It Do Baby",
         "url": "https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "UNAVAILABLE (feat. Musa Keys) [Major Lazer Remix]",
         "url": "https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "SAdesFakSHen",
         "url": "https://open.spotify.com/album/43FLqZlKpEvMbm9MbW2qxf"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/4KVx0ec8CzTHFKYYgmrQbo"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "TMX002: X & The Machine.",
         "url": "https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/5nCRwEupvHiUcWdTDJ3UKF"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "It Don't Matter",
         "url": "https://open.spotify.com/album/3vmaqJ7BhV4kHdVVzZhC3H"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/196kNxDYh3sx5t9lthMOI4"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Body Work (AQ Amapiano Remix)",
         "url": "https://open.spotify.com/album/4xwrO9A3O9Yszxf7F7WMiA"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/39ng3n2wKeTg2X268QlWiU"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "JAPANESE AMAPIANO",
         "url": "https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/1EJ4NsHvhxdWfmC4SukwRd"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Chapati",
         "url": "https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "BUTiFLY",
         "url": "https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/7F4FjvyBMOnFznBEQHrpbm"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Anti Social (feat. Jeremih & Young Jonn)",
         "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/0uJmIR7ar4aEZL5piNEE1A"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Narcos",
         "url": "https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
@@ -797,31 +813,7 @@
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Roots EP",
-        "url": "https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Verseless",
-          "url": "https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM"
-        },
-        {
-          "name": "King Her",
-          "url": "https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Jabula",
-      "url": "https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Kigbe (Heartbreak)",
         "url": "https://open.spotify.com/album/7DJ2001zZSoSxMgEdwBryj"
@@ -837,27 +829,7 @@
       "url": "https://open.spotify.com/track/0N2IJKlmqBVYrpYF9T0km5"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Wetin No Good",
         "url": "https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea"
@@ -873,7 +845,7 @@
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Catalina",
         "url": "https://open.spotify.com/album/1z5HxRFgBEasaSxZeYrQeZ"
@@ -889,7 +861,7 @@
       "url": "https://open.spotify.com/track/1GUnY38Yd6O8LDUQ7is9k5"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "The One (Chop Life)",
         "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
@@ -909,7 +881,7 @@
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ungowami",
         "url": "https://open.spotify.com/album/1Ktv0aI3zn7SK1VCzCwWBS"
@@ -929,7 +901,7 @@
       "url": "https://open.spotify.com/track/52HvcfSVFInxOGJzPjL92N"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
@@ -965,7 +937,7 @@
       "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ka Valungu",
         "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
@@ -985,35 +957,7 @@
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) [Vigro Deep Amapiano Remix]",
-        "url": "https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
-        }
-      ],
-      "duration_ms": 336842,
-      "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) - Vigro Deep Amapiano Remix",
-      "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Kool Sana",
         "url": "https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh"
@@ -1033,71 +977,7 @@
       "url": "https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Apotheke",
-      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
-        "url": "https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mapara A Jazz",
-          "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
-        },
-        {
-          "name": "Ntosh Gazi",
-          "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
-        }
-      ],
-      "duration_ms": 277428,
-      "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
-      "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Enjoy That",
         "url": "https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw"
@@ -1117,23 +997,7 @@
       "url": "https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Stop Nonsense",
-        "url": "https://open.spotify.com/album/48gsJqhB5us0lFC37ImxxO"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Stop Nonsense",
-      "url": "https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
@@ -1149,91 +1013,7 @@
       "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "It\u2019s Giving Summer",
-        "url": "https://open.spotify.com/album/0HDY9BIPgbOLbF2dgeEVPi"
-      },
-      "artists": [
-        {
-          "name": "Bils",
-          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
-        }
-      ],
-      "duration_ms": 156527,
-      "name": "It\u2019s Giving Summer",
-      "url": "https://open.spotify.com/track/6yED7TjsAgeiuduj9D9yyj"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/7F4FjvyBMOnFznBEQHrpbm"
-      },
-      "artists": [
-        {
-          "name": "Mfr Souls",
-          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
-        },
-        {
-          "name": "Chrissy Day",
-          "url": "https://open.spotify.com/artist/1VlInCdOFJtwQ9KTKpPeMI"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ndakhuyanza",
         "url": "https://open.spotify.com/album/6NnMNIcJlBqAHXVTgmzf0D"
@@ -1253,27 +1033,7 @@
       "url": "https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R"
     },
     {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Double Tap",
-        "url": "https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC"
-      },
-      "artists": [
-        {
-          "name": "Mathandos",
-          "url": "https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK"
-        },
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        }
-      ],
-      "duration_ms": 227256,
-      "name": "Double Tap",
-      "url": "https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Daddy ohh",
         "url": "https://open.spotify.com/album/4jFB19VG7Zn6lCSxve8QRI"
@@ -1287,130 +1047,6 @@
       "duration_ms": 167000,
       "name": "Daddy ohh",
       "url": "https://open.spotify.com/track/576ny2Fu52p2iacJxWKYn6"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1RRZz91gJ2St8d7EhXl8q4"
-      },
-      "artists": [
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1JK4yUEI1kLQKw424MYoSD"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
-        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
-      },
-      "artists": [
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Preck",
-          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
-        },
-        {
-          "name": "Nelson Tivane",
-          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
-      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Bunda",
-        "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Bunda",
-      "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2023-12-22 04:28:35",
-      "album": {
-        "name": "Nice (Kiss)",
-        "url": "https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        }
-      ],
-      "duration_ms": 297857,
-      "name": "Nice (Kiss)",
-      "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
     }
   ],
   "unique_name": "Amapiano to the World",

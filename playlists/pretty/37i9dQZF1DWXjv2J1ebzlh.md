@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,701 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,721 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -523,7 +523,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 513 | [Simini\-Yaga](https://open.spotify.com/track/2cPyVJswRAV0gE6rOLAdnZ) | [Collins Oke Elaiho and His Odologie Nobles Dance Band](https://open.spotify.com/artist/5bnRopFR6okUHPVhXy4e9x) | [Simini\-Yaga](https://open.spotify.com/album/7eLnOJF68kfu8gVWiqeDtR) | 3:40 |
 | 514 | [Ponte Bajo el Sol](https://open.spotify.com/track/68VLwvaAeCAs1QTSazcr8q) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:06 |
 | 515 | [Senta a Pua](https://open.spotify.com/track/1NUe6Ug4XuweGs8yppkLSd) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Som, Amor, Trabalho e Progresso / Senta a Pua](https://open.spotify.com/album/7LQlrwySZaLzijawGhtSJY) | 2:34 |
-| 516 | [Honour Your Mother and Father](https://open.spotify.com/track/2O4aXPntumZe59vCqMKnv2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Early Dekker](https://open.spotify.com/album/0tCUZ28lEp4k43hfG7WHoo) | 2:26 |
+| 516 | [Honour Your Mother and Father](https://open.spotify.com/track/5Cif5fCDY3hctiqMEwFYzL) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [Beverley All Stars](https://open.spotify.com/artist/1sZsLTu47WBKrjkeh6eQer) | [King of Ska: The Indispensable Desmond Dekker](https://open.spotify.com/album/45WV6CgZjm1fqiqobZMVJe) | 2:25 |
 | 517 | [Respect](https://open.spotify.com/track/2TKX6qH6L9fpJ2587qAenx) | [Kukumbas](https://open.spotify.com/artist/3sh8LATOI1883C10KuRiDS) | [Psych Funk 101](https://open.spotify.com/album/7hHRNlLiH8yXdHuyDNo1at) | 3:58 |
 | 518 | [เอาคำว่ารักของเธอคืนไป](https://open.spotify.com/track/1oyggQ6uosEZZTEDhgGJe1) | [ระพิน ภูไท](https://open.spotify.com/artist/7JWvqrzQDC7Mr1PdtAYAVp) | [คุณนายโรงแรม](https://open.spotify.com/album/3q2SFBtahhGDxrQutKeqj6) | 3:07 |
 | 519 | [The Duke](https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Exciting Sounds of Menahan Street Band](https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF) | 2:46 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

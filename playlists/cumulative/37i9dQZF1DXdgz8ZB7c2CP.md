@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-625 songs - 1 day 10 hr 31 min
+626 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,8 @@
 | [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 | 2024-01-12 |  |
 | [sinking @@!](https://open.spotify.com/track/47vCeLdxTjshWI3emh3ZUb) | [late year](https://open.spotify.com/artist/5VIvm6mJVnzoOrcFEsKIfP), [Otxhello](https://open.spotify.com/artist/4S3cwLP8haGAdlqyza3GZ3), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [late year](https://open.spotify.com/album/52IWApcFLgfDu9clR1GGNg) | 3:20 | 2021-08-06 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Skin](https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq) | 2:49 | 2023-04-13 | 2023-08-05 |
-| [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 | 2024-01-12 |  |
+| [Skrt](https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6) | 3:01 | 2024-01-18 |  |
+| [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 | 2024-01-12 | 2024-01-26 |
 | [SKY SKY 1.3 \[2016 Export Wav\]](https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 2:44 | 2023-05-05 | 2023-12-14 |
 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-05-12 | 2023-05-15 |
 | [skyscraper](https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:25 | 2023-06-30 | 2023-08-05 |

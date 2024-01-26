@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,411 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,426 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 26 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
 | 27 | [Finding Mirrors](https://open.spotify.com/track/0EH463Fps1RLF2qlecBCHh) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Finding Mirrors](https://open.spotify.com/album/1lmRglMGcYLTfZIW8EfHRU) | 3:42 |
 | 28 | [Effortlessly](https://open.spotify.com/track/7tstz2Oy0Gxhxkqp1MU8FZ) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Effortlessly](https://open.spotify.com/album/6ahbfskqruzQOt5QXMlbzP) | 1:55 |
-| 29 | [Stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 |
+| 29 | [stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 |
 | 30 | [Back Out](https://open.spotify.com/track/4Hj8PL1eqJuUZKdkCTtYOs) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Back Out](https://open.spotify.com/album/5MIBZZe2AKhvd9eQ4sP8KL) | 1:35 |
 | 31 | [Rascals \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/track/5NQ4R9CcD4jQWeF9AxCMxp) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Dark Horse](https://open.spotify.com/album/25qEzxnkccHfVXlaLFQTzw) | 2:44 |
 | 32 | [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCxmM2RiMWMyYmIzN2FhYTQ3NjE2Mjc5YjZmODM3NWE1NTdjMWUyZjIy`
+Snapshot ID: `MCxiYzQ1MTVkY2Q5YTg2Y2RlNTk3OTQ1MTk4ZWE4MjFmOTY5ZWY1ZjA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > It's murder on the dancefloor  🍆 \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,629 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,925 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 78 | [Ce soir en ville](https://open.spotify.com/track/5SZsNBezY996MAtuutle4A) | [Sanji do brazil](https://open.spotify.com/artist/0TikrLOLIWsNoYVExg7qMz) | [Ce soir en ville](https://open.spotify.com/album/6iDVg2EKJs0UGlh9rZkHQD) | 2:14 |
 | 79 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 80 | [Corps \- Sped Up](https://open.spotify.com/track/0lScTHrPbwAVIqaXgNJUpJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Corps \(Sped Up\)](https://open.spotify.com/album/5D0DzjFyCVbTyFUxQAA0D8) | 3:58 |
-| 81 | [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 |
+| 81 | [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 |
 | 82 | [Diamondz n Roses](https://open.spotify.com/track/7Aua757VSl2zj4YZ6HHMfH) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/2ZqkqA3r1QaLaALOWbs60S) | 4:24 |
 | 83 | [Brief me](https://open.spotify.com/track/4q9VkXjm2SkPqeudSFs0Ut) | [J4y](https://open.spotify.com/artist/1gX9ZzZnjjI19QrSgW9Xkc) | [Brief me](https://open.spotify.com/album/4ddXumSCltr4EYwlWTWD58) | 2:57 |
 | 84 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Mi Amor](https://open.spotify.com/track/1bY1SIPCc5rjn3A9Hc533F) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/7lAn2A7bS3wx3XtrsqXU68) | 3:50 |
 | 100 | [Miskine](https://open.spotify.com/track/1oAJcJ1Wqg5lkHHTdRGOld) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:00 |
 
-Snapshot ID: `MCwyZjY3Y2EwNWYyOWU1OGU0NWRmOTJmZDYwNTQzNjhlYjg1NTA0NmRj`
+Snapshot ID: `MCwwNDBlNmI4ZGY4N2YzYTk2ZDc1MmI3ODNkODc0MGZjYWUzYzVhNWE1`

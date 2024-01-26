@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 8550,
+  "2024-01-26": 8561,
   "date_first_scraped": "2022-10-19",
   "description": "Music from \"Love Live! Superstar!!\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!",
   "name": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!  -Love Live! Superstar!!-",
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 245711,
       "name": "Starlight Prologue",
       "url": "https://open.spotify.com/track/7zKZm2x7vuXuuxPAz9U97B"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 260543,
       "name": "Welcome to \u50d5\u3089\u306e\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO"

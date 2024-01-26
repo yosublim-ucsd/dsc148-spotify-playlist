@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1774146,
+  "2024-01-26": 1774188,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -4212,6 +4212,24 @@
     },
     {
       "album": {
+        "name": "Backrooms",
+        "url": "https://open.spotify.com/album/272ODPydw2yyTI5SBOTYod"
+      },
+      "artists": [
+        {
+          "name": "liminal00",
+          "url": "https://open.spotify.com/artist/0TWkLGlTS3pQcPKgk0DNk8"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166207,
+      "name": "Backrooms",
+      "url": "https://open.spotify.com/track/3KsOnCppQHV0uJY1KuFS2S"
+    },
+    {
+      "album": {
         "name": "BACKROOMS",
         "url": "https://open.spotify.com/album/0uuJecIiLh64AJTixOfvBy"
       },
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160391,
       "name": "BACKROOMS",
       "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
@@ -30977,10 +30995,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder) [1234 \u2013 Let Me Hear You Scream] \u2013 Sped Up",
+        "url": "https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/6zr24DUdgL4zYn5YVh0SHG"
     },
     {
       "album": {

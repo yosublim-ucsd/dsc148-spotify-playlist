@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Gheba",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Niky Savage",
   "name": "Raptopia",
   "tracks": [
     {
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166400,
       "name": "4 My City",
       "url": "https://open.spotify.com/track/7yiesgWTNRftomEmfjSeg9"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167050,
       "name": "BAGAGES",
       "url": "https://open.spotify.com/track/3T4HLpBoKsjcwYjYQR0q39"
@@ -1704,6 +1704,28 @@
       "duration_ms": 196085,
       "name": "Banlieue",
       "url": "https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H"
+    },
+    {
+      "album": {
+        "name": "BARACK OBAMA",
+        "url": "https://open.spotify.com/album/72c619eYqMVcVUSoOBenqe"
+      },
+      "artists": [
+        {
+          "name": "Oni One",
+          "url": "https://open.spotify.com/artist/2fwe5Hfv8bvpVDXB64hndj"
+        },
+        {
+          "name": "DOD",
+          "url": "https://open.spotify.com/artist/0LiaD3zWaTlh1ZUNjKYxAZ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122630,
+      "name": "BARACK OBAMA",
+      "url": "https://open.spotify.com/track/7b3n858pamY9dX0nYhlIC8"
     },
     {
       "album": {
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 170183,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/4uoPBzJREyfecRrFwyA2n7"
@@ -5920,7 +5942,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 149684,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa"
@@ -6034,7 +6056,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167491,
       "name": "FERRO (feat. Rasty Kilo)",
       "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
@@ -6276,7 +6298,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153277,
       "name": "Fino a quando non muoio (feat. Vaz T\u00e8)",
       "url": "https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X"
@@ -8053,6 +8075,28 @@
     },
     {
       "album": {
+        "name": "IN NOSTRO NOME (feat. 22simba)",
+        "url": "https://open.spotify.com/album/1iw8Z1UFEDm0m2Dmk2dflc"
+      },
+      "artists": [
+        {
+          "name": "Y.E.B",
+          "url": "https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "IN NOSTRO NOME (feat. 22simba)",
+      "url": "https://open.spotify.com/track/4DqRQiZQbKoCFLfdA2JEc3"
+    },
+    {
+      "album": {
         "name": "BLK",
         "url": "https://open.spotify.com/album/2lKYVgw0G8FChnrXbFmYWs"
       },
@@ -8660,7 +8704,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 208724,
       "name": "KRIMINELL",
       "url": "https://open.spotify.com/track/4fywmdizxcc2h9LzQVsN6C"
@@ -10216,7 +10260,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 93451,
       "name": "MALOCCHIO #2",
       "url": "https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA"
@@ -12108,7 +12152,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 156479,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/59mk2RyKQSbWCyR3s10C5v"
@@ -12836,7 +12880,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 179118,
       "name": "OUTFIT",
       "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
@@ -13718,6 +13762,28 @@
       "duration_ms": 137142,
       "name": "Playmaker",
       "url": "https://open.spotify.com/track/7957Ud9GA7uUteFT6VC779"
+    },
+    {
+      "album": {
+        "name": "Plaza Freestyle",
+        "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88363,
+      "name": "Plaza Freestyle",
+      "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
     },
     {
       "album": {
@@ -14927,6 +14993,24 @@
     },
     {
       "album": {
+        "name": "Rockefeller",
+        "url": "https://open.spotify.com/album/7ovODtWxk53uO33ZOgbuFZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Scacchi",
+          "url": "https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118802,
+      "name": "Rockefeller",
+      "url": "https://open.spotify.com/track/5fWVgHHwRdHZTmyxGoqeXq"
+    },
+    {
+      "album": {
         "name": "Rocket (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w"
       },
@@ -15227,6 +15311,24 @@
     },
     {
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/6aIN0Sf1sYGrPvXq2daMrr"
+      },
+      "artists": [
+        {
+          "name": "Voleur pnz",
+          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/1ksB7v1NvtYH9q9R23OuMv"
+    },
+    {
+      "album": {
         "name": "Salam Alaykum",
         "url": "https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS"
       },
@@ -15361,6 +15463,32 @@
     },
     {
       "album": {
+        "name": "SCAM (feat. Taxi B, Vaporstef)",
+        "url": "https://open.spotify.com/album/0wHzBSJEMhkhnidyeZgPrJ"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        },
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        },
+        {
+          "name": "Vaporstef",
+          "url": "https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "SCAM (feat. Taxi B, Vaporstef)",
+      "url": "https://open.spotify.com/track/7H54bkr1FvctDBLwD2Alzv"
+    },
+    {
+      "album": {
         "name": "SCAMS",
         "url": "https://open.spotify.com/album/0TcwNcjYEqrhQPJDWDDVgF"
       },
@@ -15492,7 +15620,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159183,
       "name": "Se Non Fosse Per Il Rap",
       "url": "https://open.spotify.com/track/1UCPLE6BezOoQYy9NnYne5"
@@ -15518,6 +15646,24 @@
       "duration_ms": 130212,
       "name": "Se ti amo",
       "url": "https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh"
+    },
+    {
+      "album": {
+        "name": "Sembra Cap",
+        "url": "https://open.spotify.com/album/5ayLm2ALhCbqt3cjNl2NCj"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "Sembra Cap",
+      "url": "https://open.spotify.com/track/5GRNCRTXAyhcZWEdFS3QC7"
     },
     {
       "album": {
@@ -17255,6 +17401,28 @@
     },
     {
       "album": {
+        "name": "Tommaso",
+        "url": "https://open.spotify.com/album/3lKtPHBErq335eCjtTaeFT"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111600,
+      "name": "Tommaso",
+      "url": "https://open.spotify.com/track/1jbEcjGF1iIcUbenA52p6L"
+    },
+    {
+      "album": {
         "name": "TOO EASY",
         "url": "https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f"
       },
@@ -17860,7 +18028,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195398,
       "name": "Tutto Regolare",
       "url": "https://open.spotify.com/track/5Gpi8M0P0IqjtqQnsZlxOT"
@@ -18597,6 +18765,28 @@
     },
     {
       "album": {
+        "name": "WARANZA",
+        "url": "https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118199,
+      "name": "WARANZA",
+      "url": "https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb"
+    },
+    {
+      "album": {
         "name": "Wawa",
         "url": "https://open.spotify.com/album/0A3SICVCsWnKv5riQ9PqPv"
       },
@@ -19140,7 +19330,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174166,
       "name": "\u00c7a tue",
       "url": "https://open.spotify.com/track/5H3zvEIPBrZcnQg7pfEQjm"

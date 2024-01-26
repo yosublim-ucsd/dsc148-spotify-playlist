@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-323 songs - 1 day 0 hr 11 min
+324 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2021-12-17 | 2022-11-23 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-12-17 |  |
 | [Baby Don't You Quit Now](https://open.spotify.com/track/2ic7XinYdnVfgLrTJeG5OE) | [Jane Irving](https://open.spotify.com/artist/7G95Mm9YuoIPGM4iYvxgZD) | [Don't Quit Now](https://open.spotify.com/album/2BN8MPcBb5jAWmchyGCTEx) | 4:01 | 2023-05-30 |  |
+| [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 | 2024-01-19 |  |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2022-02-18 |  |
 | [Behind Me](https://open.spotify.com/track/1iEYkH6B6KKkeElA98faHh) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 6:20 | 2022-09-13 | 2023-01-30 |
 | [Behind Me](https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Behind Me](https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW) | 6:20 | 2022-02-18 | 2022-07-29 |
@@ -177,7 +178,7 @@
 | [Like Someone In Love](https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 3:30 | 2021-12-17 |  |
 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 | 2023-04-03 |  |
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2021-12-17 |  |
-| [Lost in a Dream](https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb) | [Joshua Jaswon Octet](https://open.spotify.com/artist/3LQftaWF3PsW2cWmSscvuK), [Joshua Jaswon](https://open.spotify.com/artist/1hgFAM0wgN4PdJIq1AAtAU), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Polar Waters](https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85) | 6:06 | 2023-06-01 |  |
+| [Lost in a Dream](https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb) | [Joshua Jaswon Octet](https://open.spotify.com/artist/3LQftaWF3PsW2cWmSscvuK), [Joshua Jaswon](https://open.spotify.com/artist/1hgFAM0wgN4PdJIq1AAtAU), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Polar Waters](https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85) | 6:06 | 2023-06-01 | 2024-01-26 |
 | [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 | 2023-11-17 | 2024-01-18 |
 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 | 2022-02-18 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2021-12-17 |  |

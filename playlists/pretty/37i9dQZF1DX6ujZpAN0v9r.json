@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 577338,
+  "num_followers": 577735,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDhmMmYyMzgwODEwNWFiZjIwMTgwMTY1OTNlNWY0MjA2OTk2ZjU5",
+  "snapshot_id": "MCw5NmFiMGQ1MGYxOWZmMjc5M2QwNDk5NTIxYjQ1OTUyYzAyYTU2Yjc5",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Winks & Kisses (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Winks & Kisses (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Skin Game",
+      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Ferment",
-        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
-      },
-      "artists": [
-        {
-          "name": "Catherine Wheel",
-          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
-        }
-      ],
-      "duration_ms": 438906,
-      "name": "Black Metallic",
-      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+        "name": "Ferment",
+        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Skin Game",
-      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Real Ramona",
         "url": "https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190573,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Chlorine Dream",
         "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
-      },
-      "artists": [
-        {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
-        }
-      ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In Ribbons",
         "url": "https://open.spotify.com/album/0VmunE358t7BiH4hOint6k"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 238226,
       "name": "Ordeal",
       "url": "https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
+      },
+      "artists": [
+        {
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+        }
+      ],
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
     },
     {
-      "added_at": "2023-07-17 18:59:20",
-      "album": {
-        "name": "Still In A Dream: A Story Of Shoegaze 1988-1995",
-        "url": "https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao"
-      },
-      "artists": [
-        {
-          "name": "Ecstasy Of St. Theresa",
-          "url": "https://open.spotify.com/artist/7bgjou2Fwb15jvve7eXZrm"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "Square Wave",
-      "url": "https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "The Soft Cavalry",
@@ -1887,6 +1871,22 @@
       "duration_ms": 255384,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
+    },
+    {
+      "added_at": "2023-07-17 18:59:20",
+      "album": {
+        "name": "Still In A Dream: A Story Of Shoegaze 1988-1995",
+        "url": "https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao"
+      },
+      "artists": [
+        {
+          "name": "Ecstasy Of St. Theresa",
+          "url": "https://open.spotify.com/artist/7bgjou2Fwb15jvve7eXZrm"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Square Wave",
+      "url": "https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Honey's Dead",
-        "url": "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Outside (briefly)",
         "url": "https://open.spotify.com/album/0YclCtJHjo26eO6NvNdSl7"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 291739,
       "name": "Passing Thing",
       "url": "https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Honey's Dead",
+        "url": "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K"
     },
     {
       "added_at": "2021-06-03 02:39:04",

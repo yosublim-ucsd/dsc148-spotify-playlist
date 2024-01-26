@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 87292,
+  "2024-01-26": 87300,
   "date_first_scraped": "2023-10-10",
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
   "name": "Neo Tango",
@@ -61,6 +61,24 @@
       "duration_ms": 170385,
       "name": "Bahia Blanca",
       "url": "https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW"
+    },
+    {
+      "album": {
+        "name": "Buenos Aires Dreams",
+        "url": "https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O"
+      },
+      "artists": [
+        {
+          "name": "Le Griser",
+          "url": "https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Buenos Aires Dreams",
+      "url": "https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf"
     },
     {
       "album": {
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 163989,
       "name": "Taquito Militar",
       "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"

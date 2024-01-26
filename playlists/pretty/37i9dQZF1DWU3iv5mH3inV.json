@@ -1,13 +1,29 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 99831,
+  "num_followers": 99884,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTIyMDQwNTI3NjIwMjZiNGIyYzQ2NmNkNzc4ZmVmYWYwMmM0MjYz",
+  "snapshot_id": "MCw5MjE0MWIxNzAzYzBjYTE4NGNhMTM1Y2IxYzIxZjIyOTE3MzY3YmM5",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "Agu\u00e1ntala",
+        "url": "https://open.spotify.com/album/6C7Etu8KhU0PetMLyzYZ5J"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 144672,
+      "name": "Agu\u00e1ntala",
+      "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+    },
     {
       "added_at": "2024-01-18 21:46:59",
       "album": {
@@ -49,20 +65,20 @@
       "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2024-01-25 20:32:53",
       "album": {
-        "name": "Agu\u00e1ntala",
-        "url": "https://open.spotify.com/album/6C7Etu8KhU0PetMLyzYZ5J"
+        "name": "PEINE DE ETE LAO",
+        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
         }
       ],
-      "duration_ms": 144672,
-      "name": "Agu\u00e1ntala",
-      "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+      "duration_ms": 155144,
+      "name": "PEINE DE ETE LAO",
+      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -85,20 +101,20 @@
       "url": "https://open.spotify.com/track/7GY9BCk8P624bRSl045dTR"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2024-01-25 20:32:53",
       "album": {
-        "name": "GLOCK CREMA",
-        "url": "https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8"
+        "name": "Ando",
+        "url": "https://open.spotify.com/album/3LezoxQgjSbDhTaRxhOcLx"
       },
       "artists": [
         {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
-      "duration_ms": 177015,
-      "name": "GLOCK CREMA",
-      "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
+      "duration_ms": 141125,
+      "name": "Ando",
+      "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -149,6 +165,26 @@
       "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
     },
     {
+      "added_at": "2024-01-25 20:32:53",
+      "album": {
+        "name": "Sangudeo",
+        "url": "https://open.spotify.com/album/3qXNTWsmPqdlg3LC2ijARg"
+      },
+      "artists": [
+        {
+          "name": "Papi Saoco",
+          "url": "https://open.spotify.com/artist/2piHFJTtsj8PQge6DH1ODb"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 146442,
+      "name": "Sangudeo",
+      "url": "https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb"
+    },
+    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "TATARA (Doble Tono)",
@@ -177,6 +213,22 @@
       "url": "https://open.spotify.com/track/18KxZxrU3LbCz3Yo9mmlA8"
     },
     {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "GLOCK CREMA",
+        "url": "https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "GLOCK CREMA",
+      "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
+    },
+    {
       "added_at": "2024-01-18 21:46:59",
       "album": {
         "name": "Rikiry Goldito",
@@ -191,30 +243,6 @@
       "duration_ms": 143543,
       "name": "Rikiry Goldito",
       "url": "https://open.spotify.com/track/2RROMdodb9DLWy0FuWgVoM"
-    },
-    {
-      "added_at": "2024-01-12 21:12:31",
-      "album": {
-        "name": "Las Gatas (Dembow)",
-        "url": "https://open.spotify.com/album/7pFUFza5kEYzrl2M4s1hga"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Las Gatas (Dembow)",
-      "url": "https://open.spotify.com/track/7pPq4psRxZ0uYKcBfl2ivT"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -839,30 +867,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Tekatekabum",
-        "url": "https://open.spotify.com/album/253VCiTDV31ETg4UtOddOi"
-      },
-      "artists": [
-        {
-          "name": "Bluemoney",
-          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
-        },
-        {
-          "name": "Beltrre",
-          "url": "https://open.spotify.com/artist/1uDmqqzTQxdWgYQbH3NQ69"
-        },
-        {
-          "name": "Junior Alexander Reyes",
-          "url": "https://open.spotify.com/artist/3NEmwZ9CK9Xo7XWC2fiprh"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Tekatekabum",
-      "url": "https://open.spotify.com/track/40sIBDKo8zPlpUrsi9kWBq"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Tumba Ya",
         "url": "https://open.spotify.com/album/3A5C4hvw1KjECYOELXFVwD"
       },
@@ -979,22 +983,6 @@
       "duration_ms": 136375,
       "name": "Cocotico",
       "url": "https://open.spotify.com/track/1MiX6P0EswKTILtABR0uQI"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Tiradera a Dilon Baby y Masha",
-        "url": "https://open.spotify.com/album/42kvJZpzp8XkdwBqC7FAYK"
-      },
-      "artists": [
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Tiradera a Dilon Baby y Masha",
-      "url": "https://open.spotify.com/track/40nGThKOpZWPwvcLODgbri"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

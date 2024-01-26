@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Jhay P",
-  "num_followers": 69529,
+  "num_followers": 69552,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWU1YjJlZThhOWM3OTMxYTdhYzBlMWY2MmM5NGRhOWY0MmM5OWU0",
+  "snapshot_id": "MCwzYWE0NTc4MGJkNzE2OTQ2OGM3OTc2ZWU2Mzk3ZDVlMWQ3M2Y4ZGVj",
   "tracks": [
     {
       "added_at": "2024-01-19 04:59:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-01-19 04:59:00",
       "album": {
+        "name": "Wapo y Mam\u00f3n",
+        "url": "https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Wapo y Mam\u00f3n",
+      "url": "https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8"
+    },
+    {
+      "added_at": "2024-01-19 04:59:00",
+      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
-    },
-    {
-      "added_at": "2024-01-19 04:59:00",
-      "album": {
-        "name": "Wapo y Mam\u00f3n",
-        "url": "https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Wapo y Mam\u00f3n",
-      "url": "https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8"
     },
     {
       "added_at": "2024-01-19 04:59:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-01-19 04:59:00",
       "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

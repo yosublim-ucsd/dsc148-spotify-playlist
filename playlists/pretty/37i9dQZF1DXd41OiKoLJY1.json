@@ -1,13 +1,209 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Eliza Marie Artwork: Isu Kim\n",
-  "num_followers": 58804,
+  "description": "Fresh releases from your future favorite artists. Cover: No Lore Artwork: Isu Kim\n",
+  "num_followers": 58824,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWE0Yzk2MGY1NTk5ZDE3Y2FmZTVhMTZkNzExMzBjMGIyMGE2ZGJh",
+  "snapshot_id": "MCxhZjdlYzdhZGFiZjM1NTc1ODA4MWMyNGU1YjVmZWIxN2U4NjA2NGQz",
   "tracks": [
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Medisina",
+        "url": "https://open.spotify.com/album/6bznTGqBTQUoTscvPonwAS"
+      },
+      "artists": [
+        {
+          "name": "Jeko Royo",
+          "url": "https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Medisina",
+      "url": "https://open.spotify.com/track/6MdqNtkrKFeWaDAQStzOTW"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Clock",
+        "url": "https://open.spotify.com/album/4JMkfNw8C95xvSgLNM4WeT"
+      },
+      "artists": [
+        {
+          "name": "Ken San Jose",
+          "url": "https://open.spotify.com/artist/4faG828UeBkIDYFc4fqPoX"
+        }
+      ],
+      "duration_ms": 167227,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/22GsJvgJT5tbJxICIYVY7s"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Malilimutin",
+        "url": "https://open.spotify.com/album/3IAPO7lZqLBbzYQNejhK79"
+      },
+      "artists": [
+        {
+          "name": "No Lore",
+          "url": "https://open.spotify.com/artist/1dflKYBqIcK3KClERQfXtB"
+        }
+      ],
+      "duration_ms": 259821,
+      "name": "Malilimutin",
+      "url": "https://open.spotify.com/track/0p3sBsa1nrReMy0o77piKk"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/31G6OFPkDWg17NMeR3rKba"
+      },
+      "artists": [
+        {
+          "name": "Saint Klutch",
+          "url": "https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj"
+        }
+      ],
+      "duration_ms": 101093,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/1uLGpaMag51HAiJB5FV7BA"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/0RqkyCy4QLOsX0qTMdFGCV"
+      },
+      "artists": [
+        {
+          "name": "Jay Garche",
+          "url": "https://open.spotify.com/artist/3lbEBZ6yicaiXQfKnQDCkP"
+        }
+      ],
+      "duration_ms": 268750,
+      "name": "Come What May",
+      "url": "https://open.spotify.com/track/13UWBtyvrLjw0ohzWvmvl0"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Panaginip",
+        "url": "https://open.spotify.com/album/5jtQW0NuLpuv2Fw0UUNHBw"
+      },
+      "artists": [
+        {
+          "name": "Zach x Zeph",
+          "url": "https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Panaginip",
+      "url": "https://open.spotify.com/track/2fs0c3TQv285EJ00msRua9"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Kumusta?",
+        "url": "https://open.spotify.com/album/6TFhLINZ5GI4onAsL2lJE2"
+      },
+      "artists": [
+        {
+          "name": "Cid Palma",
+          "url": "https://open.spotify.com/artist/3yJ0VzJgONFAjzqOhjda5Q"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Kumusta?",
+      "url": "https://open.spotify.com/track/48YsCQXUPAEuOCiDiPsEwq"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "comet",
+        "url": "https://open.spotify.com/album/1BXzCocX302KRYSJ1t8QzK"
+      },
+      "artists": [
+        {
+          "name": "Ron Macapagal",
+          "url": "https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib"
+        }
+      ],
+      "duration_ms": 225517,
+      "name": "comet",
+      "url": "https://open.spotify.com/track/6hbcMUIaV0Ijy9XQhd6M1w"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Cabin",
+        "url": "https://open.spotify.com/album/1k3sdKWjzZtpwTtF6AFln1"
+      },
+      "artists": [
+        {
+          "name": "Bre\u0113",
+          "url": "https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Cabin",
+      "url": "https://open.spotify.com/track/3vh4bXaymVNBJBOq6u5pKS"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Nang Makilala Ka",
+        "url": "https://open.spotify.com/album/3HsURlgC81HrB2mWX8EOpn"
+      },
+      "artists": [
+        {
+          "name": "Jake sue",
+          "url": "https://open.spotify.com/artist/4pHJMjb8iXM90sJDbOaxf2"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Nang Makilala Ka",
+      "url": "https://open.spotify.com/track/6gGdz7ulJt9PeYUwKVerqF"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Paraiso",
+        "url": "https://open.spotify.com/album/6wKsbY6VsUG0xVjjKBvY8E"
+      },
+      "artists": [
+        {
+          "name": "ULTRAVIOLET",
+          "url": "https://open.spotify.com/artist/3P0lmdEF8uBGXjCyonbKrl"
+        }
+      ],
+      "duration_ms": 199676,
+      "name": "Paraiso",
+      "url": "https://open.spotify.com/track/6TtO4gbLa0xscrK6bV35kQ"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/70vfE6lzl89DJ0LweCST03"
+      },
+      "artists": [
+        {
+          "name": "aero.",
+          "url": "https://open.spotify.com/artist/4QLoaH4hD2WjfdsH48Vg5U"
+        },
+        {
+          "name": "Mista Blaze",
+          "url": "https://open.spotify.com/artist/5iaCcpbNPoYstJphlDMURP"
+        }
+      ],
+      "duration_ms": 232156,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/5zTmbBJlI3P0TCyzi0m5Wv"
+    },
     {
       "added_at": "2024-01-18 16:00:00",
       "album": {
@@ -1539,226 +1735,6 @@
       "duration_ms": 269357,
       "name": "Paano",
       "url": "https://open.spotify.com/track/0szvNe3QoTyoo3eBLdX5nQ"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Bahaghari",
-        "url": "https://open.spotify.com/album/0zTyxBlgfzVElgLi2j5IB7"
-      },
-      "artists": [
-        {
-          "name": "Elton Clark",
-          "url": "https://open.spotify.com/artist/7DCpfcT30flUpKkII1DTqL"
-        }
-      ],
-      "duration_ms": 351333,
-      "name": "Bahaghari",
-      "url": "https://open.spotify.com/track/6U5buCtYkvZBiLvlbOYRHD"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Rose-Colored Glasses",
-        "url": "https://open.spotify.com/album/4VaVrndPoq2xvGh8Ir3XGU"
-      },
-      "artists": [
-        {
-          "name": "Gab Mabanta",
-          "url": "https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Rose-Colored Glasses",
-      "url": "https://open.spotify.com/track/6CuhI7GIxAip7nUwg1H3vi"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "are you down?",
-        "url": "https://open.spotify.com/album/6doy7V1fEU3dnwPCMkgR76"
-      },
-      "artists": [
-        {
-          "name": "Colby Colton",
-          "url": "https://open.spotify.com/artist/5806J7bmQG46a2hbQiZczF"
-        },
-        {
-          "name": "Nalani Charm",
-          "url": "https://open.spotify.com/artist/2VwdAU4oFsYQJtG1qcBgON"
-        }
-      ],
-      "duration_ms": 232336,
-      "name": "are you down?",
-      "url": "https://open.spotify.com/track/2FdOpvIF6gZOyfc9LFx4Kx"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Pretty Morena",
-        "url": "https://open.spotify.com/album/3ZLxsmPLnvPC5QrIDKlWuV"
-      },
-      "artists": [
-        {
-          "name": "Treylow",
-          "url": "https://open.spotify.com/artist/1WTi529mePUVVuHfZNp4Jp"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Pretty Morena",
-      "url": "https://open.spotify.com/track/65ATzvXTFLjNQn9cWeAsKO"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Yaman Ng Puso",
-        "url": "https://open.spotify.com/album/2FL00JCCjdpsMaFzUbtt2K"
-      },
-      "artists": [
-        {
-          "name": "Kevin Luna",
-          "url": "https://open.spotify.com/artist/0BwU7yHHqukOTfMFWAjrDf"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Yaman Ng Puso",
-      "url": "https://open.spotify.com/track/4EObNGGJqu0xKiIYk6JaCl"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/3AbKsQbublKhy84Jd82xqU"
-      },
-      "artists": [
-        {
-          "name": "Kincaidd",
-          "url": "https://open.spotify.com/artist/4JkGf9GWh6Xn3sRZ0cd7Cs"
-        },
-        {
-          "name": "Primo",
-          "url": "https://open.spotify.com/artist/3BDNOKldwTulXVAE56yyfv"
-        }
-      ],
-      "duration_ms": 276166,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3auboZ0scC8tQTag6Nu82u"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Yours?",
-        "url": "https://open.spotify.com/album/5BurHg5AN45x7GipHrfBYg"
-      },
-      "artists": [
-        {
-          "name": "gabriel",
-          "url": "https://open.spotify.com/artist/7qv6WrBbgolOFuDzzPiXXO"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Yours?",
-      "url": "https://open.spotify.com/track/6SsMRAqPeqLao29ZaLBHQm"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Danny Phantom",
-        "url": "https://open.spotify.com/album/5G3zSL78UgOh303n8QKfoK"
-      },
-      "artists": [
-        {
-          "name": "Young Chi",
-          "url": "https://open.spotify.com/artist/4LFz06jvPietsRpxXOcw5t"
-        },
-        {
-          "name": "Nomi",
-          "url": "https://open.spotify.com/artist/7DauDCF6xlL3FuvbCFx6M5"
-        }
-      ],
-      "duration_ms": 115999,
-      "name": "Danny Phantom",
-      "url": "https://open.spotify.com/track/6uzhq5erUmXKIoERKLZHPy"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "G.O.M.D",
-        "url": "https://open.spotify.com/album/7H6fOay6PnoVsCYBhFBiAl"
-      },
-      "artists": [
-        {
-          "name": "Big Blooda Boki",
-          "url": "https://open.spotify.com/artist/6QyK6lmyyZjDiPAV3f0Vmr"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/7MexyAKctUxKpGfA1wvELG"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Lara",
-        "url": "https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB"
-      },
-      "artists": [
-        {
-          "name": "Leona",
-          "url": "https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Hiling",
-        "url": "https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW"
-      },
-      "artists": [
-        {
-          "name": "Na\u00cfV",
-          "url": "https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF"
-        }
-      ],
-      "duration_ms": 215188,
-      "name": "Hiling",
-      "url": "https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "Somebody\u2019s Better",
-        "url": "https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz"
-      },
-      "artists": [
-        {
-          "name": "Mint Magic",
-          "url": "https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Somebody\u2019s Better",
-      "url": "https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
-        "name": "TERAPEWTIKA",
-        "url": "https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN"
-      },
-      "artists": [
-        {
-          "name": "JEL REY",
-          "url": "https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd"
-        }
-      ],
-      "duration_ms": 321320,
-      "name": "Tayo (ating istorya)",
-      "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Its Natascha",
+  "description": "Les hits dancehall du moment. Photo : Shanika",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -370,6 +370,28 @@
       "duration_ms": 146547,
       "name": "Back Shot",
       "url": "https://open.spotify.com/track/76hdc5WUNauUx5xQkwLZUU"
+    },
+    {
+      "album": {
+        "name": "Backaz",
+        "url": "https://open.spotify.com/album/3WEULLIIEfVQUY02d0aRxh"
+      },
+      "artists": [
+        {
+          "name": "QQ",
+          "url": "https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq"
+        },
+        {
+          "name": "Razor B",
+          "url": "https://open.spotify.com/artist/0ruXFiGzVrWd68geOSrvTz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167015,
+      "name": "Backaz",
+      "url": "https://open.spotify.com/track/7HuW2elxe3AdbyvQfXKeM9"
     },
     {
       "album": {
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 133216,
       "name": "BUBBLE WINE",
       "url": "https://open.spotify.com/track/0cSyH8ZRbaZFqPQvq1bzQv"
@@ -2924,6 +2946,28 @@
       "duration_ms": 218666,
       "name": "Hot",
       "url": "https://open.spotify.com/track/3Dkktj1u1EwcBmjs0djQKB"
+    },
+    {
+      "album": {
+        "name": "Hot Gal",
+        "url": "https://open.spotify.com/album/32CY9hVE1BUFKQKw1EGijn"
+      },
+      "artists": [
+        {
+          "name": "Shanika",
+          "url": "https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152498,
+      "name": "Hot Gal",
+      "url": "https://open.spotify.com/track/578ZYEGBCHDEJGVhLE02pt"
     },
     {
       "album": {
@@ -6989,6 +7033,28 @@
     },
     {
       "album": {
+        "name": "Up Top",
+        "url": "https://open.spotify.com/album/3UQUYTAzhQ24ORfvQYDvHI"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Up Top",
+      "url": "https://open.spotify.com/track/1jNnXObfSpje0D8kckbhIv"
+    },
+    {
+      "album": {
         "name": "Fluide+",
         "url": "https://open.spotify.com/album/3IaE3CdbwJa2gFuRtX7ql6"
       },
@@ -7146,7 +7212,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166070,
       "name": "Waistline",
       "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
@@ -7274,7 +7340,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 149126,
       "name": "Whine",
       "url": "https://open.spotify.com/track/07lYBpG61kXJfE8e5CI03c"

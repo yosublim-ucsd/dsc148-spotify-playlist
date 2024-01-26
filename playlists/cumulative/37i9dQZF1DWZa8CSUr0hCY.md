@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-217 songs - 9 hr 44 min
+218 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Ghost](https://open.spotify.com/track/4LVgQFrUNdI6J19KVTVjh6) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Ghost](https://open.spotify.com/album/3X6tebSYE2bQJLuNDAsFqa) | 2:55 | 2022-08-30 | 2023-12-22 |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2020-10-20\* | 2022-08-31 |
 | [Go Back Home](https://open.spotify.com/track/1B5fbRxnB26duk77yCBWvS) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Go Back Home](https://open.spotify.com/album/6wY7lwUMKCKoWgybrYFxGu) | 3:55 | 2020-10-20\* | 2022-08-31 |
-| [Going Home](https://open.spotify.com/track/4eylVOfeUpDJQrDj58KrdR) | [Gemp](https://open.spotify.com/artist/7aGBJiUws3qcoRhY2lUizy), [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Going Home](https://open.spotify.com/album/51pUFLvJFFmcGDn4MvLzW9) | 2:21 | 2022-08-30 |  |
+| [Going Home](https://open.spotify.com/track/4eylVOfeUpDJQrDj58KrdR) | [Gemp](https://open.spotify.com/artist/7aGBJiUws3qcoRhY2lUizy), [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Going Home](https://open.spotify.com/album/51pUFLvJFFmcGDn4MvLzW9) | 2:21 | 2022-08-30 | 2024-01-26 |
 | [Gold](https://open.spotify.com/track/1w1CtbbwUZCVVOC5fQTJhU) | [Hugo Kant](https://open.spotify.com/artist/2jvKLLBED6JvKWtT8y3kCu), [Astrid Engberg](https://open.spotify.com/artist/1aCZzByicOHcS6WpNPwqXV) | [The Point of No Return](https://open.spotify.com/album/2isxNMBkNYPiOjDA5KOCzG) | 4:34 | 2020-10-20\* | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/6aFvJKBLXTWu3iGuIOhdwg) | [Hugo Kant](https://open.spotify.com/artist/2jvKLLBED6JvKWtT8y3kCu), [Astrid Engberg](https://open.spotify.com/artist/1aCZzByicOHcS6WpNPwqXV) | [The Point of No Return](https://open.spotify.com/album/4g3C6o4QkfvPprBk9xXiyU) | 4:34 | 2022-04-28 | 2022-08-31 |
 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-28 | 2022-08-31 |
@@ -113,6 +113,7 @@
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-30 |  |
 | [Kyiv](https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo) | [Levin](https://open.spotify.com/artist/14z9YXlyvDrv11EdLohOEI) | [Kyiv](https://open.spotify.com/album/0jpBP7SN2oONwtpi2X0uHZ) | 2:39 | 2022-08-30 | 2023-12-02 |
 | [La Cienega](https://open.spotify.com/track/7qzuwMS8wVfmoC8430eilc) | [Mad Chronic](https://open.spotify.com/artist/6EZ4ixvQRudMRAcxGGH3Dt) | [La Cienega](https://open.spotify.com/album/5HBeiFVPMLF3almA7kI6MS) | 1:59 | 2020-10-20\* | 2021-03-14 |
+| [Laidback](https://open.spotify.com/track/4m9jblUj3gs3FWIScji4tZ) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [Laidback](https://open.spotify.com/album/1hOZLvVtxrusTKNBoiPCXi) | 2:02 | 2024-01-25 |  |
 | [Last Days of Summer](https://open.spotify.com/track/3FsBpfFdkScMDLRXoJbixf) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Last Days of Summer](https://open.spotify.com/album/6QXnQxEAS9BIHSvHLk8uR3) | 1:44 | 2022-09-08 |  |
 | [Later than Expected](https://open.spotify.com/track/6HgEAcfg947yBIDa4363gK) | [Taffey](https://open.spotify.com/artist/4MWmf6kH27GnNMCv2qTu0h) | [Later Than Expected](https://open.spotify.com/album/4sqMz9sqZ0Rvawoc4Bcvan) | 2:32 | 2022-08-30 |  |
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-30 |  |

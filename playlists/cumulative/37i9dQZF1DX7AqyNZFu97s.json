@@ -3529,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Head Hurts",
+        "url": "https://open.spotify.com/album/7dRcYhcCUSXdYjztJSdEh9"
+      },
+      "artists": [
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/1gXAMvvtm8oJjtq4zNf7SV"
+    },
+    {
+      "album": {
         "name": "Break My Fall",
         "url": "https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF"
       },
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155546,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6"

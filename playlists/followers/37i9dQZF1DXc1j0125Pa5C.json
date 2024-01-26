@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 276535,
+  "2024-01-26": 276628,
   "date_first_scraped": "2023-12-31",
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins",
   "name": "Domingu\u00eara",
@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Encontrin 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250525,
+      "name": "\u00c9 tarde Demais / Essa Tal Liberdade / Inara\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/2v0GhuP7TiSIGSPy5szhi2"
+    },
+    {
+      "album": {
         "name": "Encontrin 2 - Parte 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca"
       },
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 250525,
       "name": "\u00c9 tarde Demais / Essa Tal Liberdade / Inara\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G"

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Beyries",
-  "num_followers": 39554,
+  "num_followers": 39561,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjkzMjc4MDM5NTBkMWRiZWYxZmM0MTYyMzYwZWRhMzlkMDI3YTQw",
+  "snapshot_id": "MCxjNzE3NjI1YWY5ZjVlNDRkZmYxMmY4NGVkYWYwMGZhYjc2MmRlODJh",
   "tracks": [
     {
       "added_at": "2024-01-19 17:11:13",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "La route est longue",
-        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "La fusion",
-      "url": "https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "La fusion",
+      "url": "https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -551,38 +551,6 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Love de toi",
-      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "2006 (Opps qui court)",
-        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "2006 - Opps qui court",
-      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
         "name": "Pourvu qu'il pleuve",
         "url": "https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8"
       },
@@ -595,6 +563,42 @@
       "duration_ms": 163013,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "Saison 2",
+        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Ferrero (feat. Gambi)",
+      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -655,18 +659,22 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "CIT\u00c9S DE FRANCE",
-        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
+        "name": "D\u00e9ter (feat. Soolking)",
+        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 215826,
-      "name": "CIT\u00c9S DE FRANCE",
-      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
+      "duration_ms": 206880,
+      "name": "D\u00e9ter (feat. Soolking)",
+      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -687,6 +695,22 @@
       "duration_ms": 234093,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
+        "name": "CIT\u00c9S DE FRANCE",
+        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "CIT\u00c9S DE FRANCE",
+      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -727,38 +751,18 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "Au suivant",
-        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 199123,
-      "name": "Au suivant",
-      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "Saison 2",
-        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+        "name": "2006 (Opps qui court)",
+        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
       },
       "artists": [
         {
           "name": "Kerchak",
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
         }
       ],
-      "duration_ms": 141893,
-      "name": "Ferrero (feat. Gambi)",
-      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
+      "duration_ms": 178346,
+      "name": "2006 - Opps qui court",
+      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
-        "name": "D\u00e9ter (feat. Soolking)",
-        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
+        "name": "Au suivant",
+        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
       },
       "artists": [
         {
-          "name": "Doria",
-          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
         }
       ],
-      "duration_ms": 206880,
-      "name": "D\u00e9ter (feat. Soolking)",
-      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
+      "duration_ms": 199123,
+      "name": "Au suivant",
+      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
     },
     {
       "added_at": "2024-01-19 17:11:13",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-01-19 17:11:13",
       "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/7E1OKKYyt97Tjf5SWbJgEp"
+    },
+    {
+      "added_at": "2024-01-19 17:11:13",
+      "album": {
         "name": "Cesium",
         "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 157625,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
-    },
-    {
-      "added_at": "2024-01-19 17:11:13",
-      "album": {
-        "name": "CONNEXION",
-        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
-      },
-      "artists": [
-        {
-          "name": "Kaza",
-          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "CONNEXION",
-      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

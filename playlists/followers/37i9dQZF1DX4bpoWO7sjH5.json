@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 35639,
+  "2024-01-26": 35637,
   "date_first_scraped": "2022-06-02",
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
   "name": "Navidad Cristiana",
@@ -385,6 +385,36 @@
       "duration_ms": 247811,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
+    },
+    {
+      "album": {
+        "name": "Buscando Al Rey",
+        "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ramirez",
+          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
+        },
+        {
+          "name": "Lors",
+          "url": "https://open.spotify.com/artist/3SuHjvLOEQDs3a7HaGKJN8"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Da' Ministry",
+          "url": "https://open.spotify.com/artist/2kHUJ4qirJxS72oSMvfqMd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "Buscando Al Rey",
+      "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
     },
     {
       "album": {
@@ -2971,7 +3001,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan"

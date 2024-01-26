@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,137 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,195 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 63 | [White Noise](https://open.spotify.com/track/4kZGNDSrzLouR2UjB9twuQ) | [Exitmusic](https://open.spotify.com/artist/1sLflvP9XBFyDA0l6iFNjE) | [Passage](https://open.spotify.com/album/0l0AzPDXvxxFGwIaK5hJw7) | 4:54 |
 | 64 | [Fire](https://open.spotify.com/track/5XkKAhKvY8tnK2peTGXWcZ) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Fire](https://open.spotify.com/album/0PdpnKcNBNfteuNr0chuYt) | 3:03 |
 | 65 | [Skin](https://open.spotify.com/track/2gCD9DtVHPOARRqfFBEN76) | [Zarah Mahler](https://open.spotify.com/artist/718rfojS47AiuJOPIXBWFw) | [Ophidian](https://open.spotify.com/album/5k7t17ubA9BxRFUNVBYT6A) | 3:46 |
-| 66 | [Run Away](https://open.spotify.com/track/3MD80K8o0ZOxk1PAf5Q1IK) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/5lElcMzc8iPxxBwlE1pJFb) | 3:05 |
+| 66 | [Run Away](https://open.spotify.com/track/2Y298W7sFS2XQxMbAhnK8u) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/7MYYdWA2QJhXnT9HBtqgba) | 3:05 |
 | 67 | [LAY LOW \(TAKE CARE\)](https://open.spotify.com/track/0zw2e7nXIQW2FBjrGUF2x7) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [This is Better, Pt\. 1](https://open.spotify.com/album/2ehGZUCEFtMikQUDT0Et7z) | 3:24 |
 | 68 | [Watch Me Go](https://open.spotify.com/track/1RpsKXkqxeqdELQCezI6ID) | [Bad Owl](https://open.spotify.com/artist/2yZIPlbvkiVdlG64ZkgL1N) | [Watch Me Go](https://open.spotify.com/album/09xICBhnyvnVEYxxomnoHp) | 3:12 |
 | 69 | [Who Knows](https://open.spotify.com/track/6T5eAjtjBQJEWVGtndJ9XA) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Who Knows](https://open.spotify.com/album/2UgeXzcLnZ707ZAkoYyW8s) | 3:12 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 101 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 |
 | 102 | [Beautiful Gold](https://open.spotify.com/track/5U7aqUHeCSiMsL5iC0m1OL) | [Hillgate County](https://open.spotify.com/artist/6IMAiDdDghtLoMSr2XZXCO) | [Beautiful Gold](https://open.spotify.com/album/0qugubB1MGTC9z5t5BpjYT) | 3:11 |
 
-Snapshot ID: `MCw0Mjk1NWVhMzQ0YmRmMmQyNzAwNzkzZDU0NWUwZDg1OTE2MjA5NmFh`
+Snapshot ID: `MCw3YzIwMjZhMTRkNDhlMzljNTliNDI3ZDA2MWQ4NGFkNzJmY2FmZmNm`

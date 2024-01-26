@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 118005,
+  "num_followers": 118060,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODM5NTY1NmM2YTEzYjlmYWNiN2I3ODkwMjViMGY0MjZjNWRlYjQz",
+  "snapshot_id": "MCxjODAyZTZlN2QwMGU0MDkyYjkyYzA3NzQxODliZjc3Mjk0YTNjZWI2",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "All Out Of Love",
         "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 341746,
       "name": "Making Love Out of Nothing at All",
       "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 353160,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "Chicago 16 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 221826,
       "name": "Hard to Say I'm Sorry - 2009 Remaster",
       "url": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 353160,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw"
     },
     {
       "added_at": "2020-07-29 15:58:59",

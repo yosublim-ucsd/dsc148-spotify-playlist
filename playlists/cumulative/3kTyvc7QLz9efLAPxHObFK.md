@@ -4,7 +4,7 @@
 
 > 
 
-1,114 songs - 2 day 14 hr 32 min
+1,116 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [F.R.N.](https://open.spotify.com/track/29WXMR8m8zj3VQPOzR2h1j) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [BREVKIN](https://open.spotify.com/album/3Elsd1dMiZfACBTZieeJXJ) | 3:19 | 2023-05-20 |  |
 | [Face Of Chaos \- Luminite Remix](https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Face Of Chaos \(Luminite Remix\)](https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY) | 2:18 | 2023-06-24 |  |
 | [FADED](https://open.spotify.com/track/725mlv7asEtzPFB1PGoFJl) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [FADED](https://open.spotify.com/album/1oKAFOxyLGC7G9IoKrJxKh) | 2:54 | 2023-12-30 |  |
+| [Faded \- Vexxed Remix](https://open.spotify.com/track/2gkkqsPru8KF3voVHJ4kZp) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Faded \(Vexxed Remix\)](https://open.spotify.com/album/03lAo2bYlBxj59urKC7sks) | 3:31 | 2024-01-25 |  |
 | [Fader \- Technikore Remix](https://open.spotify.com/track/1IN1mVxrbw7cTwLctSuLks) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Fader \(Technikore Remix\)](https://open.spotify.com/album/0H10bZQd2Yk7QmpfrfU9PA) | 3:49 | 2022-02-14 |  |
 | [FALL WITH ME](https://open.spotify.com/track/4idVWJDgBVWK72epSK8SZk) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [FALL WITH ME](https://open.spotify.com/album/5bXdsl7pZ1wAXArTr8FZKX) | 3:28 | 2023-06-02 |  |
 | [Falling](https://open.spotify.com/track/01ch4xjLqbLDdaqv8CldPL) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Falling](https://open.spotify.com/album/2iYjzcWVzicO95EnZkiTyh) | 3:38 | 2022-09-06 |  |
@@ -526,6 +527,7 @@
 | [JUMP](https://open.spotify.com/track/1U6s1edcREdx68ixZUNGEu) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [JUMP](https://open.spotify.com/album/0r5NVlZJ7Nbh1ninNcHqvq) | 2:55 | 2022-09-27 |  |
 | [Jump In](https://open.spotify.com/track/6h7qlHyUMxkvkw6OfLGs5A) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [Magnuz](https://open.spotify.com/artist/5nkErQYVcrItD46hHKLSaZ) | [Jump In](https://open.spotify.com/album/3b3BSsEaSTJXLXz0HQk8vF) | 3:12 | 2022-10-03 |  |
 | [Just Begun](https://open.spotify.com/track/1kvrrTtbb3U77BFg0hpiOw) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Just Begun](https://open.spotify.com/album/4w9uEvrIwQWWwmVq28jlxi) | 3:29 | 2023-03-25 |  |
+| [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a) | [Mr\. Glass](https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva) | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip) | 2:51 | 2024-01-25 |  |
 | [Just For You \- Inverse & Evolution Remix](https://open.spotify.com/track/0UnpuVk5vN4Os2pv90skRN) | [Himbo](https://open.spotify.com/artist/48O7KkVmhtdYm0sc6ID2MQ), [MC Enemy](https://open.spotify.com/artist/6EitfYQtoUGXKGCxdKyuZw) | [Hardcore Addiction 2](https://open.spotify.com/album/2fUl1dd4EuuxBVCeRxzPeF) | 2:28 | 2022-12-19 |  |
 | [Kalika](https://open.spotify.com/track/1hYAZUnTmKyAqzZaivjlB8) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Aksys](https://open.spotify.com/artist/2WkAW4OVlB8a8Lg7Ih0vlq) | [Various Artists 02](https://open.spotify.com/album/4m7nL9bkk7drsHbBbnoGsb) | 4:51 | 2023-04-21 |  |
 | [KEEP GOING](https://open.spotify.com/track/58sLQwZecL4PQDN930s39x) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn), [Drokz](https://open.spotify.com/artist/2RoJa2qF4fdyhBkVcl5pNi) | [KEEP GOING](https://open.spotify.com/album/55vhkQc4kTC0VsKEqmrMOl) | 3:34 | 2023-06-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,535 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,628 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 9 | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \- Ao Vivo](https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Buchecha](https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb) | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx) | 4:52 |
 | 10 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 11 | [Pout\-Pourri: Eu Vacilei / A Gente Pega Fogo](https://open.spotify.com/track/2lLvMPadTGcmYdOV4W3wj3) | [ESTD](https://open.spotify.com/artist/7ub7UAJ0JTRQvRZDgVUvhM) | [Pout\-Pourri: Eu Vacilei / A Gente Pega Fogo](https://open.spotify.com/album/28F8x0ymWRUXl0Vcr7Z6Nc) | 3:16 |
-| 12 | [Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notificação Preferida / Nem É Bom Lembrar \- Ao Vivo](https://open.spotify.com/track/6CgsWxP6AGNurPYyESiGN8) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica 3 \(Ao Vivo\)](https://open.spotify.com/album/747Fi97RClOnHDROoiRR3h) | 9:32 |
+| 12 | [Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notificação Preferida / Nem É Bom Lembrar \- Ao Vivo](https://open.spotify.com/track/1mNoQIdkoiczA3XQB2TU3X) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica 3 \(Ao Vivo\)](https://open.spotify.com/album/3p39TSVmw0JZpYdlS2KumB) | 9:32 |
 | 13 | [Luz na Escuridão / Adivinha / Fatalmente \- Ao Vivo](https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:51 |
 | 14 | [Sos Paixão / Ex Namorada / Melhor Amiga da Minha Namorada \- Ao Vivo](https://open.spotify.com/track/0r6UTnQUk4cbvPDnHuXphH) | [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp) | [Sos Paixão / Ex Namorada / Melhor Amiga da Minha Namorada \(Ao Vivo\)](https://open.spotify.com/album/7ior50Dh3GyG3zXbyDhryV) | 4:31 |
 | 15 | [Que Situação / Sem Abuso / Coração Radiante \- Ao Vivo](https://open.spotify.com/track/4VCAwBLGck4NWFPmotK85V) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mania do Brasil \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4x6saOWa3jIl2sN6hOchu5) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 |
 | 75 | [Fica / Vida Que Segue \- Ao Vivo](https://open.spotify.com/track/0IPmfBhRrdt3KwNw8JT15R) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Fica / Vida Que Segue \(Ao Vivo\)](https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa) | 4:15 |
 
-Snapshot ID: `MCwwMDA5ZTQzYTAxZTZlYmU5NTExYzRlN2Q5NGVlZWQ0ZmQ3OGIwZDZi`
+Snapshot ID: `MCxiN2NkNGJiOWUzOWEyNjlmMmYxMmU3ZTc5NTQ0NGViYzgwMTI0YTA0`

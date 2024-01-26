@@ -1,12 +1,12 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8743,
+  "num_followers": 8747,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTRmZjAzNTk3Y2QyMWZhYWZmNGZhMGI0OTliMDBmYjU4ZmZhZDRh",
+  "snapshot_id": "MCxjNjk0NDRlZWNlZWRiMzRlZDNlY2UzMWIwNmIyNWMwZDBjNmMyOGVh",
   "tracks": [
     {
       "added_at": "2023-12-15 12:26:32",
@@ -58,6 +58,10 @@
         {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
         }
       ],
       "duration_ms": 115626,
@@ -3177,7 +3181,7 @@
         }
       ],
       "duration_ms": 378000,
-      "name": "Nada Mais (Lately) [Ao Vivo]",
+      "name": "Nada Mais (Lately) - Ao Vivo",
       "url": "https://open.spotify.com/track/62MBkoN95QH0jqoGw5FvOC"
     },
     {

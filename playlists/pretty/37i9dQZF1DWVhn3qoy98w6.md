@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: restinga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,487 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,501 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Se Rompe](https://open.spotify.com/track/55UXKcIvk20njl0geS9GcK) | [Rodriterrible](https://open.spotify.com/artist/2Tm0qGnsBWeJOcxDtI3F1k), [Dreea](https://open.spotify.com/artist/7y9zSctJOcRK1ghMs8EFuL) | [Se Rompe](https://open.spotify.com/album/638pcg0QwrxmV7ijzalgay) | 2:06 |
 | 60 | [Smegmann](https://open.spotify.com/track/5ScGWcWkW8eFrznRvcfh6T) | [Tormantos](https://open.spotify.com/artist/34hjEt48m7UYgwYEffP4Zh) | [Sistema Central](https://open.spotify.com/album/7jMckaJ2TrnUXcSRfT5xiZ) | 2:40 |
 
-Snapshot ID: `MCxjMmQyMGY2ODA1MjU1ZmU3M2Q0NmNlYjNmNTMwYThiMTY0NDkyMmMz`
+Snapshot ID: `MCxhNmE0N2I5MzEyNDFlZjgxYjUzOGEzZmE0NWVjYjVmMzY0YWE1MzM1`

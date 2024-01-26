@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 201000,
       "name": "ERES",
       "url": "https://open.spotify.com/track/6EYyCZ5gsRb1xNdyXYtEJF"
@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Luna (Versi\u00f3n Popular)",
+        "url": "https://open.spotify.com/album/66OqpCT2mzWPpiCZSidnjP"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188851,
+      "name": "Luna - Versi\u00f3n Popular",
+      "url": "https://open.spotify.com/track/2ivTWczxJAyd0T68MHyhNX"
+    },
+    {
+      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
@@ -2317,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "MLP",
+        "url": "https://open.spotify.com/album/1yD5svvZbyAeJ5RlrEpqGA"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148975,
+      "name": "MLP",
+      "url": "https://open.spotify.com/track/0crUc5ee412RCaQH6ePBWt"
+    },
+    {
+      "album": {
         "name": "Mor\u00ed",
         "url": "https://open.spotify.com/album/3xTefPNi5demDd4X2s4nch"
       },
@@ -2389,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Nada Serio",
+        "url": "https://open.spotify.com/album/3WeyZHeYQS0IL1oiORmuiR"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        },
+        {
+          "name": "Gael Morantes",
+          "url": "https://open.spotify.com/artist/3ubpUHGn025g8Ixl5shRfw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183811,
+      "name": "Nada Serio",
+      "url": "https://open.spotify.com/track/72zR7RrTDSybIJV1Fdz79i"
+    },
+    {
+      "album": {
         "name": "Maldita Traicion",
         "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
       },
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 175203,
       "name": "ni t\u00fa ni yo",
       "url": "https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC"
@@ -2844,6 +2902,28 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "album": {
@@ -3494,7 +3574,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153153,
       "name": "TE FUI A SEGUIR",
       "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"

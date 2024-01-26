@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 2024年1月27日・28日、日本武道館にて開催！<br/><br/>アニソンフェス“<a href="https://www.lisani.jp/live/">リスアニ！LIVE 2024</a>”出演アーティストの楽曲をピックアップ！<br/><br/>※本プレイリストはセットリストとは関係がありません。<br/><br/>The official playlist of "LisAni! LIVE 2024"
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,900 likes - 19 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,915 likes - 19 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 18 | [Surprise](https://open.spotify.com/track/0fkfWgEkwmdDHms0V1JogP) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:25 |
 | 19 | [morning morning](https://open.spotify.com/track/3NloEHbTZxvarJ14ygl1Sr) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [day to YOU](https://open.spotify.com/album/183oG82yds2ZFswddXOr2y) | 2:59 |
 
-Snapshot ID: `MCw2ZTBkNTU5OTVjNmQ1ZTYwYTM2N2ZhMTY0OThlYmY4MmFiMWQzMjJj`
+Snapshot ID: `MCw4MGJkMWFjMjA1Mzk1ZThmZjgxMzliNDQ1MzQxMzIxMzQyOGM0ZDNj`

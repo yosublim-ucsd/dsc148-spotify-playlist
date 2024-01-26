@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Hedex, Tion Wayne\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Blame You",
+        "url": "https://open.spotify.com/album/072afgsXKX0MGMjmoEcF4T"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Blame You",
+      "url": "https://open.spotify.com/track/7G5rVgRVk11sk5uRynQ5Qg"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM"
       },
@@ -1743,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "London Sound",
+        "url": "https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Ebenezer",
+          "url": "https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Care About Us (feat. Ebenezer)",
+      "url": "https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91"
+    },
+    {
+      "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/3XVFP9hCPNZbE3R3C9eo24"
       },
@@ -2106,7 +2146,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 230232,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs"
@@ -2498,7 +2538,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
@@ -2690,6 +2730,28 @@
       "duration_ms": 181026,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0Gvh7WSyorB2zlC737KokH"
+    },
+    {
+      "album": {
+        "name": "Delete Our Love",
+        "url": "https://open.spotify.com/album/7g5GmifykucoqzWJMOeOlO"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/1Ad52Lq9RkPsrCf4j42mRz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171379,
+      "name": "Delete Our Love",
+      "url": "https://open.spotify.com/track/2TiEo6WY5sIh2pEgUzgLsG"
     },
     {
       "album": {
@@ -4668,7 +4730,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 223642,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/4sJS9395GlIwHX3fe3kLp7"
@@ -5090,7 +5152,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
@@ -5294,7 +5356,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 156346,
       "name": "In The City",
       "url": "https://open.spotify.com/track/4U4vRo9EM6DXaLIagwbbMW"
@@ -5420,7 +5482,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228965,
       "name": "Interference",
       "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
@@ -5662,7 +5724,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 244531,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/0ijaYwZ2AuH0F9ZNJ5EHFC"
@@ -6424,7 +6486,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 200712,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/17t0AxR06rVzKkMjqcixuY"
@@ -6626,6 +6688,32 @@
       "duration_ms": 248228,
       "name": "Love Will Find Its Way",
       "url": "https://open.spotify.com/track/1sSZehFIbhRKKnpiIIYYvG"
+    },
+    {
+      "album": {
+        "name": "Lowkey (LDN Drift) [feat. Takura]",
+        "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Lowkey (LDN Drift) [feat. Takura]",
+      "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
     },
     {
       "album": {
@@ -7218,6 +7306,32 @@
       "duration_ms": 183409,
       "name": "Musket (feat. Flowdan)",
       "url": "https://open.spotify.com/track/5m071hCqm8urehS1fSn2FN"
+    },
+    {
+      "album": {
+        "name": "My Favourite Game (feat. The Cardigans)",
+        "url": "https://open.spotify.com/album/3rMfs8Eno9bwi3Z5ZkfRXp"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        },
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        },
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148097,
+      "name": "My Favourite Game (feat. The Cardigans)",
+      "url": "https://open.spotify.com/track/0cIgRv4Ew48c2r2yixOR1K"
     },
     {
       "album": {
@@ -8124,6 +8238,32 @@
       "duration_ms": 122069,
       "name": "Party Muscle",
       "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder) [1991 Remix]",
+        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200086,
+      "name": "Perfect (Exceeder) - 1991 Remix",
+      "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
     },
     {
       "album": {
@@ -10875,6 +11015,28 @@
     },
     {
       "album": {
+        "name": "The Touch",
+        "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149817,
+      "name": "The Touch",
+      "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
+    },
+    {
+      "album": {
         "name": "The Way (Saviour)",
         "url": "https://open.spotify.com/album/0B2rxnCyHtfjClpmtsfuUs"
       },
@@ -11839,6 +12001,32 @@
     },
     {
       "album": {
+        "name": "Waterslides",
+        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158174,
+      "name": "Waterslides",
+      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+    },
+    {
+      "album": {
         "name": "Waveline",
         "url": "https://open.spotify.com/album/1LWfBjxubAWi8nfDo8paz9"
       },
@@ -11994,6 +12182,28 @@
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/7pRAUjVVOHT6vXMto3kxv5"
     },
     {
       "album": {
@@ -12224,7 +12434,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 198500,
       "name": "Wicked Man",
       "url": "https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6"

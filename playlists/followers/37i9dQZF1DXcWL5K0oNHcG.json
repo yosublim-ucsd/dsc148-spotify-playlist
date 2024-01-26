@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 207822,
+  "2024-01-26": 207941,
   "date_first_scraped": "2022-01-26",
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
@@ -1946,6 +1946,24 @@
     },
     {
       "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
+    },
+    {
+      "album": {
         "name": "Back into Space",
         "url": "https://open.spotify.com/album/5vDRjgLpG543rxS5KRdSfR"
       },
@@ -2341,6 +2359,24 @@
       "duration_ms": 226900,
       "name": "Bear Walk",
       "url": "https://open.spotify.com/track/3NeBFr2xBjxH3lfCq1tXp8"
+    },
+    {
+      "album": {
+        "name": "Beautiful Dreamer",
+        "url": "https://open.spotify.com/album/3gUd6UI6ra8jUH1kVk7BWa"
+      },
+      "artists": [
+        {
+          "name": "Rory Sturgeon",
+          "url": "https://open.spotify.com/artist/7v5gnZba4iB7tjlnZKS1Oo"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/3NPzHaUQnWmoSU1cPjnZLT"
     },
     {
       "album": {
@@ -6991,6 +7027,28 @@
       "duration_ms": 182389,
       "name": "Emerge",
       "url": "https://open.spotify.com/track/31syTisJlr1tDA5SyIPavd"
+    },
+    {
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/41yktN4HFvhkIcDvm6YxWD"
+      },
+      "artists": [
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179127,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/1Sw2x4OTceaCVnUjia3MZP"
     },
     {
       "album": {
@@ -13428,6 +13486,24 @@
     },
     {
       "album": {
+        "name": "Callisto",
+        "url": "https://open.spotify.com/album/3H3grs4rYynO2osDOZbT55"
+      },
+      "artists": [
+        {
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "Luck Is The Best Answer",
+      "url": "https://open.spotify.com/track/76xxv58VXHVOdAUqMcze2A"
+    },
+    {
+      "album": {
         "name": "Lucmagn",
         "url": "https://open.spotify.com/album/797Xlx42lF1SGei81aOXKf"
       },
@@ -13905,7 +13981,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 185624,
       "name": "matter",
       "url": "https://open.spotify.com/track/5zvkuCpPtkP3iW5GdubZCa"
@@ -18151,6 +18227,24 @@
       "duration_ms": 123653,
       "name": "Raised by Conservatives",
       "url": "https://open.spotify.com/track/0n4yQY4XrRjVTlus30ev9c"
+    },
+    {
+      "album": {
+        "name": "Ramble In The Rainbow",
+        "url": "https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq"
+      },
+      "artists": [
+        {
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243161,
+      "name": "Ramble In The Rainbow",
+      "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
     },
     {
       "album": {
@@ -24319,6 +24413,36 @@
       "duration_ms": 247320,
       "name": "Trippy 11 (Glitch Waltz)",
       "url": "https://open.spotify.com/track/3RH5JnLCFCWz9lnUIyL35V"
+    },
+    {
+      "album": {
+        "name": "Troxy Fot",
+        "url": "https://open.spotify.com/album/45l8t74Zz7DqVQdzmo5Lxg"
+      },
+      "artists": [
+        {
+          "name": "PSA Trio",
+          "url": "https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM"
+        },
+        {
+          "name": "Pritesh Walia",
+          "url": "https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl"
+        },
+        {
+          "name": "Avery Logan",
+          "url": "https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs"
+        },
+        {
+          "name": "Sharik Hasan",
+          "url": "https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508000,
+      "name": "Troxy Fot",
+      "url": "https://open.spotify.com/track/720m5j5CFZFpv0vfO1qGtc"
     },
     {
       "album": {

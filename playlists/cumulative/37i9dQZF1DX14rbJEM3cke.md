@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-254 songs - 12 hr 44 min
+255 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Virus](https://open.spotify.com/track/1Yqx7WwyNUuZ96GqpxL2J8) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [Shayley Bourget](https://open.spotify.com/artist/3yb7c2d4ksZZSdIPbK7Rd3) | [GlitchGang](https://open.spotify.com/album/3aCmgbuJABpDD03b4ixC5B) | 3:04 | 2022-02-12 | 2022-06-04 |
 | [Voodoo Child](https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Comandante](https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA) | 5:12 | 2022-02-12 | 2022-06-04 |
 | [Wait](https://open.spotify.com/track/1YUKuWqXXMDoIWMxeTHPDf) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Wait](https://open.spotify.com/album/3THLOqXhxu22JUfr78jGPn) | 3:57 | 2022-06-03 |  |
-| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-14 |  |
+| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-14 | 2024-01-26 |
+| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/3mZJV1uUmapZbuPJP33Ej5) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/0pt0GZkcQqoePHrWdjP6L5) | 2:35 | 2024-01-19 |  |
 | [Wasting Around](https://open.spotify.com/track/6WlVkldZfL0wdA7RLppJ1J) | [Jupiter's Sick](https://open.spotify.com/artist/601nRr3Sk6NGacKjasgk23) | [Adult Swim](https://open.spotify.com/album/2QP884iYno470puXnvKhFY) | 2:09 | 2022-07-22 | 2022-08-27 |
 | [Watch Your Man \(feat\. Marshmello\)](https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 1:56 | 2022-07-22 | 2022-08-27 |
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2022-02-12 | 2022-04-16 |

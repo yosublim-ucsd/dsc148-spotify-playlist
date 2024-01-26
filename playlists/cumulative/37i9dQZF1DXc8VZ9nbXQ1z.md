@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-457 songs - 1 day 21 hr 52 min
+458 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [33 Years Later](https://open.spotify.com/track/4x1ixMGSCcqdSJXiheOeAe) | [Fell Reis](https://open.spotify.com/artist/3drONso8gvPVD4K0oO37Qa), [D.Nada](https://open.spotify.com/artist/59Gsq0ARJzgL5VVNDxZcUz) | [33 Years Later](https://open.spotify.com/album/7dSbwQgZx8GIRqRx5hsF5I) | 3:52 | 2022-11-11 | 2023-03-18 |
-| [7 Seconds](https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ) | 5:15 | 2023-04-27 |  |
+| [7 Seconds](https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ) | 5:15 | 2023-04-27 | 2024-01-26 |
+| [7 Seconds](https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/4cjJ5asufFmCnTM5ALAlFt) | 5:15 | 2024-01-24 |  |
 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 | 2022-09-13 |  |
 | [A Ri Funane \- Radio Edit](https://open.spotify.com/track/2M1xU3aMcF5FAnH0YwGJL2) | [Lohrasp Kansara](https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [A Ri Funane \(Radio Edit\)](https://open.spotify.com/album/2ZomFScLBG2tIpo9pH8sAB) | 3:22 | 2023-12-15 | 2023-12-22 |
 | [Abandonado](https://open.spotify.com/track/4ngQ5ka9uIfgj724T89fGp) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Abandonado](https://open.spotify.com/album/0SNfRpT7YCBd6i5I0si95S) | 5:52 | 2023-06-19 | 2023-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 143 songs - 7 hr 34 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 144 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 141 | [Same Yung Nigga \(feat\. Playboi Carti\)](https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:00 |
 | 142 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 |
 | 143 | [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 |
+| 144 | [Auditorium](https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Ecstatic](https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC) | 4:34 |
 
-Snapshot ID: `NzE5MyxjMzZmMmU5N2U0NWU1YzUwMWZmN2VmNzdjYjIzZDljODdjOGU1OTdm`
+Snapshot ID: `NzE5NCwyNTI4YWQwZTMxMmFhYjkwOWFkMTg2ZTJmNGYxMDRiMGMxZDRkNzI0`

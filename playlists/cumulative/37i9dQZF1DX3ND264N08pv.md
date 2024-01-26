@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-225 songs - 12 hr 44 min
+226 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Hard Knock Life](https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Hard Knock Life](https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ) | 3:35 | 2022-12-08 | 2023-12-22 |
 | [Hardcore By Nature \(Official Titanium Festival 2022 Anthem\) \- Radio Edit](https://open.spotify.com/track/4Vss1bAPHkVTVbxURknLwL) | [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Hardcore By Nature](https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ) | 3:21 | 2022-12-08 | 2023-06-30 |
 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 |  |
+| [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-01-24 |  |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [HARI HARI \(2024 RMX\)](https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [HARI HARI \(2024 RMX\)](https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM) | 3:16 | 2024-01-24 |  |
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 | 2023-09-15 |

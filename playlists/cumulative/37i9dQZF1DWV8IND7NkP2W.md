@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-704 songs - 1 day 7 hr 35 min
+706 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 |  |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2024-01-26 |
 | [go](https://open.spotify.com/track/6AnnJQNeDbWQmg44wzXCqh) | [Lenn](https://open.spotify.com/artist/6FMwszdpTXml16RrrJyXqh) | [go](https://open.spotify.com/album/0C7u6OZoWYJw583Jho514V) | 1:50 | 2021-12-23 | 2022-07-19 |
 | [Gohongi Blues](https://open.spotify.com/track/50EahQA09yB4uLGJIG4awJ) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Gohongi Blues](https://open.spotify.com/album/1DJEEa7D4AhbU2PRbbaE3i) | 1:33 | 2021-12-23 | 2022-05-19 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -391,7 +391,7 @@
 | [Migratory Bird](https://open.spotify.com/track/1SJcAnuUDI8nJhMdp6ziiS) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/1owPNAaXMDvIonCXvGphVQ) | 3:35 | 2022-03-24 | 2022-07-27 |
 | [mild waves](https://open.spotify.com/track/6Ggz8uUOumCGSMeNTZhjtu) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [mild waves](https://open.spotify.com/album/09vAYDtF6xJI3R5IE8iR3X) | 2:17 | 2022-01-13 | 2022-07-27 |
 | [Miles Above](https://open.spotify.com/track/6ugiGxMGuZuQvLXLZte3HD) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Fog Over Trees](https://open.spotify.com/album/6cJp8cOaSXXiLwREshy1Cb) | 4:28 | 2022-01-06 | 2022-07-05 |
-| [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-07 |  |
+| [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-07 | 2024-01-26 |
 | [Mindfulness](https://open.spotify.com/track/5khC5i306IWwP39jKi8woX) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Mindfulness](https://open.spotify.com/album/4Qd5cv6IF08Tbi2jdAa9dA) | 2:11 | 2022-01-06 | 2022-05-14 |
 | [Minor Sights](https://open.spotify.com/track/1B03EmZj66nS4PDes73721) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/3IVViyY8IjbLMxnAQICfA7) | 3:06 | 2021-12-23 | 2022-07-29 |
 | [Mirage](https://open.spotify.com/track/64I9S8n6lJxcR3P0tZa8UY) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Mirage](https://open.spotify.com/album/786SXda0yXerxAHEobLSk5) | 3:30 | 2022-01-06 | 2022-07-29 |
@@ -417,6 +417,7 @@
 | [Morning Glow](https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7), [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe) | [Morning Glow](https://open.spotify.com/album/1Y9ezSLdlZIRPgKnpK4pdD) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [Morning Steps](https://open.spotify.com/track/5z9YljuHcRfG76Pb5Yclb1) | [Lively Rhymes](https://open.spotify.com/artist/5uuJ6BtUscRMOJduZM48pz) | [Morning Steps](https://open.spotify.com/album/75joiSrDFFsnz9tDsXSiDF) | 3:01 | 2022-01-06 | 2022-07-12 |
 | [Morning Walk Inst](https://open.spotify.com/track/59WH3nBd9Y7NpcoIaIT43P) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Morning Walk Inst](https://open.spotify.com/album/1NJShCw5uw960gpKaOC8cm) | 3:13 | 2021-12-23 | 2022-12-16 |
+| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 |  |
 | [MOVE FORWARD](https://open.spotify.com/track/3PqyQ64sDy2sngYdx9QAOt) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [MOVE FORWARD](https://open.spotify.com/album/1FQ6y1HVUGlFdFJ0JV91iJ) | 4:00 | 2022-01-13 | 2022-07-22 |
 | [Mt\. Kita](https://open.spotify.com/track/1txwaLQknVX822mGk13eEe) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo) | [Mt\. Kita](https://open.spotify.com/album/6LEAAJjaQDPzSxwy6pKHTs) | 2:29 | 2021-12-23 | 2022-08-13 |
 | [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 | 2023-11-17 |
@@ -620,6 +621,7 @@
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |
 | [tattered trees in the rain](https://open.spotify.com/track/0cdqCuXYoMbrNKoMtsNse6) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tattered trees in rain](https://open.spotify.com/album/1JFvsD6gyVDwb2Nu4CU3hU) | 2:14 | 2022-03-24 | 2022-06-10 |
 | [tear drop](https://open.spotify.com/track/0vOVwVh2MgfgZ3GNM4DMBE) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Imaginary Landscape](https://open.spotify.com/album/3Hjj8fzZ6ys0Ig5uB62kzC) | 3:09 | 2021-12-23 | 2022-07-28 |
+| [tears](https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNAII](https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF) | 2:24 | 2024-01-25 |  |
 | [temptation](https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe) | [4ten](https://open.spotify.com/artist/4eu1vzFHLQk5a5vV4omCe3) | [temptation](https://open.spotify.com/album/4dbGZLA8Q1WP4gkvqHB53N) | 3:38 | 2022-07-21 | 2023-03-04 |
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2022-02-03 | 2022-09-19 |
 | [Thankful](https://open.spotify.com/track/4EedntG2oTsHGjDNVldyqj) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn) | [Wake Up](https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE) | 2:00 | 2022-03-31 | 2022-04-16 |

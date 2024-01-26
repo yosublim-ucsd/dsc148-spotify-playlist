@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Ama Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,245 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,253 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 42 | [Tear Gas](https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX), [Tyler Cryde](https://open.spotify.com/artist/1ghH3iyV8WKmK2pMvyQ55E) | [Tear Gas \(feat\. Tyler Cryde\)](https://open.spotify.com/album/3dr2QOBPShCo49di8WnPvA) | 4:18 |
 | 43 | [Lee Judges](https://open.spotify.com/track/3oDiMQykfLGirV6mqCRwjm) | [Solz](https://open.spotify.com/artist/3VppUvO8VSyoF6bKxwMEQ0), [dxvl](https://open.spotify.com/artist/7aVN7GGnvCgEnZpykvn1fj), [Tywheezo](https://open.spotify.com/artist/56zeNyg063I6iA8P1KtVnr) | [Lee Judges](https://open.spotify.com/album/66xEkSRnPdF4r9Ekv7Frx6) | 2:41 |
 | 44 | [In Your Eyes](https://open.spotify.com/track/14qq1BqxguYojuOGaun0xW) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [In Your Eyes](https://open.spotify.com/album/5drImt8RdXUTgqSeFL12A8) | 3:49 |
-| 45 | [Break My Fall](https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Break My Fall](https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF) | 2:35 |
+| 45 | [Break My Fall](https://open.spotify.com/track/1gXAMvvtm8oJjtq4zNf7SV) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Head Hurts](https://open.spotify.com/album/7dRcYhcCUSXdYjztJSdEh9) | 2:35 |
 | 46 | [Valentine](https://open.spotify.com/track/4W9qyL9dKCNXuE3DG6Xc9a) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:33 |
 | 47 | [Maybe](https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Maybe](https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1) | 3:07 |
 | 48 | [melanie](https://open.spotify.com/track/0M5HTeOyl4O9ftcqwdg8vv) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [melanie](https://open.spotify.com/album/5CHeEuGnXqXnC1mVQNXJAt) | 1:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 84 | [The Chase](https://open.spotify.com/track/0hX1Sc2QkcVHzvgy1kMaAD) | [Tamara Dos Santos](https://open.spotify.com/artist/1GhWD01U6kf5djUGOD523H) | [The Chase](https://open.spotify.com/album/17F03Nv5crXD0S8grbmNYB) | 3:05 |
 | 85 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 
-Snapshot ID: `MCxmYTI2YTExZjkxM2U1ZjUxNmI5NTFmMzE5NDNkZTg2YWQyOWI1MjAy`
+Snapshot ID: `MCw4YjcxOWU1MGI3MDc2NDJlZjkzYWIxNmRkZTdiYWYyOGNjNTQ3Yzc3`

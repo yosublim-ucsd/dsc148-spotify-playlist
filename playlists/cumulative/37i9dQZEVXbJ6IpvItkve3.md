@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-882 songs - 2 day 1 hr 38 min
+884 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,9 +591,10 @@
 | [חורף 73](https://open.spotify.com/track/7FyOZw0VvIvoBx33gOEjQr) | [Lehakat Chinuch Meyuchad](https://open.spotify.com/artist/2FVdUWkBpItriUqpM7mLHX) | [דרישת שלום \- ממיטב שירי להקות צה״ל המתחדשות](https://open.spotify.com/album/3m0Se2mFO8V1ek9PWiLRDX) | 5:43 | 2023-04-26 | 2023-04-28 |
 | [חורף באוטו](https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חורף באוטו](https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6) | 4:11 | 2021-11-02 | 2022-04-10 |
 | [חורף בחלון](https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [פרק א' נגמר](https://open.spotify.com/album/5yQFGP3SYKAHZp3XlROttw) | 3:32 | 2023-02-06 | 2023-03-30 |
+| [חורף קר](https://open.spotify.com/track/66LtwgGSD7SUoWrsVQPArr) | [אופיר חדד](https://open.spotify.com/artist/1yTNMO8we0z243hIyM6zG4) | [חורף קר](https://open.spotify.com/album/3H6EtJwBPkdCI6l7NEurX1) | 3:41 | 2024-01-25 |  |
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חישגוזים](https://open.spotify.com/track/31cPrw1QeS642qgShdFYza) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [חישגוזים](https://open.spotify.com/album/32XFV7Wh93lpTGQnvZ3UoL) | 2:51 | 2023-06-25 | 2023-07-07 |
-| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 |  |
+| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 | 2024-01-26 |
 | [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Nadav Navi Aharoni](https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 | 2023-09-07 |
 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2021-12-01 | 2021-12-08 |
 | [חנוכה חנוכה](https://open.spotify.com/track/7fT1m5zBUXcQhrQ8GY6zxH) | [Dalia Amihud](https://open.spotify.com/artist/4iZXZxiD3ZWOqaD4s1IHI3), [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [שירי החגים הגדולים בכל הזמנים](https://open.spotify.com/album/0pyNXUcowpgnknHQUoVVyW) | 1:41 | 2021-11-30 | 2021-12-01 |
@@ -630,6 +631,7 @@
 | [כאב של לוחמים](https://open.spotify.com/track/3DjIsttgjXGZMO31KiYrGO) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/5iRY7IjF3Cw9LBt6ESsPR4) | 3:18 | 2021-04-15 | 2021-04-17 |
 | [כאלו מילים](https://open.spotify.com/track/0n2BeC9E0M7fC2jbKBYetu) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [השחר 35](https://open.spotify.com/album/3XjD1ikl0kagVRjTy7ooAK) | 2:45 | 2022-09-24 | 2022-10-08 |
 | [כד קטן](https://open.spotify.com/track/3W2ivfrQP1kG0Uh5IBJn7P) | [Yorik Ben David](https://open.spotify.com/artist/5keFhnqLaQXXUPV1R9jWmc) | [שירי הילדים הגדולים בכל הזמנים](https://open.spotify.com/album/6Y4KwK3N96kZ7dlCukYmIc) | 1:04 | 2021-11-30 | 2023-12-12 |
+| [כוכב קטן](https://open.spotify.com/track/1puepYEC1fzx2rwluHLGzr) | [INBAR](https://open.spotify.com/artist/6YBvZVLevoGmgGMfSXU8fC) | [כוכב קטן](https://open.spotify.com/album/5MxuJlpGdPIRnDjaA4Zxse) | 3:43 | 2024-01-25 |  |
 | [כוסות ריקות](https://open.spotify.com/track/6NzCGR1aXkl3z4tjUph4zH) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:14 | 2021-07-10 | 2021-08-21 |
 | [כינורות](https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [כינורות](https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs) | 2:55 | 2022-11-16 | 2023-01-07 |
 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 | 2023-06-10 |  |
@@ -742,7 +744,7 @@
 | [נאסף תשרי \(מת אב ומת אלול\)](https://open.spotify.com/track/7IWtwb4ffSlxcyWeq4XIok) | [Svika Pick](https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe) | [מוסיקה](https://open.spotify.com/album/528cpz61Bp02KfZ7ybRQvf) | 6:01 | 2022-08-16 | 2022-08-18 |
 | [נגמר](https://open.spotify.com/track/2Yfd4lEjv3Ah7lLHEAYX50) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/3VGHfCuv4ExmHvYcYdrHlm) | 4:19 | 2022-05-05 | 2024-01-13 |
 | [נגמר](https://open.spotify.com/track/2kQmLi3MUrTkj3E4eICpt1) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/0KKNhG6aIUh1TNpMsOzWks) | 4:19 | 2021-04-16 | 2021-04-17 |
-| [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 |  |
+| [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 | 2024-01-26 |
 | [נוריד ת'חולצה](https://open.spotify.com/track/0oHTvb0EVeYTUc0zscZphb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [נוריד ת'חולצה](https://open.spotify.com/album/6Z5kdNOhvZ7BXD40g5xggC) | 2:38 | 2021-05-03 | 2021-05-14 |
 | [נחכה לך](https://open.spotify.com/track/0ety2yTiWVKeqQeaed4Spj) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [באתי לחלום](https://open.spotify.com/album/72XLu81OoRHcScFT8nQPJB) | 3:27 | 2021-03-27\* | 2021-04-04 |
 | [ננה בננה](https://open.spotify.com/track/2un3eax2X0XgvF1ixBlw8O) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [ננה בננה](https://open.spotify.com/album/4a8a0ZjvWDneAYbGWUl0t7) | 2:20 | 2022-11-20 | 2022-12-29 |

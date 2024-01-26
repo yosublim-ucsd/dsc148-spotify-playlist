@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,304 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,305 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 47 | [לאהוב בענק](https://open.spotify.com/track/350kpQwdhf2cjxXdqgt1CN) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [סוף סוף באמת](https://open.spotify.com/album/0mwY1OUOXA6y6fu08N6HNV) | 3:44 |
 | 48 | [מי לימדה אותך?](https://open.spotify.com/track/3FdO6cpjJxfBetb6Cl9fsy) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [מי לימדה אותך?](https://open.spotify.com/album/5s3Win3YFXDj6olgUejGqe) | 2:42 |
 
-Snapshot ID: `MCw3OTI3OTRhNmU1OTAxOTMwZTIwNjU4ZWQ5M2YxOTA2YTNlZjlmOWM4`
+Snapshot ID: `MCxkMDE3YTNiNzk3M2IxOGM1MzkzZmY4YWZhMGFkZDQxNDhkMmIyMTMw`

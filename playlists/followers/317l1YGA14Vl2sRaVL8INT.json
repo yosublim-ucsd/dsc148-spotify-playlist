@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 44087,
+  "2024-01-26": 44084,
   "date_first_scraped": "2023-11-08",
   "description": "Its pop punk, its the best",
   "name": "Best Of Pop Punk ",
@@ -1333,6 +1333,28 @@
       "duration_ms": 174545,
       "name": "Fight 4 luv",
       "url": "https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO"
+    },
+    {
+      "album": {
+        "name": "Fight 4 Luv",
+        "url": "https://open.spotify.com/album/5gIIp16EjzDmzTtYwaN4Jp"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Miller",
+          "url": "https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC"
+        },
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174461,
+      "name": "Fight 4 Luv",
+      "url": "https://open.spotify.com/track/0W8ww4rAWdDYEE6rFgZKgi"
     },
     {
       "album": {
@@ -3121,6 +3143,24 @@
       "duration_ms": 191544,
       "name": "Stupid for You",
       "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
+    },
+    {
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "album": {

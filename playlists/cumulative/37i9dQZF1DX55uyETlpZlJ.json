@@ -64,10 +64,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139999,
       "name": "Abbabbaa",
       "url": "https://open.spotify.com/track/1o9S562QxYvL66rVHxxGOE"
+    },
+    {
+      "album": {
+        "name": "Abbabbaa",
+        "url": "https://open.spotify.com/album/2IFpnZl9vZmfQgH7EvNbKr"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139999,
+      "name": "Abbabbaa",
+      "url": "https://open.spotify.com/track/2ZKsmvbi4GElE0uvhAo2gC"
     },
     {
       "album": {
@@ -1428,7 +1446,7 @@
     {
       "album": {
         "name": "HAARU HAARU",
-        "url": "https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL"
+        "url": "https://open.spotify.com/album/3UMSP6AJ2irOB5zYCMfrWs"
       },
       "artists": [
         {
@@ -1439,6 +1457,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179999,
+      "name": "HAARU HAARU",
+      "url": "https://open.spotify.com/track/21FxZHSLzd84a8lxmT57tY"
+    },
+    {
+      "album": {
+        "name": "HAARU HAARU",
+        "url": "https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-26",
       "duration_ms": 179999,
       "name": "HAARU HAARU",
       "url": "https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9"
@@ -2216,10 +2252,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 129476,
       "name": "Karedaaga Ninna",
       "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
+    },
+    {
+      "album": {
+        "name": "Karedaaga Ninna",
+        "url": "https://open.spotify.com/album/4xv9R4Z0Y3oMYhruPheWne"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129476,
+      "name": "Karedaaga Ninna",
+      "url": "https://open.spotify.com/track/1QsjxwZlmNea67Js4XAiNg"
     },
     {
       "album": {
@@ -3386,10 +3440,28 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 209480,
       "name": "Nanne Kaadide",
       "url": "https://open.spotify.com/track/0NXGz59ha1iCWqhdZqItTY"
+    },
+    {
+      "album": {
+        "name": "Nanne Kaadide",
+        "url": "https://open.spotify.com/album/5cSwOv1MkHIuZMhFBLMOiM"
+      },
+      "artists": [
+        {
+          "name": "Harish boraiah",
+          "url": "https://open.spotify.com/artist/5zUuaKplkyRi826Txr158L"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "Nanne Kaadide",
+      "url": "https://open.spotify.com/track/19wt6iXGtJi6zyLibLArvD"
     },
     {
       "album": {

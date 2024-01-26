@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 128858,
+  "2024-01-26": 128892,
   "date_first_scraped": "2023-01-14",
   "description": "This is El Tri. The essential tracks, all in one playlist.",
   "name": "This Is El Tri",
@@ -453,7 +453,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 223333,
       "name": "Libertad bajo fianza",
       "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"
@@ -619,6 +619,24 @@
       "duration_ms": 336080,
       "name": "Ni\u00f1o sin amor - Live",
       "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
+    },
+    {
+      "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "No hay pedo",
+      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
     },
     {
       "album": {

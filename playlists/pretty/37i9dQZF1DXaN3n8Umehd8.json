@@ -1,12 +1,12 @@
 {
   "description": "Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href=\"spotify:show:5GfRxX2kl2BJVB1e7AgcDh\"> Marco Antonio Regil</a>",
-  "num_followers": 15583,
+  "num_followers": 16020,
   "original_name": "Insp\u00edrate con Marco Antonio Regil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjEzYmQxM2MyYTc5M2FlZDNmNzQ3NThkZTRhMzkwNDQ3ZDA1MTFj",
+  "snapshot_id": "MCw0NGUyYTEyOThmYzU5MmYyN2IxN2IzZGE1NjM2NGE0YzhlOTJlZGE2",
   "tracks": [
     {
       "added_at": "2024-01-16 19:35:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-16 19:35:43",
       "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "Un A\u00f1o Mas",
-      "url": "https://open.spotify.com/track/1seCZJ3pEVjghbzZ2mV4Xl"
-    },
-    {
-      "added_at": "2024-01-16 19:35:43",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 288546,
       "name": "Don't Lose My Number - 2016 Remaster",
       "url": "https://open.spotify.com/track/2ZIzyHDYsXIHUojfr6bAbO"
+    },
+    {
+      "added_at": "2024-01-16 19:35:43",
+      "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "Un A\u00f1o Mas",
+      "url": "https://open.spotify.com/track/1seCZJ3pEVjghbzZ2mV4Xl"
     },
     {
       "added_at": "2024-01-16 19:35:43",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW-tpR_ql_tcv1TnHjA\"> Darkua </a>",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B?si=Mf0WWcWCRnCBrWwOEWZGTQ\"> Highlyy </a>",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/12G7jrieeDiovqBSeZ26fN"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/5JaUMWEC0QdvBYFNuoaii4"
+    },
+    {
+      "album": {
         "name": "Festival of the Sun",
         "url": "https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD"
       },
@@ -498,7 +520,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 149387,
       "name": "Alinko",
       "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
@@ -1991,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "certain",
+        "url": "https://open.spotify.com/album/7JZmOjUUxv3bhLy66PXl1E"
+      },
+      "artists": [
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        },
+        {
+          "name": "Beezyx",
+          "url": "https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "certain",
+      "url": "https://open.spotify.com/track/6VvLXMAYBjKUqCa7EzS6Tw"
+    },
+    {
+      "album": {
         "name": "CHAMPAGNE GIRL",
         "url": "https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S"
       },
@@ -2934,7 +2978,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157179,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn"
@@ -2970,7 +3014,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184421,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
@@ -3609,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "Before the Sun Comes Down",
+        "url": "https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I"
+      },
+      "artists": [
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160564,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj"
+    },
+    {
+      "album": {
         "name": "Falling For You (Remix)",
         "url": "https://open.spotify.com/album/1igakSMsBPozs80Ro8SvVh"
       },
@@ -3801,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Felony",
+        "url": "https://open.spotify.com/album/3ysBQMUR3McphAzqTbNSVW"
+      },
+      "artists": [
+        {
+          "name": "Graham BMG",
+          "url": "https://open.spotify.com/artist/0mlVlGzMbIQvvR9ttBWFW3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/4plfpUXQGDWmPSzi3hh1ph"
+    },
+    {
+      "album": {
         "name": "Fine Girl",
         "url": "https://open.spotify.com/album/5GqNDVg42ADBKbvpcfKlpa"
       },
@@ -3812,7 +3896,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191447,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/1d0y0QIrrLcvyROxYeYMLh"
@@ -4831,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4nBbJj0KyFcF8vqvSlk11M"
+      },
+      "artists": [
+        {
+          "name": "Treggz",
+          "url": "https://open.spotify.com/artist/5Cd1hrANUAMsXEuiNOvahA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162465,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3N3M8Gtk5iDXe888OBMyhG"
+    },
+    {
+      "album": {
         "name": "Henny Talk",
         "url": "https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT"
       },
@@ -5114,6 +5216,24 @@
       "duration_ms": 194430,
       "name": "Home (Family & Friends)",
       "url": "https://open.spotify.com/track/3sYKYMAqnq3yUMVwbeQPXM"
+    },
+    {
+      "album": {
+        "name": "+243",
+        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
     },
     {
       "album": {
@@ -5522,6 +5642,24 @@
       "duration_ms": 144146,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6"
+    },
+    {
+      "album": {
+        "name": "I'm Late",
+        "url": "https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs"
+      },
+      "artists": [
+        {
+          "name": "Loyz",
+          "url": "https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Late",
+      "url": "https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7"
     },
     {
       "album": {
@@ -7329,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "Manifest (My Prayer)",
+        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Manifest (My Prayer)",
+      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
+    },
+    {
+      "album": {
         "name": "Many Man",
         "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
       },
@@ -7796,7 +7952,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 267428,
       "name": "Miss Me",
       "url": "https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob"
@@ -8142,7 +8298,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172040,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/1blEpIJSU20zH1u14FxT6X"
@@ -9544,7 +9700,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
@@ -10420,7 +10576,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 204900,
       "name": "RIDE N SING",
       "url": "https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t"
@@ -11981,6 +12137,24 @@
     },
     {
       "album": {
+        "name": "Fed Up / Tension",
+        "url": "https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156164,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF"
+    },
+    {
+      "album": {
         "name": "The Bad Guy",
         "url": "https://open.spotify.com/album/7FI833lOgXjMkQXoK7JYlG"
       },
@@ -12682,6 +12856,32 @@
       "duration_ms": 165913,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/5QxGoE7pn8Ghbl0N1leBop"
+    },
+    {
+      "album": {
+        "name": "Undress You (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "K.J Spio",
+          "url": "https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Undress You (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "album": {
@@ -13712,7 +13912,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 140000,
       "name": "You Know the Vibe",
       "url": "https://open.spotify.com/track/0T763g3Fki9eMoz6CLltmz"

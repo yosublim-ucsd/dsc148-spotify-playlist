@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 133296,
+  "2024-01-26": 133387,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Black Coffee's track IDs",
@@ -2663,6 +2663,28 @@
       "duration_ms": 340005,
       "name": "From Nibiru",
       "url": "https://open.spotify.com/track/1v1wU0nzJRN4imzZH9Z3KR"
+    },
+    {
+      "album": {
+        "name": "Fulufhelo",
+        "url": "https://open.spotify.com/album/0G1pocVQXTI6PfLHst9Sbi"
+      },
+      "artists": [
+        {
+          "name": "Vuscare",
+          "url": "https://open.spotify.com/artist/7C1LihDHAPTUCMmUELa0os"
+        },
+        {
+          "name": "Tangi",
+          "url": "https://open.spotify.com/artist/3XOmUD6KOc81Gt1jC6SqT9"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Fulufhelo",
+      "url": "https://open.spotify.com/track/5m21eKVdcgzZloWfRnG0H5"
     },
     {
       "album": {

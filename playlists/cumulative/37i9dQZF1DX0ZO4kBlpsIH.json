@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "L'\u00e9chelle aux nuages",
+        "url": "https://open.spotify.com/album/0YyceqfgVTOKNxs5rrGidq"
+      },
+      "artists": [
+        {
+          "name": "Menilmuche",
+          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210938,
+      "name": "L'\u00e9chelle aux nuages",
+      "url": "https://open.spotify.com/track/0fkPOhuwdnAu6gJfMD4i0o"
+    },
+    {
+      "album": {
         "name": "La Chambre d\u00b4Emelie",
         "url": "https://open.spotify.com/album/241JO38t2xkN0COxsbkdzx"
       },
@@ -1828,6 +1846,24 @@
       "duration_ms": 131825,
       "name": "Le Mauvais R\u00eave",
       "url": "https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO"
+    },
+    {
+      "album": {
+        "name": "Le ma\u00e7on",
+        "url": "https://open.spotify.com/album/4yxLBiEUgjZMJLy4hQWK0V"
+      },
+      "artists": [
+        {
+          "name": "Swing Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197475,
+      "name": "Le ma\u00e7on",
+      "url": "https://open.spotify.com/track/2qMgeX8qUaxX8VYXMtLw41"
     },
     {
       "album": {

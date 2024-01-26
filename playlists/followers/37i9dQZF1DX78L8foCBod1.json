@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 41792,
+  "2024-01-26": 41818,
   "date_first_scraped": "2022-06-10",
   "description": "One-of-a-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films. \u4ee3\u8868\u4f5c\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30b7\u30ea\u30fc\u30ba\u5287\u4f34\u3092\u306f\u3058\u3081\u3001\u6570\u3005\u306e\u540d\u66f2\u3092\u4e16\u754c\u306b\u9001\u308a\u51fa\u3057\u3066\u3044\u308b\u97f3\u697d\u5bb6\u3002SawanoHiroyuki[nZk]\u540d\u7fa9\u3067\u3082\u7cbe\u529b\u7684\u306b\u6d3b\u52d5\u4e2d\u3002",
   "name": "\u6fa4\u91ce\u5f18\u4e4b Hiroyuki Sawano Works",
@@ -2240,6 +2240,28 @@
     },
     {
       "album": {
+        "name": "The Seven Deadly Sins Four Knights of the Apocalypse original soundtrack",
+        "url": "https://open.spotify.com/album/1xAme6lxzPzIB0GBhE90xF"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443149,
+      "name": "The Seven Deadly Sins: Four Knights of the Apocalypse-MAIN THEME",
+      "url": "https://open.spotify.com/track/2YCz6kAkELWL4u1MXKVGvr"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u4e03\u3064\u306e\u5927\u7f6a \u9ed9\u793a\u9332\u306e\u56db\u9a0e\u58eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/38FMvnS7cSYlVwa1ZpiUUT"
       },
@@ -2255,7 +2277,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 443149,
       "name": "The Seven Deadly Sins: Four Knights of the Apocalypse-MAIN THEME",
       "url": "https://open.spotify.com/track/7iYfLESJzBWWbDnnAcxMFY"

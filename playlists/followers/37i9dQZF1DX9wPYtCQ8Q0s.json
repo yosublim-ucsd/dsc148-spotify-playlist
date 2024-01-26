@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 341360,
+  "2024-01-26": 341324,
   "date_first_scraped": "2023-07-23",
   "description": "A batida certa para o seu treino",
   "name": "Treino Hip-Hop",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"

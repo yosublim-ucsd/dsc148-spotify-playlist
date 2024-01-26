@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,119 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,117 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 25 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
 | 26 | [My Boo \- LP Radio Edit](https://open.spotify.com/track/2PAUsCMYNVfyw6imxFA71H) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [Total Dance Explosion](https://open.spotify.com/album/3ibQ8V9lnylFrL1vn9cWaM) | 4:08 |
 | 27 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 28 | [Swag Surfin'](https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP) | [F.L.Y\. \(Fast Life Yungstaz\)](https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr) | [Jamboree](https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp) | 4:09 |
+| 28 | [Swag Surfin'](https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP) | [F.L.Y\. \(Fast Life Yungstaz\)](https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr), [Easton](https://open.spotify.com/artist/78k3njwzksywc3rWTY7ZYN) | [Jamboree](https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp) | 4:09 |
 | 29 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 30 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
 | 31 | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/track/0ldWh5GwkxnhjoUdGKzXEq) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 3:09 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 61 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 | 62 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 |
 
-Snapshot ID: `MCw4ZDhkNzZhODVmOTJkYjgyY2RmNmQ1YWMzNTkxNDQyZmFmYTVjZWM0`
+Snapshot ID: `MCxkOTI2NzRjZmJkZjI0YjM2ZDAzMDUxYWViZDhkZjg4MjE2MzllZmZh`

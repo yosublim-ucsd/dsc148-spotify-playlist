@@ -1,12 +1,12 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks",
-  "num_followers": 2282605,
+  "num_followers": 2282627,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2I2ZmI5NWE0YTdmZWFjOTYwM2NkNzk1MDhmZDAwNmE1MGUxNDM4",
+  "snapshot_id": "MCxmMDc3ZjZlZDczNTc1ZDI3ZDE4YWFkMTk2NzNhOTYxNzEyNzk0ZmI4",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -319,6 +319,22 @@
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Whole Heart",
-        "url": "https://open.spotify.com/album/7KdSuiLiFqg0i8CILunjpr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reid",
-          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Whole Heart",
-      "url": "https://open.spotify.com/track/5WwwqOnlmpiFyAdvtPArKS"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Songs in the Kitchen",
         "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 197956,
       "name": "JOY (Not Sure What I'm Going Through)",
       "url": "https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Let Your Love Run Cold",
+        "url": "https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 223942,
+      "name": "Let Your Love Run Cold",
+      "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 189706,
       "name": "Builder Boy",
       "url": "https://open.spotify.com/track/2PMlo1IRwGderZF9wPOiSm"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Are You Awake?",
-        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mayberry",
-          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
-        }
-      ],
-      "duration_ms": 224429,
-      "name": "Are You Awake?",
-      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
     },
     {
       "added_at": "2024-01-19 00:00:00",

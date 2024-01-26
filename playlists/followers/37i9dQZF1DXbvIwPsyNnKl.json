@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1043145,
+  "2024-01-26": 1044148,
   "date_first_scraped": "2023-09-23",
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Flow G",
   "name": "Kalye Hip-Hop",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160851,
       "name": "'97 Jay-Z",
       "url": "https://open.spotify.com/track/6KdGHRlQ7PUuVplvNySZHH"
@@ -345,6 +345,28 @@
       "duration_ms": 148587,
       "name": "BLING",
       "url": "https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo"
+    },
+    {
+      "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/4i465DRqEPPqTS1nSRhPRG"
+      },
+      "artists": [
+        {
+          "name": "Apekz",
+          "url": "https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/5pVvdDwAZxmUAJQt3XHwnG"
     },
     {
       "album": {
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 191219,
       "name": "LUMAYO KANA",
       "url": "https://open.spotify.com/track/6RMuVO3C62Y8qkUxtpgdLr"
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 174495,
       "name": "ON LY",
       "url": "https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m"
@@ -1573,6 +1595,28 @@
       "duration_ms": 150168,
       "name": "Playaz in dis MF",
       "url": "https://open.spotify.com/track/0OFDQdCZNmSNLyS79IWQlw"
+    },
+    {
+      "album": {
+        "name": "Playsafe",
+        "url": "https://open.spotify.com/album/7ix2zcaZk5DNmIkX8p11CX"
+      },
+      "artists": [
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Playsafe",
+      "url": "https://open.spotify.com/track/1Ni0egtEbIUHSFrgJ1AGvq"
     },
     {
       "album": {
@@ -1887,6 +1931,28 @@
       "duration_ms": 236842,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/6z6qqKOLvJd4YDZk3sTEo7"
+    },
+    {
+      "album": {
+        "name": "tama + mali",
+        "url": "https://open.spotify.com/album/5S3A8CskLxn28BprfXVDYs"
+      },
+      "artists": [
+        {
+          "name": "Dreycruz",
+          "url": "https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf"
+        },
+        {
+          "name": "Teys",
+          "url": "https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205807,
+      "name": "tama + mali",
+      "url": "https://open.spotify.com/track/133dS5ZbtUVkaRdjJ9RJnI"
     },
     {
       "album": {

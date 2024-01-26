@@ -1,12 +1,12 @@
 {
   "description": "HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion",
-  "num_followers": 35119,
+  "num_followers": 35117,
   "original_name": "I Love My HBCU",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDhkNzZhODVmOTJkYjgyY2RmNmQ1YWMzNTkxNDQyZmFmYTVjZWM0",
+  "snapshot_id": "MCxkOTI2NzRjZmJkZjI0YjM2ZDAzMDUxYWViZDhkZjg4MjE2MzllZmZh",
   "tracks": [
     {
       "added_at": "2021-11-12 05:01:00",
@@ -518,6 +518,10 @@
         {
           "name": "F.L.Y. (Fast Life Yungstaz)",
           "url": "https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr"
+        },
+        {
+          "name": "Easton",
+          "url": "https://open.spotify.com/artist/78k3njwzksywc3rWTY7ZYN"
         }
       ],
       "duration_ms": 249920,

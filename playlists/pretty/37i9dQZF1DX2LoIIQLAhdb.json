@@ -1,31 +1,31 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : JEY BROWNIE",
-  "num_followers": 171188,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "num_followers": 171248,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2Y5NDRiNTMyOTRlMmJjMTU1YWI4MTllMzI3NDA3NDcyYmEyYWMz",
+  "snapshot_id": "MCw2NzExZTRkOTU3OWYwNDkwMDUxNDA1YmM4YTJiYzNkM2Q1ZmQ3NTQy",
   "tracks": [
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Dans l'\u00e2me - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ZYw8uJ18yrygOWPeMhnO1"
+        "name": "Si t'es pas l\u00e0",
+        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
       },
       "artists": [
         {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 197418,
-      "name": "Dans l'\u00e2me - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1hfC7uB2OPnuaxeKk46NjJ"
+      "duration_ms": 197000,
+      "name": "Si t'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Citadelle",
         "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Luva",
         "url": "https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "TPMP",
-        "url": "https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "TPMP",
-      "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "era 24",
         "url": "https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL"
@@ -117,7 +101,23 @@
       "url": "https://open.spotify.com/track/2iU2zIwf1swwLUTMLkb5NN"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Terminer",
+        "url": "https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "duration_ms": 183312,
+      "name": "Terminer",
+      "url": "https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Dans La Chambre / Money",
         "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "TPMP",
+        "url": "https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "TPMP",
+      "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ghetto",
         "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
@@ -153,47 +169,7 @@
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "ATHENA",
-        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Pardonne-moi",
-      "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "La guitare suit la m\u00e9lo",
-        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "La guitare suit la m\u00e9lo",
-      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Ton ami",
         "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
@@ -213,7 +189,63 @@
       "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "La guitare suit la m\u00e9lo",
+        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "La guitare suit la m\u00e9lo",
+      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Pardonne-moi",
+      "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Dans l'\u00e2me - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5ZYw8uJ18yrygOWPeMhnO1"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "duration_ms": 197418,
+      "name": "Dans l'\u00e2me - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1hfC7uB2OPnuaxeKk46NjJ"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR"
@@ -229,87 +261,7 @@
       "url": "https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Au suivant",
-        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 199123,
-      "name": "Au suivant",
-      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Hokage",
-        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Coco & Chanel",
-      "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "ATHENA",
-        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 191416,
-      "name": "Warda",
-      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "si j'avais pu",
-        "url": "https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P"
-      },
-      "artists": [
-        {
-          "name": "Iliana",
-          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "si j'avais pu",
-      "url": "https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "D\u00e9lire (feat. Tiakola)",
         "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
@@ -329,23 +281,71 @@
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Baby Love",
-        "url": "https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty"
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
       "artists": [
         {
-          "name": "Marwa Loud",
-          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 180166,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7"
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Hokage",
+        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Coco & Chanel",
+      "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 191416,
+      "name": "Warda",
+      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
@@ -365,59 +365,7 @@
       "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Parler de nous",
-        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Parler de nous",
-      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        },
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
@@ -437,7 +385,103 @@
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Baby Love",
+        "url": "https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "duration_ms": 180166,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Au suivant",
+        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 199123,
+      "name": "Au suivant",
+      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Love de la mauvaise personne",
+        "url": "https://open.spotify.com/album/3ybapyASfgy9qWd0rnYe1t"
+      },
+      "artists": [
+        {
+          "name": "Wilson",
+          "url": "https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Love de la mauvaise personne",
+      "url": "https://open.spotify.com/track/25pkIqvn5WJFEPD84ab765"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Parler de nous",
+        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Parler de nous",
+      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Ma s\u0153ur",
+        "url": "https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Ma s\u0153ur",
+      "url": "https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Plus Comme Avant (R\u00e9edition)",
+        "url": "https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Bonnie&Clyde",
         "url": "https://open.spotify.com/album/4EJCeQzdtExY1ArvP3W5ut"
@@ -457,87 +501,23 @@
       "url": "https://open.spotify.com/track/3PzpCEHGVAfjZPb0jka2L1"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Quelqu'un d'autre",
-        "url": "https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn"
       },
       "artists": [
         {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
         }
       ],
-      "duration_ms": 181224,
-      "name": "Quelqu'un d'autre",
-      "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
+      "duration_ms": 180040,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "PSG OM (QUAND T\u2019ES IVRE)",
-        "url": "https://open.spotify.com/album/5u8SX1dpN4wONPYmRQu5QH"
-      },
-      "artists": [
-        {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "PSG OM (QUAND T\u2019ES IVRE)",
-      "url": "https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Ma s\u0153ur",
-        "url": "https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Ma s\u0153ur",
-      "url": "https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "On sait jamais",
-        "url": "https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL"
-      },
-      "artists": [
-        {
-          "name": "Driks",
-          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
-        }
-      ],
-      "duration_ms": 168998,
-      "name": "On sait jamais",
-      "url": "https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Love de la mauvaise personne",
-        "url": "https://open.spotify.com/album/3ybapyASfgy9qWd0rnYe1t"
-      },
-      "artists": [
-        {
-          "name": "Wilson",
-          "url": "https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Love de la mauvaise personne",
-      "url": "https://open.spotify.com/track/25pkIqvn5WJFEPD84ab765"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "TRASH",
         "url": "https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8"
@@ -557,71 +537,23 @@
       "url": "https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Plus Comme Avant (R\u00e9edition)",
-        "url": "https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy"
+        "name": "Japonais",
+        "url": "https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV"
       },
       "artists": [
         {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
         }
       ],
-      "duration_ms": 184253,
-      "name": "Insomnie",
-      "url": "https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz"
+      "duration_ms": 165078,
+      "name": "Japonais",
+      "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/7sWLVrQIi4JujdLhuNmdXB"
-      },
-      "artists": [
-        {
-          "name": "Dieson Samba",
-          "url": "https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki"
-        }
-      ],
-      "duration_ms": 146363,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Manipuler",
-        "url": "https://open.spotify.com/album/56QZ4sVP7l63GykMdGp9wh"
-      },
-      "artists": [
-        {
-          "name": "Iliana",
-          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
-        }
-      ],
-      "duration_ms": 156144,
-      "name": "Manipuler",
-      "url": "https://open.spotify.com/track/0cyOhlRd9F8PHyqHEKeiTg"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "One Shot",
         "url": "https://open.spotify.com/album/3ckCqfuPbJrufOimBv51mh"
@@ -645,23 +577,55 @@
       "url": "https://open.spotify.com/track/0xg5ABhF24UFZ20SUntmMu"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Japonais",
-        "url": "https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV"
+        "name": "Quelqu'un d'autre",
+        "url": "https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh"
       },
       "artists": [
         {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
         }
       ],
-      "duration_ms": 165078,
-      "name": "Japonais",
-      "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
+      "duration_ms": 181224,
+      "name": "Quelqu'un d'autre",
+      "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "si j'avais pu",
+        "url": "https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "si j'avais pu",
+      "url": "https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "PSG OM (QUAND T\u2019ES IVRE)",
+        "url": "https://open.spotify.com/album/5u8SX1dpN4wONPYmRQu5QH"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "PSG OM (QUAND T\u2019ES IVRE)",
+      "url": "https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Body call",
         "url": "https://open.spotify.com/album/4cIUnkPLcnsoFLLzJbyuNX"
@@ -677,7 +641,7 @@
       "url": "https://open.spotify.com/track/6BEBGfPaust05aYwizTSXO"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Coeur froid",
         "url": "https://open.spotify.com/album/56jucH9s6rmLITqM7N9Ejl"
@@ -693,7 +657,7 @@
       "url": "https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb"
     },
     {
-      "added_at": "2024-01-18 23:00:00",
+      "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "4 SEASONS - WINTER",
         "url": "https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz"
@@ -707,6 +671,38 @@
       "duration_ms": 201423,
       "name": "Ex",
       "url": "https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7sWLVrQIi4JujdLhuNmdXB"
+      },
+      "artists": [
+        {
+          "name": "Dieson Samba",
+          "url": "https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki"
+        }
+      ],
+      "duration_ms": 146363,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "On sait jamais",
+        "url": "https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL"
+      },
+      "artists": [
+        {
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        }
+      ],
+      "duration_ms": 168998,
+      "name": "On sait jamais",
+      "url": "https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD"
     }
   ],
   "unique_name": "R&Bae",

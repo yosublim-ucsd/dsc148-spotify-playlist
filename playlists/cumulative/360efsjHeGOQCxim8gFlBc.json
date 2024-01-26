@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A New Start",
+        "url": "https://open.spotify.com/album/4GsihGLmiEm1xL9k0xoUyv"
+      },
+      "artists": [
+        {
+          "name": "Eskricke",
+          "url": "https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106285,
+      "name": "A New Start",
+      "url": "https://open.spotify.com/track/3DV3yuKCQzwyi4RbeteINp"
+    },
+    {
+      "album": {
         "name": "Sketches On The Piano",
         "url": "https://open.spotify.com/album/3kXjTvTmdrbZwsPnnPmB5y"
       },
@@ -869,6 +887,28 @@
     },
     {
       "album": {
+        "name": "Moon And Stars",
+        "url": "https://open.spotify.com/album/7uNmiXM4PDnmnT2cKaNuxN"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96272,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/6amVq5NcyOSaemNYuTlt86"
+    },
+    {
+      "album": {
         "name": "Cornfield Chase",
         "url": "https://open.spotify.com/album/0rf5gS71mCIj3rvrzfKHTv"
       },
@@ -1383,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "felt",
+        "url": "https://open.spotify.com/album/3f79EHioJp9D4bIqKSowFK"
+      },
+      "artists": [
+        {
+          "name": "Amin Hadzic",
+          "url": "https://open.spotify.com/artist/1XlzIatmp0z1TfbIo4KyyS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109276,
+      "name": "felt",
+      "url": "https://open.spotify.com/track/7xZB8euTu7aVA9vmWgNLdV"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Darker (Crazy in Love)",
         "url": "https://open.spotify.com/album/256Agj9EYoYHzDPYQhmQNe"
       },
@@ -1446,6 +1504,24 @@
       "duration_ms": 103864,
       "name": "Floating Away",
       "url": "https://open.spotify.com/track/7GSyagbj0E9OI6mJDAPPDO"
+    },
+    {
+      "album": {
+        "name": "Flowers In The Rain",
+        "url": "https://open.spotify.com/album/1d3o2ifrtEUvVEs9SUbUek"
+      },
+      "artists": [
+        {
+          "name": "Mirko Dukanovic",
+          "url": "https://open.spotify.com/artist/7GxCVyk1AgOKTicjk8MToh"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141880,
+      "name": "Flowers In The Rain",
+      "url": "https://open.spotify.com/track/6v3kShRqCBryKDuhbONfCM"
     },
     {
       "album": {
@@ -2175,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "In Alaska",
+        "url": "https://open.spotify.com/album/0zkkjshjubqTo00hdt4zYx"
+      },
+      "artists": [
+        {
+          "name": "Joe Sinha Semple",
+          "url": "https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134454,
+      "name": "In Alaska",
+      "url": "https://open.spotify.com/track/5TY1SYSxpn2erQLfXQUONu"
+    },
+    {
+      "album": {
         "name": "In the Beginning",
         "url": "https://open.spotify.com/album/6CyDRsZPVpxJWbVsDqK1Oy"
       },
@@ -2545,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Magnetic Field",
+        "url": "https://open.spotify.com/album/2CEq9mrmY1Uj7ucJaYKRj1"
+      },
+      "artists": [
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Magnetic Field",
+      "url": "https://open.spotify.com/track/06a5nS4kTv8Tdt4c4FG4KI"
+    },
+    {
+      "album": {
         "name": "Man's Search for Meaning",
         "url": "https://open.spotify.com/album/6sZm2GdwKPWmNAPw1prRsp"
       },
@@ -2684,6 +2796,28 @@
       "duration_ms": 111455,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0d7aUcbr6SSi3FQWESwCpR"
+    },
+    {
+      "album": {
+        "name": "Moon And Stars",
+        "url": "https://open.spotify.com/album/7uNmiXM4PDnmnT2cKaNuxN"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106027,
+      "name": "Moon And Stars",
+      "url": "https://open.spotify.com/track/18VfMEkEwyQ24ctJ8PJGeB"
     },
     {
       "album": {
@@ -2947,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Eclipse in Silence",
+        "url": "https://open.spotify.com/album/3evUgcB4cEmqvJWRUdvy9c"
+      },
+      "artists": [
+        {
+          "name": "Roman Syrgi",
+          "url": "https://open.spotify.com/artist/0w8TKDcZ08oIwVbqWhxZBd"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Night on the Coast",
+      "url": "https://open.spotify.com/track/6YtJ7wd8jo0eotEuHTKITg"
+    },
+    {
+      "album": {
         "name": "Nkiru",
         "url": "https://open.spotify.com/album/5agtfkE503uIGoHgUsCtiF"
       },
@@ -2987,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "Nocturnal no. 2",
+        "url": "https://open.spotify.com/album/7qUQpjtPDsW4HYuRnwRTw0"
+      },
+      "artists": [
+        {
+          "name": "Sueno",
+          "url": "https://open.spotify.com/artist/5LqQjFKdMHRJkhIe8tC7ym"
+        },
+        {
+          "name": "Bettina Hummler",
+          "url": "https://open.spotify.com/artist/1W87kQ3emPG0HkiBBuOthS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118063,
+      "name": "Nocturnal no. 2",
+      "url": "https://open.spotify.com/track/2dhIHrVNpOTacPSABvXZNf"
+    },
+    {
+      "album": {
         "name": "nocturnal whispers",
         "url": "https://open.spotify.com/album/6NuhUO3IMr6dnUQYZlm70c"
       },
@@ -3002,6 +3176,28 @@
       "duration_ms": 124978,
       "name": "nocturnal whispers",
       "url": "https://open.spotify.com/track/4tveVtTOFUe5JqUP25g7xs"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/2B4Wvt4IKaYqe1c81AWQrn"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130393,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3dfQWHtPrSciTmrwsYqvBB"
     },
     {
       "album": {
@@ -3184,6 +3380,24 @@
       "duration_ms": 209032,
       "name": "Our Different Path",
       "url": "https://open.spotify.com/track/19jfHCIIpr896sGZUQ8e4e"
+    },
+    {
+      "album": {
+        "name": "Out To Sea",
+        "url": "https://open.spotify.com/album/6uRUDymqQEv4ZYcw1VZDNk"
+      },
+      "artists": [
+        {
+          "name": "Joe Sinha Semple",
+          "url": "https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115531,
+      "name": "Out To Sea",
+      "url": "https://open.spotify.com/track/5at4X0bNFWHzaLAwMgenpt"
     },
     {
       "album": {
@@ -4279,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "The Last Voyage",
+        "url": "https://open.spotify.com/album/3HR0bc7qxiofoC6UYUNCTq"
+      },
+      "artists": [
+        {
+          "name": "Joe Sinha Semple",
+          "url": "https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137751,
+      "name": "The Last Voyage",
+      "url": "https://open.spotify.com/track/0JjGqRnvbhSdSOjZZg1gPQ"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/0PjWlA3jt5Se7xlxLzV9S1"
       },
@@ -4297,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "The Rocking Chair",
+        "url": "https://open.spotify.com/album/2DLpYBZHZ3I2lnCHEzsO6l"
+      },
+      "artists": [
+        {
+          "name": "Emma Joseph",
+          "url": "https://open.spotify.com/artist/6OxMW3nwgj3VkwTJQc93gS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150758,
+      "name": "The Rocking Chair",
+      "url": "https://open.spotify.com/track/1I2hbKOP5ljRctFhBkOtLR"
+    },
+    {
+      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/2sNud9Y15tXDXNdbRP85tl"
       },
@@ -4312,6 +4562,24 @@
       "duration_ms": 177000,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe"
+    },
+    {
+      "album": {
+        "name": "there's always tomorrow",
+        "url": "https://open.spotify.com/album/3Gqa7xhyiqWKCqZQt0YJCX"
+      },
+      "artists": [
+        {
+          "name": "Amin Hadzic",
+          "url": "https://open.spotify.com/artist/1XlzIatmp0z1TfbIo4KyyS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153620,
+      "name": "there's always tomorrow",
+      "url": "https://open.spotify.com/track/14xyA9t4ry7pfeNI7CLQS8"
     },
     {
       "album": {
@@ -4798,6 +5066,24 @@
       "duration_ms": 133571,
       "name": "Whenever We Speak",
       "url": "https://open.spotify.com/track/6QuUbuOYC5pJsZ32Ptp7UB"
+    },
+    {
+      "album": {
+        "name": "Where The Path Ended",
+        "url": "https://open.spotify.com/album/1JlDOlxIu0XTTb2jtIwoNi"
+      },
+      "artists": [
+        {
+          "name": "Yanson",
+          "url": "https://open.spotify.com/artist/3T4foO5qUmQtPlgcgRUBn0"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118227,
+      "name": "Where The Path Ended",
+      "url": "https://open.spotify.com/track/7cafgrlVL3ECw0rIeTqFSd"
     },
     {
       "album": {

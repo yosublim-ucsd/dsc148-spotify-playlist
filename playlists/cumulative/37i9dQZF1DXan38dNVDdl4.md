@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Jada Kingdom
 
-433 songs - 21 hr 25 min
+436 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 | 2023-07-10 | 2023-08-08 |
 | [Beer & Salt](https://open.spotify.com/track/30vhkGWcpiprYS4X5XVW8U) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Beer & Salt](https://open.spotify.com/album/2QTm8eW7RPmMOS345S1KMS) | 3:01 | 2023-11-17 |  |
 | [Beethoven](https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 2:45 | 2022-07-29 | 2022-09-10 |
+| [Beg Yuh Likkle Nuh](https://open.spotify.com/track/3SgBjdDFTAqedveVGP7NiN) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [Beg Yuh Likkle Nuh](https://open.spotify.com/album/1MgqCGvM3pFtZDjC8EGTkd) | 2:31 | 2024-01-26 |  |
 | [Bend It Over](https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Bend It Over](https://open.spotify.com/album/0NfwvKG89hS98kD3dCaVX1) | 2:55 | 2023-08-07 | 2023-09-25 |
 | [Benz Punany](https://open.spotify.com/track/3zhbuPvV9RpW3RiV1s8nsb) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ragga Ragga Ragga 2011 \(Explicit Version\)](https://open.spotify.com/album/1U5D9QrLf64GVzkEL5nEUz) | 3:21 | 2023-07-10 | 2023-08-08 |
 | [Bermuda Triangle](https://open.spotify.com/track/3LwafVvOzaAsuZoMfFW9lj) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Zimi](https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA) | [Bermuda Triangle](https://open.spotify.com/album/0aCTKNGVc2GgtJxjsKYvNA) | 2:35 | 2021-12-20 | 2022-03-03 |
@@ -168,6 +169,7 @@
 | [Govern](https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Govern](https://open.spotify.com/album/33RN9MnEwqH0CwKyZgk1LD) | 3:01 | 2022-07-29 | 2022-09-10 |
 | [GPP](https://open.spotify.com/track/0RmtOpxoNLNElRhZegpzDT) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/4mdae0Af18xdeVoQoE4p1F) | 3:13 | 2023-08-07 | 2023-09-25 |
 | [GPP](https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW) | 3:13 | 2022-09-09 | 2023-11-18 |
+| [Gracias](https://open.spotify.com/track/4L71WVU6HIQMR5eO6hEqFK) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Gracias](https://open.spotify.com/album/0oJhnOX5WkTH5UQ96gNeHu) | 2:27 | 2024-01-26 |  |
 | [Guzu Bounce](https://open.spotify.com/track/06OsKaL6x760Ajlijf7cE9) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dinesty King](https://open.spotify.com/artist/7kK7bhNgnXrtXjXfN7E3Z0) | [Guzu Bounce](https://open.spotify.com/album/7rWNfWwO8N7B5f3zX7vgdv) | 2:48 | 2023-08-07 | 2023-09-25 |
 | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By) | 3:08 | 2023-01-31 | 2023-09-25 |
 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 | 2021-12-20 | 2023-08-08 |
@@ -177,6 +179,7 @@
 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 | 2021-12-20 | 2023-02-01 |
 | [Hands Up](https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Hands Up](https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u) | 2:17 | 2023-05-14 | 2023-07-11 |
 | [Happiness](https://open.spotify.com/track/3RPxsGHRBxjpLyqbjVVnsh) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Happiness](https://open.spotify.com/album/27JZOu7tCqtrRWhhmVl88Y) | 2:32 | 2022-07-29 | 2023-08-08 |
+| [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 | 2024-01-26 |  |
 | [Haters Wanna War](https://open.spotify.com/track/50AULO7SFKiI66fRTyvwL7) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Log On](https://open.spotify.com/album/2k97mA5qvogtkMcWEJzPKy) | 3:26 | 2023-07-10 | 2023-08-08 |
 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 | 2022-09-09 | 2023-08-08 |
 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 | 2021-12-20 | 2022-11-11 |

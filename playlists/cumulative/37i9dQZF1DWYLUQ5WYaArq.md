@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYLUQ5WYaArq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYLUQ5WYaArq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLUQ5WYaArq)
 
-### [Throwback Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
+### [ThrowBlak Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
 
 > Sovereign Songs\. Curator: Alethea Beetson\. Aboriginal and Torres Strait Islander listeners are advised that the following playlist  contains voices and images of people who have passed away\. Cover: Warumpi Band
 

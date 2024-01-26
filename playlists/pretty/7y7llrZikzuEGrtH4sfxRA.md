@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,424 likes - 20 songs - 1 hr 12 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,425 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 8 | [Get Tired](https://open.spotify.com/track/0OsC2OHCq07p1tYYox7sIg) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Get Tired](https://open.spotify.com/album/1HpD0OPvq67J7uz5LzDmP3) | 3:28 |
 | 9 | [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 |
 | 10 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 |
-| 11 | [Deeper Love](https://open.spotify.com/track/4GHn5psPeMauQ7DFqZQFRJ) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [Deeper Love](https://open.spotify.com/album/3bBJ0IDLcRbHnMfihxl1Cg) | 3:20 |
+| 11 | [Deeper Love](https://open.spotify.com/track/4GHn5psPeMauQ7DFqZQFRJ) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [Deeper Love](https://open.spotify.com/album/3bBJ0IDLcRbHnMfihxl1Cg) | 2:49 |
 | 12 | [Push Me](https://open.spotify.com/track/2YLFBP1f6fqBzd5wClw1R4) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Push Me](https://open.spotify.com/album/7JNAKHucV8s5R7kmqB0OYf) | 2:44 |
 | 13 | [Medellín](https://open.spotify.com/track/2vvHFPURvQsHRd7VsVT61I) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs), [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74) | [Medellín](https://open.spotify.com/album/5sBLDjkub44Tqr4NYAQcQg) | 3:30 |
 | 14 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Ella Balinska](https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 |

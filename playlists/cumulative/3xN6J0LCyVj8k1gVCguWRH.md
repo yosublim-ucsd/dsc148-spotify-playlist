@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,896 songs - 6 day 21 hr 15 min
+2,897 songs - 6 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1619,6 +1619,7 @@
 | [Mean't For Something More](https://open.spotify.com/track/5mq6GzYKpbZ1z16EQXmYGC) | [Hannah Whitmore Foxx](https://open.spotify.com/artist/3zC0qowBvz5QXwnrbndaEQ) | [Mean't For Something More](https://open.spotify.com/album/4ZMfDFMyi9WAfXQu7z5vhL) | 3:53 | 2023-01-21 | 2023-02-24 |
 | [Meaningless](https://open.spotify.com/track/4XdDQHEbOJxHAejxcakgnb) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T) | [Meaningless](https://open.spotify.com/album/3dmzCusx3P5VNSSkurop94) | 2:58 | 2020-11-06 | 2020-12-19 |
 | [Meant](https://open.spotify.com/track/0MRsTLHZv9zDEbYhAnWuvq) | [Aaries](https://open.spotify.com/artist/2hfPo38uVGaKcxfOpqJwf8) | [Meant](https://open.spotify.com/album/4Ve0b9jAMM3Rj5SJAlw9NF) | 4:38 | 2023-03-22 | 2023-04-13 |
+| [Meant To Be](https://open.spotify.com/track/1kJRESx6MpGUnxENwvM16d) | [AhhWoo](https://open.spotify.com/artist/5dzSUiI5kNti4Yt8J2LnKn) | [Meant To Be](https://open.spotify.com/album/5rp3vZxHMdOcTRLncm2Zhg) | 2:47 | 2024-01-25 |  |
 | [Meant To Be](https://open.spotify.com/track/3DnMvc5dGvO6Pph4ArKLII) | [zaj](https://open.spotify.com/artist/1kHxRr01RsYGArfE6nH88h) | [Meant To Be](https://open.spotify.com/album/1VwwC8EF8R3KOcRBqXjjc7) | 3:13 | 2023-06-13 | 2023-07-02 |
 | [Mecca \(with JID & EARTHGANG\)](https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:50 | 2021-07-12 | 2021-11-19 |
 | [Medallo Hasta Que Amanezca](https://open.spotify.com/track/4gY7omGhgRfr7Aw3ASSLel) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Zuka](https://open.spotify.com/artist/6vWQcaBGWm1ubEviD1eS9y) | [Medallo Hasta Que Amanezca](https://open.spotify.com/album/5EJEaS4eDDL5AgHfW8etLV) | 3:46 | 2023-06-23 | 2023-07-14 |
@@ -2119,7 +2120,7 @@
 | [Run It Back](https://open.spotify.com/track/6SeiCfnZnNU5AQbRyhuS7c) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Run It Back](https://open.spotify.com/album/7rrtrAPUSWWuPDeb3QWNNo) | 3:08 | 2023-01-06 | 2023-01-28 |
 | [Run This Town](https://open.spotify.com/track/7cWgRe8WcttntZpo02APvj) | [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [Run This Town](https://open.spotify.com/album/3j437642y1aVymhEeGMbp2) | 2:40 | 2021-06-04 | 2021-06-20 |
 | [runnin away](https://open.spotify.com/track/0hcFi3MlfVYiKrzykJCJET) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Monterey Village](https://open.spotify.com/album/7fi7G2xIoMwv6nR3Ht73rz) | 3:58 | 2022-09-02 | 2022-09-18 |
-| [Running](https://open.spotify.com/track/4hpoP9wWSIZCfZ55aitqPI) | [asek](https://open.spotify.com/artist/4ph8BtanJv4oBtnJn7mAfS), [Mbalie](https://open.spotify.com/artist/13eeWu1X2KuHQE1drTGJ6R) | [Running](https://open.spotify.com/album/6KRj7jW8guk1KiW2XDkJjr) | 2:55 | 2024-01-18 |  |
+| [Running](https://open.spotify.com/track/4hpoP9wWSIZCfZ55aitqPI) | [asek](https://open.spotify.com/artist/4ph8BtanJv4oBtnJn7mAfS), [Mbalie](https://open.spotify.com/artist/13eeWu1X2KuHQE1drTGJ6R) | [Running](https://open.spotify.com/album/6KRj7jW8guk1KiW2XDkJjr) | 2:55 | 2024-01-18 | 2024-01-26 |
 | [Running](https://open.spotify.com/track/7sDFh370cLHqPRm5qx1ySO) | [M\-I\-N\-O\-S](https://open.spotify.com/artist/7CTPgjLDoBPzH7t0cRsOX0) | [Running](https://open.spotify.com/album/4ppzMJQMiAh39ZIUUSxxrv) | 2:33 | 2023-05-05 | 2023-05-27 |
 | [Running Amok](https://open.spotify.com/track/4mIwW39iXnO6INUvc5XLmS) | [Marcus Fakler](https://open.spotify.com/artist/5rXuOy1QxmIhvXWkXeLQpx) | [Running Amok](https://open.spotify.com/album/1ZSDMlyJUmNlmQ7bxgUD3f) | 4:15 | 2023-05-26 | 2023-06-17 |
 | [Running In A Haze](https://open.spotify.com/track/05i4L61diB9HlE1laOwSVE) | [Jasmine Thakral](https://open.spotify.com/artist/7e38SpIm3bG3aRfIAIC2f1) | [Running In A Haze](https://open.spotify.com/album/1L7PLQyEA9zaBOPp8HuQZi) | 2:39 | 2021-08-21 | 2021-09-06 |

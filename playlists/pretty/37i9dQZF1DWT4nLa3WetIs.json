@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 141616,
+  "num_followers": 141787,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTlhMzE5ZGEwMjVhZWI5OWY0MzdlNjk5YmIyZGY4MzAwOGFlOTdj",
+  "snapshot_id": "MCw0ZjUyNmVmODIxMTZlZTM1NzA5OWQ4MzdjOGZhMTY4YmQ3OWNmNzBj",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "D'kings Men",
+        "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "D'kings Men",
-        "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "On A Spaceship",
-        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Soke",
-      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Least Expected",
         "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 218426,
       "name": "Yori Yori",
       "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Soke",
+      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -499,22 +499,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Da Revolution",
-        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Kiss Your Hand (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+      "duration_ms": 247453,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -535,18 +531,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "R & BW",
-        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
+        "name": "Da Revolution",
+        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
       },
       "artists": [
         {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 247453,
-      "name": "Yes/No",
-      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
+      "duration_ms": 268213,
+      "name": "Kiss Your Hand (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
     },
     {
       "added_at": "2020-11-06 13:21:21",

@@ -1,7 +1,7 @@
 {
-  "2024-01-25": 167204,
+  "2024-01-26": 167327,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Douvelle19. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Ninajirachi. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 160645,
       "name": "AIGHT",
       "url": "https://open.spotify.com/track/2fzPSwysNHv9f7Z4XeBbNb"
@@ -2676,6 +2676,24 @@
     },
     {
       "album": {
+        "name": "BANANAS",
+        "url": "https://open.spotify.com/album/0AcsHt2hJ7RFFC96y7KLTL"
+      },
+      "artists": [
+        {
+          "name": "PUMP!",
+          "url": "https://open.spotify.com/artist/5Lf6UvtlHP3ZIsZwE31ZuC"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "BANANAS",
+      "url": "https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N"
+    },
+    {
+      "album": {
         "name": "Bangalore Girl",
         "url": "https://open.spotify.com/album/2caJPIatHrvo22ijTShEHD"
       },
@@ -4086,6 +4104,24 @@
     },
     {
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/1wl4Y5IoChQlo4qjdjZjpj"
       },
@@ -4431,7 +4467,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 166615,
       "name": "Bringing Me Joy - Hutcher Remix",
       "url": "https://open.spotify.com/track/05DtOBax1OjnbiAkftPSDq"
@@ -4623,7 +4659,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 299387,
       "name": "Bullet Train To Paris",
       "url": "https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD"
@@ -4895,7 +4931,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 253702,
       "name": "Camelia",
       "url": "https://open.spotify.com/track/1p39reyT7Qmcq1lIYFe2rA"
@@ -5904,6 +5940,24 @@
     },
     {
       "album": {
+        "name": "Closer To",
+        "url": "https://open.spotify.com/album/03mjx1vk9UK8wrWchrcIIL"
+      },
+      "artists": [
+        {
+          "name": "Keenan Mathias",
+          "url": "https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291555,
+      "name": "Closer To",
+      "url": "https://open.spotify.com/track/0Qgf2ph6bYXC0qqrNBdySz"
+    },
+    {
+      "album": {
         "name": "Closer to the Edge",
         "url": "https://open.spotify.com/album/36Pyo7y3IncfFvjx8gBbeV"
       },
@@ -6249,7 +6303,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 168461,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
@@ -18447,7 +18501,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 175993,
       "name": "Let UwU Go",
       "url": "https://open.spotify.com/track/3QSBy7qDcKaBCCLxNCvSRe"
@@ -22400,6 +22454,28 @@
     },
     {
       "album": {
+        "name": "Ninacamina",
+        "url": "https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187494,
+      "name": "Ninacamina",
+      "url": "https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY"
+    },
+    {
+      "album": {
         "name": "nintendo 64",
         "url": "https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR"
       },
@@ -25788,6 +25864,24 @@
     },
     {
       "album": {
+        "name": "Ratatataaaa",
+        "url": "https://open.spotify.com/album/13kgDXNzpXIdJ362R5gCfM"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bligh",
+          "url": "https://open.spotify.com/artist/0Y75S0g79Dn6tS9NVv7Yna"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390720,
+      "name": "Ratatataaaa",
+      "url": "https://open.spotify.com/track/1Dx5v8hQ4RMWuNRTbS1UNC"
+    },
+    {
+      "album": {
         "name": "axiom (Remixes)",
         "url": "https://open.spotify.com/album/4S9qtWL9g5ImgVL7pMcHu9"
       },
@@ -28052,6 +28146,28 @@
     },
     {
       "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "album": {
         "name": "Um Yo",
         "url": "https://open.spotify.com/album/6Bc6TM6Pc2lrDI2vj5AF0z"
       },
@@ -28441,7 +28557,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 181173,
       "name": "so cold",
       "url": "https://open.spotify.com/track/3WN37jy92FcsxyLSebdnQm"
@@ -30072,6 +30188,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150117,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
+    },
+    {
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/2OJP59RUbFM6t3CaEseMj2"
       },
@@ -30427,7 +30561,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 242637,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
@@ -32198,6 +32332,24 @@
     },
     {
       "album": {
+        "name": "Thinking Of U",
+        "url": "https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl"
+      },
+      "artists": [
+        {
+          "name": "Attic Beats",
+          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Thinking Of U",
+      "url": "https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY"
+    },
+    {
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN"
       },
@@ -33481,6 +33633,24 @@
       "duration_ms": 230988,
       "name": "Undertage",
       "url": "https://open.spotify.com/track/1lFClfip3Vf7bJP0i0oB10"
+    },
+    {
+      "album": {
+        "name": "Undo U (4x4 Mix)",
+        "url": "https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184835,
+      "name": "Undo U - 4x4 Mix",
+      "url": "https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7"
     },
     {
       "album": {
@@ -34836,6 +35006,24 @@
     },
     {
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150639,
+      "name": "What She Said",
+      "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
+    },
+    {
+      "album": {
         "name": "what u like",
         "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
       },
@@ -35581,6 +35769,28 @@
       "duration_ms": 337920,
       "name": "WRONG",
       "url": "https://open.spotify.com/track/5vvEecaHtonA2AiBR2L7vW"
+    },
+    {
+      "album": {
+        "name": "Wut I Gotta Fix?!",
+        "url": "https://open.spotify.com/album/4S69ePIPsia30AvR4hTyo9"
+      },
+      "artists": [
+        {
+          "name": "Ravi Kuma",
+          "url": "https://open.spotify.com/artist/2rmq8jyOQONkcsrcgPG93K"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138210,
+      "name": "Wut I Gotta Fix?!",
+      "url": "https://open.spotify.com/track/0fKmluUwFJfmAaDYihcuxj"
     },
     {
       "album": {

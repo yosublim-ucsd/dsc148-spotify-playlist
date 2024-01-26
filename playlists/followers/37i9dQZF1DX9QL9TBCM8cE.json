@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 25063,
+  "2024-01-26": 25086,
   "date_first_scraped": "2022-11-30",
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
   "name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
@@ -39,6 +39,24 @@
       "duration_ms": 233906,
       "name": "Ambitious Eve - 25 colors",
       "url": "https://open.spotify.com/track/6Zr3DzJBYhp71PZ0WbqW7j"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism Ashita mo Beautiful Day / Hadashi ja Irarenai (ALSTROEMERIA Version)",
+        "url": "https://open.spotify.com/album/26k6PevjW9PdtDT09ItuI8"
+      },
+      "artists": [
+        {
+          "name": "Alstroemeria",
+          "url": "https://open.spotify.com/artist/2TUQrtf67sc2waXM4xrb0I"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Ashita mo Beautiful Day",
+      "url": "https://open.spotify.com/track/2ATsPqprRxCYYxF0phmvNW"
     },
     {
       "album": {
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 230933,
       "name": "Damascus Cocktail",
       "url": "https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP"
@@ -327,6 +345,24 @@
       "duration_ms": 226433,
       "name": "Give me some more...",
       "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism Hadashi ja Irarenai / Ashita mo Beautiful Day (HO-KA-GO CLIMAX GIRLS Version)",
+        "url": "https://open.spotify.com/album/3F8bO0WuL7eZx3dbHiEBq7"
+      },
+      "artists": [
+        {
+          "name": "HO-KA-GO CLIMAX GIRLS",
+          "url": "https://open.spotify.com/artist/2wLhH9ELWfeLtPWtAZOApl"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Hadashi ja Irarenai",
+      "url": "https://open.spotify.com/track/3D4BcgYsmpTDDyxJKf0wbV"
     },
     {
       "album": {
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 262386,
       "name": "\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u30fb\u30a2\u30f3\u30d6\u30ec\u30e9 - 2022 Version",
       "url": "https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0"
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 288440,
       "name": "\u30e9\u30d6\u30fb\u30dc\u30ca\u30da\u30c6\u30a3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/0Mr2zkWpiKi3ygTicq0vZM"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 264146,
       "name": "\u660e\u65e5\u3082Beautiful Day",
       "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
@@ -1989,7 +2025,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 265173,
       "name": "\u76f8\u5408\u5b66\u820e",
       "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"
@@ -2313,7 +2349,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 213346,
       "name": "\u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4",
       "url": "https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq"

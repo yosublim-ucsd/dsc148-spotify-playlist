@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-111 songs - 8 hr 31 min
+112 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Escándaloo](https://open.spotify.com/track/6tfxuIsnTI3hzvU881DcJk) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Escándaloo](https://open.spotify.com/album/5y6Vap8YFjMmbm1bI0h1kz) | 4:49 | 2023-09-29 |  |
 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 | 2023-09-29 |  |
 | [F22](https://open.spotify.com/track/4NM45sK65OBAqXeWjDyJ1d) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:38 | 2023-10-27 |  |
-| [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 | 2023-09-29 |  |
+| [Foxes](https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:15 | 2023-10-27 |  |
+| [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 | 2023-09-29 | 2024-01-26 |
 | [Friday Night \- Radio Edit](https://open.spotify.com/track/4uQsXtL7L3o8hUn41Ehz5I) | [Le Boom](https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp), [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Friday Night](https://open.spotify.com/album/6KyKEYPTXaVt5QQrN6gTIB) | 2:52 | 2023-09-29 |  |
 | [Fuzzy Logic](https://open.spotify.com/track/4ubDv9q3yVbbGAoz9ZGRoh) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic](https://open.spotify.com/album/68wP91Oeg2JGajy5rOpFze) | 6:29 | 2023-09-29 |  |
 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 | 2023-09-29 |  |

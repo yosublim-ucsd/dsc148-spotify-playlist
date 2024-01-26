@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Solar\(솔라\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kwak Jin Eon\(곽진언\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,139 songs - 3 day 1 hr 44 min
+1,142 songs - 3 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/track/0qra3sEPOw2fLrXzyr5l0k) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/album/45JhwZbI1ZraQWnGWhFCk9) | 4:48 | 2022-01-03 | 2022-04-20 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-03-08 |
 | [Best Friend \(with SEULGI\)](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 3:30 | 2021-12-23 | 2022-06-22 |
+| [Better](https://open.spotify.com/track/54nRNzhHNi8xL53obahC0o) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Short Pieces \(Studio Live\)](https://open.spotify.com/album/0Ed1Cb804BKKJQKZHWhARy) | 4:22 | 2024-01-25 |  |
 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 | 2021-12-23 | 2022-07-05 |
 | [Better together \(with O.WHEN\)](https://open.spotify.com/track/3AiDXwi809AyT7pKUfqUJY) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Wish.zip \(1\)](https://open.spotify.com/album/3nHdBxVCmwSbZE45N8fphQ) | 4:08 | 2022-11-22 | 2023-01-21 |
 | [Between Us](https://open.spotify.com/track/2ztOFhdIuhY4Ee1RmqBLZG) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/1Rxo7snNPsZ9lE9JidXbLb) | 4:01 | 2022-03-24 | 2022-04-01 |
@@ -857,6 +858,7 @@
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
+| [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 |  |
 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 |  |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |
 | [such a man](https://open.spotify.com/track/3W1gtxKzKQR4fufWXZ670j) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [such a man](https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW) | 4:23 | 2022-07-07 | 2022-09-30 |
@@ -937,6 +939,7 @@
 | [The way I love you](https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Oh, Boy! OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q) | 3:54 | 2023-04-26 | 2023-09-12 |
 | [The way we were](https://open.spotify.com/track/1s2qz1ehVyS5EdCgt427hL) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [The way we were](https://open.spotify.com/album/5ja9Rqpzs5Y0Q0P6VBKADE) | 4:18 | 2023-02-08 | 2023-04-27 |
 | [The Wind Blows](https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Sing Forest Part.1](https://open.spotify.com/album/53wnkkDyLjZLpdRBR9iP0i) | 3:48 | 2022-03-31 | 2022-04-13 |
+| [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 | 2024-01-25 |  |
 | [The Youngest Day](https://open.spotify.com/track/2eV326QQILReuueEekaIcF) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [me](https://open.spotify.com/album/4GN22bZVPpEqwPsIf2uwEh) | 3:51 | 2022-01-17 | 2022-05-24 |
 | [There For You](https://open.spotify.com/track/4D3Wo2n0MuTT0DL0zKFGFI) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0FVboRKTx9X0g0ywM3GlbY) | 3:40 | 2023-05-05 | 2023-05-16 |
 | [Things I can't say](https://open.spotify.com/track/7yr9lrXkhVIjS1hikFtYwE) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Things I can't say](https://open.spotify.com/album/62LHGC6GR8AZnojUx5oSEc) | 4:09 | 2023-11-02 |  |

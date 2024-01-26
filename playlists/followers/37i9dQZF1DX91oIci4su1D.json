@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 812390,
+  "2024-01-26": 812485,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -2617,6 +2617,24 @@
       "duration_ms": 495599,
       "name": "Cassini",
       "url": "https://open.spotify.com/track/2xE2KgloGwFiKvyISkMSJp"
+    },
+    {
+      "album": {
+        "name": "Catch",
+        "url": "https://open.spotify.com/album/5NnjMNuQGs4IdrmE5lgCRh"
+      },
+      "artists": [
+        {
+          "name": "Davey Asprey",
+          "url": "https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200434,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/68bVU37B5M7iWivhixMvqZ"
     },
     {
       "album": {
@@ -8317,7 +8335,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"

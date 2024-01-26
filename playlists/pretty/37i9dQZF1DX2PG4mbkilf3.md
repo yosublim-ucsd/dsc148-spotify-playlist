@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Chikoruss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,114 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,201 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 82 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 |
 | 83 | [1 Room](https://open.spotify.com/track/5yHNaGpYlw0DKhd178cHaZ) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [1 Room](https://open.spotify.com/album/7vJxVzSCgWOOH26gwjwrLk) | 2:17 |
 | 84 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 |
-| 85 | [JUST LIKE CANDY](https://open.spotify.com/track/2HGMJumlVE3cN88AT3q9F9) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1) | 2:40 |
+| 85 | [JUST LIKE CANDY](https://open.spotify.com/track/2F67eoAIARJ6E9FdhoxOYV) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/4naBKZx2cng8JXWnLZ8LE3) | 2:40 |
 | 86 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 |
 | 87 | [Sovereignty](https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Sovereignty](https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0) | 3:08 |
 | 88 | [Mirage](https://open.spotify.com/track/3tRqKrFc94pUhbN1MCxpYR) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Mirage](https://open.spotify.com/album/3Xq8VGN9DjmjfoTfC7GYbJ) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 | 100 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 
-Snapshot ID: `MCxmNWVjMmVkZmVhY2UzNTdjNWU5MzdmZDhhY2U4MWYwMDdhM2ViMDRl`
+Snapshot ID: `MCxkYzZjMWNiM2Y4OTA5MzVlNWI5OGJjOGRkM2E1N2M4NjVhMDBiNzkw`

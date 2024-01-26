@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-158 songs - 10 hr 11 min
+160 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Respect](https://open.spotify.com/track/2oTG8Q2sfX9YFo8rBniHAL) | [with\(cv.八島さらら、渕上舞\)](https://open.spotify.com/artist/0Br5envwtW1V44ZOhsAT25) | [Respect\(TVアニメ『アイドル事変』エンディングテーマ\)](https://open.spotify.com/album/1JeEBEPjp9IXR5CDtzZLWE) | 4:03 | 2022-05-10 |  |
 | [River](https://open.spotify.com/track/0BnZkjhy6D3e93pkhnn0KK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/7Gy7omqC8rjuXKjVyZeTUU) | 3:18 | 2023-04-25 |  |
 | [Sacrifice](https://open.spotify.com/track/73edp4NGGZZJgrtt6qxlHT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Kagurairo Artifact](https://open.spotify.com/album/3BpVEPWTPrxBXREO0uxHVC) | 4:14 | 2022-05-10 |  |
+| [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-25 |  |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-05-10 |  |
 | [Stay With Me](https://open.spotify.com/track/1PDVm6rKyLr4wsajScEoip) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [HOPE](https://open.spotify.com/album/1V7imbavVbdl9137lsY5v4) | 4:42 | 2022-05-10 |  |
 | [SYMPHONIA](https://open.spotify.com/track/5D8kbbSQyvh3oOi0K4SvnT) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [SYMPHONIA](https://open.spotify.com/album/5EDJegayYtXQxbfm1mpQww) | 4:31 | 2022-05-10 |  |
@@ -98,6 +99,7 @@
 | [ぬふっとてーきゅうポトラッチ](https://open.spotify.com/track/4b97JiQwit48h8Vn2psTkL) | [Naive](https://open.spotify.com/artist/6mzWUjHwPOYQdKNMQTQmDz) | [てーきゅうBEST](https://open.spotify.com/album/19OuaVZecS5k2SUHwiRDVs) | 3:23 | 2022-05-10 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-05-10 |  |
 | [まっさら](https://open.spotify.com/track/3ZlbFeHjcbZOX43v4peFWZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [まっさら](https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp) | 4:54 | 2022-05-10 |  |
+| [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-01-25 |  |
 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 | 2022-05-10 |  |
 | [サクリファイス](https://open.spotify.com/track/45oVY6oQcKsMmRhacvLhsG) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [サクリファイス](https://open.spotify.com/album/1h1aMRQtp8vDVOMKxwXFPc) | 4:15 | 2022-05-10 | 2022-07-29 |
 | [スタンドバイミー](https://open.spotify.com/track/053ydqZPlzfOkFsRmY8SNL) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [スタンドバイミー](https://open.spotify.com/album/6vU96iKokwWo07rK08BoNm) | 4:37 | 2022-05-10 |  |

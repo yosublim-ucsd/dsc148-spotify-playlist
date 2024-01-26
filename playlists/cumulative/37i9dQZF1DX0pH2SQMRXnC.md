@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-667 songs - 1 day 14 hr 33 min
+668 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Caprice](https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW) | [Malua](https://open.spotify.com/artist/4aN3I8HO6usYdQEYYTOx0D) | [Caprice](https://open.spotify.com/album/5gpXqeY7nz0TalU07U81Rj) | 2:39 | 2021-12-16 | 2022-11-14 |
 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 | 2023-01-19 | 2023-03-31 |
 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 | 2023-01-27 | 2023-06-05 |
-| [Catch Me If You Can](https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/50zQ5S9Ss52dc5iVW3fGIh) | 2:25 | 2023-11-09 |  |
+| [Catch Me If You Can](https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/50zQ5S9Ss52dc5iVW3fGIh) | 2:25 | 2023-11-09 | 2024-01-26 |
 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 | 2023-08-16 | 2023-11-03 |
 | [Champion](https://open.spotify.com/track/3gDpNo17M8tOu9M0ZbeBMn) | [Seizmic](https://open.spotify.com/artist/2fMGGRQnlvjjRqI7VQ7FTe), [Maxxus](https://open.spotify.com/artist/6xwvQ8GCom0P49WddorSSS), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Champion](https://open.spotify.com/album/2zxdYcTqpkJSt8l0g1e372) | 4:05 | 2021-12-16 | 2022-05-17 |
 | [Chaos & Crime](https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Chaos & Crime](https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA) | 3:19 | 2023-04-25 | 2023-12-15 |
@@ -193,6 +193,7 @@
 | [Feel So Good](https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Feel So Good](https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g) | 3:35 | 2023-05-11 |  |
 | [Feels](https://open.spotify.com/track/6WBjSkw1bTrzcaDCBCOFq5) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [Feels](https://open.spotify.com/album/0sCJDfoiXcrpoxa52ZpbN9) | 3:02 | 2022-03-24 | 2022-04-20 |
 | [Fight As One](https://open.spotify.com/track/4qJaSXeOW28mgxHFRQ87nF) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Fight As One](https://open.spotify.com/album/1t7u0XjpqVVZSY8bjVbxGv) | 4:23 | 2021-12-16 | 2022-07-29 |
+| [Fight Fire With Fire](https://open.spotify.com/track/0qJSS2q0Ch4KrVqSMJXYj3) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Fight Fire With Fire](https://open.spotify.com/album/6oKINzLGrSfWVI3mgavP2m) | 3:55 | 2024-01-18 |  |
 | [Fight Fire With Fire](https://open.spotify.com/track/5gx01lJITvmrz2oMnv87qW) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Fight Fire With Fire](https://open.spotify.com/album/3reGvrjIa4ybvOwC6UZYtg) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [Fight Fire With Fire](https://open.spotify.com/track/6CfSkSgeS4qR7EucYNfpIY) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Fight Fire With Fire](https://open.spotify.com/album/5eRNQuSYx92bP7kol91kJD) | 3:55 | 2022-07-22 | 2024-01-19 |
 | [Fight For Something](https://open.spotify.com/track/4v0pQjXKhn23KCOymfoSsh) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Show Your True Colors](https://open.spotify.com/album/5jVqEmzWDbBcZml7XNcjvu) | 3:19 | 2021-12-16 | 2023-01-03 |

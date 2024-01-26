@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-82 songs - 7 hr 8 min
+83 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Engano / Eu Tenho Muito Mais / Mina de Fé / Duas Paixões](https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Engano / Eu Tenho Muito Mais / Mina de Fé / Duas Paixões](https://open.spotify.com/album/4kiF7IMpJrG4rzMvrtKPbV) | 6:59 | 2023-12-29 |  |
 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 | 2023-12-29 |  |
 | [Eu Nunca Amei Assim / Meu Amor \- Ao Vivo](https://open.spotify.com/track/6fnOsjeeEP77DxSBH59TZm) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Eu Nunca Amei Assim / Meu Amor \(Ao Vivo\)](https://open.spotify.com/album/1xiALGFDoSujwJ100EHeFu) | 3:16 | 2023-12-29 |  |
-| [Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notificação Preferida / Nem É Bom Lembrar \- Ao Vivo](https://open.spotify.com/track/6CgsWxP6AGNurPYyESiGN8) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica 3 \(Ao Vivo\)](https://open.spotify.com/album/747Fi97RClOnHDROoiRR3h) | 9:32 | 2023-12-29 |  |
+| [Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notificação Preferida / Nem É Bom Lembrar \- Ao Vivo](https://open.spotify.com/track/1mNoQIdkoiczA3XQB2TU3X) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica 3 \(Ao Vivo\)](https://open.spotify.com/album/3p39TSVmw0JZpYdlS2KumB) | 9:32 | 2024-01-12 |  |
+| [Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notificação Preferida / Nem É Bom Lembrar \- Ao Vivo](https://open.spotify.com/track/6CgsWxP6AGNurPYyESiGN8) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica 3 \(Ao Vivo\)](https://open.spotify.com/album/747Fi97RClOnHDROoiRR3h) | 9:32 | 2023-12-29 | 2024-01-26 |
 | [Eu Vacilei / Preciso Viver / Na Cama \- Ao Vivo](https://open.spotify.com/track/3oLdEjZm0x46ycfdlRPYuX) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 6:45 | 2023-12-29 |  |
 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 | 2023-12-29 |  |
 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 | 2024-01-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Kyo & Nuit Incolore au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Zaho de Sagazan au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 181833,
       "name": "Compliqu\u00e9",
       "url": "https://open.spotify.com/track/3evy9O7cidfAj9wOFF5Has"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172394,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 146813,
       "name": "Holidays - Ofenbach Rework",
       "url": "https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13"
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Jusqu'au dernier (Version radio)",
+        "url": "https://open.spotify.com/album/2GDz2nLvPZHfK281ILjqfw"
+      },
+      "artists": [
+        {
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Jusqu'au dernier - Version radio",
+      "url": "https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW"
+    },
+    {
+      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167146,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA"
@@ -1108,6 +1126,24 @@
       "duration_ms": 254773,
       "name": "Le hall des d\u00e9parts",
       "url": "https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi"
+    },
+    {
+      "album": {
+        "name": "C'est dr\u00f4le la vie",
+        "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218546,
+      "name": "Les bougies",
+      "url": "https://open.spotify.com/track/4VqILOLkQsyp2ZLvTQpouZ"
     },
     {
       "album": {
@@ -1555,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
+    },
+    {
+      "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
@@ -1617,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Stigmate (Radio Edit)",
+        "url": "https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf"
+      },
+      "artists": [
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145412,
+      "name": "Stigmate - Radio Edit",
+      "url": "https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc"
+    },
+    {
+      "album": {
         "name": "Comme je suis",
         "url": "https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW"
       },
@@ -1664,7 +1736,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 236493,
       "name": "Vivre",
       "url": "https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV"
@@ -1686,6 +1758,24 @@
       "duration_ms": 156477,
       "name": "XS",
       "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"
+    },
+    {
+      "album": {
+        "name": "\u00c0 force / Charlotte",
+        "url": "https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "\u00c0 force",
+      "url": "https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM"

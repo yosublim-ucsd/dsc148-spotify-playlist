@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 214461,
+  "num_followers": 214539,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk5ZDRkODcxYmU2YmNhODQwZDg4ZjE1MTkyYmRlNGQ4MTIyYzgx",
+  "snapshot_id": "MCw5Yzc1MzNmMzQ3YWUwM2U4NWUxMjNmNTE3Y2IwZjkwZmZiYzgxODJi",
   "tracks": [
     {
       "added_at": "2024-01-05 01:48:21",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "Carme",
-      "url": "https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Weighing of the Heart",
         "url": "https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 205120,
       "name": "Zone 1 to 6000",
       "url": "https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 314840,
+      "name": "Carme",
+      "url": "https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -219,6 +219,22 @@
       "duration_ms": 273533,
       "name": "Moans",
       "url": "https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 241009,
       "name": "ANNA",
       "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -467,22 +467,6 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 208458,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 208458,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "After Dark 4",
         "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
@@ -675,38 +659,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
       "artists": [
         {
-          "name": "Just Bee",
-          "url": "https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx"
-        },
-        {
-          "name": "David Boring",
-          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -727,6 +691,42 @@
       "duration_ms": 242000,
       "name": "Thin Air (WaterBABii_MiiX)",
       "url": "https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
+      },
+      "artists": [
+        {
+          "name": "Just Bee",
+          "url": "https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx"
+        },
+        {
+          "name": "David Boring",
+          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -983,26 +983,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Dreamy Hamilton (Remixes)",
-        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+        "name": "Pillar / New Sun",
+        "url": "https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg"
       },
       "artists": [
         {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
-        },
-        {
-          "name": "Twin Color",
-          "url": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
         }
       ],
-      "duration_ms": 337102,
-      "name": "Dreamy Hamilton - Twin Color Remix",
-      "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
+      "duration_ms": 585901,
+      "name": "Pillar",
+      "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1027,22 +1019,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Pillar / New Sun",
-        "url": "https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg"
-      },
-      "artists": [
-        {
-          "name": "\uff12\uff18\uff11\uff14",
-          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
-        }
-      ],
-      "duration_ms": 585901,
-      "name": "Pillar",
-      "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "LABYRINTHITIS",
         "url": "https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 185813,
       "name": "Tintoretto, It's for You",
       "url": "https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Dreamy Hamilton (Remixes)",
+        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        },
+        {
+          "name": "Twin Color",
+          "url": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
+        }
+      ],
+      "duration_ms": 337102,
+      "name": "Dreamy Hamilton - Twin Color Remix",
+      "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "An Ocean",
-        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
+        "name": "Original Fighter",
+        "url": "https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo"
       },
       "artists": [
         {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+          "name": "The Lazy Jesus",
+          "url": "https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h"
         }
       ],
-      "duration_ms": 259648,
-      "name": "An Ocean",
-      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+      "duration_ms": 178333,
+      "name": "Exit to Enter",
+      "url": "https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp"
     }
   ],
   "unique_name": "Terra Incognita",

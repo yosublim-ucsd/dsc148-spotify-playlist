@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 355056,
+  "2024-01-26": 355793,
   "date_first_scraped": "2021-12-28",
   "description": "Soulful Hindi songs for your nostalgic journey. Cover - Mere Jeevan Saathi",
   "name": "Old is Gold",
@@ -675,6 +675,24 @@
       "duration_ms": 250493,
       "name": "Chhod Do Aanchal Zamana Kya Kahega",
       "url": "https://open.spotify.com/track/4wR89WBeEi0nda0JWcB8sT"
+    },
+    {
+      "album": {
+        "name": "Kishore Kumar Most Loved Hits 2023",
+        "url": "https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252520,
+      "name": "Chhu Kar Mere Manko - From \"Yaarana\"",
+      "url": "https://open.spotify.com/track/4c6NvwVDSQZ3XSQbJOgyOn"
     },
     {
       "album": {
@@ -1478,6 +1496,28 @@
     },
     {
       "album": {
+        "name": "Tere Mere Sapne (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1asznJe1sUI9j85u3OHC5I"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260320,
+      "name": "Jeevan Ki Bagia Mehkegi - Tere Mere Sapne/ Soundtrack Version",
+      "url": "https://open.spotify.com/track/6rkwZgoGSTCfhB4zIGkvLa"
+    },
+    {
+      "album": {
         "name": "Arth (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF"
       },
@@ -1935,7 +1975,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 398973,
       "name": "Mera Kuchh Samaan",
       "url": "https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2"
@@ -2235,7 +2275,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 308733,
       "name": "Phir Chiddi Raat",
       "url": "https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Salin\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,822 likes - 45 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,941 likes - 45 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 44 | [Silver](https://open.spotify.com/track/5BkLPw2DqeNA3LhXwsTCZy) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits](https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf) | 4:58 |
 | 45 | [disconnected](https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Disconnected](https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz) | 2:02 |
 
-Snapshot ID: `MCxmNmI2MmYyYTRhM2ZhMDExN2FiOGIyNmI4MDBlNDQ4MjVmYTFkYTA5`
+Snapshot ID: `MCxlZWE4YzNkYTI1MTA0MzRlNTAzOTAwYzM1YWVhNjBlMWFmNGQ0Mzhl`

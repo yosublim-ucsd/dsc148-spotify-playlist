@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music by independent artists and labels. Cover: Haven Madison. Artwork by Paola Saliby",
-  "num_followers": 204165,
+  "num_followers": 204311,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI0NmUwMmFlNWE5Y2FiNDdjZTdiYzlkNmMwOGYxYTZkNDM4OWFk",
+  "snapshot_id": "MCw5YjE5MjY1Y2IwZTI5NGRlZWRlYzBhNjkxYzMxYmU0NTMyNmUxYzE2",
   "tracks": [
     {
       "added_at": "2024-01-24 05:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 201706,
       "name": "LABEL",
       "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
+    },
+    {
+      "added_at": "2024-01-25 05:07:27",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -151,6 +167,22 @@
       "duration_ms": 164693,
       "name": "28th of Never",
       "url": "https://open.spotify.com/track/1P6LlkBx9B5ArbsQvr0855"
+    },
+    {
+      "added_at": "2024-01-25 05:07:27",
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -855,42 +887,6 @@
       "duration_ms": 245571,
       "name": "Different",
       "url": "https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Headache",
-        "url": "https://open.spotify.com/album/0L7JOqIY88nAtFPLhiSc9P"
-      },
-      "artists": [
-        {
-          "name": "Adeline Hill",
-          "url": "https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8"
-        },
-        {
-          "name": "RUDEY",
-          "url": "https://open.spotify.com/artist/1UFnB5tTDPSX3f4O2unhFa"
-        }
-      ],
-      "duration_ms": 137728,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/3sEV7i0A9ilaZqB8le38Wx"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Always Something",
-        "url": "https://open.spotify.com/album/6q7OPPNfv7HT56M8D8sgTg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Crook",
-          "url": "https://open.spotify.com/artist/6viZgFXOyeV4HgZekdTvzJ"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Always Something",
-      "url": "https://open.spotify.com/track/4MpC30rM2c4lgHUAj6dczb"
     }
   ],
   "unique_name": "Fresh Finds Pop",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Lysistrata",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Oakman",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194986,
       "name": "Hurricanes",
       "url": "https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm"
@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "A Taste Of Possibility",
+        "url": "https://open.spotify.com/album/3ltKuK9KPK0lulp6yrZNKF"
+      },
+      "artists": [
+        {
+          "name": "Keep Dancing Inc",
+          "url": "https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182920,
+      "name": "Murderer Mourns Again",
+      "url": "https://open.spotify.com/track/5bkN0WswZkPMgivo1yzB2I"
+    },
+    {
+      "album": {
         "name": "Mysteryland",
         "url": "https://open.spotify.com/album/5QH2cz6F8F7lxENCQzJH8S"
       },
@@ -1453,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Proper Attitude",
+        "url": "https://open.spotify.com/album/2Sy19xbUBfS4gVVjBC6vYT"
+      },
+      "artists": [
+        {
+          "name": "Oakman",
+          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206168,
+      "name": "Proper Attitude",
+      "url": "https://open.spotify.com/track/3EYdBbdwHuklcNxmtJbFAV"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T"
       },
@@ -1536,10 +1572,28 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 208533,
       "name": "Riga",
       "url": "https://open.spotify.com/track/3zPqSivFOYX7O8CW42P7vN"
+    },
+    {
+      "album": {
+        "name": "Rules Bulls Bells",
+        "url": "https://open.spotify.com/album/2P64XDf3jrkyiMulj0ZHUo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Rules Bulls Bells",
+      "url": "https://open.spotify.com/track/70RBWtoY36xVfOiRic5toh"
     },
     {
       "album": {
@@ -1954,7 +2008,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180883,
       "name": "The Clocks Are Bleeding",
       "url": "https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"

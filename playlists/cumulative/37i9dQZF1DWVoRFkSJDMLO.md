@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Asake 🇳🇬
 
-769 songs - 1 day 14 hr 49 min
+770 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,7 +685,8 @@
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2023-12-15 |  |
 | [Too Young](https://open.spotify.com/track/25d6J6vWQznMkOTS73KSUW) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Lanae](https://open.spotify.com/artist/2G87fDiyNnJmCQStwG0oam) | [Too Young](https://open.spotify.com/album/03dhscBuyiDdIHf58zBe7D) | 2:20 | 2022-05-27 | 2022-06-11 |
 | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/track/1cjBX23hWC5jHmsUXuJ1KP) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/album/6vPWjEGgjxkemGzOKa1pAQ) | 2:55 | 2023-06-02 | 2023-11-18 |
-| [Top Tier](https://open.spotify.com/track/3ozgRIW4uVNhRFut62cYqv) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2iqxTzkrbzt0BlPB4AkXEY) | 3:13 | 2024-01-19 |  |
+| [Top Tier](https://open.spotify.com/track/3ozgRIW4uVNhRFut62cYqv) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2iqxTzkrbzt0BlPB4AkXEY) | 3:13 | 2024-01-19 | 2024-01-26 |
+| [Top Tier](https://open.spotify.com/track/6fn8eO4pon16p90bSE63yI) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Top Tier](https://open.spotify.com/album/2UIJE0D59c2RRPYRjpRf6G) | 3:13 | 2024-01-19 |  |
 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 | 2023-06-02 | 2023-09-02 |
 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 | 2023-09-01 |  |
 | [Toxic](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-16 | 2023-06-28 |

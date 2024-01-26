@@ -726,6 +726,24 @@
     {
       "album": {
         "name": "YZ",
+        "url": "https://open.spotify.com/album/4FjMY4GPQ64qEh0rh9iQ1v"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "O kaka",
+      "url": "https://open.spotify.com/track/20KOLLXNtr0cDLe9xKnetu"
+    },
+    {
+      "album": {
+        "name": "YZ",
         "url": "https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o"
       },
       "artists": [
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 190250,
       "name": "O kaka",
       "url": "https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K"

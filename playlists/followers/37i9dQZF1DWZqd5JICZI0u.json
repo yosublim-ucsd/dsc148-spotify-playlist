@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1921918,
+  "2024-01-26": 1923145,
   "date_first_scraped": "2020-09-30",
   "description": "Breathe. Sense. Feel. Transcend.",
   "name": "Peaceful Meditation",
@@ -2809,6 +2809,24 @@
       "duration_ms": 164731,
       "name": "Forms",
       "url": "https://open.spotify.com/track/3JpsWjYzqrQLuwx4o0OSic"
+    },
+    {
+      "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/07XoLy9tPwoHGrweiqjA2Q"
+      },
+      "artists": [
+        {
+          "name": "Matheo Lyon",
+          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186387,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/15TwhLj4nBzXJ6LNkkMrF2"
     },
     {
       "album": {
@@ -8123,6 +8141,24 @@
       "duration_ms": 155240,
       "name": "Timelapses",
       "url": "https://open.spotify.com/track/3M0p85lGZSAirN47876OKc"
+    },
+    {
+      "album": {
+        "name": "Touches",
+        "url": "https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Touches",
+      "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"
     },
     {
       "album": {

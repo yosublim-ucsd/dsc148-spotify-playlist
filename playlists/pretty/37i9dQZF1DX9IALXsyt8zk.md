@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,373 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,376 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [KIDDING](https://open.spotify.com/track/5grkkSqOpUGHfl2KunfdD9) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [KIDDING](https://open.spotify.com/album/55Jvu4WKm3D0LAJIh0xGsl) | 3:30 |
 | 50 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
 
-Snapshot ID: `MCw3NDk5OTQ2ZTc0NmM3NGQyZTQ2ZDlkZTc2MDBhNzViMGFiZWQ2M2I2`
+Snapshot ID: `MCxjNmI5YzdiZGQ3ZDA5MDQ4YWY1OGExMzFjYzA3MzljYjcwOWI4ZTU1`

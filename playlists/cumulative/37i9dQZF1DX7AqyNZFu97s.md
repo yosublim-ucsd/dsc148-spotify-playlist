@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Ama Louise
 
-1,538 songs - 3 day 10 hr 8 min
+1,539 songs - 3 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Boy Best Friend's New Girlfriend](https://open.spotify.com/track/14irxAsgcdIfTDRGAIL4gg) | [Lauren Amour](https://open.spotify.com/artist/2qAlqkflLf3Vxcjsv6VNrB) | [Boy Best Friend's New Girlfriend](https://open.spotify.com/album/4wXsr5vEuuyfEe8Z0pL8vy) | 2:55 | 2023-11-22 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/5y8rL9fRBAhTGu5AlIhNH7) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ) | [Boys Don't Cry](https://open.spotify.com/album/6DF7CCrjd5Gc57gOeM0jrV) | 3:25 | 2023-02-22 | 2023-03-02 |
 | [BRAND NEW](https://open.spotify.com/track/4LiMAxnYfxkgfSbA4q9BvM) | [Edája](https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe) | [BRAND NEW](https://open.spotify.com/album/3vKqqoFefBDFOcZ9ukiau2) | 2:42 | 2023-06-21 | 2023-07-26 |
-| [Break My Fall](https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Break My Fall](https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF) | 2:35 | 2024-01-10 |  |
+| [Break My Fall](https://open.spotify.com/track/1gXAMvvtm8oJjtq4zNf7SV) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Head Hurts](https://open.spotify.com/album/7dRcYhcCUSXdYjztJSdEh9) | 2:35 | 2024-01-24 |  |
+| [Break My Fall](https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Break My Fall](https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF) | 2:35 | 2024-01-10 | 2024-01-26 |
 | [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 | 2023-05-24 | 2024-01-03 |
 | [Brick Phone](https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu) | [Brick Phone](https://open.spotify.com/album/0dLYraWUlJml3Isy4Ta7Iw) | 3:38 | 2022-07-20 | 2022-09-01 |
 | [Bride and Gloom](https://open.spotify.com/track/757VHBClKNRwTigi23sAEy) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Bride and Gloom](https://open.spotify.com/album/4jrPTf3Z0r7ULUGHsoCcxb) | 3:18 | 2023-10-17 | 2023-11-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,632 likes - 50 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,690 likes - 50 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 5 | [Guruji Mantras](https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Guruji Mantras](https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn) | 21:45 |
 | 6 | [Ganesh Stuti](https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO) | [Ankita Bramhe](https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj) | [Ganesh Bhakti Sangrah](https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs) | 2:34 |
 | 7 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
-| 8 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/03QkE78keZ1qKX9FWZmwzh) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/499BhQxYN0mvcdEhDHCdRx) | 4:35 |
+| 8 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/7Hno3cOsGoENNxMYEZTlM2) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/2YOBo7LwSkb1INLMw6Rh3H) | 4:35 |
 | 9 | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Nishant Upadhyay](https://open.spotify.com/artist/6X5A6Nc7hVXf7V88rG7OpB), [Vivek Nayi](https://open.spotify.com/artist/5NmAnk2izH1vPZyUfTUqcR), [Margiv Trivedi](https://open.spotify.com/artist/3tu0DiS7GT1F7k8G3Ktltm), [Isha Nair](https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG), [Deepaali Vyas](https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2), [Bansari Maisuriya](https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl) | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn) | 13:27 |
 | 10 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 |
 | 11 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 |
 | 50 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 
-Snapshot ID: `MCw5ZGI0ZjA5NzliNDMyOGUxOTgzMGExM2I1YzYxM2RjYmNlZGNlZmVh`
+Snapshot ID: `MCwwMzcwZDYwMjgzOGMzYjdmNzJlZjAwYzc0ODU3MjllOTAwMjhhY2M5`

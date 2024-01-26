@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 4084,
+  "2024-01-26": 4091,
   "date_first_scraped": "2023-03-05",
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
   "name": "This Is Kierra Sheard",
@@ -617,10 +617,28 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 55573,
       "name": "Interlude - Live",
       "url": "https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75557,
+      "name": "Intro (I Am Free) - Live",
+      "url": "https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY"
     },
     {
       "album": {

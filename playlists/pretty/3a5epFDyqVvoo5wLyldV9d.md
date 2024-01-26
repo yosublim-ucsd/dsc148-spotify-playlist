@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 741 songs - 2 day 9 hr 30 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 752 songs - 2 day 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -749,5 +749,16 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 739 | [Köroğlu Dağları](https://open.spotify.com/track/5mETTpAx7Ccmpd6FUwycRb) | [İstanbul Şarkıcıları](https://open.spotify.com/artist/3dAWWhURuoeND0OPcwrOpR) | [Ayva Çiçek Açmış](https://open.spotify.com/album/3ogoUyugtlKcOHTByhOF2b) | 3:43 |
 | 740 | [Bir Sigara İç Oğlan](https://open.spotify.com/track/67NxBj77Rbm4PN6n4snKic) | [Grup Turbo](https://open.spotify.com/artist/0agXNZlTPQIPMdf8KzQbZB) | [Mavi Mavi](https://open.spotify.com/album/2er0A1hN4sJP6prI41s1un) | 3:02 |
 | 741 | [Trouble Sleep Yanga Wake Am](https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight](https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP) | 12:06 |
+| 742 | [Un Ano De Amor](https://open.spotify.com/track/5eIUhOoNHW8zICjotOsmw2) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Talons Aiguilles De Pedro Almodovar](https://open.spotify.com/album/0Vo3Cw2t9UfUVjmuavIkTp) | 3:19 |
+| 743 | [Piensa En Mi](https://open.spotify.com/track/1hLwHet3zs0Vqr47Jz2hLc) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Talons Aiguilles De Pedro Almodovar](https://open.spotify.com/album/0Vo3Cw2t9UfUVjmuavIkTp) | 4:28 |
+| 744 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 |
+| 745 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 |
+| 746 | [Comanche](https://open.spotify.com/track/6jlqL9joFnF98jY335t2y4) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Negro É Lindo](https://open.spotify.com/album/72gN1rKSLa00sDq8fmGQF4) | 2:55 |
+| 747 | [Jelivrà Bo Situaçon](https://open.spotify.com/track/0Bk4J1UclnZ5WvO3rryKG3) | [Manuel Gomes](https://open.spotify.com/artist/62HcnNBJaQeMja6COwsZoa) | [Synthesize the Soul: Astro\-Atlantic Hypnotica from the Cape Verde Islands 1973 \- 1988](https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh) | 2:59 |
+| 748 | [Nou ke sa enmew](https://open.spotify.com/track/7a8Jot2qCeFHnbQkTEhHzn) | [Swanha Desvarieux](https://open.spotify.com/artist/4BLJn3YK5LtKiau5fNeVcv) | [Swanha](https://open.spotify.com/album/7Gzc3Fx0tXSW0cs516kQvQ) | 4:08 |
+| 749 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 |
+| 750 | [Coisa Sentimental](https://open.spotify.com/track/6EkKVy1xJuAMhAzSvzdLvI) | [Tobias](https://open.spotify.com/artist/1DP2hddpuTgFA4cr9642sn) | [Mr\. Bongo Record Club, Vol\. 3 \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2W50X23ZpQrRbclikWVrdK) | 3:58 |
+| 751 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/0knVFI8HNMpvbfcbajZiGI) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs) | [Ta Lassa](https://open.spotify.com/album/4Y0VNFTBjcCBcrJpsg6LNA) | 6:16 |
+| 752 | [Peace On Earth](https://open.spotify.com/track/3xm3OnerPVFh8X5l7skbLd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 7:43 |
 
-Snapshot ID: `ODMzLGI1NWYzNjhiYjdiNTkyMTc0MzZiMjdlNWVmMzdkMTNmNDRjZWRjNTM=`
+Snapshot ID: `ODQ0LDQyZmYyMWY4MTk0OTEzYmFlZjRhZjgzYzEwNWVmMjYwNDlkNTZjYWI=`

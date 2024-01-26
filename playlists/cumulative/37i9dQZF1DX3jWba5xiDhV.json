@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "In My Dreams (Powerhouse Mix)",
+        "url": "https://open.spotify.com/album/1lyD5OHVfFsDtP0V7evk5c"
+      },
+      "artists": [
+        {
+          "name": "Nuovo Testamento",
+          "url": "https://open.spotify.com/artist/70MnQHSuHcHizcq5qma5vA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354706,
+      "name": "In My Dreams - Powerhouse Mix",
+      "url": "https://open.spotify.com/track/7EJhHYYNg8dLzOba91HrgM"
+    },
+    {
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"

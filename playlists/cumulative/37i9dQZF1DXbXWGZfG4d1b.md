@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-543 songs - 1 day 8 hr 12 min
+545 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [En Viaje](https://open.spotify.com/track/0xOOKmvzsU5wHM1L7CdGPl) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [En Viaje](https://open.spotify.com/album/28Yui13NlgIFGQXLGWOwQH) | 3:24 | 2022-07-01 | 2022-07-23 |
 | [Enero](https://open.spotify.com/track/0Y486vuBWyJO0jUtUa0hJS) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Rocío Iturralde](https://open.spotify.com/artist/0kVJyxznJagxbT198F2e6I) | [HIJO DE CAMPEONES](https://open.spotify.com/album/29RwEvS11hYGHpVrqxk2AV) | 3:39 | 2022-06-03 | 2022-07-21 |
 | [Entre los Días](https://open.spotify.com/track/45w1OxNoLtgL56jnAtvVPr) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH), [manza / Mariano Esain](https://open.spotify.com/artist/0XkmUhX2g7S8uPV4DJs0V7) | [Entre los Días](https://open.spotify.com/album/47bis3kTUhUVlTmMSQpZw6) | 4:21 | 2022-06-03 | 2022-07-29 |
+| [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 | 2024-01-25 |  |
 | [Equipaje](https://open.spotify.com/track/3BpS6Ow1G7TgaNkCVEE23H) | [Toby Deltin](https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr) | [Equipaje](https://open.spotify.com/album/5LPnw7W7fQcPbttK9RldF3) | 4:23 | 2022-07-01 | 2022-07-21 |
 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 | 2022-06-03 | 2022-07-25 |
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-07-15 | 2022-07-20 |
@@ -240,7 +241,7 @@
 | [Jardin Secreto](https://open.spotify.com/track/5ahCZr2S2fe7clkWuOPdZc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Jardín Secreto](https://open.spotify.com/album/7j0lW8QUdtvBk41WiBu7rp) | 3:52 | 2022-06-03 | 2022-12-12 |
 | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/track/11ajmoDDs9wYcU7S5gkwQs) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/album/2ayGpdqShhiQwJbffxzfSQ) | 4:30 | 2022-07-01 | 2022-07-26 |
 | [Juguetitos](https://open.spotify.com/track/2wiN2QrEgBooB3VZBJmMSy) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Guerrera/Soldado](https://open.spotify.com/album/6DpYoyH9mPlgvhc8BNhRvC) | 5:20 | 2022-06-03 | 2022-07-20 |
-| [Julia](https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [atrás de los árboles](https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh) | 2:26 | 2023-10-26 |  |
+| [Julia](https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [atrás de los árboles](https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh) | 2:26 | 2023-10-26 | 2024-01-26 |
 | [Julia](https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [Julia](https://open.spotify.com/album/6NtzL5k6Ao2GmSaKXTci6H) | 2:26 | 2022-07-01 | 2022-07-08 |
 | [Junto Boludeces](https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:25 | 2023-07-28 |  |
 | [L'ultimo Gesto Di Liberazzione](https://open.spotify.com/track/7L2wpUGXwANKyfloRG1Uen) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:01 | 2022-07-15 | 2022-07-20 |
@@ -488,6 +489,7 @@
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-12 | 2023-03-03 |
 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 | 2024-01-24 |
+| [Tiembla](https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB) | 3:36 | 2024-01-25 |  |
 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 | 2023-07-01 |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 |  |
 | [tití](https://open.spotify.com/track/7KTjV2dfbwLzl9u9O9lf1q) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [tití koi](https://open.spotify.com/album/59XcZGcub84oYnnnsN2Xsq) | 3:44 | 2022-07-01 | 2022-07-24 |
@@ -544,7 +546,7 @@
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-06-03 | 2022-07-04 |
 | [Ya No Sigas](https://open.spotify.com/track/6bSIgIm8TrpNiPpOJU7m4h) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Ya No Sigas](https://open.spotify.com/album/0RqM8WU0V0dO10f8zvIsis) | 3:49 | 2022-07-01 | 2022-07-27 |
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
-| [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 |  |
+| [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 | 2024-01-26 |
 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 | 2023-04-21 | 2023-10-27 |
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 |  |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |

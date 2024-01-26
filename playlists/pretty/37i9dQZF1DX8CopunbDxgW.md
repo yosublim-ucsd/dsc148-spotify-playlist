@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: METTE and Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,310 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,349 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 19 | [Gold In Autumn](https://open.spotify.com/track/5s507gLJJBAAyTkZMKBQVB) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX) | [Gold In Autumn](https://open.spotify.com/album/6YJbItTfxe6JuW0sQQbJcX) | 4:54 |
 | 20 | [Bliss](https://open.spotify.com/track/6X4ztrJFVeqKZi5QEMsxuo) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Bliss](https://open.spotify.com/album/0iKa94uzmLyYrNETJkePoE) | 2:33 |
 | 21 | [Where I Hide](https://open.spotify.com/track/30zK0g9XHpKDGri8kzoPS2) | [Flevans](https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l) | [Where I Hide](https://open.spotify.com/album/1XnLvJal1XGn0N2YsT73Dr) | 4:31 |
-| 22 | [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 |
+| 22 | [Skrt](https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6) | 3:01 |
 | 23 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 |
 | 24 | [turn it all the way up](https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [turn it all the way up](https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX) | 2:36 |
 | 25 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
 | 100 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 
-Snapshot ID: `MCxhYmVhMTFiMGY5YzM3MzA1MmE0ZjI3NDk2MTE1YWRiYWJkYjkxOWQy`
+Snapshot ID: `MCxjMTRiNDIzNzVjNzBjNDZmNmIwOGI4MTRjNzZkMzM4ZjlkNGI0MzE5`

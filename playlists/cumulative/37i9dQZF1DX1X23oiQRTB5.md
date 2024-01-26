@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> PLK x Gazo au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
 226 songs - 11 hr 40 min
 

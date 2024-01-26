@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 73689,
+  "num_followers": 73727,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDNkZDZlMmI1NjJjZDgyMmM5YWQ2YTg2Y2RjY2ViNWNiMTgwNjcw",
+  "snapshot_id": "MCw1ZDIwYmZjM2YzN2ZhMjM4ZmVhMTk1MDBiNDQxZGQzMWNkNzU0NTEy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
       "artists": [
         {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
       },
       "artists": [
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
         }
       ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
-      },
-      "artists": [
-        {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
-        }
-      ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Play in the Dark",
         "url": "https://open.spotify.com/album/1lEmoATjl2zTNpRIjuDsTz"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/49OMN2ga2Zzs5gDytlc674"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+      },
+      "artists": [
+        {
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+        }
+      ],
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Galazy EP",
         "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Like A Good Old Friend",
-        "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Like A Good Old Friend",
-      "url": "https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9"
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1551,22 +1535,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+        "name": "Like A Good Old Friend",
+        "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
       },
       "artists": [
         {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Sir JoQ",
-          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 250009,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+      "duration_ms": 218906,
+      "name": "Like A Good Old Friend",
+      "url": "https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+      },
+      "artists": [
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+        }
+      ],
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "XTASIS CARNAL",
-        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
-      },
-      "artists": [
-        {
-          "name": "SITA",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
-        },
-        {
-          "name": "Cardopusher",
-          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "XTASIS CARNAL",
-      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1763,26 +1743,42 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Back Seat (Tseba Remix)",
-        "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
+        "name": "XTASIS CARNAL",
+        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
       },
       "artists": [
         {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+          "name": "SITA",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
         },
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        },
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Cardopusher",
+          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
         }
       ],
-      "duration_ms": 240191,
-      "name": "Back Seat - Tseba Remix",
-      "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
+      "duration_ms": 231875,
+      "name": "XTASIS CARNAL",
+      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Mobilee Back to Back Vol. 2 - Presented By Gummihz",
+        "url": "https://open.spotify.com/album/3l7VGy4N06jzOd135vnieb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        },
+        {
+          "name": "Shonky",
+          "url": "https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14"
+        }
+      ],
+      "duration_ms": 516533,
+      "name": "August in Paris",
+      "url": "https://open.spotify.com/track/4OxcvLypiDpLkMa9dmB7PH"
     }
   ],
   "unique_name": "Runway",

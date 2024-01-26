@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,770 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,832 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 7 | [No Drill](https://open.spotify.com/track/7hQfJUzDQkb32ZUvo3Hfnp) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [No Drill](https://open.spotify.com/album/1o8M6nohZXVnXtptqU93Zd) | 2:28 |
 | 8 | [Tony Montana Flow](https://open.spotify.com/track/0kK98H9atZjecwzci2V2ge) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Tony Montana Flow](https://open.spotify.com/album/1nnILtg0alZ8wYJ7fUNepD) | 2:22 |
 | 9 | [Slizzy Talk](https://open.spotify.com/track/6B8qa0ZuuuusQfO7fJoBpy) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:22 |
-| 10 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 10 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
 | 11 | [The Slang Word P\(\*\)ssy Rolls Off The Tongue With Far Better Ease Than The Proper Word Vagina \. Do You Agree?](https://open.spotify.com/track/53JuszD36WgJTr4Rdq7kjO) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 13:50 |
 | 12 | [Pop Out \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/7hTki3inf7NsQKT81ZWpci) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 2:58 |
 | 13 | [Computers](https://open.spotify.com/track/6CeGaQ9XABhglQQJspoNOO) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Remain Silent](https://open.spotify.com/album/13ylEAR49KSHGQ3DyZ2H3Y) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Luh Tyler Flow \(feat\. Los & Nutty\)](https://open.spotify.com/track/78eZhtsGvlCpilrfSt3lBT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Los and Nutty](https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 5:08 |
 | 50 | [OG \(feat\. Curren$y\)](https://open.spotify.com/track/2inWC24apqzXIoEVsAEfiR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac and Devin Go to High School \(Music from and Inspired by the Movie\)](https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h) | 4:58 |
 
-Snapshot ID: `MCxkOGIwZDkzM2I2N2Q2MjMwMDA4ODVlM2JjZGNhZmYwYzVmZDBhMjcz`
+Snapshot ID: `MCxlMjUwZTE3NjMxNGQwZTYwNGE0NzE1YjFlZDJiOTQ5MzVkNWQ3MTc1`

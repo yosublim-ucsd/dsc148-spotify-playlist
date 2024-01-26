@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 442251,
+  "2024-01-26": 442305,
   "date_first_scraped": "2023-03-26",
   "description": "I really wish your real name is my last name \ud83e\udd21",
   "name": "membadut",
@@ -813,6 +813,24 @@
       "duration_ms": 217200,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/5Jyn7343pwECbPl8df9oBH"
+    },
+    {
+      "album": {
+        "name": "Pidi Baiq",
+        "url": "https://open.spotify.com/album/5nxA1hVmViJJFF0wyIP6j7"
+      },
+      "artists": [
+        {
+          "name": "Pidi Baiq",
+          "url": "https://open.spotify.com/artist/6QR072SvyOLDQYYlplI4Ll"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "Di Ini Januari",
+      "url": "https://open.spotify.com/track/1IXbE1zCoiWNdmR6ai3Knf"
     },
     {
       "album": {

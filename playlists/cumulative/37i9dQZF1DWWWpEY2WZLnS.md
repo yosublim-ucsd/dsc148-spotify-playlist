@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One y Donaty
 
-329 songs - 16 hr 33 min
+330 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Pin Pon](https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Pin Pon](https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM) | 3:16 | 2023-02-09 | 2023-03-11 |
 | [Piri Bambam](https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Piri Bambam](https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh) | 2:54 | 2023-02-09 | 2023-05-27 |
 | [Piropi](https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc) | 3:10 | 2023-02-09 | 2023-08-04 |
-| [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2024-01-18 |  |
+| [Pitone](https://open.spotify.com/track/1ao3LOVRfwArGbtSo76W2W) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/0NoOtIDqn1o4RoRK3xQINS) | 2:04 | 2024-01-18 |  |
+| [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2024-01-18 | 2024-01-26 |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-12 |  |
 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 | 2023-02-09 | 2024-01-18 |
 | [Po Po Po Pon](https://open.spotify.com/track/3bg2rT9IYLIWtecPADugBJ) | [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Alam W](https://open.spotify.com/artist/2nE1YychOhzciV00BxGIl4), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Brazil21](https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm) | [Po Po Po Pon](https://open.spotify.com/album/2UdKzx5V4UK00kaJoUQHCI) | 2:51 | 2023-02-09 | 2023-03-11 |

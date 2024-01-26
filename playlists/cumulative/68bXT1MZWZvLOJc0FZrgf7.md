@@ -2,9 +2,9 @@
 
 ### [Dance For Days \| 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: BUNT.
+> Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: BUNT.
 
-539 songs - 1 day 4 hr 6 min
+540 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI) | 2:34 | 2022-06-03 | 2023-07-29 |
 | [Take Me Somewhere](https://open.spotify.com/track/70UlGPMsr7TqIZaMqIdWxq) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Take Me Somewhere](https://open.spotify.com/album/1PSewy5ZiQW7HfKxyqeikP) | 3:00 | 2022-06-03 | 2023-02-05 |
 | [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-18 | 2023-12-14 |
+| [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 | 2024-01-25 |  |
 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-12-08 |  |
 | [Take You There](https://open.spotify.com/track/7juRzgOqSkcq127SI3zdB8) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Take You There](https://open.spotify.com/album/5lgXkxlfnYOsrYB028h8K9) | 3:16 | 2023-08-25 | 2023-12-14 |
 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 | 2023-07-29 |

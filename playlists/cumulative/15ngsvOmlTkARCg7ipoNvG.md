@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,095 songs - 1 day 0 hr 7 min
+1,096 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Morning Echoes \- Cello Version](https://open.spotify.com/track/5J4cb3QyeQZHtTLfBY61lr) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Morning Echoes \(Cello Version\)](https://open.spotify.com/album/2FCkeSdNvDTYmCLvNINSPA) | 1:00 | 2024-01-15 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 |  |
 | [Morning Sky](https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Sky](https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L) | 1:00 | 2023-10-02 |  |
+| [Morning Sun](https://open.spotify.com/track/4KjQEQRtB5L5QXjVBMmQzd) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Morning Sun](https://open.spotify.com/album/3p41gPoTXPhDffJ6M5PXTM) | 1:00 | 2024-01-25 |  |
 | [Mountain Dreaming Arr\. For Cello](https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Mountain Dreaming](https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU) | 1:01 | 2023-04-19 |  |
 | [Mountain Walk Arr\. For Cello](https://open.spotify.com/track/0iXOIuErB0K7uV3dTA3TaU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-31 |  |
 | [Mountain Walk Arr\. For Piano](https://open.spotify.com/track/3p8ywA1wFev1fUsbyu6nt3) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-01 |  |

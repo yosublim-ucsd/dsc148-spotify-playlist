@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21997,
+  "num_followers": 4411,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzk1NTAwMTQ4NmJmYmJiYjhmYmY5YzliZjdmYzZlNjg4MmY3ZDBm",
+  "snapshot_id": "MCw4YzQ5NDBkNjIzMzM2MzUxYzVkNzkwZGEyNTUzOGY4MjI4YmQxNTBk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 202216,
-      "name": "Vigilantes del Espejo",
-      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Un Gatito",
         "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 202216,
+      "name": "Vigilantes del Espejo",
+      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11"
     },
     {
       "added_at": "2020-12-01 05:03:00",

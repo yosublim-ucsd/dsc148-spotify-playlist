@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,151 songs - 2 day 22 hr 8 min
+1,153 songs - 2 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,7 +878,8 @@
 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:17 | 2023-07-13 |  |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/0TposDOdKP9MUfn9zxkYUK) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 4:46 | 2022-01-19 | 2022-07-29 |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA) | 4:46 | 2022-07-05 |  |
-| [Shine Eternally \- Spotify Singles](https://open.spotify.com/track/4I7n1aXDCTSD9ioXt1xWOG) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a), [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 4:19 | 2023-06-14 |  |
+| [Shine Eternally \- Spotify Singles](https://open.spotify.com/track/45s3YPRCayzHz3aSd6ObZr) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a), [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Spotify Singles](https://open.spotify.com/album/0pt0GZkcQqoePHrWdjP6L5) | 4:19 | 2023-10-02 |  |
+| [Shine Eternally \- Spotify Singles](https://open.spotify.com/track/4I7n1aXDCTSD9ioXt1xWOG) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a), [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 4:19 | 2023-06-14 | 2024-01-26 |
 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 | 2022-01-19 |  |
 | [Short Court Style \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7E8amR0CdP7lEvVX0TtMWS) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Spotify Singles](https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0) | 3:47 | 2022-01-19 |  |
 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 | 2022-01-19 |  |
@@ -1067,7 +1068,8 @@
 | [Viva La Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6X1Z4Ng3lpNfkNajCSxElD) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Spotify Singles](https://open.spotify.com/album/6ludHUjZLwLPfYji0oMOvo) | 4:16 | 2022-01-19 |  |
 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 | 2022-01-19 |  |
 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 | 2022-10-19 |  |
-| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-14 |  |
+| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-14 | 2024-01-26 |
+| [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/3mZJV1uUmapZbuPJP33Ej5) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/0pt0GZkcQqoePHrWdjP6L5) | 2:35 | 2023-10-02 |  |
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2022-01-19 |  |
 | [Walk Like An Egyptian](https://open.spotify.com/track/2pEjfJf965fPdiun6fOP8p) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/6V7AG2aBNQRSA494JhP63y) | 2:23 | 2022-08-24 |  |
 | [Walk Like An Egyptian](https://open.spotify.com/track/3HQKw5cvjH63e6fW2zeIcy) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:23 | 2022-07-05 | 2022-09-15 |

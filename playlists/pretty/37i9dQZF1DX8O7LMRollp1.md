@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,547 likes - 21 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,549 likes - 21 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,6 +28,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 | 18 | [An Endless Desire](https://open.spotify.com/track/6vM9g9Lla2BXRhtmuRPP9p) | [Lee Yoon Ji](https://open.spotify.com/artist/70EhidkYcundxC6z273E9Y) | [Penthouse 2&3 Score Album \(Original Television Soundtrack\)](https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3) | 3:33 |
 | 19 | [irony of choice](https://open.spotify.com/track/0n818xv8jNlkAwf9NBv8v9) | [Se Rin Jung](https://open.spotify.com/artist/4vKfrDcWqtPpqqWmzH26wO) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 2:42 |
 | 20 | [trolley](https://open.spotify.com/track/1Dg4uXR9ZzV0Z12kUFC13j) | [Jun Seok Kim](https://open.spotify.com/artist/3NNk3sbGKHqIhfs6Sm5dsB) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 3:09 |
-| 21 | [Masquerade](https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST](https://open.spotify.com/album/4dUX8oSxxSeZdll1GLOM48) | 3:59 |
+| 21 | [Masquerade](https://open.spotify.com/track/0eQZxRfdIZrCH80qFOBYAV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST Part.1](https://open.spotify.com/album/6vCthWDxGcU9d0eZZKPjxp) | 3:59 |
 
-Snapshot ID: `MCw1OTMzMGIwNzBkMGIzM2YzZGE4ZDUyYTdlYjNmYzhkYjY0YWM3ZDg1`
+Snapshot ID: `MCxjM2Q3MTQ0NTdhNWY0ZWFhNDg5NDgwZTc4NjQzYTg0Nzk4MDk0ZDMw`

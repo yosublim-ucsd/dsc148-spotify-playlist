@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Amrit Maan & Baani Sandhu
 
-809 songs - 1 day 19 hr 58 min
+810 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bebe Di Pasand](https://open.spotify.com/track/4OSXEqZGJFz493HGodyMtD) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE) | [Bebe Di Pasand](https://open.spotify.com/album/5ajiQZlIDFxbU8nnr0PGQe) | 3:28 | 2022-12-05 | 2023-02-02 |
 | [Befikra](https://open.spotify.com/track/32Tfuu9E7wDqSCkUaXpdeg) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Befikra](https://open.spotify.com/album/1IqfKGDaEnFn5zv6xFzJcW) | 3:26 | 2022-02-24 | 2022-04-06 |
 | [BEGUM](https://open.spotify.com/track/4JLmUOct3JHKWgQzCKpb7i) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC) | [BEGUM](https://open.spotify.com/album/5iB1PuDPevACoogvNPfoIV) | 3:16 | 2024-01-05 | 2024-01-18 |
-| [Begum](https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Abbu](https://open.spotify.com/artist/41VvXdIAesEnGQJcTng2ce), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 3:16 | 2023-10-23 |  |
+| [Begum](https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Abbu](https://open.spotify.com/artist/41VvXdIAesEnGQJcTng2ce), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 3:16 | 2023-10-23 | 2024-01-26 |
 | [Belief](https://open.spotify.com/track/4fwgyNZyF5IzMOpHdAPsnF) | [Roop Jai Singh](https://open.spotify.com/artist/1cdUwU6zZAyCnMtAeORa3Z), [Enthamoment](https://open.spotify.com/artist/021ngzZoRi1o21azkbM1n3) | [Belief](https://open.spotify.com/album/2xK6wpJ14JVOuVx0R8vLhv) | 3:42 | 2022-07-29 | 2022-08-18 |
 | [Beliya](https://open.spotify.com/track/58C05jp9At1nyCSK3D1hBv) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Beliya](https://open.spotify.com/album/7evrCbGsmhF9PmzY8aa63L) | 2:55 | 2022-07-13 | 2022-08-18 |
 | [Bewafai Kar Gaya](https://open.spotify.com/track/4NtmlxfMrhLYHDV2EIyVcV) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Lekh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3) | 3:48 | 2022-04-13 | 2023-02-02 |
@@ -247,6 +247,7 @@
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 | 2022-04-06 |
 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
 | [Guitar Sikhda](https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Do Gabru \- Jassi Gill & Amrit Maan](https://open.spotify.com/album/4NA7IQDtm526DqzmqxWiZr) | 3:09 | 2023-02-16 | 2023-05-06 |
+| [Gulaab](https://open.spotify.com/track/0WBxmNri8xbHC8Kf6P9AlM) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Gulaab](https://open.spotify.com/album/2dvmqXZLpzSRDO6Adkkzq0) | 2:56 | 2024-01-25 |  |
 | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/3bROU8JC8KpB2YVDjHboJK) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Maninder Kailey](https://open.spotify.com/artist/3pkSY4dPiyXvWvX8flcQnr) | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6) | 4:37 | 2022-08-19 | 2023-02-04 |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-01-19 | 2022-04-06 |
 | [Haadsa](https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Haadsa](https://open.spotify.com/album/5amFOjDhjHu3RknedulVt7) | 4:54 | 2022-02-07 | 2022-02-12 |

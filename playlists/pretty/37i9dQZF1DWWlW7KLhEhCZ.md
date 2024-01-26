@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,552 likes - 76 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,572 likes - 76 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 36 | [Pensamento](https://open.spotify.com/track/2czJrZj9MhdypmzWccjuyh) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Pensamento](https://open.spotify.com/album/1Ty1IzlYQjfMDQBwzqNdxY) | 2:46 |
 | 37 | [Clima Quente](https://open.spotify.com/track/5numQrSYnc8dnECfiw8yOM) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Clima Quente](https://open.spotify.com/album/0VwZxG7vPUcT2kzIkj0umr) | 1:44 |
 | 38 | [Spliff](https://open.spotify.com/track/1J15stBx61upyeabRi33oj) | [Math Above The Sky](https://open.spotify.com/artist/1vjed5cMVbit7kXWUhtf9U), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Spliff](https://open.spotify.com/album/1emOCHXKZpakuqD8Yu1ZLZ) | 2:26 |
-| 39 | [Viciei em Zaza](https://open.spotify.com/track/040x4N2Ik04rl66GVzLJUx) | [luvdyann](https://open.spotify.com/artist/1DQ1Eo0J1P3KyCyMj8jG4Z), [Neto](https://open.spotify.com/artist/7LlenxjHTjb1Nt4xnMv6GL) | [Viciei em Zaza](https://open.spotify.com/album/5MF0vpArocDrFFBLVQTCN2) | 1:44 |
+| 39 | [Viciei em Zaza](https://open.spotify.com/track/6a0DIFNiprPvqWwS2FQLRB) | [luvdyann](https://open.spotify.com/artist/1DQ1Eo0J1P3KyCyMj8jG4Z), [Neto](https://open.spotify.com/artist/7LlenxjHTjb1Nt4xnMv6GL) | [Viciei em Zaza](https://open.spotify.com/album/0JNtE6gwTAQmO63o9bcgU4) | 1:44 |
 | 40 | [Buquê de Flores](https://open.spotify.com/track/4vPWK45gmjiuswAVXSgG35) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Buquê de Flores](https://open.spotify.com/album/35BTFvVS5n1m8QzHLdaZUz) | 3:28 |
 | 41 | [Carro Filmado](https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty) | [AK SAITO](https://open.spotify.com/artist/7g2naiPJNLtDQg6hesnj6K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Carro Filmado](https://open.spotify.com/album/6aK7y6lZboIDRF3dnU4KbF) | 1:48 |
 | 42 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [GLORD](https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 1:18 |
 | 76 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCw2NjRmOWZkZTUwNDg5OTY2MWExYzJiYmRmYzFhODFkNmJlNGQ1NTk0`
+Snapshot ID: `MCw2NDA0ZGUxNjE1ZWVkZTFlOGFhMzM0NzZlMmFhNTJlYWFmMjEzOGIx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u7504\u6fdf\u5982 (Jasmine Yen)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Soph T.",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221755,
       "name": "Natural Smoke (feat.Andr)",
       "url": "https://open.spotify.com/track/3fZ836Q4EVbV0cToLqtKqd"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 190898,
       "name": "Oh Bob",
       "url": "https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd"
@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 214588,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/0Ykbr3QGOHAYmuX5BIk1ig"
@@ -2661,6 +2661,28 @@
     },
     {
       "album": {
+        "name": "Swapping Socks",
+        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218762,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
+    },
+    {
+      "album": {
         "name": "take your time",
         "url": "https://open.spotify.com/album/6P9MEvWIlsmSYmHPlco4RS"
       },
@@ -2748,7 +2770,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 192599,
       "name": "The Great Escape Of Our Time",
       "url": "https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd"
@@ -3318,7 +3340,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 232917,
       "name": "\u4e0a\u9396",
       "url": "https://open.spotify.com/track/5vDksybGZvVKPvWvYVu5TA"
@@ -4657,6 +4679,28 @@
     },
     {
       "album": {
+        "name": "\u597d\u4eba\u574f\u4e86 (feat. CED)",
+        "url": "https://open.spotify.com/album/1Hw7Amnc4o3gODTMZW6RXh"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        },
+        {
+          "name": "CED",
+          "url": "https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "\u597d\u4eba\u574f\u4e86 (feat. CED)",
+      "url": "https://open.spotify.com/track/3zC6x07wxGburedGJkkacF"
+    },
+    {
+      "album": {
         "name": "\u597d\u50cf\u662fRapper",
         "url": "https://open.spotify.com/album/4ddDgYpC6s239ITBOQMukI"
       },
@@ -5875,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "LOVELY SUNDAY",
+        "url": "https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240365,
+      "name": "\u624b\u6367\u4e00\u676f\u9152",
+      "url": "https://open.spotify.com/track/5k41tbPUJSYqw3anAFmAw3"
+    },
+    {
+      "album": {
         "name": "\u300c\u661f\u7403\u6f02\u79fb\u300d\u8bf4\u5531\u97f3\u4e50\u4f01\u5212",
         "url": "https://open.spotify.com/album/3D1Qbpv9MtYMT5J1WA5YLu"
       },
@@ -5934,7 +5996,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 250704,
       "name": "\u628a\u6211\u5e36\u8d70 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/5sF0M9iWC6s7rCU6ffCH7N"
@@ -7254,7 +7316,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 230963,
       "name": "\u767d\u958b\u6c34",
       "url": "https://open.spotify.com/track/1EkqllxcASbLn6SbNTVzaq"
@@ -8204,7 +8266,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 274506,
       "name": "\u90a3\u4e9b\u5e74",
       "url": "https://open.spotify.com/track/7g9BNWgLc4enw7GDqGkvyV"
@@ -8510,6 +8572,24 @@
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
+        "url": "https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u82e5\u51e1RuoFan",
+          "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u975e\u5fc5\u8981\u7684\u7f8e\u597d\u5c0f\u4e8b - \u4e09\u7acb\u96fb\u8996\u300a\u9580\u7576\u4e92\u61df\u611b\u4e0a\u4f60\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/1LqwedeBOe90TrlQBIBTOl"
     },
     {
       "album": {

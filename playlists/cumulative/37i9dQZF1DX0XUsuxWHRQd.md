@@ -4,7 +4,7 @@
 
 > Music from 21 Savage, Drake and Nicki Minaj.
 
-1,896 songs - 4 day 2 hr 11 min
+1,897 songs - 4 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [Make Em Say \(feat\. Mulatto\)](https://open.spotify.com/track/4dngUamfm6p0w111i1zyT2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Top Shotta](https://open.spotify.com/album/4Bcqi7rf2MSRZrrhn0NxvB) | 3:22 | 2020-08-07 | 2020-08-21 |
 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 | 2020-06-12 | 2020-07-03 |
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2019-10-11 | 2020-02-07 |
+| [Make tha Trap Say Aye \(feat\. Gucci Mane\)](https://open.spotify.com/track/5fst2COuMGJQ7PzSRYGVj5) | [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Otha Side of the Trap](https://open.spotify.com/album/73uzDr68dMgYY76VfJsBi6) | 4:18 | 2024-01-25 |  |
 | [MAMACITA](https://open.spotify.com/track/51wFQM8W0YfXTmHusXUr5i) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [MAMACITA](https://open.spotify.com/album/2JNmVgpBCt1nnobJ3Mvzim) | 3:22 | 2019-10-25 | 2019-11-15 |
 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 | 2021-12-10 | 2022-03-12 |
 | [Mandem](https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Mandem](https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga) | 4:01 | 2023-08-04 | 2023-08-12 |

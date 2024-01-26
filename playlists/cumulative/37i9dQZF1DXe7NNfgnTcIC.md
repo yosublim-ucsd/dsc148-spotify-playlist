@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/70W7R8pC72MxxTqUxrhpc9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3wNx1Yr0xBODG2g78FkRPf) | 0:00 | 2021-05-26 |  |
+| [](https://open.spotify.com/track/70W7R8pC72MxxTqUxrhpc9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3wNx1Yr0xBODG2g78FkRPf) | 0:00 | 2021-05-26 | 2024-01-26 |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/29N4xnL6SpjkQiuPaTvQXA) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 2:39 | 2021-05-26 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 | 2021-05-26 |  |
 | [After the fire](https://open.spotify.com/track/6SM2YaOueNhqVTvii6mff9) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:48 | 2021-05-26 |  |
@@ -57,7 +57,7 @@
 | [Mother](https://open.spotify.com/track/0GlejgfH8mrHTcJjqfcw6s) | [VOICES FROM MARS](https://open.spotify.com/artist/2cuESGBQzXxxoG3sz06YVW) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 7:09 | 2021-05-26 |  |
 | [Move Mountains](https://open.spotify.com/track/0jpqrFBVDKNYXogtpUZdPx) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:51 | 2021-05-26 |  |
 | [Not Afraid](https://open.spotify.com/track/4JNSOWopJ1PK07ZP4S3QFF) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [Polly Jean / Not Afraid](https://open.spotify.com/album/3avxpVrSHLeAOkcCkK9qJD) | 3:43 | 2021-05-26 |  |
-| [Only Love Can Break Your Heart](https://open.spotify.com/track/4nRhbx8L4ifnMKaE5jSQGR) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [After the Gold Rush \(2009 Remaster\)](https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI) | 3:08 | 2021-05-26 | 2024-01-24 |
+| [Only Love Can Break Your Heart](https://open.spotify.com/track/4nRhbx8L4ifnMKaE5jSQGR) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [After the Gold Rush \(2009 Remaster\)](https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI) | 3:08 | 2021-05-26 |  |
 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 | 2021-05-26 |  |
 | [Polly Jean](https://open.spotify.com/track/7ytz3wgsTdSmSIH0pe5cnt) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Polly Jean / Not Afraid](https://open.spotify.com/album/3avxpVrSHLeAOkcCkK9qJD) | 3:10 | 2021-05-26 |  |
 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 | 2021-05-26 |  |

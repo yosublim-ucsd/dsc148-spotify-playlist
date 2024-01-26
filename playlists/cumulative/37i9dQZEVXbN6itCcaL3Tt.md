@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,534 songs - 3 day 6 hr 44 min
+1,535 songs - 3 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [ELEKTRYCZNE KRZESŁO](https://open.spotify.com/track/6fOvRdhEYcZGQ17G0DbcRJ) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [<33](https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi) | 1:51 | 2023-09-09 | 2023-09-11 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-05-15 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-09 | 2022-02-06 |
-| [Erotyczne Pif\-Paf](https://open.spotify.com/track/5dQ174Gi0u3FOq0xF32PEr) | [Figo i Samogony](https://open.spotify.com/artist/6oOSXrGnm3gri3wZBkpx1t) | [Erotyczne Pif\-Paf](https://open.spotify.com/album/4fNY1TWEYlLxL6ZifF1Rev) | 2:55 | 2023-12-29 |  |
+| [Erotyczne Pif\-Paf](https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw) | [Figo i Samogony](https://open.spotify.com/artist/6oOSXrGnm3gri3wZBkpx1t) | [Erotyczne Pif\-Paf](https://open.spotify.com/album/4k7PWbA31OkVs8SFxmTuqG) | 2:55 | 2024-01-25 |  |
+| [Erotyczne Pif\-Paf](https://open.spotify.com/track/5dQ174Gi0u3FOq0xF32PEr) | [Figo i Samogony](https://open.spotify.com/artist/6oOSXrGnm3gri3wZBkpx1t) | [Erotyczne Pif\-Paf](https://open.spotify.com/album/4fNY1TWEYlLxL6ZifF1Rev) | 2:55 | 2023-12-29 | 2024-01-26 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-08 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2023-01-10 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-16 |

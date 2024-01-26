@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain](/playlists/plain/37i9dQZF1DWYLUQ5WYaArq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLUQ5WYaArq)
 
-### [Throwback Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
+### [ThrowBlak Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
 
 > Sovereign Songs\. Curator: Alethea Beetson\. Aboriginal and Torres Strait Islander listeners are advised that the following playlist  contains voices and images of people who have passed away\. Cover: Warumpi Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,145 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,200 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 69 | [Never Be the Same](https://open.spotify.com/track/71RVcxj9HH4r6bkxG7spaQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful](https://open.spotify.com/album/0r5gtFG4UsSkDafxSdRuiL) | 3:52 |
 | 70 | [January 26 \(feat\. Dan Sultan\)](https://open.spotify.com/track/7szgrzgfRnz7MgL0AOe27H) | [A.B\. Original](https://open.spotify.com/artist/6Lgfto5TiWLnHMpERQXlB9), [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Reclaim Australia](https://open.spotify.com/album/4FgiofF77E2jhlog9M8cec) | 3:17 |
 
-Snapshot ID: `MCxkNDAwYTAxMTZlZDZmZmNlZWIxZDFhMTgzNjFjOGMxYzI5NmMxOWI5`
+Snapshot ID: `MCw2NzAyMjRhZDYzODI3YTI5NGQwMWMzODkyNzY0MDg0NDkyYjFiYmU1`

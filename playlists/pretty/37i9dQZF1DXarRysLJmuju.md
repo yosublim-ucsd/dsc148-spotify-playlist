@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Allie X
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,643 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,621 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [another soul](https://open.spotify.com/track/0Yos7Ql3MvIXE56swDiInZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [the tears we fight EP](https://open.spotify.com/album/1IO5EbKNw91tCMIb3LdRze) | 2:57 |
 | 100 | [Sleep Without You](https://open.spotify.com/track/2c5u2s4UwS1NXGgx0TVZAL) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Sleep Without You](https://open.spotify.com/album/5vrUI7qCAVi9bjgszhk7OH) | 2:42 |
 
-Snapshot ID: `MCxjMWZjZDYzNmMwMDJkMjkyYjY5MTMzMjhiZDEwMmY1ZWU3MGExOWNm`
+Snapshot ID: `MCw2ZDU3YTViNTAwNjFlZjYwOGIyNzYwZmVkZWMxNDY2NjFjNmIxY2Nm`

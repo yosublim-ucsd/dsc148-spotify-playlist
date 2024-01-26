@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,409 songs - 3 day 7 hr 1 min
+1,410 songs - 3 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-22 |
 | [TOKYO](https://open.spotify.com/track/3c6Xqcu053Y8vPG1Yw1VCW) | [MITREVV](https://open.spotify.com/artist/29JDW7YBoYLyRs7mUg2Lzq) | [TOKYO](https://open.spotify.com/album/6yNsOSlopblgqgyZcxiUNy) | 2:07 | 2023-03-28 | 2023-06-30 |
 | [TOKYO DRILL](https://open.spotify.com/track/6i6vOcSD5WOwLJ2P2y3L84) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2) | [DEVA](https://open.spotify.com/album/5sSk1zBXbMZ1KLWnvox8Qk) | 3:13 | 2021-03-27\* | 2021-04-24 |
+| [Tonight](https://open.spotify.com/track/0oQ4qvzUbEXqWHy5um4nZS) | [Dj Alfa](https://open.spotify.com/artist/4XxtTMLWNFg5ULKgpMLjXi) | [Tonight](https://open.spotify.com/album/6Kjh164B8sGjnTWg6KhZll) | 3:48 | 2024-01-25 |  |
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 | 2022-12-03 |  |
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:19 | 2022-12-04 | 2022-12-09 |
 | [Top Bokluka](https://open.spotify.com/track/3JfpM8baQR0UddyiNNflah) | [Marso](https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv) | [Top Bokluka](https://open.spotify.com/album/0x7Gcv2DNs8o2Lx5mGGbyd) | 2:37 | 2023-05-13 | 2023-06-09 |
@@ -1402,7 +1403,7 @@
 | [Телефона](https://open.spotify.com/track/5NNE4zYPnE7bcT6OCt8B3w) | [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Телефона](https://open.spotify.com/album/7bKzqX7n3toD2Cf2u5AX8v) | 4:00 | 2023-02-13 | 2023-06-27 |
 | [Ти не си за мен](https://open.spotify.com/track/2gTyfm5jrmTx4IH9K0CJk3) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Ти не си за мен](https://open.spotify.com/album/0FeTfkOdeeDhTnEz7LCn7O) | 3:37 | 2021-07-26 | 2022-08-02 |
 | [Ти си ми живота](https://open.spotify.com/track/0LFA5mrgC8ni2CGoDr8WDm) | [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6), [Leo](https://open.spotify.com/artist/6m4gYsiRGzG3z1ae3VZg52) | [Ти си ми живота](https://open.spotify.com/album/0j41J0O0UXdk6eNsVCNi3Q) | 3:57 | 2022-01-20 | 2022-04-19 |
-| [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 | 2024-01-24 |  |
+| [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 | 2024-01-24 | 2024-01-26 |
 | [Токсичен](https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu) | [Desi Slava](https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG) | [Токсичен](https://open.spotify.com/album/34bAlG5aCwHO8CNodbQd5N) | 3:22 | 2021-06-02 | 2023-12-26 |
 | [Трезора](https://open.spotify.com/track/4BGRK42GfRCw2Hoolpu1G7) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Трезора](https://open.spotify.com/album/6nNQxk5s69aBwn16idYzeQ) | 3:35 | 2022-05-19 | 2022-07-21 |
 | [Трилогия \(Trilogy\)](https://open.spotify.com/track/2jEgS0xLFvmoBDk43ZcPpp) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Трилогия](https://open.spotify.com/album/52J0cEVQAEuPwxWKn22uAV) | 8:28 | 2023-02-28 | 2023-06-03 |

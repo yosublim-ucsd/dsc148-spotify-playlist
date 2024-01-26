@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-38 songs - 2 hr 12 min
+39 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [irony of choice](https://open.spotify.com/track/0n818xv8jNlkAwf9NBv8v9) | [Se Rin Jung](https://open.spotify.com/artist/4vKfrDcWqtPpqqWmzH26wO) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 2:42 | 2023-07-05 |  |
 | [Let me be](https://open.spotify.com/track/5HMicsistMNaVU269x6ZzY) | [Baek Z Young](https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5j9ToR3tEoiBKBhqHSPTp0) | 4:27 | 2023-07-05 |  |
 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 | 2023-07-17 |  |
+| [Masquerade](https://open.spotify.com/track/0eQZxRfdIZrCH80qFOBYAV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST Part.1](https://open.spotify.com/album/6vCthWDxGcU9d0eZZKPjxp) | 3:59 | 2023-07-28 |  |
 | [Masquerade](https://open.spotify.com/track/3qzIiJxXlWD8rkeuFtG5YO) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C) | 3:59 | 2023-07-05 | 2023-08-09 |
-| [Masquerade](https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST](https://open.spotify.com/album/4dUX8oSxxSeZdll1GLOM48) | 3:59 | 2023-07-28 |  |
+| [Masquerade](https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST](https://open.spotify.com/album/4dUX8oSxxSeZdll1GLOM48) | 3:59 | 2023-07-28 | 2024-01-26 |
 | [Masquerade](https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES) | 3:59 | 2023-07-28 | 2024-01-14 |
 | [My Memory](https://open.spotify.com/track/12b7eFXKrN0YpCZUrowr2L) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1VNrFFuQolqocGmkywk4ER) | 3:13 | 2023-07-05 | 2023-08-09 |
 | [My memory](https://open.spotify.com/track/1N5d2ytjQK25flrdxfCAQt) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis \(Original Television Soundtrack\)](https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN) | 3:13 | 2023-07-28 | 2024-01-02 |

@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-196 songs - 16 hr 55 min
+197 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Future Flora](https://open.spotify.com/track/7vNFSztgOnpeOgPhWEbiU1) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Future Flora](https://open.spotify.com/album/2ON7c80IGfMp45NUAPZDIK) | 13:22 | 2022-09-08 | 2023-02-24 |
 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 | 2022-09-08 | 2022-12-17 |
 | [GBG7](https://open.spotify.com/track/5sudUuLvTgX3KYt7mAKhFO) | [Yannick Peeters](https://open.spotify.com/artist/56mocJpAyqTTNCYwrWKbl8), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO), [Frederik Leroux](https://open.spotify.com/artist/3YV0ck6nM0n2Ee7BCifHmR), [Frans Van Isacker](https://open.spotify.com/artist/0CWdD3PavKLREUxKbT4KJK) | [GBG7](https://open.spotify.com/album/0swGd8dwpZyTg14i11o3RL) | 4:28 | 2023-12-14 |  |
-| [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 | 2022-09-08 |  |
+| [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 | 2022-09-08 | 2024-01-26 |
 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 | 2022-09-08 | 2023-02-24 |
 | [Holy Bee](https://open.spotify.com/track/6583TUNTEEgIeTB5M7NpYr) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Propolis For The People](https://open.spotify.com/album/3qdAcFsTEriSmezw5jX5HM) | 6:57 | 2023-12-14 |  |
 | [Honu](https://open.spotify.com/track/2a0BmJt3vqnyrz9xaNnyot) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Honu](https://open.spotify.com/album/3mVXSxRPdBmrr7E854vH92) | 3:42 | 2022-09-08 | 2022-09-26 |
@@ -176,6 +176,7 @@
 | [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 | 2023-06-23 | 2023-10-14 |
 | [The Dimmed](https://open.spotify.com/track/6d1InEmfCNHQoK1ZCC1pjK) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:56 | 2023-10-06 |  |
 | [The Hordes](https://open.spotify.com/track/4Klyb5vlUOcwFy1NUfKFh4) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:16 | 2023-10-06 |  |
+| [The Houses](https://open.spotify.com/track/06OJTgjpwhCxRsXBff6z4f) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [The Houses](https://open.spotify.com/album/5MMKR9lXuOrc0doVmEthog) | 3:42 | 2024-01-25 |  |
 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 | 2022-09-08 |  |
 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 | 2023-09-07 | 2023-10-07 |
 | [Time Faded](https://open.spotify.com/track/55pmNeWiqkuqFel6lDcQA8) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Time Faded](https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr) | 3:47 | 2023-02-23 |  |

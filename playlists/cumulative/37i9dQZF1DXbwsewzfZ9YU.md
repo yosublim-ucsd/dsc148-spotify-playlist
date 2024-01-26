@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-178 songs - 7 hr 23 min
+179 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-18 | 2023-09-23 |
 | [Sink In](https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA) | [Playytime](https://open.spotify.com/artist/37YG1k18DuWDs5fvr7oeH4) | [The Fun Never Ends](https://open.spotify.com/album/53KgNl5d5ff9Md1lfzj6gz) | 2:13 | 2023-08-11 |  |
 | [Six](https://open.spotify.com/track/4rPwYXHbHfxqkkgYaJIkWQ) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [SUNAMI \(L.P.\)](https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara) | 1:52 | 2023-12-12 |  |
-| [Snack Run](https://open.spotify.com/track/5YftK2fb0dnyoY88UvljS1) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 0:56 | 2023-08-11 |  |
+| [Snack Run](https://open.spotify.com/track/4wPX5hYCAWO3t3Nd1m2Ayc) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/3DYCuD1bLsxXpXot6O4xpp) | 0:56 | 2023-12-12 |  |
+| [Snack Run](https://open.spotify.com/track/5YftK2fb0dnyoY88UvljS1) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 0:56 | 2023-08-11 | 2024-01-26 |
 | [Soul Deprivation](https://open.spotify.com/track/2znXHOOnt1MyScfn5BS9z0) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Depictions of Chaos](https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh) | 2:28 | 2023-02-24 | 2023-07-18 |
 | [Space Jam](https://open.spotify.com/track/136Q0eeThQ5XXdZugchB1S) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Space Jam](https://open.spotify.com/album/6M17HNFNTvOuEJYIrjvoBe) | 1:38 | 2023-07-21 | 2023-09-23 |
 | [Squeeze](https://open.spotify.com/track/12o45aFJK74xn4SiaIeeLU) | [Truth Cult](https://open.spotify.com/artist/3idKv5QWykt5CeMmgogMMh) | [Walk the Wheel](https://open.spotify.com/album/62sp2ksHKvPsMGCZOnGmMS) | 1:15 | 2023-08-11 | 2023-08-26 |

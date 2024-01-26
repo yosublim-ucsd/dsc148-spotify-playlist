@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Jul",
+  "description": "Photo: Hamza x Kaaris",
   "name": "Best Life",
   "tracks": [
     {
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Picoler",
+        "url": "https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189883,
+      "name": "Picoler",
+      "url": "https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ"
+    },
+    {
+      "album": {
         "name": "Piranha (feat. Vacra)",
         "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
       },
@@ -1221,6 +1239,32 @@
     },
     {
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3Lfn5Dl1gfkwuLxjVDKaGE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166751,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1"
+    },
+    {
+      "album": {
         "name": "T'as capt\u00e9 (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB"
       },
@@ -1298,7 +1342,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176129,
       "name": "Traficante",
       "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
@@ -1412,7 +1456,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"

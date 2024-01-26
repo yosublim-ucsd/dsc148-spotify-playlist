@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 33478,
+  "2024-01-26": 33511,
   "date_first_scraped": "2022-06-22",
   "description": "Our editor\u2019s picks for best pop songs of the year. Cover: Hana Shafa",
   "name": "Best of Sinhala Pop 2023",
@@ -3863,6 +3863,24 @@
     {
       "album": {
         "name": "Mulawe",
+        "url": "https://open.spotify.com/album/2xLKrJjiSB9xslmG73JNNH"
+      },
+      "artists": [
+        {
+          "name": "Mihiran",
+          "url": "https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235365,
+      "name": "Mulawe",
+      "url": "https://open.spotify.com/track/0KFSSZ7PgFR79z8a1NMYxZ"
+    },
+    {
+      "album": {
+        "name": "Mulawe",
         "url": "https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc"
       },
       "artists": [
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 235365,
       "name": "Mulawe",
       "url": "https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7"

@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 1437,
+  "2024-01-26": 1436,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E\">Boi-1da</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Boi-1da",
@@ -405,7 +405,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 175317,
       "name": "At Will",
       "url": "https://open.spotify.com/track/79Wuxwk61sT9gPebQ3INRm"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 170840,
       "name": "At Will (feat. EST Gee)",
       "url": "https://open.spotify.com/track/193hIaWPYRtzWIcTAMtkKI"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 250541,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3rb2RMzmaK8VtWjhDhOLQb"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 198973,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 356856,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/05mhPiyBlhHAHBLXU3sJYj"
@@ -3338,6 +3338,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },
@@ -3375,7 +3397,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 547711,
       "name": "No Guidance",
       "url": "https://open.spotify.com/track/6EMdWKiCwbUSDa3Su6uJpe"
@@ -3397,7 +3419,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -4439,7 +4461,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF"
@@ -4457,7 +4479,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 204309,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/2nOIBkn1U4Aq9cXh8j54eV"
@@ -4744,6 +4766,28 @@
     },
     {
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Mango Foo",
+          "url": "https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "SKYAMI (feat. Mango Foo)",
+      "url": "https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3"
+    },
+    {
+      "album": {
         "name": "All I Wanna Do (EP)",
         "url": "https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft"
       },
@@ -4827,7 +4871,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 205205,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/3LBM25IgxI9y549SiYxtSi"
@@ -4845,7 +4889,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 232703,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1327DCkONksf0c7eQVeRUG"
@@ -5237,7 +5281,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 156578,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
@@ -5255,7 +5299,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 181764,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/2AYVCBa6i7nZb9iE8BeJEZ"
@@ -5691,7 +5735,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 176000,
       "name": "X-Wing",
       "url": "https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw"
@@ -5709,7 +5753,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 180471,
       "name": "X-Wing",
       "url": "https://open.spotify.com/track/7tsoKcl8cCyVQJo0yL4Uh6"

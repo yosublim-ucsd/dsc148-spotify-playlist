@@ -14570,10 +14570,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 193645,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/3ozgRIW4uVNhRFut62cYqv"
+    },
+    {
+      "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/2UIJE0D59c2RRPYRjpRf6G"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193645,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/6fn8eO4pon16p90bSE63yI"
     },
     {
       "album": {

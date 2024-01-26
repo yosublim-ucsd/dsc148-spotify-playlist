@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Dara Rolins
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,137 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,140 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 25 | [Maria](https://open.spotify.com/track/3I9vkpxO4ucNbPwpk2cRbt) | [Lenka Dusilová](https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI) | [Maria](https://open.spotify.com/album/0TBSHL5acJQfKLjlst3SAe) | 3:12 |
 | 26 | [Higher Than Earth](https://open.spotify.com/track/1En4cGGNrt2Ok3VIdsgwPv) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N), [Joo Baldi](https://open.spotify.com/artist/40Uaiw3SIlIPSFEgo1uFzM) | [Higher Than Earth](https://open.spotify.com/album/3iUtyjdn75eOVlmJ3V1zhG) | 3:49 |
 | 27 | [Will I See You Again](https://open.spotify.com/track/5Z2NUfG8SbFN7MYHyuAGJY) | [Lily Juls](https://open.spotify.com/artist/7v7vdWSbc7lDT3HAyNKByF) | [Will I See You Again](https://open.spotify.com/album/4x2DdTZxmuiJfuutYSHESa) | 3:15 |
-| 28 | [Na to hezký vzpomínej](https://open.spotify.com/track/0iOJyep6NuH7S5CV0YwzS1) | [Alzbeta Koleckarova](https://open.spotify.com/artist/17e70AIEEDOSK9c6jbHQS9), [Martha](https://open.spotify.com/artist/2JkxFUJwaOvmSD6hjzpkeD) | [Na to hezký vzpomínej](https://open.spotify.com/album/5hpa3Hg5clQtqOmVW9pVF2) | 3:01 |
+| 28 | [Na to hezký vzpomínej](https://open.spotify.com/track/0iOJyep6NuH7S5CV0YwzS1) | [Alžběta Kolečkářová](https://open.spotify.com/artist/17e70AIEEDOSK9c6jbHQS9), [Martha](https://open.spotify.com/artist/2JkxFUJwaOvmSD6hjzpkeD) | [Na to hezký vzpomínej](https://open.spotify.com/album/5hpa3Hg5clQtqOmVW9pVF2) | 3:01 |
 | 29 | [ILLUMIN8](https://open.spotify.com/track/1aEqcsN1iGoFnZKww2oEX2) | [Dianah Kay](https://open.spotify.com/artist/5uQDn2WcyNbtvocmhVT0nz) | [ILLUMIN8](https://open.spotify.com/album/2fnUrqHA36JskCNa95SuaR) | 3:06 |
 | 30 | [Oni](https://open.spotify.com/track/20UIB8qsqjUeVfFGTqCz5V) | [Katarina Knechtova](https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh) | [Oni](https://open.spotify.com/album/4eugd1iizKyMtboKuk2FMc) | 3:23 |
 | 31 | [Presne Tak](https://open.spotify.com/track/6kKL61DXOSrKaUrsw5CTgz) | [Nia](https://open.spotify.com/artist/4Z1CxJhs6F9RGY84vEHpeJ) | [Presne Tak](https://open.spotify.com/album/32vCQZTho9OSnfe05Cp5BQ) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Pokoj](https://open.spotify.com/track/2rmTnyigSJHF5fYveUE8EF) | [Anna Julie Slováčková](https://open.spotify.com/artist/45C0jb0FPI7HncTBp0eGjO) | [Pokoj](https://open.spotify.com/album/1qrY29Hy6gYOfCy6KCwprp) | 2:53 |
 | 50 | [No a co](https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [No a co](https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3) | 2:43 |
 
-Snapshot ID: `MCxjNzg0MTE3MzgzYzU3YzdlMTVkODJmY2RlZjJlMjg4NTY1MjdkMjZk`
+Snapshot ID: `MCxhYTFiMGE4NTA5N2Q1MzM4MmVlZGEwYjBjYzhmOWM0MzMzZTc4M2Yw`

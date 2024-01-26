@@ -4,7 +4,7 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-57 songs - 2 hr 49 min
+58 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [La poupée qui fait non](https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 3:13 | 2023-09-22 |  |
 | [La rua Madureira](https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 3:23 | 2023-09-22 |  |
 | [Le bal des laze](https://open.spotify.com/track/4F7sAuWOLpyL1EzuwFDeL8) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Le Bal Des Laze](https://open.spotify.com/album/2D4WkWi5BAGSDrKXO8drBS) | 4:56 | 2023-09-22 |  |
-| [Le métèque](https://open.spotify.com/track/2s87dcsw2KjuhDnVqJ98Cu) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Le métèque](https://open.spotify.com/album/3VONguYy652EV7N4KFH4LF) | 2:33 | 2023-09-22 |  |
+| [Le métèque](https://open.spotify.com/track/2TjuDrTCg04AIad0p6021c) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Gold](https://open.spotify.com/album/4GbqCRXpTh9LMuVWn7F0Eo) | 2:29 | 2023-09-22 |  |
+| [Le métèque](https://open.spotify.com/track/2s87dcsw2KjuhDnVqJ98Cu) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Le métèque](https://open.spotify.com/album/3VONguYy652EV7N4KFH4LF) | 2:33 | 2023-09-22 | 2024-01-26 |
 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 | 2023-09-22 |  |
 | [Les copains d'abord](https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 4:01 | 2023-09-22 |  |
 | [Les elucubrations d'Antoine](https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:26 | 2023-09-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 69761,
+  "num_followers": 69798,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGJiYTlmNzAzNGFmZTQzZjFlMzY5YTJjOTNiM2ZlZDEzZDM3MDhm",
+  "snapshot_id": "MCwxZGQxNGQ2OGNkYmZjZDQ3MDU2YjJhODA5MjljZjI1ZGNkM2RlOTkz",
   "tracks": [
     {
       "added_at": "2024-01-24 23:00:00",
@@ -87,6 +87,26 @@
       "duration_ms": 148003,
       "name": "Makin' Money",
       "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -207,18 +227,22 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Bring It Hardcore",
-        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
       },
       "artists": [
         {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         }
       ],
-      "duration_ms": 284494,
-      "name": "Bring It Hardcore",
-      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -299,6 +323,22 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
+        "name": "Bring It Hardcore",
+        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 284494,
+      "name": "Bring It Hardcore",
+      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
         "name": "Xtreme Audio (Official Thunderdome 2023 Anthem)",
         "url": "https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG"
       },
@@ -351,26 +391,6 @@
       "duration_ms": 192000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -523,22 +543,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "In the year 2222",
-        "url": "https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "In the year 2222",
-      "url": "https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
       },
@@ -555,6 +559,22 @@
       "duration_ms": 188210,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "In the year 2222",
+        "url": "https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "In the year 2222",
+      "url": "https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1051,22 +1071,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -1083,6 +1087,22 @@
       "duration_ms": 185846,
       "name": "Birds Of Prey",
       "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1179,6 +1199,26 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
+        "name": "HARI HARI (2024 RMX)",
+        "url": "https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Ender",
+          "url": "https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw"
+        }
+      ],
+      "duration_ms": 196903,
+      "name": "HARI HARI (2024 RMX)",
+      "url": "https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1247,30 +1287,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Slaves To The Darkness",
-        "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
-      },
-      "artists": [
-        {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
-        },
-        {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
-        },
-        {
-          "name": "Lin was here",
-          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Slaves To The Darkness",
-      "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
@@ -1283,26 +1299,6 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "HARI HARI (2024 RMX)",
-        "url": "https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Ender",
-          "url": "https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw"
-        }
-      ],
-      "duration_ms": 196903,
-      "name": "HARI HARI (2024 RMX)",
-      "url": "https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1347,6 +1343,46 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
+        "name": "Slaves To The Darkness",
+        "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        },
+        {
+          "name": "Lin was here",
+          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Slaves To The Darkness",
+      "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
         "name": "Woo",
         "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
       },
@@ -1359,22 +1395,6 @@
       "duration_ms": 217652,
       "name": "Woo",
       "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1395,6 +1415,22 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
         "name": "The Resurrection (Official Toxicator 2022 Anthem)",
         "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
@@ -1407,26 +1443,6 @@
       "duration_ms": 254075,
       "name": "The Resurrection (Official Toxicator 2022 Anthem)",
       "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "Number One Thriller",
-        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
-      },
-      "artists": [
-        {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
-        },
-        {
-          "name": "Skorned",
-          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
-        }
-      ],
-      "duration_ms": 192324,
-      "name": "Number One Thriller",
-      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Til The AM",
         "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
       },
@@ -1535,6 +1519,42 @@
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "Number One Thriller",
+        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Skorned",
+          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
+        }
+      ],
+      "duration_ms": 192324,
+      "name": "Number One Thriller",
+      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1651,6 +1671,26 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
+      },
+      "artists": [
+        {
+          "name": "Indika",
+          "url": "https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
         "name": "DON'T BE SCARED",
         "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
       },
@@ -1675,26 +1715,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
-      },
-      "artists": [
-        {
-          "name": "Indika",
-          "url": "https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "The Gospel (Geck-o's Gabber Confession Remix)",
         "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
       },
@@ -1711,6 +1731,22 @@
       "duration_ms": 231500,
       "name": "The Gospel - Geck-o's Gabber Confession Remix",
       "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "Ruthless For Life",
+        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Ruthless For Life",
+      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1743,22 +1779,6 @@
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
-      },
-      "artists": [
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
     },
     {
       "added_at": "2024-01-24 23:00:00",

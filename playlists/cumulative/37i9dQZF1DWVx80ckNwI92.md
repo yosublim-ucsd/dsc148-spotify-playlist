@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative
+> The future of African Indie and Alternative\. Cover: Digital Sangoma
 
-120 songs - 5 hr 59 min
+122 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2023-03-30 |  |
 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 | 2023-05-18 |  |
 | [BAD 4 ME](https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:20 | 2023-03-30 | 2023-05-26 |
+| [Be You](https://open.spotify.com/track/6NQKDyqLsrQ38XW1rHmuNZ) | [Riverays](https://open.spotify.com/artist/5ryOUcwAfjNpX9DGgj83dC), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [Be You](https://open.spotify.com/album/7CsI1Y3Xy7uLaIQXeo1lk4) | 3:15 | 2024-01-25 |  |
 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 | 2023-05-11 |  |
 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 | 2023-10-13 |  |
 | [BLOODY TEXTS](https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Kbackwood$](https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj) | [BLOODY TEXTS](https://open.spotify.com/album/41FMllrWhJfvOG70np84SX) | 2:03 | 2023-03-31 | 2023-04-28 |
@@ -28,7 +29,7 @@
 | [Deep End](https://open.spotify.com/track/7tJI6riDNEPuMwN6DBI7fi) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Deep End](https://open.spotify.com/album/2GcgN5vmoqcWeQx5tk9WeT) | 3:14 | 2023-03-30 | 2023-09-22 |
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 | 2023-07-08 |
 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 | 2023-03-30 | 2023-06-09 |
-| [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 | 2023-06-08 |  |
+| [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 | 2023-06-08 | 2024-01-26 |
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-30 | 2023-05-06 |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2023-03-30 |  |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-04-06 | 2023-04-22 |
@@ -95,6 +96,7 @@
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 | 2023-05-12 |
 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 | 2023-03-30 |  |
 | [Sauti Ya Mama](https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Bruce Rooke](https://open.spotify.com/artist/3lOsr3FQbUN9gsckrlALjP), [Marlene Bett](https://open.spotify.com/artist/5JTUHLasjXvikbEIELwzr6) | [Planting Seeds](https://open.spotify.com/album/2JQP7mytuHqdtIdC5rIM6b) | 3:41 | 2023-05-05 | 2023-07-08 |
+| [Sekunjalo](https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Sekunjalo](https://open.spotify.com/album/0zHCIfkUe24snVC8PhsX3F) | 5:50 | 2024-01-25 |  |
 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 | 2023-03-30 |  |
 | [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 | 2023-03-30 | 2023-04-17 |
 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:17 | 2023-03-30 | 2023-06-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Enigma Norteño, Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,307 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,643 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Plebada Nueva \(En Vivo\)](https://open.spotify.com/track/4mgxzWfTASzCs8GVxoq7TM) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Los del Avion](https://open.spotify.com/artist/6yga6mslykqpCvq3NFK6sx) | [EN VIVO Vol\. 3](https://open.spotify.com/album/2rapOaQYbdZZQneKUrDe5m) | 3:07 |
 | 75 | [Trokonas](https://open.spotify.com/track/0ZUAFqyhSY9aYijKDDWxa6) | [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S) | [Trokonas](https://open.spotify.com/album/1so9tNAWwyNtjBrqS6SXWz) | 3:10 |
 
-Snapshot ID: `MCwwN2ZlYzM4ZDUyN2U0NWRmOGZiOTFiNmNkZjFmMmU5M2NhMGViNDBi`
+Snapshot ID: `MCwyZDMyN2MwODliNDUxZGU2NTk5NDcyYjEzZDY5YThjNGRmZjkxMTM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,340 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,618 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 84 | [Chill Mode](https://open.spotify.com/track/5YVUPrQIX3dGn5mf5eXyaB) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [G Thing](https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN) | 3:00 |
 | 85 | [Famous](https://open.spotify.com/track/5CAJV45ARpLxvDlCe2thta) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:35 |
 
-Snapshot ID: `MCwyYmU0OGIxZTNmYzUzNjM4YjU4NzE0MzEwNjk3M2QzNTNkODIyMmIx`
+Snapshot ID: `MCw3MWExZTc2NTdjZjVlNzcyZjg2MTE5MmJmYzIxYzNhNmVlNjQxMTEz`

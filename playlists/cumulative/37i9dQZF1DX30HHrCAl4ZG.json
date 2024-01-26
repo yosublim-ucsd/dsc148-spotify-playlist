@@ -16588,7 +16588,7 @@
     {
       "album": {
         "name": "Portrait",
-        "url": "https://open.spotify.com/album/3gXFRkeKBkmuwMqUerFdyy"
+        "url": "https://open.spotify.com/album/7pB0gcQfxapoGF6Deslljs"
       },
       "artists": [
         {
@@ -16599,6 +16599,24 @@
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Portrait",
+      "url": "https://open.spotify.com/track/373VRQ3zCZuABm0SSZ8OY4"
+    },
+    {
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/3gXFRkeKBkmuwMqUerFdyy"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-26",
       "duration_ms": 182139,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/0jN6VtQl7aeukpU3pcPuYH"

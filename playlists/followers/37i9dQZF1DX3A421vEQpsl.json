@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 180320,
+  "2024-01-26": 180435,
   "date_first_scraped": "2022-05-30",
   "description": "Hits, repackaged by Bollywood. Cover - Badrinath Ki Dulhania",
   "name": "Bollywood 2.O",
@@ -124,6 +124,32 @@
     },
     {
       "album": {
+        "name": "Happy Hardy And Heer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zoajcXYOTNIMtIZQrrLYv"
+      },
+      "artists": [
+        {
+          "name": "Ranu Mondal",
+          "url": "https://open.spotify.com/artist/3P6BWZyi5871LwRpjTlcX8"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Kiran Kamath",
+          "url": "https://open.spotify.com/artist/6vdtEGdFKh4hO5EcZgG7qh"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316744,
+      "name": "Aashiqui Mein Teri 2.0 - Remix",
+      "url": "https://open.spotify.com/track/1LJshHdjGjrn2nB3jkyn8z"
+    },
+    {
+      "album": {
         "name": "Aila Re Aillaa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/4eh49RMjtblXH3IKE98rps"
       },
@@ -239,7 +265,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 182170,
       "name": "Arjan Vailly (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
@@ -803,6 +829,36 @@
       "duration_ms": 174711,
       "name": "Gali Gali (From \"Kgf Chapter 1\")",
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg"
+    },
+    {
+      "album": {
+        "name": "Jawaani Jaaneman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR"
+      },
+      "artists": [
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Mumzy Stranger",
+          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194726,
+      "name": "Gallan Kardi",
+      "url": "https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu"
     },
     {
       "album": {
@@ -1605,7 +1661,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 188101,
       "name": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ"
@@ -1727,7 +1783,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 215092,
       "name": "Madhaniyan",
       "url": "https://open.spotify.com/track/0L0EHuJRqIbEnEc1hPSmhg"
@@ -1965,7 +2021,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 322442,
       "name": "Mirchi Lagi Toh (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/46HqZTCD7Wqd0Q95iuuHmt"

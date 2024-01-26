@@ -4,7 +4,7 @@
 
 > Les indispensables de l'été.
 
-78 songs - 4 hr 4 min
+79 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/1GBfNdK0Yw9Hy0OWCoKhYT) | [MUSIC LAB JPN](https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I) | [A collection of Western music that will get you excited](https://open.spotify.com/album/2GYfY0yKepUSBSv40OaKXt) | 3:18 | 2023-09-25 | 2023-11-21 |
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/4NthuXXMbzAgJjhcV62SEq) | [WORK OUT GYM \- DJ MIX](https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS) | [WORK OUT MUSIC MIX](https://open.spotify.com/album/4uEeKKmhutQrGULNtg3V3i) | 3:18 | 2023-09-25 | 2023-10-26 |
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/6igJeXPm1imhj1oEXjOxwN) | [WORK OUT GYM \- DJ MIX](https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS) | [Let's Workout \- Best Pop Hits \-](https://open.spotify.com/album/24MeYO60K87MWsx9e3NMGW) | 3:18 | 2023-09-25 | 2023-10-11 |
-| [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2022-12-16 |  |
+| [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/1zcblo8rJJqbUScTzNAayv) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Eclectic Dining](https://open.spotify.com/album/5nPMaHwFKXIe77Kpwm3KBq) | 4:36 | 2023-09-25 |  |
+| [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2022-12-16 | 2024-01-26 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-12-16 |  |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2022-12-16 |  |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2022-12-16 |  |

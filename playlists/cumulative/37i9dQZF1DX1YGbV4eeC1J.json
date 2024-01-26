@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Darassa & Phina",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Otile Brown & Rayvanny",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 189570,
       "name": "Abee",
       "url": "https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP"
+    },
+    {
+      "album": {
+        "name": "African Girl",
+        "url": "https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k"
+      },
+      "artists": [
+        {
+          "name": "Bruce africa",
+          "url": "https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3"
+        },
+        {
+          "name": "Joh Marley",
+          "url": "https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215619,
+      "name": "African Girl",
+      "url": "https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58"
     },
     {
       "album": {
@@ -132,6 +154,28 @@
       "duration_ms": 221591,
       "name": "Asali",
       "url": "https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB"
+    },
+    {
+      "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd"
     },
     {
       "album": {
@@ -416,7 +460,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 213029,
       "name": "Dusuma",
       "url": "https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V"
@@ -1017,6 +1061,32 @@
     },
     {
       "album": {
+        "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
+        "url": "https://open.spotify.com/album/52cracIwbALowujVVS3onE"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/4MBbQTNGuU79xD84szvt0a"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248999,
+      "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
+      "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
+    },
+    {
+      "album": {
         "name": "Maradonna",
         "url": "https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2"
       },
@@ -1282,7 +1352,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 253483,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv"
@@ -2438,7 +2508,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 266006,
       "name": "Wimbo Wetu",
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"

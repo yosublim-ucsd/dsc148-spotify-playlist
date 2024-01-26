@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 3485777,
+  "2024-01-26": 3486045,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 156377,
       "name": "Beijo Equivocado",
       "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
@@ -10837,7 +10837,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 174549,
       "name": "Meu Hobby - Ao Vivo",
       "url": "https://open.spotify.com/track/1MeaXiIiI0MCIirQhkxQR6"

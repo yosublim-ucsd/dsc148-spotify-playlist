@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 37853,
+  "2024-01-26": 37861,
   "date_first_scraped": "2023-03-30",
   "description": "Fresh Punjabi Rap. Cover:  Sikander Kahlon",
   "name": "Burrh Rap",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 152687,
       "name": "Clutch Baliye",
       "url": "https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW"
@@ -1321,6 +1321,32 @@
       "duration_ms": 211612,
       "name": "Ohi Munda",
       "url": "https://open.spotify.com/track/2vIkZF1SNbNTSZT75EaCmq"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu"
+      },
+      "artists": [
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        },
+        {
+          "name": "Ishan",
+          "url": "https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu"
+        },
+        {
+          "name": "Ilam",
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd"
     },
     {
       "album": {

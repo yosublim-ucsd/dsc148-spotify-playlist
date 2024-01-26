@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-203 songs - 9 hr 57 min
+204 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Whole New World](https://open.spotify.com/track/0c5rB7E7bghYtOOKdmRUGC) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 3:14 | 2022-04-15 |  |
 | [A Whole New World](https://open.spotify.com/track/57EzImH75KL4o1UD2JZvv9) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:15 | 2022-04-29 |  |
 | [A Whole New World](https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 4:03 | 2022-04-15 |  |
+| [A Wish Worth Making](https://open.spotify.com/track/0bzD4NrdJpYqSvlPFSgeyV) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:53 | 2024-01-25 |  |
 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/7LAwEDbICtOIA1o4cBUk7U) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:25 | 2022-04-15 |  |
 | [Alice in Wonderland](https://open.spotify.com/track/6IamvcHp2XrLsYWIsXAs6W) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:02 | 2022-04-15 |  |
 | [All Is Found](https://open.spotify.com/track/0SdFIDXpGJnd7rIWbXQxIv) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 2:23 | 2022-04-15 |  |

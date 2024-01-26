@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "The Ecstatic",
+        "url": "https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274480,
+      "name": "Auditorium",
+      "url": "https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ"
+    },
+    {
+      "album": {
         "name": "8 ALBUM",
         "url": "https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri"
       },

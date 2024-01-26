@@ -84,7 +84,7 @@
     {
       "album": {
         "name": "All In You",
-        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+        "url": "https://open.spotify.com/album/45v4Kwxb4upVw2aKKrbbHX"
       },
       "artists": [
         {
@@ -99,6 +99,28 @@
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 512182,
+      "name": "All In You",
+      "url": "https://open.spotify.com/track/30sVOLGvI0UwPGMiWhRjvC"
+    },
+    {
+      "album": {
+        "name": "All In You",
+        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Kemy Chienda",
+          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-26",
       "duration_ms": 512182,
       "name": "All In You",
       "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"

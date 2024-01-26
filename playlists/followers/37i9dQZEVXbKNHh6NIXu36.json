@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 118375,
+  "2024-01-26": 118369,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Austria.",
   "name": "Top 50 - Austria",
@@ -4005,7 +4005,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 185639,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/25PdhSUDFc26Eb3pA9aOaz"
@@ -6451,6 +6451,32 @@
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/4Il5MRvAUFgWsz247UStqj"
+      },
+      "artists": [
+        {
+          "name": "Musata",
+          "url": "https://open.spotify.com/artist/3hzvLkXg07qMzHEEPHwzSp"
+        },
+        {
+          "name": "Rasoul Bahari",
+          "url": "https://open.spotify.com/artist/4fJ648yFf9KJsNtX7LoCOu"
+        },
+        {
+          "name": "DJ Musata",
+          "url": "https://open.spotify.com/artist/0UGw4ysxyLPR7jYUw3HbiY"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185002,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/1ixxJ2bVeIpDs2hiQTCVSf"
     },
     {
       "album": {
@@ -16949,7 +16975,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 117957,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1nkDuqTrwWjHinq4rjx0Lx"
@@ -27097,7 +27123,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
@@ -35233,7 +35259,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

@@ -250,10 +250,28 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "a beautiful day",
       "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
+    },
+    {
+      "album": {
+        "name": "A Blessing in Nature",
+        "url": "https://open.spotify.com/album/1azcXBhpdjoalgJRu2Xw23"
+      },
+      "artists": [
+        {
+          "name": "Classy Moon",
+          "url": "https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "A Bound in Morning Sun",
+      "url": "https://open.spotify.com/track/4MnGv2cAVpMIGa5MlozHbb"
     },
     {
       "album": {
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225600,
       "name": "Call (Deep Blue)",
       "url": "https://open.spotify.com/track/5exTGAxhHvzjtUJphI9sJq"
@@ -6789,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3"
+    },
+    {
+      "album": {
         "name": "Koto Lyra",
         "url": "https://open.spotify.com/album/1M5td7EALTL3XLlaR3weJ1"
       },
@@ -7298,7 +7334,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 112008,
       "name": "surfkids nostalgia",
       "url": "https://open.spotify.com/track/4gKmBDS84ly3f5nlAEU3Fk"
@@ -8206,7 +8242,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 255178,
       "name": "Utano",
       "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"

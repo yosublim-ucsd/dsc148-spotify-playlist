@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 184070,
+  "num_followers": 184171,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
+  "snapshot_id": "MCwyM2UxZjY4MDFkYzI4MTFjNDcxOTA1ZjU0MGI1MzQ5ZjQzNzFhNjgy",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Feel Your Feelings Fool!",
-        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Seashore",
-      "url": "https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Feel Your Feelings Fool!",
+        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Seashore",
+      "url": "https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
-      },
-      "artists": [
-        {
-          "name": "Weakened Friends",
-          "url": "https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK"
-        }
-      ],
-      "duration_ms": 182477,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Too Young To Be In Love",
-        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
       },
       "artists": [
         {
-          "name": "Hunx & His Punx",
-          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+          "name": "Weakened Friends",
+          "url": "https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Lovers Lane",
-      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
+      "duration_ms": 182477,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -759,6 +743,22 @@
       "duration_ms": 291600,
       "name": "Bird in Space",
       "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Too Young To Be In Love",
+        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+      },
+      "artists": [
+        {
+          "name": "Hunx & His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Lovers Lane",
+      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Night in the Woods",
-        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
-      },
-      "artists": [
-        {
-          "name": "Gender Chores",
-          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Night in the Woods",
-      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Make Yr Life",
         "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 202293,
       "name": "She's so Lovely",
       "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Night in the Woods",
+        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
+      },
+      "artists": [
+        {
+          "name": "Gender Chores",
+          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Night in the Woods",
+      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 86000,
       "name": "Big Shouty",
       "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+      },
+      "artists": [
+        {
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+        }
+      ],
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Divine Violence",
-        "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
-      },
-      "artists": [
-        {
-          "name": "itoldyouiwouldeatyou",
-          "url": "https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe"
-        }
-      ],
-      "duration_ms": 202231,
-      "name": "Divine Violence",
-      "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Divine Violence",
+        "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
+      },
+      "artists": [
+        {
+          "name": "itoldyouiwouldeatyou",
+          "url": "https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe"
+        }
+      ],
+      "duration_ms": 202231,
+      "name": "Divine Violence",
+      "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
     },
     {
       "added_at": "2023-05-25 14:38:53",

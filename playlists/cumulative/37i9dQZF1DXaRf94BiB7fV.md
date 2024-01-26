@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in India\. Cover: Ruhaan79, Artwork: Isu Kim
 
-1,072 songs - 2 day 15 hr 2 min
+1,073 songs - 2 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,7 +899,8 @@
 | [Tera Zikr](https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Tera Zikr](https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq) | 3:57 | 2022-06-15 | 2022-09-29 |
 | [Tere Bin](https://open.spotify.com/track/5gcWdWnNbhePqIyuc1Ckha) | [Ratnang Singh](https://open.spotify.com/artist/4nxcA82Y5ryQvv6YV6PzIn) | [Tere Bin](https://open.spotify.com/album/6FX7yO89yse50JYRHawQW9) | 3:18 | 2021-12-01 | 2022-01-13 |
 | [Tere Bin Jeena](https://open.spotify.com/track/3kZY2qYmj5aGA9Abay1JFy) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Utkarsh Srivastava](https://open.spotify.com/artist/3NjTUyaPq8pQFSjJlm3rgm) | [Tere Bin Jeena](https://open.spotify.com/album/6OJS7wv48gXAVXHJoRoKyA) | 2:56 | 2023-03-01 | 2023-04-13 |
-| [Tere Bina Jiya Jaye Na](https://open.spotify.com/track/0TthPVr1cZg4SuA7nsJe4a) | [Siddharth Bharadwaj](https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR), [Ranamit Sarma](https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2) | [Tere Bina Jiya Jaye Na](https://open.spotify.com/album/0oBm7u9JgClT1pOFZEilap) | 3:54 | 2023-11-22 |  |
+| [Tere Bina Jiya Jaye Na](https://open.spotify.com/track/0TthPVr1cZg4SuA7nsJe4a) | [Siddharth Bharadwaj](https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR), [Ranamit Sarma](https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2) | [Tere Bina Jiya Jaye Na](https://open.spotify.com/album/0oBm7u9JgClT1pOFZEilap) | 3:54 | 2023-11-22 | 2024-01-26 |
+| [Tere Bina Jiya Jaye Na](https://open.spotify.com/track/3g0PtWvvLSVl5G5N5nRF6d) | [Siddharth Bharadwaj](https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR), [Ranamit Sarma](https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2) | [Tere Bina Jiya Jaye Na](https://open.spotify.com/album/2yEdok1S6rmrldQc9ElNyI) | 3:54 | 2024-01-10 |  |
 | [Tere Irade](https://open.spotify.com/track/5ejGH18GdRX7rFlH50eufR) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Tere Irade](https://open.spotify.com/album/5lQelyYoBHYfS6UCnL1Sty) | 2:53 | 2022-09-14 | 2023-03-02 |
 | [Tere Liye](https://open.spotify.com/track/2CIoyocoRVqRKUZE8DZABT) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL) | [Tere Liye](https://open.spotify.com/album/1E1T4fz6rtaeAhw4BnpdG2) | 3:52 | 2023-03-08 | 2023-04-06 |
 | [Tere Liye](https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ) | [Tanmay Ghoshal](https://open.spotify.com/artist/20lfDLhyyv0gQi59As3JQ0) | [Tere Liye](https://open.spotify.com/album/1gDNF9FyEQkjVRhu8LXQCS) | 5:14 | 2023-09-27 | 2023-11-23 |

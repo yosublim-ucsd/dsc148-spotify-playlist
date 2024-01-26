@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 147593,
+  "num_followers": 147588,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWI5ZTFjZWI2NjlkY2M2ZDc0YmZjZGZlYzUyODNhOTI2OTk1YzZm",
+  "snapshot_id": "MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 158685,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Urban Cowboy (Where the City Meets the Country)",
-        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
+        "name": "Stomp Them Boots",
+        "url": "https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ"
       },
       "artists": [
         {
-          "name": "The Maverick Mikel Knight",
-          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
+          "name": "Young Gunner",
+          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
+        },
+        {
+          "name": "Twang and Round",
+          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
         }
       ],
-      "duration_ms": 278388,
-      "name": "Cowboy Way",
-      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
+      "duration_ms": 235161,
+      "name": "Stomp Them Boots",
+      "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Stomp Them Boots",
-        "url": "https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ"
+        "name": "Was it Worth the Wait",
+        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
       },
       "artists": [
         {
-          "name": "Young Gunner",
-          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
-        },
-        {
-          "name": "Twang and Round",
-          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
+          "name": "Chris Hosier",
+          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
         }
       ],
-      "duration_ms": 235161,
-      "name": "Stomp Them Boots",
-      "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"
+      "duration_ms": 170026,
+      "name": "Country Slide",
+      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
     }
   ],
   "unique_name": "Field Party",

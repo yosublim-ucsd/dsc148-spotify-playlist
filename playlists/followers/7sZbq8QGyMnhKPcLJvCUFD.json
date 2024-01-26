@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 744857,
+  "2024-01-26": 744856,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -5333,7 +5333,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 157191,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l"
@@ -8319,6 +8319,24 @@
       "duration_ms": 212575,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga"
+      },
+      "artists": [
+        {
+          "name": "KEELA",
+          "url": "https://open.spotify.com/artist/7rWlbS9hZvqhjYRDgMkY2l"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/3ss6ur5xJD1weR8QRYgT3f"
     },
     {
       "album": {

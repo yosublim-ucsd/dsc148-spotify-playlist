@@ -8433,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "Days Of Future Passed (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348680,
+      "name": "The Day Begins",
+      "url": "https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v"
+    },
+    {
+      "album": {
         "name": "Telling The Trees",
         "url": "https://open.spotify.com/album/4NSsIjh6S7nvcpo5s2QQRe"
       },

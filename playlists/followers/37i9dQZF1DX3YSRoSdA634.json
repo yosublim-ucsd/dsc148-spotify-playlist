@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 4046983,
+  "2024-01-26": 4047328,
   "date_first_scraped": "2021-12-21",
   "description": "Having a bad day? We know how it feels!",
   "name": "Life Sucks",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-25",
       "duration_ms": 194871,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU"
@@ -4903,6 +4903,24 @@
       "duration_ms": 202010,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/6vp2kWUZ99zyxpzkwtLtJu"
+    },
+    {
+      "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/00v5d1iH5sme9Xazj3ucwe"
+      },
+      "artists": [
+        {
+          "name": "FiloChill",
+          "url": "https://open.spotify.com/artist/3dwVndIdsi5UVhJjFstRUX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202527,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/3RTvkGAjuLGpvwje8CPwS9"
     },
     {
       "album": {

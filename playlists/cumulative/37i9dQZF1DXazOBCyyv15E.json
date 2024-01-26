@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Yard Act",
+  "description": "The home of the best new alternative music. Cover: Paris Paloma",
   "name": "The Other List",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 201144,
       "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
       "url": "https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157077,
       "name": "2nd Floor",
       "url": "https://open.spotify.com/track/3L9QmUd4cGGh6UUTlNirKS"
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199862,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n"
+    },
+    {
+      "album": {
         "name": "Apple Crumble",
         "url": "https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB"
       },
@@ -3190,6 +3208,24 @@
       "duration_ms": 208626,
       "name": "Be An Actor",
       "url": "https://open.spotify.com/track/6Fz3og9a56n1KYXoSSLotI"
+    },
+    {
+      "album": {
+        "name": "Be Gentle",
+        "url": "https://open.spotify.com/album/2QbrZI6WaUxm44dmaLDIjS"
+      },
+      "artists": [
+        {
+          "name": "Saint Saviour",
+          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226769,
+      "name": "Be Gentle",
+      "url": "https://open.spotify.com/track/41Znhw6B7Fph878XLjDTPu"
     },
     {
       "album": {
@@ -4845,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Bullet of Dignity",
+        "url": "https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179025,
+      "name": "Bullet of Dignity",
+      "url": "https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI"
+    },
+    {
+      "album": {
         "name": "bullet train",
         "url": "https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4"
       },
@@ -5134,6 +5188,24 @@
       "duration_ms": 185000,
       "name": "CALL ME (Freestyle)",
       "url": "https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ"
+    },
+    {
+      "album": {
+        "name": "relax, the house is on fire",
+        "url": "https://open.spotify.com/album/1NlRo4Sxcn5JF4WqAYEN7l"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "call me when it's over",
+      "url": "https://open.spotify.com/track/4YqGr9fUbGRPix3uxzuyga"
     },
     {
       "album": {
@@ -6686,6 +6758,24 @@
       "duration_ms": 173826,
       "name": "Confidence (feat. Tayo Sound)",
       "url": "https://open.spotify.com/track/5Q3yF8ebIG1emrWXXw9Tbt"
+    },
+    {
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "album": {
@@ -8610,6 +8700,28 @@
       "duration_ms": 248759,
       "name": "Do You",
       "url": "https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0"
+    },
+    {
+      "album": {
+        "name": "Do You See Me Different? b/w Glue",
+        "url": "https://open.spotify.com/album/1TI8I1iLBrIpHxzFSoTjlE"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        },
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203001,
+      "name": "Do You See Me Different?",
+      "url": "https://open.spotify.com/track/2hhPjVYkhV2ODHxfOByYWr"
     },
     {
       "album": {
@@ -11774,6 +11886,24 @@
       "duration_ms": 231686,
       "name": "Fucking Wizardry - Block Them Edit",
       "url": "https://open.spotify.com/track/0UOiU32QPQ3dMXaRRdtF45"
+    },
+    {
+      "album": {
+        "name": "Fugue (Bin Song)",
+        "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322988,
+      "name": "Fugue (Bin Song)",
+      "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
     },
     {
       "album": {
@@ -17681,6 +17811,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/3U6pa1uAOxsaqa8v3HNJ4z"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177841,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2b38FyMDTmShS1H5psrqXb"
+    },
+    {
+      "album": {
         "name": "kisses",
         "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
       },
@@ -21389,6 +21537,24 @@
     },
     {
       "album": {
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
+    {
+      "album": {
         "name": "My Simple Jeep (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0"
       },
@@ -21502,6 +21668,24 @@
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
+    },
+    {
+      "album": {
+        "name": "National Rust",
+        "url": "https://open.spotify.com/album/4a6PCueFcWyeIxIQXGTO76"
+      },
+      "artists": [
+        {
+          "name": "Buzzard Buzzard Buzzard",
+          "url": "https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "National Rust",
+      "url": "https://open.spotify.com/track/4stEgo7xGkwIqNX5iwzqpS"
     },
     {
       "album": {
@@ -24785,6 +24969,24 @@
     },
     {
       "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/5u3H8mKNG8B9vLknkQgx9s"
+      },
+      "artists": [
+        {
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "Poolside",
+      "url": "https://open.spotify.com/track/081dnq5DgjHj1sr4bqIBfe"
+    },
+    {
+      "album": {
         "name": "Holy Mountain",
         "url": "https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ"
       },
@@ -27761,6 +27963,24 @@
     },
     {
       "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "album": {
         "name": "you, green",
         "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
       },
@@ -29342,6 +29562,24 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "album": {
+        "name": "Spinning World",
+        "url": "https://open.spotify.com/album/29q4TYjLbnSeRbERN3sHeE"
+      },
+      "artists": [
+        {
+          "name": "86TVs",
+          "url": "https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247427,
+      "name": "Spinning World",
+      "url": "https://open.spotify.com/track/5FLBHwlL6VWK6BEQG1RWc2"
     },
     {
       "album": {
@@ -32183,6 +32421,24 @@
     },
     {
       "album": {
+        "name": "The Leader",
+        "url": "https://open.spotify.com/album/0dwDmq0hpZcSp6jzfTD4Eb"
+      },
+      "artists": [
+        {
+          "name": "Oxford Drama",
+          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242178,
+      "name": "The Leader",
+      "url": "https://open.spotify.com/track/5ZtNyzzcqfuCJMfkUQbYL1"
+    },
+    {
+      "album": {
         "name": "The Likes Of Us",
         "url": "https://open.spotify.com/album/4bW1xAnroNCjA9M9SdkDDA"
       },
@@ -32704,6 +32960,24 @@
       "duration_ms": 167586,
       "name": "The Way We Live Now",
       "url": "https://open.spotify.com/track/0VFsA8sKanEtD0RNQn9SNx"
+    },
+    {
+      "album": {
+        "name": "New Last Name",
+        "url": "https://open.spotify.com/album/7DnPfehpIKOC7BVsUc0a8H"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229689,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/4GUEDu38RFFLqv74a403kb"
     },
     {
       "album": {
@@ -33646,7 +33920,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 186229,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO"
@@ -34678,6 +34952,24 @@
       "duration_ms": 257853,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/1NxiyjhHTiqNmZJn7K8KqN"
+    },
+    {
+      "album": {
+        "name": "The Pilgrim, Their God and the King of My Decrepit Mountain",
+        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm"
     },
     {
       "album": {
@@ -35860,6 +36152,28 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "album": {

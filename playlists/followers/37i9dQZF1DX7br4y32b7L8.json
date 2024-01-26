@@ -1,5 +1,5 @@
 {
-  "2024-01-25": 25608,
+  "2024-01-26": 25675,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist!",
   "name": "Viral Hits NL",
@@ -6431,6 +6431,24 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU"
+    },
+    {
+      "album": {
+        "name": "Zakelijke Crush",
+        "url": "https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2"
+      },
+      "artists": [
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "Zakelijke Crush",
+      "url": "https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN"
     },
     {
       "album": {

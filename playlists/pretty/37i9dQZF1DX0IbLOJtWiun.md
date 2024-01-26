@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 19 | [In My Blood](https://open.spotify.com/track/2iIDpuiFj86WKpK6eKyzTP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:47 |
 | 20 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
 
-Snapshot ID: `MCxiNzk3OGU5MjI4YzIwNTU4NzQxN2QzNGMzZWQzNzdjNDI1YjQxM2Zl`
+Snapshot ID: `MCwxY2M4ZTFjYjMyMmVlMGEwNzA5MThmN2UwOTY1OGUzOTQyYTM5MDMw`
