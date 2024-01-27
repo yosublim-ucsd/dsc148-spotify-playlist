@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\), Shin Seong\(신성\), Enoch\(에녹\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,394 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,409 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 |
 | 100 | [하트뿅뿅](https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:14 |
 
-Snapshot ID: `MCw0ZjY4NTgxYjQ5NmVjYTU3MDJlNTQwYWM4OTBiMTI5MTM4MTE2ODUw`
+Snapshot ID: `MCxiMmQ2ODgwMDgxODk4MDUzMjMyYjc4YmEzZGJiM2UyNTc1MDY5YzYw`

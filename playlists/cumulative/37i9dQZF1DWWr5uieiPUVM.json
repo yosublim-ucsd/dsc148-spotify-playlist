@@ -2003,6 +2003,36 @@
     },
     {
       "album": {
+        "name": "Nova Tend\u00eancia",
+        "url": "https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Cara de Atriz",
+      "url": "https://open.spotify.com/track/4oFenlmKOtIwmQFZcCHrll"
+    },
+    {
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
       },
@@ -3162,6 +3192,52 @@
       "duration_ms": 238732,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/4UKNClOexcP1PgjUCJMV2u"
+    },
+    {
+      "album": {
+        "name": "Dia de Opera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2of77xllwOV4R21J3v4t20"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "A.R",
+          "url": "https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc"
+        },
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "Brutos",
+          "url": "https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC"
+        },
+        {
+          "name": "MANO R7",
+          "url": "https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232014,
+      "name": "Dia de Opera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ"
     },
     {
       "album": {
@@ -5692,7 +5768,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226229,
       "name": "LAPIDADO",
       "url": "https://open.spotify.com/track/2WvNuQh87fYwdVY2gNIYy2"
@@ -10828,7 +10904,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"

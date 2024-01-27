@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,550 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,454 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Đồi Thông Hai Mộ](https://open.spotify.com/track/3LoljxIq6GmMQ4hx2VDz0Q) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Nhà Anh Nhà Em](https://open.spotify.com/album/0FoAmSrGZkXWsAfrBnka5c) | 6:11 |
 | 50 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 |
 
-Snapshot ID: `MCxmYzJhY2M5ZjlkNmZhMjRjODNhMTMxZmYwMzQ5OTkxNTJjMTMyYzk1`
+Snapshot ID: `MCxhZjQ4NmZhNDM4ZWVlMDQ2OWU4NjNhYzM0MWI4ZTAyZTAxZjc5ODcx`

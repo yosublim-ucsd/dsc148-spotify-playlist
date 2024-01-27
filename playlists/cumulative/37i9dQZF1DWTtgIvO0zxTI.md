@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-150 songs - 8 hr 2 min
+151 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cuchi](https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU), [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc) | [Cuchi](https://open.spotify.com/album/3smXUWOg26SSZj907yXF2Z) | 2:38 | 2023-04-21 |  |
 | [Culpable](https://open.spotify.com/track/0iH52C7k07HUibOHBsxRta) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Young Tiller](https://open.spotify.com/artist/6LELaB0TSkf5DuYbhHYYiQ) | [Honesto](https://open.spotify.com/album/3Ou22NCBta6IMiRhr0YuSK) | 3:10 | 2023-12-01 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 | 2023-10-07 |
+| [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 |  |
 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 | 2022-04-22 | 2023-04-22 |
 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 | 2023-11-18 |
 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 | 2023-10-27 |  |

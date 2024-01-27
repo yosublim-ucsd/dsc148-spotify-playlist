@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,192 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,095 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 |
 | 50 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 
-Snapshot ID: `MCw2YTc0ZmYzMjdkN2JhNmIxYmM5NDFhNWYzOTNjYjBmYzZjMmVlMGY3`
+Snapshot ID: `MCxlOGMwODU4ZTVjYmRmYWU3MDlkYWUyYTRjY2QzMzQyMzM2NmM2MTA2`

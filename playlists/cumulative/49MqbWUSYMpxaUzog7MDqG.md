@@ -4,7 +4,7 @@
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-140 songs - 8 hr 12 min
+143 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2023-10-13 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/7jHi6opPq439ruUlfH90Aw) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/5aQFjsRw6rieK5oDNgGRyB) | 3:41 | 2023-10-13 |  |
 | [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 | 2023-10-13 |  |
+| [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 |  |
 | [Curse Your Fail](https://open.spotify.com/track/51WYRV3q8AvyOyvayez0mc) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [Curse Your Fail](https://open.spotify.com/album/5x9rRmpiT5cXeAYTcaswFQ) | 4:43 | 2023-10-13 |  |
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2023-10-13 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-10-13 |  |
@@ -140,12 +141,14 @@
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2023-10-13 |  |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2023-10-13 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-10-13 |  |
+| [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-26 |  |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-10-13 |  |
 | [Woman No](https://open.spotify.com/track/1FmvLSFlQNc2z8BFGOP8kn) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Woman No](https://open.spotify.com/album/7fSmCvKf3HjfCiq3dGDFP2) | 3:28 | 2023-10-13 |  |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2023-10-13 |  |
 | [Your Other Life](https://open.spotify.com/track/2EFh0InEMzUv5tH8Y3J3jg) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Your Other Life](https://open.spotify.com/album/0EHMQfKy2WXU9iShcdywS2) | 4:40 | 2023-10-13 |  |
 | [Your Reality](https://open.spotify.com/track/093iaeNtS3Jentp3USb67H) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Your Reality](https://open.spotify.com/album/3RP1mc5yIIwGCrdST276Lg) | 2:51 | 2023-10-13 |  |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2023-10-13 |  |
+| [Zen](https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Hypersensible \(Deluxe\)](https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq) | 3:35 | 2024-01-26 |  |
 | [Évidemment](https://open.spotify.com/track/5aF4jg3P17caHMWJlYyyVi) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Évidemment](https://open.spotify.com/album/60IkZmpwjH2AU874D7uo7Z) | 2:59 | 2023-10-13 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2023-10-13 |  |
 

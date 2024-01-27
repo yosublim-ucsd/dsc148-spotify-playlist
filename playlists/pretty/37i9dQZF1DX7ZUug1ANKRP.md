@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Luca\-Dante Spadafora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,804,251 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,102 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [If We Don’t](https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don’t](https://open.spotify.com/album/2vDvJRluMiScDpNGgZEZjJ) | 2:12 |
 | 50 | [The Love](https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [The Love](https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV) | 2:21 |
 
-Snapshot ID: `MCw1MjNhYzJiMTFkMzIxN2Y4MmY4ZWFjNTI5NmIyMGE3MGUyMTUwZjQ0`
+Snapshot ID: `MCwyNjMwYmQzNTc5MzdiOGI3YTYzODFkNDcxMGJhYTQ1ZTE1MWRkM2E0`

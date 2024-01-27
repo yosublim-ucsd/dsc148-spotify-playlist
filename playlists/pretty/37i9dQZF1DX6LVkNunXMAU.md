@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,526 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,516 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
 | 100 | [Cumbia del visto](https://open.spotify.com/track/4BN4u7hEuYQWMqyTHNGnkF) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Romancero](https://open.spotify.com/album/2jCoLHBdbdAwhYRk8CMVf9) | 3:26 |
 
-Snapshot ID: `MCw2NmU5Yjc1MjJkOTJmYTQwZDFhZjk1Mzc4YTMyYjRjOWI1YjRjODg2`
+Snapshot ID: `MCwxMjIxZGQ4ZmZlMzE0NjIxNWRmNzZhNmZmM2E5N2JiMWIwMWY5Y2Uz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,567 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,529 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 43 | [NAV](https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:02 |
 | 44 | [Glow Up](https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 2:40 |
 | 45 | [Kukoč \(feat\. NAV\)](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 |
-| 46 | [Pull Up \(feat\. NAV\)](https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:13 |
-| 47 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
+| 46 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
+| 47 | [Pull Up \(feat\. NAV\)](https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:13 |
 | 48 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
 | 49 | [Playa \(with Gunna\)](https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:19 |
 | 50 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
 | 51 | [A$AP Ferg](https://open.spotify.com/track/4EbULzyWMuFx94aoIY1MlJ) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:17 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDAxY2M0YmMxZDNmOWM2NjExMTE1ZjdhODhkNzAxMjg5NA==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDA0ODIwYmZhNjA5ZDIzZWEwZjllZjUyMDU5ZTkxMzBiMA==`

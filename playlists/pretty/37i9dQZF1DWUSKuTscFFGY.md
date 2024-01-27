@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,365 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,277 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Green Lights](https://open.spotify.com/track/0wmz1wZ1zpXs0PEAYWZ5Jp) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Green Lights](https://open.spotify.com/album/18RCcxjVnw1iqLpZYQARpX) | 3:02 |
 | 50 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 
-Snapshot ID: `MCwwOGQ0OGM2ODU1MGFkM2FmZWE0MmQyYzI0OGZkNDg1OTQwN2M1YmZj`
+Snapshot ID: `MCwyYWZkMTE0YTViYWYxMTMwYzI5OTIwN2M4YmQyYmZmMTk2Mjk5Yzdk`

@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 525556,
+  "2024-01-27": 525609,
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Cassyette",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Jazmin Bean",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
@@ -995,6 +995,24 @@
       "duration_ms": 261206,
       "name": "be no one",
       "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
+    },
+    {
+      "album": {
+        "name": "Be With Me",
+        "url": "https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123005,
+      "name": "Be With Me",
+      "url": "https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf"
     },
     {
       "album": {
@@ -2282,6 +2300,28 @@
     },
     {
       "album": {
+        "name": "COKEHEAD",
+        "url": "https://open.spotify.com/album/4JFfwqsgySYq0uYEokchgy"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134219,
+      "name": "COKEHEAD",
+      "url": "https://open.spotify.com/track/31rtGzjxNxjaMlI1ylfrKH"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
       },
@@ -2351,7 +2391,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 136000,
       "name": "contort",
       "url": "https://open.spotify.com/track/47a1THBFA7bDEPzgAL4sqm"
@@ -4343,7 +4383,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 156914,
       "name": "Flowergirls",
       "url": "https://open.spotify.com/track/6Qp85OKe3u42FhxiatZqEs"
@@ -5728,6 +5768,24 @@
     },
     {
       "album": {
+        "name": "Hide Your Kids",
+        "url": "https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135399,
+      "name": "Hide Your Kids",
+      "url": "https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j"
+    },
+    {
+      "album": {
         "name": "Holiday Capsules!!",
         "url": "https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K"
       },
@@ -5855,7 +5913,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 219813,
       "name": "HYPEBEAST",
       "url": "https://open.spotify.com/track/7Gdo9s4GIeJerZgrZFUsBH"
@@ -7628,6 +7686,24 @@
     },
     {
       "album": {
+        "name": "lock",
+        "url": "https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1"
+      },
+      "artists": [
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "lock",
+      "url": "https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl"
+    },
+    {
+      "album": {
         "name": "Silly Little Dream, Pt. 1",
         "url": "https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6"
       },
@@ -8143,7 +8219,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221767,
       "name": "Medic",
       "url": "https://open.spotify.com/track/19Pz0tELBDS6OtP8W6XLSy"
@@ -11056,6 +11132,24 @@
     },
     {
       "album": {
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
+    },
+    {
+      "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
@@ -11768,6 +11862,24 @@
     },
     {
       "album": {
+        "name": "swan song",
+        "url": "https://open.spotify.com/album/17C6vgK1vtyUDiGzm2lG3i"
+      },
+      "artists": [
+        {
+          "name": "FelixThe1st",
+          "url": "https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206153,
+      "name": "swan song",
+      "url": "https://open.spotify.com/track/1QUPtLqCpZLMJm2Ws7Gzef"
+    },
+    {
+      "album": {
         "name": "Sweet Sweet",
         "url": "https://open.spotify.com/album/17kfWL3qV8fIZWmAQexElT"
       },
@@ -12445,7 +12557,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
@@ -12739,6 +12851,28 @@
       "duration_ms": 187830,
       "name": "Used To You",
       "url": "https://open.spotify.com/track/0ivsDrBQ9HloEcdaYxq9Un"
+    },
+    {
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "album": {
@@ -13169,7 +13303,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167272,
       "name": "WHAT'S WRONG?",
       "url": "https://open.spotify.com/track/1iU6wiNG5YY7AaL2rfAqZf"
@@ -13191,6 +13325,28 @@
       "duration_ms": 182197,
       "name": "When The Devil Speaks\u2026",
       "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"
+    },
+    {
+      "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "album": {
@@ -13585,7 +13741,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 140128,
       "name": "yellow tape",
       "url": "https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L"

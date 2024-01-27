@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,273 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,295 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [翠いカナリア](https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:49 |
 | 50 | [夜明珠](https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [L！L！L！ \(Love the Life We Live\)](https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9) | 3:41 |
 
-Snapshot ID: `MCw3MTNiNDVkODFiNDI3YTI5YTExNjAyMTlmMThmZDQ0NWJlNzkyYzI3`
+Snapshot ID: `MCw5YTM3NTQ5ZDkyYmViNTk3ZjhmNDdmNWM3MjM4NWUyYmE1ZDVmNzBl`

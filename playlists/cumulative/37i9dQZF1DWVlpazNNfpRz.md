@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-95 songs - 5 hr 30 min
+96 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 | 2023-08-11 |  |
 | [Imaginarte](https://open.spotify.com/track/2VD4N2zsOzEFXtFGrBuUG3) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Deivid](https://open.spotify.com/artist/1ca8bJcsvXKWnnuOZfmO77), [J Trons & Derek](https://open.spotify.com/artist/7jvn3cCEokFAKOB7Kd0C3V) | [Imaginarte](https://open.spotify.com/album/32d8KOJa1e4M8MhdsLNbQs) | 3:49 | 2023-08-11 |  |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2023-08-11 |  |
-| [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2023-08-11 |  |
+| [Infinity \- Magic Mitch Club Mix](https://open.spotify.com/track/0NFBBnJO8D7oA6suYD2WKD) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy) | [Infinity](https://open.spotify.com/album/31YXEro2hGtx3uTJD3OjlO) | 3:13 | 2023-11-10 |  |
+| [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2023-08-11 | 2024-01-27 |
 | [Kaleb Di Masi \| Omar Algo Anda Mal \#1](https://open.spotify.com/track/3WaXtgvWKGWZ5DZuk8r69w) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Kaleb Di Masi \| Omar Algo Anda Mal \#1](https://open.spotify.com/album/49DoT0m6sL0QTmQvhzPCOu) | 2:44 | 2023-08-11 |  |
 | [Las Niñas](https://open.spotify.com/track/3FirQ6AZVX1lxd8S0VIyZ8) | [Dimelo Yssa](https://open.spotify.com/artist/4Y8NDDstWnqZi2PrwB8dKR) | [Las Niñas](https://open.spotify.com/album/2793FZEEw2WVaYMoYzJXSG) | 3:50 | 2023-08-11 |  |
 | [Llorar](https://open.spotify.com/track/14TMheK47Ih4KaSsRLTsi5) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [High Beats Records](https://open.spotify.com/artist/3YDYx2O7zxe0CiztUwHgvT) | [Llorar](https://open.spotify.com/album/1qk2BIdtm1UEJMQBxdgE58) | 3:03 | 2023-08-11 |  |

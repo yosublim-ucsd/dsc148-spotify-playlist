@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,433 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,442 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Hitchcock \- Feat\. RT Mallone](https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:58 |
 | 50 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
 
-Snapshot ID: `MCwzNDAyZTI3MDZiYmRhZDYwMGIyZGQ1MWVhYzRjZDhiZDI1MzUzN2Fl`
+Snapshot ID: `MCw3ZGM0OWFlOWVmMjcwMjNiZDg3ZWZhMDFlYmM1NWJkZTNhZjg4ZjNi`

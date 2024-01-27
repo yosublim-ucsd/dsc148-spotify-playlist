@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-189 songs - 16 hr 33 min
+191 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chickenhawk](https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG) | [Jarkka Rissanen Tonal Box Trio](https://open.spotify.com/artist/2fE6uoO9LenSFLrq5z2R7h), [Kalle Fält](https://open.spotify.com/artist/2KyukKocvwQteeLjKihxkR) | [Chickenhawk](https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W) | 4:27 | 2022-09-02 | 2023-11-24 |
 | [Coast](https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD) | [Sämpi Ensemble](https://open.spotify.com/artist/0ayqLgmmLwjwaf5JQaoXzi) | [Scenes](https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj) | 4:47 | 2022-09-02 | 2024-01-20 |
 | [Cold Springs](https://open.spotify.com/track/7c3tADXsEF2hHNLMQ9bWAs) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx), [Toomas Keski\-Säntti](https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3) | [Cold Springs](https://open.spotify.com/album/1TVpqDyN81M4VZTZZDC2cY) | 5:24 | 2023-11-16 |  |
+| [Collective Awareness](https://open.spotify.com/track/4tmUIDjEgDYpeJdB64shy8) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Collective Awareness](https://open.spotify.com/album/5s95lm3vSea3jSw2tRQGIf) | 6:37 | 2024-01-26 |  |
 | [Concrete Material](https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf) | [Joni Raikaslehto InFusion](https://open.spotify.com/artist/3uf19Vh8oCP8iEHrtbzvlL) | [Prog Fu!](https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7) | 7:55 | 2022-09-02 | 2023-09-15 |
 | [Corona](https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i) | [Aaro Laitinen Quintet](https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0) | [Corona](https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX) | 7:15 | 2022-10-28 | 2023-02-18 |
 | [Cross\-Atlantic Connection](https://open.spotify.com/track/7jkmwQVtug8tB9RzPMY6pH) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jukka Eskola](https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St) | [Cross\-Atlantic Connection](https://open.spotify.com/album/3Drx9aUm2Oerolurx12WBr) | 5:58 | 2023-11-16 |  |
@@ -188,6 +189,7 @@
 | [Veden alla \- 2023](https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Viileässä virrassa](https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k) | 5:40 | 2023-03-29 |  |
 | [Vertigo](https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Vertigo](https://open.spotify.com/album/2gHx8geEkqUEXmlAGy0hLw) | 1:14 | 2023-09-08 | 2023-11-17 |
 | [Wallbreaker](https://open.spotify.com/track/2a1QyKbVm0QjDk7TAczeM6) | [TRI\-](https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Arttu Huopainen](https://open.spotify.com/artist/6jJP71guHdMoczUV1XNZE7), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [Wallbreaker](https://open.spotify.com/album/1q8qoE8xtbEML7WnO5qAzW) | 4:49 | 2023-05-08 | 2023-05-27 |
+| [Well You Needn't \(with Arttu Huopainen & Tuomas Talvi\)](https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz) | [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn) | [New Trio \(with Arttu Huopainen & Tuomas Talvi\)](https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB) | 6:05 | 2024-01-26 |  |
 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 | 2022-09-02 | 2023-02-18 |
 | [When Leaving It](https://open.spotify.com/track/0br6wYAgcRZZ09gpWAVo2k) | [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn), [Arttu Huopainen](https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [When Leaving It](https://open.spotify.com/album/2WvuAD6yfMXKwZ7W4dKqA9) | 9:44 | 2024-01-05 |  |
 | [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 | 2022-10-14 |

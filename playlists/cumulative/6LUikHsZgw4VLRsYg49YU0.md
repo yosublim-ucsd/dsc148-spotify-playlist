@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-180 songs - 10 hr 36 min
+181 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-12-09 |  |
 | [Clues to the Truth](https://open.spotify.com/track/6GlWy6mvDQl2tnDZdOlgK4) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [Pluto \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/731lLGre09H8XEU1cHY1Mn) | 2:42 | 2023-12-08 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-01-13 |  |
+| [Crimson Lightning](https://open.spotify.com/track/0waIhVlr9YdRK3GNWLxD4m) | [Toft Willingham](https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [Metallic Rouge \(Original Soundtrack\)](https://open.spotify.com/album/3xUFB8dVFpTph5lYBZ3otN) | 3:29 | 2024-01-26 |  |
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2023-01-13 |  |
 | [Devilman No Uta](https://open.spotify.com/track/4d9L9pBJNGmHMKs36RgP4e) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 3:05 | 2022-12-09 |  |
 | [Distortion!!](https://open.spotify.com/track/5FwVziw6iZr778zD5e5HmK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Distortion!!](https://open.spotify.com/album/3DbTDCUaGiepFrImJjsRse) | 3:22 | 2023-01-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 > The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,466,627 likes - 101 songs - 7 hr 6 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,466,856 likes - 101 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 100 | [Jump \(Original Mix\)](https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:22 |
 | 101 | [You're the Voice](https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 5:00 |
 
-Snapshot ID: `MjkyMiw3MGEzOGYzMmE2NDdiMzQwNDZkMjZiN2NmZDFmMjA0NzMwOTYwZDY1`
+Snapshot ID: `MjkyNCxiY2UxOTBmMzlmZjBkNjk2Yjc0NDU4Mzc2NjlmNjQwNDMwZTdhOWIw`

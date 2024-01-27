@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Ascendant Vierge",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Lescop",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144480,
       "name": "Bagarre",
       "url": "https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU"
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Boule \u00e0 facettes",
+        "url": "https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Boule \u00e0 facettes",
+      "url": "https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t"
+    },
+    {
+      "album": {
         "name": "Brumeux",
         "url": "https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV"
       },
@@ -272,10 +290,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206117,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202988,
+      "name": "Call Me - Single Edit",
+      "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
     },
     {
       "album": {
@@ -474,6 +510,24 @@
       "duration_ms": 200357,
       "name": "COUP DE FOUDRE",
       "url": "https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs"
+    },
+    {
+      "album": {
+        "name": "Dannazione",
+        "url": "https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq"
+      },
+      "artists": [
+        {
+          "name": "MaMaMa",
+          "url": "https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Dannazione",
+      "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
     },
     {
       "album": {
@@ -968,7 +1022,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211933,
       "name": "La femme papillon",
       "url": "https://open.spotify.com/track/1XUvMhuTikRvtRoFoctOFP"
@@ -1775,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Le Mal Partout",
+        "url": "https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126993,
+      "name": "Sosies",
+      "url": "https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7"
       },
@@ -1898,7 +1970,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219833,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/30j4tyGI42zwfsg6uP9dly"

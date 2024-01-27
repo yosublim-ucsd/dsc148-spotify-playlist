@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 17453,
+  "2024-01-27": 17510,
   "date_first_scraped": "2022-10-01",
   "description": "Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors. ",
   "name": "AfroTech Now",
@@ -47,7 +47,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 366968,
       "name": "Abalaleli",
       "url": "https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 268000,
       "name": "AMAZWI",
       "url": "https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 459831,
       "name": "Angimazi Ubabalo",
       "url": "https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C"
@@ -694,6 +694,28 @@
     },
     {
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4xXJgKyIOOz5vke0XhzZBj"
+      },
+      "artists": [
+        {
+          "name": "Arcade Saiyans",
+          "url": "https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289672,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/6pNwEGlgpNQIKs4R5UQ7Oc"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3"
       },
@@ -837,7 +859,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 436000,
       "name": "iMali (Ft. Nana Atta)",
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
@@ -955,7 +977,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 434000,
       "name": "Inkinga",
       "url": "https://open.spotify.com/track/2bJ3KkfVgyNI1xeoYCJ0Ir"
@@ -1337,7 +1359,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 302666,
       "name": "Mabebuza",
       "url": "https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL"
@@ -1421,7 +1443,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 399661,
       "name": "Maya",
       "url": "https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz"
@@ -2010,6 +2032,28 @@
     },
     {
       "album": {
+        "name": "Shiri",
+        "url": "https://open.spotify.com/album/3Bv86E7EGDKOYJep3kyCN1"
+      },
+      "artists": [
+        {
+          "name": "PA NGU",
+          "url": "https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO"
+        },
+        {
+          "name": "A.C.N.",
+          "url": "https://open.spotify.com/artist/0DbbDdAUEWttT0e68bcHWo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413114,
+      "name": "Shiri",
+      "url": "https://open.spotify.com/track/4dGLXDZ58XNrtdML2C4c5x"
+    },
+    {
+      "album": {
         "name": "Shona Minds",
         "url": "https://open.spotify.com/album/6wULB13qjoA1L4BBrBsfWm"
       },
@@ -2041,8 +2085,8 @@
       },
       "artists": [
         {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5"
+          "name": "Sabrina Masenya",
+          "url": "https://open.spotify.com/artist/5evvBBHtZsv6PvmNH9JGn5"
         },
         {
           "name": "HyperSOUL-X",
@@ -2439,7 +2483,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 393464,
       "name": "Turmoil",
       "url": "https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR"
@@ -2903,7 +2947,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 421512,
       "name": "XX XX - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,212 likes - 250 songs - 20 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,288 likes - 250 songs - 20 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [The Sign, Pt\. 2](https://open.spotify.com/track/3YE7pngxRyzgM9PmVlubLw) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Fabrice Martinez](https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Drôles de Dames](https://open.spotify.com/artist/60UrGS7OunULLM2GBl6ocw) | [Drôles De Dames](https://open.spotify.com/album/04pMJKdwt8ZwsNHKoJycPC) | 5:01 |
 | 250 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 |
 
-Snapshot ID: `MCwwMWFmYTQyNTRjZmEwMDg3MmM5MmIzNzY2MjlhOGZmOWY2MDkzODEz`
+Snapshot ID: `MCw4ZWVjN2MwOGMxZTMwNWJhZmYzMTExZDExZWM2YmIyZGI2M2Y1MWRm`

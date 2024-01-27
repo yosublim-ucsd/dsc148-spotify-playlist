@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 167327,
+  "2024-01-27": 167386,
   "date_first_scraped": "2021-12-21",
   "description": "The best new dance & electronic by independent artists and labels. Cover: Ninajirachi. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
@@ -9007,7 +9007,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 240000,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4zsGyThZeg7JIhXdUJvVpe"
@@ -9113,6 +9113,24 @@
       "duration_ms": 196500,
       "name": "DONT TRUST EM",
       "url": "https://open.spotify.com/track/1J4mWlkB9pWVEEXpiBwlwW"
+    },
+    {
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/3yjGKTCxPkrOhv7MbRZh7s"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297218,
+      "name": "Double Rainbow",
+      "url": "https://open.spotify.com/track/2xOD6I2RoOJqHZc0r2XUXX"
     },
     {
       "album": {

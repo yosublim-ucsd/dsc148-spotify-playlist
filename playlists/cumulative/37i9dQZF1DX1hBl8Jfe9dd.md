@@ -4,7 +4,7 @@
 
 > Novidades do indie mundial\. Foto: Mitski
 
-98 songs - 5 hr 43 min
+99 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2023-09-22 |  |
 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 | 2023-09-22 |  |
 | [Old Love](https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Old Love / The Silence in Between](https://open.spotify.com/album/7lzmVCDtNyrnJuzurcmB4p) | 3:30 | 2023-09-22 |  |
+| [One Night/All Night](https://open.spotify.com/track/6tAXrxWNaWpqcu5cCOP7dI) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night \| Generator](https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys) | 4:36 | 2024-01-26 |  |
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-12-01 |  |
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-09-22 |  |
 | [Perfectly Broken](https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Perfectly Broken](https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ) | 3:08 | 2023-09-22 |  |

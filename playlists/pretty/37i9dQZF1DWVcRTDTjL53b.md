@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 
 > La bande son des premiers amours
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,556 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 | 36 | [Ta reine](https://open.spotify.com/track/3iXhLi33EpUfcOwasC8un1) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:33 |
 | 37 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 38 | [Je t’aime de ouf](https://open.spotify.com/track/76X9R88fhwR1lTXfqdqRKZ) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [16 ou pas](https://open.spotify.com/album/76M9VFZ5X4CH6YaQOXSAeL) | 2:49 |
-| 39 | [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 |
+| 39 | [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 |
 | 40 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 | 41 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 42 | [Comme moi \(feat\. Shakira\)](https://open.spotify.com/track/2RHpEALdmp9dnPuEm7SLKB) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:08 |
 | 43 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 44 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
 
-Snapshot ID: `MCw0NzVjY2QyN2ZiYmYxYWY2NTRhNzc1NzVjYzkyNmE2MzJjM2YyODIy`
+Snapshot ID: `MCxmYzhmMWE2YzdlZTNiMDI0YmFiNTQ2YTE0MWE4MTFiNzcxZmIyOGNj`

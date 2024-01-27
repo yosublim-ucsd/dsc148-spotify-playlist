@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,672,616 likes - 150 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,672,640 likes - 150 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
 | 150 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 
-Snapshot ID: `MCwzOGFiYTI1MWJmMjliNjAxZThiOGY2YjQ1ZWE2ZjliMjI5Mzc3NTg4`
+Snapshot ID: `MCxjYzQ5ODNlY2ZmZDJiMzI4MTAzMjM5NDFmMjJjMGI0OWU3NDdiNjI3`

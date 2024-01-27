@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 50224,
+  "2024-01-27": 50443,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 146304,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7"

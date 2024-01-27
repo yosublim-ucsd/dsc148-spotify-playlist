@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,287 likes - 100 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,866 likes - 100 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [On The Rise](https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [On The Rise](https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG) | 5:02 |
 | 100 | [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 |
 
-Snapshot ID: `MCwwYzBkNTJiMTgzOWJmM2Y4OTIzNzY2OWI2MTVkZjkwYzNjNjRhODUy`
+Snapshot ID: `MCwzNjlhYjM2M2Q4ZmYyZjdlMzdiMjc0YjZkMmU0MjQ3MDMwM2M5NzNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones chill para ayudarte a bajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,186 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,215 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 74 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 |
 | 75 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |
 
-Snapshot ID: `MCwxYTQ2YjZhNGY1OGIzMzg3M2Y2ODMxZGE1ZjEyYjU5MzdhNzE4NTBk`
+Snapshot ID: `MCwzYWQzOWI2ZWM3MzU0NTgyMjZmOTM0ZmFkZDQ0MGE1NTQ0MjNlNjBm`

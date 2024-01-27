@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,449 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,596 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [The Young Weaver](https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Notes of Longing](https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H) | 3:15 |
 | 100 | [Promise Of Sun](https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:00 |
 
-Snapshot ID: `MCwwOWEwZTk0MmQ3YTgzZmNkNjFjZDdlMjZiM2M0NWMyZjA4Nzg5NDEx`
+Snapshot ID: `MCw3M2UwZDVkZmZhZGRmMWVhYzA3M2YzOTVlNzA4ZWQ5MTkwOTYzY2E1`

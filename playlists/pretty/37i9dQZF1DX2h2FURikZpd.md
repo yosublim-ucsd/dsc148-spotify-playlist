@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 |
 | 30 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
 
-Snapshot ID: `MCxiOGYxN2UyMjZkNWNlMmEwODgwYTE5OTM3MjFlNjI4NmVlOGU0NWU2`
+Snapshot ID: `MCw3ZTlkZTk2ZjBkNzYxMmQ3ZDFlM2YyYzNhNzQ3ODkyMDU5NDAzMTdk`

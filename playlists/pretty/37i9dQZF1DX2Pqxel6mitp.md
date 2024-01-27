@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,650 likes - 120 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,718 likes - 120 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Dirtiest Little Darling](https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7) | [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2), [NO](https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC) | [Dirtiest Little Darling / Railroad Bill](https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5) | 3:31 |
 | 120 | [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 |
 
-Snapshot ID: `MCxjZTcwMTM0NWZhY2ZjOTU1ZjcwY2ZhYWI3Y2Y0MmQxNTg5YzhlZGIz`
+Snapshot ID: `MCw0N2E2MmYwYzhlNzA3MzU1YjY2NTg3MTJjZTE1MjJkNzBiZjNkZGY2`

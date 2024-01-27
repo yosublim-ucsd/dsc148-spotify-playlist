@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,379 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,401 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 99 | [Get Hard \(You In The Lobby\)](https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Get Hard \(You In The Lobby\)](https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn) | 2:36 |
 | 100 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 |
 
-Snapshot ID: `MCxjOWVlMzBjNGJlYmVhYmZiM2IyOWY3YWMyMmQ1NGZkNjEzZWJkZmJh`
+Snapshot ID: `MCwyZjA1NWY4YjZlNWRjODQyNGZjNWM4ZmUwMDFmY2QwNGJlMWMwYTU0`

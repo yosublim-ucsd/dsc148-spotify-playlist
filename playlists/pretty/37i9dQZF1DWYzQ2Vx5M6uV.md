@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,754 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,686 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 70 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 
-Snapshot ID: `MCwwMjBkMmQzMDUwNGFlZmNjMmZhYmY2M2JkMjEyYTU2NTQ0NWI4YTE4`
+Snapshot ID: `MCw1NjA1YWM5YjU1ZjBhZWViOTk1ZjUyNGRiM2ZmMWI2ZWU5MTNjZDQ0`

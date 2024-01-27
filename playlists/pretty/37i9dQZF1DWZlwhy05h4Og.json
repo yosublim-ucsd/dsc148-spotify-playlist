@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: IVE",
-  "num_followers": 49434,
+  "description": "The sweetest bops. Cover: VCHA",
+  "num_followers": 49553,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzViZDlmMjFkYjM1YzAxY2I3N2EyNWE5MWI2NWU1MjZjMWI2MDU0",
+  "snapshot_id": "MCxiOTRhOTAxMWMxZDgxOGM2YmM0MzFmYTUxYjQ5ZDBiNTBiYjY2NmI0",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -227,22 +243,6 @@
       "duration_ms": 190113,
       "name": "I DO",
       "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
-    },
-    {
-      "added_at": "2024-01-10 15:36:12",
-      "album": {
-        "name": "Ready for the World",
-        "url": "https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77"
-      },
-      "artists": [
-        {
-          "name": "VCHA",
-          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Ready for the World",
-      "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"
     },
     {
       "added_at": "2024-01-10 15:36:12",

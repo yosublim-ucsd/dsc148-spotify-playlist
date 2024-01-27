@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0"
+    },
+    {
+      "album": {
         "name": "(Remember Me) I'm the One Who Loves You",
         "url": "https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn"
       },
@@ -222,6 +240,24 @@
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+    },
+    {
+      "album": {
+        "name": "Ahead Of The Game",
+        "url": "https://open.spotify.com/album/6FkxomPxNTWvIPcuau3FN6"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Ahead Of The Game",
+      "url": "https://open.spotify.com/track/0lZHfXYmrWmnemBF3rAorq"
     },
     {
       "album": {
@@ -1909,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Colossus of Roads / Snake Plant (The Past Is Still Alive)",
+        "url": "https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165977,
+      "name": "Colossus of Roads",
+      "url": "https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H"
+    },
+    {
+      "album": {
         "name": "Misadventures Of Doomscroller",
         "url": "https://open.spotify.com/album/24FkcvXRLoG17447domdkg"
       },
@@ -3472,7 +3526,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226371,
       "name": "Good Morning Coffee",
       "url": "https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F"
@@ -5236,7 +5290,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208053,
       "name": "Kingdom For A Fool",
       "url": "https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62"
@@ -6067,6 +6121,28 @@
     },
     {
       "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223764,
+      "name": "Mornings With You (with Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk"
+    },
+    {
+      "album": {
         "name": "Mornings With You (with Kaitlin Butts)",
         "url": "https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW"
       },
@@ -6082,7 +6158,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8"
@@ -6700,6 +6776,24 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
+        "name": "Only So Much You Can Do",
+        "url": "https://open.spotify.com/album/0FMNUahZhLsKOF7EMem8jg"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Only So Much You Can Do",
+      "url": "https://open.spotify.com/track/19a2wE63XeHzz0rWdY7fQW"
     },
     {
       "album": {
@@ -7502,7 +7596,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212909,
       "name": "Rhinestone",
       "url": "https://open.spotify.com/track/7dHy8LL7YpI69ZtmfmI83n"
@@ -7711,6 +7805,28 @@
     },
     {
       "album": {
+        "name": "Smoky Mountains",
+        "url": "https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Roulette On The Heart",
+      "url": "https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m"
+    },
+    {
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -7730,6 +7846,24 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "album": {
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
     },
     {
       "album": {
@@ -8236,7 +8370,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 254258,
       "name": "Something in the Orange - Z&E's Version",
       "url": "https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr"
@@ -9083,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "The Illinois River Song",
+        "url": "https://open.spotify.com/album/7qTQjO4Kh1wmIesybwQF41"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254791,
+      "name": "The Illinois River Song",
+      "url": "https://open.spotify.com/track/4S0WTLDl3ECJnfhEVIZqtQ"
+    },
+    {
+      "album": {
         "name": "The Last Dance b/w 3000 AD Mass",
         "url": "https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w"
       },
@@ -9784,7 +9936,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 269826,
       "name": "Trinity River",
       "url": "https://open.spotify.com/track/1GenEK1iRwheqmtI08QUlI"
@@ -9878,7 +10030,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 276800,
       "name": "Unsung Heroes",
       "url": "https://open.spotify.com/track/0w2PDgVUMnEbrtcIOJkIXj"
@@ -10920,7 +11072,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-580 songs - 2 day 1 hr 25 min
+582 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 | 2022-07-21 |
 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 | 2022-07-13 | 2023-07-04 |
 | [Black Moon Rising](https://open.spotify.com/track/07joZaONeftWMUyrXi7F7a) | [Necrophobic](https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa) | [Darkside](https://open.spotify.com/album/6OtkpXQWWxrBcIpyt2COXH) | 2:50 | 2022-11-14 | 2023-11-18 |
+| [Black Witchery](https://open.spotify.com/track/7gnNzzJFEjzKY1H4u75XEq) | [The Infernal Sea](https://open.spotify.com/artist/2PRHHXzKIZIBrkXi2q4Pfu) | [Hellfenlic](https://open.spotify.com/album/1i4JZRIz4EOsaaBKuFpNTf) | 3:44 | 2024-01-26 |  |
 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 | 2021-12-17 | 2022-05-28 |
 | [Blashyrkh \- Mighty Ravendark](https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:34 | 2022-07-13 |  |
 | [Blood Blind](https://open.spotify.com/track/5zOv6iLz86br9r8aN8EyNr) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Blood Blind](https://open.spotify.com/album/0sy729QNw0BRIt62zXu9dj) | 4:34 | 2023-06-23 |  |
@@ -171,6 +172,7 @@
 | [Esaiah](https://open.spotify.com/track/50TtG7RA5yBa1RI4tLGhU7) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Excerpts from the Dark Age](https://open.spotify.com/album/07DJUKMAxbTzfM3cWnAVUn) | 4:35 | 2021-12-17 | 2022-02-11 |
 | [Et smelter](https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW) | [Dødheimsgard](https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8) | [Black Medium Current](https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE) | 10:19 | 2023-04-28 | 2023-10-23 |
 | [Eternal Disguise](https://open.spotify.com/track/5Pv4IXVuDQ2BVDMKpTVrJy) | [Dark Archive](https://open.spotify.com/artist/0eV0wbQfEyZTQe9tPAh3aF) | [Reunite the Darkness](https://open.spotify.com/album/36fZ7ArMTxnTdeTv9auYh9) | 2:41 | 2022-05-20 | 2022-07-27 |
+| [Eternal Fire](https://open.spotify.com/track/0ZZ91wGG1N0M2virewcFYR) | [Olhava](https://open.spotify.com/artist/4lpvlgUCumwxmQD37sbIZt) | [Sacrifice](https://open.spotify.com/album/2zKSqcZ0cLVu5wPe2fTPxE) | 14:12 | 2024-01-26 |  |
 | [Ethnogenese](https://open.spotify.com/track/71Y8PGb5uicatooZb7Yot1) | [Obscurity](https://open.spotify.com/artist/1O6WsZT2io58x15CXAQVBO) | [Ethnogenese](https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO) | 4:10 | 2021-12-17 | 2022-01-29 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-12-17 | 2022-07-29 |
 | [Exalted Traitors](https://open.spotify.com/track/4CBJvSuoaeetDRZ72G4HjH) | [AMONGST THE ASHES](https://open.spotify.com/artist/7zqcHo6jbneyrYZkp7fgBJ) | [Exalted Traitors](https://open.spotify.com/album/4Q8o683g7mYbEeJzcaqcQ5) | 5:09 | 2022-05-13 | 2022-07-14 |
@@ -262,7 +264,7 @@
 | [I Am the Night](https://open.spotify.com/track/7n4U90ST7RSr6B0WXXAcbt) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [I Am the Night](https://open.spotify.com/album/5dAqD9ry2pOU7YMPRXazRz) | 4:32 | 2022-04-08 | 2022-05-07 |
 | [I Resign](https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [I Resign](https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro) | 3:53 | 2023-04-20 |  |
 | [I Troldskog Faren Vild](https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 7:51 | 2022-07-13 | 2023-07-04 |
-| [Ignem Purificat Lilitu](https://open.spotify.com/track/2PgdCBf1HMYihOQY0yDFNZ) | [Asagraum](https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2) | [Veil Of Death, Rapture](https://open.spotify.com/album/3oOFiLRy6b4EOJh3nrv5ou) | 4:52 | 2023-10-20 |  |
+| [Ignem Purificat Lilitu](https://open.spotify.com/track/2PgdCBf1HMYihOQY0yDFNZ) | [Asagraum](https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2) | [Veil Of Death, Rapture](https://open.spotify.com/album/3oOFiLRy6b4EOJh3nrv5ou) | 4:52 | 2023-10-20 | 2024-01-27 |
 | [Iku\-Turso](https://open.spotify.com/track/7x80QmX9qhW4jEbZrE7mDD) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Iku\-Turso](https://open.spotify.com/album/6BHQPJPQCyRSk4wiAHniNP) | 4:37 | 2023-09-08 |  |
 | [Il se vide lentement](https://open.spotify.com/track/5e2K4GKwyDSxrinYCt7WnP) | [CELESTE](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Il se vide lentement](https://open.spotify.com/album/50zzzL5LwCUG4tcUiytHL2) | 4:19 | 2023-07-03 | 2023-12-30 |
 | [Immer Treu](https://open.spotify.com/track/04yFun0kpmuxmfP8z4Gve3) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Immer Treu](https://open.spotify.com/album/56md3R00zHzNSpWvQqIkv7) | 4:19 | 2023-09-01 | 2023-09-27 |
@@ -392,7 +394,7 @@
 | [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 | 2023-02-24 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/1pNqnj1ympoWWNR1qEpHKo) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3GBpagKDLL4cRseF5yxKVV) | 5:20 | 2022-07-13 | 2022-07-29 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 |  |
-| [Psalm VIII \- Hester Panim](https://open.spotify.com/track/5aVRzBC0MMIiZebaxIIkTr) | [Amalekim](https://open.spotify.com/artist/0dvOzHGFJDDZMaJoMoX27U) | [Avodah Zarah](https://open.spotify.com/album/1RhTeK38PxYSfydxqnGqL8) | 4:52 | 2023-11-03 |  |
+| [Psalm VIII \- Hester Panim](https://open.spotify.com/track/5aVRzBC0MMIiZebaxIIkTr) | [Amalekim](https://open.spotify.com/artist/0dvOzHGFJDDZMaJoMoX27U) | [Avodah Zarah](https://open.spotify.com/album/1RhTeK38PxYSfydxqnGqL8) | 4:52 | 2023-11-03 | 2024-01-27 |
 | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/track/0cDD2tuTX0DTEXtHot0VfO) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/album/0q7kWUZW4yuPaAZ5OttXzn) | 4:28 | 2023-06-02 | 2023-07-04 |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |

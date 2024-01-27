@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Ana Tijoux en portada.
 
-279 songs - 15 hr 58 min
+280 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ARABIE](https://open.spotify.com/track/78Pi9Yg0F33GljYvY359Ui) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:28 | 2023-04-14 | 2023-07-18 |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-24 |  |
 | [Baby Vegas](https://open.spotify.com/track/5oO51KGOghC1cHEkxwnA2g) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Baby Vegas](https://open.spotify.com/album/3UtP6srpCUQYzags6o8cZp) | 3:41 | 2021-12-30 | 2022-04-28 |
+| [BAD BEHAVIORS](https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [BAD BEHAVIORS](https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV) | 3:10 | 2024-01-26 |  |
 | [Bajo y Batería](https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Bajo y Batería](https://open.spotify.com/album/5GkZHRuXwEoXq9xLlW1bzH) | 9:01 | 2023-07-14 | 2023-07-29 |
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2023-09-02 |
 | [Barrio Latino](https://open.spotify.com/track/0w2aP2dOpP0NzZkF6KrH9K) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Barrio Latino](https://open.spotify.com/album/5ma9J5X1CO2tJ79UdtgZCL) | 4:16 | 2021-12-30 | 2022-07-30 |
@@ -134,7 +135,7 @@
 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 | 2023-09-01 | 2023-10-21 |
 | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX) | [BIGG B](https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK), [Eduardo Rico](https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz) | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma) | 3:21 | 2023-04-28 |  |
 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 | 2024-01-19 |  |
-| [Laberintos](https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Laberintos](https://open.spotify.com/album/6hOSzcQRoySsrbAZ5JkEuF) | 3:22 | 2023-03-24 |  |
+| [Laberintos](https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Laberintos](https://open.spotify.com/album/6hOSzcQRoySsrbAZ5JkEuF) | 3:22 | 2023-03-24 | 2024-01-27 |
 | [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 | 2023-05-05 | 2023-07-19 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-12-30 | 2022-04-22 |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2023-01-13 |  |

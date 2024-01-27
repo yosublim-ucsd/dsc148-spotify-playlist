@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,411 likes - 200 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,563 likes - 200 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Quiero Dormir Cansado](https://open.spotify.com/track/1phObKvh7T5uSypQ11RXHl) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:54 |
 | 200 | [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 |
 
-Snapshot ID: `MCw0YWIwYzg0NjljN2E3ZTc3NmVkMGUxYTZhYTQzZmJhNTkyOWI4ZWM2`
+Snapshot ID: `MCw2NmI0YWY2Y2VjZmU5MTQzMjNiMGZiMjA1N2FkYmM4ODU4YTk2NDJi`

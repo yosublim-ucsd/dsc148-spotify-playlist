@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,782 likes - 200 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,840 likes - 200 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [There's Only One Way To Rock](https://open.spotify.com/track/6DZVWULzIED39omfY6ZTFC) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Standing Hampton](https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn) | 4:15 |
 | 200 | [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 |
 
-Snapshot ID: `MCxkOWY0YmZhMjA0OTMzZDYxMWM3OTVkYzkwOTViOWE4OGE4NTYyMWZj`
+Snapshot ID: `MCw2NjI5YzQxNWFkMjdmYWYxYWRiYmE0OGMyNzM5Y2VkMWVmODM0NGZk`

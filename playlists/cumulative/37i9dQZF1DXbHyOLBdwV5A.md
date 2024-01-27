@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar.
 
-141 songs - 7 hr 20 min
+142 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Ninguém Explica Deus \(Preto no Branco\) \[Kennto Remix\]](https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3) | [Ninguém Explica Deus \(Preto no Branco\) \[Kennto Remix\]](https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW) | 2:53 | 2022-09-02 |  |
 | [Nothing But The Blood](https://open.spotify.com/track/5TpY5xqQ6YI00qx3LvbusQ) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Nothing But The Blood](https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH) | 2:33 | 2023-02-25 | 2023-08-19 |
 | [Novo Lar](https://open.spotify.com/track/6Oxh5rxRzj9cDuTxtDbKXc) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Novo Lar](https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0) | 4:06 | 2023-01-13 | 2023-03-18 |
-| [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [CAIO CESAR](https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 | 2022-09-02 |  |
+| [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [CAIO CESAR](https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 | 2022-09-02 | 2024-01-27 |
+| [Não Me Deixarás](https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Caio Cesar](https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4) | [Não Me Deixarás](https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73) | 3:04 | 2024-01-05 |  |
 | [Não Pare](https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Kayo Santos](https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Não Pare](https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm) | 2:54 | 2023-06-02 | 2023-09-02 |
 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 | 2022-12-09 |  |
 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 | 2023-03-17 |  |

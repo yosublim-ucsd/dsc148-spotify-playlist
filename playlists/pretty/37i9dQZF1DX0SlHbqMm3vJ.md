@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,826 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,877 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 |
 | 80 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 |
 
-Snapshot ID: `MCw0NzI3YTA2MDgwYWYyMDhiMzdkN2VmNjczMjc2NjY0M2FiN2NiMTgy`
+Snapshot ID: `MCxjMGRhOTZhYjYzNjA0MWU1YTFhYWUxZDdhOWE1MzljNDNmMmFiNjk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,809 likes - 700 songs - 1 day 17 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,861 likes - 700 songs - 1 day 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 699 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 |
 | 700 | ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 |
 
-Snapshot ID: `MCwwZDRlNmZhNzdkM2UxZTcxNDE3NTEwZGNjODZhNDQ4M2M2YjgwNjZi`
+Snapshot ID: `MCwxNzExYTFlMTczOTgzMjFkYzEzZTQ0YjBhZjRjMTVkZGUxMDQ0YmNl`

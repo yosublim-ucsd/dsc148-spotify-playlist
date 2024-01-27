@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 25170,
+  "2024-01-27": 25176,
   "date_first_scraped": "2022-01-02",
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: \u00c4TNA",
   "name": "RADAR GSA",
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 237179,
       "name": "FRANKENSTEIN",
       "url": "https://open.spotify.com/track/1TedN903wyVk0dX1gdiADm"
@@ -2823,7 +2823,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
@@ -3018,6 +3018,24 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9"
+    },
+    {
+      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 130392,
       "name": "nie wieder wegrennen",
       "url": "https://open.spotify.com/track/1E9inOEvd8MyLeosUaOFNP"
@@ -3929,6 +3947,24 @@
       "duration_ms": 163078,
       "name": "Sick Of Being Sad",
       "url": "https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R"
+    },
+    {
+      "album": {
+        "name": "sie",
+        "url": "https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "sie",
+      "url": "https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5"
     },
     {
       "album": {
@@ -5139,6 +5175,24 @@
       "duration_ms": 181889,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
+    },
+    {
+      "album": {
+        "name": "Z0RNIG [2O24]",
+        "url": "https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Z0RNIG [2O24]",
+      "url": "https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 737888,
+  "2024-01-27": 737292,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Indonesia.",
   "name": "Top 50 - Indonesia",
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -8089,7 +8089,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 237863,
       "name": "Tertawan Hati",
       "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"

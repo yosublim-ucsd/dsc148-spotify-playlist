@@ -2,9 +2,9 @@
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Savage
+> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-343 songs - 16 hr 3 min
+344 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [STREETS ALONE \(feat\. A$AP Rocky\)](https://open.spotify.com/track/4QwLwqDbnxV0Tx5wXXoR9F) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WEIGHT OF THE WORLD](https://open.spotify.com/album/6DY8Tci3yCd6teXbxoPGN6) | 2:51 | 2022-06-03 | 2022-06-25 |
 | [STUNTMAN \(feat\. Vince Staples\)](https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:19 | 2023-05-12 |  |
 | [Suit Me Up](https://open.spotify.com/track/5pyve48qwbI8CTWDnW9eiQ) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Suit Me Up](https://open.spotify.com/album/6amcMGHHDQQZ9uCGl23ZpU) | 3:54 | 2022-06-03 | 2022-07-16 |
+| [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 | 2024-01-26 |  |
 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 | 2023-02-17 |  |
 | [Switch Switch](https://open.spotify.com/track/0CoeJ0kuo0kpN9QWrdHmX9) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Switch Switch](https://open.spotify.com/album/3wl0jAxxG52PS3uNdpZquD) | 2:41 | 2022-06-03 | 2022-10-22 |
 | [Take Care \(feat\. Toosii & Millie Go Lightly\)](https://open.spotify.com/track/5s8PjlqUnh2JwF6fkMJK3L) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Millie Go Lightly](https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD) | [Take Care \(feat\. Toosii & Millie Go Lightly\)](https://open.spotify.com/album/56P5pwahGAQrkSBxIiCw11) | 2:52 | 2022-06-03 | 2023-02-18 |

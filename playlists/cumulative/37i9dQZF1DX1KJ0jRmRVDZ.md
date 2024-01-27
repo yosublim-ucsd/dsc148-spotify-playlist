@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-990 songs - 2 day 8 hr 26 min
+991 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/track/1kCn0Vx5jh6WNy7S7cCvab) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [natsumi](https://open.spotify.com/artist/0j5uL1aGwr2KzirkKWF2YD) | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/album/4EhAU964ARXJZKR8oegtPk) | 4:08 | 2022-07-24 | 2022-07-26 |
 | [sakura breeze](https://open.spotify.com/track/0wA4jgSYocJbr3VMGhgFI7) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8), [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [sakura breeze](https://open.spotify.com/album/5wG74dZ07tw3YFQu3BdpKp) | 3:33 | 2022-06-09 | 2022-07-15 |
 | [Sansan to Furitsumoru Yoru ha](https://open.spotify.com/track/79y2tDJEkshvARtHIWlv5g) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ONE MORE SHABON](https://open.spotify.com/album/1Xeegi7QJ8HdQWnow6IO2U) | 3:12 | 2022-06-21 | 2022-07-19 |
+| [Sayonara Birthday](https://open.spotify.com/track/6vVBsyhKr1NBC0V1FvP3Ut) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Sayonara Birthday](https://open.spotify.com/album/12fbJ0HEWboQXtsebbykCA) | 3:29 | 2024-01-25 |  |
 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 | 2024-01-18 |  |
 | [Scarlet](https://open.spotify.com/track/00avhcaLNcT8CGEtt4VZE8) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Scarlet](https://open.spotify.com/album/1PjiZEXB01V8rk2PUDFSs9) | 3:32 | 2023-11-14 | 2023-11-22 |
 | [School explodes](https://open.spotify.com/track/3xkmjEzvzC59IPlcCxhwH7) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [School explodes](https://open.spotify.com/album/5qMIh8rhKiounZckTvCeIR) | 1:10 | 2023-06-27 | 2023-07-21 |
@@ -389,7 +390,7 @@
 | [こまっちゃうナ 2023](https://open.spotify.com/track/3YCng11mK2ypK6oUEy6rYN) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [こまっちゃうナ 2023](https://open.spotify.com/album/0Wd1Oizo1G8jXm2MjgYNWP) | 3:03 | 2023-05-16 | 2023-05-31 |
 | [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 | 2023-03-15 | 2023-03-16 |
 | [さよならノヴェル](https://open.spotify.com/track/1eKFhZFsvYhhrdzsTyj3fc) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [綾瀬なりさ](https://open.spotify.com/artist/4J31KiLWmVhHlpIXaeTcb4) | [さよならノヴェル](https://open.spotify.com/album/0GyGXiYidz1ubZYN166W5F) | 3:57 | 2022-09-20 | 2022-09-28 |
-| [さよならバースデー](https://open.spotify.com/track/3aANAlDDG1zLVQo0cc6hVQ) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [さよならバースデー](https://open.spotify.com/album/1pxdxlJ9hl3yVcAr6YaKHi) | 3:29 | 2024-01-25 |  |
+| [さよならバースデー](https://open.spotify.com/track/3aANAlDDG1zLVQo0cc6hVQ) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [さよならバースデー](https://open.spotify.com/album/1pxdxlJ9hl3yVcAr6YaKHi) | 3:29 | 2024-01-25 | 2024-01-27 |
 | [ざわめけ](https://open.spotify.com/track/4g9v1xOpTtnO8NEMFdVPTD) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [審美眼](https://open.spotify.com/album/6lcOYc9c5u8zQ1Ojch6Jxi) | 3:45 | 2023-08-08 | 2023-08-16 |
 | [しあわせになんてならないで \- feat\. ナナヲアカリ](https://open.spotify.com/track/72vmaNXLCBClVUTJVHERqr) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [しあわせになんてならないで \(feat\. ナナヲアカリ\)](https://open.spotify.com/album/4PBFe5tKjJdPQJbuZvnB83) | 3:33 | 2023-11-28 | 2024-01-05 |
 | [しくない](https://open.spotify.com/track/3H4EaBWct5AhDU2TykkWyL) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [しくない](https://open.spotify.com/album/2BkKGwFO8FzSQyqp1DC0ek) | 3:33 | 2023-05-09 | 2023-05-31 |

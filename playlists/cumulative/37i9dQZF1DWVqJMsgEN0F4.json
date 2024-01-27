@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Cage The Elephant along with the best alternative songs of today.",
+  "description": "Blu DeTiger along with the best alternative songs of today.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174641,
       "name": "6 Pack and Cigarettes",
       "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "EKKSTACY",
+        "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129880,
+      "name": "alright (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
+    },
+    {
+      "album": {
         "name": "Always Get This Way",
         "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
       },
@@ -634,7 +656,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -908,7 +930,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199466,
       "name": "bella",
       "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172000,
       "name": "Cannonballers",
       "url": "https://open.spotify.com/track/5hR92ZjhZsVVUPLuEJcxDf"
@@ -1853,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -1922,7 +1962,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
@@ -2114,6 +2154,24 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
+      "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107665,
+      "name": "Do It Faster",
+      "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
     },
     {
       "album": {
@@ -3285,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -3712,7 +3788,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 234134,
       "name": "Invisible Hand",
       "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
@@ -4134,7 +4210,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199933,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/71dHLCNMxrjaI7kGDiwZc3"
@@ -5054,7 +5130,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Next Exit",
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
@@ -5116,6 +5192,24 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "album": {
@@ -5342,7 +5436,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 252797,
       "name": "Nothing Works",
       "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
@@ -5498,6 +5592,24 @@
       "duration_ms": 203876,
       "name": "Oh No Darling!",
       "url": "https://open.spotify.com/track/3TMp13jKf5DDxmVfs4HGbt"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "album": {
@@ -5894,7 +6006,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188708,
       "name": "Pull Me Through",
       "url": "https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT"
@@ -6898,7 +7010,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -6970,7 +7082,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165130,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
@@ -7490,6 +7602,24 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
       "album": {
@@ -8359,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "Triumph",
+        "url": "https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB"
+    },
+    {
+      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -8723,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -8980,6 +9146,28 @@
       "duration_ms": 182197,
       "name": "When The Devil Speaks\u2026",
       "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"
+    },
+    {
+      "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "album": {
@@ -9304,7 +9492,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"

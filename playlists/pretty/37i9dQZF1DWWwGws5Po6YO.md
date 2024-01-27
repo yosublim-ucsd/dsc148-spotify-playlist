@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,585 likes - 100 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,601 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Laurus I](https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Laurus](https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l) | 4:05 |
 | 100 | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Ghost Marrow](https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt) | 7:45 |
 
-Snapshot ID: `MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk`
+Snapshot ID: `MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx`

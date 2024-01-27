@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-123 songs - 11 hr 39 min
+124 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Para Para Hua](https://open.spotify.com/track/4oCvl7Jdbm7yNVoLohUHOV) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 3:53 | 2022-11-09 | 2022-11-13 |
 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 | 2023-05-20 |
 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 | 2021-12-01 | 2023-05-16 |
-| [Poshiida](https://open.spotify.com/track/5IBSUC328q7FOJbRWSBshZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/028fac3QHLwLvVAiGpg8Os) | 5:19 | 2023-12-12 |  |
+| [Poshiida](https://open.spotify.com/track/5IBSUC328q7FOJbRWSBshZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/028fac3QHLwLvVAiGpg8Os) | 5:19 | 2023-12-12 | 2024-01-27 |
+| [Poshiida](https://open.spotify.com/track/6ArdbmXqWGlRjsPQQfAGj4) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/5l1KWAkPohyeWSp6EhJL3o) | 5:19 | 2024-01-25 |  |
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 | 2021-12-01 |  |
 | [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 |  |
 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |

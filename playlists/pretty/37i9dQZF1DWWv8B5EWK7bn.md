@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,861 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,944 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 |
 | 100 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 
-Snapshot ID: `MCxjOTRkMGVmNGI4ZjI5MWY5NzFkOGMwOTI2N2RhOGMxY2E0ZjM1MWQ3`
+Snapshot ID: `MCw2OGVmYmQ3ZGMyYjgwMDA1MTU3N2FmY2RjNzhhMWY0NjQ1YWI5N2Jh`

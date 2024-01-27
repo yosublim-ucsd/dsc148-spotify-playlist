@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,038 songs - 2 day 8 hr 8 min
+1,039 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,7 +638,7 @@
 | [Naked](https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT) | 3:38 | 2021-12-17 | 2022-04-15 |
 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-05-27 | 2022-07-13 |
 | [Needed You](https://open.spotify.com/track/6aboP9OEODXeWkJLpEhMfC) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Needed You](https://open.spotify.com/album/2lLq1QQHenyNGQ17E1frGX) | 3:08 | 2020-12-29 | 2021-01-07 |
-| [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2024-01-02 |  |
+| [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2024-01-02 | 2024-01-27 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-12-31 |  |
 | [Never Gonna Tell You](https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Never Gonna Tell You](https://open.spotify.com/album/3PoGEJfiQvaSNECV3yDjzj) | 3:23 | 2021-12-17 | 2022-04-20 |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2023-03-31 | 2023-07-29 |
@@ -999,6 +999,7 @@
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-04-01 | 2023-03-21 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-20 | 2023-07-21 |
 | [What You Want](https://open.spotify.com/track/1EHgCTp5LuW5Rlt7IruwCf) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [What You Want](https://open.spotify.com/album/5R2FTQb8RUZROKEuYtnkIO) | 4:00 | 2020-10-13 | 2021-12-04 |
+| [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-26 |  |
 | [When Am With You \(feat\. Jetsome\)](https://open.spotify.com/track/7E15qcshihxn7NaE5haEe9) | [Kydus](https://open.spotify.com/artist/6YycIIoEl49FGVdmgsABea), [Jetsome](https://open.spotify.com/artist/3hMpWOeZu5r98btcpuqbbV) | [When Am With You \(feat\. Jetsome\)](https://open.spotify.com/album/5OjxzuOlkoJFaZ9fcIrJQR) | 3:15 | 2020-11-14 | 2021-09-22 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-01-21 |  |
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-17 |  |

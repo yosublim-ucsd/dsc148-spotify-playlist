@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 117501,
+  "2024-01-27": 117510,
   "date_first_scraped": "2022-10-24",
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
   "name": "Midnight Chill",
@@ -2348,6 +2348,28 @@
     },
     {
       "album": {
+        "name": "I Inhabit My Life (And It Feels So Good)",
+        "url": "https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139670,
+      "name": "I Inhabit My Life (And It Feels So Good)",
+      "url": "https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5"
+    },
+    {
+      "album": {
         "name": "I Miss You So",
         "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
       },
@@ -2381,6 +2403,28 @@
       "duration_ms": 740010,
       "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
       "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
+    },
+    {
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/7xWbzfGRjJpzrkQ6kONF2w"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        },
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "I'm a bee you're a flower - The Bug remix",
+      "url": "https://open.spotify.com/track/4iqrBlOyCkCDjpwRkhv2V4"
     },
     {
       "album": {
@@ -3067,7 +3111,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
@@ -3129,7 +3173,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 197500,
       "name": "Magnolia II",
       "url": "https://open.spotify.com/track/5P7SWP6NrHNmWcvLCfmwkk"
@@ -3446,6 +3490,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
+    },
+    {
+      "album": {
         "name": "Nails",
         "url": "https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT"
       },
@@ -3733,7 +3795,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 199468,
       "name": "Nowhere to Hide",
       "url": "https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N"

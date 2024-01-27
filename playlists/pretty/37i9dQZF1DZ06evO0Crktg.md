@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,125 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,435 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 |
 | 50 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDA4OTZmYzJkZWZmMGQ4YjIxOWMxYzIyYTJlZDY1YzQ2OQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBjOTY1MzFmODRhYjZlZWFjYWQ1NGY4MzUwMjZhMjBlMw==`

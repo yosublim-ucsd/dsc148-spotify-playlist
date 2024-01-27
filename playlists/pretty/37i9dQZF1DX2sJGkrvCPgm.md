@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,349 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,330 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 149 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 |
 | 150 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 |
 
-Snapshot ID: `MCw0NTE0YjNhYTA4YWJlMmQxYTI4MTZjNWE5NGM0ZjUxYzRkZDE5Yjcx`
+Snapshot ID: `MCw5YzU3ODdkOTkzZTdjOTA2MTBhZmZlMDQ1NzRiODU5ZDI2ZDBmOTY4`

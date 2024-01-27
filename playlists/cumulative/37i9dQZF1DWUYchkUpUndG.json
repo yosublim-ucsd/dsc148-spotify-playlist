@@ -18227,6 +18227,24 @@
     },
     {
       "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/1JfLYuX0glib2e0QUrPng5"
+      },
+      "artists": [
+        {
+          "name": "Megan Tossi",
+          "url": "https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/3pEWrCEBK1HnuD39lxWPFt"
+    },
+    {
+      "album": {
         "name": "Lets Get Married",
         "url": "https://open.spotify.com/album/3Q22XLhHPR91DV3h9s5g7b"
       },

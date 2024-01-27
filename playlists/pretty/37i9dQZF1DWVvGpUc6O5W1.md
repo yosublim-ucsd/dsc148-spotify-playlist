@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,132 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,157 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 |
 | 150 | [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 |
 
-Snapshot ID: `MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx`
+Snapshot ID: `MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5`

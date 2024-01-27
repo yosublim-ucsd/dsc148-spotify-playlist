@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,279 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,144 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Escápate conmigo](https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [El ataque de la nueva ola](https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy) | 3:40 |
 | 100 | [Fuera de Ritmo](https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7) | [Fuerza Dread](https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Fuera de Ritmo](https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av) | 4:24 |
 
-Snapshot ID: `MCxmNTc5NzNiZTUyNDU2ZWEwODJjNzg3MDhkMTYyMGZkMTllOTBlM2Fj`
+Snapshot ID: `MCwzNGEzZDgzN2RjMDdlY2Y5YTdiMWU1NjQ5NzlmMzQ4OTEyMGMyMjE3`

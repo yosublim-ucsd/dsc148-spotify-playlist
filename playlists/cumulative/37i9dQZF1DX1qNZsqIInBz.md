@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-195 songs - 8 hr 43 min
+197 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 |  |
 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 | 2023-12-09 |
+| [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 | 2024-01-26 |  |
 | [EXIST](https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [EXIST](https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9) | 3:03 | 2022-10-10 | 2023-05-06 |
 | [Eyes Don't Lie](https://open.spotify.com/track/1DCPoSVMgOr457qKTSp8c8) | [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Eyes Don't Lie](https://open.spotify.com/album/3RYY1oBqLh96SzqxoFzSzp) | 2:16 | 2023-10-13 |  |
 | [Eyez On The Prize](https://open.spotify.com/track/4ewahlsQrOeZwSNZToFvRD) | [Tele.phonk](https://open.spotify.com/artist/7Fi1jHSJRaQfZpHArLW36Q) | [Eyez On The Prize](https://open.spotify.com/album/7eekajxZPv3c0lHDItaAUd) | 1:51 | 2023-05-05 |  |
@@ -73,6 +74,7 @@
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 | 2023-09-30 |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
 | [Forever In My Mind](https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [Forever In My Mind](https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP) | 3:01 | 2023-03-10 | 2023-06-10 |
+| [Freaks](https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Freaks](https://open.spotify.com/album/2cIfNaP93DbfWhcilRi3js) | 2:40 | 2024-01-26 |  |
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Frontier](https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SxDJI](https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1) | [Frontier](https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP) | 3:47 | 2023-05-05 |  |
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
@@ -98,7 +100,7 @@
 | [Komarovo \(DVRST Phonk Remix\)](https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Igor Sklyar](https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv), [Atomic Heart](https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP) | [Atomic Heart \(Original Game Soundtrack\) Vol.1](https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx) | 2:26 | 2023-05-05 |  |
 | [LAST SUMMER](https://open.spotify.com/track/18HmibGhzrtpOJjF7shVvB) | [7ACE](https://open.spotify.com/artist/66ymtDmx7RDJ6qoIflhBBj) | [LAST SUMMER](https://open.spotify.com/album/31TdY8uhStMWgpSFGYfAXz) | 2:25 | 2022-10-10 | 2022-12-17 |
 | [LIBERTY](https://open.spotify.com/track/3jc2Sb5wbUqDIirFGRjcXd) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [LIBERTY](https://open.spotify.com/album/54npb8AVC4EgN3Y7tokAKu) | 2:44 | 2022-10-10 | 2023-06-24 |
-| [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 |  |
+| [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 | 2024-01-27 |
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 | 2023-10-21 |
 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 |  |
@@ -139,7 +141,7 @@
 | [nightmares](https://open.spotify.com/track/4YR40xH1Zxq1RKOxk49YcO) | [skyfall beats](https://open.spotify.com/artist/6ORJGSfnPFkJFFs5wXEClO) | [nightmares](https://open.spotify.com/album/63t2KnssSonLbVh4WtwjhI) | 2:45 | 2023-11-17 |  |
 | [nightriders](https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [nightriders](https://open.spotify.com/album/0WvOrokciCcRELMBURq18R) | 2:02 | 2022-12-16 |  |
 | [Nightscape](https://open.spotify.com/track/6J3RFzkd1gacuycGdj8V2s) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Nightscape](https://open.spotify.com/album/2RtsQWMd6CErHfsxK879xO) | 2:38 | 2022-10-10 | 2023-08-19 |
-| [Nitrogen](https://open.spotify.com/track/3zwdzya2dW8KxS2izHiOx5) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Nitrogen](https://open.spotify.com/album/6J29nFfsCtEy9SWVFxFXyK) | 3:32 | 2022-10-10 |  |
+| [Nitrogen](https://open.spotify.com/track/3zwdzya2dW8KxS2izHiOx5) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Nitrogen](https://open.spotify.com/album/6J29nFfsCtEy9SWVFxFXyK) | 3:32 | 2022-10-10 | 2024-01-27 |
 | [No Feelings](https://open.spotify.com/track/3FqmwcPz3tbEkUdpcqgiFw) | [Килджо](https://open.spotify.com/artist/5mm0DuZLMUbTCskL9UvDrs), [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [No Feelings](https://open.spotify.com/album/5NIPVhCZB6SiH76SGGW073) | 2:17 | 2022-10-10 | 2022-12-10 |
 | [No Forget Her](https://open.spotify.com/track/47kmL7wc4XojdpxJ7ZR6ql) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF), [Goto Eight](https://open.spotify.com/artist/363VYEgnv8VQ1hIn9Fz7pB) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:46 | 2022-10-10 | 2023-08-12 |
 | [NO HOPE](https://open.spotify.com/track/6lpqmnhoM6fxVg52c7azTp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 1:31 | 2022-10-10 |  |

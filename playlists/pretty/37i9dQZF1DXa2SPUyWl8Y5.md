@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,639 likes - 80 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,703 likes - 80 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
 | 80 | [Glitter and Litter](https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Glitter and Litter](https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2) | 7:26 |
 
-Snapshot ID: `MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi`
+Snapshot ID: `MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm`

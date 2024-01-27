@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,845 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,900 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 89 | [Somebody Else Is Taking My Place](https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Complete Recordings 1941\-1947](https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP) | 3:08 |
 | 90 | [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 |
 
-Snapshot ID: `MCxkMGQ2N2JlMjQzOTYzOTRiMjUzZjkzNzY1NTk0NDQyOWIxMDVhYzYx`
+Snapshot ID: `MCxiNGIwYzg5NGM5YzQzODRjMTg4ZjM2NTJkYmI3MDQyMWVmZDVjMWI0`

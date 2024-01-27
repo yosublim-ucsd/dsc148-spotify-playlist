@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 85927,
+  "2024-01-27": 85870,
   "date_first_scraped": "2022-10-24",
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "Mid Tempo Magic",
@@ -807,7 +807,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 238259,
       "name": "Ballad Kibun",
       "url": "https://open.spotify.com/track/4so7Q5JTkr8wkW45MOeqVe"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 205093,
       "name": "Come on By",
       "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 204376,
       "name": "Dream Boy",
       "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
@@ -4084,6 +4084,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m falling for you",
+        "url": "https://open.spotify.com/album/5PZi9Ctf2visPdtQRYRkbP"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183164,
+      "name": "I\u2019m falling for you",
+      "url": "https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN"
+    },
+    {
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
       },
@@ -4658,6 +4676,24 @@
     },
     {
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
+    },
+    {
+      "album": {
         "name": "Lovers Carvings (WXAXRXP Session)",
         "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
       },
@@ -4673,6 +4709,24 @@
       "duration_ms": 270466,
       "name": "Lovers Carvings - WXAXRXP Session",
       "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131999,
+      "name": "Loving You Will Be The Death Of Me",
+      "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
     },
     {
       "album": {
@@ -5595,6 +5649,24 @@
       "duration_ms": 264690,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd"
+    },
+    {
+      "album": {
+        "name": "Pools of Colour",
+        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228398,
+      "name": "Pools of Colour",
+      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
     },
     {
       "album": {
@@ -9197,7 +9269,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 265875,
       "name": "\u9ec4\u660f\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0"

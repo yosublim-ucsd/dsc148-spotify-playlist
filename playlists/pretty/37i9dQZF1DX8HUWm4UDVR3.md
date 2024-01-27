@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,419 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,446 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 30 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 |
 | 31 | [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 |
 | 32 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 |
-| 33 | [être moi\-même](https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:40 |
-| 34 | [Ouragan](https://open.spotify.com/track/4uB57FLLnkytm3Hoc8KRtT) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Ouragan](https://open.spotify.com/album/3iJHdURPYUgJsWMFZfW4uz) | 2:28 |
-| 35 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 |
-| 36 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 |
-| 37 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 |
-| 38 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 |
-| 39 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 |
-| 40 | [Meilleur](https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Meilleur](https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV) | 2:32 |
-| 41 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 |
-| 42 | [Film Noir](https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Film Noir](https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC) | 3:27 |
-| 43 | [Hollywood game](https://open.spotify.com/track/08lrGHWmLDdGyQvFBlwqxF) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Hollywood game](https://open.spotify.com/album/5IQZFOZDSqX80qcLUaRNRY) | 3:12 |
-| 44 | [Reviens\-tu](https://open.spotify.com/track/3rMKYCKljvm9Wo6fvshMz3) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Pilote](https://open.spotify.com/album/1b5vs9vwsQMveVLedlKhZ4) | 2:21 |
-| 45 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 |
-| 46 | [BOY](https://open.spotify.com/track/3uGqac4MPTi2gV5LyNQOMz) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [BOY](https://open.spotify.com/album/58bWxqazTDY1sl3E6UL2qD) | 2:59 |
-| 47 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 |
-| 48 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 |
-| 49 | [Toi et moi](https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Toi et moi](https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq) | 2:55 |
+| 33 | [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 |
+| 34 | [être moi\-même](https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:40 |
+| 35 | [Ouragan](https://open.spotify.com/track/4uB57FLLnkytm3Hoc8KRtT) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Ouragan](https://open.spotify.com/album/3iJHdURPYUgJsWMFZfW4uz) | 2:28 |
+| 36 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 |
+| 37 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 |
+| 38 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 |
+| 39 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 |
+| 40 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 |
+| 41 | [Meilleur](https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Meilleur](https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV) | 2:32 |
+| 42 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 |
+| 43 | [Film Noir](https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Film Noir](https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC) | 3:27 |
+| 44 | [Hollywood game](https://open.spotify.com/track/08lrGHWmLDdGyQvFBlwqxF) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Hollywood game](https://open.spotify.com/album/5IQZFOZDSqX80qcLUaRNRY) | 3:12 |
+| 45 | [Reviens\-tu](https://open.spotify.com/track/3rMKYCKljvm9Wo6fvshMz3) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Pilote](https://open.spotify.com/album/1b5vs9vwsQMveVLedlKhZ4) | 2:21 |
+| 46 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 |
+| 47 | [BOY](https://open.spotify.com/track/3uGqac4MPTi2gV5LyNQOMz) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [BOY](https://open.spotify.com/album/58bWxqazTDY1sl3E6UL2qD) | 2:59 |
+| 48 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 |
+| 49 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 |
+| 50 | [Toi et moi](https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Toi et moi](https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq) | 2:55 |
 
-Snapshot ID: `MCwwMDc3YWVlNTA4YTlkYThjYjU5MTNiMDFkYWFhZGIzZmQ2ZThjYzRj`
+Snapshot ID: `MCxkZTg4NjVjOGJiYzA5MDNiZGJmNWM1NDRmMGQ0OTVhZGY3OGQ1ZTM2`

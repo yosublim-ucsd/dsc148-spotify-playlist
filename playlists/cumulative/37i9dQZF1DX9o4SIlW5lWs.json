@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 164949,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
@@ -1114,6 +1114,24 @@
       "duration_ms": 196774,
       "name": "Corazon Destrozado",
       "url": "https://open.spotify.com/track/68h0m0tEi2xhR4fBFN7vtH"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Blindado",
+        "url": "https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli"
+      },
+      "artists": [
+        {
+          "name": "Fede Rojas",
+          "url": "https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171930,
+      "name": "Coraz\u00f3n Blindado",
+      "url": "https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW"
     },
     {
       "album": {
@@ -2329,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "ESAS L\u00c1GRIMAS",
+        "url": "https://open.spotify.com/album/7Gt2ZvYH5uGwnULjxYDOcf"
+      },
+      "artists": [
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        },
+        {
+          "name": "JOHANA RODRIGUEZ",
+          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "ESAS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/62afBH32Rh04BXl7pwtr2r"
+    },
+    {
+      "album": {
         "name": "Ya No Llores",
         "url": "https://open.spotify.com/album/7lwRCZvuiKzDc0v9n0Nb5i"
       },
@@ -2626,7 +2666,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 108587,
       "name": "Gritaras Te Quiero",
       "url": "https://open.spotify.com/track/6q84kjerpfatlMD3RzGA32"
@@ -3825,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "No Compartas La Cama",
+        "url": "https://open.spotify.com/album/3oV3jlCaLb2e1fQfJCIVZj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140357,
+      "name": "No Compartas La Cama",
+      "url": "https://open.spotify.com/track/23hVu1E3qixFnd9pi0saMH"
+    },
+    {
+      "album": {
         "name": "No Deber\u00eda Quererte",
         "url": "https://open.spotify.com/album/5GNeYcySMXqQu8oth22Vaw"
       },
@@ -4362,7 +4420,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
@@ -5402,7 +5460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 193347,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
@@ -6280,7 +6338,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 153403,
       "name": "Vamos a Trasnochar",
       "url": "https://open.spotify.com/track/4o5xNPc2cUAZnDG7TZ4a4e"

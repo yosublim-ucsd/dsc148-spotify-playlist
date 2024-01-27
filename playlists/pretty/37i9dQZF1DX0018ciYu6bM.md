@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DPR IAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,279 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,374 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 8 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 9 | [TRUE](https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [YOARI X MY DEMON](https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf) | 3:12 |
 | 10 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans X MY DEMON](https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb) | 3:12 |
-| 11 | [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
+| 11 | [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 12 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 |
 | 13 | [My Beloved](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [My Beloved](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) | 4:04 |
 | 14 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 59 | [Smoke \(Prod\. Dynamicduo, Padi\) \- Remix](https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5) | [Smoke \(Remix\)](https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk) | 4:43 |
 | 60 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 
-Snapshot ID: `MCwxNmYxMTdhZjhiNTE5ZjBlMTY1MWRmMmExYThhNWM1ODE3MTYwMmRh`
+Snapshot ID: `MCw4Zjg1YTA5ZWM2ODY4YTkyOWUyMDc2ZTcyMjFlNTQ5ZDVkYWVjNDc4`

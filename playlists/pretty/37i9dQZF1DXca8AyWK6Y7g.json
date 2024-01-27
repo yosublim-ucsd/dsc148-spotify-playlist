@@ -1,13 +1,29 @@
 {
-  "description": "listening to lovely songs on my silly little walk. Cover: Meg Smith",
-  "num_followers": 1494823,
+  "description": "running through the streets screaming listening to Fletcher",
+  "num_followers": 1493957,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGFiYTljOGQ1YjY0YmNhYjY0ZWY4NTc0YzcwZGM0NjU2NjMwYmFm",
+  "snapshot_id": "MCwwYWY4YWI2OGJhNTQ2OTU1OTZiY2VmMTQwMTRmY2IxM2JkMTIwYThj",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
+    },
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
@@ -25,68 +41,52 @@
       "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Drunk Tattoo",
-        "url": "https://open.spotify.com/album/09uqsjk8EHwUBxn8uulYmt"
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
       "artists": [
         {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 175124,
-      "name": "Drunk Tattoo",
-      "url": "https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui"
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
         }
       ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -123,18 +139,34 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "playpen",
-        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
       "artists": [
         {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
         }
       ],
-      "duration_ms": 151142,
-      "name": "we're all eating each other",
-      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -151,6 +183,22 @@
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -187,6 +235,38 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "If I Don't Laugh I'll Cry",
+        "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "If I Don't Laugh I'll Cry",
+      "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -275,22 +355,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "all-american bitch",
-      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
@@ -303,6 +367,22 @@
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1401,22 +1481,6 @@
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Here\u2019s To Us",
@@ -1581,6 +1645,22 @@
       "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Drunk Tattoo",
+        "url": "https://open.spotify.com/album/09uqsjk8EHwUBxn8uulYmt"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Drunk Tattoo",
+      "url": "https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "I Haven't Seen You Since The Summer",
@@ -1615,42 +1695,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "except for U",
-        "url": "https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy"
-      },
-      "artists": [
-        {
-          "name": "Sushisingz",
-          "url": "https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd"
-        },
-        {
-          "name": "Ted Fresco",
-          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
-        }
-      ],
-      "duration_ms": 213352,
-      "name": "except for U",
-      "url": "https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Tell Her",
         "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
       },
@@ -1681,6 +1725,22 @@
       "url": "https://open.spotify.com/track/17XMzRKnVQeqj8119wRuEs"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lose Her",
+        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 170515,
+      "name": "Lose Her",
+      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Killing Time",
@@ -1695,22 +1755,6 @@
       "duration_ms": 222402,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "If I Don't Laugh I'll Cry",
-        "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "If I Don't Laugh I'll Cry",
-      "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1775,6 +1819,22 @@
       "duration_ms": 144579,
       "name": "Go Blonde",
       "url": "https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
     }
   ],
   "unique_name": "young & free",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,709 likes - 150 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,802 likes - 150 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [Atrial](https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Atrial](https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt) | 2:17 |
 | 150 | [Swoon](https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/4Ucs8ewijxhXKGhfPSqSLJ) | 3:35 |
 
-Snapshot ID: `MCw2ZmQwMjQwYTgzODhmNGNjMmNlODkwOGZiYzIzYjdiNjFhNDRjZTI2`
+Snapshot ID: `MCw5ODljMWU0YWE3OWFiN2M2YTQwOGFlMjk0MzAzMGI3OTBmNDhkZWJl`

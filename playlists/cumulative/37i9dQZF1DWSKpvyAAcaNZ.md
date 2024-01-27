@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-298 songs - 18 hr 48 min
+299 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 | 2021-12-17 |  |
 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 | 2021-12-17 | 2022-07-29 |
 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 | 2022-07-22 |  |
+| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 |  |
 | [Mediterranean Blues](https://open.spotify.com/track/5L5zRByIRyGRGurVWwnWkT) | [Matt Phillips](https://open.spotify.com/artist/22BCyjczCSuALgagXSUm3p), [Phil Harmonic](https://open.spotify.com/artist/5szI3Z1nioD6Shb3QP3VBA) | [Move](https://open.spotify.com/album/1MqwG4kOK1G51LydYHqsV6) | 3:30 | 2021-12-17 |  |
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2021-12-17 |  |
 | [Mockingbird](https://open.spotify.com/track/6NXWl8y3sGXZduzeNqhGp6) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Mockingbird](https://open.spotify.com/album/6wtlrcgFPJd6axKzjPPZe2) | 3:19 | 2021-12-17 |  |
@@ -196,9 +197,9 @@
 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 | 2021-12-17 | 2022-07-29 |
 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 | 2022-07-22 |  |
 | [Promise Land \(feat\. Jason Eskridge\)](https://open.spotify.com/track/2LMdmFUSKJnO7zbZQYi0r6) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg), [Jason Eskridge](https://open.spotify.com/artist/6532sdUxmtEm2bvAHxIlBc) | [Hannah Miller](https://open.spotify.com/album/3eI3FBOCygaW9tmv4m9aJm) | 3:09 | 2021-12-17 |  |
-| [Prophet Story](https://open.spotify.com/track/24f2KKU4S1JyRXjfqodERA) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Prophet Story](https://open.spotify.com/album/13FFQRmPjYcwHJlltZLNSu) | 3:38 | 2022-07-22 |  |
+| [Prophet Story](https://open.spotify.com/track/24f2KKU4S1JyRXjfqodERA) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Prophet Story](https://open.spotify.com/album/13FFQRmPjYcwHJlltZLNSu) | 3:38 | 2022-07-22 | 2024-01-27 |
 | [Prophet Story](https://open.spotify.com/track/5NN2OOlvy4IJB6YJyWXIgU) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Prophet Story](https://open.spotify.com/album/7LFwWqUxrX7C1c2544tnbN) | 3:38 | 2021-12-17 | 2022-07-29 |
-| [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 | 2021-12-17 |  |
+| [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 | 2021-12-17 | 2024-01-27 |
 | [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
 | [Red Handed](https://open.spotify.com/track/0CorZ1cOjVO4ZKq4vFT83Q) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/4WeEPXfX65iED2fxfRGxeZ) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Red Handed](https://open.spotify.com/track/1D0czkpQYtcUMS9E7VTnAc) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 2:42 | 2022-07-22 |  |

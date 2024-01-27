@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=kGRPkVhaSimtG4WIpyvemg"> CKay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,076 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,185 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [24/7](https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:26 |
 | 70 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 |
 
-Snapshot ID: `MCxjYjZhMDI4Mjg4NTBmMTIxYmUwMDI5MzI4NzA4NWZlZWQ1MDI3ZTc0`
+Snapshot ID: `MCw2M2FmNzUzMDRkZDA2MTkyNzc4MTE2OTA1NzhhOTFlOTcxMmZkZjZk`

@@ -4,13 +4,14 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-118 songs - 5 hr 22 min
+120 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Sleepy Pandas](https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Playtime](https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL) | 2:04 | 2023-01-06 |  |
 | [A Lullaby](https://open.spotify.com/track/2BwG4cGfOyYx04OideYePS) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 2:01 | 2022-03-11 |  |
 | [A Lullaby](https://open.spotify.com/track/5WSQMNRrxyxVfUIosDVvQX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 2:01 | 2022-03-11 | 2022-07-29 |
+| [African Lullaby](https://open.spotify.com/track/6CImoHDqYlFRYJEUzVP4yT) | [Jeremy Olivier](https://open.spotify.com/artist/4E0vXuP4jPooLrKMWifC4m), [Mike Del Ferro](https://open.spotify.com/artist/0TNH4nP9pt2WmRcbmFn8kr) | [Where the Light Gets In](https://open.spotify.com/album/1lYpby1e6FO73dXiCrmLw8) | 3:00 | 2024-01-26 |  |
 | [All Through The Night](https://open.spotify.com/track/3kQyh3yEb2MEO7MQ3vXvJg) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 1:45 | 2022-03-11 | 2022-07-29 |
 | [All Through The Night](https://open.spotify.com/track/7dLIzZDsp5AWxWukgyw0Rj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 1:45 | 2022-03-11 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Josh Ottum](https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB) | [Always Be My Baby](https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp) | 4:14 | 2022-03-11 |  |
@@ -22,6 +23,7 @@
 | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/track/1L0jC2agTADottddsXxQzB) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/album/2PVV7ZVcEreUEb6VX2DOmJ) | 2:24 | 2022-03-11 | 2022-07-29 |
 | [Brahms' lullaby](https://open.spotify.com/track/40D6z3SPM1SdYVtqXfsgTh) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Lullaby](https://open.spotify.com/album/6aDRCnCbuqY7NkerfUcyp7) | 4:46 | 2022-03-11 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 | 2022-03-11 |  |
+| [Crystal Caves](https://open.spotify.com/track/3DJcpXYtUzwIGLT0rZz3e5) | [The Tambourine Social](https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq) | [Crystal Caves](https://open.spotify.com/album/7InDcoISAnQd3xcGhFG5CX) | 3:28 | 2024-01-26 |  |
 | [De Colores](https://open.spotify.com/track/7J9ypEO9kgPoEUOkKpUoqs) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:04 | 2022-03-11 |  |
 | [Dormite Ninito](https://open.spotify.com/track/3cjwj8u9bPYqQtS6MjhFzW) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [A Child's World Of Lullabies\-Multicultural Songs For Quiet Times](https://open.spotify.com/album/49YLwPm7UlhCNUFLU1vgah) | 3:46 | 2022-03-11 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1Bcvf1B43yNT9liL8ajutf) | [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 2:05 | 2022-03-11 |  |

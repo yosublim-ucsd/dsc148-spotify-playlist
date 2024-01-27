@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,215 likes - 140 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,489 likes - 140 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 139 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 |
 | 140 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 |
 
-Snapshot ID: `MCwwN2I2YTY4NjNhNjI4YmQ0NzhmNTMzYmY3YzFmNTk1NjZjMWJkNjFh`
+Snapshot ID: `MCwxYWUyZDJiNTVkZTVmYmQzY2E4MmE1ODQ0OTY3N2RiZjgwMzY2ZjNl`

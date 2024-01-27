@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,582 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,815 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 99 | [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/5ep1aGnQEL42H6O9yhMhqh) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/6P9WckCcrMFaJL5FqkbDFW) | 3:15 |
 | 100 | [Invisible Hand](https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:54 |
 
-Snapshot ID: `MCwyMjMyNjc0NjNmYmM0MjE5NWNiNDQ0NzhmNGM5ZmRhNzY0MWU0MmJk`
+Snapshot ID: `MCw2N2E4MjZhMWZjMjIzNTQ0NDJmNzc1MzgyMDQ0YTRlMTIwZjc0ZTg0`

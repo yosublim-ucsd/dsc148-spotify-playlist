@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,061 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,146 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Empty Pockets \- Remastered](https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:12 |
 | 100 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
 
-Snapshot ID: `MCxkZjMzNTcyNDNkNzUzYjg1ZDc3OWU1MmM5ZTA4ZGI0MDZlNWE4MjRh`
+Snapshot ID: `MCxlYjg5MTU1ZmYwYzI2NDhiOTc1YmM4ZGMzZmI4ZTJkNTZiY2ZiZDFj`

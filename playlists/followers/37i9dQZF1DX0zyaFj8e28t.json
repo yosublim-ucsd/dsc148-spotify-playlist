@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 361997,
+  "2024-01-27": 362012,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : Jean-Jacques Goldman",
   "name": "Hits Fran\u00e7ais 80",
@@ -605,10 +605,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 245626,
       "name": "Les valses de Vienne",
       "url": "https://open.spotify.com/track/6J8iEzFAr5Y3rlUWwCgvA0"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/25bmlyAK19NFZ7QHIZZrsi"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Feldman",
+          "url": "https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245733,
+      "name": "Les valses de Vienne",
+      "url": "https://open.spotify.com/track/4MTCNjhonKLRb8WIHpTTy8"
     },
     {
       "album": {
@@ -623,10 +641,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228040,
       "name": "Mademoiselle chante le blues",
       "url": "https://open.spotify.com/track/4bBK4HzDQjhx5JpCAByE4z"
+    },
+    {
+      "album": {
+        "name": "Mademoiselle Chante",
+        "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Mademoiselle chante le blues",
+      "url": "https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,171 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,647 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 7 | [Roses](https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu) | 1:35 |
 | 8 | [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 |
 | 9 | [Bittersweet](https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW) | [baaskaT](https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6) | [Flickshots & Quickscopes](https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH) | 1:26 |
-| 10 | [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 |
+| 10 | [Mount Fuji](https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv) | 3:01 |
 | 11 | [Rubberband](https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz) | 1:51 |
 | 12 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 |
 | 13 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 |
 | 80 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
 
-Snapshot ID: `MCxiZTY0ZjQ3YzBmNmJkMmVhMjQyNjI4YTNiZTZjNjFjZDE2Y2YzMWNh`
+Snapshot ID: `MCwyMjdjNGM1NWM3OGNkMTAxNzg2NTlkMjY0N2Y1OTgzZGNiMTdhODhh`

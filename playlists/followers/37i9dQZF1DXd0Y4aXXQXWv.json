@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 476424,
+  "2024-01-27": 476245,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
   "name": "Culture Tubes",
@@ -683,10 +683,28 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
+    },
+    {
+      "album": {
+        "name": "French Pop",
+        "url": "https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214677,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb"
     },
     {
       "album": {
@@ -1283,6 +1301,24 @@
     {
       "album": {
         "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/7EXl1EDhQ8z50gJpYfC9jB"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/4sWGG5BEy2zYE81rFoHMBo"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
       "artists": [
@@ -1293,10 +1329,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "album": {
+        "name": "Long Box",
+        "url": "https://open.spotify.com/album/1BezUoM2R3WDKFk3CUhqWS"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363400,
+      "name": "Les lacs du Connemara",
+      "url": "https://open.spotify.com/track/1qqZp3jIXNctfD4oOhN6Ef"
     },
     {
       "album": {
@@ -1311,7 +1365,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 363533,
       "name": "Les lacs du Connemara",
       "url": "https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB"
@@ -1445,10 +1499,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 248748,
       "name": "Mon fils ma bataille",
       "url": "https://open.spotify.com/track/0tZdYg6Tf2aGq2C4FyNzwN"
+    },
+    {
+      "album": {
+        "name": "Master Serie Vol 1",
+        "url": "https://open.spotify.com/album/6rfF2oWLUlvUas5CjQYUfs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Mon fils ma bataille",
+      "url": "https://open.spotify.com/track/4aJGfizRWkDEmrptPbVGb3"
     },
     {
       "album": {

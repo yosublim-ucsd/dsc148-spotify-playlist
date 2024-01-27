@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Ice Cube
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,574 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,120 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 | 50 | [I'm a Player \- Street Version](https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 6:01 |
 
-Snapshot ID: `MCw1NWIxMWZjZTViODYzYjcwYTBlYzllODdiZWVkNzkxNmI5MjI1NDFh`
+Snapshot ID: `MCxmZDc2MWYyYmY4ZjZjOTJkNmM0MTQwZGM3Nzk4YTYxNTA3NzA0Y2Y5`

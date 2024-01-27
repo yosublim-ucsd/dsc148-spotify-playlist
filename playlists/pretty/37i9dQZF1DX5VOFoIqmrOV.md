@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,665 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,747 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
 | 75 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 
-Snapshot ID: `MCxmZmEwYTIxMzMzYzRlMGQwODhjZmU1NzY0OGQ2NGI0ODNkMWU5YWVh`
+Snapshot ID: `MCw3YTNjNmQ4MWQ1NDAzNTAzZWU1ZWQ2OTVmMTA3Y2RmMzI4NmE2MzA4`

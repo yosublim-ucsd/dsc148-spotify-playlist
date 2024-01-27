@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Shubh
 
-270 songs - 15 hr 24 min
+272 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [4AM in Karachi](https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 3:28 | 2022-11-23 | 2022-12-01 |
 | [6 Maheenay](https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD) | [Talha Dar](https://open.spotify.com/artist/2qPhpzXetOadbEAO31n4NP) | [6 Maheenay](https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs) | 3:14 | 2022-09-08 | 2023-01-13 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2023-07-31 |  |
+| [Aa](https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Aa](https://open.spotify.com/album/777njg8aKak7ogZL2NUYrk) | 3:10 | 2024-01-26 |  |
 | [Aa Mil](https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aa Mil](https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt) | 2:27 | 2024-01-05 |  |
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2022-01-13 | 2022-03-11 |
 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 | 2023-08-10 | 2023-11-30 |
@@ -129,6 +130,7 @@
 | [Khairiyat \(Bonus Track\)](https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:30 | 2024-01-05 |  |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-01-05 |  |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2024-01-05 |  |
+| [Koi Si](https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm) | 3:19 | 2024-01-26 |  |
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-04-07 | 2023-01-13 |
 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 | 2023-07-31 |  |
 | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5ZQnQnbUVtBO0pl3ShqVHG) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Enchantic Tulsi Kumar](https://open.spotify.com/album/0FVTEsLSHEXGTyaQ484qMj) | 3:35 | 2022-11-30 | 2024-01-06 |

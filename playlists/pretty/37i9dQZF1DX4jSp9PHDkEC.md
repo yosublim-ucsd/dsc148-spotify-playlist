@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,229 likes - 300 songs - 19 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,933 likes - 300 songs - 19 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Maker](https://open.spotify.com/track/2QzMBWIuleaRF4qGARXEmv) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:32 |
 | 300 | [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 |
 
-Snapshot ID: `MCxlOGFjMGFhZjBmZDNhMGUyNDVjNjRiNTljOTM1NDcwYjI4OWU2ZDkz`
+Snapshot ID: `MCxkNTA3MmI4YzRhYzI0OWVmYmM2MDZlZDQwODY4ODJkZjg2NDk5N2E1`

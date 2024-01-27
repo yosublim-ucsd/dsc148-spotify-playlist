@@ -4,23 +4,29 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,293 likes - 14 songs - 48 min 54 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,295 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BORN AGAIN](https://open.spotify.com/track/2fIlZvbVnLBP5Q5nm4d1IN) | [Sunny Suljic](https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko) | [BORN AGAIN](https://open.spotify.com/album/2bhswniYbpc6rjFJpApxoL) | 2:29 |
-| 2 | [Dance With The Wolves](https://open.spotify.com/track/2RwdyjBqfKxMUAkjGLQqEM) | [La Vie Sauvage](https://open.spotify.com/artist/1wyPu1vMvfUQ0ObNKkQRxe), [Joy Ami](https://open.spotify.com/artist/7BCX6kWg4qX5kJ0nEEKDOw) | [Dance With The Wolves](https://open.spotify.com/album/3zmdroM6MdvPlduWAZbaTe) | 3:07 |
-| 3 | [HOŞGELDINIZ](https://open.spotify.com/track/43dEdcg12JzMlf6OrYKkSY) | [Sultan](https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM) | [HOŞGELDINIZ](https://open.spotify.com/album/5OWh6yhLhO8nliTwKjKaLA) | 2:45 |
-| 4 | [Motell Scandinavia](https://open.spotify.com/track/6IOuTiNyOMgeN0mQFbUhUk) | [The Empire Strikes](https://open.spotify.com/artist/33rsq0Zsm7IvjhxaYRM1a4) | [Motell Scandinavia](https://open.spotify.com/album/2yk0AIlotsUPuKWmmrjmUz) | 3:44 |
-| 5 | [Stillbild](https://open.spotify.com/track/0Aql6E7duIaIgPLMiq4mW2) | [Linda Davidsson](https://open.spotify.com/artist/4BEBedYTYJe7oCWrohgRah) | [Stillbild](https://open.spotify.com/album/0lEglmk3eQGYBPt4Ddu9NI) | 3:20 |
-| 6 | [Zeit rennt](https://open.spotify.com/track/2tsIjeseZegbinlM2WyOew) | [Luka Blau](https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG) | [Zeit rennt](https://open.spotify.com/album/7h7hEpIqYZejsPahUyUjGv) | 3:17 |
-| 7 | [Slaveship \(2006\)](https://open.spotify.com/track/0RR9VblIWtCLPrO64CZD57) | [Elekwent](https://open.spotify.com/artist/0b2l5KxqL8lD0I3LiHUGtC), [DJ Gandhi](https://open.spotify.com/artist/76GYm7x1Coy9rq5y3LpxgQ) | [I Used To Rap](https://open.spotify.com/album/7FY6G0ncIYc8Xz97kqGNiW) | 4:32 |
-| 8 | [Money](https://open.spotify.com/track/23HrYs9MGnklQcXKA9LALA) | [MiA MiU](https://open.spotify.com/artist/6Vn8gccHuLh2r3GuuGUcvl) | [Money](https://open.spotify.com/album/4ZfuRh7A3tU94RGsj74DJR) | 3:20 |
-| 9 | [תדליקי נר אמא](https://open.spotify.com/track/1mkSA5R6Hy4JGtOyTn01MB) | [יוגב דיין](https://open.spotify.com/artist/0T6hgMZMHZMLKYjBX7rZaT) | [תדליקי נר אמא](https://open.spotify.com/album/2ypC5VKxW52RDgs7LorKZ6) | 4:00 |
-| 10 | [W.I.L.D](https://open.spotify.com/track/7l3nkdKcddVL2yZbjMuq6I) | [DA EPIC](https://open.spotify.com/artist/5Mxq5Kh79okcRos0TsI1K3) | [W.I.L.D](https://open.spotify.com/album/27K8ZWpWytTvqJqN2ZbJSX) | 3:17 |
-| 11 | [Joy Of My Life](https://open.spotify.com/track/31psKBB7Y9JxmqgfJmfwyJ) | [July Guerrero](https://open.spotify.com/artist/1rtUqDPGOmBcplybUf2UIm) | [Inspirações, No\. 2](https://open.spotify.com/album/5OZYd87IvuKE1NIIvTbJql) | 3:43 |
-| 12 | [One Day I'll Be Proud](https://open.spotify.com/track/1WAY2iXXwO0RvejIDTCqA3) | [Limandi](https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS) | [FUCK\. IT.](https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD) | 2:36 |
-| 13 | [Les Canadiens sont là](https://open.spotify.com/track/2sWzhGwnV7hiVrfnLAY281) | [Noor](https://open.spotify.com/artist/2vqUUwPhJgFataUVYoulOG) | [Les Canadiens sont là](https://open.spotify.com/album/2Mj5OGzgJBNMUyHaKBtt8T) | 5:07 |
-| 14 | [Strange Faces](https://open.spotify.com/track/4dL5BWJZhaJp3LeqD84k1N) | [Satori Sun](https://open.spotify.com/artist/2U31KvGjJP17T1YfZ3iM8Z) | [Strange Faces](https://open.spotify.com/album/5wMOd6urkYNmXPAxQabzCA) | 3:31 |
+| 1 | [Feel Good Inc.](https://open.spotify.com/track/3mlzShCb7bqUGbMSb8oeMh) | [Tic\-Tekk\-Toe](https://open.spotify.com/artist/2kBvdGNQhnqtUfdeoEgtgu) | [Feel Good Inc.](https://open.spotify.com/album/55tonWGSVrcEIhle0kvtid) | 1:21 |
+| 2 | [Älskling, lägg ner stiletten](https://open.spotify.com/track/4EZJ48oaZgSnZbS6gHgd1g) | [Billy Opel](https://open.spotify.com/artist/7ITgs267FaG3NP0LzexUuV) | [Älskling, lägg ner stiletten](https://open.spotify.com/album/1J8uJDWHwuMHBVZtgZLiBB) | 1:55 |
+| 3 | [Chai Tea](https://open.spotify.com/track/71Qnz6JqmCD15dWV9GeMWr) | [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8) | [Chai Tea](https://open.spotify.com/album/6lWQHUtgUA0s9zDYnNhZ02) | 1:43 |
+| 4 | [Beter zo!](https://open.spotify.com/track/2ATv1vrlmJ2O8sbLxfON5k) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Eeuwig Voor Een Tijdje](https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g) | 2:48 |
+| 5 | [BRIMSTONE](https://open.spotify.com/track/4C2opt8LEX94XrqMRMU3xJ) | [STANE](https://open.spotify.com/artist/60BUICT4KYD7FprHaEAmd5) | [BRIMSTONE](https://open.spotify.com/album/3lF9eQiVU3EMO4JQToRGDS) | 2:58 |
+| 6 | [Half the Glass](https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [Half the Glass](https://open.spotify.com/album/3VK3YQqGTt50h9bqgYh2hJ) | 3:03 |
+| 7 | [Sunshining Day](https://open.spotify.com/track/7v0Vm6UiCpb3PHUa3HuNDo) | [Paul Allen](https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft) | [Sunshining Day](https://open.spotify.com/album/4jd1T9H9QKN3iSbKEZrROa) | 2:46 |
+| 8 | [A Homecoming](https://open.spotify.com/track/74kQFNVygSHYWj1EKKMscp) | [Dark Sven](https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv) | [Prey Day](https://open.spotify.com/album/4izd19tWyTTN8wOFcjff9L) | 2:32 |
+| 9 | [Give Me Fiction](https://open.spotify.com/track/40QozXiuU4tIOHxqe0q35D) | [Scout Smith](https://open.spotify.com/artist/11tf7UvTqOOhhBbgudqkaS) | [Ben Driggs \- The 2023 Collection](https://open.spotify.com/album/0AE3lSbFhZBgbA7mwDnexh) | 4:37 |
+| 10 | [Algo Novo \- Club Mix](https://open.spotify.com/track/7m2mEQiDNZjJAcqktRSsPT) | [Electrocristo](https://open.spotify.com/artist/1oTdzvsxxTUsDcrab2eRbl), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Club Mix\)](https://open.spotify.com/album/72h74TUHfinWG81Yb2lhUN) | 3:03 |
+| 11 | [All those faces](https://open.spotify.com/track/3Zi6UDWsG7kJxmGsaqoGwl) | [Pretty Average](https://open.spotify.com/artist/1eWQlCkIaGH24w8x2yrDN0) | [All those faces](https://open.spotify.com/album/43zi8UH1eHbscL8ESQLkCb) | 2:51 |
+| 12 | [Tango Perkele](https://open.spotify.com/track/19OJ1YM03xQCBFQIStzbz3) | [Who Stole The Lipstick](https://open.spotify.com/artist/4BHm9fdynRP04lV7J97s5T) | [Tango Perkele](https://open.spotify.com/album/0vj4zyvnPO6JjJjPUQUq2s) | 5:37 |
+| 13 | [Your Mother](https://open.spotify.com/track/2WynTeCLAALv1BaWByq4Y1) | [Drug Store Raid](https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP) | [Your Mother](https://open.spotify.com/album/2l0Ae32pRRjEy1QymtLiFd) | 5:11 |
+| 14 | [ONE BY ONE](https://open.spotify.com/track/4SoKEdypZkzRKIO4Lq8lEn) | [UNRAVELING](https://open.spotify.com/artist/1NfZ65AJK4KwEMXvFGRmML) | [ONE BY ONE](https://open.spotify.com/album/1Gh7fnSvBCVzjxwFSCObn2) | 5:06 |
+| 15 | [Solus](https://open.spotify.com/track/6Ppo7SnZajiJGb1GqpCTJ1) | [Jillian Steins](https://open.spotify.com/artist/0lPMZkALKGlhDPp1zMq0Fb) | [the remnants.](https://open.spotify.com/album/4VWnbNle4RFUcIUeuk7i53) | 3:18 |
+| 16 | [Anchors](https://open.spotify.com/track/4Nu6ejgj8tbzuzEFjEuvJt) | [TheyWalkAmongUs](https://open.spotify.com/artist/0N6Buh1gsv523odZ8AqDbU) | [Introspection](https://open.spotify.com/album/6vDMqEJJxt17UyNCuJduGB) | 3:28 |
+| 17 | [東京の僕](https://open.spotify.com/track/4gWGtOEtaPYFxYrmoin0b8) | [フォレスト](https://open.spotify.com/artist/6iKUAtcVKSTOoDc96VcSnT) | [東京の僕](https://open.spotify.com/album/0X7hqr0RrEhb9UpmLFxctm) | 3:04 |
+| 18 | [Wherever you roam](https://open.spotify.com/track/2fjAAKvkuGnqfULfTSCVTr) | [Mikael Norman](https://open.spotify.com/artist/2VRrfnpvTbITVD24SazYll) | [Wherever you roam](https://open.spotify.com/album/7c1o2mHaCWX9T5D61OHUJV) | 4:25 |
+| 19 | [Lång väg tillbaka hit](https://open.spotify.com/track/2AQ780oZjZs6kHzZ9OuGnj) | [Roger Anurag Svensson](https://open.spotify.com/artist/2bjq1Kt4DsglpLsXpy7LMh) | [Lång väg tillbaka hit](https://open.spotify.com/album/7b7EnapJVehOWn9PuQwJS5) | 4:30 |
+| 20 | [Easy To Love](https://open.spotify.com/track/6hGVJc1FavxwHG5yeZgYdf) | [EARWRM](https://open.spotify.com/artist/2hGkAHLOkrXOtro8gflG0k) | [Easy To Love](https://open.spotify.com/album/4xDKUfr7GOx1yPuLwkZlib) | 3:16 |
 
-Snapshot ID: `OTAyLDlhZGJlMzIwYjUzMzA0OTg5OTU4YzMwNjZkYjRjMjI3NGIyZTIyODA=`
+Snapshot ID: `OTA0LDQ1N2IyMjU4Y2QzN2NiMjQyMmE1ZTQzODQ2NzU5MDM2OWJjZjdkOWI=`

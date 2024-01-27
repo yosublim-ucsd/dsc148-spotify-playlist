@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,698 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,923 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 23 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 24 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
 | 25 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
-| 26 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
+| 26 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
 | 27 | [Fragile](https://open.spotify.com/track/3WsO4fOOc2Yr6oTP7CYa4j) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 2:26 |
 | 28 | [Straniero \(feat\. Tedua\)](https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 |
 | 29 | [Momenti No](https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 59 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 |
 | 60 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 |
 
-Snapshot ID: `MCxkZGMxNjI3NGQ5YjU5NDgxYWMxNTM2NjU2MDNiYzMyZTJiOTUzMDI2`
+Snapshot ID: `MCwyY2UzMDhiOWI3MDgxYzY4MTI3ZTVhN2U2ZjM1NDZhMzMxY2UxZGRm`

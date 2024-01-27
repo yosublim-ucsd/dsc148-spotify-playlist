@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,568 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,591 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [We Hide And Seek](https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 6:32 |
 | 100 | [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 |
 
-Snapshot ID: `MCw0N2ExYzFjOTM0MjYyNzYwYjUxNGM2NzY2MmQ4NDI3OGE0NDU0ZmQ0`
+Snapshot ID: `MCxiMGM1NzUxMmMwNGZiY2MwODk3MjNhZjllMWQ5ZTkzNTg3ODAwNGVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,467 likes - 700 songs - 1 day 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,731 likes - 700 songs - 1 day 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 699 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 |
 | 700 | [Deep Sea Horizon](https://open.spotify.com/track/0tAC0qTjy7muEbqbcDuDKX) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Deep Sea Horizon](https://open.spotify.com/album/19beJtaxrF8dra8AvCN91a) | 2:16 |
 
-Snapshot ID: `MCw4YWFiZmRkMmYwYjZiNTU2NTNhNDAxZjMwYTE4ZWE0NmE2NjJmMDk2`
+Snapshot ID: `MCw3ZjIxZWU4MDliODExNmUzY2VhOGQ2NzcwODk4MmJkZDhhZGEzNGVm`

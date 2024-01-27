@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,383 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,818 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 |
 | 100 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 |
 
-Snapshot ID: `MCw1ZTJmMTdkYTZjNTNiYjNhNTJlYmU5NDM4ZmNhNDM4NDIxZDZlYWM1`
+Snapshot ID: `MCw2MTE2MTY1OTg0ODZmZWExOWUwNGEzZGJhODA4MjllNDhiMTBiZDAz`

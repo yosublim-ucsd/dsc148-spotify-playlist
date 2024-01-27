@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 50843,
+  "2024-01-27": 50828,
   "date_first_scraped": "2021-12-28",
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
   "name": "Orgullo Afro-Latino",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225173,
       "name": "Afro Mambo",
       "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
@@ -2093,6 +2093,32 @@
       "duration_ms": 167209,
       "name": "La Presa",
       "url": "https://open.spotify.com/track/0NLZDfMKJXHY6dtop4Bct0"
+    },
+    {
+      "album": {
+        "name": "La Rebelion",
+        "url": "https://open.spotify.com/album/3eIVxbbbqzZZ43ceV9sufi"
+      },
+      "artists": [
+        {
+          "name": "CHAR\u0130ZXRD",
+          "url": "https://open.spotify.com/artist/02H9qgkOVmmM94uQGFXnDM"
+        },
+        {
+          "name": "firatsamsi",
+          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
+        },
+        {
+          "name": "hitcon5",
+          "url": "https://open.spotify.com/artist/3O46F3OarviZBHkZyOEOd5"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376451,
+      "name": "La Rebelion",
+      "url": "https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq"
     },
     {
       "album": {

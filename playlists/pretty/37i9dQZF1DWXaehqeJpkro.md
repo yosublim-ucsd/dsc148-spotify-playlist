@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,870 likes - 175 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,713 likes - 175 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 87 | [If you lovingly call my name \(Female Ver.\)](https://open.spotify.com/track/6qoc17sLAUHdZ48uRDXsWt) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [If you lovingly call my name](https://open.spotify.com/album/3I70HPLl7jI4VufLUlUgfa) | 3:52 |
 | 88 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 |
 | 89 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 |
-| 90 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 |
+| 90 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 |
 | 91 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
 | 92 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
 | 93 | [The Red Knot](https://open.spotify.com/track/4p0aRX6U77LV48n0tWvYoV) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Ahn Ye Eun](https://open.spotify.com/album/5ttMuBVsDu4z4LZ1O7VC1u) | 4:30 |
-| 94 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
+| 94 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
 | 95 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 96 | [Still love you](https://open.spotify.com/track/0ih4PcU40uucAVEbD2486u) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4), [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [FNC LAB 'Still love you'](https://open.spotify.com/album/0tlT3SCG5H1QpS3F6cQtlq) | 4:18 |
 | 97 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 140 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |
 | 141 | [Your Regards](https://open.spotify.com/track/6WgChN2kqQpNSsIXgu6oAX) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your Regards](https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs) | 3:59 |
 | 142 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 143 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
+| 143 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 144 | [Let's Have a Drink](https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [ATELIER](https://open.spotify.com/album/4SBAMHsdBsKeyDb7EqzUV6) | 3:30 |
 | 145 | [My regards](https://open.spotify.com/track/1E7lMFb6c4p60DEJ8te3Be) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My regards](https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl) | 3:51 |
 | 146 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 174 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 175 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCwxZWY2MGYzNjRlMWZmZmVkZDdhZDk0NWE1YzRhZmM2OWU4NTM0Yzll`
+Snapshot ID: `MCxkZTg4MTMyZGY2M2E1OTY0OWU1OGZmMmIzYzhiNmFjYjJlYWI5OWEw`

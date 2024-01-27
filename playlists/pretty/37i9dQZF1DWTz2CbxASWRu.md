@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,766 likes - 350 songs - 1 day 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,694 likes - 350 songs - 1 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [El Monte](https://open.spotify.com/track/6mb2VnsEIhCJzuYh8hDFef) | [Pecera](https://open.spotify.com/artist/3sm7obyOkCJIRwFrs4VgoX) | [Musica Paralatina](https://open.spotify.com/album/0FoTltAmloEOgoSy4m5Rnj) | 4:50 |
 | 350 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 |
 
-Snapshot ID: `MCwyOWU4ZjE5MDBjZGU4OWI5ZGI0MGM4YTAwOWJiY2Y2NTc0OWM3ZGQ4`
+Snapshot ID: `MCwwNzU5ZDU3OTFmYjk2YzA1MmFiYWU4ZTI1OTA0ZDEwYTg1MmE0YTQz`

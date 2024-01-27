@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-666 songs - 1 day 10 hr 25 min
+668 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 | 2023-02-17 | 2023-04-22 |
 | [Carta a Papá](https://open.spotify.com/track/7agjFt7zlGNBply74TFhaK) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Carta a Papá](https://open.spotify.com/album/1xkwvrfrJjdIE4MNL3Nkjm) | 2:35 | 2023-06-16 | 2023-09-09 |
 | [Caso Cerrado](https://open.spotify.com/track/5jUY31AgS5TAv9iZ89nni6) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 2:49 | 2023-11-10 |  |
+| [Cayó La Noche](https://open.spotify.com/track/0hzrI3RR06WIldw5TZFa2O) | [Alonso Ortiz](https://open.spotify.com/artist/7cxq5jTv6N3KjPehEhnlXG) | [Cayó La Noche](https://open.spotify.com/album/2RZLuIiQROoiw4IHCfyhXl) | 2:46 | 2024-01-26 |  |
 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 | 2023-09-08 | 2023-11-11 |
 | [CHL](https://open.spotify.com/track/7qS3GrAZqFYQFLjEm1qQfJ) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Cuarto Régimen](https://open.spotify.com/artist/3702KCrBzeN8kI0TnsC1Cq) | [CHL](https://open.spotify.com/album/6HL59QKpAt23ltOCif4QPW) | 2:31 | 2023-05-26 | 2023-09-09 |
 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 | 2023-12-01 | 2024-01-20 |
@@ -293,7 +294,7 @@
 | [Inevitable](https://open.spotify.com/track/4kzdVrnpITDAGb8rwjPT36) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Inevitable](https://open.spotify.com/album/0YdqCybyOjUsDnxdkCnmfw) | 2:53 | 2023-07-28 | 2023-09-09 |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-05-14 | 2022-08-27 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-07 | 2023-03-04 |
-| [Intro](https://open.spotify.com/track/2G7J0XMMZii9muLQDd0cnk) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 0:39 | 2023-11-24 |  |
+| [Intro](https://open.spotify.com/track/2G7J0XMMZii9muLQDd0cnk) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 0:39 | 2023-11-24 | 2024-01-27 |
 | [Invitaciones](https://open.spotify.com/track/1qlVoMUKifgWjWdQ49FbWr) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Legado 7](https://open.spotify.com/artist/1sR3KHfY1ZmWxRxtoMmqPf) | [Consejos De La Vida](https://open.spotify.com/album/3Sj1ZVGCVQxDHBhaOzeJJ5) | 3:32 | 2022-05-27 | 2022-07-23 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-06-03 | 2022-09-09 |
 | [Jalando Recio](https://open.spotify.com/track/41jwdr4IFz62JSzwqUaJAb) | [Los DLG](https://open.spotify.com/artist/7ttZ8lW0TwAL9b7n5snX4p) | [Jalando Recio](https://open.spotify.com/album/25xSndWVljWsu5FFneoBs4) | 2:33 | 2023-09-22 | 2023-11-25 |
@@ -313,6 +314,7 @@
 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 | 2022-08-05 | 2022-09-09 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-01 |  |
 | [La Fiesta de Mi Pueblo](https://open.spotify.com/track/0nJYeksZwqNPzcymMnIfN0) | [Julian Torres y Mariachi Cenzontle](https://open.spotify.com/artist/7FrH112fVeuvrzdwtztcUH) | [La Fiesta de Mi Pueblo](https://open.spotify.com/album/6mgwQb5mPL98Oah4vjTBk6) | 2:58 | 2023-07-31 | 2023-09-09 |
+| [LA GRAN P](https://open.spotify.com/track/5smf5RDiM9y49uZzR254lR) | [Max Zendencia](https://open.spotify.com/artist/6X3NPlKxgYC4WZ24yBOEOO), [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [LA GRAN P](https://open.spotify.com/album/3YVD8m0s8RHAjK6NgrntL2) | 2:46 | 2024-01-26 |  |
 | [La Maria \- En Vivo](https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh) | [Cuarto Destino](https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P) | [La Maria \(En Vivo\)](https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq) | 3:11 | 2022-07-22 | 2022-09-09 |
 | [La Mera Vena](https://open.spotify.com/track/6XZ1gKHtAHcXPYjVt3UBaz) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [La Mera Vena](https://open.spotify.com/album/3OSPVwIG8hA2G5Ltc3sfJg) | 2:30 | 2023-05-26 | 2023-09-09 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-02-25 |

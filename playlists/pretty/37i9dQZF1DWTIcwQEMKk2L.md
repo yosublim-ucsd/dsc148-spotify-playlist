@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,754 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,720 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 99 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 |
 | 100 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 |
 
-Snapshot ID: `MCwyOTRkOTg4ZTM3ODY1MjlmYzhiYjMxNmM3ZjczYTYzN2Y4MzFmYWJl`
+Snapshot ID: `MCxjMjgyMGQ5YjFlMTA5MDNkYjY4ODE5MTJiNjFlZjdmNzA1Zjg5Zjgy`

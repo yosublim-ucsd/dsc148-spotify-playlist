@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,708 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,703 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 42 | [El Niño Travieso](https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:24 |
 | 43 | [Florecilla Del Campo](https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:17 |
 | 44 | [Mambo No\. 5](https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:40 |
-| 45 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
-| 46 | [Dale Fondo](https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw) | [Sergio Hernandez y Su Maverick Show](https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Dale Fondo](https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD) | 3:11 |
+| 45 | [Dale Fondo](https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw) | [Sergio Hernandez y Su Maverick Show](https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Dale Fondo](https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD) | 3:11 |
+| 46 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
 | 47 | [Rabia Y Dolor](https://open.spotify.com/track/1K2Ohi9UBIbuMjBUcwNiu2) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:08 |
 | 48 | [Ramito de Violetas 2.0](https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JOS BRAHAM](https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x), [Banda La Fugitiva De Mike Miramontes](https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J) | [Ramito de Violetas 2.0](https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh) | 4:21 |
 | 49 | [Gozala Gozala](https://open.spotify.com/track/30Jv68pHNfzEuASRGwYQ6X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar de Caballito](https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm) | 2:58 |
 | 50 | [Sin Suerte](https://open.spotify.com/track/4JsvoDByUDdD3jcEcfgYOn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad con Ustedes](https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y) | 2:55 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBmNmE4MmJiOTc3YjEwMDNiMDI5ZjU4ZWFlZjAyMmM5NA==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDA3YWZjODg2YzEyNGYzNWViY2RmMGYzOWEwMjAxODAyNw==`

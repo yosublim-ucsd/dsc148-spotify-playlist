@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N"
+    },
+    {
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -2649,6 +2667,28 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -3358,6 +3398,24 @@
       "duration_ms": 156802,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz"
     },
     {
       "album": {

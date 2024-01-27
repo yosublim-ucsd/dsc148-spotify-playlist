@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,108 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,145 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Helado de Mango \(Remix\)](https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Helado de Mango \(Remix\)](https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3) | 2:21 |
 | 80 | [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 |
 
-Snapshot ID: `MCw0YTRhMDMwM2IxZDE4ZGUyNmQwMjU0M2Y5NmQ2OTZjMmE1OTg1YjA1`
+Snapshot ID: `MCwxMDk0NWMwNjJhNzQ3OGQ5MTQxOTNjMTA5N2I0MWU5MDAzOGNlMDA2`

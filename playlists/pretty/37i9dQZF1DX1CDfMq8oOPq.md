@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: LAI$ROSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,045 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,093 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
 | 40 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 41 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
-| 42 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 43 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
-| 44 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
-| 45 | [O Meu Brilho](https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [O Meu Brilho](https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA) | 2:47 |
-| 46 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 |
-| 47 | [50%](https://open.spotify.com/track/71YY4sRKzRchfdVlEvK0fx) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 1:55 |
+| 42 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
+| 43 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
+| 44 | [O Meu Brilho](https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [O Meu Brilho](https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA) | 2:47 |
+| 45 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 |
+| 46 | [50%](https://open.spotify.com/track/71YY4sRKzRchfdVlEvK0fx) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 1:55 |
+| 47 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
 | 48 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 49 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCxmYzYwODExMjFmYWEzNjAyNDNjOGQwNTAyNjgxZDlmZDMxNmFjNGZi`
+Snapshot ID: `MCxkOWNhMmVhZTVjYzA5ZGUyMjc5OTgzZWQ2MDEwYzk1NzExNDQwYjc0`

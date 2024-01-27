@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16wERbfwQvR.md) - [plain]
 
 > Father of the symphony and string quartet, and teacher to both Mozart and Beethoven\. This is Haydn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,306 likes - 62 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,316 likes - 62 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16wERbfwQvR.md) - [plain]
 | 61 | [Mass No\. 10 in C Major, Hob\. XXII:9, "Missa in tempore belli", "Paukenmesse", "Kriegsmesse": Agnus Dei: Agnus Dei](https://open.spotify.com/track/5SxS6xuA3puq3AYLHlOsQa) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Ann Hoyt](https://open.spotify.com/artist/2PIMJFgmck2HDAFf5dwilT), [Kirsten Sollek](https://open.spotify.com/artist/5wgYm38P8ERcYjIXyiVKeI), [Daniel Neer](https://open.spotify.com/artist/0LQzHYQIj2P0ixNyroiQAi), [Richard Lippold](https://open.spotify.com/artist/0FICCgOYtqr5BajM6qF5uG), [Trinity Church Choir, New York](https://open.spotify.com/artist/0hrQY4jwTrs2mJ4F7lSCHY), [Rebel Baroque Orchestra](https://open.spotify.com/artist/2tziKFy9cXe4jtsa6W71bR), [Owen Burdick](https://open.spotify.com/artist/02Zrt8ny3hMwE3D3R4O4sa) | [Haydn, J.: Masses \(Complete\) \(Trinity Choir, Rebel Baroque Orchestra, Burdick, Glover\) \(8 Cd Box Set\)](https://open.spotify.com/album/1xhBJxYWVKCMQgqnvf4zfF) | 2:47 |
 | 62 | [Mass No\. 13 in B\-Flat Major, Hob\. X XII:13 "Schöpfungsmesse": Agnus Dei: Agnus Dei](https://open.spotify.com/track/1kGJFjHuZXMdj9w2sRlxHA) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Nacole Palmer](https://open.spotify.com/artist/1KuSwHYop322UeQutb62tG), [Nina Faia](https://open.spotify.com/artist/08LKpi5ItoGKLkjiQY9tFE), [Kirsten Sollek](https://open.spotify.com/artist/5wgYm38P8ERcYjIXyiVKeI), [Daniel Mutlu](https://open.spotify.com/artist/6Y9Pf8rJRigriR61npEfAD), [Matthew Hensrud](https://open.spotify.com/artist/0Rfophsf7JvrzKysXb47ml), [Andrew Nolen](https://open.spotify.com/artist/3qpY15r240Tx0eVAGKgFsT), [Trinity Church Choir, New York](https://open.spotify.com/artist/0hrQY4jwTrs2mJ4F7lSCHY), [Rebel Baroque Orchestra](https://open.spotify.com/artist/2tziKFy9cXe4jtsa6W71bR), [Jane Glover](https://open.spotify.com/artist/3fuItWHb7aWZsu0hWzxPeR) | [Haydn, J.: Masses \(Complete\) \(Trinity Choir, Rebel Baroque Orchestra, Burdick, Glover\) \(8 Cd Box Set\)](https://open.spotify.com/album/1xhBJxYWVKCMQgqnvf4zfF) | 3:29 |
 
-Snapshot ID: `MCxhZjdhZWI4NDg4NzFjNzVhYjM4YTI2OTE5ODNlZjVkMWI5YjIzZGNm`
+Snapshot ID: `MCw5YjUzMDdlMmRkYzk4ZDdkMjU0NjNjMWYzZDcwNzQzN2NkMzg1NzYx`

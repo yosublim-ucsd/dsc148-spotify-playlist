@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,769 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,743 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
 | 100 | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Juanmih](https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9) | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY) | 1:52 |
 
-Snapshot ID: `MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw`
+Snapshot ID: `MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 4435,
+  "2024-01-27": 4433,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA\">MNEK</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By MNEK",
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 235434,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 255594,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1Cx24ZH6qTdVWNkcpylTHu"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/22VBxThfU7M01FQ4TnomrO"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 208106,
       "name": "Breathe (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
@@ -1083,10 +1083,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225216,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/7u6ZaLlFknLB8Nea69EtAn"
+    },
+    {
+      "album": {
+        "name": "Can't Tame Her (Alternate Cut)",
+        "url": "https://open.spotify.com/album/4FKL7pApMMQdNkGdBOIcNg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199018,
+      "name": "Can't Tame Her - Alternate Cut",
+      "url": "https://open.spotify.com/track/6PNlXjDbDETGseV6frN8P8"
     },
     {
       "album": {
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164724,
       "name": "City That Never Sleeps",
       "url": "https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 169752,
       "name": "City That Never Sleeps",
       "url": "https://open.spotify.com/track/3qTUtYXgkWZ9dbt79ySZ2Z"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 199893,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/1IsPPqD3imYYapeCbI6Bgx"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 357248,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/4MRHfc2LNFRoXJrrt33DiR"
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 251968,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/2abRWWHiHaA1ewYKFLDwSG"
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 244250,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/2gwI89uI3UQ23rSpK8B6vX"
@@ -2947,7 +2965,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 235453,
       "name": "Good Luck (with Jax Jones & Galantis)",
       "url": "https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH"
@@ -3085,7 +3103,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 171360,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4EU6GdtxEABURTJxMTc4S2"
@@ -3107,7 +3125,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
@@ -3299,7 +3317,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 204829,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1EBo6a9v15wx4WPfPWj5fz"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 233480,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1zvLMu2LaeAX1OUgJlfXFc"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 245346,
       "name": "Here for You (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/73iyt0DBfDKsMSjJStycGC"
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221093,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
@@ -3477,7 +3495,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 315989,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/42ktzUPAfWnveeZfIQkjbT"
@@ -3725,7 +3743,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 223520,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0xxrzE1V4R2XBk4CfuTss0"
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -3779,7 +3797,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174970,
       "name": "Immature",
       "url": "https://open.spotify.com/track/1XCjpj82P2JeMza6yPc7Dn"
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177719,
       "name": "Instruction",
       "url": "https://open.spotify.com/track/3NkEvO7KY5eDYBwC0CEhTM"
@@ -3969,7 +3987,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 165906,
       "name": "Instruction (feat. Demi Lovato & Stefflon Don)",
       "url": "https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ"
@@ -4405,7 +4423,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 220968,
       "name": "Love (Sweet Love)",
       "url": "https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il"
@@ -4741,7 +4759,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 191160,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2"
@@ -4759,7 +4777,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 197802,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5HmOCHUZOC6QZpsFBZ5rcC"
@@ -5013,7 +5031,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
@@ -5035,7 +5053,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 242709,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/03xHr4qu6VkaArjRs8KEi4"
@@ -5089,7 +5107,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V"
@@ -5107,7 +5125,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 200320,
       "name": "No",
       "url": "https://open.spotify.com/track/2tY9Hf0oArZ1iYvqaKnMe9"
@@ -5507,7 +5525,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216533,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p"
@@ -5525,7 +5543,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 224600,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6CuvET3Z4fcM20Oy82GTLf"
@@ -6589,7 +6607,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 190010,
       "name": "Run",
       "url": "https://open.spotify.com/track/38WySUQ3V67eYDboiRHLVk"
@@ -6611,7 +6629,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 190093,
       "name": "Run (with Galantis)",
       "url": "https://open.spotify.com/track/1kaJ2dEM1jeXQaH7uDdyoD"
@@ -7527,7 +7545,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
@@ -7545,7 +7563,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 287296,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/2EUG6ZVhodmzk9mQq9Axbp"
@@ -7679,7 +7697,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 227200,
       "name": "This Is Real",
       "url": "https://open.spotify.com/track/5RFeRJXgAGsmRlOvQH2rd8"
@@ -7701,7 +7719,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "This Is Real (ft. Ella Henderson)",
       "url": "https://open.spotify.com/track/1pRShUtGOG6ZP5fsnw9G4h"
@@ -8899,7 +8917,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 222857,
       "name": "YBGFA",
       "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"

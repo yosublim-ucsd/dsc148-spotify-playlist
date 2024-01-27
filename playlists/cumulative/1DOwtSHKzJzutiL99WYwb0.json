@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: IVE",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: IU",
   "name": "K-Pop Bias : KPOP ESSENTIAL",
   "tracks": [
     {
@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Love wins all",
+        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271080,
+      "name": "Love wins all",
+      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "album": {
         "name": "The 2nd Mini Album 'Summer Vibe'",
         "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
       },
@@ -1238,6 +1256,24 @@
       "duration_ms": 218880,
       "name": "LOVEADE",
       "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
+    },
+    {
+      "album": {
+        "name": "CIX 1st Single Album \u20180 or 1\u2019",
+        "url": "https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Lovers or Enemies",
+      "url": "https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH"
     },
     {
       "album": {

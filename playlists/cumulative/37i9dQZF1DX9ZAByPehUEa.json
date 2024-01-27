@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "Armaghetton - Aeroplane Remix",
       "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
@@ -416,10 +416,32 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "album": {
@@ -704,7 +726,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 159072,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
@@ -922,7 +944,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
@@ -1381,6 +1403,32 @@
     },
     {
       "album": {
+        "name": "Electric Energy",
+        "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196088,
+      "name": "Electric Energy",
+      "url": "https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF"
+    },
+    {
+      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -1524,7 +1572,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 213387,
       "name": "Everything\u2019s Gonna Be Alright",
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
@@ -1728,7 +1776,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202746,
       "name": "Get Down Tonight",
       "url": "https://open.spotify.com/track/00Q20ZhL0FwSJh2Ryaei0h"
@@ -1746,7 +1794,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
@@ -1838,13 +1886,13 @@
           "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
         },
         {
-          "name": "Holybrune",
+          "name": "HolyBrune",
           "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
@@ -2320,7 +2368,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
@@ -2546,7 +2594,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 175418,
       "name": "I\u2019m Just Ken - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/5bIELpyrphj886yjo2Rdjg"
@@ -2582,7 +2630,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 288280,
       "name": "Je Vulesse",
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
@@ -3152,7 +3200,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
@@ -3338,7 +3386,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
@@ -3736,7 +3784,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
@@ -3832,6 +3880,28 @@
       "duration_ms": 258842,
       "name": "Musica leggerissima - Cerrone Remix",
       "url": "https://open.spotify.com/track/6PLL1b9S3pZl8ZQ7BZ79SG"
+    },
+    {
+      "album": {
+        "name": "Must Be Love",
+        "url": "https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270145,
+      "name": "Must Be Love",
+      "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
     },
     {
       "album": {
@@ -3942,7 +4012,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
@@ -4026,7 +4096,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 182011,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ"
@@ -4351,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+    },
+    {
+      "album": {
         "name": "Organ",
         "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
       },
@@ -4544,7 +4636,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -4796,7 +4888,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV"
@@ -5058,7 +5150,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
@@ -5174,7 +5266,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 163294,
       "name": "Sky's the Limit - Edit",
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
@@ -5294,7 +5386,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
@@ -5426,6 +5518,24 @@
       "duration_ms": 327926,
       "name": "Starlight Delight",
       "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
+    },
+    {
+      "album": {
+        "name": "Stars On 45 Theme",
+        "url": "https://open.spotify.com/album/5uM2QXuRO8mjyi81Cx3Pco"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168868,
+      "name": "Stars On 45 Theme",
+      "url": "https://open.spotify.com/track/76ymDmRsIGS1HpxdYp8keA"
     },
     {
       "album": {
@@ -5652,7 +5762,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 246533,
       "name": "Tension (Chromeo Remix)",
       "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
@@ -5828,7 +5938,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165124,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/2jcbYTEX3DzJabAF2OS68B"
@@ -5968,7 +6078,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
@@ -6180,7 +6290,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199354,
       "name": "You Ain't Breakin' My Heart",
       "url": "https://open.spotify.com/track/5mnXK9eEwaU3unFjLtHx3Z"

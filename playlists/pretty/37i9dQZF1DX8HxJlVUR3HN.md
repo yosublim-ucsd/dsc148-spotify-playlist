@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Oakman
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,014 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,017 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 42 | [What's Wrong With Me](https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc) | [Spin Twice](https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d) | [Gravity](https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1) | 3:43 |
 | 43 | [mon amour](https://open.spotify.com/track/0vofjntlF86cB5drIaSohe) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mon amour](https://open.spotify.com/album/4a7qaAyGAGED2P6ZniTxOS) | 2:35 |
 | 44 | [Trouble Don't Last](https://open.spotify.com/track/6XGbbKHaw25B4jGg7D9sN6) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Trouble Don't Last](https://open.spotify.com/album/0FHwczgZJ2Rses5cSMoMfP) | 4:22 |
-| 45 | [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 |
-| 46 | [Winter Sun](https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja) | [Avalon Bloom](https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh) | [Avalon Bloom](https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW) | 3:43 |
-| 47 | [Slow Attack](https://open.spotify.com/track/1BwfyBdQnrvuL8bxpQkxBv) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Dawn of the Dusk](https://open.spotify.com/album/2hxdDwFuruximCModqB9Q7) | 4:50 |
-| 48 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 |
-| 49 | [New Career](https://open.spotify.com/track/5ALHNp45uN1jpPypqcHhHf) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Big](https://open.spotify.com/album/4YcCaPA0E4BifZ2jjpgDah) | 3:30 |
+| 45 | [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 |
+| 46 | [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 |
+| 47 | [Winter Sun](https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja) | [Avalon Bloom](https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh) | [Avalon Bloom](https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW) | 3:43 |
+| 48 | [Slow Attack](https://open.spotify.com/track/1BwfyBdQnrvuL8bxpQkxBv) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Dawn of the Dusk](https://open.spotify.com/album/2hxdDwFuruximCModqB9Q7) | 4:50 |
+| 49 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 |
+| 50 | [New Career](https://open.spotify.com/track/5ALHNp45uN1jpPypqcHhHf) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Big](https://open.spotify.com/album/4YcCaPA0E4BifZ2jjpgDah) | 3:30 |
 
-Snapshot ID: `MCw0NTM3MTI3MmVhZmM2NTZiZmY2NDhkNzgwZmIyZTgwNDJhYTNhODkx`
+Snapshot ID: `MCxlNDVjM2ExYWY3MDdlNGRmODFhMjgxM2IxNmRkN2VhYWZhOTVmYzNh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Ariel Donato, MC Cabelinho, Marina Sena",
+  "description": "tranquilo e calmo, no flow. Foto: Jamal KMG",
   "name": "tamo flex",
   "tracks": [
     {
@@ -1019,6 +1019,32 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/0WFpVc9LXQGqopVTZQKJ1N"
+      },
+      "artists": [
+        {
+          "name": "Jamal KMG",
+          "url": "https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "ASTRO",
+      "url": "https://open.spotify.com/track/6edJSs6bDIY4Az54T7xnJg"
+    },
+    {
+      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/0xNKCiPPIuZcEiofGqBph2"
       },
@@ -1344,6 +1370,32 @@
       "duration_ms": 182000,
       "name": "Bae",
       "url": "https://open.spotify.com/track/40ynxBmBrvv7fUnLNqMUyS"
+    },
+    {
+      "album": {
+        "name": "Ballet",
+        "url": "https://open.spotify.com/album/16Cw7qd4kuWcImaCsapBzi"
+      },
+      "artists": [
+        {
+          "name": "COTTA7",
+          "url": "https://open.spotify.com/artist/1Qvo147JM9wMycIfAOrpCi"
+        },
+        {
+          "name": "VAZZ",
+          "url": "https://open.spotify.com/artist/4kVfBdkQWOjDJWC1FeZoj9"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113658,
+      "name": "Ballet",
+      "url": "https://open.spotify.com/track/6VasN6Pv5tTRvuXqRNsoCL"
     },
     {
       "album": {
@@ -1820,6 +1872,54 @@
       "duration_ms": 137834,
       "name": "Biqu\u00edni Vermelhinho",
       "url": "https://open.spotify.com/track/56GEKXQqonUY1VlSA2JjCI"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1qXNDK2F1XAcbk50Q9M2VN"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Pastor",
+          "url": "https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136035,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1Y84LDE7Hesp4JZKsKgLAp"
+    },
+    {
+      "album": {
+        "name": "Bob Esponja",
+        "url": "https://open.spotify.com/album/5uMRIGa7Isx3ZviWKL22Oa"
+      },
+      "artists": [
+        {
+          "name": "VN Nagamini",
+          "url": "https://open.spotify.com/artist/10RwZmX3euIUHTxMqGUqJQ"
+        },
+        {
+          "name": "N\u00f3izProd",
+          "url": "https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ"
+        },
+        {
+          "name": "Fl\u00e1viop Beats",
+          "url": "https://open.spotify.com/artist/5ha5f9Ri2dO50JM5lZm7RW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197629,
+      "name": "Bob Esponja",
+      "url": "https://open.spotify.com/track/11fjWOUYDNN73ODJ4pC4cC"
     },
     {
       "album": {
@@ -2708,7 +2808,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171702,
       "name": "Chuva de Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/30vr0rox6VBWsmAcbuf5yW"
@@ -4040,7 +4140,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176953,
       "name": "Ei Nego",
       "url": "https://open.spotify.com/track/72Nf75mEsH7ciMDAt22hWj"
@@ -4222,7 +4322,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199846,
       "name": "Ela \u00e9 Rica",
       "url": "https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq"
@@ -4348,7 +4448,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136513,
       "name": "Engano",
       "url": "https://open.spotify.com/track/0bVpusqcvnDWoymFgsLNtw"
@@ -4620,6 +4720,28 @@
       "duration_ms": 189180,
       "name": "EURO",
       "url": "https://open.spotify.com/track/1XJg7v2Or4d5AbXeJv4Juj"
+    },
+    {
+      "album": {
+        "name": "EVA (Papatracks#10)",
+        "url": "https://open.spotify.com/album/3t7FwRaT9UzpFOVrw5ryPp"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "EVA (Papatracks#10)",
+      "url": "https://open.spotify.com/track/7jvyEmuz1N8PjECPbryNbX"
     },
     {
       "album": {
@@ -6623,6 +6745,28 @@
     },
     {
       "album": {
+        "name": "Longe De Tudo",
+        "url": "https://open.spotify.com/album/2RZl5uBpTcWe7xBw7L0Sge"
+      },
+      "artists": [
+        {
+          "name": "Vitello",
+          "url": "https://open.spotify.com/artist/4rNwKeUXrCettTXzyoY62O"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Longe De Tudo",
+      "url": "https://open.spotify.com/track/3SHCqNlSfw0InxeC3jQCcT"
+    },
+    {
+      "album": {
         "name": "Lord",
         "url": "https://open.spotify.com/album/5P43c7BTkkBggNvVTVv03j"
       },
@@ -7220,7 +7364,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219181,
       "name": "Ma\u00e7arico",
       "url": "https://open.spotify.com/track/1h6FNuvJMkgqnXIQqDadnv"
@@ -7434,7 +7578,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185379,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/0mrusE9UV5gG7gbiqUoyT4"
@@ -7816,6 +7960,32 @@
       "duration_ms": 146341,
       "name": "Minha Vida \u00e9 um Show",
       "url": "https://open.spotify.com/track/0uhgooJ05NDaoFmcPnHXoH"
+    },
+    {
+      "album": {
+        "name": "Mini Saia",
+        "url": "https://open.spotify.com/album/7Jb2B2l9kw03C6pxGRKz8S"
+      },
+      "artists": [
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Mini Saia",
+      "url": "https://open.spotify.com/track/09sUNzy7IX6z9FOWjk2Tmo"
     },
     {
       "album": {
@@ -11444,7 +11614,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 139200,
       "name": "Sem Demora",
       "url": "https://open.spotify.com/track/0EFxvQUuf9tgmoKaBdxo3P"
@@ -11626,6 +11796,24 @@
       "duration_ms": 161379,
       "name": "Sigilo",
       "url": "https://open.spotify.com/track/4RTBTH9zhe0n8LGCh2Z0Cj"
+    },
+    {
+      "album": {
+        "name": "Sigilosa",
+        "url": "https://open.spotify.com/album/5hQZsw9cGurzQT1LuDKKpA"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94476,
+      "name": "Sigilosa",
+      "url": "https://open.spotify.com/track/6YsUhTls5Pl4CsmMDnT1tE"
     },
     {
       "album": {
@@ -12430,7 +12618,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144387,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/5wmzwsPvsEArHQqO2bgr4C"

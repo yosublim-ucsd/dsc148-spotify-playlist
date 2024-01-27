@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,051 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,069 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Owner](https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Intro](https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR) | 3:23 |
 | 100 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
 
-Snapshot ID: `MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3`
+Snapshot ID: `MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4`

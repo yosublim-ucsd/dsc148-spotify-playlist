@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Alianza Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,047 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,284 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 |
 | 75 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 |
 
-Snapshot ID: `MCwyNGMyMWJkNDg4YTdiNzI0ODhiNWJlZGQ0YWQ5ZmYxMDU3OWFhZmE4`
+Snapshot ID: `MCwxOTljODQ4YThlYTM0MTlhZTY1Njg2YTE5NTMwYzE5YTdhYmNmMDRm`

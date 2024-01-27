@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-200 songs - 18 hr 10 min
+201 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 | 2022-07-29 | 2022-12-08 |
 | [Inhale, Exhale](https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Inhale, Exhale](https://open.spotify.com/album/25RG1ZUFWUiczxVuXWL3h5) | 4:38 | 2023-06-02 | 2023-08-26 |
 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 |  |
-| [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 |  |
+| [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 | 2024-01-27 |
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-11-10 |  |
 | [It's a Fine Day](https://open.spotify.com/track/6oJ6E9PromTaQX2shxE5kz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [It's a Fine Day](https://open.spotify.com/album/5G3HQSKAEM1HOtV1g6BAtx) | 5:52 | 2023-11-10 |  |
 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 | 2023-06-02 | 2023-08-20 |
@@ -163,6 +163,7 @@
 | [Soul](https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG) | [Pomella](https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v) | [Soul](https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK) | 2:55 | 2022-07-11 | 2022-11-19 |
 | [Soul](https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA) | [Pomella](https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v) | [Soul](https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh) | 2:56 | 2022-12-22 | 2023-03-31 |
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-07-05 | 2022-11-26 |
+| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2024-01-26 |  |
 | [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-07-05 | 2022-08-11 |
 | [Synergy \- Nonameleft Remix](https://open.spotify.com/track/3fPucR04bxFLQgD8qHl8Pq) | [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Synergy](https://open.spotify.com/album/15PPWV7GO8IGjqrKHDW1dS) | 6:50 | 2022-07-11 | 2022-07-13 |
 | [Take You Higher](https://open.spotify.com/track/1UdP4gLeahMZAqZyoNnDBN) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Take You Higher](https://open.spotify.com/album/5A7VgzMdiSsy3GFIhwGwLA) | 3:34 | 2023-10-13 | 2023-11-17 |

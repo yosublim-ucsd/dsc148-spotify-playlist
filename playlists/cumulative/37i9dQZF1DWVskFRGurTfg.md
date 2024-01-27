@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica con Bad Bunny.
+> Éxitos urbanos de Latinoamérica con Nicki Nicole, Mesita, Emilia & Tiago PZK.
 
 800 songs - 1 day 20 hr 18 min
 

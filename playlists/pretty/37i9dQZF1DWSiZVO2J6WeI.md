@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,867 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,696 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 |
 | 150 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 |
 
-Snapshot ID: `MCxmMzQ3ZjdjYWVhYTNlZmYyMjQxZTIxNjZjZjY2MTFmMWM4OThjNjEx`
+Snapshot ID: `MCwwZDI2MTJmMjc5OGQ3ZjM3ZGNhMjYyMmYxMzc1ZmE5YzYwMzkzMzUz`

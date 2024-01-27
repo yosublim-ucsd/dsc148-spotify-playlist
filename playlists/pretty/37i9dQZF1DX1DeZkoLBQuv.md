@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,279 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,276 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 50 | [Noite Feliz \(Stille Nacht\)](https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 4:44 |
 
-Snapshot ID: `MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw`
+Snapshot ID: `MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,158,431 likes - 124 songs - 6 hr 49 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,158,948 likes - 124 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 123 | [Sublime](https://open.spotify.com/track/0o2T56CRKV9hh4RS6PNaVN) | [Firstwave](https://open.spotify.com/artist/391rJg2YdneMI1zyy1o44E) | [Sublime](https://open.spotify.com/album/0n5opfTgottSKloO8bw8C3) | 2:55 |
 | 124 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `MzkzOCw0NGU1OWY2ZWQ1MjJkY2Q5ZTFkN2NmYWFiNTJkNjlkNGVjNDNjMDQy`
+Snapshot ID: `Mzk0MCw5MmRlMjRlYzhmNTE2MTI5YzU3YzA5ZDRmYjI5YjA0NTU0MjU4MmU4`

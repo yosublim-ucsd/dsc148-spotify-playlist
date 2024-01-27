@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,053 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,114 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 |
 | 2 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |
-| 3 | [おれの最高地点](https://open.spotify.com/track/6cufjZzevc6spKggsuDEJv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [おれの最高地点](https://open.spotify.com/album/3LIV7v8sthlx3K5P13Y8R3) | 3:05 |
+| 3 | [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 |
 | 4 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
 | 5 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 6 | [PAINT](https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [PAINT](https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 49 | [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 |
 | 50 | [ビンクスの酒](https://open.spotify.com/track/0GTBuk8CRs2ra4KNK5r0lC) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b), [KAZBONGO](https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY) | [ONE PIECE Arrange Collection \(EDM\)](https://open.spotify.com/album/1rPBgOa02pHRy3sOvdW5Hf) | 3:27 |
 
-Snapshot ID: `MCxhMTk0ZDVlYzAxYTcyYzk5NjgxYWFlZjMyZjlhMzUyMjlkODE3NDMw`
+Snapshot ID: `MCxmMTMyMTRkNTg5MjA2YTNiNzg3MDc4MmU2NDYwNTkxMTgyODg5YTQy`

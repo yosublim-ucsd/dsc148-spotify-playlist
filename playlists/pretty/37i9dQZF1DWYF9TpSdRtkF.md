@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,334 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,337 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [ReTale](https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [矢吹可奈 \(CV.木戸衣吹\)](https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw) | [THE IDOLM@STER MILLION THE@TER WAVE 16 君彩](https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No) | 4:47 |
 | 75 | [月曜日のクリームソーダ](https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX) | [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [Momoko Suou \(CV: Keiko Watanabe\)](https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr) | [THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans](https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ) | 4:21 |
 
-Snapshot ID: `MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy`
+Snapshot ID: `MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0`

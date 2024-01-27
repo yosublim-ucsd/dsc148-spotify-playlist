@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,729 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,852 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Hon Kommer Med Solsken](https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo) | 2:55 |
 | 52 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
 
-Snapshot ID: `MCw2ZmMyYjIzMTFhYWEyZDI3NGMyYzhlZjQ2NTJhMWQ4N2UwYTQwMzc1`
+Snapshot ID: `MCw4YTkwNjU3ZTRjNWYwYmZiZjZlZGUxYzA0YzQwZmU1N2YwNWM0ODhj`

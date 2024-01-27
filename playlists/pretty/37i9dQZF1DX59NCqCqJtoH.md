@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,868 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,979 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 |
 | 100 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
 
-Snapshot ID: `MCw4MDBiNzQ2MzI2OTNjNWEwZmRjYmE0YjRlZjI1NTEzOWM5NGM0MzU4`
+Snapshot ID: `MCw1M2NjMTIwNGE2OGEzODExNmVjMzU2NzFkMzA2ZDAyZDFjYzgwNmIz`

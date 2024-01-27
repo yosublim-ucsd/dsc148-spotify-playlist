@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: (G)I-DLE",
-  "num_followers": 61716,
+  "num_followers": 61628,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzI5YzFmYzM0MDViYTA3NDg1ZGQwY2E0OTA0NzM3MGIzYTI2NzNm",
+  "snapshot_id": "MCwwOGY5MGU1NmQ0YjEwOWM2NGMwMDRiZDkyN2E4Yzg3MGU2MzQzOTNj",
   "tracks": [
     {
       "added_at": "2024-01-25 16:00:00",
@@ -119,6 +119,38 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": "2024-01-25 16:00:00",
@@ -903,6 +935,22 @@
     {
       "added_at": "2024-01-25 16:00:00",
       "album": {
+        "name": "Chop",
+        "url": "https://open.spotify.com/album/10FO1RdujEMob5G8uCOiKO"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "duration_ms": 170085,
+      "name": "Chop",
+      "url": "https://open.spotify.com/track/5tJr0DQL0lRML11c4vjvjV"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi"
       },
@@ -1263,6 +1311,22 @@
     {
       "added_at": "2024-01-25 16:00:00",
       "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1387,6 +1451,22 @@
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "added_at": "2024-01-25 16:00:00",
+      "album": {
+        "name": "FlexxCop OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/6VJyLEvO5f5xNsKdHY9Vgk"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 183669,
+      "name": "Hey!",
+      "url": "https://open.spotify.com/track/0MwrVgNk2IVFpL8OK2Fw9V"
     },
     {
       "added_at": "2024-01-25 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,802 likes - 250 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,822 likes - 250 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
 | 250 | [White Noise](https://open.spotify.com/track/4PPiV0xlKze0D4G93UWLji) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:37 |
 
-Snapshot ID: `MCw1MTc3MWQyOWEyMzI5NmUxYzUxMzVjYWNlODYyZDM1YzMzMjE1MDVi`
+Snapshot ID: `MCw0MTliOTA5YmQ0MmZlY2E4YTExNzY1NDkyNjJhNzJhNzAyOTU3MjEw`

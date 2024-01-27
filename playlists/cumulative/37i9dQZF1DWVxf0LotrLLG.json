@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Eladio Carrion",
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Bad Gyal",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 232795,
       "name": "2NDO CHANCE",
       "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 249272,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/3wrFCykMcWM5BkPtCh1r42"
@@ -696,6 +696,28 @@
       "duration_ms": 192000,
       "name": "Algo m\u00e1s",
       "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202136,
+      "name": "Alguien como t\u00fa",
+      "url": "https://open.spotify.com/track/1YYFCQtxaABA09CMLw51xf"
     },
     {
       "album": {
@@ -1440,6 +1462,28 @@
       "duration_ms": 246000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+    },
+    {
+      "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2fgogq2XXlKMm9p6m3akHH"
     },
     {
       "album": {
@@ -2674,6 +2718,28 @@
       "duration_ms": 214000,
       "name": "COMPLICADO",
       "url": "https://open.spotify.com/track/0qhm6rORlUSxLuyG8mABNn"
+    },
+    {
+      "album": {
+        "name": "PLANES DE MEDIANOCHE",
+        "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "CON LOS AROS 22",
+      "url": "https://open.spotify.com/track/03QEu6x9S21eUkffyT3WLb"
     },
     {
       "album": {
@@ -5326,7 +5392,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178706,
       "name": "EY CHORY",
       "url": "https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM"
@@ -5681,6 +5747,28 @@
     },
     {
       "album": {
+        "name": "Pitcher",
+        "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90909,
+      "name": "Friza",
+      "url": "https://open.spotify.com/track/4qwss3ljS0MTc6eEyEA3Rc"
+    },
+    {
+      "album": {
         "name": "Sempiterno",
         "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
@@ -5944,6 +6032,24 @@
       "duration_ms": 212940,
       "name": "Haci\u00e9ndolo Fino",
       "url": "https://open.spotify.com/track/7M4CONqqFnswe7hg1Lini4"
+    },
+    {
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "HAGALE OME",
+      "url": "https://open.spotify.com/track/3LqGq0UHMEHcipo7yfER8r"
     },
     {
       "album": {
@@ -6490,7 +6596,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 116401,
       "name": "It Takes 3",
       "url": "https://open.spotify.com/track/15ggd6ccKQ1UJ4mzltHsh1"
@@ -7610,7 +7716,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219040,
       "name": "Lit In The City",
       "url": "https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8"
@@ -7972,7 +8078,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 164293,
       "name": "LUCES DE TECNO",
       "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
@@ -10197,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153106,
+      "name": "Otra Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6E5iXFRORBnSpVtN4DHYBj"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -10208,7 +10332,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 247538,
       "name": "OTRO AMOR",
       "url": "https://open.spotify.com/track/45jWNNpTqJ4gSty54msOLx"
@@ -10574,7 +10698,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171334,
       "name": "PATRAS (with Yahritza Y Su Esencia)",
       "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
@@ -10610,7 +10734,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206096,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/46FnKZSRT1OI8r6wDSq4TX"
@@ -10668,6 +10792,24 @@
       "duration_ms": 223500,
       "name": "Perdidos",
       "url": "https://open.spotify.com/track/7r7PHXM7l9pvxNGCz8RmzL"
+    },
+    {
+      "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "Perdi\u00f3 Este Culo",
+      "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
     },
     {
       "album": {
@@ -10879,6 +11021,28 @@
     },
     {
       "album": {
+        "name": "Pitcher",
+        "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Karbeats",
+          "url": "https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158437,
+      "name": "Pitcher",
+      "url": "https://open.spotify.com/track/11RzXOEKhGh7rpDtGLYEN3"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -11071,6 +11235,24 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215215,
+      "name": "Por tu vereda",
+      "url": "https://open.spotify.com/track/0T14pmgT4GSvMzf68YAcUi"
+    },
+    {
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -11082,7 +11264,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201202,
       "name": "POR UN AMOR",
       "url": "https://open.spotify.com/track/7kUxcqnZn7UAv0XaSHPkJL"
@@ -11354,6 +11536,28 @@
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+    },
+    {
+      "album": {
+        "name": "PUERTO ESCONDIDO",
+        "url": "https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "PUERTO ESCONDIDO",
+      "url": "https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU"
     },
     {
       "album": {
@@ -11868,7 +12072,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168677,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
@@ -12407,6 +12611,28 @@
     },
     {
       "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -12488,6 +12714,28 @@
       "duration_ms": 180994,
       "name": "Siempre Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/2nRgqakKVUavglrE3IE39s"
+    },
+    {
+      "album": {
+        "name": "Pitcher",
+        "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Karbeats",
+          "url": "https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/3Q3MPUjUHmgn7FSeAmTCLI"
     },
     {
       "album": {
@@ -12759,6 +13007,28 @@
     },
     {
       "album": {
+        "name": "PLANES DE MEDIANOCHE",
+        "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "sol & prada",
+      "url": "https://open.spotify.com/track/7wfMTV2iORe3n6JLgA9daD"
+    },
+    {
+      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -12849,6 +13119,24 @@
     },
     {
       "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139977,
+      "name": "SORNERITO",
+      "url": "https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk"
+    },
+    {
+      "album": {
         "name": "soso",
         "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
       },
@@ -12886,7 +13174,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 135348,
       "name": "Suave",
       "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
@@ -12922,7 +13210,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 230899,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/5mf4Isc8MdREEJsoa87kQO"
@@ -13504,6 +13792,24 @@
       "duration_ms": 130866,
       "name": "Todo Ha Cambiado",
       "url": "https://open.spotify.com/track/6QgI6TCwZFu0Z4jxgnVhKn"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "album": {
@@ -14306,7 +14612,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 135973,
       "name": "VELOCIDAD CRUCERO",
       "url": "https://open.spotify.com/track/7bLJA1PblcBfTU6aqB1Gct"
@@ -14970,7 +15276,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

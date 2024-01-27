@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 123297,
+  "2024-01-27": 123366,
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Gen Neo, Hyperlnk",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
   "name": "mood.",
   "tracks": [
     {
@@ -2713,6 +2713,24 @@
       "duration_ms": 193686,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/2oagxwVFw5R0eiw8loRELR"
+    },
+    {
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "album": {
@@ -6597,7 +6615,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196931,
       "name": "Mirages Of You",
       "url": "https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL"
@@ -7838,6 +7856,32 @@
     },
     {
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
@@ -8500,6 +8544,24 @@
     },
     {
       "album": {
+        "name": "Say Cheese",
+        "url": "https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153223,
+      "name": "Say Cheese",
+      "url": "https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I"
+    },
+    {
+      "album": {
         "name": "Say It Straight",
         "url": "https://open.spotify.com/album/0azvZuQc8BTk8mh23Fo3mQ"
       },
@@ -8661,6 +8723,24 @@
       "duration_ms": 204761,
       "name": "Seem Better",
       "url": "https://open.spotify.com/track/7pU2HsbNzl6GHwJwwXNQRF"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "album": {

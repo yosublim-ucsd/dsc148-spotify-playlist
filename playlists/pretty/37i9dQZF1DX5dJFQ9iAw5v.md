@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,747 likes - 76 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,740 likes - 76 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 |
 | 76 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 |
 
-Snapshot ID: `MCw3YmZjNTVlMDlkZjNjNzdkYmJiM2NjYzM0NWQ5Y2I2MWJmNWIxOGE4`
+Snapshot ID: `MCw3YmFlNjRhN2RmMDkyNWE5YmE1MGQzNDRkNzk2NWU3MzMzOTNiZGIz`

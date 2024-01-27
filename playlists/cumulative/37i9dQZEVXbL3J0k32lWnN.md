@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,359 songs - 2 day 23 hr 2 min
+1,360 songs - 2 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,7 +1117,8 @@
 | [Som Fluer](https://open.spotify.com/track/7KqQcYKkRT7GylPtCxaCPo) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:47 | 2022-01-08 | 2022-01-15 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-06-03 |  |
 | [Somebody](https://open.spotify.com/track/3buwFfY33H32wfZ6X9poV3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:59 | 2021-03-27\* | 2021-03-27 |
-| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-30 |  |
+| [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 | 2024-01-26 |  |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-30 | 2024-01-27 |
 | [SOMMER I DECEMBER \(BURHAN G X PAULINE\)](https://open.spotify.com/track/1wYaMTdeKO4U9NkfUE2W7i) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [SOMMER I DECEMBER \(BURHAN G X PAULINE\)](https://open.spotify.com/album/4ZNvFGgdcQk2r5uToSO8XP) | 2:43 | 2022-05-07 | 2022-05-12 |
 | [SORT AMG \(feat\. Jimilian\)](https://open.spotify.com/track/3dkFiY1M26iQ50ZDWctdyG) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [SORT AMG \(feat\. Jimilian\)](https://open.spotify.com/album/2UxsNWGIbPHwPaUBKTIu9h) | 2:27 | 2022-08-27 | 2022-09-18 |
 | [sorte pletter](https://open.spotify.com/track/6oDOFpTcAgQi4pAJ1IzhU2) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:07 | 2023-09-02 | 2023-09-11 |

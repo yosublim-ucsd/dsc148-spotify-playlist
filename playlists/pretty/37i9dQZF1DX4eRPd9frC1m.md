@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,586,070 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584,998 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 |
 | 75 | [TIKTOK](https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3) | 2:30 |
 
-Snapshot ID: `MCxjZDY4OWRmN2I0NTg0YmMwNGZhNGRmMmUwMjUyNDg3M2I1MTU3ZjE4`
+Snapshot ID: `MCw0ZTUzNjllOGU5NGVkYTNkYzc3MGY5NjE5NDczMGU1OTZkNTJlOTQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,243 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,275 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [ROZEN HORIZON](https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d) | 6:06 |
 | 75 | [ときめきエクスペリエンス！](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 |
 
-Snapshot ID: `MCxmNTViZWQ4ZWMwZGE2MDk2OTQ5ZmYzN2ZkOTNlYzhjYmY5Y2U2Yjk1`
+Snapshot ID: `MCxkMDdhM2M4ZGRmMTVkMzA4YzU1OTMxMmFjMzE5OTZjYjY0ZjExYTk0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni felici italiane e internazionali per un inverno preso bene \u2600\ufe0f",
+  "description": "canzoni felici italiane e internazionali per un inverno preso bene",
   "name": "una playlist felice",
   "tracks": [
     {
@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
         "name": "Horse Girl",
         "url": "https://open.spotify.com/album/3rkPyVBtMAuwIiRbnv1kYE"
       },
@@ -4203,6 +4221,28 @@
     },
     {
       "album": {
+        "name": "Mario (alla tua et\u00e0)",
+        "url": "https://open.spotify.com/album/4fkHCKZ3PXaAvq5b7oJR06"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        },
+        {
+          "name": "Allifae",
+          "url": "https://open.spotify.com/artist/73p4ZhitRMFgDm4y0geQCE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Mario (alla tua et\u00e0)",
+      "url": "https://open.spotify.com/track/3Tpv25cZ6JlH08hh60h8kT"
+    },
+    {
+      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -4330,7 +4370,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
@@ -4656,10 +4696,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168923,
       "name": "NON C'HO VOGLIA",
       "url": "https://open.spotify.com/track/0PJuBiUN2seAh7Ia33OYA9"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "album": {
@@ -4866,6 +4924,24 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "album": {
+        "name": "Pick Me",
+        "url": "https://open.spotify.com/album/04wIPzs14Kuqk3OBbhcB3U"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178707,
+      "name": "Pick Me",
+      "url": "https://open.spotify.com/track/02Vncg7BGazGARW9CMVstt"
     },
     {
       "album": {
@@ -5130,7 +5206,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195453,
       "name": "Rome",
       "url": "https://open.spotify.com/track/7jWDcwF7HDPjlK77uy2oON"
@@ -6302,7 +6378,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"

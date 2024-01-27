@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: H1\-KEY \(하이키\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: VCHA \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,300 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,708 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
-| 2 | [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 |
-| 3 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 |
+| 1 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 2 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
+| 3 | [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 |
 | 4 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 |
-| 5 | [Camera](https://open.spotify.com/track/4hmPTbTJGPgd5nnQfIAdeH) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- FINAL STATION](https://open.spotify.com/album/3NztH7vDAl1pFeJKMl3bKN) | 3:08 |
+| 5 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 |
 | 6 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 7 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 8 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 57 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 |
 
-Snapshot ID: `MCxiNWY4NzBjOTE2ZDE0YjA1ZGU2ZTUyZjZiMzM1YjVlYjdmYjk0YjM1`
+Snapshot ID: `MCwxNzJjOTVlZjY1NDQyMmQxOTYwMGQ0NjNkNzU0Y2Q5NmQ0NTU1Mzg0`

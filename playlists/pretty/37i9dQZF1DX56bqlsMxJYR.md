@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,920 likes - 150 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,428 likes - 150 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Sugar, Sugar](https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Sugar, Sugar](https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC) | 2:49 |
 | 150 | [Puppy Love \- Remastered](https://open.spotify.com/track/1mdfrHeZzxjz0FJ4BKRuxS) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:41 |
 
-Snapshot ID: `MCxhZjc2YzUyNmM3ODM1YjM4MjI2ZGIzNjc2YmU5MWEwYzUzZGMxYjc3`
+Snapshot ID: `MCwxYmIwNzI2N2UzMGE3ZWI3MzlkY2I5Y2U0NDhjZjI4OTFlNzIyMTA1`

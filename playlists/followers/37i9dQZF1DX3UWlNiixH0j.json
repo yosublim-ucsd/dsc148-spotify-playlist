@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 56022,
+  "2024-01-27": 56039,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u89d2\u9285\u771f\u5b9f(Manami Kakudo)",
   "name": "Edge!",
@@ -3602,6 +3602,24 @@
     },
     {
       "album": {
+        "name": "Drive Through",
+        "url": "https://open.spotify.com/album/4LfgDAo5YUnjSXuXKMHB5r"
+      },
+      "artists": [
+        {
+          "name": "Walm",
+          "url": "https://open.spotify.com/artist/5Jz52URy3MvoWNMyGPUyPC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Drive Through",
+      "url": "https://open.spotify.com/track/5VDHyqFAEhxGaLIRjN9v72"
+    },
+    {
+      "album": {
         "name": "TOKYO OLD SCHOOL",
         "url": "https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb"
       },
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt"
@@ -6603,6 +6621,24 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
+    },
+    {
+      "album": {
+        "name": "I\u2019m falling for you",
+        "url": "https://open.spotify.com/album/5PZi9Ctf2visPdtQRYRkbP"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183164,
+      "name": "I\u2019m falling for you",
+      "url": "https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN"
     },
     {
       "album": {
@@ -11597,7 +11633,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225960,
       "name": "Shiawase no Mawarimichi",
       "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
@@ -15552,6 +15588,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3053\u3053\u306b\u6765\u308b\u307e\u3067\u306b\u7528\u306f\u6e08\u307f\u305d\u3046",
+        "url": "https://open.spotify.com/album/0HPOV5QMJlItsN3hfjNq33"
+      },
+      "artists": [
+        {
+          "name": "Lanes",
+          "url": "https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255829,
+      "name": "\u3042\u306a\u305f\u304c\u3053\u3053\u306b\u6765\u308b\u307e\u3067\u306b\u7528\u306f\u6e08\u307f\u305d\u3046",
+      "url": "https://open.spotify.com/track/4Zemxdar3w4SYTwNcvQIid"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u306e\u865c",
         "url": "https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr"
       },
@@ -16203,6 +16257,24 @@
       "duration_ms": 212798,
       "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
       "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
+    },
+    {
+      "album": {
+        "name": "(\u831c)",
+        "url": "https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR"
+      },
+      "artists": [
+        {
+          "name": "the dadadadys",
+          "url": "https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263472,
+      "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
     },
     {
       "album": {
@@ -17623,7 +17695,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 262230,
       "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
       "url": "https://open.spotify.com/track/76Tz5SxVVaRSvduZZQj8lG"
@@ -20699,7 +20771,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 198861,
       "name": "\u60f3\u3046\u3068\u3044\u3046\u3053\u3068",
       "url": "https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB"

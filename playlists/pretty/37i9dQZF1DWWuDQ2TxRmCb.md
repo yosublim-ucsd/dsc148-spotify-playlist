@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,486 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,545 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/3QmeA8spViA3XNsOW0mQMQ) | [Jaysinh Gadhvi](https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ), [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Bhargav Purohit](https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc), [Sagar Patel](https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5), [Raju Bhaai](https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC), [Kavi Shree Ghanshyam Gadhvi](https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W) | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/2BvmgU37aWulnWfAlF5B2D) | 2:55 |
 | 50 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 
-Snapshot ID: `MCxiNTBjNGRiODdmOWZjMmJlNWI1NzNmYmEwM2IyOThhYjY1ZWRlMTQ2`
+Snapshot ID: `MCw0ODkxN2QwZjQyYTU1OTcyZjQyNGY2MThhMWI1YzMxZWQ1NTJkNjc1`

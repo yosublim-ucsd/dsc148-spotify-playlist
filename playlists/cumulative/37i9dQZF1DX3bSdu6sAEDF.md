@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-349 songs - 19 hr 26 min
+351 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 | 2023-09-04 |  |
 | [Casualty](https://open.spotify.com/track/6nwxT0W6u4JYDGK5iyBOYt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 2:23 | 2022-01-21 | 2022-07-28 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2023-03-18 |
+| [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 | 2024-01-26 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |
 | [Chicken Wings](https://open.spotify.com/track/1qqUYjjfC6Rbr9lpthLrOt) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 2:48 | 2022-01-21 | 2023-04-01 |
 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 | 2022-01-19 | 2022-07-24 |
@@ -188,6 +189,7 @@
 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 | 2022-05-20 | 2023-12-02 |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-13 | 2022-07-29 |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2021-08-05 | 2022-01-20 |
+| [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-26 |  |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-19 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-01-19 | 2023-04-22 |
 | [Light Shine In](https://open.spotify.com/track/01JNL6P4M4hRPUWvK7Fr96) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:55 | 2022-01-19 | 2023-04-22 |
@@ -239,7 +241,7 @@
 | [Nothing New](https://open.spotify.com/track/1s2iyEiQWFzWKr6YXrbNdE) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Nothing New](https://open.spotify.com/album/3xXflGPoqBZbFshFGp9Q88) | 2:29 | 2022-11-11 | 2023-02-25 |
 | [Novocaine](https://open.spotify.com/track/28tJhpy4NDPiZk28sEGSsh) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:18 | 2022-07-22 |  |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-01-19 |  |
-| [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 | 2023-08-18 |  |
+| [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 | 2023-08-18 | 2024-01-27 |
 | [Old Fashioned](https://open.spotify.com/track/2N0rHlYG5N4fN9HnVis9yj) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Old Fashioned](https://open.spotify.com/album/4hS6YtCIkN95pOeGLDsGI0) | 3:19 | 2021-08-05 | 2022-01-20 |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2022-01-19 | 2023-04-22 |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2021-10-26 | 2022-01-20 |
@@ -338,7 +340,7 @@
 | [we'll be fine](https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we'll be fine](https://open.spotify.com/album/6vLZ785JdIDq7VO3hVX6at) | 4:22 | 2021-10-26 | 2022-01-20 |
 | [What Am I Here For](https://open.spotify.com/track/5ZuMDliM4Kf7XYybWxj2mP) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [What Am I Here For](https://open.spotify.com/album/0poQC8eFbBU7KU8yMeEUVX) | 3:15 | 2023-02-03 |  |
 | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/track/2AAelyYn8MafDdW5merUfD) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/album/3vrrjsR4sOTlg6StJET8xq) | 2:56 | 2022-10-07 | 2022-10-15 |
-| [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-05 |  |
+| [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-05 | 2024-01-27 |
 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 | 2022-01-19 | 2023-04-22 |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-19 | 2023-04-22 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 |  |

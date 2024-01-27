@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,959 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,000 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 100 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
 
-Snapshot ID: `MCxkZTgzM2I0MmIwOTIxNTk3ODNhNjEwMDBhZGUxY2IyOTU3NzI0OGI5`
+Snapshot ID: `MCxkYzQ1ZGI2ZjU5Mjk1ZmM0NzU3ZThlNjBmMjJlMDRmNzdhMjNiYTkx`

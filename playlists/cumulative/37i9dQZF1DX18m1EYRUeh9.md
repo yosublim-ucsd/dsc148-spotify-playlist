@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-192 songs - 12 hr 47 min
+193 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Deja Vu](https://open.spotify.com/track/1A1w6Y198iavOeemQlGOPy) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [Deja Vu](https://open.spotify.com/album/2YvrfduOcYTeZKTTT1bHhY) | 6:10 | 2023-08-10 | 2023-08-18 |
 | [Departure](https://open.spotify.com/track/2mS8I2Uqpg98kHGc3quqU4) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Departure](https://open.spotify.com/album/73q36mrh3hRJcgf2cKSqEr) | 4:05 | 2023-08-10 |  |
 | [Dimmed Lights](https://open.spotify.com/track/4QFv8PRJiproUVeh3CxdTW) | [The Seven Ups](https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp) | [Dimmed Lights](https://open.spotify.com/album/2sxNHGa5I6bcywDzzSFuLg) | 3:16 | 2023-08-10 | 2023-09-08 |
-| [DIRT!](https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF) | 3:51 | 2023-08-10 |  |
+| [DIRT!](https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF) | 3:51 | 2023-08-10 | 2024-01-27 |
+| [DIRT!](https://open.spotify.com/track/7p6HkxWPWMnPmOtSOFqJd3) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/1mPx642vhAamD8YXxJJjkB) | 3:51 | 2024-01-12 |  |
 | [disconnected](https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Disconnected](https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz) | 2:02 | 2023-08-31 | 2023-11-10 |
 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 | 2023-09-28 |  |
 | [Domino](https://open.spotify.com/track/06jVhN0bYvWYNqHFb1JMwP) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Domino](https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q) | 3:24 | 2023-11-09 |  |

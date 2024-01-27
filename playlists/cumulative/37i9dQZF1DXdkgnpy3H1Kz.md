@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-476 songs - 1 day 16 hr 45 min
+478 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [5AM](https://open.spotify.com/track/63Zb6HzaNZerzH4gIqOZxg) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Ufox01](https://open.spotify.com/album/1WhqM3Hg4n9hAwwRDsZGTN) | 6:53 | 2023-02-10 | 2023-03-18 |
 | [A Gringo Like Me](https://open.spotify.com/track/2VIEk6qVe64LsqTD2twaH2) | [Monte Cazazza](https://open.spotify.com/artist/0cEGUcdqnh2zh6iUxVS10L) | [The Cynic](https://open.spotify.com/album/5dw4mdN7X8VxzlVDTaMDOg) | 4:23 | 2023-08-04 | 2023-12-14 |
 | [A Matter of Time \- Anstam Remix](https://open.spotify.com/track/22Bxj9QohQQNZaYJeFXfb9) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW), [Anstam](https://open.spotify.com/artist/6x5cI9zBbzsVZ3UiOtiYDT) | [A Matter of Time](https://open.spotify.com/album/0mUt2AwXZtZnvjKOLMRDRY) | 3:49 | 2023-05-25 | 2023-06-17 |
+| [A Path Eternal](https://open.spotify.com/track/7L8B9HJA1hWMde6nRLlPrM) | [Silent Servant](https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245) | [Negative Fascination](https://open.spotify.com/album/65Cl6azbLoaqjKOe4ZTDOt) | 3:49 | 2024-01-26 |  |
 | [A Place \(That’s Meant To Be\)](https://open.spotify.com/track/4g5u6CwMoN6z9u7x1PBLiz) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [A Place That's Meant To Be](https://open.spotify.com/album/3uLU6f0ueMYcodY8Qnocxp) | 4:45 | 2023-11-30 | 2024-01-20 |
 | [Abe](https://open.spotify.com/track/1prtWi6au3Ymy3AAe3HtuW) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Oddysee, Pt\. 1](https://open.spotify.com/album/5l116xOhf0d17D5AgK3W0o) | 6:04 | 2022-12-03 | 2023-02-11 |
 | [Acid Dream \#1](https://open.spotify.com/track/1zNP2ZD9FTDaus4TiFa559) | [TAFKAMP](https://open.spotify.com/artist/4GwxugFPFLGMIEF72P7uas) | [Cloudarchive 1](https://open.spotify.com/album/51WAtw0NLxKZ2z9L7vJTd0) | 4:07 | 2023-11-30 | 2024-01-20 |
@@ -151,6 +152,7 @@
 | [Flying Harbour](https://open.spotify.com/track/05nouoLiVIdM8L635Hn9u7) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [Neo Tokyo](https://open.spotify.com/album/0s8fQIgMMQnFYReUPawgq5) | 5:29 | 2023-02-10 | 2023-03-18 |
 | [Fold](https://open.spotify.com/track/14TmkbR1USJVMlscOQn8RZ) | [Assembler Code](https://open.spotify.com/artist/3yjeLHZHl3hKqJBZ9O7Hdy), [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e) | [Rotorwerks EP](https://open.spotify.com/album/1mhkQCoBLhH8FD0BWONmwW) | 5:12 | 2022-12-03 | 2023-02-11 |
 | [Folge Mir](https://open.spotify.com/track/7KBl0w5TYcF8wdQBiTRbsQ) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Fear Enough](https://open.spotify.com/album/1T9xMO0kKanoTRlVKanbWR) | 5:47 | 2023-04-14 | 2023-05-26 |
+| [Forest](https://open.spotify.com/track/7nSEoebmwsWy8acpkF17H4) | [Gotshell](https://open.spotify.com/artist/09uDrDm1BBwakHZgqFHrNu) | [Sintaxis EP](https://open.spotify.com/album/77dgtQw89Nj5ng8bORyiaC) | 5:53 | 2024-01-26 |  |
 | [Forgot Your Name](https://open.spotify.com/track/4zgxp0blKFyQF3InzVO9NR) | [Kashpitzky](https://open.spotify.com/artist/1Emez61BnxzKMb3ygXnN9E) | [Forgot Your name](https://open.spotify.com/album/6nlcghDLHYXlvvz8w4emkk) | 5:49 | 2024-01-19 |  |
 | [FREAK YOU](https://open.spotify.com/track/2ATTDz9EDPC94zhxkPuxuq) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/18jT1erX3cEk1OcGo8pDWL) | 4:39 | 2024-01-19 |  |
 | [Freseo](https://open.spotify.com/track/7Ac1u5Ln8s9w2H69xXoa2x) | [Dj Fucci](https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl), [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [Freseo](https://open.spotify.com/album/1pFhugJ7RepxNIFoxdT03C) | 5:00 | 2023-11-30 | 2024-01-20 |

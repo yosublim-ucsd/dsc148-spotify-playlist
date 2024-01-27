@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 32408,
+  "2024-01-27": 32399,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -2657,7 +2657,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162580,
       "name": "Bax Banii",
       "url": "https://open.spotify.com/track/1dPknjdo45m6D2Fl3miAwN"
@@ -11781,7 +11781,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -12811,6 +12811,28 @@
       "duration_ms": 229485,
       "name": "Italia",
       "url": "https://open.spotify.com/track/11B49w1l7rpb0MAPZqDlme"
+    },
+    {
+      "album": {
+        "name": "Iubire in Rate",
+        "url": "https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Iubire in Rate",
+      "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
     },
     {
       "album": {
@@ -19221,7 +19243,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 192000,
       "name": "Pentru ca",
       "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"
@@ -25241,7 +25263,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 170898,
       "name": "Taramul interzis",
       "url": "https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr"
@@ -26493,6 +26515,28 @@
       "duration_ms": 132244,
       "name": "Toto Riina",
       "url": "https://open.spotify.com/track/5BogfZnI2FqjDM83oZUIBW"
+    },
+    {
+      "album": {
+        "name": "Totul meu",
+        "url": "https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7"
+      },
+      "artists": [
+        {
+          "name": "ADI",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "Totul meu",
+      "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"
     },
     {
       "album": {

@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Love at the Bottom of the Sea",
+        "url": "https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132573,
+      "name": "Andrew in Drag",
+      "url": "https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu"
+    },
+    {
+      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },

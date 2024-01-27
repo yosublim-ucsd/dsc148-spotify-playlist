@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Marina Sena, Vulgo FK
 
-259 songs - 12 hr 1 min
+260 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Funcionária do Mês](https://open.spotify.com/track/7Jr6xISYcYlDMA3IaogzE4) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funcionária do Mês](https://open.spotify.com/album/3spB25PZFR2g6FRa1md26w) | 2:50 | 2022-01-14 | 2022-01-30 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 |  |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-03 | 2023-11-11 |
-| [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
+| [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 | 2024-01-27 |
 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 | 2022-01-14 | 2023-02-04 |
 | [Garota Infernal](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Garota Infernal](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 | 2022-01-29 | 2022-03-12 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-13 | 2023-02-11 |
@@ -190,6 +190,7 @@
 | [Potência](https://open.spotify.com/track/4hjUqN9S84dPLGdlUufp0c) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Potência](https://open.spotify.com/album/1CwQPBAAD3xos4HZemsZvf) | 2:59 | 2022-07-29 | 2022-11-12 |
 | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/track/3iNjNUUuuF5Mjk7tYWAI9N) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Suku Ward](https://open.spotify.com/artist/11mHQVYCOp3dbhqezMJDGq) | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5) | 2:37 | 2022-01-14 | 2022-02-05 |
 | [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-13 | 2023-02-18 |
+| [PREPARADA](https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [PREPARADA](https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP) | 2:23 | 2024-01-26 |  |
 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 | 2023-01-19 |  |
 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 | 2023-08-04 | 2023-12-01 |
 | [Que Rabão \(feat\. Mr\. Catra e YG\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-04-13 | 2023-02-11 |

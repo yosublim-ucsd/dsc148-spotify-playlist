@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,696,246 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,694,710 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [En](https://open.spotify.com/track/2iSwJrdrvWCup9BQQTJwTf) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [En](https://open.spotify.com/album/5p7qEJfdanragsgSMfhx2B) | 4:47 |
 | 100 | [Give It Up](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Give It Up](https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u) | 5:16 |
 
-Snapshot ID: `MCwxODBkOWMzMjJjOTNiNDMzNDMzMDUyNzY0ZTE4YTJjOWI0MjVlOThm`
+Snapshot ID: `MCw3ZWYwZjUxN2FkMWVmMDMzM2Y1NjlhMGM0OThiMzU4Mzg0ODEyNjAy`

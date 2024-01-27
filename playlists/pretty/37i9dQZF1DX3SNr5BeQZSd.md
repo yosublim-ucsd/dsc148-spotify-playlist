@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,126 likes - 300 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,159 likes - 300 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 299 | [Lighter Than Air](https://open.spotify.com/track/5Iu7NwQv0rUzYDG5q7eGN3) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Cosmic Cove](https://open.spotify.com/album/623Qjo8XXT0kOKSPtHbxw1) | 2:32 |
 | 300 | [Still](https://open.spotify.com/track/36hJoEUrjNZy4NuA60FZrZ) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Cosmic Cove](https://open.spotify.com/album/623Qjo8XXT0kOKSPtHbxw1) | 2:41 |
 
-Snapshot ID: `MCw5OGRhZTU0ZGQ0MGM5ZGQzMzJlNzM2MjNjYWQ0Nzc1MmE0OGQ3NjEz`
+Snapshot ID: `MCwxNjY5MmRiOTZjODk1NjNlZjk5MmQ0MGI5OGY2ZmU1MTdjZDdlNzY3`

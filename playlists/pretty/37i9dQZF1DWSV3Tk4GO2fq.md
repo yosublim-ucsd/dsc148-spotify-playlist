@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,185 likes - 150 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,986 likes - 150 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,13 +125,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 115 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
 | 116 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 117 | [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 |
-| 118 | [Sh\-Boom \(Life Could Be a Dream\)](https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Canadian Crew](https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX) | 2:46 |
-| 119 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
-| 120 | [Rags to Riches](https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:48 |
-| 121 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
-| 122 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
-| 123 | [Blue Skies](https://open.spotify.com/track/0SIzIfR6913S1oqTbyg8YC) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 3:46 |
-| 124 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 118 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
+| 119 | [Rags to Riches](https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:48 |
+| 120 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 121 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
+| 122 | [Blue Skies](https://open.spotify.com/track/0SIzIfR6913S1oqTbyg8YC) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 3:46 |
+| 123 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 124 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
 | 125 | [Diana](https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:20 |
 | 126 | [Just A Gigolo \- Remastered](https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 4:43 |
 | 127 | [Chances Are \(with Ray Conniff & His Orchestra\)](https://open.spotify.com/track/6sAcECONsANle5n0rnP2at) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 149 | [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 |
 | 150 | [Buona Sera \- Remastered](https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 3:07 |
 
-Snapshot ID: `MCxiYjZiMDIzZTlmYmU1ZTc3NjhmYzBkYjI5MDk2ZTI5YmQ5ZDU0NTMy`
+Snapshot ID: `MCwwMDI0MmFmYzUyMWJlNjViNjgwYjlkYmIxNzk1Mjk4MTIzNGYzYTg3`

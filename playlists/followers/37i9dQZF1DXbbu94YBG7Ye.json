@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 3283805,
+  "2024-01-27": 3280544,
   "date_first_scraped": "2022-01-02",
-  "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Mesita, Nicki Nicole, Tiago PZK & Emilia.",
+  "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Luck Ra & KHEA.",
   "name": "\u00c9xitos Argentina",
   "tracks": [
     {
@@ -5493,7 +5493,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162397,
       "name": "PRINCESITA DE ...",
       "url": "https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6"
@@ -6369,6 +6369,28 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151224,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,515 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,534 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 29 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 |
 | 30 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
 
-Snapshot ID: `MCwzNmEwYTE3N2JiM2E2N2YyOTRiNmM1ZGQ3MTNmY2E1MzkwODI0Y2M1`
+Snapshot ID: `MCwwOWI2OGZhM2E3NzdhMmVlN2M0MDJiYTZmZGM5NWI1MzM4MjUwMGFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,479 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,607 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 |
 | 50 | [Little Me \- Extended Mix](https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn) | 7:17 |
 
-Snapshot ID: `MCwyNzdjM2Q3ZWE5MmZlNjAyMjYwY2NjY2ExZjE4MTdiNGM0YjhjNjFm`
+Snapshot ID: `MCwxZDJlNDNhYjNmZGM2YzNkYjAzZjc2MDc4MTI5ZjUzOWQwZjFlMjE4`

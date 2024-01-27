@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,245 likes - 75 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,268 likes - 75 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Violin Concerto in A minor, Op\. 53: 3\. Finale \(Allegro giocoso, ma non troppo\)](https://open.spotify.com/track/2w1Cl2jswZvdNOC0eVlbZo) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Julia Fischer](https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [David Zinman](https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT) | [Bruch & Dvorak Violin Concertos](https://open.spotify.com/album/76LRTyT5kzhVZ7VMDi3Wbg) | 10:11 |
 | 75 | [Domov muj \(My Homeland\), Op\. 62, B\. 125a: My Homeland, Op\. 62](https://open.spotify.com/track/4og7bLiQJXfISyokvKSe7s) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Stephen Gunzenhauser](https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45) | [Dvorak: Overtures](https://open.spotify.com/album/2m39SIdnYDvdr7dKX2zrIH) | 9:13 |
 
-Snapshot ID: `MCxhMmMwOWM2NDJhOTY1YWM1N2U4ODA3ZjY0NDE2Mjg3YmYzZTExM2Rm`
+Snapshot ID: `MCxmMzc1NzlhMmUyMjk2YzU3YjdhODg4OWRmZmYzMjNhY2YwNGQ0Nzll`

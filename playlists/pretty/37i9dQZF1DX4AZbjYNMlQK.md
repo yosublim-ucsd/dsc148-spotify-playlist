@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,142 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,738 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 64 | [Mi Burrito Sabanero](https://open.spotify.com/track/43uJNr6fTmnF0k7wubD6v0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad \(Edición Especial\)](https://open.spotify.com/album/5Tx9GpKRgJdWZ1wpGmAuKg) | 3:06 |
 | 65 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 
-Snapshot ID: `MCxlMjhiY2JkNzM2YTViNDU1Y2M3NjBiMTE1ZmQ1NzY5ZThkMWFkZWJi`
+Snapshot ID: `MCw3ZmM5OGVmZjM1Mjk0NTAwZjIyYTZkZjk2OGY4OGQzYjkxNzgyMGU5`

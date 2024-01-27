@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,583 likes - 150 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,743 likes - 150 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 149 | [Himmelskib](https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Himmelskib](https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG) | 3:55 |
 | 150 | [Stone Beacon](https://open.spotify.com/track/5whrXD70ulKcdCsl0ZMQtO) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:29 |
 
-Snapshot ID: `MCw4NWE4NmI3ZWI2NzliY2UxZWU5Y2NmYTM2YWE5ZGViNjcyYTIwZWI2`
+Snapshot ID: `MCxhODVmMWJjNWQ2ZmZmYmRkOGVkMWVkMDg5MjNmYzYzOTcyYmQ5ZGZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,038 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,970 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 |
 | 150 | [If We Don't \(with Alison Krauss\) \- from the Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 2:28 |
 
-Snapshot ID: `MCxmMjJjNTk0YjgwYTU3NTY0YzFkY2U5ODlkYzYzMTBkNTIyYjBkYzRh`
+Snapshot ID: `MCw2NDc3MzU3YmIzNGQzM2UxYTg5ZjFlYmQ3OTMzYTk2ZDBkNWQ1ZWJj`

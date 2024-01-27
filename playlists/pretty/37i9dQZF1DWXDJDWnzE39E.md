@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,994 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,745 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 80 | [Illusionist](https://open.spotify.com/track/4U7mqbqE0nXTAnLDsn8rdW) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Escape](https://open.spotify.com/album/2pobzXGqkMDJHsFuNzpLin) | 3:08 |
 
-Snapshot ID: `MCw0YWFjZTBkYjhmY2UwZTAyOGU2YzljNDc0NjczM2JjNmIwYmM0ZTAw`
+Snapshot ID: `MCw1Mjg2MDNhY2RmYThmMmI3N2QyMDIyZjI3ZDk3ZDZiYjQ0Njk4MTdi`

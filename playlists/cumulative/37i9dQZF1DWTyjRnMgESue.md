@@ -2,7 +2,7 @@
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
-> The best new songs from modern singer\-songwriters\. Cover: NIKI
+> The best new songs from modern singer\-songwriters\. Cover: Michael Marcagi
 
 442 songs - 1 day 1 hr 16 min
 

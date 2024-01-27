@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 66441,
+  "num_followers": 66452,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4",
+  "snapshot_id": "MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -179,6 +195,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -199,22 +231,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -251,6 +267,26 @@
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -507,26 +543,6 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -911,6 +927,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Mortal Man",
+        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Three Second Memory (Deluxe)",
         "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
       },
@@ -939,22 +971,6 @@
       "duration_ms": 219500,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Mortal Man",
-        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1031,6 +1047,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "\u2018Til I Found You",
+        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 172182,
+      "name": "'Til I Found You",
+      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Two High (Acoustic)",
         "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
       },
@@ -1063,6 +1095,30 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "The Woods (Evida Remix)",
+        "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        },
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        }
+      ],
+      "duration_ms": 191062,
+      "name": "The Woods - Evida Remix",
+      "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "OMOGE WA JO",
         "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
       },
@@ -1079,54 +1135,6 @@
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "\u2018Til I Found You",
-        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 172182,
-      "name": "'Til I Found You",
-      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Taking It Easy",
-        "url": "https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG"
-      },
-      "artists": [
-        {
-          "name": "GoodLuck",
-          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
-        }
-      ],
-      "duration_ms": 244030,
-      "name": "Taking It Easy",
-      "url": "https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Say You Will Remember Me",
-        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
-      },
-      "artists": [
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 202035,
-      "name": "Say You Will Remember Me",
-      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
     }
   ],
   "unique_name": "Feel Good Look Good",

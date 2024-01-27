@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: YUNGBLUD×Lil Yachty
 
-1,009 songs - 2 day 10 hr 7 min
+1,010 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,7 +750,8 @@
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-20 | 2023-07-28 |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-07-06 | 2023-07-14 |
 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-17 |  |
-| [Self Love](https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Self Love](https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC) | 3:21 | 2024-01-25 |  |
+| [Self Love](https://open.spotify.com/track/1E8mdkOcJ3mMYkRlxCZiak) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:21 | 2024-01-25 |  |
+| [Self Love](https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Self Love](https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC) | 3:21 | 2024-01-25 | 2024-01-27 |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-03-16 | 2023-03-25 |
 | [Settle Petal](https://open.spotify.com/track/0OZzJeWYjfzyaUfjuib2qb) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/0El6znNor6mJmklSEJU07W) | 3:06 | 2023-11-23 | 2023-11-25 |
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |

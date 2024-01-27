@@ -4,7 +4,7 @@
 
 > The biggest songs in today's Rock scene\. Cover: EKKSTACY, The Kid LAROI
 
-753 songs - 1 day 18 hr 43 min
+754 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-11 |
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2021-12-31 | 2022-01-29 |
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2021-12-31 | 2022-01-15 |
-| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-11-10 |  |
+| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-11-10 | 2024-01-27 |
 | [Dancing With The Moonlight](https://open.spotify.com/track/1KR1KO0WzuRsNYQXcQYjiq) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Dancing With The Moonlight](https://open.spotify.com/album/0CBVF3VGMooid9U17Ryzdt) | 3:01 | 2023-04-07 | 2023-07-29 |
 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-06-10 | 2022-07-16 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-13 | 2024-01-13 |
@@ -248,6 +248,7 @@
 | [GHOST IN THE MACHINE](https://open.spotify.com/track/2G2ljNxu8hG0hfsOfV0fyb) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [ISOLATOR](https://open.spotify.com/album/3HC6AOC9UxN6aVzKYpHvNG) | 3:28 | 2023-10-13 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-17 | 2023-03-25 |
 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 | 2023-04-28 |  |
+| [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-26 |  |
 | [Gimme Spirit](https://open.spotify.com/track/3yugLVA1ewfpNtxzDCkD6Q) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm) | 3:22 | 2022-04-08 | 2022-07-09 |
 | [Give Me My Halo](https://open.spotify.com/track/1hF3iuDDtQ6IvYs1ZS6Xjl) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:36 | 2023-08-04 |  |
 | [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 | 2023-07-14 |  |

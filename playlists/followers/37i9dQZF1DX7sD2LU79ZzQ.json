@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 113613,
+  "2024-01-27": 113631,
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Ashira Zamita",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Marcello Tahitoe",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -303,7 +303,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 248700,
       "name": "Bodoh",
       "url": "https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225573,
       "name": "Cerita Tiba Tiba",
       "url": "https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 243087,
       "name": "Cinta Aku Bisa Apa",
       "url": "https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK"
@@ -383,6 +383,24 @@
       "duration_ms": 142000,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT"
+    },
+    {
+      "album": {
+        "name": "Colorless",
+        "url": "https://open.spotify.com/album/1EeLlDYkQXhbeU2AAwvBYF"
+      },
+      "artists": [
+        {
+          "name": "Biagi",
+          "url": "https://open.spotify.com/artist/3vPZeaCrAz1R9wPQfbjLtM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176731,
+      "name": "Colorless",
+      "url": "https://open.spotify.com/track/5DX9NwF7lYGPdeXpeCajoT"
     },
     {
       "album": {
@@ -419,6 +437,24 @@
       "duration_ms": 232166,
       "name": "Dag Dig Dug",
       "url": "https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x"
+    },
+    {
+      "album": {
+        "name": "BORDER ROOM",
+        "url": "https://open.spotify.com/album/6dIwYCSul7keEQ6pd1q83Y"
+      },
+      "artists": [
+        {
+          "name": "noui",
+          "url": "https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217246,
+      "name": "Dunia Drives My Car",
+      "url": "https://open.spotify.com/track/46bTc395qmtB1GazI0ui5B"
     },
     {
       "album": {
@@ -491,6 +527,24 @@
       "duration_ms": 190956,
       "name": "goodnight kiss (in December)",
       "url": "https://open.spotify.com/track/7JZALv6y1RztMTmD0nh30G"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193959,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
     },
     {
       "album": {
@@ -639,10 +693,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 206632,
       "name": "Jam Satu",
       "url": "https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F"
+    },
+    {
+      "album": {
+        "name": "Janji Sumpah",
+        "url": "https://open.spotify.com/album/64LzP1M8GkmyCkfozPcwOe"
+      },
+      "artists": [
+        {
+          "name": "Marcello Tahitoe",
+          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Janji Sumpah",
+      "url": "https://open.spotify.com/track/7Eox3EJseGO4iz2zmuRbJG"
     },
     {
       "album": {
@@ -719,7 +791,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 222553,
       "name": "Karma",
       "url": "https://open.spotify.com/track/6NRMH6IMw8VpKJedGWtPLz"
@@ -755,7 +827,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 239000,
       "name": "Kedua Kalinya",
       "url": "https://open.spotify.com/track/0CD18spunh2xDmVT3dxWn6"
@@ -831,6 +903,24 @@
       "duration_ms": 254268,
       "name": "Ku Tak Mampu Lagi",
       "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
+    },
+    {
+      "album": {
+        "name": "Kukira Hanya Lagu",
+        "url": "https://open.spotify.com/album/1cDf5UybBdkY64gV4F1EjA"
+      },
+      "artists": [
+        {
+          "name": "Angie Zelena",
+          "url": "https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Kukira Hanya Lagu",
+      "url": "https://open.spotify.com/track/37lt8ItlvPlHFg6V5pYzih"
     },
     {
       "album": {
@@ -1027,7 +1117,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 254659,
       "name": "Masa Mudaku Habis",
       "url": "https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr"
@@ -1135,7 +1225,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 253600,
       "name": "Menghargai Kata Rindu",
       "url": "https://open.spotify.com/track/76YPh9yAEC3SGjNx7DPllu"
@@ -1645,7 +1735,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 270103,
       "name": "Sumpah Cintaku",
       "url": "https://open.spotify.com/track/3ltgK9gBYQIoKrSYyjxIT3"
@@ -1685,6 +1775,28 @@
       "duration_ms": 294666,
       "name": "Surat Hati",
       "url": "https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1"
+    },
+    {
+      "album": {
+        "name": "Sweet Hurting",
+        "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        },
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214622,
+      "name": "Sweet Hurting",
+      "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
     },
     {
       "album": {
@@ -1757,6 +1869,24 @@
       "duration_ms": 267600,
       "name": "Tak Pantas Terluka",
       "url": "https://open.spotify.com/track/1zyYrAztUAlOHO9wHyZU0P"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218896,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3"
     },
     {
       "album": {
@@ -1854,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Telat Cemburu",
+        "url": "https://open.spotify.com/album/3EHqNyAUL8eRx2lZpGWqdk"
+      },
+      "artists": [
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199818,
+      "name": "Telat Cemburu",
+      "url": "https://open.spotify.com/track/1u9pDLLKMz9S2ZdCIEAeTk"
+    },
+    {
+      "album": {
         "name": "Teman Setia (Official Soundtrack Boboiboy Galaxy Sori - Short Version)",
         "url": "https://open.spotify.com/album/0k6hGTnmoI1Hfnr78Gkg43"
       },
@@ -1872,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "Terjemahan Cinta",
+        "url": "https://open.spotify.com/album/2JEr0OFOKI4vwzB04oEzdb"
+      },
+      "artists": [
+        {
+          "name": "Indra Sinaga",
+          "url": "https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259424,
+      "name": "Terjemahan Cinta",
+      "url": "https://open.spotify.com/track/62UKEKwVfy4ZbHWfh7tIlT"
+    },
+    {
+      "album": {
         "name": "Urbanisme",
         "url": "https://open.spotify.com/album/7dilk1N60lItMZSfqUQDME"
       },
@@ -1887,6 +2053,42 @@
       "duration_ms": 192994,
       "name": "Terserah",
       "url": "https://open.spotify.com/track/7kvNngJtG3bvUXEAZgob1F"
+    },
+    {
+      "album": {
+        "name": "Threepeat",
+        "url": "https://open.spotify.com/album/2NEi7FzorbZOyVWfSVxfJ0"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Sheinafia",
+          "url": "https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134452,
+      "name": "Threepeat",
+      "url": "https://open.spotify.com/track/3B47lA8KtRC1E6GBAbcQIy"
+    },
+    {
+      "album": {
+        "name": "tiba-tiba jumat lagi",
+        "url": "https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "tiba-tiba jumat lagi",
+      "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
     },
     {
       "album": {

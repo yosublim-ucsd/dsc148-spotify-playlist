@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:6qk2W9h3eE5UtPJlIatzsY\">Meredith Andrews</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:50hkKRxo0g8Ck4JqlwoJr4\">Cochren & Co.,</a> <a href=\"spotify:artist:2cRQc5dlsvrO2lVLCgdugm\">Matt Boswell,</a> and <a href=\"spotify:artist:7C9hIwTUxeWIJzxK6rGH0d\">Matt Papa</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -88,10 +88,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 304757,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
+    },
+    {
+      "album": {
+        "name": "Abandoned",
+        "url": "https://open.spotify.com/album/6AFESCtQyitd3sSg54lWzM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401920,
+      "name": "Abandoned - Live",
+      "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
     },
     {
       "album": {
@@ -1401,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "Build an Altar (Live)",
+        "url": "https://open.spotify.com/album/2b7AGgeYM5r5j19AuaHFUI"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        },
+        {
+          "name": "Vanessa Dalrymple",
+          "url": "https://open.spotify.com/artist/4J92zRwQL5PLvtK59K0K2w"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303449,
+      "name": "Build an Altar (Live)",
+      "url": "https://open.spotify.com/track/3qFQ8jCfC9YchuakCswQda"
+    },
+    {
+      "album": {
         "name": "By Your Spirit",
         "url": "https://open.spotify.com/album/1KmMRgyMx0MuQK3CYAGPNF"
       },
@@ -1932,7 +1976,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 406671,
       "name": "Crowns Down - Live",
       "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
@@ -2610,7 +2654,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"
@@ -3287,6 +3331,32 @@
     },
     {
       "album": {
+        "name": "His Mercy Is More (Live)",
+        "url": "https://open.spotify.com/album/1bEfo5r7vdVfdit29xIqkg"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289738,
+      "name": "His Mercy Is More - Live",
+      "url": "https://open.spotify.com/track/6hB0AGk240Qkhag10ZtSr9"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
       },
@@ -3324,7 +3394,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 331786,
       "name": "Holy - Live",
       "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
@@ -3628,6 +3698,84 @@
       "duration_ms": 221280,
       "name": "How Great (Single Mix)",
       "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
+    },
+    {
+      "album": {
+        "name": "How Great Thou Art (Until That Day)",
+        "url": "https://open.spotify.com/album/4EHbFG6ALlnX76Hff9Dlgr"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269678,
+      "name": "How Great Thou Art (Until That Day)",
+      "url": "https://open.spotify.com/track/2gvPDTxttF9RbvCcwrtrWi"
     },
     {
       "album": {
@@ -4604,7 +4752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 372920,
       "name": "Jesus Does - Live From The Ryman",
       "url": "https://open.spotify.com/track/3mVhKKWyw7Vs1PB1LiiyS1"
@@ -4894,7 +5042,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 251612,
       "name": "King of Calvary - Live",
       "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
@@ -6582,6 +6730,32 @@
       "duration_ms": 628695,
       "name": "Paul & Silas (At Midnight) - Live",
       "url": "https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK"
+    },
+    {
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/0sDbtIB3CWli3OB2rofdtg"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Sloat",
+          "url": "https://open.spotify.com/artist/0QnfjcipXuIdXf2my3uoAp"
+        },
+        {
+          "name": "Mia Fieldes",
+          "url": "https://open.spotify.com/artist/4ZSiao6VxS7XrzDVvb89XR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356146,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/0uCviUHk4AxxivWciQGa1X"
     },
     {
       "album": {
@@ -9638,6 +9812,28 @@
       "duration_ms": 376935,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/7HrtYjaUEAlkjNfbq6nmc0"
+    },
+    {
+      "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331219,
+      "name": "Who Else - Live",
+      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,065 likes - 250 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,045 likes - 250 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [Estranged](https://open.spotify.com/track/0m4k7I8pzwZxEDXRsWAoK9) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Estranged](https://open.spotify.com/album/5Mpt0ni0EKTkySMwhRLoKo) | 2:07 |
 | 250 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 |
 
-Snapshot ID: `MCwzZTU4NzdmMTBhZDZiMDE0ZmVlNmNkNThkOWQ5MzkxMTY1Njg3ODlk`
+Snapshot ID: `MCwwN2Q0MTRiMzQ3OTY2MTFkNjAxMDY0NzMxY2UwOTQ3ZGMxMzc4OWM4`

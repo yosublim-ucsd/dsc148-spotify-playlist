@@ -7842,10 +7842,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181714,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2"
+    },
+    {
+      "album": {
+        "name": "Mount Fuji",
+        "url": "https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kanzas-City",
+          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Mount Fuji",
+      "url": "https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> chama naquela da alcione que machuca o pai
+> não sei se é bailarina, amendoada ou stiletto
 
 278 songs - 16 hr 32 min
 

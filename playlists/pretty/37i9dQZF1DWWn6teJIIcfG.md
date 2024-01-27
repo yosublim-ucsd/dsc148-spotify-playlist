@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,026 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,121 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Le Rossignol\-en\-Amour: 14ème ordre, 3ème livre](https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Iddo Bar\-Shaï](https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW) | [Couperin: Les Ombres Errantes](https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB) | 2:36 |
 | 60 | [Valse lente, Op\. 33 \(arr\. for orchestra\)](https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39) | [Oskar Merikanto](https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd), [Jorma Panula](https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi), [Turku Philharmonic Orchestra](https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB) | [Early One Morning](https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe) | 3:00 |
 
-Snapshot ID: `MCw3ODllOTE2YTQ3NjFjYzNjNDM0ODljZGM3MGI2MGUxZjg4NGIyNmMw`
+Snapshot ID: `MCw4MTEzMzA1ZjQ3YTVkZjZjNTBhNmMzZDkwOTRjOWQxYmVjYThhZTcw`

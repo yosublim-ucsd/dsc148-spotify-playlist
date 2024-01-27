@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 12896,
+  "2024-01-27": 12907,
   "date_first_scraped": "2023-03-18",
   "description": "This is MUNA. The essential tracks, all in one playlist.",
   "name": "This Is MUNA",
@@ -683,6 +683,28 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "album": {
+        "name": "What's Love (feat. MUNA)",
+        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {
       "album": {

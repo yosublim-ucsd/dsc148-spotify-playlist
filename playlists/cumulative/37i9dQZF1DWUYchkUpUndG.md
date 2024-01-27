@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=tvOkEkbvR9O860WtFUOgJQ>Greatman Takit</a>
 
-1,766 songs - 5 day 12 hr 4 min
+1,767 songs - 5 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,6 +905,7 @@
 | [Let My Life](https://open.spotify.com/track/79a5aDdKtJ3kIOxhfFadUF) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Let My Life](https://open.spotify.com/album/6GHFwNseYX18t00LqeHNeV) | 4:22 | 2023-05-26 | 2023-06-09 |
 | [Let Your Glory](https://open.spotify.com/track/2wlWElHd8cZzZ1AL5AZby1) | [Breakforth Worship Inc.](https://open.spotify.com/artist/0rbkN7LOU1PgrFxL1dfzWD), [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Let Your Glory](https://open.spotify.com/album/4Kj4sQu08DeRO174fLpWXq) | 6:06 | 2023-11-17 | 2023-12-01 |
 | [Let's Go](https://open.spotify.com/track/56H5RQ0EXOK1E139aY44nP) | [Billy Jr](https://open.spotify.com/artist/1yFD6ggin0DlOs7XeJB54N), [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Let's Go](https://open.spotify.com/album/3MXvqjqjBniz5uzXvsgN7Q) | 2:44 | 2023-09-22 | 2023-10-06 |
+| [Let's Walk](https://open.spotify.com/track/3pEWrCEBK1HnuD39lxWPFt) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc) | [Let's Walk](https://open.spotify.com/album/1JfLYuX0glib2e0QUrPng5) | 1:47 | 2024-01-26 |  |
 | [Lets Get Married](https://open.spotify.com/track/6TttrEkOnTgTeWQ2RFWtYr) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [Lets Get Married](https://open.spotify.com/album/3Q22XLhHPR91DV3h9s5g7b) | 4:35 | 2023-12-22 | 2024-01-05 |
 | [LETTER TO GOD \(COME SEE ME\)](https://open.spotify.com/track/6tXqEcoc5YGO4zzJ1umzDo) | [Yb Aka](https://open.spotify.com/artist/3TMlPyl6q0UBWXrYNpMa2L) | [D.O.L.O](https://open.spotify.com/album/1hoaWp3t3QavGab96z6IuU) | 3:05 | 2024-01-26 |  |
 | [Letting Go](https://open.spotify.com/track/0cfP8rKYUHke3HPfzShZdw) | [Johan Van Rensburg](https://open.spotify.com/artist/78PN6tfFrmzWMWFPyRvdrD), [Emeale Maritz](https://open.spotify.com/artist/6c43Y8VCUwZsM4bJNT2UDn) | [Letting Go](https://open.spotify.com/album/1RGpCw6f556Zl1MvVyMf4n) | 5:00 | 2024-01-19 | 2024-01-26 |

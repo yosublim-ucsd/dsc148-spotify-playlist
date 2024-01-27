@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Leonilo Jaimes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,767 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,789 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Corazon Duro \- En Vivo](https://open.spotify.com/track/1GNfOr5QynMN4pr9RR7ddN) | [Jessica Ballesteros](https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE), [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Corazon Duro \(En Vivo\)](https://open.spotify.com/album/1tLAvsv1WcPl0y6J2joEQc) | 3:30 |
 | 100 | [Yo Soy Guerrera](https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Yo Soy Guerrera](https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks) | 2:18 |
 
-Snapshot ID: `MCwyODhhZjliNDViYzMzYTcxMzAxZGIxODA1MWIzMWE0MTBjZTc1YjRj`
+Snapshot ID: `MCwxMWRjZWY5Mjg2MjA5ZDgyNWNhMzAyZDM5YTdkNjk2NGJiZmI0MjVk`

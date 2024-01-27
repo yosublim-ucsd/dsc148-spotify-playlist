@@ -4,7 +4,7 @@
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-113 songs - 8 hr 0 min
+114 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-11-11 |  |
 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 | 2022-11-11 |  |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-11-11 |  |
-| [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 | 2023-09-15 |  |
+| [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 | 2023-09-15 | 2024-01-27 |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-11-11 |  |
 | [Climber \(Demo\)](https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Another Perfect Day \(40th Anniversary\)](https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM) | 3:13 | 2023-09-22 |  |
 | [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 | 2023-09-15 | 2023-11-18 |
@@ -86,6 +86,7 @@
 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 | 2022-11-11 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2022-11-11 |  |
 | [Rock Brigade \- Live On The BBC Radio One Friday Rock Show](https://open.spotify.com/track/5HBquPIN5WKhGch1AKFD9u) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [The Early Years](https://open.spotify.com/album/3ozS6TLtjaZko3cPAwvmAd) | 2:42 | 2022-11-11 |  |
+| [Runaway \- Cassette Writing Demo](https://open.spotify.com/track/1zw6wiS2D5023owWnlYmxs) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi \(Deluxe Edition\)](https://open.spotify.com/album/5jbeZAH40R7ZGUfDnZAkpl) | 2:14 | 2024-01-26 |  |
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-11-11 |  |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2022-11-11 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2022-11-11 |  |

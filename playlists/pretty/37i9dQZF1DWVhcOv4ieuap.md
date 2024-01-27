@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,816 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,780 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 99 | [¿Y Si Eras Tú?](https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Y Si Eras Tú?](https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA) | 2:49 |
 | 100 | [Perdóname](https://open.spotify.com/track/2F8IzXy0la2pnsbXPqdp85) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Perdóname](https://open.spotify.com/album/0ybzn4FRTluKf7LRZdSr6E) | 3:50 |
 
-Snapshot ID: `MCwxYWViMGQyYzVkYmViMGFiNWRmOGI2MjkyNmJkNzE0ODM1YjBlNmIy`
+Snapshot ID: `MCw5NjdlOTljMTc3Mzc2ZWI2ZWY2ZDFjOGZlNWNlMTE5MjY5NjVmMDgy`

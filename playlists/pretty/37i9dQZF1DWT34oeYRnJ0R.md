@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,764 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,724 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 100 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 |
 
-Snapshot ID: `MCw1Zjc3Y2Q1YzJkYTZlYmEwNTBiODBiMGUyN2FlMzU1NGUxNDY5Y2Iw`
+Snapshot ID: `MCw4YzE0YWE2YzI4YzhjMDJiYjI2YTUzMzJhYmFlYjlhMDQ0YzM3MzE3`

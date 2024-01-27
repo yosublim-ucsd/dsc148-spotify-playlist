@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. Cover: Ride
+> Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-533 songs - 1 day 10 hr 33 min
+534 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Heaven in Your Head](https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Nuclear Daisies](https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF) | 3:14 | 2023-02-09 | 2023-10-21 |
 | [her blood filled my lungs](https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr) | [anvii](https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ) | [\(y\)our ephemeral nature](https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk) | 3:13 | 2023-12-08 |  |
 | [her distortion](https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [her distortion](https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE) | 3:15 | 2023-06-23 | 2023-12-12 |
+| [Here, Together](https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Here, Together](https://open.spotify.com/album/5S5tdf2coiu87SQu5eOFty) | 3:37 | 2024-01-26 |  |
 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 | 2021-10-19 | 2023-01-14 |
 | [Hide](https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/5xLPp9GcMMHF6U8AoVLgWU) | 6:47 | 2021-10-19 | 2022-07-29 |
 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-11 | 2023-09-02 |

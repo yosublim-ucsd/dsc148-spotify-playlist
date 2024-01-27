@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Nathalie Joachim on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,820 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,887 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Crows Nest](https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS) | [Mindtality](https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c) | [Weekly Releases 2023](https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL) | 3:52 |
 | 100 | [humanus](https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 5:03 |
 
-Snapshot ID: `MCw4ZmNiZDRlYmIyYzRkMDY4Y2FlOWUzNDg3ZWNjNzlkZGE5OGMxY2M0`
+Snapshot ID: `MCxiYjhjNWVmYWU0ZTA2ZGJkNTk2MmY4OWI0OTc1OWE4M2I0YjYzZWM3`

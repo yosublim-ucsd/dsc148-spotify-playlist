@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,802 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,814 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Diferente](https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:52 |
 | 59 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 |
 
-Snapshot ID: `MCwxY2FkNmFkZjBhYTRmNDBhMzk0ZDA3OWUzMzcxY2VhYjYwOGNiNWFi`
+Snapshot ID: `MCwwMTg1ZDM4NWJmNzFkN2E2OGVmZWQzMjY1ZWU3ZjczZjhiNDRjYzdl`

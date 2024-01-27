@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 3749,
+  "2024-01-27": 3749,
   "date_first_scraped": "2023-09-29",
   "description": "Pr\u00e9parez la boule \u00e0 facettes, lib\u00e9rez la place, c'est l'heure de la boum des enfants",
   "name": "Premi\u00e8re boum",
@@ -1399,10 +1399,32 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "album": {
+        "name": "This Is Future Pop",
+        "url": "https://open.spotify.com/album/6tENvLxC2Ya2RX3pUM4PX5"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2021-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "This Girl - Kungs Vs. Cookin' On 3 Burners",
+      "url": "https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj"
     },
     {
       "album": {

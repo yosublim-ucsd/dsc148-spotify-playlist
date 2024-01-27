@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
         "name": "HITA",
         "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
       },
@@ -2998,6 +3016,24 @@
       "duration_ms": 172375,
       "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp"
+    },
+    {
+      "album": {
+        "name": "Think U The Sh*t (Fart)",
+        "url": "https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Sh*t (Fart)",
+      "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
     },
     {
       "album": {

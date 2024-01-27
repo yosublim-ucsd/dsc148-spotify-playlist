@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 20688,
+  "2024-01-27": 20785,
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=65ZggX4DRpC23flgvtn7Jg>Oyije</a> ",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=yb2B-KRbSyGfeu2yZVTtDw>Moses Bliss</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -743,7 +743,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 122033,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk"
@@ -4153,6 +4153,44 @@
       "duration_ms": 697274,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7"
+    },
+    {
+      "album": {
+        "name": "You Are Great",
+        "url": "https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "You Are Great",
+      "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Rival Sons",
-  "num_followers": 193846,
+  "num_followers": 193927,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2I0MWY5NzUzMzdkMjY4OGMwZWYzMDQzMzdiYTdmMzRmZTcxNTUw",
+  "snapshot_id": "MCwyYzRlODI4YTcyYjIyYzEzMTdiMjg4NGRmNzg0ODA5Y2QxYzNhOTFj",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 203200,
       "name": "Dirt On My Diamonds",
       "url": "https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0ZhLY8EATUuhuHiieavwOQ"
+      },
+      "artists": [
+        {
+          "name": "The Commoners",
+          "url": "https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/5JuqvuL2doRB6g4ikjWJsj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -579,22 +595,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2021-05-19 14:25:19",
-      "album": {
-        "name": "Hardware",
-        "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
-      },
-      "artists": [
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "My Lucky Card",
-      "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
     },
     {
       "added_at": "2023-03-31 04:01:00",

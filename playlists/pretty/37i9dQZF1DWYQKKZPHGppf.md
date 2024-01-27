@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2023! Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,418 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,474 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 21 | [BUONANOTTE](https://open.spotify.com/track/6HLtWEpWpiyFr3gSKJF2XG) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO) | 3:40 |
 | 22 | [DUBBI](https://open.spotify.com/track/4LCclhVtP0vNthSpEbNKWF) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI \(Deluxe\)](https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy) | 3:54 |
 | 23 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
-| 24 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
+| 24 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
 | 25 | [Altamente Mia](https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Altamente Mia](https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A) | 2:52 |
 | 26 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 |
 | 27 | [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 49 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 |
 | 50 | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
 
-Snapshot ID: `MCw2NDcyOWVjNzA0ZTI0OGFiNjI2ZDFjNWI3NGQ0ZWZlNjc4OGNmZmZl`
+Snapshot ID: `MCxiNDAyNWE3N2UyOGU3YTU3MjIwNzllNmFkNDViMmRiZjNlNDc5MjY4`

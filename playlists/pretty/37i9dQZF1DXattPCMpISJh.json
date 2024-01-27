@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 106213,
+  "num_followers": 106387,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2NkNWI5YjNmOWFhYjJhMTFhZTJiMDZhYjhiNTc0ZmQ3MTAyOTBh",
+  "snapshot_id": "MCw4NWIzMWM3MjNiNzhkZTQ3MzJmNWNkMjhkMzE4NWZkMDc3MDk5NzEy",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
@@ -1875,22 +1891,6 @@
       "duration_ms": 280239,
       "name": "Make That Change",
       "url": "https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "NIKKI",
-        "url": "https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU"
-      },
-      "artists": [
-        {
-          "name": "Joseph of Mercury",
-          "url": "https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO"
-        }
-      ],
-      "duration_ms": 198524,
-      "name": "NIKKI",
-      "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
     },
     {
       "added_at": "2022-02-25 05:02:00",

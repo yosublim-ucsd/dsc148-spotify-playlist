@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,026 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisss](https://open.spotify.com/track/3Bjb398kFNsNP0fwegVx1X) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Not Others, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6uMIdVmTVqPzJaBeknl48S) | 3:49 |
 | 2 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
-| 3 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
+| 3 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
 | 4 | [Somebody Like](https://open.spotify.com/track/7uKQZH0nlYpCiueooLwGSd) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [Not Others, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3KqrV6nEOnBtEJvmkda9xf) | 3:19 |
 | 5 | [Calling for Spring](https://open.spotify.com/track/2kL5OJKk7rQUnVaOAuQH1u) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 |
 | 6 | [Alive](https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 |
 | 7 | [My Dream](https://open.spotify.com/track/4U0REq6Tm5iRejOdTfvTH8) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Not Others, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/41iWcdjmCWHfS63S3kY2qo) | 3:39 |
 | 8 | [Kisss \- Instrumental](https://open.spotify.com/track/1tixN00iTjvvca2apcgqUQ) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Not Others, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6uMIdVmTVqPzJaBeknl48S) | 3:47 |
 | 9 | [Want to be Free \- Instrumental](https://open.spotify.com/track/38jCQVvNYntZq9FneVG4Zy) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
-| 10 | [Like a Dream \- Instrumental](https://open.spotify.com/track/0SpvJAaVaSrrta6Jap7AV0) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
+| 10 | [Like a Dream \- Instrumental](https://open.spotify.com/track/0SpvJAaVaSrrta6Jap7AV0) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
 | 11 | [Somebody Like \- Instrumental](https://open.spotify.com/track/6DvYBG8HsAxBRo7Fn2ReKl) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [Not Others, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3KqrV6nEOnBtEJvmkda9xf) | 3:19 |
 | 12 | [Calling for Spring \- Instrumental](https://open.spotify.com/track/3JztwqRTiGF58wzcKenuj5) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 |
 | 13 | [Alive \- Instrumental](https://open.spotify.com/track/2JJkaTZuYTRrt5emi69xLk) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 67 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
 | 68 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
 
-Snapshot ID: `MCxjMWE4ZGRjYWJlN2IxNjk1Njg1NzE4ZjhjMmMxOWE3NmM1YTI1ZDll`
+Snapshot ID: `MCw0YmQ1NTIwZjZiYzJiODE3MmQ2N2JlYzI3ZDljYTgxOWRiNzZkODQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,149 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,162 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 79 | [Concha Nacar](https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:18 |
 | 80 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
 
-Snapshot ID: `MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx`
+Snapshot ID: `MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0`

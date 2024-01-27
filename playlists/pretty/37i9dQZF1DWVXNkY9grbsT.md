@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,235 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,271 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 |
 | 100 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 |
 
-Snapshot ID: `MCw3YWE4Y2NmN2M5MDdiNGZkNDU0MTBjYWY2ODNmMmY0NmM2NTFjZjJh`
+Snapshot ID: `MCxmOTMxYTcwZGE0OTAxMzRkODM4Mjg0ODgxYTg3YjgzZmRiNjlkMjQ0`

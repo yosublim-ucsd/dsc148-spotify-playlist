@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 6805,
+  "2024-01-27": 6808,
   "date_first_scraped": "2023-02-25",
   "description": "De mooiste muziek: Americana | Country",
   "name": "Route Americana",
@@ -335,7 +335,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
@@ -1023,6 +1023,24 @@
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
+    },
+    {
+      "album": {
+        "name": "Kingdom Of Mine",
+        "url": "https://open.spotify.com/album/4H41jpFZJXfteb9EmmtTWq"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kingdom Of Mine",
+      "url": "https://open.spotify.com/track/4nbxAUtL0FDDIv4GWLk40H"
     },
     {
       "album": {

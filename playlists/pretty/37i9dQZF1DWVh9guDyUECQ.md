@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,652 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,524 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
 | 100 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
 
-Snapshot ID: `MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3`
+Snapshot ID: `MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj`

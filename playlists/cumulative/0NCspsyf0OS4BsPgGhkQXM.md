@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-990 songs - 2 day 4 hr 4 min
+993 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2023-07-07 | 2023-11-18 |
 | [Day One](https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP) | [Day One](https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj) | 2:45 | 2022-08-19 | 2023-01-28 |
 | [Daydream](https://open.spotify.com/track/2xwOqFwANa6Emye6KlkgHT) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH) | [Daydream](https://open.spotify.com/album/0jQFksbr0abnIxMJFxSitd) | 3:44 | 2022-05-11 | 2022-09-10 |
+| [Daydreaming](https://open.spotify.com/track/6xQpnKc8pxK1cfM6DAgySh) | [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Daydreaming](https://open.spotify.com/album/5WAkd6l1z5LiBWqXAxAM81) | 3:34 | 2024-01-26 |  |
 | [Daydreaming!](https://open.spotify.com/track/7LEo06cGJyKFwhpSuiGzBC) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Daydreaming!](https://open.spotify.com/album/58frgUFNqkmg5TFkRimvRZ) | 4:55 | 2022-09-02 | 2022-11-24 |
 | [DEAD](https://open.spotify.com/track/2XkZmwkeIxvEF2vwzhjZ18) | [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [DEAD](https://open.spotify.com/album/1GaznnolBVSmfI5fxxBBZW) | 3:03 | 2022-07-01 | 2022-07-29 |
 | [Dead Friends](https://open.spotify.com/track/4Py4FD7U21NP8AdOTs5LfT) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Dead Friends](https://open.spotify.com/album/4eo1sMonygWrfmqiwA644k) | 3:46 | 2023-06-16 | 2023-11-11 |
@@ -424,6 +425,7 @@
 | [I'm Dreaming](https://open.spotify.com/track/3aF4OnZcwvY4PNOv6Dit2q) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [I'm Dreaming](https://open.spotify.com/album/1CDqimJtjps1RTtEkMcS2M) | 3:57 | 2022-12-02 | 2023-09-23 |
 | [ID\-1999](https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco) | [ID\-1999](https://open.spotify.com/album/42PYPVdXv4kGetNfShSWzb) | 2:53 | 2022-03-07 | 2022-04-02 |
 | [IDGAF](https://open.spotify.com/track/0LbUIB8LnedfY0nbPPouN6) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [Big Melancholy](https://open.spotify.com/artist/1Ed0HN8RP6sHQCud1P8QWr), [luna online](https://open.spotify.com/artist/4uhnWSGtIqr0dlua70UCAF), [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [IDGAF](https://open.spotify.com/album/5Z3PUFseqdLBimouApxeaR) | 1:33 | 2023-09-22 | 2023-10-14 |
+| [IDK](https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [IDK](https://open.spotify.com/album/3n50gOQTJOqXQipa4RNevS) | 3:31 | 2024-01-26 |  |
 | [IMMORTAL](https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9) | [AENEAS](https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [IMMORTAL](https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq) | 3:18 | 2023-07-07 | 2023-09-09 |
 | [Import Tuner](https://open.spotify.com/track/3mUSP6Ln9vcpdWjxXmXnfi) | [shxde](https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr) | [Import Tuner](https://open.spotify.com/album/21qkQkz1fYketSDDNZhPNd) | 3:12 | 2023-06-09 | 2023-07-22 |
 | [In My Dreams](https://open.spotify.com/track/6ZHPUfO3lFuYEA7yCBBi0m) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/7wSgLKelqFenbjGxEfN3NP) | 2:41 | 2022-03-18 | 2022-04-19 |
@@ -973,6 +975,7 @@
 | [Wish You The Best](https://open.spotify.com/track/4j6sNySAJenxu4oG6q57dF) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Wish You The Best](https://open.spotify.com/album/1I4A0gqLW5sRUcY5EzeTis) | 2:55 | 2022-08-29 | 2022-10-08 |
 | [With Us](https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [roseboy](https://open.spotify.com/artist/19XTIhkOL45VkvkjjGzD61), [Pbenz](https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir) | [With Us](https://open.spotify.com/album/3weu8g7iv2zYprfSDi18DB) | 3:20 | 2022-02-18 | 2022-03-26 |
 | [With You](https://open.spotify.com/track/0N8FAdEsKhLVqr1T8DgC7M) | [Soular](https://open.spotify.com/artist/1bBITBo8ppdefWZYR6eRYC), [Ila](https://open.spotify.com/artist/1GbpislQVgNCZHK7KKnftY), [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU) | [With You](https://open.spotify.com/album/59RfSXQK7bjCJHziKEwC1K) | 2:23 | 2023-11-22 |  |
+| [Without Me](https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Concrete Castles](https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo) | [Without Me](https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz) | 3:12 | 2024-01-26 |  |
 | [WITHOUT U](https://open.spotify.com/track/0zDWtTrHkB0hC8PaCSk0Lx) | [DISTO](https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:33 | 2022-09-22 | 2023-02-22 |
 | [Without You](https://open.spotify.com/track/7hvpcyq2AkgqTGxTQ9Qif5) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ) | [Without You](https://open.spotify.com/album/5sEaAJCCNJfbvzq21SmUZw) | 3:55 | 2022-02-03 | 2022-02-16 |
 | [Wolves](https://open.spotify.com/track/4z7GNPrQaorf2sN6AkDONX) | [Soulji](https://open.spotify.com/artist/3sCSFXcnA4yqnV7KhnxPnl) | [Wolves](https://open.spotify.com/album/4vUi3tv0KAxXvcLdeXRvb0) | 3:52 | 2023-10-20 | 2023-11-18 |

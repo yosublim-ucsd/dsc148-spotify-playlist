@@ -1,15 +1,15 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 114341,
+  "num_followers": 114338,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MzY0MjYsMDAwMDAwMDA0NWU4NWM2OTYyYmQ0NjJjZTA2YzkwYWU3OWM3M2U4Yw==",
+  "snapshot_id": "Mjg0MzgxMzIsMDAwMDAwMDBlOWRjZDc5MjcxMmFkZGQ1ZmVjMGE4YTAxNTEzZjJhMQ==",
   "tracks": [
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
@@ -25,39 +25,27 @@
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
       "artists": [
         {
           "name": "Dean Martin",
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered 1998",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
+        },
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
         }
       ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
@@ -73,7 +61,7 @@
       "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Reprise Rarities (Vol. 5)",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
@@ -97,10 +85,10 @@
       "url": "https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
@@ -108,12 +96,28 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 166066,
-      "name": "All I Do Is Dream Of You - Remastered",
-      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+      "duration_ms": 184453,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Heaven Can Wait - Remastered/1998",
+      "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
@@ -133,23 +137,7 @@
       "url": "https://open.spotify.com/track/73VWTEHnoZyULD840kEX49"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Reprise Rarities (Vol. 5)",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
@@ -173,7 +161,23 @@
       "url": "https://open.spotify.com/track/1WgG3IMzz233bIm4EQ7QCM"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
@@ -189,10 +193,10 @@
       "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+        "name": "The Dean Martin TV Show",
+        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
       },
       "artists": [
         {
@@ -200,28 +204,12 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
-      "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
+      "duration_ms": 133186,
+      "name": "The One I Love (Belongs to Somebody Else)",
+      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Reprise Rarities (Vol. 5)",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
@@ -245,10 +233,10 @@
       "url": "https://open.spotify.com/track/0AIRdaGvVN6uEEsB3iD3C3"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
-        "name": "The Dean Martin TV Show",
-        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
@@ -256,12 +244,12 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 133186,
-      "name": "The One I Love (Belongs to Somebody Else)",
-      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
@@ -277,23 +265,7 @@
       "url": "https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Somewhere There's a Someone",
         "url": "https://open.spotify.com/album/4xl7kIvmXiZCZ9UYQoluaH"
@@ -309,7 +281,7 @@
       "url": "https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Welcome to My World",
         "url": "https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna"
@@ -325,7 +297,23 @@
       "url": "https://open.spotify.com/track/6S8qwbkB6VpeQFI7rsDbWO"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
+      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
@@ -341,7 +329,23 @@
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Destination Moon",
         "url": "https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k"
@@ -361,7 +365,7 @@
       "url": "https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM"
@@ -381,7 +385,7 @@
       "url": "https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
@@ -397,7 +401,7 @@
       "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
@@ -413,7 +417,7 @@
       "url": "https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
@@ -429,23 +433,7 @@
       "url": "https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Arrivederci Roma - Remastered 1998",
-      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
@@ -461,23 +449,7 @@
       "url": "https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 141906,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Dean Martin Hits Again",
         "url": "https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5"
@@ -493,7 +465,23 @@
       "url": "https://open.spotify.com/track/42lA9iaBSjXJ0vlDyHfjs1"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 141906,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "The Dean Martin TV Show",
         "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
@@ -509,7 +497,7 @@
       "url": "https://open.spotify.com/track/5zfRiEJa09MdiPeMHx07gi"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
@@ -525,7 +513,23 @@
       "url": "https://open.spotify.com/track/6KSQAmuboVQfo6hOTYDzyk"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
@@ -541,39 +545,7 @@
       "url": "https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "At The Movies",
-        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "My Rifle, My Pony And Me - Remastered",
-      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Please Don't Talk About Me When I'm Gone",
-      "url": "https://open.spotify.com/track/2cCbzl5QTO0bWgjRPI6yPY"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Welcome to My World",
         "url": "https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna"
@@ -589,23 +561,7 @@
       "url": "https://open.spotify.com/track/4ajZSQCn0cjUvUNCqKGTeD"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Senza fine",
-      "url": "https://open.spotify.com/track/2BBH59nyfRuXTC8rpYEPT0"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Dean Martin Hits Again",
         "url": "https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5"
@@ -621,7 +577,7 @@
       "url": "https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
@@ -637,7 +593,23 @@
       "url": "https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Senza fine",
+      "url": "https://open.spotify.com/track/2BBH59nyfRuXTC8rpYEPT0"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "My Woman, My Woman, My Wife",
         "url": "https://open.spotify.com/album/72SyCEbbglnB4vh5Ocaq95"
@@ -653,10 +625,10 @@
       "url": "https://open.spotify.com/track/4bbm7ntU8aKrksCinskzO7"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
@@ -664,28 +636,12 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Corrine, Corrina",
-      "url": "https://open.spotify.com/track/6hhuQN1IIAFir8fthpN9cH"
+      "duration_ms": 141480,
+      "name": "Someday - Remastered/1998",
+      "url": "https://open.spotify.com/track/09ImTvqnzd1ukBjcn9iDcP"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "French Style",
-        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "C'est Magnifique",
-      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
@@ -701,7 +657,39 @@
       "url": "https://open.spotify.com/track/7ttWSKqh526y2NImkQvuW3"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Corrine, Corrina",
+      "url": "https://open.spotify.com/track/6hhuQN1IIAFir8fthpN9cH"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "Swingin' Down Yonder",
+        "url": "https://open.spotify.com/album/5ttPB6mfp7eQSLsCZjyKC6"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 137653,
+      "name": "Carolina In The Morning - 1997 Remaster",
+      "url": "https://open.spotify.com/track/2Wkh6VPQgUNIZpVGG3B4eF"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "You're the Best Thing That Ever Happened to Me",
         "url": "https://open.spotify.com/album/50Ht1XmmPq4BbEGCwxzF5K"
@@ -717,23 +705,7 @@
       "url": "https://open.spotify.com/track/0TWZDPovaXPMkZNFmGKbdH"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
-      "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 127293,
-      "name": "Come Running Back",
-      "url": "https://open.spotify.com/track/3EQM6RIkUZ3nVI8mTVwIvY"
-    },
-    {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "The Door Is Still Open to My Heart",
         "url": "https://open.spotify.com/album/6neAuqwU6qcZgXHD2irQFI"
@@ -749,7 +721,39 @@
       "url": "https://open.spotify.com/track/1WKMAaCkDKt4SUqn7BRQ3G"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/7hyuFoept7slNptV126UwW"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 10 (1959-1960)",
+        "url": "https://open.spotify.com/album/2gWp6ct1c3hFGIN1rR9j18"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "Who Was That Lady?",
+      "url": "https://open.spotify.com/track/6Y7Y6NzPv4Zu288vIlK0Gg"
+    },
+    {
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "My Woman, My Woman, My Wife",
         "url": "https://open.spotify.com/album/72SyCEbbglnB4vh5Ocaq95"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/0q90htFRfz13tk1JQ862uP"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Let There Be Love / You're Nobody Till Somebody Loves You",
         "url": "https://open.spotify.com/album/6JjZnmerwGsfY2bValukHU"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/5uhf1e6TB5V8PKcetYmAiP"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Dino Latino",
         "url": "https://open.spotify.com/album/2ws8PE4HE9e4IqWNBKGv5j"
@@ -821,7 +825,7 @@
       "url": "https://open.spotify.com/track/2Q87Wv1UylYPZ1yAH87ddv"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
@@ -832,12 +836,12 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 166533,
-      "name": "You're Breaking My Heart (Mattinata) - Remastered 1998",
-      "url": "https://open.spotify.com/track/42SbfN8JAc60JXbRGQ4y32"
+      "duration_ms": 182106,
+      "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
     },
     {
-      "added_at": "2024-01-25 12:26:59",
+      "added_at": "2024-01-26 16:52:17",
       "album": {
         "name": "Gentle On My Mind",
         "url": "https://open.spotify.com/album/2ZH9Gg5RXVIRCFsVGh3RR4"

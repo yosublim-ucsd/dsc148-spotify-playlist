@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-568 songs - 2 day 6 hr 17 min
+570 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
 | [Falling Again](https://open.spotify.com/track/3W6N0y9cMCKnpcX1RCYGXb) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Falling Again](https://open.spotify.com/album/5xAcd94u5LYDLA8RfNu9TA) | 3:16 | 2023-06-16 | 2023-08-16 |
 | [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 | 2023-08-05 |
+| [Famax](https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax / Mala Fama / Yafama](https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp) | 5:35 | 2024-01-26 |  |
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-30 | 2023-07-03 |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 | 2023-11-22 |
 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 | 2023-04-21 | 2023-06-03 |
@@ -251,7 +252,7 @@
 | [Jellydish](https://open.spotify.com/track/0o5vFkIE7BwQwBhkQ0s8ev) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 8:26 | 2022-02-11 | 2022-07-29 |
 | [Kababo](https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kababo](https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf) | 6:14 | 2023-10-06 | 2023-11-10 |
 | [Kakooja](https://open.spotify.com/track/6w77q0msPrGkcs8GjXMWq8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Holographic Witness](https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR) | 5:08 | 2022-09-09 | 2022-09-20 |
-| [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 | 2022-07-08 |  |
+| [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 | 2022-07-08 | 2024-01-27 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-10-15 |
 | [Kami](https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 5:15 | 2022-07-08 | 2022-11-16 |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2023-02-10 |  |
@@ -269,6 +270,7 @@
 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 | 2021-07-16 | 2023-02-11 |
 | [Lacuna](https://open.spotify.com/track/4VObi381kNC7Fy14jybcBY) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Lacuna EP](https://open.spotify.com/album/37XzyS2RTfnNnaSUVD49gn) | 7:27 | 2021-04-21 | 2022-04-21 |
 | [Lanarka](https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Lanarka / Sablier](https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn) | 9:28 | 2021-04-21 | 2022-12-17 |
+| [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-01-26 |  |
 | [Late Reflections](https://open.spotify.com/track/3YGDl5T8GTpS3z0QtYmtSv) | [Curt Reynolds](https://open.spotify.com/artist/51PSlMHvG1HCInKyLVHMu1) | [Late Reflections](https://open.spotify.com/album/50payYIEJGNTgFYGzUQ9k4) | 6:03 | 2021-10-29 | 2022-07-26 |
 | [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-04-21 | 2022-09-17 |
 | [Learning To Love](https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [Learning To Love](https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w) | 4:15 | 2023-09-29 |  |
@@ -396,7 +398,7 @@
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 | 2023-09-30 |
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
-| [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 |  |
+| [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 | 2024-01-27 |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-03-11 | 2022-07-19 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 | 2023-09-02 |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 | 2023-09-30 |

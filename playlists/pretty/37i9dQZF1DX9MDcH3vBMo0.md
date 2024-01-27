@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,383 likes - 250 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,564 likes - 250 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 |
 | 250 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 |
 
-Snapshot ID: `MCxiNmQ1MjY0OGIxZGQyYjE4YjI0Y2VhM2MwOTNmM2QzYTNjMGUyMjI1`
+Snapshot ID: `MCwxZjk0YTVkNzA2NTNkNTNjNmQxMDg3OGI1OTczNjFkZjAzYjMzMTg0`

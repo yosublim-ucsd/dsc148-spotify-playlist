@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Killers
 
-320 songs - 19 hr 34 min
+321 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-14 | 2022-10-01 |
 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 | 2023-11-03 |  |
 | [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-05-19 | 2023-11-05 |
-| [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 | 2022-09-02 |  |
+| [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 | 2022-09-02 | 2024-01-27 |
 | [Bitterness](https://open.spotify.com/track/570zBdab8qenUWMccosa9R) | [Mandragora](https://open.spotify.com/artist/2AJTjZn2L77z1FSxBasjhM) | [Nocturnal Rites](https://open.spotify.com/album/6v9DaYjPOaUgzIZtZtQ42q) | 7:16 | 2022-05-27 | 2022-10-15 |
 | [Black Lungs](https://open.spotify.com/track/1nIw3ohgilArczHubneGxD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Black Lungs](https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE) | 3:51 | 2022-01-14 | 2022-06-04 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-24 | 2023-07-15 |
@@ -175,6 +175,7 @@
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 | 2022-09-03 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-01-21 |
 | [Maquiagem](https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde) | [Ani Belle](https://open.spotify.com/artist/0YyO7b5QpE2BfJxHlM6K2b), [André Perucci](https://open.spotify.com/artist/1Oa1N664mb9Hh4BFWvn4yk) | [Maquiagem](https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1) | 3:04 | 2022-09-30 | 2022-12-21 |
+| [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-26 |  |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-20 |  |
 | [Meteor](https://open.spotify.com/track/2yAI6FssGr5WfoqU7NSmPg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Meteor](https://open.spotify.com/album/3xFCNfwrZNxQKajEMBY6lB) | 4:01 | 2022-01-14 | 2022-04-09 |
 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 | 2022-10-28 | 2022-11-12 |

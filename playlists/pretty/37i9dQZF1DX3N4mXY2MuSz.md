@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,630 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,601 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 100 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
 
-Snapshot ID: `MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm`
+Snapshot ID: `MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm`

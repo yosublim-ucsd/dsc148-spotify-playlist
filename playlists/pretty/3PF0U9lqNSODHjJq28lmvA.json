@@ -1,244 +1,336 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2293,
+  "num_followers": 2295,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "OTAyLDlhZGJlMzIwYjUzMzA0OTg5OTU4YzMwNjZkYjRjMjI3NGIyZTIyODA=",
+  "snapshot_id": "OTA0LDQ1N2IyMjU4Y2QzN2NiMjQyMmE1ZTQzODQ2NzU5MDM2OWJjZjdkOWI=",
   "tracks": [
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/2bhswniYbpc6rjFJpApxoL"
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/55tonWGSVrcEIhle0kvtid"
       },
       "artists": [
         {
-          "name": "Sunny Suljic",
-          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+          "name": "Tic-Tekk-Toe",
+          "url": "https://open.spotify.com/artist/2kBvdGNQhnqtUfdeoEgtgu"
         }
       ],
-      "duration_ms": 149565,
-      "name": "BORN AGAIN",
-      "url": "https://open.spotify.com/track/2fIlZvbVnLBP5Q5nm4d1IN"
+      "duration_ms": 81362,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/3mlzShCb7bqUGbMSb8oeMh"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Dance With The Wolves",
-        "url": "https://open.spotify.com/album/3zmdroM6MdvPlduWAZbaTe"
+        "name": "\u00c4lskling, l\u00e4gg ner stiletten",
+        "url": "https://open.spotify.com/album/1J8uJDWHwuMHBVZtgZLiBB"
       },
       "artists": [
         {
-          "name": "La Vie Sauvage",
-          "url": "https://open.spotify.com/artist/1wyPu1vMvfUQ0ObNKkQRxe"
+          "name": "Billy Opel",
+          "url": "https://open.spotify.com/artist/7ITgs267FaG3NP0LzexUuV"
+        }
+      ],
+      "duration_ms": 115870,
+      "name": "\u00c4lskling, l\u00e4gg ner stiletten",
+      "url": "https://open.spotify.com/track/4EZJ48oaZgSnZbS6gHgd1g"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Chai Tea",
+        "url": "https://open.spotify.com/album/6lWQHUtgUA0s9zDYnNhZ02"
+      },
+      "artists": [
+        {
+          "name": "Guru Griff",
+          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+        }
+      ],
+      "duration_ms": 103575,
+      "name": "Chai Tea",
+      "url": "https://open.spotify.com/track/71Qnz6JqmCD15dWV9GeMWr"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Eeuwig Voor Een Tijdje",
+        "url": "https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Beter zo!",
+      "url": "https://open.spotify.com/track/2ATv1vrlmJ2O8sbLxfON5k"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "BRIMSTONE",
+        "url": "https://open.spotify.com/album/3lF9eQiVU3EMO4JQToRGDS"
+      },
+      "artists": [
+        {
+          "name": "STANE",
+          "url": "https://open.spotify.com/artist/60BUICT4KYD7FprHaEAmd5"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "BRIMSTONE",
+      "url": "https://open.spotify.com/track/4C2opt8LEX94XrqMRMU3xJ"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Half the Glass",
+        "url": "https://open.spotify.com/album/3VK3YQqGTt50h9bqgYh2hJ"
+      },
+      "artists": [
+        {
+          "name": "Slim Loris",
+          "url": "https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Half the Glass",
+      "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Sunshining Day",
+        "url": "https://open.spotify.com/album/4jd1T9H9QKN3iSbKEZrROa"
+      },
+      "artists": [
+        {
+          "name": "Paul Allen",
+          "url": "https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Sunshining Day",
+      "url": "https://open.spotify.com/track/7v0Vm6UiCpb3PHUa3HuNDo"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Prey Day",
+        "url": "https://open.spotify.com/album/4izd19tWyTTN8wOFcjff9L"
+      },
+      "artists": [
+        {
+          "name": "Dark Sven",
+          "url": "https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "A Homecoming",
+      "url": "https://open.spotify.com/track/74kQFNVygSHYWj1EKKMscp"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Ben Driggs - The 2023 Collection",
+        "url": "https://open.spotify.com/album/0AE3lSbFhZBgbA7mwDnexh"
+      },
+      "artists": [
+        {
+          "name": "Scout Smith",
+          "url": "https://open.spotify.com/artist/11tf7UvTqOOhhBbgudqkaS"
+        }
+      ],
+      "duration_ms": 277191,
+      "name": "Give Me Fiction",
+      "url": "https://open.spotify.com/track/40QozXiuU4tIOHxqe0q35D"
+    },
+    {
+      "added_at": "2024-01-26 12:13:44",
+      "album": {
+        "name": "Algo Novo (Club Mix)",
+        "url": "https://open.spotify.com/album/72h74TUHfinWG81Yb2lhUN"
+      },
+      "artists": [
+        {
+          "name": "Electrocristo",
+          "url": "https://open.spotify.com/artist/1oTdzvsxxTUsDcrab2eRbl"
         },
         {
-          "name": "Joy Ami",
-          "url": "https://open.spotify.com/artist/7BCX6kWg4qX5kJ0nEEKDOw"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 187444,
-      "name": "Dance With The Wolves",
-      "url": "https://open.spotify.com/track/2RwdyjBqfKxMUAkjGLQqEM"
+      "duration_ms": 183636,
+      "name": "Algo Novo - Club Mix",
+      "url": "https://open.spotify.com/track/7m2mEQiDNZjJAcqktRSsPT"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "HO\u015eGELDINIZ",
-        "url": "https://open.spotify.com/album/5OWh6yhLhO8nliTwKjKaLA"
+        "name": "All those faces",
+        "url": "https://open.spotify.com/album/43zi8UH1eHbscL8ESQLkCb"
       },
       "artists": [
         {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM"
+          "name": "Pretty Average",
+          "url": "https://open.spotify.com/artist/1eWQlCkIaGH24w8x2yrDN0"
         }
       ],
-      "duration_ms": 165569,
-      "name": "HO\u015eGELDINIZ",
-      "url": "https://open.spotify.com/track/43dEdcg12JzMlf6OrYKkSY"
+      "duration_ms": 171878,
+      "name": "All those faces",
+      "url": "https://open.spotify.com/track/3Zi6UDWsG7kJxmGsaqoGwl"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Motell Scandinavia",
-        "url": "https://open.spotify.com/album/2yk0AIlotsUPuKWmmrjmUz"
+        "name": "Tango Perkele",
+        "url": "https://open.spotify.com/album/0vj4zyvnPO6JjJjPUQUq2s"
       },
       "artists": [
         {
-          "name": "The Empire Strikes",
-          "url": "https://open.spotify.com/artist/33rsq0Zsm7IvjhxaYRM1a4"
+          "name": "Who Stole The Lipstick",
+          "url": "https://open.spotify.com/artist/4BHm9fdynRP04lV7J97s5T"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Motell Scandinavia",
-      "url": "https://open.spotify.com/track/6IOuTiNyOMgeN0mQFbUhUk"
+      "duration_ms": 337857,
+      "name": "Tango Perkele",
+      "url": "https://open.spotify.com/track/19OJ1YM03xQCBFQIStzbz3"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Stillbild",
-        "url": "https://open.spotify.com/album/0lEglmk3eQGYBPt4Ddu9NI"
+        "name": "Your Mother",
+        "url": "https://open.spotify.com/album/2l0Ae32pRRjEy1QymtLiFd"
       },
       "artists": [
         {
-          "name": "Linda Davidsson",
-          "url": "https://open.spotify.com/artist/4BEBedYTYJe7oCWrohgRah"
+          "name": "Drug Store Raid",
+          "url": "https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Stillbild",
-      "url": "https://open.spotify.com/track/0Aql6E7duIaIgPLMiq4mW2"
+      "duration_ms": 311133,
+      "name": "Your Mother",
+      "url": "https://open.spotify.com/track/2WynTeCLAALv1BaWByq4Y1"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Zeit rennt",
-        "url": "https://open.spotify.com/album/7h7hEpIqYZejsPahUyUjGv"
+        "name": "ONE BY ONE",
+        "url": "https://open.spotify.com/album/1Gh7fnSvBCVzjxwFSCObn2"
       },
       "artists": [
         {
-          "name": "Luka Blau",
-          "url": "https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG"
+          "name": "UNRAVELING",
+          "url": "https://open.spotify.com/artist/1NfZ65AJK4KwEMXvFGRmML"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Zeit rennt",
-      "url": "https://open.spotify.com/track/2tsIjeseZegbinlM2WyOew"
+      "duration_ms": 306330,
+      "name": "ONE BY ONE",
+      "url": "https://open.spotify.com/track/4SoKEdypZkzRKIO4Lq8lEn"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "I Used To Rap",
-        "url": "https://open.spotify.com/album/7FY6G0ncIYc8Xz97kqGNiW"
+        "name": "the remnants.",
+        "url": "https://open.spotify.com/album/4VWnbNle4RFUcIUeuk7i53"
       },
       "artists": [
         {
-          "name": "Elekwent",
-          "url": "https://open.spotify.com/artist/0b2l5KxqL8lD0I3LiHUGtC"
-        },
-        {
-          "name": "DJ Gandhi",
-          "url": "https://open.spotify.com/artist/76GYm7x1Coy9rq5y3LpxgQ"
+          "name": "Jillian Steins",
+          "url": "https://open.spotify.com/artist/0lPMZkALKGlhDPp1zMq0Fb"
         }
       ],
-      "duration_ms": 272563,
-      "name": "Slaveship (2006)",
-      "url": "https://open.spotify.com/track/0RR9VblIWtCLPrO64CZD57"
+      "duration_ms": 198264,
+      "name": "Solus",
+      "url": "https://open.spotify.com/track/6Ppo7SnZajiJGb1GqpCTJ1"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/4ZfuRh7A3tU94RGsj74DJR"
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6vDMqEJJxt17UyNCuJduGB"
       },
       "artists": [
         {
-          "name": "MiA MiU",
-          "url": "https://open.spotify.com/artist/6Vn8gccHuLh2r3GuuGUcvl"
+          "name": "TheyWalkAmongUs",
+          "url": "https://open.spotify.com/artist/0N6Buh1gsv523odZ8AqDbU"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/23HrYs9MGnklQcXKA9LALA"
+      "duration_ms": 208000,
+      "name": "Anchors",
+      "url": "https://open.spotify.com/track/4Nu6ejgj8tbzuzEFjEuvJt"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "\u05ea\u05d3\u05dc\u05d9\u05e7\u05d9 \u05e0\u05e8 \u05d0\u05de\u05d0",
-        "url": "https://open.spotify.com/album/2ypC5VKxW52RDgs7LorKZ6"
+        "name": "\u6771\u4eac\u306e\u50d5",
+        "url": "https://open.spotify.com/album/0X7hqr0RrEhb9UpmLFxctm"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d3\u05d9\u05d9\u05df",
-          "url": "https://open.spotify.com/artist/0T6hgMZMHZMLKYjBX7rZaT"
+          "name": "\u30d5\u30a9\u30ec\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/6iKUAtcVKSTOoDc96VcSnT"
         }
       ],
-      "duration_ms": 240909,
-      "name": "\u05ea\u05d3\u05dc\u05d9\u05e7\u05d9 \u05e0\u05e8 \u05d0\u05de\u05d0",
-      "url": "https://open.spotify.com/track/1mkSA5R6Hy4JGtOyTn01MB"
+      "duration_ms": 184821,
+      "name": "\u6771\u4eac\u306e\u50d5",
+      "url": "https://open.spotify.com/track/4gWGtOEtaPYFxYrmoin0b8"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "W.I.L.D",
-        "url": "https://open.spotify.com/album/27K8ZWpWytTvqJqN2ZbJSX"
+        "name": "Wherever you roam",
+        "url": "https://open.spotify.com/album/7c1o2mHaCWX9T5D61OHUJV"
       },
       "artists": [
         {
-          "name": "DA EPIC",
-          "url": "https://open.spotify.com/artist/5Mxq5Kh79okcRos0TsI1K3"
+          "name": "Mikael Norman",
+          "url": "https://open.spotify.com/artist/2VRrfnpvTbITVD24SazYll"
         }
       ],
-      "duration_ms": 197386,
-      "name": "W.I.L.D",
-      "url": "https://open.spotify.com/track/7l3nkdKcddVL2yZbjMuq6I"
+      "duration_ms": 265825,
+      "name": "Wherever you roam",
+      "url": "https://open.spotify.com/track/2fjAAKvkuGnqfULfTSCVTr"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "Inspira\u00e7\u00f5es, No. 2",
-        "url": "https://open.spotify.com/album/5OZYd87IvuKE1NIIvTbJql"
+        "name": "L\u00e5ng v\u00e4g tillbaka hit",
+        "url": "https://open.spotify.com/album/7b7EnapJVehOWn9PuQwJS5"
       },
       "artists": [
         {
-          "name": "July Guerrero",
-          "url": "https://open.spotify.com/artist/1rtUqDPGOmBcplybUf2UIm"
+          "name": "Roger Anurag Svensson",
+          "url": "https://open.spotify.com/artist/2bjq1Kt4DsglpLsXpy7LMh"
         }
       ],
-      "duration_ms": 223162,
-      "name": "Joy Of My Life",
-      "url": "https://open.spotify.com/track/31psKBB7Y9JxmqgfJmfwyJ"
+      "duration_ms": 270610,
+      "name": "L\u00e5ng v\u00e4g tillbaka hit",
+      "url": "https://open.spotify.com/track/2AQ780oZjZs6kHzZ9OuGnj"
     },
     {
-      "added_at": "2024-01-19 12:32:38",
+      "added_at": "2024-01-26 12:13:44",
       "album": {
-        "name": "FUCK. IT.",
-        "url": "https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD"
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/4xDKUfr7GOx1yPuLwkZlib"
       },
       "artists": [
         {
-          "name": "Limandi",
-          "url": "https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS"
+          "name": "EARWRM",
+          "url": "https://open.spotify.com/artist/2hGkAHLOkrXOtro8gflG0k"
         }
       ],
-      "duration_ms": 156673,
-      "name": "One Day I'll Be Proud",
-      "url": "https://open.spotify.com/track/1WAY2iXXwO0RvejIDTCqA3"
-    },
-    {
-      "added_at": "2024-01-19 12:32:38",
-      "album": {
-        "name": "Les Canadiens sont l\u00e0",
-        "url": "https://open.spotify.com/album/2Mj5OGzgJBNMUyHaKBtt8T"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/2vqUUwPhJgFataUVYoulOG"
-        }
-      ],
-      "duration_ms": 307571,
-      "name": "Les Canadiens sont l\u00e0",
-      "url": "https://open.spotify.com/track/2sWzhGwnV7hiVrfnLAY281"
-    },
-    {
-      "added_at": "2024-01-19 12:32:38",
-      "album": {
-        "name": "Strange Faces",
-        "url": "https://open.spotify.com/album/5wMOd6urkYNmXPAxQabzCA"
-      },
-      "artists": [
-        {
-          "name": "Satori Sun",
-          "url": "https://open.spotify.com/artist/2U31KvGjJP17T1YfZ3iM8Z"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "Strange Faces",
-      "url": "https://open.spotify.com/track/4dL5BWJZhaJp3LeqD84k1N"
+      "duration_ms": 196030,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/6hGVJc1FavxwHG5yeZgYdf"
     }
   ],
   "unique_name": "Independent Music Friday",

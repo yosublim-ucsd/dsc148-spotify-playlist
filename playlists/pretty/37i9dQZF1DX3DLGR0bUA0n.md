@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,880 likes - 125 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,950 likes - 125 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 125 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 |
 
-Snapshot ID: `MCw2MTBjYWRkMDk1MDMyZTlmNTlhYTljNjBjZjQyNzhmOTk5NGU5NzJm`
+Snapshot ID: `MCwxZjdjZTg1MzkyZTAzN2QyOWVhNTY4NjY5OTQ1NDlkNzczYWU5NjUx`

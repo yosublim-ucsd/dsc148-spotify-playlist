@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,753 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,830 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Holy](https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X) | 3:00 |
 | 100 | [Joy](https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u) | [William Demps](https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Joy](https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI) | 4:02 |
 
-Snapshot ID: `MCxiNmExY2IzNmY3YzBhNTk5ZDU3NmIxNThhZTAwMDZkYjM0M2Q0YTNh`
+Snapshot ID: `MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy`

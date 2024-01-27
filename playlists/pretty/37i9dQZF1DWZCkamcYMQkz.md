@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,148 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,370 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Happy Song No\. 2](https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was) | [Jan Geijtenbeek](https://open.spotify.com/artist/3JbGZKuEjufoBiGqjRNYSP), [Niek de Bruijn](https://open.spotify.com/artist/6MCOy9B3LZpPWlgngExhuc), [Thomas Pol](https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4) | [Happy Song No.2](https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj) | 3:01 |
 | 100 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 |
 
-Snapshot ID: `MCw2MTliYjg5ZjU3YTRkMTYyYzYyYTlkMGM5MTczMzNjMzFlNzM5NTc1`
+Snapshot ID: `MCw2ZTU0NTllZjg0NzA3MWUyNGE5Yjk0M2JhMWVkN2VjY2UxYzk5YTJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,028 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,056 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 | 100 | [ALL IN \(Prod\. GroovyRoom\)](https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [ALL IN](https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5) | 3:45 |
 
-Snapshot ID: `MCxmMjA5ODg5ZDY5YTlhZjI5ZTU4NDMwMmNmN2NjZDk5MmY0MjdlYWFl`
+Snapshot ID: `MCwyNGFkNjdlNDAwNjc0MGFjZGQwNmUyMTU0ZjRhZDYxMjVjZTI4ZDVi`

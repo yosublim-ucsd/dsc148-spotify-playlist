@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,434 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,473 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [Every One Minute](https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Every One Minute](https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge) | 3:30 |
 | 100 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
 
-Snapshot ID: `MCw3YTMyODg0NDJmOTBiNGFmYzUzNmE4NGMzZTYyZTU5OTliMzk2YTg2`
+Snapshot ID: `MCxjOWY0YWMxZDk1OTdlNmE1OWE3M2RkMWMwNDQwNWRjOGZkYTIzZjM4`

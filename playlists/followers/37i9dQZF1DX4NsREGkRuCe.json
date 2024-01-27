@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 61286,
+  "2024-01-27": 61343,
   "date_first_scraped": "2022-08-06",
   "description": "Turn traffic stops into jam sessions.",
   "name": "Traffic Jams Naija ",
@@ -257,7 +257,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
@@ -624,6 +624,28 @@
     },
     {
       "album": {
+        "name": "APALA DISCO",
+        "url": "https://open.spotify.com/album/1ROJjosRKvnMA5nz06c2jX"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301950,
+      "name": "APALA DISCO",
+      "url": "https://open.spotify.com/track/1SiBHQQkkySXWZfARVr6Pz"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -773,7 +795,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -1254,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "album": {
         "name": "Bezos",
         "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
@@ -1583,7 +1623,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
@@ -3312,6 +3352,28 @@
     },
     {
       "album": {
+        "name": "Before the Sun Comes Down",
+        "url": "https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I"
+      },
+      "artists": [
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160564,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj"
+    },
+    {
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -3710,6 +3772,32 @@
     },
     {
       "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/6D1tIUdXKiK1IcQgK8HhBJ"
+      },
+      "artists": [
+        {
+          "name": "Greatness Republik",
+          "url": "https://open.spotify.com/artist/4PAIL8FoTRybuwXYBFqb0G"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/0CYRz5xyGFopF14SnrrINF"
+    },
+    {
+      "album": {
         "name": "Get My Money Right",
         "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
       },
@@ -3995,7 +4083,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
@@ -4251,7 +4339,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
@@ -4341,7 +4429,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 142894,
       "name": "How I Live",
       "url": "https://open.spotify.com/track/7Gp7DB686APBQkXBt5RgAn"
@@ -5219,7 +5307,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 168549,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/7qGQ2W9yhmJNxe7ZxNHfdQ"
@@ -5467,7 +5555,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
@@ -5823,7 +5911,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 203889,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
@@ -5935,7 +6023,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 331332,
       "name": "Margaret",
       "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
@@ -6510,6 +6598,28 @@
     },
     {
       "album": {
+        "name": "The Chorus Leader",
+        "url": "https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179892,
+      "name": "Na So E Be",
+      "url": "https://open.spotify.com/track/683L171GQXtmrAVIobSftl"
+    },
+    {
+      "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
       },
@@ -6873,7 +6983,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
@@ -7893,7 +8003,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
@@ -8213,7 +8323,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -9353,7 +9463,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
@@ -9415,6 +9525,28 @@
       "duration_ms": 183529,
       "name": "Start Me Up",
       "url": "https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6PXtNQ1E6DwCHDOqUXIDTp"
+      },
+      "artists": [
+        {
+          "name": "Wondah",
+          "url": "https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186903,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1k0n7ivZxSYQatf6BECpP8"
     },
     {
       "album": {
@@ -9635,7 +9767,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
@@ -10015,7 +10147,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
@@ -10160,6 +10292,32 @@
     },
     {
       "album": {
+        "name": "Undress You (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "K.J Spio",
+          "url": "https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Undress You (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "album": {
         "name": "Uptown Girl",
         "url": "https://open.spotify.com/album/6Z7llQEJK2H6PRxK5gOIYs"
       },
@@ -10273,6 +10431,28 @@
       "duration_ms": 186206,
       "name": "Wale",
       "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
+    },
+    {
+      "album": {
+        "name": "Wale (Remix) [feat. Simi]",
+        "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188135,
+      "name": "Wale (Remix) [feat. Simi]",
+      "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
     },
     {
       "album": {

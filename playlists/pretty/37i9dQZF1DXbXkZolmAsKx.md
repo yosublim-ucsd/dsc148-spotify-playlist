@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,376 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,393 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Search Party](https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 1:46 |
 | 100 | [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 |
 
-Snapshot ID: `MCw3NTIzZjU5OWQ3Y2FkMTk2NmUyZmZkZTcwNGJiOGMxZjQ2ODY1ODhj`
+Snapshot ID: `MCxiNzMzZTcxMjVkNTZkZWI1ODczYTYxNDY1NDI2ZGMxMDUzNDFiOGM0`

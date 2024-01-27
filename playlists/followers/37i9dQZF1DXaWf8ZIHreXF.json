@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 179231,
+  "2024-01-27": 179310,
   "date_first_scraped": "2022-12-29",
   "description": "The biggest dance floor bangers of the 2010s. ",
   "name": "Dance Hits 2010s",
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 197933,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
       "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
@@ -2613,6 +2613,24 @@
       "duration_ms": 201040,
       "name": "Who's That Chick? (feat. Rihanna)",
       "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Mine",
+        "url": "https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU"
+      },
+      "artists": [
+        {
+          "name": "Philip George",
+          "url": "https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Wish You Were Mine - Radio Edit",
+      "url": "https://open.spotify.com/track/412luShbmlgqqgYFStIB1s"
     },
     {
       "album": {

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Hellfenlic",
+        "url": "https://open.spotify.com/album/1i4JZRIz4EOsaaBKuFpNTf"
+      },
+      "artists": [
+        {
+          "name": "The Infernal Sea",
+          "url": "https://open.spotify.com/artist/2PRHHXzKIZIBrkXi2q4Pfu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224645,
+      "name": "Black Witchery",
+      "url": "https://open.spotify.com/track/7gnNzzJFEjzKY1H4u75XEq"
+    },
+    {
+      "album": {
         "name": "Blackest Sabbath 1997",
         "url": "https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m"
       },
@@ -2959,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/2zKSqcZ0cLVu5wPe2fTPxE"
+      },
+      "artists": [
+        {
+          "name": "Olhava",
+          "url": "https://open.spotify.com/artist/4lpvlgUCumwxmQD37sbIZt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 852026,
+      "name": "Eternal Fire",
+      "url": "https://open.spotify.com/track/0ZZ91wGG1N0M2virewcFYR"
+    },
+    {
+      "album": {
         "name": "Ethnogenese",
         "url": "https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO"
       },
@@ -4616,7 +4652,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 292547,
       "name": "Ignem Purificat Lilitu",
       "url": "https://open.spotify.com/track/2PgdCBf1HMYihOQY0yDFNZ"
@@ -6992,7 +7028,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 292640,
       "name": "Psalm VIII - Hester Panim",
       "url": "https://open.spotify.com/track/5aVRzBC0MMIiZebaxIIkTr"

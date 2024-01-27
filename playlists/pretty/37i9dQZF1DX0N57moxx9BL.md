@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,697 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,735 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 99 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 | 100 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 |
 
-Snapshot ID: `MCwyZWM3NjBiYmFmMDUxM2EwZDU3ZTAwZDMxMjA1NjFjNzFhOTgxZGJl`
+Snapshot ID: `MCw5NWI2MjU1ZDVhYjcyMTM5ZTNkYTIxZjgxNDRhNTM5OGMxNzVhNGM1`

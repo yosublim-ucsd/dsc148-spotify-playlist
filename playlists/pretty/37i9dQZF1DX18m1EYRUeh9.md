@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,693 likes - 87 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,841 likes - 87 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 66 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 67 | [Thoughtless Feeling](https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk) | [Bloomhaus](https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb) | [Thoughtless Feeling](https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z) | 4:04 |
 | 68 | [Coming Back](https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:21 |
-| 69 | [DIRT!](https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF) | 3:51 |
+| 69 | [DIRT!](https://open.spotify.com/track/7p6HkxWPWMnPmOtSOFqJd3) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/1mPx642vhAamD8YXxJJjkB) | 3:51 |
 | 70 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 2:53 |
 | 71 | [Palmwine Riddim](https://open.spotify.com/track/1GjKddJU8jWhigwtocBith) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Palmwine Riddim](https://open.spotify.com/album/4bZ9chhQU2vfLjEqtA5EPw) | 3:15 |
 | 72 | [I DM U](https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 4:23 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 86 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 87 | [Modern Miracle](https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Pure Grooves Vol\. 1](https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq) | 3:08 |
 
-Snapshot ID: `MCw0ZThjNzYzNWU1MjY0NDJiZDAxMjI2MTAzN2VjOTljNGJmMTBiM2E2`
+Snapshot ID: `MCwwMDNhYTM4NzhhZDY5MWYyOWNhN2ZhZDcxMjJhOGIwZDY0MDgyNDZl`

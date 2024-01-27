@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3EDwVZensg15abkTt5zfTM\">Ricky Dillard</a>",
   "name": "Fresh Gospel",
   "tracks": [
+    {
+      "album": {
+        "name": "828",
+        "url": "https://open.spotify.com/album/03YoXLU2Aw8y5u2xVJVTUE"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326640,
+      "name": "828",
+      "url": "https://open.spotify.com/track/0c2yBZksQI0aW0ARsMO6yS"
+    },
     {
       "album": {
         "name": "Abba",
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 503126,
       "name": "Anyway - Live",
       "url": "https://open.spotify.com/track/3ywRNCMXyD0U9ihiDuifMi"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 348982,
       "name": "Even If",
       "url": "https://open.spotify.com/track/1CdGYditK1Cg4QJrOQ1Zch"
@@ -1622,6 +1640,24 @@
       "duration_ms": 442641,
       "name": "Fill Us Again",
       "url": "https://open.spotify.com/track/7kVkRvD6GzhiE9HyeTyzUx"
+    },
+    {
+      "album": {
+        "name": "Choirmaster II (Live)",
+        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395784,
+      "name": "Fill Us Once Again - Live",
+      "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
     },
     {
       "album": {
@@ -2548,6 +2584,24 @@
       "duration_ms": 302577,
       "name": "He Kept Me - Live",
       "url": "https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch"
+    },
+    {
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "He Sees You",
+      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
       "album": {
@@ -4032,7 +4086,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 410142,
       "name": "Jesus Jesus Jesus - Live",
       "url": "https://open.spotify.com/track/6OOqZLZzCkbXfkXrJgR7pV"
@@ -4576,7 +4630,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 516000,
       "name": "Lord I Love You - Live",
       "url": "https://open.spotify.com/track/4IyHTTasZEExnoGJ1eUtnA"
@@ -5468,6 +5522,24 @@
       "duration_ms": 290000,
       "name": "No Weapon - Live",
       "url": "https://open.spotify.com/track/4hASz5Bp3VYs2D1j91Lz7R"
+    },
+    {
+      "album": {
+        "name": "No Weapon (Live)",
+        "url": "https://open.spotify.com/album/0jlEDqKqZ57QoxX9JsV4qN"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "No Weapon - Radio Edit",
+      "url": "https://open.spotify.com/track/1BpdiLpLSoszquPuwrL2gq"
     },
     {
       "album": {
@@ -7621,6 +7693,28 @@
     },
     {
       "album": {
+        "name": "To Worship You",
+        "url": "https://open.spotify.com/album/0o6AotJQgkgCk1QDS7pKpX"
+      },
+      "artists": [
+        {
+          "name": "Angela Moss Poole",
+          "url": "https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox"
+        },
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252879,
+      "name": "To Worship You",
+      "url": "https://open.spotify.com/track/7lYb03C6Fvli51HYEGGHFJ"
+    },
+    {
+      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
       },
@@ -8160,7 +8254,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178201,
       "name": "We Can't Forget Him",
       "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
@@ -8416,7 +8510,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 360486,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"

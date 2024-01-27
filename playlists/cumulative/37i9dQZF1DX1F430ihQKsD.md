@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Jane Penny
+> Montréal’s music scene, front and centre\. Cover: Jane Penny
 
-417 songs - 1 day 0 hr 7 min
+418 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Côte à côte](https://open.spotify.com/track/0HOam65TS747Pobhfj8qai) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Côte à côte](https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v) | 2:46 | 2022-03-25 | 2022-09-17 |
 | [Danced Into My Life](https://open.spotify.com/track/1TytpiMHN6cvEk6NT8WMqE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/7m3bfhtjrx4YfHpO2Ph5tZ) | 2:46 | 2022-03-25 | 2022-07-09 |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-25 | 2022-04-29 |
-| [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 |  |
+| [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 | 2024-01-27 |
 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 | 2023-03-31 | 2023-05-13 |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 | 2022-07-09 |
 | [De la perspective d'un vieil homme \- P'tit Belliveau Remix](https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Perspectives](https://open.spotify.com/album/12AkIdAo8bCIpjFHLEKSPb) | 3:36 | 2022-03-25 | 2022-05-20 |
@@ -182,6 +182,7 @@
 | [Isolated](https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 1:36 | 2022-08-26 | 2023-04-15 |
 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 |  |
 | [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 | 2022-06-17 | 2023-01-06 |
+| [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-01-26 |  |
 | [Jamais t'oublier](https://open.spotify.com/track/5HFSJasw0zgSnpOMb51HNG) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Jamais t'oublier](https://open.spotify.com/album/46SrVUO6R7ET0Y0H7IQQVr) | 4:04 | 2023-04-14 | 2023-08-19 |
 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 | 2022-05-13 | 2023-07-29 |
 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 | 2022-08-26 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,131 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,172 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Beautiful World](https://open.spotify.com/track/4Qti4wrmLntg5BKAvK47uI) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4) | 6:15 |
 | 75 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 
-Snapshot ID: `MCw3MzJhMTIzODkwZDU1OWNmNDZmOTgzZjEzYTEyMDkyMmYwYmMwMjM5`
+Snapshot ID: `MCxmZjc2YmU2NGQwMWJkMWFlMjNjZWM3ZjMxM2E5ZjIyZDQwOWRmOGVh`

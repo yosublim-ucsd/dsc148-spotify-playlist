@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,033 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,172 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 62 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
 | 63 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
 | 64 | [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 |
-| 65 | [Sh\-Boom \(Life Could Be a Dream\)](https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Canadian Crew](https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX) | 2:46 |
-| 66 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
-| 67 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
-| 68 | [See You Later, Alligator](https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:46 |
+| 65 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 66 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
+| 67 | [See You Later, Alligator](https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:46 |
+| 68 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
 | 69 | [Just A Gigolo \- Remastered](https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 4:43 |
 | 70 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 | 71 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCw3MzFkMWEzYjZjM2MxNmE5Y2I5NmVjZWE0NzVhMTMyNDkwZTRhOGI3`
+Snapshot ID: `MCxlYmVhNTM2YzViNzA0YjhhYTQ0OTQ4YjdiZmY4MGNhYjFkZWU0YWE1`

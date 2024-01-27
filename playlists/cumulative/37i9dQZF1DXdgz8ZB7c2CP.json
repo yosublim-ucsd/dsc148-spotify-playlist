@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Elohim",
   "name": "creamy",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214745,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/48WQwHpOBN2718VEfvvKBC"
@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Can't Remember Your Name",
+        "url": "https://open.spotify.com/album/4acktAl1ephbc4wc0ZAo0W"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Can't Remember Your Name",
+      "url": "https://open.spotify.com/track/2P6Eu9dx7ryxq83ZHd1zUE"
+    },
+    {
+      "album": {
         "name": "care about u",
         "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
       },
@@ -1888,6 +1906,24 @@
       "duration_ms": 236800,
       "name": "Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD"
+    },
+    {
+      "album": {
+        "name": "Chromatically",
+        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Chromatically",
+      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
     },
     {
       "album": {
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136000,
       "name": "deep in the water",
       "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
@@ -3088,7 +3124,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 232250,
       "name": "ENERGY (feat. What So Not)",
       "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
@@ -3709,6 +3745,28 @@
     },
     {
       "album": {
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "album": {
         "name": "Feeble Games",
         "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
       },
@@ -3968,7 +4026,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197154,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF"
@@ -5741,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "i'm hurting ! (deja-vu..)",
+        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "i'm hurting ! (deja-vu..)",
+      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -6055,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "It's Our Destiny - IMANU Remix",
+      "url": "https://open.spotify.com/track/1hpGoHU1fJDizORjFQIkJp"
+    },
+    {
+      "album": {
         "name": "It's Our Destiny (Nitepunk Remix)",
         "url": "https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5"
       },
@@ -6352,7 +6446,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216000,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu"
@@ -7543,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Needle On The Record (4am Mix)",
+        "url": "https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Needle On The Record - 4am Mix",
+      "url": "https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc"
+    },
+    {
+      "album": {
         "name": "Never Be Mine",
         "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
       },
@@ -8000,7 +8112,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 123272,
       "name": "ORANGES",
       "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
@@ -8222,6 +8334,24 @@
       "duration_ms": 176000,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
+    },
+    {
+      "album": {
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/4662PxPccOJRPWI3NCmIfe"
     },
     {
       "album": {
@@ -10349,6 +10479,28 @@
     },
     {
       "album": {
+        "name": "Midnight Highlight",
+        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        },
+        {
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194509,
+      "name": "Somebody (feat. upsidedownhead)",
+      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
+    },
+    {
+      "album": {
         "name": "Somehow We Lost It All",
         "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
       },
@@ -11261,6 +11413,28 @@
     },
     {
       "album": {
+        "name": "The Touch",
+        "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149817,
+      "name": "The Touch",
+      "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
+    },
+    {
+      "album": {
         "name": "Polarities",
         "url": "https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A"
       },
@@ -11366,7 +11540,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222374,
       "name": "THINK I KNOW",
       "url": "https://open.spotify.com/track/6ZAYeaNzg6y3lGzYlodev8"
@@ -11720,7 +11894,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 247500,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"

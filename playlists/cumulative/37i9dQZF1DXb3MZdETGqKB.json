@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: Shanice Green",
+  "description": "All new, all blues. Cover: Gary Clark Jr.",
   "name": "Nu-Blue",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 231653,
       "name": "All She Said",
       "url": "https://open.spotify.com/track/27v0NADTYEZjrB7DoCo6Ur"
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227523,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF"
+    },
+    {
+      "album": {
         "name": "FLorida Man",
         "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181500,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh"
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
@@ -2437,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/3R7gMiAzVSFHnIWChw9wAB"
+      },
+      "artists": [
+        {
+          "name": "Bette Smith",
+          "url": "https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186223,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/6zGItl8BOQZJBSlQkks3nL"
+    },
+    {
+      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ"
       },
@@ -2452,6 +2488,24 @@
       "duration_ms": 146231,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr"
+    },
+    {
+      "album": {
+        "name": "JPEG RAW Sampler",
+        "url": "https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253126,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd"
     },
     {
       "album": {
@@ -3112,7 +3166,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165680,
       "name": "Practice What You Preach",
       "url": "https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA"

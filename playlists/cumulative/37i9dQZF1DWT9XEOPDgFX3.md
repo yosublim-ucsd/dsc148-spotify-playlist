@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-427 songs - 1 day 2 hr 27 min
+428 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Dream](https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/4VqJz0zUGsibswB2Q1OgHj) | 3:13 | 2022-04-29 | 2022-07-16 |
 | [Dreamers change the world](https://open.spotify.com/track/1n9UwCcEyiqNfx7AtJbwBF) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Dreamers change the world](https://open.spotify.com/album/6CLpVWkVbs53ggO5IvdBR7) | 4:47 | 2022-04-13 | 2022-07-29 |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-24 | 2023-04-12 |
-| [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 | 2022-04-29 |  |
+| [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 | 2022-04-29 | 2024-01-27 |
 | [eight hours](https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [eight hours](https://open.spotify.com/album/6J6Dcgg1yNyqE8BjM78lg0) | 2:47 | 2022-04-13 | 2022-06-11 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 | 2023-03-31 |  |
@@ -258,6 +258,7 @@
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-11-13 |
 | [my house is warm](https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [my house is warm](https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp) | 3:35 | 2023-07-28 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-15 |  |
+| [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 | 2024-01-26 |  |
 | [Nature's Way](https://open.spotify.com/track/4r05BDLjV65C9vWTWGspVf) | [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [Excelsior!](https://open.spotify.com/album/73WPvTgw83Mcwy05plFvTs) | 3:26 | 2022-01-21 | 2022-07-27 |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-12 |  |
 | [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 | 2023-05-07 |

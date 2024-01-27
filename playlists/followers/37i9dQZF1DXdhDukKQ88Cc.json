@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 144577,
+  "2024-01-27": 144561,
   "date_first_scraped": "2023-09-26",
   "description": "det st\u00f8rste dk rap lige nu \ud83c\udf1a\n",
   "name": "100 DK",
@@ -2133,6 +2133,24 @@
       "duration_ms": 140526,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz"
+    },
+    {
+      "album": {
+        "name": "winwin",
+        "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "winwin",
+      "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
     },
     {
       "album": {

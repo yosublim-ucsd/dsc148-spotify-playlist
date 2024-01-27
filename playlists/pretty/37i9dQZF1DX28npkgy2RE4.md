@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Lucius
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,990 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,907 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Lady Grey](https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [I Am Not There Anymore](https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR) | 3:17 |
 | 150 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
 
-Snapshot ID: `MCwwMmYxODI5ODdiZDMwZmIzMGZlYzg1NjMxYjVjYWIxODNiNmU0ZTU0`
+Snapshot ID: `MCw1YzE0NjgyYTliZjg1ZTJkMDVjNDUwOWU1ZjRlZTMyMThiY2RiNTAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,242 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,249 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 |
 | 100 | [On the Road Again](https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt) | 2:25 |
 
-Snapshot ID: `MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx`
+Snapshot ID: `MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz`

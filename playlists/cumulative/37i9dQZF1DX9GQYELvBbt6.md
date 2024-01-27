@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-82 songs - 5 hr 25 min
+83 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 | 2024-01-09 |  |
 | [Boys & Girls](https://open.spotify.com/track/71oLJyo4iHE3KunYElSFsG) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [一寸先の貴方へ](https://open.spotify.com/album/4eoXncy1NfRSRfhKyq8p8E) | 3:21 | 2024-01-09 | 2024-01-24 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2023-11-21 |  |
-| [Daikokai](https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Daikokai](https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1) | 4:32 | 2024-01-10 |  |
+| [Daikokai](https://open.spotify.com/track/2621hKGk5mYi4hcxGZvygV) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 4:32 | 2024-01-23 |  |
+| [Daikokai](https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Daikokai](https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1) | 4:32 | 2024-01-10 | 2024-01-27 |
 | [Demo,](https://open.spotify.com/track/7J1qFnDjU5SNRDxpnLlpbD) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Love°C](https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk) | 2:59 | 2023-12-12 |  |
 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 | 2023-11-21 |  |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-21 |  |

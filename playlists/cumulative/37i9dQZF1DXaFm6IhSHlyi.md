@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-262 songs - 16 hr 28 min
+263 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Black](https://open.spotify.com/track/7gXjbG3rJerOKKy7xhGuc7) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 4:31 | 2021-11-19 | 2022-07-29 |
 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 | 2021-11-19 |  |
 | [But it's Destiny](https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T) | 3:51 | 2021-11-19 | 2022-07-29 |
-| [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 | 2022-06-16 |  |
+| [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 | 2022-06-16 |  |
 | [But it's Destiny](https://open.spotify.com/track/7adtedpznNgg9UtDS3VR5Q) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:51 | 2022-10-17 | 2022-11-13 |
 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 | 2022-06-16 |  |
 | [Call It Love](https://open.spotify.com/track/6umBmcMxeC2kRbwCMNgElC) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 4:01 | 2021-11-19 | 2022-07-29 |
@@ -190,7 +190,8 @@
 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 |  |
 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 | 2021-11-19 | 2023-07-09 |
 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 | 2022-06-16 |  |
-| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-19 |  |
+| [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 | 2022-10-17 |  |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-19 | 2024-01-27 |
 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 | 2021-11-19 |  |
 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 | 2022-06-16 |  |
 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 | 2021-11-19 | 2022-07-29 |

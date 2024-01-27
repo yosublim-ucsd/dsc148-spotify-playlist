@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,607 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,662 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 |
 | 80 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 |
 
-Snapshot ID: `MCxmY2RjNTk5YWE5NzNiNTgyNTI0NWI4NzQ4YWNmMTg3NTdiMzJlMjU5`
+Snapshot ID: `MCxhNjdjNjc2ZjNhYzU0NTQyNWU1ZGQ1NDZmNjc0MzI0NTIzNWQwYTEy`

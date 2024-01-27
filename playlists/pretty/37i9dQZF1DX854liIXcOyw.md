@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 
 > The tracks sticking us together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,976 likes - 200 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 200 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 | 199 | [Strawberry Fields Forever \- Remastered 2009](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:07 |
 | 200 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MCwxM2Y5NDM5NTlkZDZjZGUzOTc0NTcyNDc2YmFiYTE2YTJkM2VkZDQ3`
+Snapshot ID: `MCxhZDI0MTc1NTFiMGYyYTQxMDA2NzRhOTdjYWE2YmE0Y2VlZGIwMjUz`

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-629 songs - 1 day 11 hr 34 min
+630 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-10-14 | 2023-02-03 |
 | [I Would Now](https://open.spotify.com/track/2DNIrSPvlpaLT1X9U5uY1k) | [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ), [Max Shrager](https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq) | [I Would Now](https://open.spotify.com/album/1SMrbpg9xEuq68a3RpXJTW) | 2:31 | 2023-09-29 | 2023-10-03 |
 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-07-07 | 2023-12-16 |
+| [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 | 2024-01-26 |  |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-05-01 | 2022-07-29 |
 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 | 2023-05-26 |  |
 | [I'm So Bored](https://open.spotify.com/track/1SAF9h8xdE1YV02Dbgrn2L) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/0NWdGnIgHhsQ4ZwXPe1lUF) | 3:28 | 2021-05-01 | 2022-07-29 |
@@ -309,7 +310,7 @@
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 |  |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
-| [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 |  |
+| [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2024-01-27 |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-07-19 | 2023-06-03 |
 | [King / Ghost In A Song](https://open.spotify.com/track/2XhY4sFDDwSSPFUkHLt6om) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [King / Ghost In A Song](https://open.spotify.com/album/51pxUB1F7wVu1BGWL9vqpk) | 3:19 | 2021-05-01 | 2022-03-02 |
 | [Kno Me](https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Kno Me](https://open.spotify.com/album/5NEHXdCbHCF93ARy2ozAqM) | 3:36 | 2022-04-13 | 2022-07-01 |

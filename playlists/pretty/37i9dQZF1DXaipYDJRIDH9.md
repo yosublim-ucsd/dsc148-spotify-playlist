@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,574 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,436 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 | 99 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
 | 100 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 |
 
-Snapshot ID: `MCw5MTk0NjFlMzM3ZmQ1ZmYxYWQyZTdiNTlhODk4YWRiOGJhM2EyMGU0`
+Snapshot ID: `MCw3ZDZkZDY0MTcxN2RhYzJmMDQ0ZTY5ODc0NGM4Yzg1OWRiMjU4YWY2`

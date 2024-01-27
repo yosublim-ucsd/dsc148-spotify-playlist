@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 156030,
       "name": "Doin Yo Stuff",
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
@@ -6882,7 +6882,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -11385,6 +11385,28 @@
     },
     {
       "album": {
+        "name": "RNS",
+        "url": "https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78"
+      },
+      "artists": [
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138856,
+      "name": "RNS",
+      "url": "https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub"
+    },
+    {
+      "album": {
         "name": "Rocc Climbing (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7"
       },
@@ -13592,6 +13614,24 @@
       "duration_ms": 136994,
       "name": "Thicc",
       "url": "https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM"
+    },
+    {
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,965 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,947 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 
-Snapshot ID: `MCw2ZTcxMDI4NWI4NTFhNTgyYjY1MmRmMGFiYzQwNmI1YjA0ZDQ3NTEx`
+Snapshot ID: `MCwyYzNlYTQwNWYwNGFjZDI3ZDA0NGE4MmYxMTNhYjAwYjE1ZDVmNmFm`

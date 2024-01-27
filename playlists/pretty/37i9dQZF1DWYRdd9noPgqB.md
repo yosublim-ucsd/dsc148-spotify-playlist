@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,770 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,637 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 | 50 | [More Than a Friend](https://open.spotify.com/track/0LZ0gm2rOvGTPnvmHg92aL) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [More Than a Friend](https://open.spotify.com/album/0UGe2LoLG5ecv0CZLy1QLf) | 3:40 |
 
-Snapshot ID: `MCw0NmJjZDQyMTVhZGIyNzZjN2E3Y2VjODFlODkxMjU0ZmUwYTM1MzAx`
+Snapshot ID: `MCw1YjMwNjRmNGI2YzRmY2RjYTY5NTBiZDc1YzJlZDgwNDRkZTE3ZGVk`

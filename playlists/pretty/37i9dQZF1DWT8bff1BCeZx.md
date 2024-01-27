@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,043 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,070 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
 | 50 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
 
-Snapshot ID: `MCwyNWNiY2Q1OGYwMTEwNmUwMDkxMjM4ZTg0NWNlNGJmMGFhYTA1NmE5`
+Snapshot ID: `MCwxN2ZhNDEyODQ2MzZlOWY3MTRkZTQxZGRkMmI5MzYzMjM4NDI2NzU3`

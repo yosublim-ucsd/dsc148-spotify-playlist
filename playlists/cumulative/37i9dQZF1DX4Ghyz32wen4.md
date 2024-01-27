@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. María Becerra, Chencho Corleone y Ovy On The Drums en portada.
 
-142 songs - 7 hr 35 min
+143 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,9 +96,10 @@
 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-21 | 2023-07-29 |
 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 | 2022-04-25 |  |
 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 | 2023-12-15 |  |
+| [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 | 2024-01-26 |  |
 | [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 | 2023-09-09 |
 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 | 2023-12-15 |  |
-| [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
+| [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 | 2024-01-27 |
 | [Notificación](https://open.spotify.com/track/3LYn6oi29ACxuEFCKd0xBN) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1vyegcdMUHlSJrUNDYb07d) | 3:42 | 2022-07-23 | 2022-12-12 |
 | [Notificación](https://open.spotify.com/track/62SKI7ByCAOwSbuUa7B0A5) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/6mZCJgPgr9WytD7jrl56nB) | 3:42 | 2022-04-25 | 2022-08-15 |
 | [Notificación](https://open.spotify.com/track/6qWukaKIiMt1G7TEfVHlzZ) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1LzkBjuMTYNgFLaOmcx3UW) | 3:43 | 2022-07-23 |  |

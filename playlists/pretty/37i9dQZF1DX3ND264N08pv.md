@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,798 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,838 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 |
 | 100 | [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 |
 
-Snapshot ID: `MCwxZGQxNGQ2OGNkYmZjZDQ3MDU2YjJhODA5MjljZjI1ZGNkM2RlOTkz`
+Snapshot ID: `MCwzMDY4ODM1YTBlZWQwNWQ3OTRlMzM4MWYxM2E3OWFmNjc2YjNhOGQ1`

@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Oakman
 
-131 songs - 7 hr 56 min
+132 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 | 2023-09-28 | 2023-11-25 |
 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 | 2023-10-05 | 2023-11-17 |
 | [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 | 2023-10-26 | 2023-12-01 |
+| [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 | 2024-01-26 |  |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2024-01-19 |
 | [Strange Desire II](https://open.spotify.com/track/3SnmkxTuAY2XuRimbloqiG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Strange Desire](https://open.spotify.com/album/3juU6WucGVJ0ccA0XQyoDE) | 3:38 | 2023-09-28 | 2023-11-25 |
 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-09-28 | 2023-11-17 |

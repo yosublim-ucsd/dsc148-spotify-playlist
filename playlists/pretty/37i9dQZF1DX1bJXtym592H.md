@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,382 likes - 150 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,414 likes - 150 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 149 | [Space Shuttle](https://open.spotify.com/track/1T7QuMX3ALsqyrRciKYK0b) | [S M O L K](https://open.spotify.com/artist/6iP8ENSWlZujR7OZcnKEoQ) | [Space Shuttle](https://open.spotify.com/album/6Xe1OAoHzRUj7ezbqsjOA7) | 3:02 |
 | 150 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 |
 
-Snapshot ID: `MCw5NTk5ODA2MWYwNjc3ZGZjZDRjM2Y0MDFmMmI2M2E0NTU5YjYwMzQ4`
+Snapshot ID: `MCwyZmQ3NDZjZDg0MTkyYzEzMTg3MTg3MWE2ZjRjZjBkNmIxMTk5Y2Uy`

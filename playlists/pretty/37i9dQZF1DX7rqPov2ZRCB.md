@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,132 likes - 51 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,105 likes - 51 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Ya No Te Quiero](https://open.spotify.com/track/65BnKBgzomEwHIFeZTI5CT) | [Yiki Lee](https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A) | [Muy Loco](https://open.spotify.com/album/1qJGNCdWQH7U8Wueh2ojCl) | 5:58 |
 | 51 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 
-Snapshot ID: `MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0`
+Snapshot ID: `MCw0YWUxMzE0NWMyYzgyMWQ2OTQ0ZWQ1NDEyNjlkNDNjMjFmMjE3MzU0`

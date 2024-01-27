@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-256 songs - 16 hr 11 min
+257 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2023-05-17 |  |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2022-01-24 |  |
 | [Killing Me Slowly](https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Killing Me Slowly](https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes) | 3:57 | 2021-08-20 |  |
+| [Knife](https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Knife](https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C) | 3:38 | 2024-01-26 |  |
 | [Last Chance to Dance \(Bad Friend\)](https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 | 2022-07-25 |  |
 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 | 2021-08-20 |  |
 | [Legacy](https://open.spotify.com/track/1zTRJMLEQP1fJfmzsLMWDu) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:39 | 2023-07-28 |  |

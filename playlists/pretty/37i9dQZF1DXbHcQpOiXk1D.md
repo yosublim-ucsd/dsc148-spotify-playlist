@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Sophie Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,649 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,722 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 |
 | 75 | [Feel Enough](https://open.spotify.com/track/7dweAZYkDTp5zbkWoLyWyg) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Eerf Evil](https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm), [Maygo](https://open.spotify.com/artist/3zrx3qDKgLVECQTsGUlFWT), [Jed Holland](https://open.spotify.com/artist/3jdKUAwJ3NA8f3UImRTBBl), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Feel Enough](https://open.spotify.com/album/6EJpgiMNyPdJhddeyh0q6I) | 3:19 |
 
-Snapshot ID: `MCxhODg5MDJkNjlhNzc4M2MyN2YyMjQxMWVkYThlMzgxOGQ2MGQ1ZTM0`
+Snapshot ID: `MCxmODM3NzBmNzY2Mjk4OWYwYTU0NDM5OWY1ZDJhMTFmMjliYmQ4YmJl`

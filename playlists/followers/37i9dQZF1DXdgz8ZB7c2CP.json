@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 764984,
+  "2024-01-27": 764863,
   "date_first_scraped": "2021-12-21",
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
   "name": "creamy",
@@ -10027,6 +10027,24 @@
     {
       "album": {
         "name": "Skrt",
+        "url": "https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181998,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
+    },
+    {
+      "album": {
+        "name": "Skrt",
         "url": "https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b"
       },
       "artists": [
@@ -10037,7 +10055,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn"

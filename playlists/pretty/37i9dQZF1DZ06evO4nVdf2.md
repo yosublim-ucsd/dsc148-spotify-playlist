@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,345 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,347 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 15 | [Contracorriente](https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:10 |
 | 16 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
 | 17 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
-| 18 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
-| 19 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 |
+| 18 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 |
+| 19 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
 | 20 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 21 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 22 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 |
 | 50 | [Si nos dejan](https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Un Mundo Raro: Las Canciones de José Alfredo Jiménez](https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx) | 3:41 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBlMWMwYWQ2MGQ4Y2Y3OGEyNTg2MzA2YjVhYjEwODE1ZQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBhODAwODQ1OWIzZjVlNjk2NzUyMDA5ODAxN2E2YmYxMA==`

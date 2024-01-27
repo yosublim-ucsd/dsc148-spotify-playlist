@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,290 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,421 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 50 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv) | 6:07 |
 
-Snapshot ID: `MCxkYTBmOWFlOTRkMjFmNzg1ZGYzY2I3ZWFjNDg3ODgwYzljY2QxMTNi`
+Snapshot ID: `MCwyN2E2ODRhZjAzYWE5MDIyNWI2ZjkyMmNhOTkzMmQxYjM5MGRlOGE3`

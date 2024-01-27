@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,028 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,084 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Bounce](https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:13 |
 | 100 | [Si Me Muero](https://open.spotify.com/track/6iPwLPlliVlCtrhghwZ6es) | [Pepe Quintana](https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Si Me Muero \(feat\. Farruko, Lary Over, Nengo Flow & Darell\)](https://open.spotify.com/album/6pL4zBmPeNUAyCxCJnVR42) | 4:53 |
 
-Snapshot ID: `MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0`
+Snapshot ID: `MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1`

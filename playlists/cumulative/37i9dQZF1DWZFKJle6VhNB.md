@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-171 songs - 9 hr 0 min
+172 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 | 2022-02-10 |  |
 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 | 2022-02-10 |  |
 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 | 2022-02-10 |  |
+| [Bum Bum Tam Tam](https://open.spotify.com/track/6IHR2yfODpHj38M6IbUWAx) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Latin Hits Summer 2019](https://open.spotify.com/album/5hnqWbGERcUiyXeLnMC7hV) | 2:35 | 2022-02-10 |  |
 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 | 2022-02-10 |  |
 | [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 | 2022-02-10 | 2022-11-13 |
 | [Camaro Amarelo](https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN) | [Camaro Amarelo \- Single](https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb) | 3:32 | 2022-02-10 |  |
@@ -90,7 +91,7 @@
 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 | 2022-02-10 |  |
 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 | 2022-02-10 |  |
 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 | 2022-02-10 | 2022-07-29 |
-| [Joga O Bum Bum Tam Tam](https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Joga O Bum Bum Tam Tam](https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP) | 2:35 | 2022-02-10 |  |
+| [Joga O Bum Bum Tam Tam](https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Joga O Bum Bum Tam Tam](https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP) | 2:35 | 2022-02-10 | 2024-01-27 |
 | [Já Tô \- Ao Vivo](https://open.spotify.com/track/2WUGKRzD6gUH8v4w0vD1RL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Segue o Baile \(Ao Vivo\)](https://open.spotify.com/album/77yklg0H5i9srQZE6PFkZ8) | 3:15 | 2022-02-10 | 2022-07-09 |
 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 | 2022-02-10 | 2022-07-29 |
 | [Lepo Lepo](https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Arena Pop 2014](https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS) | 3:17 | 2022-02-10 | 2022-06-05 |

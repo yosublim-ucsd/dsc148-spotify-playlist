@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Betimed",
+        "url": "https://open.spotify.com/album/6G8sFuSYFo8IHDTCFyWRD4"
+      },
+      "artists": [
+        {
+          "name": "Facundo Mohrr",
+          "url": "https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF"
+        },
+        {
+          "name": "Maxi Degrassi",
+          "url": "https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389535,
+      "name": "Betimed",
+      "url": "https://open.spotify.com/track/6FPjedGz6ZfCV1gNGYlh5m"
+    },
+    {
+      "album": {
         "name": "Billie Jean",
         "url": "https://open.spotify.com/album/1f1e0wzFqiB46s1tDIgIVW"
       },
@@ -1972,6 +1994,24 @@
       "duration_ms": 186309,
       "name": "Sand Waves",
       "url": "https://open.spotify.com/track/19cecQlufpLqz369fFxfWv"
+    },
+    {
+      "album": {
+        "name": "Secret Society",
+        "url": "https://open.spotify.com/album/2uGkafaaReIOMZZHyj5nCa"
+      },
+      "artists": [
+        {
+          "name": "Bilevicius",
+          "url": "https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Secret Society",
+      "url": "https://open.spotify.com/track/7H7YhNmZgcpAwxfuIc9mGj"
     },
     {
       "album": {

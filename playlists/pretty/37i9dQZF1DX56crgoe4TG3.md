@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Town Mountain
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,449 likes - 114 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,447 likes - 114 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 113 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 | 114 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 
-Snapshot ID: `MCwyODBiZWE5NDM4OGY0NjQzNzc3ZGVmMDJiODZmYmEwY2U2NTYwOTJi`
+Snapshot ID: `MCwxM2Q2ODY2MDBhMzVjYTc4OTkyYWFkMDQ5YjFlNjBmNTFkMzk5N2U5`

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 107311,
+  "num_followers": 107357,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTBiNjBmMTYzMWQ3ZGRjMWEyMTgwMzAxZmU2YzI1Nzk1NWQzM2Nj",
+  "snapshot_id": "MCw5ZDlmNTAyOTk1ZDUzOTM4NTQxZTRmMDlhOTZiZGZmNzAyODVhYjYy",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -244,7 +244,7 @@
       "added_at": "2024-01-25 15:00:00",
       "album": {
         "name": "Toryanse",
-        "url": "https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57"
+        "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
       },
       "artists": [
         {
@@ -254,7 +254,7 @@
       ],
       "duration_ms": 156556,
       "name": "Toryanse",
-      "url": "https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx"
+      "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Itterasshai",
-        "url": "https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd"
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
       "artists": [
         {
-          "name": "Higuchi Ai",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 235433,
-      "name": "Itterasshai",
-      "url": "https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB"
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -903,22 +903,6 @@
       "duration_ms": 273653,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/1BYdSmyMvQmG7K2CcD2Efm"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Where the Wind Blows",
-      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Mori no chiisana restaurant",
         "url": "https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 191803,
       "name": "\u767d\u8272\u8709\u8763",
       "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
         "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 181479,
       "name": "Moon",
       "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "The Flower of Love",
         "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 266693,
       "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
       "url": "https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 309662,
+      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1563,6 +1547,38 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u732b\u732b\u5410\u5410 - \u732b\u732b -",
+        "url": "https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 202469,
+      "name": "\u732b\u5410\u6975\u697d\u97f3\u982d",
+      "url": "https://open.spotify.com/track/4ZRO75GFwFiOiDAHDz20Sq"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "\u4e0d\u6cd5\u4fb5\u5165",
+      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u83ef\u5962\u306a\u5fc3",
         "url": "https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u732b\u732b\u5410\u5410 - \u732b\u732b -",
-        "url": "https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 202469,
-      "name": "\u732b\u5410\u6975\u697d\u97f3\u982d",
-      "url": "https://open.spotify.com/track/4ZRO75GFwFiOiDAHDz20Sq"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
         "url": "https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u4e0d\u6cd5\u4fb5\u5165",
-        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "\u4e0d\u6cd5\u4fb5\u5165",
-      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
         "url": "https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 222240,
       "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 242792,
+      "name": "ai no hana",
+      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
     }
   ],
   "unique_name": "Women's Voice",

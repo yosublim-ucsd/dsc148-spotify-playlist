@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 42704,
+  "2024-01-27": 42827,
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: HotKid",
+  "description": "From the trenches. Through the streets.\nCover: Candy Bleaks",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -512,6 +512,28 @@
     },
     {
       "album": {
+        "name": "Energetic Wave",
+        "url": "https://open.spotify.com/album/3WVamTpozPiOdAtkywCGJf"
+      },
+      "artists": [
+        {
+          "name": "DJ OP Dot",
+          "url": "https://open.spotify.com/artist/57Om7dRv6u7sAOyMbQbE24"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/2puySLEjl3BYcfWeHUWM9Q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159216,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/43LE737cOmGyMX3IvuEw3V"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
       },
@@ -545,7 +567,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173712,
       "name": "Bolanle",
       "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 138947,
       "name": "FTR",
       "url": "https://open.spotify.com/track/3kApAXZWIZvd6UuDLpgMUA"
@@ -1847,7 +1869,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
@@ -3092,6 +3114,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
+    },
+    {
+      "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
@@ -3775,6 +3819,28 @@
       "duration_ms": 186206,
       "name": "Wale",
       "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
+    },
+    {
+      "album": {
+        "name": "Wale (Remix) [feat. Simi]",
+        "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188135,
+      "name": "Wale (Remix) [feat. Simi]",
+      "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
     },
     {
       "album": {

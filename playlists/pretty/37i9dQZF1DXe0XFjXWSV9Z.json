@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42081,
+  "num_followers": 42084,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTliZTM2YzFhN2EyNDU3MzgwNTRkMDQyZmEyNzIyYjAxNGQzZGY3",
+  "snapshot_id": "MCxjODExYjE3NTJlOWFkMzY4OWViNjkwMjdhNmFlOTJkMTQ2YzQ4MTFk",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
+      "added_at": "2024-01-26 16:12:23",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "duration_ms": 140552,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Black Catbird",
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Mundial....",
-        "url": "https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 220101,
-      "name": "Elsa",
-      "url": "https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT"
-    },
-    {
       "added_at": "2023-10-10 02:11:18",
       "album": {
         "name": "Paganismo (Deluxe)",
@@ -71,6 +71,22 @@
       "duration_ms": 189514,
       "name": "Mambo Del Fierro Viejo",
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Mundial....",
+        "url": "https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Elsa",
+      "url": "https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT"
     },
     {
       "added_at": "2023-04-01 00:36:04",
@@ -93,22 +109,6 @@
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
-    },
-    {
       "added_at": "2023-12-20 04:46:22",
       "album": {
         "name": "Mar Iguana",
@@ -123,6 +123,22 @@
       "duration_ms": 197821,
       "name": "Mar Iguana",
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -145,22 +161,6 @@
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Chicha Nola - Alternative Version",
-      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
-    },
-    {
       "added_at": "2023-10-23 23:52:16",
       "album": {
         "name": "Virgen de Guadalupe",
@@ -175,6 +175,22 @@
       "duration_ms": 222214,
       "name": "Virgen de Guadalupe",
       "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -225,6 +241,22 @@
       "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
     },
     {
+      "added_at": "2023-12-20 03:22:44",
+      "album": {
+        "name": "Tropicales Cl\u00e1sicos Fuentes 12",
+        "url": "https://open.spotify.com/album/2kJKCvXKdWRI48A4n3iTnM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 163044,
+      "name": "Cumbia de E.T. Extraterrestre",
+      "url": "https://open.spotify.com/track/0PfYOl3RWq57a85XB56yw9"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Escape Plan",
@@ -241,20 +273,20 @@
       "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
-      "added_at": "2023-12-20 03:22:44",
+      "added_at": "2024-01-26 16:12:23",
       "album": {
-        "name": "Tropicales Cl\u00e1sicos Fuentes 12",
-        "url": "https://open.spotify.com/album/2kJKCvXKdWRI48A4n3iTnM"
+        "name": "S\u00e1badito de Locura",
+        "url": "https://open.spotify.com/album/5BVZ6ILgDpcIRtrNKMHG3G"
       },
       "artists": [
         {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
         }
       ],
-      "duration_ms": 163044,
-      "name": "Cumbia de E.T. Extraterrestre",
-      "url": "https://open.spotify.com/track/0PfYOl3RWq57a85XB56yw9"
+      "duration_ms": 118881,
+      "name": "S\u00e1badito",
+      "url": "https://open.spotify.com/track/2OiIYDDSKP90B7LBbs9Fdr"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -289,6 +321,22 @@
       "url": "https://open.spotify.com/track/36GzQOUolkwjdrMyHGRNkR"
     },
     {
+      "added_at": "2023-12-12 18:56:56",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
+    },
+    {
       "added_at": "2023-03-23 22:04:18",
       "album": {
         "name": "Tropicoso",
@@ -319,22 +367,6 @@
       "duration_ms": 151365,
       "name": "Lobos al Escape",
       "url": "https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL"
-    },
-    {
-      "added_at": "2023-12-12 18:56:56",
-      "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -391,22 +423,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Sonidos Gold",
         "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 319720,
       "name": "Popcorn Andino",
       "url": "https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -543,6 +575,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -615,22 +663,6 @@
       "duration_ms": 231840,
       "name": "Cumbia Triste",
       "url": "https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -843,6 +875,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Coraz\u00f3n Amaz\u00f3nico",
+        "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Un Traguito de Ayahuasca",
+      "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -897,6 +945,22 @@
       "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
     },
     {
+      "added_at": "2023-03-28 05:33:43",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Strange Salsa",
+      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Batuco",
@@ -915,22 +979,6 @@
       "duration_ms": 192893,
       "name": "Los Chucos Suaves (featuring Macha)",
       "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Coraz\u00f3n Amaz\u00f3nico",
-        "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Un Traguito de Ayahuasca",
-      "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -963,22 +1011,6 @@
       "duration_ms": 200858,
       "name": "Canci\u00f3n del Rey",
       "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
-    },
-    {
-      "added_at": "2023-03-28 05:33:43",
-      "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Strange Salsa",
-      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1605,26 +1637,6 @@
       "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
     },
     {
-      "added_at": "2023-05-25 19:15:17",
-      "album": {
-        "name": "Luna Villera",
-        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 237524,
-      "name": "Luna Villera",
-      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
-    },
-    {
       "added_at": "2022-09-30 03:44:30",
       "album": {
         "name": "Formose\u00f1a",
@@ -1657,36 +1669,24 @@
       "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-05-25 19:15:17",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+        "name": "Luna Villera",
+        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
       "artists": [
         {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
-      },
-      "artists": [
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        },
         {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 257462,
-      "name": "Echo en Mexico",
-      "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
+      "duration_ms": 237524,
+      "name": "Luna Villera",
+      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     }
   ],
   "unique_name": "TROPILOCO",

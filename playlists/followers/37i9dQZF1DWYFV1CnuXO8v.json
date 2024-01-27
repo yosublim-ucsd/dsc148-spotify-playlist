@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 115888,
+  "2024-01-27": 115993,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 171130,
       "name": "Ana Eshtaret",
       "url": "https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184804,
       "name": "Elshamkh El Gowwani",
       "url": "https://open.spotify.com/track/4fZaR5eB12ZEJ8amHPq5Xy"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 204631,
       "name": "Lw Bs",
       "url": "https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173906,
       "name": "Saggan",
       "url": "https://open.spotify.com/track/7yKvi1Ftnda6J3PyqKY139"
@@ -4647,7 +4647,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
       "url": "https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD"

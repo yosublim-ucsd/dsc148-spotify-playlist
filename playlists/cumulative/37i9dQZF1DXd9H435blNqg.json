@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 170769,
       "name": "Deal With the Devil (You'll Get Yours)",
       "url": "https://open.spotify.com/track/5hjvnv9HHS8VRDdmGjWKRK"
@@ -936,6 +936,24 @@
       "duration_ms": 195693,
       "name": "Fix Your Face",
       "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+    },
+    {
+      "album": {
+        "name": "Get By (Good Enough)",
+        "url": "https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203048,
+      "name": "Get By (Good Enough)",
+      "url": "https://open.spotify.com/track/0PwobOQQPY75G5PeuoAdQs"
     },
     {
       "album": {

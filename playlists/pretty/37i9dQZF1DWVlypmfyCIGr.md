@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 群咲
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,091 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,084 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Arcana](https://open.spotify.com/track/3lH0nPbKgDcjtyZFbc1mvO) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Arcana](https://open.spotify.com/album/48RhCNNwURetuSDFHAwj5G) | 4:25 |
 | 80 | [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 |
 
-Snapshot ID: `MCxjMjM1OTM3M2ZkMWUwMjQxYTZiYzQzNDk0Yjc0YjczMjZlYzJlZmIx`
+Snapshot ID: `MCxmYTViYWNjODYxZThmODczNTY3MjM3NTBhMjYzOTY4NjFkMzc1NDBj`

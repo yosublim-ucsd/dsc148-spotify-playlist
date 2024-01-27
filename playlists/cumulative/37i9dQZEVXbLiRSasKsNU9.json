@@ -23567,6 +23567,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -26056,7 +26074,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -31360,6 +31378,24 @@
     {
       "album": {
         "name": "Pi Po Po Po Ro Po",
+        "url": "https://open.spotify.com/album/6RzUIF1xmL28SYZ5326cAc"
+      },
+      "artists": [
+        {
+          "name": "Pedrinha Moraes",
+          "url": "https://open.spotify.com/artist/3asivM2DaHPt3PP2ZohGR3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Pi Po Po Po Ro Po",
+      "url": "https://open.spotify.com/track/3dSDQ8jGCOcviaRynf9jeK"
+    },
+    {
+      "album": {
+        "name": "Pi Po Po Po Ro Po",
         "url": "https://open.spotify.com/album/7xwUt8ebLbKdK9oSzE1mxh"
       },
       "artists": [
@@ -31370,7 +31406,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174680,
       "name": "Pi Po Po Po Ro Po",
       "url": "https://open.spotify.com/track/4e1NqsPJixICKE4xB6nZQq"
@@ -31680,6 +31716,32 @@
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC"
+    },
+    {
+      "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
       "album": {
@@ -41458,7 +41520,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -43566,6 +43628,24 @@
     {
       "album": {
         "name": "Wiseman",
+        "url": "https://open.spotify.com/album/2qGzyFzxN6U0gFn8AQTsYG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Ocean",
+          "url": "https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210928,
+      "name": "Wiseman",
+      "url": "https://open.spotify.com/track/2TzQrHN0poLCQ1khXqtLqS"
+    },
+    {
+      "album": {
+        "name": "Wiseman",
         "url": "https://open.spotify.com/album/5He6HyKSwEtlkSLRExpG7q"
       },
       "artists": [
@@ -43576,7 +43656,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210886,
       "name": "Wiseman",
       "url": "https://open.spotify.com/track/1ceGPonZn9QVb7XrB33Sy1"

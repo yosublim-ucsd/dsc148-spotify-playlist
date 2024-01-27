@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,420 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,445 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Agarra Tu Camino](https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Agarra Tu Camino](https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw) | 3:52 |
 | 100 | [La media vuelta](https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:18 |
 
-Snapshot ID: `MCwzMmM5ZmYxN2NkYjY2NTM4ODQ1MmNiZGQzYjJiZmY0M2Q0ZWNlZDBk`
+Snapshot ID: `MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi`

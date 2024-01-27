@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,984 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,053 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 100 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
 
-Snapshot ID: `MCxiZDk4OTU4MGEzYmEyOWFiN2Q4YWVlMWMzYTAwNWFhMmE2ZTdjNjdk`
+Snapshot ID: `MCxjZTdkMDczNzUwZjk3MTJjMzFhNmRmYjM3ZDE1Y2U5OTdhZDIzNTU1`

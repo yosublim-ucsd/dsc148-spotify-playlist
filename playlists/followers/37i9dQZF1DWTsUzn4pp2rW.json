@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 146444,
+  "2024-01-27": 146499,
   "date_first_scraped": "2022-01-01",
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
   "name": "Jazz Pop",
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 215352,
       "name": "Heaven's King",
       "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
@@ -5459,6 +5459,24 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+    },
+    {
+      "album": {
+        "name": "Wherever You're Going",
+        "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Wherever You're Going",
+      "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Bad Gyal, Anitta
 
-65 songs - 2 hr 54 min
+66 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,10 @@
 | [24/7 6.5](https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:17 | 2023-11-29 |  |
 | [Angels in Tibet](https://open.spotify.com/track/0EXgkL6fM28ywdhyUzeRMD) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/2DQrDuW6WP8KcK8LrOVfEN) | 2:22 | 2023-11-29 |  |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-11-29 |  |
-| [Back for More \(with Anitta\)](https://open.spotify.com/track/1p0kTGMwMtSTcV7fAnkkQc) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:11 | 2023-11-29 |  |
+| [Back for More \(with Anitta\)](https://open.spotify.com/track/1p0kTGMwMtSTcV7fAnkkQc) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:11 | 2023-11-29 | 2024-01-27 |
 | [Baila \(dança\) \[feat\. D\-Lex\]](https://open.spotify.com/track/5vggGH3CE98GF2NoChwka7) | [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [D\-Lex](https://open.spotify.com/artist/5VfxICkBmOXynfEQjSlgUV) | [Baila \(dança\) \[feat\. D\-Lex\]](https://open.spotify.com/album/4h2IbOvQ8bZHPEvHW1lkW6) | 2:24 | 2023-11-29 | 2023-12-16 |
 | [Bendición Pa La Familia](https://open.spotify.com/track/4If7AQK61eYmH7YuUsnJsd) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Bendición Pa La Familia](https://open.spotify.com/album/3ZBKo1x4CQAlB2IfqIlf7k) | 2:35 | 2023-11-29 |  |
+| [Besinho](https://open.spotify.com/track/3Zb8mJ6jndzJyZo3wmxN5l) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Besinho](https://open.spotify.com/album/137FrrdmnOdVAOm013Kg4o) | 2:35 | 2024-01-26 |  |
 | [BONNIE & CLYDE](https://open.spotify.com/track/7k6ntPMcM6VTJ6YJyexIci) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [BONNIE & CLYDE](https://open.spotify.com/album/7tkGoDNDIO4xvoWUo2sSFN) | 2:21 | 2023-11-29 |  |
 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 | 2024-01-12 |  |
 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-11-29 |  |

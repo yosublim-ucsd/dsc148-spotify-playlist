@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,239 likes - 250 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,072 likes - 250 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 |
 | 250 | [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 |
 
-Snapshot ID: `MCwzZGFlOGU1ZTU2MTQzMzg2YjZlOWY0OGMzNzIyN2Y3YmUxMzJiYzc1`
+Snapshot ID: `MCwyMTZlNmE1N2U1Y2ZjM2EyZjMyOTJiZmQ1MjhhOTUwZjM4M2Y4ZmY3`

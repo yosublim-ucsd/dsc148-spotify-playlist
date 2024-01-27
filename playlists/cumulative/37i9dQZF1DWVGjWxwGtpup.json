@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "Perdi\u00f3 Este Culo",
+      "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
+    },
+    {
+      "album": {
         "name": "Piscina",
         "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
       },

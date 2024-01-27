@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-55 songs - 3 hr 11 min
+56 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 | 2023-08-23 |  |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 |  |
 | [おれの最高地点](https://open.spotify.com/track/6cufjZzevc6spKggsuDEJv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [おれの最高地点](https://open.spotify.com/album/3LIV7v8sthlx3K5P13Y8R3) | 3:05 | 2023-08-23 |  |
+| [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 | 2024-01-25 |  |
 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 | 2023-08-23 |  |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 |  |
 | [ウィーキャン!](https://open.spotify.com/track/55M7boCtVf0a3ncSyGvtzG) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx), [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーキャン!](https://open.spotify.com/album/2t1qZT1p1ZrEzCUcBaCbId) | 4:22 | 2023-08-23 |  |

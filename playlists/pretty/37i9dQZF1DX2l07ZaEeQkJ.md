@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 
 > otro año ya se ha ido, cuántas cosas han pasado 😪😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,618 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,677 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 79 | [Frío de Ausencia](https://open.spotify.com/track/4LvVnIfsV2A6pbc8HDgbkc) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Éxitos..](https://open.spotify.com/album/1ukRNJ1deHMIlBkquZ71i4) | 3:53 |
 | 80 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
 
-Snapshot ID: `MCxiNzlmMDM1NzZiYzQxOGUyNTM5M2JmYTkxYWIxZDc3ZTg3NzI5OWM2`
+Snapshot ID: `MCwyMjliZmUxNzM4ODc4MDU2YmUyOTI2ZTVkOWFhMzlmYTFkYjc3MjI5`

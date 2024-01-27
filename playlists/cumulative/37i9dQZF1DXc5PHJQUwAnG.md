@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-225 songs - 10 hr 33 min
+226 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Lick my Pssy](https://open.spotify.com/track/6lL8KpsAiZizaL1VZTVlAw) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [Lick my Pssy](https://open.spotify.com/album/5NlCyELkZ9Zjbm5xWw3gZK) | 1:38 | 2023-06-09 | 2023-12-23 |
 | [Like Viento](https://open.spotify.com/track/3Dc4BR7BJr7uft3FnR0sdO) | [JOP](https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Like Viento](https://open.spotify.com/album/22v7T1TPXaIGI6nCt10VC5) | 3:24 | 2023-06-09 | 2023-07-01 |
 | [Lilith](https://open.spotify.com/track/61ulBJqmUUU39xId334yEs) | [Olivia Ans](https://open.spotify.com/artist/3YAmGJaKxvpujUV487nF2l) | [Lilith](https://open.spotify.com/album/0Uo4PwoXMpVTd9FmteqB0q) | 2:16 | 2023-06-09 | 2023-09-23 |
-| [LUCES Y FLASHES](https://open.spotify.com/track/2RPwEb6p6UEhIvTbN2uOuf) | [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [LUCES Y FLASHES](https://open.spotify.com/album/4bc0s9602uwnaDY5iaa1Dr) | 2:46 | 2023-06-23 |  |
+| [LUCES Y FLASHES](https://open.spotify.com/track/2RPwEb6p6UEhIvTbN2uOuf) | [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [LUCES Y FLASHES](https://open.spotify.com/album/4bc0s9602uwnaDY5iaa1Dr) | 2:46 | 2023-06-23 | 2024-01-27 |
+| [Lujo Exclusivo](https://open.spotify.com/track/7gShEnurZgO2ObzbFgyFWg) | [Abad 33](https://open.spotify.com/artist/5vprSuF3Z3mqqi4ouKTXNn), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [Risky Business](https://open.spotify.com/album/1wdtyKDoImqAKXk7HNXVYr) | 2:08 | 2024-01-26 |  |
 | [Luka Freestyle](https://open.spotify.com/track/6Kn7d88ivbC2HycgCf2JIS) | [ATM FLAVOR](https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [Luka Freestyle](https://open.spotify.com/album/5Q65fIZAYy7lSQCafS5akW) | 2:00 | 2023-07-14 |  |
 | [LV](https://open.spotify.com/track/0zv6SVZ7lrFfNc9zYsHpu7) | [Thompsn](https://open.spotify.com/artist/6g3QiAnU7JKT2L4l3Zam7O), [Lic Dabi](https://open.spotify.com/artist/48Tnk36WXARmEtQLVs0dEu) | [LV](https://open.spotify.com/album/5AimaMwSdcVkzDN5jdjpXj) | 2:19 | 2023-06-09 | 2023-07-28 |
 | [Mami Lo 100to](https://open.spotify.com/track/155rqRZKSNlfV9nT4f4dig) | [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Mami Lo 100to](https://open.spotify.com/album/2eLVVioesszSteeh8kABiO) | 2:48 | 2023-09-29 | 2023-11-11 |

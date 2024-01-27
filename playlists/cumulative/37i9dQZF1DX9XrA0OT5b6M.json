@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "ONE PIECE Original Soundtrack\"GEAR5\"",
+        "url": "https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0"
+      },
+      "artists": [
+        {
+          "name": "\u6d5c\u53e3\u53f2\u90ce",
+          "url": "https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG"
+        },
+        {
+          "name": "Kohei Tanaka",
+          "url": "https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "\u304a\u308c\u306e\u6700\u9ad8\u5730\u70b9",
+      "url": "https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267"
+    },
+    {
+      "album": {
         "name": "16 -sixteen-",
         "url": "https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp"
       },

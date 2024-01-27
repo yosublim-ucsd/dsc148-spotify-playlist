@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1,
+  "2024-01-27": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -8431,6 +8431,24 @@
       "duration_ms": 67209,
       "name": "THE BEACH",
       "url": "https://open.spotify.com/track/0lqAn1YfFVQ3SdoF7tRZO2"
+    },
+    {
+      "album": {
+        "name": "Days Of Future Passed (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348680,
+      "name": "The Day Begins",
+      "url": "https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v"
     },
     {
       "album": {

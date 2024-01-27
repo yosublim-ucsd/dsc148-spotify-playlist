@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 151704,
+  "2024-01-27": 151785,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
   "name": "EQUAL Anime",
@@ -363,6 +363,24 @@
       "duration_ms": 200000,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/5cLEdGMJj860k60T8u31VV"
+    },
+    {
+      "album": {
+        "name": "ALPINA",
+        "url": "https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf"
+      },
+      "artists": [
+        {
+          "name": "Uz:ME",
+          "url": "https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246406,
+      "name": "ALPINA",
+      "url": "https://open.spotify.com/track/2wjOBd1d4arwtLJSHNMxfO"
     },
     {
       "album": {
@@ -859,6 +877,24 @@
       "duration_ms": 274026,
       "name": "Bitter Sweet Harmony",
       "url": "https://open.spotify.com/track/4pY7Ls1vq65efdZfZaNn69"
+    },
+    {
+      "album": {
+        "name": "BLUE BUD",
+        "url": "https://open.spotify.com/album/4PhY3tQSEPEubND9Vun5pG"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u6728\u967d\u83dc",
+          "url": "https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "BLUE BUD",
+      "url": "https://open.spotify.com/track/4tT27irqZ5muAdDoVbMeio"
     },
     {
       "album": {
@@ -3661,7 +3697,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 257093,
       "name": "only my railgun",
       "url": "https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv"
@@ -4223,7 +4259,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 349413,
       "name": "remember",
       "url": "https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG"
@@ -4865,7 +4901,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 244160,
       "name": "SPARK-AGAIN",
       "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
@@ -9311,6 +9347,24 @@
       "duration_ms": 315640,
       "name": "\u5e0c\u671b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4HK21Rjm9buHWIF7yBUMfi"
+    },
+    {
+      "album": {
+        "name": "\u5f37\u304f\u3066\u5f31\u304f\u3066\u611b\u3057\u304f\u3066",
+        "url": "https://open.spotify.com/album/0oW5heg3arTMvuEwI8WZmu"
+      },
+      "artists": [
+        {
+          "name": "\u6771 \u65e5\u4e07\u51db(CV:\u5bae\u672c\u4f91\u82bd)",
+          "url": "https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193093,
+      "name": "\u5f37\u304f\u3066\u5f31\u304f\u3066\u611b\u3057\u304f\u3066",
+      "url": "https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq"
     },
     {
       "album": {

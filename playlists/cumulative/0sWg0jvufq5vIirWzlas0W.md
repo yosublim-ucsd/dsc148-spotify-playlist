@@ -2,7 +2,7 @@
 
 ### [Cottage Life](https://open.spotify.com/playlist/0sWg0jvufq5vIirWzlas0W)
 
-> Over 8 hours of music for hanging out at the cottage\. Includes favorites from The Tragically Hip, The Rolling Stones, Morgan Wallen and more!
+> Over 8 hours of music for hanging out at the cottage\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_CottageLife\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
 126 songs - 8 hr 41 min
 

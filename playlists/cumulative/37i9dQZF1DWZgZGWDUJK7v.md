@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: The Moon during the Day\(낮에 뜨는 달\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: \(No Office Romance!\)사내연애 사절!\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-162 songs - 9 hr 55 min
+163 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Something I want to tell you only.](https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 2](https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6) | 3:32 | 2023-01-26 |  |
 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-05-09 |  |
 | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 | 2022-05-09 | 2023-12-11 |
+| [Starlight](https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D) | [Starlight \(No Office Romance! X JINI\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy) | 2:45 | 2024-01-26 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-09 |  |
 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 | 2023-05-05 |  |
 | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ) | [Kenzi](https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF) | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/album/6gXXtK0DiUHEttuZnWjyc3) | 2:33 | 2022-11-10 | 2023-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,287 likes - 80 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,561 likes - 80 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 |
 | 80 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 |
 
-Snapshot ID: `MCxkNWUwYTI5N2QyNjdkN2Y5ZDE1YmZjMDkzMDZmNGI0M2MyZjIyMGJk`
+Snapshot ID: `MCw0NGFkMTNkYjc0NmI0ZDE5OGI4MzYyZTU3OTE3MWQwYTMwZjZjMjA0`

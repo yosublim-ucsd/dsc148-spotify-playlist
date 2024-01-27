@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb">ONS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,813 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,906 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 | 50 | [Wildman](https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Wildman](https://open.spotify.com/album/7ccUdm2objah0c8b16C9z2) | 2:49 |
 
-Snapshot ID: `MCxjNDAxYjdhOTE0M2ZmOTQ5OGQ0ZTYxNGJhZWRiNDYxM2JlMjg4NjBl`
+Snapshot ID: `MCxjYTRlMThlMTU4NDkwMGIzZTNhMDJjMDNlNTgzMGQ4Yjc1ZDJkYzNl`

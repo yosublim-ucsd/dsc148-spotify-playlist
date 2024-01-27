@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,345 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,067 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Romance Com Safadeza](https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São João 2018](https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH) | 2:52 |
 | 70 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 
-Snapshot ID: `MCw1MTE5ZDhjNjg2ZmUzN2U2YjIxYTliOTUyMjI4ZWYyZTEyMGRlMDdh`
+Snapshot ID: `MCwyODA1M2JjMDg5MzJhMTQ0MTM4MjBmNjhjMGI5ZjdkYmRhYTU4YWZl`

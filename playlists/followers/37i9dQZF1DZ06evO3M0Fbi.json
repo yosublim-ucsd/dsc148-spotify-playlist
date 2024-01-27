@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1341726,
+  "2024-01-27": 1341676,
   "date_first_scraped": "2022-01-12",
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
   "name": "This Is Nirvana",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 255080,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2mvffzYUJ9Ld9xhsF5DUjU"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq"

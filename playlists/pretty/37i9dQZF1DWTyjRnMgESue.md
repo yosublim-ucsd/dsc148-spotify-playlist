@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
-> The best new songs from modern singer\-songwriters\. Cover: NIKI
+> The best new songs from modern singer\-songwriters\. Cover: Michael Marcagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,489 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,550 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
 | 100 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 |
 
-Snapshot ID: `MCw5ZjFhYzc3NWMyYjdkZDRiMGM4Y2ZmNDI4NmExNTZjZDYxZjg0MGY3`
+Snapshot ID: `MCxmYWE3MjYzMzljZDVkOWI0MGY4N2RmMDBjNWM5NjE1YjU0NTg4ZWRj`

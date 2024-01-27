@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Silvestre Dangond",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: La Banda del 5",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 299345,
       "name": "Despu\u00e9s Del Adi\u00f3s",
       "url": "https://open.spotify.com/track/3qvkHyt2EBuycESNoeqr2b"
@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "La Juma",
+        "url": "https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "La Juma",
+      "url": "https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c"
+    },
+    {
+      "album": {
         "name": "Lo Que T\u00fa Quer\u00edas, Un Vallenato",
         "url": "https://open.spotify.com/album/4kgRuOy42GJXD3tpRit3WZ"
       },
@@ -1338,6 +1356,24 @@
       "duration_ms": 262348,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/4uBQV15RHdpSplqLUFwOOl"
+    },
+    {
+      "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/6K4JohP3PjRZOuClEqW5mn"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243259,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/2rPZ8bqFlc6vrK9yqxdzyv"
     },
     {
       "album": {
@@ -1747,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Reina Hermosa",
+        "url": "https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244478,
+      "name": "Reina Hermosa",
+      "url": "https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M"
+    },
+    {
+      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -2032,7 +2090,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222173,
       "name": "Termin\u00f3 Gustando",
       "url": "https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4"
@@ -2144,7 +2202,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 209156,
       "name": "Una Salidita",
       "url": "https://open.spotify.com/track/4gGPjhcTVVQOJWP7tsimQn"

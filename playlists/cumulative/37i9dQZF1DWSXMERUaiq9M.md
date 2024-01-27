@@ -4,7 +4,7 @@
 
 > love peace techno
 
-202 songs - 13 hr 43 min
+203 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-18 | 2023-08-11 |
 | [Alchemy](https://open.spotify.com/track/35x4IqiQaec3QfxnU7wKlX) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Alchemy](https://open.spotify.com/album/6jzc1zZLAC0viqCOMQmvm8) | 2:43 | 2023-06-30 | 2023-07-22 |
 | [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 | 2023-06-05 | 2023-06-29 |
-| [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-08-10 |  |
+| [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-08-10 | 2024-01-27 |
 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 | 2023-03-25 |  |
 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 | 2023-06-09 | 2023-10-06 |
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-03-10 |  |
@@ -168,6 +168,7 @@
 | [Rock Your Life](https://open.spotify.com/track/4P7vWzrD05xyvDzWMlI7TN) | [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z), [penglord](https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4) | [P2P](https://open.spotify.com/album/0V8nN61lBUpwy8zOXZUO4T) | 4:41 | 2023-11-30 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-03-10 |  |
 | [RUFF CUTS](https://open.spotify.com/track/6Edofgc0fFAfSIoAKhOEec) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [RUFF CUTS](https://open.spotify.com/album/2YqTwby1NIaG4ghfJs15JV) | 7:00 | 2023-08-10 | 2023-08-19 |
+| [Run](https://open.spotify.com/track/2yMTcvYrD4aN0Eeyngy9QZ) | [Vizionn](https://open.spotify.com/artist/58CoYe1IrKXe3FW3icZ2nU) | [Run](https://open.spotify.com/album/0lq1r21UUKsQrWVgDVVRTX) | 4:28 | 2024-01-26 |  |
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-06-29 |  |
 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-20 |  |
 | [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |

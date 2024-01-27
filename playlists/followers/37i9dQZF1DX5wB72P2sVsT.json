@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 407036,
+  "2024-01-27": 406737,
   "date_first_scraped": "2023-09-29",
-  "description": "Naeleck au top des bangers dance/electro du moment !",
+  "description": "R3HAB x Pelican au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -21,6 +21,32 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
       "album": {
@@ -477,7 +503,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
@@ -572,6 +598,24 @@
     },
     {
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "album": {
         "name": "Gimme Love (Armin van Buuren Remix)",
         "url": "https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5"
       },
@@ -657,7 +701,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163510,
       "name": "God Is In The Soundwaves",
       "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
@@ -906,6 +950,36 @@
     },
     {
       "album": {
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "album": {
         "name": "Living On Video (feat. DTale) [Festival Mix]",
         "url": "https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84"
       },
@@ -1115,7 +1189,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182307,
       "name": "Miracle (with Ellie Goulding) - David Guetta Remix",
       "url": "https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt"
@@ -1339,7 +1413,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139411,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j"
@@ -2085,6 +2159,28 @@
       "duration_ms": 171200,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/38WY0BqHM16VKxCKB7yHPP"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Matthew Tasa",
+          "url": "https://open.spotify.com/artist/2LdvYjKp6d9hDt7PC5GXju"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142034,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/2syQbCHuObrxQturvirkEy"
     },
     {
       "album": {

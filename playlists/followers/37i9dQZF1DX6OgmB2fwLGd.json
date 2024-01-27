@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1393630,
+  "2024-01-27": 1393595,
   "date_first_scraped": "2021-12-21",
   "description": "The rap soundtrack to the internet. Cover: Barretta",
   "name": "Internet People",
@@ -7263,6 +7263,24 @@
       "duration_ms": 143317,
       "name": "HOME IMPROVEMENT",
       "url": "https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR"
+    },
+    {
+      "album": {
+        "name": "4GOD II (Deluxe)",
+        "url": "https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121416,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/4pcgOnRhCaNBOz5e0xcyWg"
     },
     {
       "album": {
@@ -14912,7 +14930,7 @@
     },
     {
       "album": {
-        "name": "Soak City (Do it)",
+        "name": "soak city (do it)",
         "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
       },
       "artists": [
@@ -14925,7 +14943,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 123547,
-      "name": "Soak City (Do it)",
+      "name": "soak city (do it)",
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
@@ -16819,7 +16837,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 249411,
       "name": "Underrated (feat. MoneySign Suede) - Remix",
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"

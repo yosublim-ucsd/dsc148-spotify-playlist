@@ -4,7 +4,7 @@
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-513 songs - 1 day 16 hr 29 min
+514 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Aasai Athigam](https://open.spotify.com/track/6DIApUsRklp8JlnP4Qwnon) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Marupadiyum](https://open.spotify.com/album/3ikuaGWU5qf6OoOkeZgmjO) | 4:59 | 2021-11-01 | 2022-07-29 |
 | [Aasai Machaan](https://open.spotify.com/track/2S5utQE6my0qj3N5G69pTj) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f) | [Kummi Paattu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jEi1Bws5dSu3I1CICWHhp) | 5:02 | 2021-11-01 |  |
 | [Aasai Nooruvagai](https://open.spotify.com/track/7nt3fQGEDgk3kHwyvqkStF) | [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW) | [Adutha Varisu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7oLFYU0i6358DjLq24ktQk) | 4:30 | 2021-11-01 | 2023-11-27 |
-| [Aasaiye Kaathule](https://open.spotify.com/track/1emHMHsFrLEAJ70yX5sy86) | [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Jhonny](https://open.spotify.com/album/0fl7J3FOTiGBzIirZjVQyJ) | 4:40 | 2021-11-01 |  |
+| [Aasaiye Kaathule](https://open.spotify.com/track/1emHMHsFrLEAJ70yX5sy86) | [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Jhonny](https://open.spotify.com/album/0fl7J3FOTiGBzIirZjVQyJ) | 4:40 | 2021-11-01 | 2024-01-27 |
+| [Aasaiye Kaathule](https://open.spotify.com/track/79k1XaX48Ogptqg9tgi2uU) | [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Jhonny \- Azhage Unnai Aarathikkiren \- Tharayil Vaazhum](https://open.spotify.com/album/0FeJ67aQeaVC3WtQdMOLhn) | 4:40 | 2021-11-01 |  |
 | [Aasaiyilae \(Duet\)](https://open.spotify.com/track/0W14Y8A96QUh45Nf1WolyM) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Enga Ooru Kavalkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oyNn5RvHxZDBD3f5FCwlB) | 4:24 | 2022-03-29 | 2022-07-29 |
 | [Aattakkari Maman Ponnu](https://open.spotify.com/track/687nJ1Lb4OkXooGjfOXGOf) | [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ) | [Thaarai Thappattai \- EP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/781pH4SqCLNfpooOEJPRgL) | 3:06 | 2021-11-01 | 2023-03-21 |
 | [Aattama Therottama](https://open.spotify.com/track/6B8UmdUMhZyyAJKTYibavN) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Captain Prabhakaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yARHhU9QpNkZZ9ujc7DMB) | 5:14 | 2021-11-01 |  |

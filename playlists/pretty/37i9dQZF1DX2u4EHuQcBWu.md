@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,967 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,005 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Polyrics](https://open.spotify.com/track/6XKoyd0TlK3i0aS7CEiGVX) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT) | 5:01 |
 | 100 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 
-Snapshot ID: `MCwyM2UwOWZkOTcxMWVmYjhmYjQxNzA5NTU3NGZkNTg3N2RmODdlZDA2`
+Snapshot ID: `MCwyODllZGRhMzE4ODEzYWM0NzdiYzAxM2FlOGNkMWE2M2E2Y2Q0Mjdm`

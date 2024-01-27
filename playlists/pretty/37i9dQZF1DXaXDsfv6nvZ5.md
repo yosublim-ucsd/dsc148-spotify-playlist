@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,923 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,669 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 |
 | 150 | [Cold \(with Vanilla is Black\)](https://open.spotify.com/track/5HH8U04XcktmmusG7YWsT2) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Vanilla is Black](https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 3:19 |
 
-Snapshot ID: `MCxmMmQ5MDNiOWFlNjhlZjI4NzcwYjMyZTUwODAxZjNiNzI4YmNiM2Fm`
+Snapshot ID: `MCw4ZjFlNzY4YTY3Y2ZjZjk1OTk5Yzg5MDgyOTY2Mjg3MTM2MDBmMTg2`

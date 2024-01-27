@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,150 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,976 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 93 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
 | 94 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 95 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
-| 96 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/6YVpU5vVxezJCYeQUxIkRT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/album/4DQ69vlzv8evjMG7oU9beE) | 3:19 |
+| 96 | [What Lovers Do](https://open.spotify.com/track/1PrNd4qyytqDIlfmQ1r8YL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NOW That's What I Call Music, Vol\. 64](https://open.spotify.com/album/68FGnF6LTrgtYHQDVgPkZL) | 3:15 |
 | 97 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 |
 | 98 | [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 |
 | 99 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 
-Snapshot ID: `MCxkYmY0NTMyZTdjMTE5MzdlNWIwYmNiMzY3NzJkY2M4NmIyY2E2ZTll`
+Snapshot ID: `MCwyNTIwMWIwYmM1NjAyYmRkZjY5MzNlNGQxZWE3ZjhiZDI4ZWQ1NmUy`

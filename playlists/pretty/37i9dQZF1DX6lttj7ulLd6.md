@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,176 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,409 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [last of the leather jackets](https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [last of the leather jackets](https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ) | 4:45 |
 | 100 | [Lost and Found](https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 4:22 |
 
-Snapshot ID: `MCxiNTAwZDQxM2IwN2QzODkzMjJkNzZmNGIwMTBhNzkxOTQ1OTFmOThm`
+Snapshot ID: `MCwyYTA3MjEyYTM4MTkyYmRiNjE1OTk2NDIzMDdkY2E1YjFkODQ1ZTZi`

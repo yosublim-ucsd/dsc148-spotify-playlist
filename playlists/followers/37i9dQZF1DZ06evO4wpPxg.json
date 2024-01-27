@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1522,
+  "2024-01-27": 1522,
   "date_first_scraped": "2022-05-26",
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
   "name": "This Is Rev. Gary Davis",
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Bad Company Brought Me Here",
       "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 171773,
       "name": "Can't Make This Journey By Myself",
       "url": "https://open.spotify.com/track/2lLXz5yaEaLrbN4swx3wYp"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 281293,
       "name": "Cincinnati Flow Rag",
       "url": "https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194168,
       "name": "I Am The True Vine",
       "url": "https://open.spotify.com/track/3PNIswTdTDw3zvCFG7z9ya"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174733,
       "name": "I Belong To The Band",
       "url": "https://open.spotify.com/track/3aGOyp9ty4PnRoQKDh0huq"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 263160,
       "name": "I Decided To Go Down",
       "url": "https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 274866,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180666,
       "name": "I'm Glad I'm In That Number",
       "url": "https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 163439,
       "name": "I'm Gonna Sit Down On The Banks Of The River - Live in Seattle, WA",
       "url": "https://open.spotify.com/track/4B75IlFFYIlx5e3ExuSRYf"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 169691,
       "name": "I'm Throwin' Up My Hands",
       "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
@@ -3275,7 +3275,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 268466,
       "name": "Precious Lord",
       "url": "https://open.spotify.com/track/0vDUNezoAO6g9a5XB4ySdf"
@@ -3311,7 +3311,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -4175,7 +4175,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 431066,
       "name": "The Hunting Dog - Live in Portland, OR",
       "url": "https://open.spotify.com/track/7cJXk3J4cCd4MSoi2DP9Ja"
@@ -4463,7 +4463,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -4517,7 +4517,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -4859,7 +4859,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 253190,
       "name": "Won't You Hush",
       "url": "https://open.spotify.com/track/7AiR54zfWYryeVGmWuzrex"

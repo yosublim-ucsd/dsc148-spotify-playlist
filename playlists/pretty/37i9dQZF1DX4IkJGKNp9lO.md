@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,925 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,928 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 99 | [Egoist](https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Bara skiten avtar](https://open.spotify.com/album/3UKhCM817uDJGnUum7SeoK) | 2:30 |
 | 100 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
 
-Snapshot ID: `MCxkN2YwMzU5N2Q5MWE0MzExNWZjNmM5N2MzYTZhZDBiZjcyMGZiNGZk`
+Snapshot ID: `MCwzMDg0NjdlYzU3ZjRhZmNkNTFhZGI4MTEzMGVmZDE2M2FhY2YyOWMy`

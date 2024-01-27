@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,868 likes - 100 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,881 likes - 100 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 95 | [C Jam Blues \- Live at the Blue Note Club, Chicago; 1994 Remix](https://open.spotify.com/track/1wHGIsLlqW1sPsiVY6zyml) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Live At The Blue Note](https://open.spotify.com/album/2Pi1i1PxmSDcczxHrhzj1p) | 4:52 |
 | 96 | [Open Country](https://open.spotify.com/track/6zczXK3M0DAkbRt7208tyD) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/010vqUMlBInvb6mlI6OXUA) | 5:46 |
 | 97 | [Strollin' \- Live](https://open.spotify.com/track/0kJukmNUjDGh1pfTymS1Fz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [John Horler](https://open.spotify.com/artist/6Ha15AYMJf1Uqs1XW9UZCc), [Jim Richardson](https://open.spotify.com/artist/0QK2QcHnt4N9vdSdzX33om), [Tony Mann](https://open.spotify.com/artist/5qIWMD9r0RT8wanM7Nguty) | [Chet Baker Live in London Volume II](https://open.spotify.com/album/5RLWN5witv7DE0oOhk6yD3) | 10:13 |
-| 98 | [A Night In Tunisia \- Live At The Village Vanguard, New York/1957/Afternoon Take](https://open.spotify.com/track/4wIoYZ3KgaMLkZI9cgQFIp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 7:43 |
+| 98 | [A Night In Tunisia \- Live At The Village Vanguard/1957 \- Afternoon Take](https://open.spotify.com/track/4wIoYZ3KgaMLkZI9cgQFIp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 7:43 |
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxjZDY0ODM3ZWIzZTY1NzEyMTdhZmVlZGUzMTNmOWZlZWM4YTIxMzQw`
+Snapshot ID: `MCxkMmRjZWU5NzExNzk1MjBiMjU4NGYxZWFmNGNhMTk4ZTM2NjhmOGIx`

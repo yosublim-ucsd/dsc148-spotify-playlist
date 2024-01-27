@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 73306,
+  "2024-01-27": 73316,
   "date_first_scraped": "2021-12-21",
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
   "name": "This Is Haydn",
@@ -873,7 +873,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 377640,
       "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
       "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
@@ -1795,6 +1795,60 @@
       "duration_ms": 209613,
       "name": "Mass No. 13 in B-Flat Major, Hob. X XII:13 \"Sch\u00f6pfungsmesse\": Agnus Dei: Agnus Dei",
       "url": "https://open.spotify.com/track/047cz849oDJYhXkkWmFqDh"
+    },
+    {
+      "album": {
+        "name": "Haydn, J.: Masses (Complete) (Trinity Choir, Rebel Baroque Orchestra, Burdick, Glover) (8 Cd Box Set)",
+        "url": "https://open.spotify.com/album/1xhBJxYWVKCMQgqnvf4zfF"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Nacole Palmer",
+          "url": "https://open.spotify.com/artist/1KuSwHYop322UeQutb62tG"
+        },
+        {
+          "name": "Nina Faia",
+          "url": "https://open.spotify.com/artist/08LKpi5ItoGKLkjiQY9tFE"
+        },
+        {
+          "name": "Kirsten Sollek",
+          "url": "https://open.spotify.com/artist/5wgYm38P8ERcYjIXyiVKeI"
+        },
+        {
+          "name": "Daniel Mutlu",
+          "url": "https://open.spotify.com/artist/6Y9Pf8rJRigriR61npEfAD"
+        },
+        {
+          "name": "Matthew Hensrud",
+          "url": "https://open.spotify.com/artist/0Rfophsf7JvrzKysXb47ml"
+        },
+        {
+          "name": "Andrew Nolen",
+          "url": "https://open.spotify.com/artist/3qpY15r240Tx0eVAGKgFsT"
+        },
+        {
+          "name": "Trinity Church Choir, New York",
+          "url": "https://open.spotify.com/artist/0hrQY4jwTrs2mJ4F7lSCHY"
+        },
+        {
+          "name": "Rebel Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2tziKFy9cXe4jtsa6W71bR"
+        },
+        {
+          "name": "Jane Glover",
+          "url": "https://open.spotify.com/artist/3fuItWHb7aWZsu0hWzxPeR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Mass No. 13 in B-Flat Major, Hob. X XII:13 \"Sch\u00f6pfungsmesse\": Agnus Dei: Agnus Dei",
+      "url": "https://open.spotify.com/track/1kGJFjHuZXMdj9w2sRlxHA"
     },
     {
       "album": {

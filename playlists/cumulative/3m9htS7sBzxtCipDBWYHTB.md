@@ -23,7 +23,7 @@
 | [So Much](https://open.spotify.com/track/2FuTwiSsa94w2h5wBTcmzf) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [16 / 04 / 16](https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m) | 2:36 | 2022-09-18 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-06-14 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2023-01-11 |  |
-| [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [Bounce Into The Music](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
+| [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [worm food](https://open.spotify.com/track/4Q3GSw3CR92lKtPFmKQl90) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:57 | 2023-03-05 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

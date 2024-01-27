@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,660 likes - 125 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,727 likes - 125 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 |
 | 125 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 |
 
-Snapshot ID: `MCwxYzRmNGE2MmZiMTdhNWM4MGFmZmNjMjU3ZDkzNzhiODk1OTVjNDk5`
+Snapshot ID: `MCxkOTFmMTVmZmVkYzgxMGRlM2I0MDcwYmRkMjg4NTU0OWI1ZTJiNjBl`

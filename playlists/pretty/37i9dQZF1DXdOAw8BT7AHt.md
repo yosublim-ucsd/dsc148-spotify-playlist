@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,122 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,131 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Nausea](https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nausea](https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3) | 3:21 |
 | 80 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 |
 
-Snapshot ID: `MCwwOTYyNTAxNjg0NWNlMTVkYTAyOGM1ZWQwY2VmMGI0ODY1ZDRiMzJj`
+Snapshot ID: `MCxlNTAyZThlODBiMDVmMjc4YTE5YzJjY2ZiMjJiNWYxNzU1NzhiNWFj`

@@ -4,7 +4,7 @@
 
 > Os batidões mais agitados pra animar sua malhação!
 
-100 songs - 4 hr 46 min
+101 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bate Palma](https://open.spotify.com/track/7offICpl9kla5kC61uUAs9) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bate Palma](https://open.spotify.com/album/4CA7hJkZToupy8crdNKLAO) | 3:05 | 2022-05-06 |  |
 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 | 2022-05-06 |  |
 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 | 2022-05-06 |  |
+| [Bum Bum Tam Tam](https://open.spotify.com/track/6IHR2yfODpHj38M6IbUWAx) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Latin Hits Summer 2019](https://open.spotify.com/album/5hnqWbGERcUiyXeLnMC7hV) | 2:35 | 2022-05-06 |  |
 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 | 2022-05-06 |  |
 | [Call Me Rave](https://open.spotify.com/track/6zpc3Try7qVBnI2FGZCBXt) | [DJ Léo Alves](https://open.spotify.com/artist/755mykV2yGH63szFiyUoK2), [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g) | [Call Me Rave](https://open.spotify.com/album/42C6LGzNwsQXbIcj56lMy7) | 2:17 | 2022-05-06 |  |
 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 | 2022-05-06 |  |
@@ -51,7 +52,7 @@
 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 | 2022-05-06 |  |
 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 | 2022-05-06 |  |
 | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F) | 2:57 | 2022-05-06 |  |
-| [Joga O Bum Bum Tam Tam](https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Joga O Bum Bum Tam Tam](https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP) | 2:35 | 2022-05-06 |  |
+| [Joga O Bum Bum Tam Tam](https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Joga O Bum Bum Tam Tam](https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP) | 2:35 | 2022-05-06 | 2024-01-27 |
 | [Lança o Passinho do Romano, Pt\. 2](https://open.spotify.com/track/1YUV5JsYRenOjFZuOLLYAp) | [MC Dadinho](https://open.spotify.com/artist/6vXL7abhtHJ1ezeOyhWoIO) | [Lança o Passinho do Romano, Pt\. 2](https://open.spotify.com/album/5mbb8tzZZt5otpgvjjqPU4) | 2:51 | 2022-05-06 |  |
 | [Lindona](https://open.spotify.com/track/1wyclICZwhqZYizAdtvzYu) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Nego Blue](https://open.spotify.com/artist/5dpdK20EYUPpUaAk9ERPFg) | [Lindona](https://open.spotify.com/album/5qrFMWpAjDjSzBPhgoXAVy) | 3:52 | 2022-05-06 |  |
 | [Louquinha](https://open.spotify.com/track/1OtflpauZR3Z8wJW2oGyr9) | [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Funk Digital Brasil, Vol\. 1](https://open.spotify.com/album/1z4o1D7IFYEBWG6oaHjpeW) | 3:18 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > that 50s kinda feeling, cover: Laufey
 
-67 songs - 3 hr 41 min
+68 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-08-04 | 2023-10-01 |
 | [I Wonder](https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:37 | 2023-09-15 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-09-08 |  |
-| [It's All You](https://open.spotify.com/track/3kE62aRIdnW6Hd9fvXLgA8) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [It's All You](https://open.spotify.com/album/2UOEEPeGKrKIMzHJDLfVKT) | 1:43 | 2024-01-12 |  |
+| [It's All You](https://open.spotify.com/track/3kE62aRIdnW6Hd9fvXLgA8) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [It's All You](https://open.spotify.com/album/2UOEEPeGKrKIMzHJDLfVKT) | 1:43 | 2024-01-12 | 2024-01-27 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [\(i would have followed you\)](https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I) | 4:49 | 2023-08-04 |  |
+| [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-01-26 |  |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2023-08-04 |  |
 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-08-04 |  |
 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 | 2023-08-04 |  |

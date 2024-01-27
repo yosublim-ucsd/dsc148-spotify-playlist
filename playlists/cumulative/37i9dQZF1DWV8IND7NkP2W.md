@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-706 songs - 1 day 7 hr 40 min
+707 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,8 @@
 | [Morning Glow](https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7), [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe) | [Morning Glow](https://open.spotify.com/album/1Y9ezSLdlZIRPgKnpK4pdD) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [Morning Steps](https://open.spotify.com/track/5z9YljuHcRfG76Pb5Yclb1) | [Lively Rhymes](https://open.spotify.com/artist/5uuJ6BtUscRMOJduZM48pz) | [Morning Steps](https://open.spotify.com/album/75joiSrDFFsnz9tDsXSiDF) | 3:01 | 2022-01-06 | 2022-07-12 |
 | [Morning Walk Inst](https://open.spotify.com/track/59WH3nBd9Y7NpcoIaIT43P) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Morning Walk Inst](https://open.spotify.com/album/1NJShCw5uw960gpKaOC8cm) | 3:13 | 2021-12-23 | 2022-12-16 |
-| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 |  |
+| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 | 2024-01-27 |
+| [Mount Fuji](https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv) | 3:01 | 2024-01-25 |  |
 | [MOVE FORWARD](https://open.spotify.com/track/3PqyQ64sDy2sngYdx9QAOt) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [MOVE FORWARD](https://open.spotify.com/album/1FQ6y1HVUGlFdFJ0JV91iJ) | 4:00 | 2022-01-13 | 2022-07-22 |
 | [Mt\. Kita](https://open.spotify.com/track/1txwaLQknVX822mGk13eEe) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo) | [Mt\. Kita](https://open.spotify.com/album/6LEAAJjaQDPzSxwy6pKHTs) | 2:29 | 2021-12-23 | 2022-08-13 |
 | [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 | 2023-11-17 |

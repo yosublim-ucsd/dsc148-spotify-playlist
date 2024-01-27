@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-264 songs - 16 hr 41 min
+265 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Mornin' Blues](https://open.spotify.com/track/22dz0TTHjShdEitvI5J3xq) | [Chris App](https://open.spotify.com/artist/2frhD5z9g7Cax2GOzT8xHw) | [Mornin' Blues](https://open.spotify.com/album/5TcLub1f3W5l04K1ry9niD) | 4:00 | 2022-08-08 |  |
 | [Muddy Water](https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Muddy Water](https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun) | 4:48 | 2022-03-18 |  |
 | [My Lucky Card](https://open.spotify.com/track/12u0n2WRFPk77ABpMpZf1n) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [My Lucky Card](https://open.spotify.com/album/6DHPzfzyUVucpFf74jHCTr) | 2:33 | 2021-05-14 | 2022-07-29 |
-| [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-05-14 |  |
+| [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-05-14 | 2024-01-27 |
 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 | 2022-02-25 | 2022-08-14 |
 | [No Good](https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM) | [Chase Walker Band](https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB) | [No Good](https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M) | 2:35 | 2023-09-15 |  |
 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 | 2023-08-18 |  |
@@ -233,6 +233,7 @@
 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 | 2022-06-10 |  |
 | [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 | 2020-10-16 | 2023-05-27 |
 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 | 2023-04-30 |
+| [The Way I Am](https://open.spotify.com/track/5JuqvuL2doRB6g4ikjWJsj) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [The Way I Am](https://open.spotify.com/album/0ZhLY8EATUuhuHiieavwOQ) | 3:34 | 2024-01-26 |  |
 | [The Way I Wanna Go](https://open.spotify.com/track/6rJnCbylhS9uUujttwYX4l) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [The Way I Wanna Go](https://open.spotify.com/album/0HgJ551rBgPx9sCY6UAOfK) | 5:48 | 2023-05-05 |  |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2020-10-16 |  |
 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 | 2023-04-29 |

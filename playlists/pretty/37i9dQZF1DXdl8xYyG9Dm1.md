@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,236 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,358 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
 | 70 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 
-Snapshot ID: `MCxlNzE3OTYwMDkyMGZhNzkzNThlMGJlOTEyNDFlMGFkNmY5Njg5Mjc4`
+Snapshot ID: `MCxkZjQxYWNjOTMzODIxMzJiM2EwNTY3OWVmZjZkNzc1NWU2NjJhMTUy`

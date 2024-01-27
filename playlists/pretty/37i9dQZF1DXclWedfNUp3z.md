@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,398 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,442 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 100 | [Yawn Machine](https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:12 |
 
-Snapshot ID: `MCxjOWUwYmZlZGQ4ZTEzMTM2NWNkNzZkZDIxZjUyNDM5YjE0N2Y3YjJj`
+Snapshot ID: `MCw2YWQ5MTYyY2E1ODI1Zjk5MTBkMzBmYmVjZGY2MTFiZmFmMmIxZmZh`

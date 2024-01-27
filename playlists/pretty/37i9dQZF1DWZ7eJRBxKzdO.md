@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,966 likes - 120 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,643 likes - 120 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 |
 | 120 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
 
-Snapshot ID: `MCwwZjM1MTY3YjU0MjQ5YjlkMTBkNWVmYWE0M2EyODY3YTlkODdiZGQ2`
+Snapshot ID: `MCw0ZWYwMGYwMjAxNTVhYWExYjEzNGExYWIzZGNiZDRjOGZhMDA5MTli`

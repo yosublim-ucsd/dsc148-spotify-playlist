@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Sing Again3'\. \(JTBC  '싱어게인3'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,025 likes - 255 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,057 likes - 255 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 219 | [April](https://open.spotify.com/track/2rMtXz9iRE6QgtIpj1zOvY) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 1 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd) | 3:41 |
 | 220 | [Home meal](https://open.spotify.com/track/2MIVHVuOq8oQcQOa0xYWgJ) | [Lee Mujin](https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7) | [Famous Singers, Pt\. 2 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr) | 3:37 |
 | 221 | [An Unfinished Song](https://open.spotify.com/track/58yWhSlvdBSB0rZbUO9KyS) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b), [Lee Mujin](https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7), [이소정](https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68) | [Famous Singers, Pt\. 1 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd) | 4:18 |
-| 222 | [Consolation](https://open.spotify.com/track/6XMSkEHc2YlnllgBh87AUR) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 2 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr) | 4:39 |
+| 222 | [Consolation](https://open.spotify.com/track/6XMSkEHc2YlnllgBh87AUR) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 2 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr) | 4:39 |
 | 223 | [To Me](https://open.spotify.com/track/4dLb4wxlrZfrfyz65mQMdD) | [이소정](https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68) | [Famous Singers, Pt\. 2 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr) | 4:28 |
 | 224 | [I Miss You](https://open.spotify.com/track/35xNwtAmU5TDTrbhNz13RP) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 2 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr) | 4:11 |
 | 225 | [Love, On its Solitude](https://open.spotify.com/track/6T0PxCIpUe3redb4wjsqhF) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 1 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd) | 4:07 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 254 | [Destiny](https://open.spotify.com/track/4SqdhxTHrKS9TjKBBKUsoS) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 10 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2) | 4:17 |
 | 255 | [Dear J](https://open.spotify.com/track/4tA1gAT9JNhCvH0bDZ7kZJ) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 10 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2) | 4:21 |
 
-Snapshot ID: `MCw5Njg5YThhYzI5YjIzMzgyNjZiMGZkM2E3ZjZiM2QyNzIyNzZmNzZi`
+Snapshot ID: `MCwyMWIyZjM4MjU2MDlhNjAwOWExMWNlZDZlYWM2NjVkY2I2ZmNlYzgw`

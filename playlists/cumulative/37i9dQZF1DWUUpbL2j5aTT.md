@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-107 songs - 6 hr 40 min
+109 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bad Intention](https://open.spotify.com/track/145YdK7lQGBkjugrN1oxpj) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8) | [Bad Intention](https://open.spotify.com/album/5IZv5Udw5vuqezSe87X0zG) | 2:50 | 2023-07-21 |  |
 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-07-21 |  |
 | [Berlim \- Extended](https://open.spotify.com/track/3mag46vtAWm1gj3cdqab8g) | [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Berlim \(Extended\)](https://open.spotify.com/album/7lXsBRHRG4WncHsEXVzSI8) | 4:26 | 2023-11-10 |  |
+| [Betty](https://open.spotify.com/track/3kFJ4ysL0JYaCMAimIN8h4) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Betty](https://open.spotify.com/album/4nMJrwnDEK64HL3Bxnvu8V) | 4:11 | 2024-01-26 |  |
 | [Blow](https://open.spotify.com/track/6WKnqc5R9mjCTOlP2LiymZ) | [Almek](https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa), [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0) | [Blow](https://open.spotify.com/album/1zgW0fdUv37ePTTZ0t4LcM) | 2:50 | 2023-07-21 | 2023-10-21 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-21 | 2023-11-06 |
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-11-03 |  |
@@ -40,6 +41,7 @@
 | [Don Billy](https://open.spotify.com/track/2SNo3iAEEBQfv3lWDU5MBg) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Don Billy](https://open.spotify.com/album/1OJSSfAoCY32OAOyr0dupE) | 3:25 | 2023-07-21 |  |
 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 | 2023-07-21 | 2023-11-25 |
 | [Empire feat Laura Rogalli \(Natema Remix\) \- Short Edit](https://open.spotify.com/track/5SCxwXX1FzzdGWTVsLCymt) | [Sugar Hill](https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D), [Laura Rogalli](https://open.spotify.com/artist/5WWDkfZ0qBUfwUEbk0jH8X), [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Empire feat Laura Rogalli \(Natema Remix\)](https://open.spotify.com/album/22JoUxkoof54aeG7bulFZ7) | 4:03 | 2023-07-21 | 2023-11-25 |
+| [Eu Vou Pra Bahia](https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX) | [DOT \(BR\)](https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Eu Vou Pra Bahia](https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl) | 3:15 | 2024-01-26 |  |
 | [Evolver](https://open.spotify.com/track/7AscuVA6LZgIrT0zdU9xMH) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [Evolver EP](https://open.spotify.com/album/5nOETkGz2Phgp3VbLxcjSR) | 6:02 | 2023-07-21 |  |
 | [Feel This Way](https://open.spotify.com/track/1PpGDmgW7rirQir644spGv) | [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f), [Bjarxoo](https://open.spotify.com/artist/01gguaAl3Ft79OTeXM1heN) | [Feel This Way](https://open.spotify.com/album/4oSrTwDImYzAbJ5x6bf6bR) | 2:38 | 2023-07-21 |  |
 | [FELPUDO](https://open.spotify.com/track/0oVxUmbDM7oCi84PICxYWy) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [Brain Deals](https://open.spotify.com/album/08ELLT9R48PUj3CTAyntAe) | 4:32 | 2023-10-06 |  |

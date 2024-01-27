@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,727 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,760 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [XTASIS CARNAL](https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i) | [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI), [Cardopusher](https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr) | [XTASIS CARNAL](https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID) | 3:51 |
 | 100 | [August in Paris](https://open.spotify.com/track/4OxcvLypiDpLkMa9dmB7PH) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3l7VGy4N06jzOd135vnieb) | 8:36 |
 
-Snapshot ID: `MCw1ZDIwYmZjM2YzN2ZhMjM4ZmVhMTk1MDBiNDQxZGQzMWNkNzU0NTEy`
+Snapshot ID: `MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi`

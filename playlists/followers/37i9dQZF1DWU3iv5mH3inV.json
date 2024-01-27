@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 99884,
+  "2024-01-27": 99908,
   "date_first_scraped": "2021-12-28",
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
   "name": "Rep\u00fablica Dembow",
@@ -337,6 +337,24 @@
       "duration_ms": 128634,
       "name": "Amarillo Los Platanos",
       "url": "https://open.spotify.com/track/6Yh7qdwpAzqIy6yQ6YDWVH"
+    },
+    {
+      "album": {
+        "name": "Ando",
+        "url": "https://open.spotify.com/album/3LezoxQgjSbDhTaRxhOcLx"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141125,
+      "name": "Ando",
+      "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
     },
     {
       "album": {
@@ -4803,7 +4821,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191250,
       "name": "Las Gatas (Dembow)",
       "url": "https://open.spotify.com/track/7pPq4psRxZ0uYKcBfl2ivT"
@@ -6912,6 +6930,24 @@
     },
     {
       "album": {
+        "name": "PEINE DE ETE LAO",
+        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155144,
+      "name": "PEINE DE ETE LAO",
+      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
+    },
+    {
+      "album": {
         "name": "Peligroso",
         "url": "https://open.spotify.com/album/2EEmVpRA0Q60viHH3BYBKW"
       },
@@ -8154,6 +8190,28 @@
     },
     {
       "album": {
+        "name": "Sangudeo",
+        "url": "https://open.spotify.com/album/3qXNTWsmPqdlg3LC2ijARg"
+      },
+      "artists": [
+        {
+          "name": "Papi Saoco",
+          "url": "https://open.spotify.com/artist/2piHFJTtsj8PQge6DH1ODb"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146442,
+      "name": "Sangudeo",
+      "url": "https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb"
+    },
+    {
+      "album": {
         "name": "Se No Gaste",
         "url": "https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF"
       },
@@ -9349,7 +9407,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 142000,
       "name": "Tekatekabum",
       "url": "https://open.spotify.com/track/40sIBDKo8zPlpUrsi9kWBq"
@@ -9557,7 +9615,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 137183,
       "name": "Tiradera a Dilon Baby y Masha",
       "url": "https://open.spotify.com/track/40nGThKOpZWPwvcLODgbri"

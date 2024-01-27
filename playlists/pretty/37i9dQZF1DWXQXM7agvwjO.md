@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: adoracion \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,069 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,116 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [r u mine](https://open.spotify.com/track/0LiLk6aYQZOy1uA63pMqQo) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [r u mine](https://open.spotify.com/album/5g8A7xkBtel2aTFgcjNYXN) | 2:08 |
 | 100 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 |
 
-Snapshot ID: `MCw5NTNkMTc5YWRkMGM5ZjI0ZjUyYmI5ZGYyNjNjNWY4ODg2ZThmNmEz`
+Snapshot ID: `MCw1YzIyMTM5MTI4OWJkZDcyMTk1NWM5MGExZjBiMDA4YzQzMDE0ZTM5`

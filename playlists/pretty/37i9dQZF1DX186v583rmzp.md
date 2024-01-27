@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,331,320 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,331,888 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 100 | [The Truth](https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG) | 5:37 |
 
-Snapshot ID: `MCw4OWJmOWY3OWM1ZWVmM2ViNmJjOTgzNGU3NGZhN2I3YWFiYTUzOTM0`
+Snapshot ID: `MCwyMjZmMTcxOGY1M2NlNDQ3MDRjZmEyNjI4ODdlZDU1Njg5YTQzODE4`

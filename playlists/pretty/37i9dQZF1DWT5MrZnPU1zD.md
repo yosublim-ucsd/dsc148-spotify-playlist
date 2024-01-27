@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,618 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,137 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Brand New Blues](https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Brand New Blues](https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9) | 1:54 |
 | 100 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
 
-Snapshot ID: `MCxhMDUzYjUxYzcxNmFlNWI3N2NiMjE3NzIwNjhlMGVmY2UzODNhN2Yy`
+Snapshot ID: `MCxkODIzY2MwMzY2ZmYwYTlmNTg3NzEzNDBhMDY1OWZhOTdiNWRjNTA4`

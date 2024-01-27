@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "What kind of future",
+        "url": "https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL"
+      },
+      "artists": [
+        {
+          "name": "WOOZI",
+          "url": "https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "What kind of future",
+      "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'",
         "url": "https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo"
       },

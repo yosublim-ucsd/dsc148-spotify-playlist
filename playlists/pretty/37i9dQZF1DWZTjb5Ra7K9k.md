@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,487 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,370 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
 | 75 | [Surpresa Maior](https://open.spotify.com/track/6YvLJs2eVQMCxBPHAZF7iy) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Surpresa Maior](https://open.spotify.com/album/1hdxDWKo2bZLutjDLDOySi) | 3:50 |
 
-Snapshot ID: `MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi`
+Snapshot ID: `MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz`

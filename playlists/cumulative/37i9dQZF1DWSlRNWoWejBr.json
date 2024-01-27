@@ -223,6 +223,32 @@
     },
     {
       "album": {
+        "name": "Set Final de Ano",
+        "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210168,
+      "name": "Amor \u00c9 Mentira",
+      "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
+    },
+    {
+      "album": {
         "name": "Funktroit",
         "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
       },
@@ -1221,6 +1247,32 @@
     },
     {
       "album": {
+        "name": "Vamo de Nova",
+        "url": "https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Mc Pelourinho",
+          "url": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
+        },
+        {
+          "name": "DJ Kennedy OBraboo",
+          "url": "https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125592,
+      "name": "Lembra Aquele Cara",
+      "url": "https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc"
+    },
+    {
+      "album": {
         "name": "MAGR\u00c3O SUPREMO",
         "url": "https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi"
       },
@@ -1326,7 +1378,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 118153,
       "name": "Maria Mariah",
       "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
@@ -1438,6 +1490,28 @@
       "duration_ms": 145960,
       "name": "Mega do Akon",
       "url": "https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7"
+    },
+    {
+      "album": {
+        "name": "MEGA FUNK (MARIA MARIAH) [DJ Ryder Remix]",
+        "url": "https://open.spotify.com/album/4tJTClj5yXFgYEC9ZoyEEc"
+      },
+      "artists": [
+        {
+          "name": "DIQUIO",
+          "url": "https://open.spotify.com/artist/4bM9L0VHyz6WgMgOcMyxYz"
+        },
+        {
+          "name": "DJ Ryder",
+          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "MEGA FUNK (MARIA MARIAH) - DJ Ryder Remix",
+      "url": "https://open.spotify.com/track/37Sefc4QQlymwpkn3EuAmI"
     },
     {
       "album": {

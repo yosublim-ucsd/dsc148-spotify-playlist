@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 41770,
+  "2024-01-27": 41869,
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=o2drqVJlQ0SE51IoIHgDyA\"> Vector </a> and <a href=\"https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM?si=l8i33k0OQ-6W_ouiHghr8Q\"> Bella Shmurda</a>",
+  "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "album": {
         "name": "Big 7",
         "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
       },
@@ -1059,6 +1077,32 @@
       "duration_ms": 139459,
       "name": "Boytoy",
       "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
+    },
+    {
+      "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152558,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
     },
     {
       "album": {
@@ -4177,7 +4221,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177576,
       "name": "No Gree For Anybody",
       "url": "https://open.spotify.com/track/3n4RST5zDQxlWEO1RimMVe"
@@ -4703,7 +4747,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
@@ -4791,7 +4835,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 122374,
       "name": "Panic Island",
       "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
@@ -5137,6 +5181,28 @@
       "duration_ms": 169756,
       "name": "prayers",
       "url": "https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
     },
     {
       "album": {

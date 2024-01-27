@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,641 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,697 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 50 | [Los En\-kush\-ados](https://open.spotify.com/track/4XQTmiEKbwgm1cxnlNrWQ1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:18 |
 | 51 | [Tu Ingratitud](https://open.spotify.com/track/5kiFSCCngEKd1YCkelaTz4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:28 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBkNzhjOWUwNGNiNzI0MzA0MjBkMmU0OGIyMWJhYTkyMw==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDAyZTljYjE1ZTYxOWUzZDM1ODVkOTM0NDJmMmZjZGQ5ZQ==`

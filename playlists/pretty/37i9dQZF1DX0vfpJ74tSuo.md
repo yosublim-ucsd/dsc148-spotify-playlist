@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,777 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,802 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [I’ve Got Something](https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo) | [Heather Luckhart](https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu) | [Make It Through](https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC) | 3:39 |
 | 150 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 |
 
-Snapshot ID: `MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi`
+Snapshot ID: `MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi`

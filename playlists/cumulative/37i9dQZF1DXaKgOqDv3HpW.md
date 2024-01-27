@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-230 songs - 11 hr 17 min
+233 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-02-18 | 2022-07-09 |
 | [Elemental Control](https://open.spotify.com/track/6JMQQ8Y7ALaPBJJguEETbX) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Sleep Odyssey](https://open.spotify.com/album/148nvIMcvVwONRTeWfp3R2) | 2:28 | 2022-02-18 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2022-02-18 |  |
+| [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-01-26 |  |
 | [Eryra](https://open.spotify.com/track/2jAm2Z3yoDLSiFjk3OZpY7) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga](https://open.spotify.com/album/4XIwD4dxoxwE8gQBucVTRZ) | 3:52 | 2022-02-18 | 2023-04-07 |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2022-02-18 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2022-02-18 | 2023-09-23 |
@@ -175,6 +176,7 @@
 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 | 2022-02-18 |  |
 | [Ritualer](https://open.spotify.com/track/0WzlQIFD0Qi8QeTbAjshZA) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [Ritualer](https://open.spotify.com/album/4C7par0bpvzdvWlrsRRyd0) | 2:22 | 2022-03-21 |  |
 | [Room For Thoughs](https://open.spotify.com/track/6b9mpDYINPE5wKQuRKuza1) | [Inessa Merton](https://open.spotify.com/artist/3lZy0xoBMpN0My5d0xKcxb) | [Room For Thoughs](https://open.spotify.com/album/3BRR6uX7qSjZiWikMe9Fwh) | 2:50 | 2022-02-18 |  |
+| [Roseate](https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Roseate](https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD) | 2:56 | 2024-01-26 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-21 |  |
 | [Sami Lok](https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe) | [Nama Mantra](https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU) | [Sami Lok](https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC) | 2:44 | 2022-12-09 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 | 2023-06-10 |
@@ -202,6 +204,7 @@
 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2022-02-18 | 2023-04-14 |
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2022-02-18 | 2022-12-31 |
 | [Sphera](https://open.spotify.com/track/5uUoengCI6EGB5dSGJuhWG) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Sphera](https://open.spotify.com/album/6mGJWXzSM9eEQOPitK2a9D) | 3:05 | 2022-11-22 |  |
+| [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-01-26 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2022-02-18 |  |
 | [Stratosphere](https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 | 2022-12-20 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2022-02-18 |  |

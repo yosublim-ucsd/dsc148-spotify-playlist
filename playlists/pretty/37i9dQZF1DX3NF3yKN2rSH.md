@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,363 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,351 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Nothing But the Blood v1.1](https://open.spotify.com/track/4ipBtVQxxQSlx8rYHMXG0V) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC) | 4:26 |
 | 100 | [Oh Holy Lamb](https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
 
-Snapshot ID: `MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4`
+Snapshot ID: `MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl`

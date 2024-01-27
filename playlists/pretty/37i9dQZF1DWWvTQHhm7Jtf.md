@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,787 likes - 70 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,796 likes - 70 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [1/2 SCULPTURE](https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P) | 8:11 |
 | 70 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
 
-Snapshot ID: `MCwyMzU3NzQ2N2RlNjQxZjZhOGM0NWQ1ZDMyMDUxNzQzZTYxMDMwYzM2`
+Snapshot ID: `MCw1YjM2NzQ5ZWJkODUwOTE1ZDAwZmQ3NzRiNGE3OTQ2NWYxOWM2ZWI2`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 52093,
+  "2024-01-27": 52096,
   "date_first_scraped": "2022-10-24",
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
   "name": "\u9759\u5bc2\u3068\u9ec4\u660f",
@@ -2933,7 +2933,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
@@ -5017,7 +5017,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 297253,
       "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
@@ -7580,6 +7580,24 @@
     },
     {
       "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
+    },
+    {
+      "album": {
         "name": "WAVES: Music by Rameau, Ravel, Alkan",
         "url": "https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz"
       },
@@ -8506,6 +8524,24 @@
     },
     {
       "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3"
+    },
+    {
+      "album": {
         "name": "Life in Process",
         "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
@@ -9423,7 +9459,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 267400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
@@ -9543,6 +9579,24 @@
       "duration_ms": 254583,
       "name": "The Rip Tide - BER-ABQ Version",
       "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
+    },
+    {
+      "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
     },
     {
       "album": {

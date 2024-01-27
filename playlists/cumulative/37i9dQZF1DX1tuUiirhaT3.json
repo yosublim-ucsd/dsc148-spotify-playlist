@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Abloom",
+        "url": "https://open.spotify.com/album/1Lg1RbTgB8FijKZPeGU8p7"
+      },
+      "artists": [
+        {
+          "name": "Ishara",
+          "url": "https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Abloom",
+      "url": "https://open.spotify.com/track/44r59nq6u7G8x2hQgYNBT8"
+    },
+    {
+      "album": {
         "name": "Above The Trees",
         "url": "https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX"
       },
@@ -3043,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Nordic Nature",
+        "url": "https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188498,
+      "name": "Nordic Nature",
+      "url": "https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU"
+    },
+    {
+      "album": {
         "name": "Novo",
         "url": "https://open.spotify.com/album/4T9SRXa272N8cLRiUpTMIB"
       },
@@ -3382,6 +3418,24 @@
       "duration_ms": 203389,
       "name": "Phantoms",
       "url": "https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG"
+    },
+    {
+      "album": {
+        "name": "Placid Creek",
+        "url": "https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7"
+      },
+      "artists": [
+        {
+          "name": "Refugium",
+          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179631,
+      "name": "Placid Creek",
+      "url": "https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp"
     },
     {
       "album": {

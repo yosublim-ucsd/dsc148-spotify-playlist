@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,047,328 likes - 200 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,046,441 likes - 200 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [A Little Too Much](https://open.spotify.com/track/1T7AiFL9ruKKwlONN35Vh0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:07 |
 | 200 | [Lost My Mind](https://open.spotify.com/track/3RTvkGAjuLGpvwje8CPwS9) | [FiloChill](https://open.spotify.com/artist/3dwVndIdsi5UVhJjFstRUX) | [Lost My Mind](https://open.spotify.com/album/00v5d1iH5sme9Xazj3ucwe) | 3:22 |
 
-Snapshot ID: `MCwwYTc3ODA0ZTEzZjY2ZDA4OWQ3ZTNhNTJiOWYzMWJiM2QwMWI5NGVl`
+Snapshot ID: `MCxkMDYzMTg3NTRiMWEyMGVmNjk0YzcwOGVkZTUyYWMwOGIwOWMyMWZi`

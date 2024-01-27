@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 46566,
+  "2024-01-27": 46626,
   "date_first_scraped": "2023-10-23",
   "description": "Uma chuva calma e tranquila para te fazer companhia.",
   "name": "Chuva Leve",
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180000,
       "name": "Pastures (Rain)",
       "url": "https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ"
@@ -2865,6 +2865,24 @@
       "duration_ms": 264000,
       "name": "Peaceful Rain in the Garden",
       "url": "https://open.spotify.com/track/76blhL7Z2GRKK2IeEOJKVF"
+    },
+    {
+      "album": {
+        "name": "Pluie sauvage",
+        "url": "https://open.spotify.com/album/79cchmHisOerpyMolzpLZl"
+      },
+      "artists": [
+        {
+          "name": "Tornadoez",
+          "url": "https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Pluie sauvage",
+      "url": "https://open.spotify.com/track/6QQlzmUakn9gQiFl2nR0PJ"
     },
     {
       "album": {

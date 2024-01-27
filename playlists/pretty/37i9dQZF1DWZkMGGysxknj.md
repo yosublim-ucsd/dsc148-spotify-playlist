@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,560 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,441 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 |
 | 150 | [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 |
 
-Snapshot ID: `MCw2MDk0ODk2YjA4ZTE4N2RlYTM3ZjRjNmE4MzQ0NTViZDMyZjgzNWQz`
+Snapshot ID: `MCw1YTBjOThmNTFjNjU2MGNlMGJlNmQ3M2I2Mzg1MjJhZWE3MGNjNDA3`

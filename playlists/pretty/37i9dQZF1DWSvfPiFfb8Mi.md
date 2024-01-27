@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,045 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,097 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 |
 | 100 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 |
 
-Snapshot ID: `MCxjM2MxZGI5ZjlkM2MzNTU5YjhhNjcwYzM4ZTkwNDE0ZTkyMjlmZDI1`
+Snapshot ID: `MCw0MGY4OGJlNmJjOWE2YzE1YmNhZjRiYmY4Y2U3OTY1MzAwMGFlODI2`

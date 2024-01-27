@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: No Te Va Gustar & Zoe Gotusso
 
-264 songs - 14 hr 41 min
+265 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [RAMONA FLOWERS](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAMONA FLOWERS](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 |  |
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 | 2023-02-10 |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2023-04-21 | 2023-07-23 |
+| [RELÁMPAGO](https://open.spotify.com/track/6zZ7FyFFB8EOsDNN5WPtit) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [RELÁMPAGO](https://open.spotify.com/album/5eATJmxbYexsNkvF6W6xYu) | 4:13 | 2024-01-26 |  |
 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 | 2022-12-16 | 2023-01-06 |
 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 | 2023-12-05 |  |
 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 | 2023-07-28 |  |
@@ -238,7 +239,7 @@
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-09-06 | 2023-02-22 |
 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 | 2022-04-15 | 2022-12-10 |
 | [Tiempo](https://open.spotify.com/track/0EX5HqzGqyaIoawKTRosTt) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Laberinto](https://open.spotify.com/album/4RrCQmBMKMagxDvrZ2r2j1) | 4:11 | 2022-04-15 | 2022-12-10 |
-| [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 | 2023-03-20 |  |
+| [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 | 2023-03-20 | 2024-01-27 |
 | [Todo cambió](https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Todo cambió](https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao) | 3:08 | 2023-02-11 | 2023-06-14 |
 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 | 2022-12-16 | 2023-07-08 |
 | [Todo Lo Que Siento](https://open.spotify.com/track/5TXAz4xkugCDaACTdtANKN) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:17 | 2022-07-19 | 2022-12-10 |

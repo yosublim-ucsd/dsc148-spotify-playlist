@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207440,
       "name": "First Gymnopedie",
       "url": "https://open.spotify.com/track/2U0UZHljhqhX50VbzsKo0K"
@@ -818,6 +818,28 @@
       "duration_ms": 209440,
       "name": "Grand Fantasy on Porgy and Bess: Summertime (after G. Gershwin)",
       "url": "https://open.spotify.com/track/79yJzE3W5a5tTH6lZ6Sz1t"
+    },
+    {
+      "album": {
+        "name": "Passacaglia",
+        "url": "https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST"
+      },
+      "artists": [
+        {
+          "name": "Adam Baldych",
+          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
+        },
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Gymnopedie",
+      "url": "https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu"
     },
     {
       "album": {

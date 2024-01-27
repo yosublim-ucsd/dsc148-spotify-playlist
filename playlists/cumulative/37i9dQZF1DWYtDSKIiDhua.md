@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Justin Timberlake
 
-614 songs - 1 day 9 hr 11 min
+616 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-31 | 2023-07-14 |
 | [Feel Sexy](https://open.spotify.com/track/4e9JNO99eTBksvz3JtUXKg) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Ghetto Feng Shui](https://open.spotify.com/album/2DuEtKgGq0sqRfZk7ttqJW) | 3:28 | 2022-11-10 | 2022-12-17 |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-28 | 2022-11-11 |
+| [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-25 |  |
 | [Fine With Me](https://open.spotify.com/track/4gh7H3A9DUImxhzeDjk7fu) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 4:32 | 2022-06-08 | 2022-09-23 |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2022-06-08 | 2022-07-15 |
 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-10 | 2023-04-07 |
@@ -366,6 +367,7 @@
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2022-09-22 |  |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-15 | 2023-01-27 |
 | [No Conditions](https://open.spotify.com/track/5GHqCNDXs23kv0RY4g4uMH) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [No Conditions](https://open.spotify.com/album/7EAJhtaEET3DFZKHaLMQK9) | 3:42 | 2022-06-08 | 2022-07-01 |
+| [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-25 |  |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-08-31 |  |
 | [NO THANKS](https://open.spotify.com/track/1v50Kck2hGkYz3kqCGtFMa) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [NO THANKS](https://open.spotify.com/album/4rMXwc0N1L7WbLfCTem6Ds) | 3:02 | 2023-04-06 | 2023-04-28 |
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,514 likes - 200 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,432 likes - 200 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Dissonance](https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q) | [Deceptic](https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX) | [Dissonance](https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v) | 3:42 |
 | 200 | [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 |
 
-Snapshot ID: `MCxmNDAzZmMzYTVjNmI1MTQzZDU1MjBhYjMzYzU2OGFlMWE1ZGUwY2M3`
+Snapshot ID: `MCwzMWU1Yzc1NDVhYjRkZGUzZjg3MDI4YTMzZDIzMGEwOWE2YmJhYzlk`

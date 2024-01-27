@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,516 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,506 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 |
 | 100 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
 
-Snapshot ID: `MCwxMDIwY2NkMTJmNWMwYTdkOTg2ZGY1YTE2M2QzMWNiZGJhMzE0NGI4`
+Snapshot ID: `MCwzYWEzZTdlNTQxYmFiYzYwYWFmYmE5M2ZkNzZhZDkwNmM5ZmEzZDBi`

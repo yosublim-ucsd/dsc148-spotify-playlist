@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,833 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,841 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 100 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
 
-Snapshot ID: `MCwyYzcxZWY4MWRhNzc4NDE0NWUzOTk3OTZmYTAzOWFjYTgxNzM5Mzg1`
+Snapshot ID: `MCw5OGUxYjg2OGM2OWI4MWQxNmZkZDUyZDQ4Y2M3ZjliYzU4YWEwZGU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,649 likes - 125 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,672 likes - 125 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 124 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 |
 | 125 | [Chelsea Bridge](https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz) | 3:54 |
 
-Snapshot ID: `MCw2NDA2Nzk2N2U0OTEwNThkN2ZlNTk3NTkwZWE1YmE0MjQ0MmI3Zjdk`
+Snapshot ID: `MCw3ZjhiOGU1YmQ2ZTBkZDMzNTZjZDZmNzFjMTJiM2I2YTliZDI3NzI2`

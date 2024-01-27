@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,389 likes - 32 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,534 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
+| 1 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 |
 | 2 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
 | 3 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 |
 | 4 | [Essa Eu Fiz Pro Nosso Amor](https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:14 |
-| 5 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 |
+| 5 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
 | 6 | [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 |
 | 7 | [Santo](https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:42 |
 | 8 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coisas da Geração](https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k) | 3:00 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 28 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 29 | [Lindo Demais](https://open.spotify.com/track/2703CNb2od5iv56bRo2Y3h) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:00 |
 | 30 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
-| 31 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 |
-| 32 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 |
+| 31 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 |
+| 32 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 |
 
-Snapshot ID: `Mjg0MzY0MjcsMDAwMDAwMDAzZjFkNzkyNThjMmY1ZDIwZmQ3NWRkYTgwODAyN2EyYw==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBkMDU5N2NmNmMzZjA0OTBiMTUxYWFiNWM1MmY1M2ZkMw==`

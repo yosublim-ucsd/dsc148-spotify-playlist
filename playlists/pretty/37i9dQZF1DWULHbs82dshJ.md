@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,898 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,020 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [INJURIADO](https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [INJURIADO](https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ) | 2:30 |
 | 50 | [Ak do Freddy Krueger](https://open.spotify.com/track/1wkEiN7312E1KM5BnKvk4D) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:16 |
 
-Snapshot ID: `MCwwYWMyN2E0M2Q0YzA5YjIxNDEzZjZjNTFlY2RmNjllYjFkYWIyMzQx`
+Snapshot ID: `MCxlZjBkNzA2MDM0MWJlMjI5MjUxMWViNTU3NTc5YTFmOGYwMTExZGIz`

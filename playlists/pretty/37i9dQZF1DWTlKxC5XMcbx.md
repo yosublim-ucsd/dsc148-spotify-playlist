@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,990 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,955 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
 | 75 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 |
 
-Snapshot ID: `MCwxZjA5MDU1MGYwZGMyMTk0YWQzYWIxOTY3NmYxM2JlZjgzOWQzNWY4`
+Snapshot ID: `MCxiMmU5MDNjNGFhMjRmZDNhMGQ2NzI1ODMxODRjZTQ2ODVjYjIxNjI3`

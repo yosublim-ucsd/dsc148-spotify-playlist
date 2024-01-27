@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 60281,
+  "2024-01-27": 60354,
   "date_first_scraped": "2022-10-01",
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
   "name": "Be Lifted ",
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
@@ -4845,7 +4845,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 251769,
       "name": "This New Year",
       "url": "https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N"

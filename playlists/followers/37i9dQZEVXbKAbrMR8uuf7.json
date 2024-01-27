@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 153248,
+  "2024-01-27": 153101,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/3TDQyH0HTgXtIduFCKWwlu"
@@ -3623,7 +3623,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 128785,
       "name": "Chu Chu",
       "url": "https://open.spotify.com/track/6RnTMsD7ygLNZ4QfbgudXg"
@@ -3953,7 +3953,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -4745,7 +4745,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
@@ -9489,7 +9489,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
@@ -11725,7 +11725,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 127946,
       "name": "LA TRANZA",
       "url": "https://open.spotify.com/track/77J96UnWCLiltC7AvwvL8A"
@@ -14459,7 +14459,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 202635,
       "name": "MERCEDES CAROTA",
       "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
@@ -17999,6 +17999,24 @@
     {
       "album": {
         "name": "Pitone",
+        "url": "https://open.spotify.com/album/0NoOtIDqn1o4RoRK3xQINS"
+      },
+      "artists": [
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124458,
+      "name": "Pitone",
+      "url": "https://open.spotify.com/track/1ao3LOVRfwArGbtSo76W2W"
+    },
+    {
+      "album": {
+        "name": "Pitone",
         "url": "https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3"
       },
       "artists": [
@@ -18009,7 +18027,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 124499,
       "name": "Pitone",
       "url": "https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW"
@@ -23411,7 +23429,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 241951,
       "name": "Todo Lit",
       "url": "https://open.spotify.com/track/1oxSzLgFPeFm5o6y7Bxie9"

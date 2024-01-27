@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Magnolia Park.
+> nü\-metal revival is happening here and now with \(Hed\) P.E.
 
-95 songs - 5 hr 30 min
+99 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,10 @@
 | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 | 2023-09-13 | 2023-09-30 |
 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 | 2023-09-13 |  |
 | [Billy Knows Jamie](https://open.spotify.com/track/6fXeuZAQ00BjrOxFtoFS9S) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:43 | 2023-11-17 | 2024-01-13 |
+| [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 | 2024-01-26 |  |
 | [BLACK\_WAVE](https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [YOUR LIGHT FADES AWAY](https://open.spotify.com/album/5lVjXfwzpCEldp3eNDFWCj) | 3:06 | 2023-09-13 |  |
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [Boskat](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv), [Urban Dance Squad](https://open.spotify.com/artist/4pgWBK764kwYHl75CEKBWI) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-12 |  |
-| [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 |  |
+| [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 |  |
 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 | 2023-11-04 |
 | [Confessions Of The Fallen](https://open.spotify.com/track/6Zfhv8jhS1PDGQySEGqPTs) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:50 | 2023-10-27 |  |
@@ -46,7 +47,7 @@
 | [Feeling Fine](https://open.spotify.com/track/4dfaO9NHF8bqZKftENZssf) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The DREGGmusic Mixtape](https://open.spotify.com/album/6Bdic8kP9fHguB8nEpeEpm) | 3:32 | 2023-09-13 | 2023-09-23 |
 | [For the Beaten](https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:38 | 2023-09-13 | 2023-11-18 |
 | [Fractured](https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Fractured](https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya) | 3:42 | 2023-11-24 |  |
-| [From Ashes](https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [From Ashes](https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b) | 2:47 | 2024-01-12 |  |
+| [From Ashes](https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [From Ashes](https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b) | 2:47 | 2024-01-12 | 2024-01-27 |
 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2023-09-13 |  |
 | [Golden Gloves](https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Heartless](https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye) | 3:06 | 2023-11-17 | 2023-12-16 |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-09-13 | 2023-09-23 |
@@ -66,9 +67,11 @@
 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 | 2023-12-15 |  |
 | [Old School Sound](https://open.spotify.com/track/3ozOUkF7LFjtE8nx9CR5ih) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Old School Sound](https://open.spotify.com/album/7F8m6iLwPnmMZWYhoCDvzm) | 3:31 | 2023-12-15 |  |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2023-10-13 |  |
+| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-26 |  |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [Radio](https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W) | [Julien\-K](https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN) | [Radio](https://open.spotify.com/album/02MYjSgDrcWxZknZAujBUq) | 4:44 | 2023-09-13 | 2023-10-28 |
+| [Rain Check](https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Rain Check](https://open.spotify.com/album/0VlmhR3IrwULQWiOJYeIoJ) | 3:31 | 2024-01-26 |  |
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 |  |
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 |  |
@@ -79,10 +82,11 @@
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-09-13 | 2023-10-14 |
 | [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 | 2023-10-07 |
 | [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 | 2023-11-18 |
+| [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 |  |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [The Heresy](https://open.spotify.com/track/2zl4OeEKQTUhswMeAVkwbo) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [A Wonderful Life](https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv) | 3:59 | 2023-09-13 |  |
-| [thieves of virtue](https://open.spotify.com/track/3zDdUiSL0k7szyWtUMEoJ6) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [thieves of virtue](https://open.spotify.com/album/0iY4q3066UsWq2uUds42OG) | 2:49 | 2023-12-22 |  |
+| [thieves of virtue](https://open.spotify.com/track/3zDdUiSL0k7szyWtUMEoJ6) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [thieves of virtue](https://open.spotify.com/album/0iY4q3066UsWq2uUds42OG) | 2:49 | 2023-12-22 | 2024-01-27 |
 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 | 2023-09-13 | 2024-01-20 |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-16 |
 | [Two\-Way Mirror](https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:00 | 2023-09-13 | 2023-12-16 |
@@ -102,6 +106,6 @@
 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Woo Hah!! Got You All in Check](https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A) | 3:57 | 2023-09-13 |  |
 | [Worship The Internet](https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Worship The Internet](https://open.spotify.com/album/2vt3z8PJEoKIWdwV1YtqSB) | 3:40 | 2023-09-22 | 2024-01-20 |
 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 | 2023-12-15 |  |
-| [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 |  |
+| [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 | 2024-01-27 |
 
 \*This playlist was first scraped on 2023-09-15. Prior content cannot be recovered.

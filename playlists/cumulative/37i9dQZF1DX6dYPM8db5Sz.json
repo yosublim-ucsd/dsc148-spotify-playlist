@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
+    },
+    {
+      "album": {
         "name": "Another Moon",
         "url": "https://open.spotify.com/album/5I5zMDrXfXo548DYZoMS9Y"
       },
@@ -2245,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7zosLLg2w5AByAMt6oR8W5"
+      },
+      "artists": [
+        {
+          "name": "Cara Frew",
+          "url": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2gvUi2Q8OYQThkPGyoS0FU"
+    },
+    {
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/4zQLgpO7nItHn5NcHgO0QB"
       },
@@ -3494,6 +3530,24 @@
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3sSpQCJ1P8uowaX1jbXghS"
+      },
+      "artists": [
+        {
+          "name": "Mtwana",
+          "url": "https://open.spotify.com/artist/70ewNHz36HOPCyctw0oUnt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169644,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6652ZJ7gXOKZtXTTgUDYFs"
     },
     {
       "album": {
@@ -5196,7 +5250,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226754,
       "name": "jupiter.",
       "url": "https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4"
@@ -5756,7 +5810,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 209026,
       "name": "Living in a Paradise",
       "url": "https://open.spotify.com/track/1kqWv1DW4UxK4uiSmWEAAh"
@@ -6188,6 +6242,24 @@
       "duration_ms": 238317,
       "name": "Midnight Scenes",
       "url": "https://open.spotify.com/track/2nSVgBiacRtyOwC3dt1MU4"
+    },
+    {
+      "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/17fH9Ubi1ovMNEOVUAt47o"
+      },
+      "artists": [
+        {
+          "name": "Amy Ayanda",
+          "url": "https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/3V6tKpXHWxlP9z7ThCcUEA"
     },
     {
       "album": {
@@ -8414,7 +8486,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -9014,7 +9086,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 276647,
       "name": "Standing With the Sun",
       "url": "https://open.spotify.com/track/3eG2LHJW83IwA8Zv5E3llX"
@@ -9488,6 +9560,32 @@
       "duration_ms": 206013,
       "name": "Take A Moment",
       "url": "https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Paul Timitch",
+          "url": "https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140190,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4"
     },
     {
       "album": {
@@ -11014,7 +11112,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 345000,
       "name": "White Collar Kings",
       "url": "https://open.spotify.com/track/7GH9I49Uz6fU3kqoB1jK2v"

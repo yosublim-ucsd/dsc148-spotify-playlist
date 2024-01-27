@@ -2,9 +2,9 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Teddy Swims
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: James Arthur
 
-631 songs - 1 day 10 hr 31 min
+632 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Fought & Lost \(feat\. Brian May\)](https://open.spotify.com/track/074mNWb0RaPPO2VearuzNf) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3) | [Fought & Lost \(feat\. Brian May\)](https://open.spotify.com/album/2OLe0n6bwoENO1FD8dlDgp) | 4:12 | 2023-05-26 | 2023-11-11 |
 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-19 | 2023-06-10 |
 | [FREE](https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [FREE](https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq) | 3:42 | 2022-04-08 | 2022-04-29 |
+| [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 |  |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-04-06 | 2022-05-07 |
 | [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 | 2023-09-08 |  |
 | [Get On My Love](https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Get On My Love](https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC) | 2:53 | 2022-11-25 | 2023-02-11 |

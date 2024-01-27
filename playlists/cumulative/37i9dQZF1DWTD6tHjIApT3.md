@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-2,124 songs - 5 day 16 hr 57 min
+2,125 songs - 5 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-04-12 |
 | [Again](https://open.spotify.com/track/0lZdUSih2JxtWvQg1YYQsZ) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Again](https://open.spotify.com/album/7BPLw7cSFnSid7fcP89PsG) | 4:37 | 2022-07-19 | 2022-08-03 |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-28 | 2024-01-17 |
-| [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 | 2024-01-26 |
+| [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 |  |
 | [Ai no sei](https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Ai no sei](https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY) | 4:16 | 2022-10-11 | 2022-10-19 |
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 |  |
 | [AINIIKOU](https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [AINIIKOU](https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6) | 4:05 | 2023-05-30 | 2023-06-21 |
@@ -533,7 +533,7 @@
 | [It's you](https://open.spotify.com/track/7bITBEdu6hFbJU0QlanOD2) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [It's you](https://open.spotify.com/album/7fdtTcRkCV5dMjaRLhdpHz) | 4:18 | 2022-05-29 | 2022-07-29 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-03 |
 | [ITSUWA](https://open.spotify.com/track/0cnPHNUlW4gszgvVDRLjR8) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 3:22 | 2023-02-09 | 2023-02-15 |
-| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 |  |
+| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 | 2024-01-27 |
 | [Ivy Ivy Ivy](https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ivy Ivy Ivy](https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI) | 4:52 | 2022-11-15 | 2022-12-07 |
 | [I’ll be there](https://open.spotify.com/track/78fssmI5gxg6rNSs50WVHH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [I’ll be there / スピン](https://open.spotify.com/album/41DbSnh6MJp7cbQaHUwNnG) | 5:03 | 2022-05-29 | 2022-07-29 |
 | [I’m Calling You](https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I’m Calling You](https://open.spotify.com/album/1CUxI6Evew86aQyvJWA7dL) | 3:43 | 2022-09-27 | 2022-09-29 |
@@ -1111,7 +1111,8 @@
 | [Tokyo Tower](https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Tokyo Tower](https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32) | 4:49 | 2022-09-08 | 2022-09-15 |
 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 | 2023-07-06 | 2023-08-25 |
 | [Torisugiteiku](https://open.spotify.com/track/1P3qOEqKbAYYMJUcKM06dW) | [Qaijff](https://open.spotify.com/artist/2ybYclZz8KsmrgwlK8Em1X) | [Torisugiteiku](https://open.spotify.com/album/4rsp9BropcJweaeBbV6gWW) | 2:57 | 2022-11-15 | 2022-11-23 |
-| [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 |  |
+| [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 |  |
+| [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |

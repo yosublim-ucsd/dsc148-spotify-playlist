@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,883 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,886 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 69 | [Spirit in the Sky](https://open.spotify.com/track/52jOr9c1lYG6dL4q1AB2zH) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing at the Pieces](https://open.spotify.com/album/2NDZDUpczDw9KbMiAM3Ecp) | 3:28 |
 | 70 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 
-Snapshot ID: `MCwyYmQ3NDI4M2EwNWIwYjM4M2UwNWM5OWRiMWFmMDBmYTkyMjVmNzdi`
+Snapshot ID: `MCw4OWE0MTRjZDFiZDBkNzA5ODVlYzUyYTcyMTE2MjNiNjNlYjJiYjM5`

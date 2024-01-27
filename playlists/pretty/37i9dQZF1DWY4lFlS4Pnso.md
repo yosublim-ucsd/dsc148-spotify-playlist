@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 
 > The UK's biggest playlist\. Cover: Sam Fender & Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,025,526 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,024,150 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 | 69 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
 | 70 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 |
 
-Snapshot ID: `MCwyMTUzZGZkY2U0NmFkOWM3NmMxOWI5Zjc4OWI4OTQwM2ViMDhmZjE3`
+Snapshot ID: `MCxlY2Y0MjZmNjZmZDk4Y2Q2YzM1ZTNiODBmMTk2NDExMWFhODM5ZGZj`

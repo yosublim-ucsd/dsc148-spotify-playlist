@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,576 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,582 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [Fur immer](https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 2](https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak) | 11:17 |
 | 100 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
 
-Snapshot ID: `MCxiYmJmZjNkYzI0YTFhZDViNDg5MWZjZDk3MjE4YzhjZmUzOWRjM2Y3`
+Snapshot ID: `MCw5Mjk2MWUzZTMwZDE5OGE4ZTc1ODhiYjIyMDU3MDgyODQ1Y2E3M2E2`

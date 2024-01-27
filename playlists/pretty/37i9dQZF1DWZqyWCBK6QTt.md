@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,500 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,457 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
 | 150 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 |
 
-Snapshot ID: `MCwwN2M2MTM4MDI3YjJhMzViMmM4NmMzNjk5ZWViM2MwOGQxZTQwZWNl`
+Snapshot ID: `MCwxODdlOGQwZWIzMGM2N2Y2YzcwNmMzNzE0ZGFkNzFkMmQzN2ZkNmY0`

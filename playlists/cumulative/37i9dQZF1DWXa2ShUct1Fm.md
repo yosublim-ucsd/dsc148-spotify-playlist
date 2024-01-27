@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-201 songs - 11 hr 14 min
+202 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [TRAUMA](https://open.spotify.com/track/6MEsfQJ5ZpO1WozVfsVDzZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:33 | 2022-05-27 |  |
 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-05-27 |  |
 | [Wave](https://open.spotify.com/track/7awomfKxYCpcqUlfZav6PD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:04 | 2022-05-27 |  |
+| [What kind of future](https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [What kind of future](https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL) | 3:51 | 2024-01-26 |  |
 | [What's Good](https://open.spotify.com/track/5FxM6pVE15a8xYUv8eOIxe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 2:48 | 2023-07-28 |  |
 | [What's Good](https://open.spotify.com/track/76rsUJjmMCbNL3nbbEypUF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 2:48 | 2022-05-27 | 2023-08-03 |
 | [When I Grow up](https://open.spotify.com/track/6Cnzpz5iL9MhyDbco7YvOX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:22 | 2022-05-27 |  |

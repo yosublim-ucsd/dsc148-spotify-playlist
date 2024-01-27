@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 0,
+  "2024-01-27": 0,
   "date_first_scraped": "2023-07-14",
   "description": "",
   "name": "driving",
@@ -1185,6 +1185,24 @@
       "duration_ms": 241052,
       "name": "Down By The River",
       "url": "https://open.spotify.com/track/7HNpXPaTcX5CoNBjTAEWBr"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192224,
+      "name": "Down Like That",
+      "url": "https://open.spotify.com/track/2HeDOUAIVhsgi4IOzBYJHc"
     },
     {
       "album": {
@@ -4739,6 +4757,28 @@
       "duration_ms": 227813,
       "name": "That Chick Right There",
       "url": "https://open.spotify.com/track/0VEWlj6xRk0G3M65h4lH8W"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "That Thang (feat. Jada Kingdom)",
+      "url": "https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT"
     },
     {
       "album": {

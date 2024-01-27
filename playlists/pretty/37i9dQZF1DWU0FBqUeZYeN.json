@@ -1,12 +1,12 @@
 {
   "description": "From '56 to '76 - the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...",
-  "num_followers": 393001,
+  "num_followers": 392973,
   "original_name": "The Road to Punk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODA0MzQzMWM5Y2NiMGRiZjRlNmYwOGQxM2Y5ZjliNWU4MmNlZDJl",
+  "snapshot_id": "MCw4MWNlNGZkYTkwYjYxMjkzMjFjMGMwMzAxMjZlOWQxOTExZTBlODdk",
   "tracks": [
     {
       "added_at": "2019-06-19 09:34:31",
@@ -462,10 +462,14 @@
         {
           "name": "The 101ers",
           "url": "https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe"
+        },
+        {
+          "name": "Joe Strummer",
+          "url": "https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba"
         }
       ],
       "duration_ms": 224066,
-      "name": "Keys to Your Heart",
+      "name": "Keys to Your Heart (feat. Joe Strummer)",
       "url": "https://open.spotify.com/track/4vpSRQ0kn2fkV17A5XFwZK"
     },
     {

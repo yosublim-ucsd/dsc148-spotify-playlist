@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Juan Duque & Ryan Castro",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Maluma y J Balvin",
   "name": "Popet\u00f3n",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157000,
       "name": "Baby \u00c9lite",
       "url": "https://open.spotify.com/track/2liFagnUtFWuyN1I0gsqa1"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 169842,
       "name": "BONITA",
       "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Otro Flow",
+        "url": "https://open.spotify.com/album/6RTM8nAsVgHO2GjIcyDe5P"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Canelita",
+      "url": "https://open.spotify.com/track/4FRi4Rxk91nQjZYtHTuVOb"
+    },
+    {
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/1DVTs0zZlF6aSxQ7Iyrs7J"
       },
@@ -1560,6 +1578,24 @@
       "duration_ms": 157293,
       "name": "Como Ayer",
       "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
+    },
+    {
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/5foyKTXvQFcMgdi7Tg2DNd"
+      },
+      "artists": [
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/4cE08PBH39Ubs9xDTIMdVZ"
     },
     {
       "album": {
@@ -2609,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "En Las Buenas y En Las Malas",
+        "url": "https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "En Las Buenas y En Las Malas",
+      "url": "https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N"
+    },
+    {
+      "album": {
         "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
       },
@@ -2778,7 +2832,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
@@ -3020,6 +3074,28 @@
       "duration_ms": 182533,
       "name": "FVCKBOI",
       "url": "https://open.spotify.com/track/3pAAa9i7Qini7gKanj7xjY"
+    },
+    {
+      "album": {
+        "name": "Gafas Negras",
+        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Gafas Negras",
+      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
     },
     {
       "album": {
@@ -3434,7 +3510,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 150236,
       "name": "La Casa De Las Flores",
       "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 682457,
+  "2024-01-27": 682816,
   "date_first_scraped": "2022-01-21",
   "description": "The romantic side of classic rock and metal",
   "name": "Rock Love Songs",
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -5247,7 +5247,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 354880,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"

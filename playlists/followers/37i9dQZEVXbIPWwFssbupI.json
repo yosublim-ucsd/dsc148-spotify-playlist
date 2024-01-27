@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 843934,
+  "2024-01-27": 843223,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - France.",
   "name": "Top 50 - France",
@@ -907,7 +907,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 150266,
       "name": "A l'envers",
       "url": "https://open.spotify.com/track/6EYUFHYAD9Czulo0n6X3Gu"
@@ -11825,7 +11825,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 140626,
       "name": "Gare du Nord",
       "url": "https://open.spotify.com/track/41rNgAeNWLDhpVnybXbRvT"
@@ -20357,7 +20357,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -22169,7 +22169,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 179653,
       "name": "Nouvelles",
       "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-578 songs - 1 day 14 hr 56 min
+581 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Akuma no Ko \- From CrosSing](https://open.spotify.com/track/33tpXVBlNuxtqNoWkm8s5W) | [Aoyama Nagisa](https://open.spotify.com/artist/6iNMJicQCN4F5lBJdb1N6X) | [Akuma no Ko \- From CrosSing](https://open.spotify.com/album/6jIimEofznLsLO2I0591jb) | 3:47 | 2023-05-09 | 2023-05-17 |
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2023-01-13 | 2023-01-18 |
 | [ALIVE](https://open.spotify.com/track/5cLEdGMJj860k60T8u31VV) | [渡部恵子](https://open.spotify.com/artist/419949JhPv5FYsGemkudvB) | [ALIVE](https://open.spotify.com/album/54lGEHlJHsgt59WxNVIPg5) | 3:20 | 2022-06-14 | 2022-06-18 |
-| [ALPINA](https://open.spotify.com/track/2wjOBd1d4arwtLJSHNMxfO) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf) | 4:06 | 2024-01-25 |  |
+| [ALPINA](https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N) | 4:06 | 2024-01-25 |  |
+| [ALPINA](https://open.spotify.com/track/2wjOBd1d4arwtLJSHNMxfO) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf) | 4:06 | 2024-01-25 | 2024-01-27 |
 | [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [「ハートキャッチプリキュア!」主題歌 OP:Alright!ハートキャッチプリキュア!/ED:ハートキャッチ☆パラダイス!](https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf) | 3:46 | 2023-02-09 | 2023-03-08 |
 | [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [ハートキャッチプリキュア! ボーカルアルバム1 \~大地と海と陽と月と\~](https://open.spotify.com/album/4qQOOk8NVhM0WgyPuv7f5x) | 3:46 | 2023-02-07 | 2023-02-10 |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-06-09 |
@@ -146,7 +147,8 @@
 | [Intaglio](https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE) | 4:32 | 2023-10-17 | 2023-11-11 |
 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 | 2023-11-07 | 2024-01-19 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-10 |
-| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 |  |
+| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 | 2024-01-27 |
+| [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 | 2024-01-25 |  |
 | [Jinsei Easy?](https://open.spotify.com/track/1XhL4crZyyv7UXnGkunn2T) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 3:44 | 2022-06-12 | 2022-07-19 |
 | [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/2D8QxudJ7fEAijANn3UkQA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/6xVTtIs5JaZnv6hMV1kuz8) | 4:10 | 2023-12-19 |  |
 | [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-05-15 |
@@ -296,6 +298,7 @@
 | [Tomorrow's Diary](https://open.spotify.com/track/0fuUtnCN2n62BfTNSShbG2) | [AiRBLUE](https://open.spotify.com/artist/49nTLE5U2U3eMoEk1cPOLY) | [Tomorrow's Diary/ゆめだより](https://open.spotify.com/album/2ldSZ0ufXJJmch9JKxaPco) | 4:32 | 2022-07-07 | 2022-07-21 |
 | [Touch of Hope](https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/5UDEytA8WSVNBJ15tjSkUJ) | 4:29 | 2022-06-12 | 2022-07-23 |
 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 | 2023-02-21 | 2023-04-12 |
+| [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/track/6K3VLQ6FhwGubGX39fBrGC) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/album/06jM2JKRUkEZzLD3scqrK4) | 3:13 | 2024-01-25 |  |
 | [twilight little star](https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [twilight little star](https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u) | 3:34 | 2023-10-03 | 2024-01-08 |
 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 | 2022-06-14 | 2022-07-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-06-09 | 2023-11-02 |
@@ -496,7 +499,7 @@
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 |  |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-09 | 2022-07-29 |
 | [希望の花](https://open.spotify.com/track/4HK21Rjm9buHWIF7yBUMfi) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [TRY!](https://open.spotify.com/album/0et1B3mRe2tuZsnh5ELgXW) | 5:15 | 2022-06-14 | 2022-07-28 |
-| [強くて弱くて愛しくて](https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [強くて弱くて愛しくて](https://open.spotify.com/album/0oW5heg3arTMvuEwI8WZmu) | 3:13 | 2024-01-25 |  |
+| [強くて弱くて愛しくて](https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [強くて弱くて愛しくて](https://open.spotify.com/album/0oW5heg3arTMvuEwI8WZmu) | 3:13 | 2024-01-25 | 2024-01-27 |
 | [彩色硝子](https://open.spotify.com/track/5EVmlI2bzavJxH6BBgaaM4) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [彩色硝子](https://open.spotify.com/album/5MDwykqDZ5ISh5BQRLsFMS) | 3:56 | 2022-06-24 | 2022-07-26 |
 | [心身無双の剣になれ](https://open.spotify.com/track/3KepaGnc8CjilcnFdVvK1k) | [羽前京香\(CV:鬼頭明里\)](https://open.spotify.com/artist/52ky9tegM9Sdirv6I8Ok1q) | [心身無双の剣になれ](https://open.spotify.com/album/7tQTMRy1tWaBrO0AwWgLWX) | 3:09 | 2024-01-18 | 2024-01-20 |
 | [心音（しんおん）](https://open.spotify.com/track/7knXcKHUVxb9qxo37ZDILh) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [心音（しんおん）](https://open.spotify.com/album/15SCmf8EiD69P4wRGz0gm6) | 5:28 | 2023-09-26 | 2023-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,122 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,125 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 99 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 100 | [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 |
 
-Snapshot ID: `MCxlN2E4OWZhZTMxNTcxNTc0MWY3ZmQ2MTIzODRhN2FjM2NkYzI2MTJh`
+Snapshot ID: `MCw5MWZjMDY0OTA0NjhiZDc4MGYyMTM1YTNkM2NmMTBmZTZiYjlmYTQ5`

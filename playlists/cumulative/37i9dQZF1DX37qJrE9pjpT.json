@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rosa Ree",
+  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Darassa",
   "name": "Bongo Bars",
   "tracks": [
     {
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184999,
       "name": "Juu Chini",
       "url": "https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ"
@@ -2718,6 +2718,24 @@
       "duration_ms": 246750,
       "name": "Vitu Vingi",
       "url": "https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt"
+    },
+    {
+      "album": {
+        "name": "Wapi Huko",
+        "url": "https://open.spotify.com/album/5qSW3lI8C6X1QNhFo6vAlh"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210991,
+      "name": "Wapi Huko",
+      "url": "https://open.spotify.com/track/4ALRkQz2dbmZI666ErjSRG"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 327678,
+  "2024-01-27": 327717,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Soultronic",
@@ -3326,6 +3326,24 @@
     },
     {
       "album": {
+        "name": "In This Darkness",
+        "url": "https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "In This Darkness",
+      "url": "https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR"
+    },
+    {
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
       },
@@ -4681,7 +4699,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
@@ -5720,6 +5738,28 @@
     },
     {
       "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "album": {
         "name": "Not from concentrate",
         "url": "https://open.spotify.com/album/5Kk1ulr8uvl67Iz8hqDcxI"
       },
@@ -6561,7 +6601,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"

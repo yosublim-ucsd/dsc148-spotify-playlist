@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,065 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,164 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 | 80 | [Same Old Blues Again \(2007 \- Remaster\)](https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 6:13 |
 
-Snapshot ID: `MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk`
+Snapshot ID: `MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz`

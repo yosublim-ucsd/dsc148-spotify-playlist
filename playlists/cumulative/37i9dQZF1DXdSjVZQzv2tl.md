@@ -4,12 +4,13 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
 
-190 songs - 9 hr 1 min
+191 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 | 2023-11-11 |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
+| [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD) | 2:27 | 2024-01-26 |  |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-21 |  |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 | 2022-08-23 |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 | 2023-04-22 |

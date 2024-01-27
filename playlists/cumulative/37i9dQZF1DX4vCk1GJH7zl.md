@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-113 songs - 6 hr 54 min
+114 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 | 2023-07-21 |  |
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 |  |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
+| [Mulher da Vida \- Acústica\) \(Faixa Bônus\)](https://open.spotify.com/track/2EzZE6Nsnl25qROTiTXTQP) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Reviravolta \(Edição Deluxe\)](https://open.spotify.com/album/6Zcg2ml3VjVsWyQA4F1w0m) | 2:26 | 2024-01-26 |  |
 | [Música de Botar o Papo no Lugar](https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH) | [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Música de Botar o Papo no Lugar](https://open.spotify.com/album/2dU7Mwqk5B31axoHYs5LqY) | 2:53 | 2023-07-21 |  |
 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 |  |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 | 2023-07-21 |  |
@@ -112,7 +113,7 @@
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-07-21 | 2023-12-09 |
 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 | 2023-07-21 | 2023-08-26 |
 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 | 2023-07-21 |  |
-| [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2023-07-21 |  |
+| [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2023-07-21 | 2024-01-27 |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 |  |
 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 |  |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 | 2023-09-09 |

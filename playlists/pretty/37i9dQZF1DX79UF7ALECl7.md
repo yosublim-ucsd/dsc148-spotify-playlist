@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,121 likes - 98 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,102 likes - 98 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 97 | [Loyal \- Afro House Remix](https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g) | [ENE Yatt](https://open.spotify.com/artist/74jqXJCRr3ZpWNKVkRuxfy), [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Loyal \(Afro House Remix\)](https://open.spotify.com/album/46trrRl1K6bdunvPrF0lrz) | 3:23 |
 | 98 | [Moraine](https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Moraine](https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb) | 3:57 |
 
-Snapshot ID: `MCw1OGNkZTVhMjQ0YzM5NTM4ZDJiYzAzMWFkZWVmYzI0M2JjMGYyMDkx`
+Snapshot ID: `MCw0Mzg1MjA5YjU3M2VmMGIyZTMwNjA4YjFiYWMzOTI4MmNmMDhlNGZk`

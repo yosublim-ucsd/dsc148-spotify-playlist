@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,725 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,963 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 99 | [That Feel](https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [That Feel](https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z) | 2:43 |
 | 100 | [PIM](https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [PIM](https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd) | 2:59 |
 
-Snapshot ID: `MCwyOGFlODczNzhmMDFlNjU5MjkwYWVkYzU3NzZlYWNhZGJkMWU1OWY1`
+Snapshot ID: `MCwxZWE3NjNiZGVmZjdlN2QzMzMzM2RhYWY5YmM3NzdkZmRkYjYzZGM4`

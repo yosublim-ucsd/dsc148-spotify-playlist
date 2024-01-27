@@ -1,13 +1,57 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 394691,
+  "num_followers": 394441,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmMyZDM1NGZkYjJmYjNhNTgwZGQ1OTBhNTk5YzZhNzUzM2NlYmYy",
+  "snapshot_id": "MCxhZGY2ZGIyOGQzYmY2NDk0MmYwMDk1MTRiMjZiNDg0Yzc2N2Q1MjQw",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Headache (Frostyboy Mix feat. Fletcher Fathoms and Bill Burns)",
+        "url": "https://open.spotify.com/album/6Oa7qyVR0mlgVtRMzK3kbz"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Frostyboy",
+          "url": "https://open.spotify.com/artist/3czXEccrgo19wfppvwkhzR"
+        },
+        {
+          "name": "Niara Scarlett",
+          "url": "https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3"
+        },
+        {
+          "name": "Dark Globe",
+          "url": "https://open.spotify.com/artist/2oxZ0xso90v1rS2PAb2qpF"
+        },
+        {
+          "name": "Kevan Frost",
+          "url": "https://open.spotify.com/artist/72hK41OzrUSMmFoKOTfCtd"
+        },
+        {
+          "name": "Fletcher Fathoms",
+          "url": "https://open.spotify.com/artist/3dHrg3OGB4pAeXwCQRVFjF"
+        },
+        {
+          "name": "Bill Burns",
+          "url": "https://open.spotify.com/artist/2x7lI5JiBpBQi4N41fgdt2"
+        }
+      ],
+      "duration_ms": 447421,
+      "name": "Headache (Frostyboy Mix feat. Fletcher Fathoms and Bill Burns)",
+      "url": "https://open.spotify.com/track/1DK8xnWXO9J6stuWHNv6iZ"
+    },
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
@@ -35,38 +79,6 @@
       "duration_ms": 261359,
       "name": "We Outta B Funkin\u2019",
       "url": "https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Discopia (Dubversive Mix)",
-        "url": "https://open.spotify.com/album/5MSj6zgPiXhiX2dTaI0Wq1"
-      },
-      "artists": [
-        {
-          "name": "Smudge All Stars",
-          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
-        },
-        {
-          "name": "Dubversive",
-          "url": "https://open.spotify.com/artist/6Pxw249dd5WISK5UYT3Jry"
-        },
-        {
-          "name": "Richie Stevens",
-          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
-        },
-        {
-          "name": "Charlotte Kelly",
-          "url": "https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4"
-        },
-        {
-          "name": "Camelle Hinds",
-          "url": "https://open.spotify.com/artist/4qV28vr3p1qbOFO3Ego2uO"
-        }
-      ],
-      "duration_ms": 283600,
-      "name": "Discopia - Dubversive Mix",
-      "url": "https://open.spotify.com/track/08OOFk8JEDPN3t3oiURiPJ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -283,7 +295,7 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
+        "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
@@ -321,7 +333,7 @@
         }
       ],
       "duration_ms": 305454,
-      "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
+      "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

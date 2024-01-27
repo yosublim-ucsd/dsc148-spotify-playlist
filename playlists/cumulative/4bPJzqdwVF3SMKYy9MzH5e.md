@@ -4,7 +4,7 @@
 
 > 
 
-1,855 songs - 4 day 4 hr 17 min
+1,856 songs - 4 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [gecgecgec](https://open.spotify.com/track/29XGg8g4O7x8nUWPUfodM0) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 | 2021-11-14 |  |
 | [Geek'd \(feat\. Lil Baby\)](https://open.spotify.com/track/3nQQotHU6YtE0Z4kiMNoW8) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:13 | 2021-08-05 |  |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2021-08-05 |  |
+| [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 | 2024-01-26 |  |
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2022-04-03 |  |
 | [GENOCIDE](https://open.spotify.com/track/68Y3zzmt2XxzheQVGbbJt4) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [GENOCIDE](https://open.spotify.com/album/6wmwWYzwMK3NrTstuvKasD) | 10:32 | 2021-08-05 |  |
 | [Get Free](https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:34 | 2021-08-05 |  |

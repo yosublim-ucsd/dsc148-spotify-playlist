@@ -11667,6 +11667,24 @@
     },
     {
       "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },

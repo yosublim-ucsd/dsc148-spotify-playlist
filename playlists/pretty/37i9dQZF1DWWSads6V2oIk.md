@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,111 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,830 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 89 | [Wet Leaves](https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
 | 90 | [Soft Rain in the Amazonas](https://open.spotify.com/track/2eUw9Ihwluy1kKKwFNI8JU) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 4:00 |
 
-Snapshot ID: `MCw4NDdmMThkMTM3Nzg5ODdmMDE4MjhmMWFhOTc0NmNlZjRhN2I2MjE3`
+Snapshot ID: `MCwyNjM5NDU1YWU5MjhiMTAyY2I0MzM3ZTA2OWY3ZmM3MTQ3MmYxNGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,162 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,158 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 19 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 20 | [Here I Am Again \- Instrumental](https://open.spotify.com/track/6EwDN69ygEnmwaQYl1cEQf) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 |
 | 21 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
-| 22 | [But it's Destiny \- Instrumental](https://open.spotify.com/track/5fldke8cYJSXWfPsk0eEsP) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
+| 22 | [But it's Destiny \- Instrumental](https://open.spotify.com/track/5fldke8cYJSXWfPsk0eEsP) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 23 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 24 | [Stardust love song \(Inst.\)](https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 25 | [An Ordinary Day \- Instrumental](https://open.spotify.com/track/4ly1bQiQoFw5FgY49QccGg) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 43 | [Looks like a real thing \- Instrumental](https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
 | 44 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 | 45 | [Another Day \- Instrumental](https://open.spotify.com/track/1VkaIjfAKJargRlbnJZIg2) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/51VPAPWzszkMcyqVz5VvKc) | 3:37 |
-| 46 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
+| 46 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
 | 47 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 48 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
 | 49 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
 | 50 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 
-Snapshot ID: `MCxkMTdlNTZiNDgxNTU0MTlmM2FiODYyYjdkMTBiNDZkY2QwYzBmNTE5`
+Snapshot ID: `MCxmMzMxZWYzODM5NDY3ODc3ODI0NWZiNjNmYWYyYmRhZWU3ZmY4Mzli`

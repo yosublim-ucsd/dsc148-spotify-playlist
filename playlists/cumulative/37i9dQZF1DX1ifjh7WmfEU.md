@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-226 songs - 10 hr 1 min
+227 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Finding Peace](https://open.spotify.com/track/3N1hgEodmOmy4yVexeoXah) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Finding Peace](https://open.spotify.com/album/3UBjil8VBvpkL9qub4syby) | 2:40 | 2023-08-23 |  |
 | [First Light](https://open.spotify.com/track/4yuDrAv22L2WhLaNQVBn8t) | [Garreth Brooke](https://open.spotify.com/artist/2zkBE2h0e4LHHWRWHNL1bw), [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [First Light](https://open.spotify.com/album/6GHHSY1QQPCTO5ium5ec2R) | 2:06 | 2022-05-27 |  |
 | [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-05-27 | 2022-10-18 |
-| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 |  |
+| [First Sunlight](https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6YaTqyn5dntxFNuV1Kc2J9) | 2:28 | 2024-01-05 |  |
+| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 | 2024-01-27 |
 | [Fjäderlätt](https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Fjäderlätt](https://open.spotify.com/album/6zSNVshWnIEmrJX9dkLHZw) | 2:31 | 2022-11-14 |  |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-24 |  |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2022-05-27 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "La playlist au-del\u00e0 des genres. Photo : Flavien Berger",
+  "description": "La playlist au-del\u00e0 des genres. Photo : KAYTRANADA",
   "name": "Oracle",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 123267,
       "name": "Fish Terry",
       "url": "https://open.spotify.com/track/2LDnx28LxDqfmdiUmcQcXM"
@@ -374,10 +374,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
+    },
+    {
+      "album": {
+        "name": "Hello, Everyday Changes",
+        "url": "https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k"
     },
     {
       "album": {
@@ -400,6 +418,32 @@
       "duration_ms": 220346,
       "name": "Hey Lou",
       "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
+    },
+    {
+      "album": {
+        "name": "Holier (JD. REID Remix feat. Shygirl)",
+        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215063,
+      "name": "Holier - JD. REID Remix feat. Shygirl",
+      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
     },
     {
       "album": {
@@ -432,10 +476,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 189728,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/0PxkzyyPCZq0OLQzdkVjun"
+    },
+    {
+      "album": {
+        "name": "Jamais Vu Le Jour",
+        "url": "https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM"
+      },
+      "artists": [
+        {
+          "name": "Saint DX",
+          "url": "https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "Jamais Vu Le Jour",
+      "url": "https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV"
     },
     {
       "album": {
@@ -765,6 +827,32 @@
     },
     {
       "album": {
+        "name": "silence STArEs me down (feat. Cuco)",
+        "url": "https://open.spotify.com/album/6baKze14ER8USbSNwPGc4l"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186329,
+      "name": "silence STArEs me down (feat. Cuco)",
+      "url": "https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV"
+    },
+    {
+      "album": {
         "name": "Sleeper",
         "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
       },
@@ -860,7 +948,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 311928,
       "name": "Tears can be so soft",
       "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"

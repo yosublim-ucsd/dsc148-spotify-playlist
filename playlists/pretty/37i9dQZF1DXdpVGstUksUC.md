@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,797 likes - 100 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,768 likes - 100 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
 | 100 | [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 |
 
-Snapshot ID: `MCxjZjA3MGQyZDA0MDYxZjU2ZDUxYWEzYzYwNGZhZjliZjM5YjE0ZjQy`
+Snapshot ID: `MCw3YmQzZmMzNmY2ODQ1NzE3ZGRiNjI2NzgyYTBjMjIyNDZiYmU1NjAz`

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: JJJ
 
-501 songs - 1 day 1 hr 38 min
+502 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Like A Star](https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Star Power](https://open.spotify.com/album/7kRhfYHR1agIzy2W7xwnPK) | 2:27 | 2023-03-16 | 2023-07-21 |
 | [Likka Sto](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:54 | 2023-07-28 | 2023-08-04 |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-08 |  |
+| [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 | 2024-01-25 |  |
 | [Lilypad](https://open.spotify.com/track/2TVbyt1fENms720Vpobtwh) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Lilypad](https://open.spotify.com/album/5cdIXp8gnJBs0EX1zpGEd8) | 3:57 | 2023-11-09 | 2023-12-09 |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2023-08-31 | 2023-09-29 |
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/3rhn4iEAYlepu2GQ50YkaL) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:59 | 2023-03-16 | 2023-04-09 |

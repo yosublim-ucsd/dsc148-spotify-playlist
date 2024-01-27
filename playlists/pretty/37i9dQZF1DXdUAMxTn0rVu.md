@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Talib Kweli
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,728 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,912 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [The Red](https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 3:22 |
 
-Snapshot ID: `MCxmNmFjMGQ0N2ZhOTcwODU5MTRmMTQxMzgxMWIzN2YyMzE0ZTBmYTg3`
+Snapshot ID: `MCwwMjljYWU4MWM4ZTdiODM0NmYzNThjYTM1MWQwYjk4Y2M2MTNiYmE0`

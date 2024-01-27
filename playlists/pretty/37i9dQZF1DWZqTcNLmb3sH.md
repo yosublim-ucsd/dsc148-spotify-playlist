@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Bachelor Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,937 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,929 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Dama Dama Dum Damarukam](https://open.spotify.com/track/1Fjfv0r3mjkaIDNU80X9pr) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kavitha](https://open.spotify.com/artist/65G7Swi7ZAmjpdsTTyPRO1), [Jahnavi](https://open.spotify.com/artist/29JrKkLSdFM1aubUp9Ki0P), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Shantala \(Kannada\)](https://open.spotify.com/album/4s2YT72f0ELH73kdJav9Gm) | 3:05 |
 | 75 | [Eradu Gundege Katttaaalu](https://open.spotify.com/track/14JoAupAAEqIZ5AkyOUqNa) | [Sachin S Nagartha](https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw), [Raghu Niduvalli](https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06) | [Tiger Nageswara Rao \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7MUAdFCK3W3AyQfCwXXfFy) | 2:22 |
 
-Snapshot ID: `MCxlOTA3ZjhhYjA1Y2ZmYmE5N2ZlZDk0YWM1ZDExNjU1MWYxNmIwYTg0`
+Snapshot ID: `MCxhNGUzMGFhMmEwODk4OWZjMDk3NGQ2MjRmNDE1NWJjNjZkZmY5Y2Rk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,052 likes - 100 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 100 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 100 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |
 
-Snapshot ID: `MCxjM2U5YWQyMGRiNDE0MDU1NTg1YjEwMmM2MGFhNGIxOGQzNjExYzU3`
+Snapshot ID: `MCw1MWViYjYyZTRlMzRjMTliNWU4MGRiZDg1MDlhNDA4OWQ0N2Y5MTU2`

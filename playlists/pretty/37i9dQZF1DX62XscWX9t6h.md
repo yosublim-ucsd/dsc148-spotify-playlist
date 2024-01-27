@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,778 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,880 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Buleríâ del aire acondiçionao \(feat\. Miguelito García\) \- Versión Maxi](https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Miguelito García](https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p) | [Puerta de la Cânne](https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C) | 4:40 |
 | 100 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 |
 
-Snapshot ID: `MCxhMWIxNjhkMjNiZGZjMTBlMzEwZTU5YjE3NzUxYzA2NjQ1MzE2MWE3`
+Snapshot ID: `MCwxZTdlOGEyNjkzYmRlM2E4MzFjMjRhODVlMDEyMzczN2Y5ZTg4ZDI1`

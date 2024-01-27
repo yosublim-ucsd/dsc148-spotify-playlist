@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-111 songs - 6 hr 20 min
+112 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Black And White](https://open.spotify.com/track/3s2XiOGkArCBGDiJwDTBmx) | [Cherryholmes](https://open.spotify.com/artist/5kEVfWQGTw0rIDO2Jqq1ww) | [Cherryholmes II Black And White](https://open.spotify.com/album/3GIpi1yxbE6soZNVmk65Lo) | 5:18 | 2023-04-14 |  |
 | [Blame it on the Bluegrass](https://open.spotify.com/track/3qwqqmOBkC3OqWud4IXOxT) | [Valerie Smith](https://open.spotify.com/artist/4hLfpKmfEqJU0V2ez8mXN1) | [Blame It On The Bluegrass](https://open.spotify.com/album/4CEQIkPJj2sZFx5lkHON77) | 3:04 | 2023-04-14 |  |
 | [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 | 2023-04-14 |  |
+| [Can't Live Without Love](https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Can't Live Without Love](https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj) | 3:20 | 2024-01-26 |  |
 | [Can't You Hear Me Calling](https://open.spotify.com/track/23OoEtf6QaQ2HAUMvfldLa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 3:16 | 2023-04-14 |  |
 | [Carried Away](https://open.spotify.com/track/2WuuiyHR2qJzdn8VSJpUWD) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Carried Away](https://open.spotify.com/album/3GsgQgjdpG2yTdirtPruhP) | 2:56 | 2023-04-14 |  |
 | [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 | 2023-06-23 |  |

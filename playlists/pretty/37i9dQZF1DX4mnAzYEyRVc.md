@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,432 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,482 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
 | 100 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 
-Snapshot ID: `MCw3YzNkM2FlMzQxMjYyZDRiZDQ1ZWRkMGMxZGJkYmZjMzFkNDc4YjYw`
+Snapshot ID: `MCw0ZGZhN2JjYjcyZWY1NDQ2MjE0NzU0ZjUxZjhiMjE5Mzg4Y2EwODJj`

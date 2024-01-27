@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,578 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,874 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Three Times A Lady](https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 3:37 |
 | 150 | [The Closer I Get to You](https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:40 |
 
-Snapshot ID: `MCw0Njk2NTI0ZDZhZDcxMWMyN2UxYzgxMGRmYmViNmI5YjUyZmU2NTkx`
+Snapshot ID: `MCxkZjMxMjlmZTA4NWRhMDA2NzUxNzNhYzlhZGI2YWMxNGMwMzUzN2Jj`

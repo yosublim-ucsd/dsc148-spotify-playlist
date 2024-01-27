@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Sam Short",
+  "description": "Dark, hard hitting pop. Cover: Charlotte Sands",
   "name": "SALT",
   "tracks": [
     {
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190119,
       "name": "Cleveland",
       "url": "https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY"
@@ -5617,6 +5617,24 @@
     },
     {
       "album": {
+        "name": "Lose Her",
+        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170515,
+      "name": "Lose Her",
+      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+    },
+    {
+      "album": {
         "name": "Lose Lose",
         "url": "https://open.spotify.com/album/0j0dNw26VKfudkaXZm2QaT"
       },
@@ -6364,6 +6382,24 @@
       "duration_ms": 133971,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH"
+    },
+    {
+      "album": {
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK"
     },
     {
       "album": {
@@ -8545,6 +8581,24 @@
     },
     {
       "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "album": {
         "name": "SPOOKED",
         "url": "https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu"
       },
@@ -10568,7 +10622,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183680,
       "name": "You're Not A God",
       "url": "https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT"

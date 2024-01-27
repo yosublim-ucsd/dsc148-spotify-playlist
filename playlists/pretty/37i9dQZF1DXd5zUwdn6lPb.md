@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,876 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,080 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Overture\-Suite in G Major, TWV 55:G10: "Burlesque de Quixotte": IV\. Ses soupirs amoureux après la princesse Dulcinée](https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [Collegium Instrumentale Brugense](https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu), [Patrick Peire](https://open.spotify.com/artist/6tgPsm4ixxtFd7drCb8irg) | [Telemann Edition, Vol\. 1](https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC) | 2:00 |
 | 100 | [Ouverture\-Suite in D Minor, TWV 55:d2: VIII\. Menuet II\. Doucement](https://open.spotify.com/track/2c8keEZtTmhetir5FfMRvT) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [Collegium Instrumentale Brugense](https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu), [Marc Peire](https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz) | [Telemann Collection](https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1) | 1:17 |
 
-Snapshot ID: `MCw4ZGY5YjQyNmVlODI5NDI1MGExYWUzZGFjNWMxODAyYzVhOGNjMTVj`
+Snapshot ID: `MCwzYTU0ZWU3MTk0Yjc4MGNlNzNhZTJiZTY1Nzc0NGZmMGNmMWU3NWVm`

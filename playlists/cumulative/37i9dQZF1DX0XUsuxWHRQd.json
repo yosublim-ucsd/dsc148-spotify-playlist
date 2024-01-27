@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from 21 Savage, Drake and Nicki Minaj. ",
+  "description": "Music from Drake, 21 Savage, Kid Cudi and Travis Scott. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1660,6 +1660,24 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198292,
+      "name": "all of me",
+      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
     },
     {
       "album": {
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168932,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
@@ -9776,7 +9794,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144253,
       "name": "Entrapreneur",
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
@@ -10912,7 +10930,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 142837,
       "name": "First Day Out (Freestyle)",
       "url": "https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n"
@@ -13784,7 +13802,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 227647,
       "name": "Guitar In My Room (with Lil Durk & Kid Cudi)",
       "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
@@ -14767,6 +14785,24 @@
     },
     {
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
         "name": "HIT",
         "url": "https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv"
       },
@@ -15060,7 +15096,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 209751,
       "name": "Home Alone (with J. Cole)",
       "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
@@ -20502,7 +20538,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258746,
       "name": "Make tha Trap Say Aye (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/5fst2COuMGJQ7PzSRYGVj5"
@@ -28689,6 +28725,28 @@
     },
     {
       "album": {
+        "name": "RNS",
+        "url": "https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78"
+      },
+      "artists": [
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138856,
+      "name": "RNS",
+      "url": "https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub"
+    },
+    {
+      "album": {
         "name": "Robberies",
         "url": "https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0"
       },
@@ -35189,6 +35247,24 @@
     },
     {
       "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
+    },
+    {
+      "album": {
         "name": "This Summer",
         "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
       },
@@ -35772,7 +35848,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168814,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD"

@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B?si=Mf0WWcWCRnCBrWwOEWZGTQ"> Highlyy </a>
 
-710 songs - 1 day 10 hr 44 min
+711 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Garden Lily](https://open.spotify.com/track/4YPpEhN0gk7Ctf7a6tELmS) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Garden Lily](https://open.spotify.com/album/0JLWiL0bVlAeJLLszt2TMg) | 2:17 | 2023-08-03 | 2023-09-15 |
 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 | 2023-04-20 | 2023-09-15 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-04-21 |
+| [Gen\-Z Fuji](https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Gen\-Z Fuji](https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9) | 2:02 | 2024-01-26 |  |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 | 2022-12-09 |
 | [Girls Don't Lie](https://open.spotify.com/track/3RNNTSIVYYc6WKSVOaddED) | [Riddla](https://open.spotify.com/artist/3giIuhTDOCntFHZRwcZxSx) | [Girls Don't Lie](https://open.spotify.com/album/3oxS9QoCCfAO3qOwtnooau) | 2:44 | 2023-03-10 | 2023-03-25 |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-27 | 2023-02-04 |
@@ -701,7 +702,7 @@
 | [WMYT](https://open.spotify.com/track/0e3e56qw9k1WRxVHVJzttK) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [WMYT](https://open.spotify.com/album/3MvAlZO9vx2Optm6yM5B5H) | 2:49 | 2023-06-09 | 2023-07-14 |
 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 | 2023-03-17 | 2023-05-12 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2023-07-14 |
-| [woosah](https://open.spotify.com/track/5DNe0aazQiYo0ZQJkgPmkb) | [Prince Elorm](https://open.spotify.com/artist/3z4uisPPS3BhE21bhGmlMT) | [woosah](https://open.spotify.com/album/70rdy51wZtCGxYXWIfeYam) | 2:16 | 2023-11-24 |  |
+| [woosah](https://open.spotify.com/track/5DNe0aazQiYo0ZQJkgPmkb) | [Prince Elorm](https://open.spotify.com/artist/3z4uisPPS3BhE21bhGmlMT) | [woosah](https://open.spotify.com/album/70rdy51wZtCGxYXWIfeYam) | 2:16 | 2023-11-24 | 2024-01-27 |
 | [WORK](https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [WORK](https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X) | 2:34 | 2023-04-27 | 2023-11-03 |
 | [XO](https://open.spotify.com/track/0hIJZTluzNb0wFcydgV1gR) | [LottiXTC](https://open.spotify.com/artist/4BrVKxA7fBmB7siL8v7BK3) | [XO](https://open.spotify.com/album/0mRfAuheaBITh9VKYEnjBu) | 2:14 | 2023-06-22 | 2023-07-14 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 | 2023-10-27 |

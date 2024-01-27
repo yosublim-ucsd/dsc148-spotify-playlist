@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:7jS2YufaCykbNcmGLq37Wl">Julita Ziela Zielińska</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,947 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,936 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 9 | [Żółtego śniegu](https://open.spotify.com/track/1gmpJvh2ANxwQnWAZaAa2Q) | [Edit Piach](https://open.spotify.com/artist/38Yiuzht7gylFeKRlBtOtU) | [Żółtego śniegu](https://open.spotify.com/album/6NIfCzoAnXGGwIwcOa9E1c) | 3:09 |
 | 10 | [Without the Context of the Multitude?](https://open.spotify.com/track/7knj7RTHwMcBUA4fLQXgHE) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Without the Context of the Multitude?](https://open.spotify.com/album/5xdwka39Osq3Fvf2vX0sT6) | 4:19 |
 | 11 | [on my mind](https://open.spotify.com/track/3baJUSIbr5r1CIc3SkZqfL) | [Naczzos](https://open.spotify.com/artist/1uT5eysTvu0xBFZOcDOUEM), [S7iege](https://open.spotify.com/artist/0lTezROuUTwIU9rNnq96DY) | [on my mind](https://open.spotify.com/album/6bvwhKU7Cz3xYzy7zUI4vt) | 3:45 |
-| 12 | [Pośród chmur](https://open.spotify.com/track/6GTTiaKEzwkXSJcMnzowlM) | [Armand Dorosz](https://open.spotify.com/artist/7z9C4kuzfBwnOdgjKhjTuj) | [Ocean Gwiazd](https://open.spotify.com/album/5YHQm4b1MNv6XfBilWZhkY) | 3:06 |
+| 12 | [Pośród chmur](https://open.spotify.com/track/6GTTiaKEzwkXSJcMnzowlM) | [Armand Dorosz](https://open.spotify.com/artist/7z9C4kuzfBwnOdgjKhjTuj) | [Ocean Gwiazd](https://open.spotify.com/album/5YHQm4b1MNv6XfBilWZhkY) | 3:02 |
 | 13 | [nieświąteczna piosenka](https://open.spotify.com/track/55QUQ44GaxkBky8OhNKFiN) | [MISSI](https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp) | [nieświąteczna piosenka](https://open.spotify.com/album/3fSU9dvMuloAkl8eyeorV2) | 3:41 |
 | 14 | [that one piano song](https://open.spotify.com/track/243gPbVNrMeMkxBR3gKjPO) | [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [mess](https://open.spotify.com/album/3EfLkxvDpDtuVignw2ffUo) | 3:17 |
 | 15 | [Toksyna](https://open.spotify.com/track/1CJDCt74pGsOYvSnRImMWq) | [Leepy](https://open.spotify.com/artist/1FGhkw3Cs1StnbMiB0AAbX) | [Fatum](https://open.spotify.com/album/5AvUqIvJ9jAVwyZTvu3qWf) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [NIE MA NIC ZA DARMO / MIEJSKI SYF](https://open.spotify.com/track/1gSyLEmBaTPUaIzrALt4Hr) | [$andro](https://open.spotify.com/artist/3qgIvOMz1aQ5LoWDTKxfbA), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [EFEKT MOTYLA](https://open.spotify.com/album/5nrsuDRFwagMoMTMyQc4Ip) | 3:37 |
 | 100 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCxhMzRkZjlkYTliM2JmOThhZTVhMWNlMmZkNTVjMTM3M2QzZTg4NTRl`
+Snapshot ID: `MCxhY2JhYjE0ZjQ3NzY2MTU4OGUwNTljNzYzZTk3N2I0Y2ZkODNkZWI5`

@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Dua Lipa
 
-103 songs - 5 hr 35 min
+104 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [REACT \- D.O.D Remix](https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [REACT \(D.O.D Remix\)](https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH) | 2:15 | 2023-09-04 |  |
 | [Remind Me \- MOTi Remix](https://open.spotify.com/track/4TbWquCtBmcY8aVawQUkk3) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Remind Me \(MOTi Remix\)](https://open.spotify.com/album/3cTWPLFoIWN5ATpmtGMyUx) | 2:53 | 2022-06-20 | 2023-04-13 |
 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 | 2022-06-20 |  |
-| [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 | 2023-11-24 |  |
+| [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 | 2023-11-24 | 2024-01-27 |
+| [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2024-01-09 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-06-20 | 2023-12-11 |
 | [Rush \- Tom Santa Remix](https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 2:23 | 2023-09-04 |  |
 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 | 2022-06-20 | 2023-09-22 |

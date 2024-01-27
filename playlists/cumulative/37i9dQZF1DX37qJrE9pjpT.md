@@ -2,9 +2,9 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Darassa
 
-128 songs - 7 hr 21 min
+129 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [In Too Deep](https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [In Too Deep](https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH) | 3:27 | 2024-01-19 |  |
 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 | 2023-11-16 |  |
 | [Juu](https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq) | [MansuLi](https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Barbie Mia](https://open.spotify.com/artist/2F2GHfpKevoKxEC4jkXISU), [Moni Centrozone](https://open.spotify.com/artist/4GLSJqWjO11YaQXWJmWisl), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh) | [Juu](https://open.spotify.com/album/0DsM8PuiTltnwfV2LDh7dV) | 4:33 | 2022-04-28 | 2024-01-12 |
-| [Juu Chini](https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ) | [Kuzza](https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm) | [Juu Chini](https://open.spotify.com/album/6kX26uPTfzWVE8aYQtq4gh) | 3:04 | 2023-09-15 |  |
+| [Juu Chini](https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ) | [Kuzza](https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm) | [Juu Chini](https://open.spotify.com/album/6kX26uPTfzWVE8aYQtq4gh) | 3:04 | 2023-09-15 | 2024-01-27 |
 | [Kama Juzi](https://open.spotify.com/track/1OokFjg7JSECGHoQJDxYAh) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Old Skool Local](https://open.spotify.com/artist/43y0iNSEYUKnAXh1XdV23X) | [Kama Juzi](https://open.spotify.com/album/3X00CVKm7RcR6UKohKgtfU) | 3:37 | 2022-05-12 | 2023-08-31 |
 | [Kanairo](https://open.spotify.com/track/08n07M6D2ifhYH0P4hJcEm) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Kanairo](https://open.spotify.com/album/6KGQvHlJ4Tup07FyOahrXj) | 3:21 | 2023-09-21 |  |
 | [Kesho Njoo Dar](https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h) | [FreshlikeUhhh](https://open.spotify.com/artist/6KsXeVjMePiwK5H33s3Xk1) | [Kesho Njoo Dar](https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq) | 2:36 | 2023-08-28 | 2024-01-20 |
@@ -132,6 +132,7 @@
 | [Underated](https://open.spotify.com/track/7bd4QDW2jxqpV9oGN27xcJ) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV) | [Underated](https://open.spotify.com/album/3nzGGudeGMwFou9SswrfDU) | 2:57 | 2023-11-24 |  |
 | [Vitasa](https://open.spotify.com/track/4bmJwAdMUhPxvwL4lp4rrW) | [FreshBoys](https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU) | [Vitasa](https://open.spotify.com/album/6ku6iXnTyY0yLMxXSNhrMa) | 3:54 | 2024-01-19 |  |
 | [Vitu Vingi](https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Vitu Vingi](https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b) | 4:06 | 2022-06-10 |  |
+| [Wapi Huko](https://open.spotify.com/track/4ALRkQz2dbmZI666ErjSRG) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Wapi Huko](https://open.spotify.com/album/5qSW3lI8C6X1QNhFo6vAlh) | 3:30 | 2024-01-26 |  |
 | [Watatubu](https://open.spotify.com/track/7rBiGPmJUoaVbkRV4g1lXc) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Watatubu](https://open.spotify.com/album/0sqHTy0qJZyhTNnbLKbjtF) | 2:51 | 2022-03-28 | 2022-10-29 |
 | [Wave](https://open.spotify.com/track/29JgTNh9OT8095ohykOeC0) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Wave](https://open.spotify.com/album/19JiTrv2ucRckXR9gyYpws) | 2:20 | 2023-02-09 | 2024-01-20 |
 | [WE DID IT](https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc) | [ni\_kisanga](https://open.spotify.com/artist/6zShZL47Da1WJHMcqGeRPp) | [WE DID IT](https://open.spotify.com/album/6zk5eFAcjdMz0dtnbbIkQi) | 3:12 | 2022-06-10 | 2023-07-14 |

@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 91069,
+  "2024-01-27": 91116,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Anna HisbbuR (Hong Kong)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: adoracion (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2959,6 +2959,24 @@
       "duration_ms": 234285,
       "name": "Capa City",
       "url": "https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u9285\u771f\u5b9f",
+          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "Carta de Obon",
+      "url": "https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA"
     },
     {
       "album": {
@@ -7411,7 +7429,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167850,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t"
@@ -12441,7 +12459,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196591,
       "name": "notalk",
       "url": "https://open.spotify.com/track/2BGj4MbUPWcBKsLubfnLw1"
@@ -13227,7 +13245,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 231093,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
@@ -16536,6 +16554,28 @@
     },
     {
       "album": {
+        "name": "Swapping Socks",
+        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218762,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
+    },
+    {
+      "album": {
         "name": "Sweater Kleptomaniac",
         "url": "https://open.spotify.com/album/10rhK8UDz3RyHarFgnBA83"
       },
@@ -16573,6 +16613,28 @@
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "album": {
+        "name": "Sweet Hurting",
+        "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        },
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214622,
+      "name": "Sweet Hurting",
+      "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
     },
     {
       "album": {
@@ -17069,6 +17131,24 @@
       "duration_ms": 226478,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn"
+    },
+    {
+      "album": {
+        "name": "Them Us You Me",
+        "url": "https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Them Us You Me",
+      "url": "https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd"
     },
     {
       "album": {
@@ -18619,7 +18699,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 232373,
       "name": "WHAT A PERFECT SEASON TO CRY",
       "url": "https://open.spotify.com/track/3vWQSjzyqvyNAwXdFWMFaB"
@@ -19323,6 +19403,28 @@
       "duration_ms": 221473,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf"
+    },
+    {
+      "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/3v1CNOeQGpEm0orPcAQYFO"
+      },
+      "artists": [
+        {
+          "name": "VVAS",
+          "url": "https://open.spotify.com/artist/4JqgpBh90G3CofWnz8QKkc"
+        },
+        {
+          "name": "Wave And So",
+          "url": "https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "XXXXX",
+      "url": "https://open.spotify.com/track/6Hy98CgiuW14aceJmxkrOT"
     },
     {
       "album": {
@@ -20569,7 +20671,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 240765,
       "name": "\u30cf\u30a4\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK"

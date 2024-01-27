@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=yb2B\-KRbSyGfeu2yZVTtDw>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,785 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 |
 | 50 | [Thank You Lord](https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Thank You Lord](https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv) | 2:13 |
 
-Snapshot ID: `MCxiMGY3MzU4MmY5MzMwMWZlZTcxZTNjODVjYzc1MmZkMGQxNjkxZjdi`
+Snapshot ID: `MCxkMzUwZWRiMDk3ZjQ5ZTVlNzYyYzFlMDEzNGUzNjZjYjhjZTZlOWQw`

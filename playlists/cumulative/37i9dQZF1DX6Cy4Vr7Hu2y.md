@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Red Velvet\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-368 songs - 20 hr 32 min
+369 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-10-04 | 2022-10-08 |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-09 | 2023-12-07 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-08-18 |  |
+| [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 |  |
 | [GOKIGEN SAYONARA \- Korean ver.](https://open.spotify.com/track/5nmpMkZq1J06Uq8Dcl0lT5) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 4:20 | 2022-03-22 | 2022-04-17 |
 | [Good Night 잘 자](https://open.spotify.com/track/5qTMLwczsxG5Z10wdowN96) | [Ryu Ji Hye 류지혜](https://open.spotify.com/artist/4rGWpZenGw3V8eIx1GRHbz) | [Good Night 잘 자](https://open.spotify.com/album/0d1ZTAXOFdFk6ttHIFljGl) | 3:08 | 2022-03-22 | 2022-04-13 |
@@ -267,7 +268,7 @@
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |
 | [Run to you](https://open.spotify.com/track/63E8IANcukGDGqHXwhsTiI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Run to you](https://open.spotify.com/album/66LpaVbTu9g0myP35R123C) | 3:14 | 2022-03-22 | 2022-04-20 |
 | [Run to you](https://open.spotify.com/track/3iB8EwIDGGF7LMIiBqsKip) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 4:09 | 2022-03-29 | 2022-04-21 |
-| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-07 |  |
+| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-07 | 2024-01-27 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-11-21 |  |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-21 | 2023-03-29 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-08-01 | 2022-08-19 |

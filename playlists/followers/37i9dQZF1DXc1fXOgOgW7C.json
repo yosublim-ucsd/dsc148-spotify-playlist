@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 38960,
+  "2024-01-27": 38999,
   "date_first_scraped": "2023-07-30",
   "description": "Las canciones que marcaron una \u00e9poca.",
   "name": "Los 2010 Argentina",
@@ -21,6 +21,24 @@
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
+    },
+    {
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "album": {
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"

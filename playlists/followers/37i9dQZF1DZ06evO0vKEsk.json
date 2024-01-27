@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 134566,
+  "2024-01-27": 134406,
   "date_first_scraped": "2023-07-10",
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
   "name": "This Is Bruna Karla",
@@ -973,7 +973,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 307058,
       "name": "Santo \u00e9 o Senhor (Ao Vivo)",
       "url": "https://open.spotify.com/track/2RlMSGI026ydQH7oRsJxsT"
@@ -1197,6 +1197,24 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Jada Kingdom
 
-436 songs - 21 hr 33 min
+437 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 | 2022-03-21 | 2023-07-11 |
 | [Different Type](https://open.spotify.com/track/6h9EChcvpiIIcvJLHNPDMu) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type](https://open.spotify.com/album/6HKFR4WRYb1CjLbjB0wPJH) | 3:34 | 2021-12-20 | 2022-03-03 |
 | [Dinero](https://open.spotify.com/track/4s5F9S2VO5yEcVfxdvMgCO) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Dinero](https://open.spotify.com/album/3LSQXnFKLaRWqtCu2demWb) | 3:43 | 2023-09-24 | 2023-11-18 |
+| [Dip \(feat\. Tommy Lee Sparta\)](https://open.spotify.com/track/35VwdDhUnGuMJt5pdpRBqn) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Dip \(feat\. Tommy Lee Sparta\)](https://open.spotify.com/album/7zyoP8BuPaQpMZRjqYqe62) | 2:54 | 2024-01-26 |  |
 | [Dip Suh](https://open.spotify.com/track/6GLJNxz1Yf49PacjL3pfIz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dip Suh](https://open.spotify.com/album/7HAKCbEwhtrcPb3QHMRBhU) | 2:34 | 2023-09-24 | 2023-11-18 |
 | [Dirt To Bentley \(feat\. Kranium\)](https://open.spotify.com/track/4fUw8ekzehYoBXjVc5fzsk) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Dirt To Bentley](https://open.spotify.com/album/4mc1Lnsr9yyZ6y6LEzf5tY) | 3:16 | 2022-07-29 | 2022-09-10 |
 | [DOGGY STYLE](https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU) | [Fittis](https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [DOGGY STYLE](https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ) | 2:54 | 2023-01-31 | 2023-07-11 |

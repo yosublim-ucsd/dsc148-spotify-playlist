@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,221 likes - 350 songs - 21 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,881 likes - 350 songs - 21 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 349 | [Repetition](https://open.spotify.com/track/5110P5yc85WSckGmf47eA9) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 4:54 |
 | 350 | [The Worn Evening](https://open.spotify.com/track/6dsAFpaM3SyAZB0y7L8pKa) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [The Worn Evening](https://open.spotify.com/album/7w1Gulf7cveXWUYtgt9OV8) | 2:52 |
 
-Snapshot ID: `MCxjZWRlMGM4MDIzNGQwNDRhODRiNzI3NjRiZWI4ZDFkZTZiOGYyNmMx`
+Snapshot ID: `MCxiZjVlMzdhZmNjZDg5ODRlZDM2Yjk4YWY0ZjYwNmY2NDk3M2IxMjc2`

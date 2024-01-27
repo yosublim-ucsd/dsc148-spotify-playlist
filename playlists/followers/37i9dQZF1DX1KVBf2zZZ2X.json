@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 25758,
+  "2024-01-27": 25860,
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
   "name": "Soft Nature Music",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162000,
       "name": "Absence",
       "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 206000,
       "name": "Bogha Sound Bath",
       "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
@@ -507,6 +507,24 @@
       "duration_ms": 180353,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
+    },
+    {
+      "album": {
+        "name": "Clearing",
+        "url": "https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS"
+      },
+      "artists": [
+        {
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ"
     },
     {
       "album": {
@@ -1641,6 +1659,24 @@
       "duration_ms": 128250,
       "name": "Rhizome",
       "url": "https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj"
+    },
+    {
+      "album": {
+        "name": "Robin Choir",
+        "url": "https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez"
+      },
+      "artists": [
+        {
+          "name": "Sarah Loca",
+          "url": "https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179619,
+      "name": "Robin Choir",
+      "url": "https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u"
     },
     {
       "album": {

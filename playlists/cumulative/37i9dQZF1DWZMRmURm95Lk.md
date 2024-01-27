@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. DJ Shocca in cover.
 
-342 songs - 19 hr 49 min
+343 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Indelebili](https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:18 | 2024-01-11 |  |
 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2022-05-12 |  |
 | [Intro 2023 \(5tate of Mind freestyle\)](https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Intro 2023 \(5tate of Mind freestyle\)](https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc) | 1:28 | 2023-09-28 | 2023-11-21 |
-| [Invisibili](https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \(Ultimate Edition\)](https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD) | 2:50 | 2023-09-28 |  |
+| [Invisibili](https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \(Ultimate Edition\)](https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD) | 2:50 | 2023-09-28 | 2024-01-27 |
 | [Invisibili \(feat\. Claver Gold\)](https://open.spotify.com/track/0mCZ8kuH5wRZ1t7sovDDxf) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \- Episodio Tre](https://open.spotify.com/album/3Rk9Z7j5nAzPSmg0OHPSSo) | 2:50 | 2022-05-12 | 2022-07-27 |
 | [Iron Maiden](https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Iron Maiden](https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx) | 2:38 | 2022-05-05 |  |
 | [John Rambo](https://open.spotify.com/track/0ZtqnQ7XfuAxHmFSXCJeEl) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Stallone](https://open.spotify.com/album/4InaOHjXVZitzYJ0wYUaI7) | 2:28 | 2023-03-09 | 2023-04-06 |
@@ -160,6 +160,7 @@
 | [La Forma Dell'Acqua](https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn) | [Romanderground](https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Palingenesi](https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A) | 4:40 | 2023-05-04 | 2023-07-07 |
 | [La maggior parte](https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Faith](https://open.spotify.com/artist/04eXfz9LChWHvudbMf9OOm) | [La maggior parte](https://open.spotify.com/album/5tTsZMtusfHxPdBlGT57nP) | 3:27 | 2022-05-12 | 2022-09-11 |
 | [La mia mente spara/ Desert Hegel](https://open.spotify.com/track/5DAek3v0R22sxeTt1Uujwj) | [Silla Dddictator](https://open.spotify.com/artist/6xdYyidD0hj5DmqEQXdxeX) | [Camouflage Shadows](https://open.spotify.com/album/6j9AUHWcCll3vEXhEtewrY) | 3:08 | 2022-06-30 | 2022-07-16 |
+| [La Novità \(feat\. Mostro\)](https://open.spotify.com/track/2LvX1NpoVEZITNQrBeRRb5) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [La Novità \(feat\. Mostro\)](https://open.spotify.com/album/1W3wlUse97Ubgc8iPFJk0Z) | 4:05 | 2024-01-26 |  |
 | [La porra](https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 6:31 | 2022-05-12 |  |
 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 | 2022-05-05 |  |
 | [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ) | 4:13 | 2023-02-17 | 2023-07-20 |

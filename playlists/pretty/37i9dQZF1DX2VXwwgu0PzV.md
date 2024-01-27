@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=7l\_KHPs4Td62WOjO\_2TkWQ">Prinx Emmanuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,884 likes - 90 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,660 likes - 90 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 89 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 |
 | 90 | [One For The Lord](https://open.spotify.com/track/4cbknUhuVwOqKDZ2s4dAbp) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [One For The Lord](https://open.spotify.com/album/5i2EM4EzcNUNXGrgs3Olbk) | 2:57 |
 
-Snapshot ID: `MCxlZWY4Y2ExNGFhZGJiNmExOWZkZDRlOGRiZWVmZGE2ZDYzNTU5Y2Fk`
+Snapshot ID: `MCw5M2M2NDcwNzhlZThjNGRhNTMwMDNmNDJhZDg5ZDc4ZjE4ZGFhNThk`

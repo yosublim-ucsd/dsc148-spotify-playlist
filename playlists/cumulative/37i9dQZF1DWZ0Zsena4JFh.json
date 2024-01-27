@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. The Smile en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Future Islands en portada.",
   "name": "Indielandia",
   "tracks": [
+    {
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+    },
     {
       "album": {
         "name": "Being Funny In A Foreign Language",
@@ -118,7 +136,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201586,
       "name": "Artefact (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
@@ -212,7 +230,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185263,
       "name": "Best For You and Me",
       "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
@@ -248,7 +266,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 221946,
       "name": "Black Moon Rising",
       "url": "https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC"
@@ -327,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Burning In Flames",
+        "url": "https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "Burning in Flames",
+      "url": "https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8"
+    },
+    {
+      "album": {
         "name": "But Not Kiss",
         "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
       },
@@ -342,6 +378,24 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
+    },
+    {
+      "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
     },
     {
       "album": {
@@ -548,7 +602,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198569,
       "name": "exploding",
       "url": "https://open.spotify.com/track/4JT7UymD7YCLdRPx5KYtkO"
@@ -570,7 +624,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
@@ -635,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "album": {
         "name": "Girl Supreme",
         "url": "https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v"
       },
@@ -650,6 +722,28 @@
       "duration_ms": 168798,
       "name": "Girl Supreme",
       "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
+    },
+    {
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj"
     },
     {
       "album": {
@@ -744,6 +838,24 @@
       "duration_ms": 306106,
       "name": "Holiday House",
       "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
+    },
+    {
+      "album": {
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
     },
     {
       "album": {
@@ -1102,7 +1214,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
@@ -1174,7 +1286,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196000,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
@@ -1196,6 +1308,24 @@
       "duration_ms": 257200,
       "name": "My Room",
       "url": "https://open.spotify.com/track/6lUndwwkTFbuVSNytr62pG"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "album": {
@@ -1222,6 +1352,24 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "Nobody Escapes",
+        "url": "https://open.spotify.com/album/4A5YVlI0YUn2adU3tK7qjb"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "Nobody Escapes",
+      "url": "https://open.spotify.com/track/1IqRZsXV47xow1ZSdihWDK"
     },
     {
       "album": {
@@ -1310,6 +1458,24 @@
       "duration_ms": 178569,
       "name": "OMG",
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+    },
+    {
+      "album": {
+        "name": "One Call, That's All",
+        "url": "https://open.spotify.com/album/5ReXJD50OcjSTQ9vwFy0ld"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192730,
+      "name": "One Call, That's All",
+      "url": "https://open.spotify.com/track/2tQ1tPYwG39Gv8LuRI5G0Z"
     },
     {
       "album": {
@@ -1526,7 +1692,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215725,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5xJ9WXXDxVsZIutIHQRXlq"
@@ -1551,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/3n66BWhi8FGqDOHFbkON6y"
       },
@@ -1562,7 +1746,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 238133,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/44mw4OdRaYz6KkRVP5PEjN"
@@ -1602,6 +1786,24 @@
       "duration_ms": 237060,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
+    },
+    {
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1v2NopRSJs7XJWzpLSsX5d"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/4KQ9oQ7XR2eOzl6dEMLL7S"
     },
     {
       "album": {
@@ -1728,7 +1930,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 301680,
       "name": "Spare Me The Decision - Cutouts Remix",
       "url": "https://open.spotify.com/track/6ovMHhjpZZAeL1c9KMChXZ"
@@ -1833,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "The Conflict of the Mind",
+        "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "The Conflict of the Mind",
+      "url": "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR"
+    },
+    {
+      "album": {
         "name": "The Deceiving",
         "url": "https://open.spotify.com/album/32AeGVho713wI8Wm6jdgni"
       },
@@ -1887,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
+    {
+      "album": {
         "name": "Things will be fine (Bratty Remix)",
         "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
@@ -1924,6 +2162,24 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7qsdMGuObHstMzOUfgiNXJ"
+    },
+    {
+      "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
       "album": {
@@ -1978,7 +2234,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208630,
       "name": "Untidy Creature",
       "url": "https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a"
@@ -2014,7 +2270,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
@@ -2032,7 +2288,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
@@ -2072,7 +2328,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"

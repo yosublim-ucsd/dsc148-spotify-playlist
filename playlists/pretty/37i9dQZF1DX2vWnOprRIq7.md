@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Delfina Campos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,399 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,394 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Tiempo Sin Piel](https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Tiempo Sin Piel](https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz) | 4:08 |
 | 100 | [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 |
 
-Snapshot ID: `MCxiYzU4ZTU0MjZkNDZkOGJjNjhlMmI4MzE1MTY4YTMwZDM5MTc4ZjZi`
+Snapshot ID: `MCw0YjE1OTIzMjc2MjUzODljMDY1NThiOTk0YTQ5ZTZmOTEwZDUxNjQ4`

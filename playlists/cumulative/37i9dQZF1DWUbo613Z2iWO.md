@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Kyle Dion
+> R&B of the moment by the artists of the future\. Cover: Reggie Becton
 
-768 songs - 1 day 15 hr 25 min
+773 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-11-27 | 2022-12-03 |
 | [BAD HABITS](https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/6d1d2yNuU2RePNERr1o90S) | 3:05 | 2023-06-16 |  |
 | [Bad Idea \(feat\. Blxst\)](https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 3:36 | 2022-06-03 | 2022-08-27 |
+| [Bad M'fkr](https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Bad M'fkr](https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE) | 3:38 | 2024-01-26 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2023-01-26 | 2023-02-25 |
 | [Baddie](https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Baddie](https://open.spotify.com/album/242NIZnYlcRGtHpD1CH7nd) | 2:38 | 2022-09-02 | 2023-01-21 |
 | [Bamba](https://open.spotify.com/track/5oZnuqOhCodCZOlFlM4d7Y) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:27 | 2023-11-10 | 2024-01-11 |
@@ -144,6 +145,7 @@
 | [COMING](https://open.spotify.com/track/1oI95ixqkwg9wlFPGbkU8u) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [COMING](https://open.spotify.com/album/5s0VOTBnMRMVR3W4t68U47) | 2:53 | 2022-03-18 | 2022-04-29 |
 | [Complicated \- Remastered](https://open.spotify.com/track/1tW9w4AJjqNqVJZ2CkC83g) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Complicated \(Remastered\)](https://open.spotify.com/album/2GAUJEqmLi9MhHp0EiX3mO) | 3:15 | 2022-02-25 | 2022-03-26 |
 | [Control](https://open.spotify.com/track/2uws8aDdlBAOwoyYnViNXY) | [Krish](https://open.spotify.com/artist/4XfFEOsMvn6hwAVoNKLDqJ) | [Control](https://open.spotify.com/album/4OhMiEgNZgTUAJQw8Any8R) | 2:11 | 2022-03-25 | 2022-04-16 |
+| [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 |  |
 | [corazon \(with French Montana\)](https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 2:33 | 2022-09-30 | 2022-11-12 |
 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 | 2023-10-27 | 2024-01-11 |
 | [Countless Times](https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Countless Times](https://open.spotify.com/album/7KEabKxhNzFn56xzP3wqva) | 2:45 | 2022-04-08 | 2022-06-18 |
@@ -306,6 +308,7 @@
 | [Home](https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [The Art of Conversation](https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J) | 1:56 | 2024-01-10 |  |
 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 | 2023-02-10 | 2023-05-27 |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2023-01-20 | 2023-04-09 |
+| [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-01-26 |  |
 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 | 2022-05-13 | 2022-07-10 |
 | [Hourglass \(with Baby Tate\)](https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hourglass \(with Baby Tate\)](https://open.spotify.com/album/3NEUcyZnBlfzt2kS4ib7wO) | 2:54 | 2021-12-15 | 2022-03-12 |
 | [Hours](https://open.spotify.com/track/09aLAidfem9LE2TczinPy8) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [Interlude I: Hours](https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg) | 3:54 | 2022-04-01 | 2022-05-07 |
@@ -354,6 +357,7 @@
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-17 | 2023-04-22 |
 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 | 2022-05-06 | 2022-07-10 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2021-12-15 | 2022-02-26 |
+| [IT'S ONLY YOU](https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:28 | 2024-01-26 |  |
 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 | 2022-11-11 | 2023-05-13 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-05 | 2022-04-09 |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2022-07-15 | 2022-09-10 |
@@ -715,7 +719,7 @@
 | [Used To \(feat\. Jordan Ward\)](https://open.spotify.com/track/3fDDXsDuxBLinRP4Rw8pMc) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Used To](https://open.spotify.com/album/7HA8HlFD5DRDXn7LMcoOch) | 3:05 | 2023-12-08 | 2024-01-11 |
 | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw) | 2:27 | 2021-12-15 | 2022-03-06 |
 | [W.I.A \(Where I’m At\)](https://open.spotify.com/track/2FSo1Jjt0MjdGMwgFxcrGs) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [W.I.A \(Where I’m At\)](https://open.spotify.com/album/3kkHpK3tLoh18gFzDfALPu) | 3:07 | 2023-06-30 | 2023-10-14 |
-| [WAR!](https://open.spotify.com/track/3FQb9Ybqr2FsWJrb499pg0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 |  |
+| [WAR!](https://open.spotify.com/track/3FQb9Ybqr2FsWJrb499pg0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 | 2024-01-27 |
 | [Waste My Time](https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE) | 3:00 | 2023-06-16 | 2024-01-11 |
 | [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-06-16 | 2023-06-20 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-09 | 2023-07-01 |
@@ -746,6 +750,7 @@
 | [who do you love?](https://open.spotify.com/track/2p7MmJgujur4As6RENNFOA) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [who do you love?](https://open.spotify.com/album/1qFi5vdYpTtJMU4RaMjOSX) | 2:53 | 2023-11-10 | 2024-01-11 |
 | [Who's Loving U?](https://open.spotify.com/track/3WXvkQiB4DHUmb8Y6nPRKL) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Who's Loving U?](https://open.spotify.com/album/1MtvJd3KBWHNTgCsrmjs1C) | 2:43 | 2022-07-29 | 2022-11-12 |
 | [Whoa \(feat\. DaDa\)](https://open.spotify.com/track/2VaAxORqGdGuIUpxh6RN2A) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [DaDa](https://open.spotify.com/artist/5uJelMKVoF6nL9EAqMoIRU) | [Whoa](https://open.spotify.com/album/2vOCUbYompxH91agZgBc8q) | 2:30 | 2023-08-25 | 2024-01-11 |
+| [Who’s Been On Your Mind](https://open.spotify.com/track/5IwLjYaHO04YqP9SZRmIi4) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p) | [Who’s Been On Your Mind](https://open.spotify.com/album/5zhr5TB7m7TvNiwDLQhEb4) | 3:28 | 2024-01-26 |  |
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2022-11-18 | 2023-10-21 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2023-01-20 | 2023-04-04 |
 | [Why Not?](https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Why Not?](https://open.spotify.com/album/16bPNUwUldGobpbBVylfKs) | 2:44 | 2023-05-19 | 2023-07-15 |

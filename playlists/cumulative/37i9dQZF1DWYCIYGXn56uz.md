@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Valerio Mazzei
 
-326 songs - 15 hr 1 min
+327 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [pum pum pum](https://open.spotify.com/track/7oS4wH2v1Yl8fAdKxBZL61) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [pum pum pum](https://open.spotify.com/album/2JWpXVDQrDkFHLGmBuHznT) | 2:33 | 2024-01-04 |  |
 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 |  |
 | [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 | 2023-11-17 |
+| [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 |  |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 | 2023-09-22 |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |
 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-08-11 |

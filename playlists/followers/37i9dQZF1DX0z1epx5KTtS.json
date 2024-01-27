@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 82031,
+  "2024-01-27": 82091,
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Tam Sir",
+  "description": "African dance party music from Paris to Abidjan. Photo : Dydy Yeman",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -953,7 +953,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196000,
       "name": "DIGBA MOTEUR",
       "url": "https://open.spotify.com/track/2AN0Bqm35eknKxWlcxa5l0"
@@ -1385,6 +1385,28 @@
       "duration_ms": 235471,
       "name": "Fan ou Amoureux",
       "url": "https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS"
+    },
+    {
+      "album": {
+        "name": "Faut d\u00e9poser (Dingriii !!)",
+        "url": "https://open.spotify.com/album/6tVL71Z3p6bhCN201TUCwX"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        },
+        {
+          "name": "Maa Bio",
+          "url": "https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169730,
+      "name": "Faut d\u00e9poser (Dingriii !!)",
+      "url": "https://open.spotify.com/track/3eytZrHoUMaUjvV7bulqW0"
     },
     {
       "album": {

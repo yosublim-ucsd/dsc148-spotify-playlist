@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,712 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,820 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 149 | [Loaf Mode](https://open.spotify.com/track/0rKzqlcGgZv3vuNM6BKqTb) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Michel Tijdink](https://open.spotify.com/artist/07b7STGUVBw8GNmevEtcgl) | [Loaf Mode](https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP) | 2:17 |
 | 150 | [Geshem Bejuni](https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Geshem Bejuni](https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP) | 3:07 |
 
-Snapshot ID: `MCxkMTMwYTY1YWUyM2ExNGQ0MmY0MzM5OWJjNzhiNjZiNWJlYTI2OTIy`
+Snapshot ID: `MCxiNDI2ODZmNTliZmEyYjdhZDU1OTQxZTFjOGI3YjM3YjQ4N2Q3NWQ5`

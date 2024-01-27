@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,803 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,603 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
 | 100 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 |
 
-Snapshot ID: `MCxjMDE3MmRlMTAzODg3YjdiODhkYjk1Nzg4MDA1YWU1YmQ0ZGQ1ZWZj`
+Snapshot ID: `MCwxZGY2ZDhkMGYwZjJkMDJmMjQ3MDNkOTliYjMxNTIyNDQ3MTIwZWU3`

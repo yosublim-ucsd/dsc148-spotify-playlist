@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Ain't Missin' You",
+        "url": "https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "Ain't Missin' You",
+      "url": "https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy"
+    },
+    {
+      "album": {
         "name": "GEORGIA",
         "url": "https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4"
       },
@@ -356,6 +374,24 @@
       "duration_ms": 183226,
       "name": "Always Never",
       "url": "https://open.spotify.com/track/6H5GSjYSsIJG9h7Fm8QeUg"
+    },
+    {
+      "album": {
+        "name": "Anabelle",
+        "url": "https://open.spotify.com/album/49vqjsIgu9xzPAiURWy4vc"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Anabelle",
+      "url": "https://open.spotify.com/track/3FJapheyNIZg3W7bt1qpOa"
     },
     {
       "album": {
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211906,
       "name": "County Line",
       "url": "https://open.spotify.com/track/1UFzK8PZGiHXyjGGVawR77"
@@ -5023,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK"
       },
@@ -5464,7 +5522,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 205506,
       "name": "No Time Soon",
       "url": "https://open.spotify.com/track/6rNwrBKvGZLdA6cFdDivsV"
@@ -6108,7 +6166,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 187972,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/3QP4KQ74RjP3ziiAkeLqcO"
@@ -6484,7 +6542,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 123800,
       "name": "Stetson",
       "url": "https://open.spotify.com/track/5jQICwvgUzWQhUB94SsJU8"
@@ -6746,7 +6804,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 218939,
       "name": "Superpower",
       "url": "https://open.spotify.com/track/2CZKg7bfs1gIw4pg7WQwMy"
@@ -8024,7 +8082,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243339,
       "name": "Withdrawal",
       "url": "https://open.spotify.com/track/1f9fvRvOgREiC3xTUaDFr3"
@@ -8218,7 +8276,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 238573,
       "name": "Young and Stupid",
       "url": "https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB"

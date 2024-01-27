@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-77 songs - 4 hr 38 min
+78 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Preta de Humaitá](https://open.spotify.com/track/5s6OgyXVWd8poXQ9NFcMIr) | [Mununu](https://open.spotify.com/artist/6Pl3is2BWXd1lWbjrnqnNn), [Nego Moura](https://open.spotify.com/artist/6LPX9ybjEaR6mdqkbMPlLt), [Os Camarás](https://open.spotify.com/artist/3CONcpsrok1bCCFxOkriX7) | [Preta de Humaitá](https://open.spotify.com/album/27suoD4HF6ue9TQhHgrVgB) | 4:24 | 2023-12-08 |  |
 | [Proposta](https://open.spotify.com/track/6K7RRfMOjRHEwa0JN1tvf1) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/3xxzWBSGDSA6wNtT73Xiiv) | 3:44 | 2023-12-08 |  |
 | [Pétalas Vermelhas](https://open.spotify.com/track/25pUHGs0liXOe2qPc9ZuDa) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY), [Alfonz Jones](https://open.spotify.com/artist/4dI0tjVoli8bZZrRKRCgFa) | [Pétalas Vermelhas](https://open.spotify.com/album/00go5RKRDWp8IJFQKZv1QS) | 3:41 | 2023-12-08 |  |
-| [QUALQUER LUGAR](https://open.spotify.com/track/46HKh6eZE3NGEtokIMtxLZ) | [POSS](https://open.spotify.com/artist/0VrUyvwd1srJicpy2Pb5xB), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Proteja Os Seus Sonhos, Vol\. 2](https://open.spotify.com/album/5pywJt0uUgyHUUsezivi9K) | 3:39 | 2023-12-08 |  |
+| [QUALQUER LUGAR](https://open.spotify.com/track/46HKh6eZE3NGEtokIMtxLZ) | [POSS](https://open.spotify.com/artist/0VrUyvwd1srJicpy2Pb5xB), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Proteja Os Seus Sonhos, Vol\. 2](https://open.spotify.com/album/5pywJt0uUgyHUUsezivi9K) | 3:39 | 2023-12-08 | 2024-01-27 |
 | [Safely Far](https://open.spotify.com/track/4fouEMdY4YWeF4LFJjwrUs) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 3:05 | 2023-12-08 |  |
 | [Samba Soul](https://open.spotify.com/track/7ckpt4hV0tQToGvufwhIhs) | [Toninho Crespo](https://open.spotify.com/artist/04ct4xJNyJ22aJ3G2GHcUJ) | [Samba Soul](https://open.spotify.com/album/34IcX0llPVxmCrPk46fvEC) | 4:43 | 2023-12-08 |  |
 | [Se Bem](https://open.spotify.com/track/0oXf1XVXo3Qsm0eqx1pJvo) | [Rívia](https://open.spotify.com/artist/04YyFN1zuxkeu8EH5QWUsm), [Mais Q](https://open.spotify.com/artist/4zkwAP5pD0ZS1JW6mU7ijF) | [Cores](https://open.spotify.com/album/5378Ek1OzMLVklal3J7Nyu) | 3:33 | 2023-12-08 |  |
@@ -78,6 +78,7 @@
 | [Soul Brasileira](https://open.spotify.com/track/6dJ0wn1N0JtFdMlu5VbXjJ) | [Denise Diniz](https://open.spotify.com/artist/6MHeydE3MqKbdCVYavZxCR) | [Deusa Música](https://open.spotify.com/album/10SrMOCudH13pz9cSK3GnF) | 3:40 | 2023-12-08 |  |
 | [Soul África](https://open.spotify.com/track/530My5F6QgNrWspNZ4vEDW) | [Babu Santana](https://open.spotify.com/artist/0qA5UtcBL55QFvtjDmxRK8) | [Soul África](https://open.spotify.com/album/2wHupJ3kLogckvwYS6ToBO) | 3:23 | 2023-12-08 |  |
 | [Sá Menina](https://open.spotify.com/track/6TZDYwfSPFSxTEThMI41AZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Tom](https://open.spotify.com/album/7hKgpy2F02FNid1YXH4TM6) | 4:13 | 2023-12-08 |  |
+| [São Paulo High Society \- Remix](https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb), [Luísa Viscardi](https://open.spotify.com/artist/5crcFRnnfwZTcGybeH6OH3), [Shaka](https://open.spotify.com/artist/5GYGgY9pRpbfjCOvkIfImY), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [São Paulo High Society \(Remix\)](https://open.spotify.com/album/3n8EMWGqqovL4THs4lx1w9) | 3:35 | 2024-01-26 |  |
 | [Só Vem](https://open.spotify.com/track/6pRF997AHPwLzCRxu429th) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/6c508kN5KWvy2R5F0jtQQv) | 3:00 | 2023-12-08 |  |
 | [Tanto Faz](https://open.spotify.com/track/4p1Xa19ZjMsJrQ7FcPgHoN) | [Miguel Veleda](https://open.spotify.com/artist/1KtARhr94LMpQvfO8IrY73) | [Tanto Faz](https://open.spotify.com/album/0hDHf8jeylbdNJ1fwqUH3h) | 3:25 | 2023-12-08 |  |
 | [Te Queria](https://open.spotify.com/track/6yTuKiHV6VjroS2PY7CZi4) | [Zeca Do Trombone](https://open.spotify.com/artist/1tqfGIpfy4hVG7TI5I19sx) | [Rota\-Mar](https://open.spotify.com/album/1B6ODhLoto26LTzsZQJgEx) | 2:49 | 2023-12-08 |  |

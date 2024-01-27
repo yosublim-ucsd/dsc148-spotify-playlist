@@ -1,12 +1,12 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Novo Amor",
-  "num_followers": 1843864,
+  "description": "The best in folk & acoustic today featuring music from Tom Odell",
+  "num_followers": 1841681,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQyNjU3ZjBiMWUyZjAwNjFmZGRhMDgyMDQ4NWM4NzI1ZmNkZjQ4",
+  "snapshot_id": "MCw1MTVjNTlkMTYyNzg5YzllNDM3NjQzNjQ1ZGRjZDg4ZjAyMjZlMzFl",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
+      "added_at": "2024-01-26 14:02:43",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Right Back to It",
@@ -159,6 +175,22 @@
       "duration_ms": 192373,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
+    },
+    {
+      "added_at": "2024-01-26 14:02:43",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-01-19 05:00:00",

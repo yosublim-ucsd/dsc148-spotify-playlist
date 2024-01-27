@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,991 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,134 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |
 | 100 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
 
-Snapshot ID: `MCw4NWI4ZmYzMGQ2Nzg5OGY1YzM2YzYzYzQxMGM5NTllMDRmZDRiYzhm`
+Snapshot ID: `MCw2N2ZhNzM1ODE4MzlhNDFjNTk5N2I1OTU2YmUyOTdiZWM5Mzg1NzA4`

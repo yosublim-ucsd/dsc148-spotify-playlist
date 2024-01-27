@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya",
+  "description": "Naye Indie gaano ka khazana! Cover- Prateek Kuhad",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -581,6 +581,32 @@
     },
     {
       "album": {
+        "name": "Anjaana",
+        "url": "https://open.spotify.com/album/6JZ21dZJTtAFC1EA1KsAXN"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Anup Satam",
+          "url": "https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208363,
+      "name": "Anjaana",
+      "url": "https://open.spotify.com/track/3ebbxhIuOz0Fj2hS1Onxx4"
+    },
+    {
+      "album": {
         "name": "Antariksh",
         "url": "https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj"
       },
@@ -804,7 +830,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 268000,
       "name": "Baagh Aayore",
       "url": "https://open.spotify.com/track/0wRxv8Im3QgtlWRAhdNQEn"
@@ -2658,7 +2684,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168750,
       "name": "Hosh Na Raha",
       "url": "https://open.spotify.com/track/3cioL4K2HFHlCfOTGhkv2g"
@@ -2720,7 +2746,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 159522,
       "name": "Jadui Pari",
       "url": "https://open.spotify.com/track/5QPSxr7k2kyFCpZXFKm9T6"
@@ -3094,7 +3120,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166857,
       "name": "Jaise Mein Chaahun",
       "url": "https://open.spotify.com/track/2UxqmUsEvSJfOiwgspj03d"
@@ -3207,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Kaafi Ho",
+        "url": "https://open.spotify.com/album/18UmX0AGiBc8zZIwcHIgMJ"
+      },
+      "artists": [
+        {
+          "name": "Kakkey",
+          "url": "https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220641,
+      "name": "Kaafi Ho",
+      "url": "https://open.spotify.com/track/1gmSrvdhHB2NBLFFf7OHxJ"
+    },
+    {
+      "album": {
         "name": "Kaala Doriyaa",
         "url": "https://open.spotify.com/album/3INC2colH1nJtjnAqd8T8z"
       },
@@ -3262,7 +3306,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 143888,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI"
@@ -4457,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Life Is Certain",
+        "url": "https://open.spotify.com/album/2LzWmQaeUY3rh0ok7THjLq"
+      },
+      "artists": [
+        {
+          "name": "Parikrama",
+          "url": "https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274736,
+      "name": "Life Is Certain",
+      "url": "https://open.spotify.com/track/3TBCLwcRX4I4cd4Wc0UzMv"
+    },
+    {
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6"
       },
@@ -5165,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "No Complaints",
+        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187089,
+      "name": "No Complaints",
+      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
+    },
+    {
+      "album": {
         "name": "Noor",
         "url": "https://open.spotify.com/album/2AjN4gjLFrNFmPMys0ZjDC"
       },
@@ -5238,6 +5318,24 @@
       "duration_ms": 158117,
       "name": "OH HI!",
       "url": "https://open.spotify.com/track/3A52BQhCsK3jpf9TvhnXoL"
+    },
+    {
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/0VmJ3busCjjVnW21lFjDLn"
+      },
+      "artists": [
+        {
+          "name": "Nida",
+          "url": "https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/1RBoCMoHMs3fWFOHNC4zCz"
     },
     {
       "album": {
@@ -6452,6 +6550,24 @@
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
+    },
+    {
+      "album": {
+        "name": "Shor",
+        "url": "https://open.spotify.com/album/2edER6jfSkiA9eUFhdR14Z"
+      },
+      "artists": [
+        {
+          "name": "Maamuli",
+          "url": "https://open.spotify.com/artist/2MDXHghZmuXJImwzmBCeGC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Shor",
+      "url": "https://open.spotify.com/track/6bcZpVgLwABoJFE6hz8zYY"
     },
     {
       "album": {

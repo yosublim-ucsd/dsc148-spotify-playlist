@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,820 likes - 150 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,455 likes - 150 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Slow Hand](https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Black & White \(Expanded Edition\)](https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX) | 3:51 |
 | 150 | [Your Love Is King](https://open.spotify.com/track/7erXAfnatmoUow8DnbseOY) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:39 |
 
-Snapshot ID: `MCxhODEwZDNiNjZlOGY4ODNiNWYwOTMyZmJhNWRmYzgzMDUyNjAxNzAx`
+Snapshot ID: `MCw2OGI3NjEwNGQwNGJkNGY5ZDQ3MGU5NTI3ODFjZWMzNTJkYzk0Yzhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,522 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,486 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 10 | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/track/4jXWHwvxZreFh1fjXIStWs) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/album/6els5e7eyVp1WPF1MBtvqE) | 3:20 |
 | 11 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 |
 | 12 | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 |
-| 13 | [愛麗絲 1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
+| 13 | [愛麗絲1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
 | 14 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
 | 15 | [带着梦想去旅行](https://open.spotify.com/track/5CGoSutS9MwRyAhOGzfzAI) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [带着梦想去旅行](https://open.spotify.com/album/6Xd8pcwRS7eho9zrBJVcmp) | 3:58 |
 | 16 | [不召之臣 Unrequited Love](https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [白夜克拉克 White Night](https://open.spotify.com/album/32tEDVwzoLJEweaERQhrQd) | 4:55 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 19 | [氣球 \- Acoustic](https://open.spotify.com/track/5VmCDIYslnZLyYd1oazA60) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [In My Place](https://open.spotify.com/album/2TGs3hgQYD34mZLGN558Ov) | 5:48 |
 | 20 | [開往初戀的平行線](https://open.spotify.com/track/4QawTA1kfkh1LZxSLZPlfR) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [開往初戀的平行線](https://open.spotify.com/album/6nXyQqkXikmKGtBsMlyTti) | 4:24 |
 
-Snapshot ID: `MCwwMmJhNzBmNmUyMzA4MWM5YmZjZWQxMTkyNTNlZGUwYTMwMDJjOTg5`
+Snapshot ID: `MCwzMmZiNmZiMWRlZDA1MDNkNmRkZDI4YWZmMTVkNDBhZTVhODU4NDI5`

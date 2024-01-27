@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,067 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,101 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Sword](https://open.spotify.com/track/1EQ08xDU7g9brPXEVNeWnE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Show Me How You Disappear](https://open.spotify.com/album/3byic3J5R5PQCm62tdTimO) | 3:02 |
 | 125 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
 
-Snapshot ID: `MCwzOGJhMzlkMTc5NGY4MmM0MGM3NjZiZjQ4MDQ5MzVhMzc1ZTY3NzA1`
+Snapshot ID: `MCw2NDUzNDQwMjNhY2RjNWEwNzMwZTRhZmU1MjhhY2ZiNDVkZmZhMTJi`

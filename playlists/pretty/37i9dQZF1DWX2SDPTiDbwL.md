@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,866 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,904 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 60 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 |
 | 61 | [Bulerias](https://open.spotify.com/track/4ceIfkeFDxkmPF7uwcsd41) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 3:03 |
 
-Snapshot ID: `MCw1ZDQwYTI2ODc0YmZjYjUxN2I4MjFhYjlhZGI2OTE5YWQ3YzQzMmUw`
+Snapshot ID: `MCxlMzU1MGY3ZWEyNGIxYTYwZWE2OGEyYTc1ZjBlNjk0ZDIwMDhmN2Fm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,721 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,725 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1075,7 +1075,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1065 | [Fá\-êu\-á](https://open.spotify.com/track/7g7MPIOQ6nq28bOUTDdJqY) | [Meicio Askanasy, José Prates, Ivan de Paula](https://open.spotify.com/artist/28ljP12QBsgioe7MMMnq8g) | [Tam…Tam…Tam…!](https://open.spotify.com/album/1N2zdpYLoy6y55eT6A1n8W) | 2:31 |
 | 1066 | [Tropical Suite: São Paulo](https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH) | [Poni Hoax](https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD) | [Tropical Suite](https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3) | 2:06 |
 | 1067 | [Canticle](https://open.spotify.com/track/5PrmwfRJTvYy7DoTpOjL8s) | [Les Hommes](https://open.spotify.com/artist/2Cvdhz7BUQbO4LxeBBQM8s) | [The Sinner](https://open.spotify.com/album/4dGYodrtxGcPwO6beyEI2K) | 3:11 |
-| 1068 | [Goodbye](https://open.spotify.com/track/7vXOEBXXHICw71IfBFZh5Y) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:11 |
+| 1068 | [Goodbye](https://open.spotify.com/track/402F8nnGRwhlRKndk52Qae) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [One Understanding](https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU) | 4:11 |
 | 1069 | [Reza Brava](https://open.spotify.com/track/6JQmrSWkNvTJDdwJ0YfobY) | [Piri](https://open.spotify.com/artist/0gav0eK3c0etW2zs0V59Qc) | [Vocês Querem Mate?](https://open.spotify.com/album/5Fk8HGeDBqY9JFX7xWf6HU) | 3:09 |
 | 1070 | [TEMPO](https://open.spotify.com/track/6ELMwUUgxqo5lssCidx0kC) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [TEMPO](https://open.spotify.com/album/3XE8WWB8ZRl9IRDYxzUYlg) | 3:39 |
 | 1071 | [Sack o'woe](https://open.spotify.com/track/0Y7KReJY92mCe0HLJqkpE8) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/1oJ0i0DfplonYuvnc8avZZ) | 2:21 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

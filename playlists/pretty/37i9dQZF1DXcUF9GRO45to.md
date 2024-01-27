@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,457 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,570 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 |
 | 100 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 |
 
-Snapshot ID: `MCw0MjEzNjFmM2U4ZTk0Yzg4ZTEwNDlmMGNjMTQ4ZTU1MjdmNTFiNTBm`
+Snapshot ID: `MCxjNmU1NmZjNDQ5YzAyZjAyODlhZmFlZDBiZGRiMWQxMDNmZDJkY2U4`

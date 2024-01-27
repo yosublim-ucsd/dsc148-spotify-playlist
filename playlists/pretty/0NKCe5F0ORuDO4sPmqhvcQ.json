@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NzMsYmI0YTNmMzgzMzcxOWU1MDA4N2M4MjI3ZjFlNGY2MjYzNTlmZThkNA==",
+  "snapshot_id": "MTA1NzUsNjdmNjkwNGMwY2M4MDBiNTU3YTVkM2U1YjQ5ZGM4ZDExMWYxYzFjMQ==",
   "tracks": [
     {
       "added_at": "2023-11-24 18:25:16",
@@ -2763,6 +2763,42 @@
       "duration_ms": 264827,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/094tCgchiXY2srShd51TvA"
+    },
+    {
+      "added_at": "2024-01-26 06:09:43",
+      "album": {
+        "name": "leo",
+        "url": "https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "duration_ms": 140389,
+      "name": "mightaswell",
+      "url": "https://open.spotify.com/track/6ga3XobgWLyxpFLDpYHCKm"
+    },
+    {
+      "added_at": "2024-01-26 06:10:00",
+      "album": {
+        "name": "Power (Feat. Yianna)",
+        "url": "https://open.spotify.com/album/35X9DgSVkQVzsHFbqtfN0p"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Yianna",
+          "url": "https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Power (Feat. Yianna)",
+      "url": "https://open.spotify.com/track/3Y3dFkxxoU20qT0eeiKpJR"
     }
   ],
   "unique_name": "Moving Castle Monthly",

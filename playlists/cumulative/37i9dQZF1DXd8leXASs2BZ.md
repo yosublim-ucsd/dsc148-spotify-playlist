@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Yvng Patra
 
-195 songs - 8 hr 56 min
+196 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [In My Mind](https://open.spotify.com/track/6iRK132kCqyUTyFgnNbGMg) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 2:49 | 2023-12-07 |  |
 | [In2Deep](https://open.spotify.com/track/2QUZ7694rNKC9KLO0IYbaa) | [G\-SPARROW](https://open.spotify.com/artist/2AucnU5hZ6ilZassx6v75W) | [In2Deep](https://open.spotify.com/album/5QB940f1fzyuHo6Uxgm1i3) | 2:48 | 2024-01-18 |  |
 | [Intro](https://open.spotify.com/track/7lFq5rNntI0abNXzINWNt6) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Intro](https://open.spotify.com/album/5fUyFfI0R6bsuXYJVMGdGg) | 2:05 | 2024-01-18 |  |
-| [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 |  |
+| [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 | 2024-01-27 |
+| [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 | 2024-01-25 |  |
 | [Jerky](https://open.spotify.com/track/4fAhvtlPNJnciRmeGvHbBk) | [GioGio](https://open.spotify.com/artist/2ak8BuJIDBr42JHPiehyLi) | [Jerky](https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ) | 2:51 | 2023-12-26 |  |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2023-12-07 |  |
 | [Kick Back](https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Kick Back](https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR) | 2:13 | 2024-01-23 |  |

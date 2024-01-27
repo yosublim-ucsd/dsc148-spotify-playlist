@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,608 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,626 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 |
 | 125 | [When Everything is Grey](https://open.spotify.com/track/3h4gssEEpQZxfT9SKF9wD0) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [it's hard to see color \[When You're So Impossibly Far Away\*\]](https://open.spotify.com/album/1pqyO49hbBxbec1jMA5f0c) | 3:25 |
 
-Snapshot ID: `MCwyNTRmMWI0N2ZlYmViOThiMTk3MDdlMWIxZDY3ZWJjZDVlMzM5OGI5`
+Snapshot ID: `MCxiMWEwODYwMWFhYTRhNzUwYmY2OWM1MmQ4ODY2ZjUxYzk2MGIyOTJk`

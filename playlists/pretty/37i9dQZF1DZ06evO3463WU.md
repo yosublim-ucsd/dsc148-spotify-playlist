@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,310 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,295 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 39 | [Tú Me Dejaste](https://open.spotify.com/track/3qnIp4WqxmHg0aTywpXElX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:51 |
 | 40 | [Con El Alma En La Mano](https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:40 |
 | 41 | [Inventame Un Amor](https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 4:01 |
-| 42 | [Me Voy A Alejar](https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Me Voy A Alejar](https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E) | 3:19 |
-| 43 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 |
+| 42 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 |
+| 43 | [Me Voy A Alejar](https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Me Voy A Alejar](https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E) | 3:19 |
 | 44 | [Mi Gran Problema](https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:35 |
 | 45 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
 | 46 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Con El Alma Marchita](https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Con El Alma Marchita](https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb) | 3:20 |
 | 50 | [De Frente Al Mar](https://open.spotify.com/track/4GSIoYyjKvTU7NieBjI2Dp) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:05 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBhYjE2MjAxZWYwM2U3MjIzZWU2NTIxYmQ2YzExOGY1ZQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDAxN2I3MzUwNTAwZmQwYTI4MmY5ZGE0NzYxMzJiYWQ1Yw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,191 likes - 160 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,761 likes - 160 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 159 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 |
 | 160 | [Inmensity](https://open.spotify.com/track/1CgVfTgDI5C0KtupDqLpbq) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Inmensity](https://open.spotify.com/album/6lccCDR7O0mLxyK62DuvGn) | 2:19 |
 
-Snapshot ID: `MCw5ZmFhYTUzZTBhMDczMzhmMjU1MzBmMjViM2Q1ZTQ5ZGI3ZDdmMjE0`
+Snapshot ID: `MCwwMDRlNzIyNmIzMDUxZGQyM2I0NDRiNTllMTI0ZDcxM2IxNTQxY2Fk`

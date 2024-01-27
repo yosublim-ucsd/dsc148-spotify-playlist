@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,309 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,296 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 |
 | 75 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 
-Snapshot ID: `MCxhNGQ0ZDcxMWNlMjlkYzE0Mzc4OTA5ODcyNzJhMGFmMmVlOTk4Nzgz`
+Snapshot ID: `MCwxY2IzM2ExZTYwMzQ2ODFhNDE3M2QwZDc5ZjE1OGQ4NTY3MTJhMjdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,852 songs - 4 day 4 hr 5 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,853 songs - 4 day 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1860,5 +1860,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1850 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/67d61xaEAHgejORdRW1Bxt) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM \(SLOW & HARD VERSION\)](https://open.spotify.com/album/5Y2ksEFO3x9uS88JKIhbGy) | 3:30 |
 | 1851 | [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 |
 | 1852 | [I'Il die next summer \(no joke\)](https://open.spotify.com/track/6Srw8p5X0jYa6fU8nV0x7X) | [DRXG ADXICTION](https://open.spotify.com/artist/0bpNZLmtUlD2ziShWYEVUi), [RAGEIX](https://open.spotify.com/artist/2TxcnTACuVJ1wA1f7U6G4Y) | [I'Il die next summer \(no joke\)](https://open.spotify.com/album/4jbsTDSSba0q1gbKPyhlp5) | 2:53 |
+| 1853 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 |
 
-Snapshot ID: `NzAzLDU0Yzc0YTAzNjljNjY4ZDE4ZmQ1M2E5M2VhNmM5ODQ3MTdiYTEwZmI=`
+Snapshot ID: `NzA0LGY3YjcyMjFmYmI4M2UwODBmYWFlYTVjMjFkMTZlOTYyZWJiZGU2MDY=`

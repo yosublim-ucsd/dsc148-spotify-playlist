@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,504 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,396 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 75 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 
-Snapshot ID: `MCwyM2I4YmNmNmQ2YjQ5MDU3MjczZjdmMzQ3MDdiN2ZiNTAxMjI1OTI3`
+Snapshot ID: `MCxhYTY3MWQ4Y2VlZGRmNjljYjNmNzI4Nzc0MGI4YjliYzUzZGU5ZDUx`

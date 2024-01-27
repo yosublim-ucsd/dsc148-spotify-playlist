@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Kwak Jin Eon\(곽진언\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,851 likes - 105 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,621 likes - 105 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 |
 | 2 | [Better](https://open.spotify.com/track/54nRNzhHNi8xL53obahC0o) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Short Pieces \(Studio Live\)](https://open.spotify.com/album/0Ed1Cb804BKKJQKZHWhARy) | 4:22 |
-| 3 | [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 |
+| 3 | [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 |
 | 4 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 |
 | 5 | [Love Has Gone](https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Solar Gamsung Part.7](https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx) | 4:00 |
 | 6 | [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 31 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 32 | [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 |
 | 33 | [사랑을 사랑하고 싶어 Love was my song](https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:15 |
-| 34 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
+| 34 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
 | 35 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 |
 | 36 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 37 | [Voyage](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [CASTAWAY DIVA OST Part.8](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) | 4:14 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 53 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 |
 | 54 | [No Way \(feat\. I’MIN\)](https://open.spotify.com/track/1wZVmivEx6PL8u0l2Ucl3j) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [No Way \(feat\. I'MIN\)](https://open.spotify.com/album/5XBMI7oEj1BKJqS9dTbXc8) | 3:04 |
 | 55 | [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/track/3mXGAVd0raJbNEcEILMbJ7) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/album/1Kh88hUrbmT8wwlmm22mmf) | 3:54 |
-| 56 | [Only](https://open.spotify.com/track/7li0cs7VNPzKTepvKWYHCf) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:59 |
+| 56 | [Only](https://open.spotify.com/track/7li0cs7VNPzKTepvKWYHCf) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:59 |
 | 57 | [Sad promise](https://open.spotify.com/track/1R8QjyMqO9UEh18FqCG1vu) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Sad promise](https://open.spotify.com/album/5FAFONbvL0yNPPr3nYz0CF) | 3:57 |
 | 58 | [I Love You](https://open.spotify.com/track/2HzeslUSiNrdKHjCmNTZqd) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I Love You](https://open.spotify.com/album/0fzyT7joLZb93kPsGFKNnK) | 4:22 |
 | 59 | [My Days](https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 104 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 |
 | 105 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 |
 
-Snapshot ID: `MCwzZWIyYzYyZjYzOWExMGU2Yjc1NWE2ZjMxNGUzNzBlMDRiMjc5MzBh`
+Snapshot ID: `MCw5M2I5NTM5ZjI0ZGU4ZThmMTJiMmFlYWQ4YzFjYzFkMTUzMmYwMWQ1`

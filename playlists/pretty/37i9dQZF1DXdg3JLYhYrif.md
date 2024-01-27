@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,572 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,655 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Deixa Ela Beijar](https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4) | 2:46 |
 | 60 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 |
 
-Snapshot ID: `MCw1YmI1ZDdjM2FlNWI1Mjc1MTM1YjE3ZGFmZjZiZGM5ZGZlZTAxZmVi`
+Snapshot ID: `MCxmY2U1MWVhZjBjZDE4NzZhMmNjYzgwMWQ4MjhlYWZjNzhiYmQ3MTc1`

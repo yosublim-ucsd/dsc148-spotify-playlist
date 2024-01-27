@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,806 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,808 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Agujeros Blancos](https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 2:24 |
 | 100 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
 
-Snapshot ID: `MCxkODdmYjY1NjFmYjAwMDI4MjVkYWU4MmU0NmQzM2M4NjFkMmM0ZGRl`
+Snapshot ID: `MCxhNWI5ODU1MGVhNTczNzgwNmYyNjZkODVkYzQyMjI5MGMxZWFkOWFh`

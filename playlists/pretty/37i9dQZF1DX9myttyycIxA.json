@@ -1,13 +1,93 @@
 {
-  "description": "Underground indie rock gems. Cover: PACKS",
-  "num_followers": 293792,
+  "description": "Underground indie rock gems. Cover: Katy Kirby",
+  "num_followers": 293799,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTYxMjIxYWYyZmExNGMwZDViNTFjN2FhNGM5MWM0ZjgzNTlhZGNm",
+  "snapshot_id": "MCwwZDVmZWMzZWYyZWQ5Y2IwYmJhM2QyMGNiOTAyZTc4MjRkMGE0MGQy",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl"
+      },
+      "artists": [
+        {
+          "name": "Justice Der",
+          "url": "https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Band Like That",
+        "url": "https://open.spotify.com/album/5fRzRIGjUCxlL68gipL7tP"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Band Like That",
+      "url": "https://open.spotify.com/track/0aKMGLwrK6KJLvMafZvsSZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 199045,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 167631,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I-90 Bridge",
+        "url": "https://open.spotify.com/album/32eLWJP5fC26HGO3awNioD"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 293815,
+      "name": "I-90 Bridge",
+      "url": "https://open.spotify.com/track/3hzwcc7r60iu5LxwnBgB3F"
+    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -23,6 +103,54 @@
       "duration_ms": 202910,
       "name": "Screwdriver",
       "url": "https://open.spotify.com/track/7DlxlzEqL01TZlQkZaeyyY"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Twitching Heart",
+        "url": "https://open.spotify.com/album/0WwsCPhljFRcqlX18U8CDe"
+      },
+      "artists": [
+        {
+          "name": "Covey",
+          "url": "https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe"
+        }
+      ],
+      "duration_ms": 332642,
+      "name": "Twitching Heart",
+      "url": "https://open.spotify.com/track/1rLv5bq1mTep389Dlfo046"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "TV on TV",
+        "url": "https://open.spotify.com/album/5lOTLk4sQjCxpu1OjZDQ5R"
+      },
+      "artists": [
+        {
+          "name": "Pouty",
+          "url": "https://open.spotify.com/artist/7df6s0ZqRT1OAPw4H3wSzM"
+        }
+      ],
+      "duration_ms": 165662,
+      "name": "TV on TV",
+      "url": "https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -55,22 +183,6 @@
       "duration_ms": 163775,
       "name": "Her Garden",
       "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Work Out",
-        "url": "https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt"
-      },
-      "artists": [
-        {
-          "name": "Post Sex Nachos",
-          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -779,22 +891,6 @@
       "duration_ms": 136153,
       "name": "pretty scars",
       "url": "https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Table",
-        "url": "https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 120867,
-      "name": "Table",
-      "url": "https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1555,102 +1651,6 @@
       "duration_ms": 196269,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Surely",
-        "url": "https://open.spotify.com/album/0OcRephWE5hiCa0aTo16KA"
-      },
-      "artists": [
-        {
-          "name": "Nara's Room",
-          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
-        }
-      ],
-      "duration_ms": 265468,
-      "name": "Surely",
-      "url": "https://open.spotify.com/track/7ySAkFmUIX2xj7DTMDC2Ej"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Kato",
-        "url": "https://open.spotify.com/album/5u26Oeh7KvSFVkv3BaBusy"
-      },
-      "artists": [
-        {
-          "name": "The Aubreys",
-          "url": "https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2"
-        }
-      ],
-      "duration_ms": 227994,
-      "name": "Kato",
-      "url": "https://open.spotify.com/track/0mxb6NgXIRyNNZEo050ixz"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Tracey Denim",
-        "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "changer",
-      "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Someway Somehow",
-        "url": "https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo"
-      },
-      "artists": [
-        {
-          "name": "Party Nails",
-          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
-        }
-      ],
-      "duration_ms": 208677,
-      "name": "Someway Somehow",
-      "url": "https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "The Rainbow Wheel of Death",
-        "url": "https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "High School Gym",
-      "url": "https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
     }
   ],
   "unique_name": "undercurrents",

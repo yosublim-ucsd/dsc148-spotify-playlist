@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > Spotify 's \*hits different\* Summer Camp \- a playlist pop\-up in Sydney feat\. your favourite artists\. Click  <a href="https://spoti.fi/hitsdifferentsummercampday1"> here </a> for more info\. Cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,982 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,946 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 79 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 80 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 
-Snapshot ID: `MCw5NzdjYjIwZmFlY2Y3ZjlmMjMzZDI5MzM2NTg0ODA3NTk3NzEzYmVl`
+Snapshot ID: `MCwwN2U3OGFlN2FkMDY0MjUwODZiZTIxZmUyYmQ5YWZlMTc0Y2JlODY5`

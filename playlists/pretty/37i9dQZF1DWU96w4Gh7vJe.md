@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,352 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,371 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
 | 50 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
 
-Snapshot ID: `MCwyNmVmMWJkMmNmZjQ2ZmYzMGM1OTBiOTQ2YzRhODBiMjQ0NGM0Mzk1`
+Snapshot ID: `MCw5MDc5YTZmY2U1NmVjMzUxZmQyMGMwNjZhNjg1NTFjYWRiZTBkNzY1`

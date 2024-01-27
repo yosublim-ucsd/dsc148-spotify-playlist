@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-123 songs - 13 hr 46 min
+125 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bane \- Original Mix](https://open.spotify.com/track/3nBiBY8DNnJNbquQVoL7Q1) | [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Todo Pasa](https://open.spotify.com/album/6CXmtcXDhZ2LJlQFwhD3m3) | 7:23 | 2020-09-04 | 2023-11-18 |
 | [Bells In The City](https://open.spotify.com/track/51ZPZgUzbjwTgQwsEWJIqo) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City](https://open.spotify.com/album/5UUaiaa10XXSAPvXFS81bg) | 6:33 | 2020-09-04 | 2023-11-18 |
 | [Bells In The City \- Original Mix](https://open.spotify.com/track/1waXr3hfD2ClJweduv16v8) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City EP](https://open.spotify.com/album/0wpoF3SrFhEziktsJMvKEO) | 6:33 | 2020-09-04 | 2022-07-29 |
+| [Betimed](https://open.spotify.com/track/6FPjedGz6ZfCV1gNGYlh5m) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF), [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Betimed](https://open.spotify.com/album/6G8sFuSYFo8IHDTCFyWRD4) | 6:29 | 2024-01-26 |  |
 | [Billie Jean](https://open.spotify.com/track/2E2GAGt1Ga9rE9M7vI60mN) | [Elina Cándido](https://open.spotify.com/artist/1xT5q2DpttYvrliOhx9NzN) | [Billie Jean](https://open.spotify.com/album/1f1e0wzFqiB46s1tDIgIVW) | 2:32 | 2023-11-17 |  |
 | [Black Eleven](https://open.spotify.com/track/2vIsurdCIhwEUmxJXz6LmU) | [Mariano Montori](https://open.spotify.com/artist/3a6xqDiV8vYORt9BuKwUJt) | [Black Eleven / Unstoppable](https://open.spotify.com/album/4adC8BXuTnR3HNlNSaPaiL) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Bugs & Blossoms \- Original Mix](https://open.spotify.com/track/3gLlJl105YAouFQnFGgiH8) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Bugs & Blossoms](https://open.spotify.com/album/7gc7INYiV83GH367pAisSr) | 6:54 | 2020-09-04 | 2023-11-18 |
@@ -107,6 +108,7 @@
 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 | 2023-11-17 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 | 2023-11-18 |
+| [Secret Society](https://open.spotify.com/track/7H7YhNmZgcpAwxfuIc9mGj) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Secret Society](https://open.spotify.com/album/2uGkafaaReIOMZZHyj5nCa) | 4:42 | 2024-01-26 |  |
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 | 2023-11-18 |
 | [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 | 2023-12-07 |  |
 | [Shades of Blue \- Original Mix](https://open.spotify.com/track/5liCbYlITgbpbPMmKrbh8o) | [Marcelo Vasami](https://open.spotify.com/artist/4bsJBOidwLc1UbwPoKbF44) | [Dirty Talk](https://open.spotify.com/album/4mhDwi7PYRFkQblvLi67i9) | 9:16 | 2020-09-04 | 2023-11-18 |

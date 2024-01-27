@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,817 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,820 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
 
-Snapshot ID: `MCw0MjUwMDJjMjZiNjJhM2ViOGQwNGMzMmU0MzBkMDUwNTU5ZTFlNTQw`
+Snapshot ID: `MCxkODNiMjNhMTBjMTFiMzQ4NmRlNzkxMDI3ZGFiMjRhODdhYzM2YmQ1`

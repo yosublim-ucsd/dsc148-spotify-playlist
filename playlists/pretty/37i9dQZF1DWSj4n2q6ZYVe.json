@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 448341,
+  "num_followers": 448791,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmMwNmM1ZTlkYjJiZmY3YWE0Mjg5MjViYmQ2ZTc5YWNmMGZkYzEz",
+  "snapshot_id": "MCw3NzU5MzA4ZDBiZjZjNDhlNTI5OTJjYTgzZTk3YTU5OTFmZjdiN2Vm",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -111,26 +111,6 @@
       "duration_ms": 242053,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
-    },
-    {
-      "added_at": "2021-10-06 04:50:26",
-      "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -251,22 +231,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Stamp!",
         "url": "https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In"
       },
@@ -279,6 +243,22 @@
       "duration_ms": 197961,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -335,6 +315,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 176453,
       "name": "All I Ever Wanted - Radio Edit",
       "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -435,26 +415,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Now You're Gone - The Album",
-        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
-      },
-      "artists": [
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        },
-        {
-          "name": "DJ Mental Theos Bazzheadz",
-          "url": "https://open.spotify.com/artist/0zVBfaGL0d4vtZZuZWv9lt"
-        }
-      ],
-      "duration_ms": 148186,
-      "name": "Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit",
-      "url": "https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -471,6 +431,26 @@
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Now You're Gone - The Album",
+        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        },
+        {
+          "name": "DJ Mental Theos Bazzheadz",
+          "url": "https://open.spotify.com/artist/0zVBfaGL0d4vtZZuZWv9lt"
+        }
+      ],
+      "duration_ms": 148186,
+      "name": "Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit",
+      "url": "https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -611,58 +591,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Noah's Arc Soundtrack",
-        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclair",
-          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Push The Button",
-        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 393813,
-      "name": "Galvanize",
-      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -683,6 +611,42 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Noah's Arc Soundtrack",
+        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclair",
+          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Push The Button",
+        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 393813,
+      "name": "Galvanize",
+      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Rooty",
         "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
       },
@@ -695,6 +659,22 @@
       "duration_ms": 285533,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -831,6 +811,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -867,22 +863,6 @@
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1395,6 +1375,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Invaders Must Die",
         "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
       },
@@ -1423,22 +1419,6 @@
       "duration_ms": 399546,
       "name": "I Want Your Soul",
       "url": "https://open.spotify.com/track/5WEYk2b7fdg0hl42Ts3f4I"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1799,6 +1779,22 @@
       "duration_ms": 263066,
       "name": "Bad Romance - Skrillex Remix",
       "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH"
+      },
+      "artists": [
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        }
+      ],
+      "duration_ms": 145764,
+      "name": "Riverside - Radio Mix",
+      "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
     }
   ],
   "unique_name": "Dance Hits 2000s",

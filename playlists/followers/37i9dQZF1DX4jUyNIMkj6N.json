@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 197618,
+  "2024-01-27": 197644,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -3096,6 +3096,28 @@
     },
     {
       "album": {
+        "name": "Skuggor av oss",
+        "url": "https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x"
+      },
+      "artists": [
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T"
+        },
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187308,
+      "name": "Skuggor av oss",
+      "url": "https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG"
+    },
+    {
+      "album": {
         "name": "Solfager og Ormekongen",
         "url": "https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS"
       },
@@ -3411,7 +3433,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 200906,
       "name": "Tell Me About It",
       "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"

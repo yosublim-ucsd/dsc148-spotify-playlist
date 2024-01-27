@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,262 likes - 450 songs - 17 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,275 likes - 450 songs - 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 449 | [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 |
 | 450 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 |
 
-Snapshot ID: `MCw1NzljODZhZWM4ZjczNzlkZjg5ZWM0OWEzNjMzMGVmYmYwNjdhNDc0`
+Snapshot ID: `MCw5ZGM0NGQ5YTkwNTM5ZTU3YmZmNzAzNTE3ZGY4OWVhYWM3YWZkNGMy`

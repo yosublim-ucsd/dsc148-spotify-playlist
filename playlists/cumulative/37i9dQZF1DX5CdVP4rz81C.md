@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Benson Boone
+> Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-1,560 songs - 3 day 10 hr 1 min
+1,562 songs - 3 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 | 2022-05-07 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2022-10-01 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 | 2022-02-05 |
+| [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-26 |  |
 | [Half\-Life](https://open.spotify.com/track/12dHBnSG3YxP98AgsatZNr) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Half\-Life](https://open.spotify.com/album/0ppTCxRyTv1BtqsRyQDs0s) | 3:50 | 2023-11-17 |  |
 | [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 | 2022-11-11 | 2022-12-17 |
 | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4A8pBxx0of2Y8r56dT0atf) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/album/41tUnMTVSyImoq1Dyr5UhX) | 3:06 | 2020-10-13\* | 2021-02-22 |
@@ -1172,6 +1173,7 @@
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-13\* | 2020-12-10 |
 | [Say My Name](https://open.spotify.com/track/5VOBsfdn1wlCwuuw7pKgU3) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Say My Name](https://open.spotify.com/album/3drRUJWgGS6qSjpL1zThyT) | 3:18 | 2022-05-06 | 2022-08-06 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-19 | 2023-11-18 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 |  |
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-09-11 | 2021-09-25 |
 | [Screaming Underwater](https://open.spotify.com/track/2jYDlPVG15WCb7VfXldCNN) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Screaming Underwater](https://open.spotify.com/album/0GNG7KPpo7CWiyFn3kKHPH) | 2:26 | 2021-09-11 | 2021-11-20 |
 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-09-05 | 2023-09-30 |

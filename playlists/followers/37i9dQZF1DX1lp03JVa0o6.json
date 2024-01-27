@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 411289,
+  "2024-01-27": 411168,
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest Dance hits! Cover: Lance Savali",
+  "description": "Today's biggest Dance hits! Cover: Tobiahs",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -1575,6 +1575,28 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "album": {
+        "name": "London Sound",
+        "url": "https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Ebenezer",
+          "url": "https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Care About Us (feat. Ebenezer)",
+      "url": "https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91"
     },
     {
       "album": {
@@ -5280,6 +5302,32 @@
     },
     {
       "album": {
+        "name": "Lowkey (LDN Drift) [feat. Takura]",
+        "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Lowkey (LDN Drift) [feat. Takura]",
+      "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
+    },
+    {
+      "album": {
         "name": "Luv Me A Little",
         "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
       },
@@ -7979,7 +8027,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 337884,
       "name": "Silversun",
       "url": "https://open.spotify.com/track/1SmQp1FgwDVYh1GGlSUHEC"
@@ -9975,7 +10023,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 158022,
       "name": "You Got My Love",
       "url": "https://open.spotify.com/track/1E5nONpd1Az4UcKEQe2FXC"

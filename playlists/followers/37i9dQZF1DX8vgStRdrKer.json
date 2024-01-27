@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 4238,
+  "2024-01-27": 4287,
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa?si=Ql11_RqvQz2m8C0TAxX4WA\">Mr M & Revelation</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s?si=BWbKg03qSfmmppEGaW-ArQ\">Joepraize</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Ephphatha",
+        "url": "https://open.spotify.com/album/7conlllzLwMtLnBndRiF29"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232817,
+      "name": "Ephphatha",
+      "url": "https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g"
+    },
+    {
+      "album": {
         "name": "Fighting for me",
         "url": "https://open.spotify.com/album/4HZNjFrlwtOnT4S9AvGkOU"
       },
@@ -289,7 +307,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 639137,
       "name": "Fire on my Altar",
       "url": "https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 252048,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"

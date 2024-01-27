@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-97 songs - 5 hr 19 min
+98 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Hob Hyati](https://open.spotify.com/track/3vEhMhj065tdyugAB5UocD) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Hob Hyati](https://open.spotify.com/album/0U7574PB0MHasSszwhRqM2) | 4:06 | 2023-07-07 |  |
 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 | 2023-10-05 | 2023-12-13 |
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2023-12-10 |  |
-| [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 | 2023-12-21 |  |
+| [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 | 2023-12-21 | 2024-01-27 |
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-07 |  |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2023-07-07 | 2023-12-22 |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 | 2023-10-27 |
@@ -89,6 +89,7 @@
 | [Taline](https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Taline](https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89) | 3:19 | 2023-11-29 |  |
 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 | 2024-01-05 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2023-07-07 | 2023-08-01 |
+| [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 | 2024-01-26 |  |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-07-07 |  |
 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 | 2023-07-07 |  |
 | [WAYLE](https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG) | 3:10 | 2023-07-07 |  |

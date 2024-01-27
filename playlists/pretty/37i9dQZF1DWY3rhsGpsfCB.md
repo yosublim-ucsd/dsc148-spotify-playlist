@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,561 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,583 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 |
 | 80 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 
-Snapshot ID: `MCwyMjE1ZTg5YTRlNzk1YmMyNTYwMTc1YmYxOTI0YjZkM2Q2ODY5ZDE5`
+Snapshot ID: `MCwxNTUxNTQ3NTJiNjBhOWRkOWE5YzU3YzI1M2ViNWYyNjQ0OWYzYWE2`

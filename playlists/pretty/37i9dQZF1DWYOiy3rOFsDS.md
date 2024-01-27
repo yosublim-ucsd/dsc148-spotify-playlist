@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Kali Uchis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,191 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,613 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
 | 100 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
 
-Snapshot ID: `MCw0ZTYwNjdhZTJhNjAxMzk2YzhiMWFiNTQ0ODBhYjYwMjRiZWYxYzhj`
+Snapshot ID: `MCxiOGQ3Yjk4OGJkMzI4ZGMxOGY3MjczNDhiM2FlZWE1YWY2NGQ0MjE3`

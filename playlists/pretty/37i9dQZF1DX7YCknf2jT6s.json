@@ -1,13 +1,121 @@
 {
-  "description": "New jazz for open minds. Cover: Keyon Harrold",
-  "num_followers": 914713,
+  "description": "New jazz for open minds. Cover: Nubya Garcia",
+  "num_followers": 914499,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTllNjlkYzNjYzBjYWRlYjMwYWFkMzg2YmIwZjUwOTQxZjBjZjg3",
+  "snapshot_id": "MCwyOTNkYzc0Y2M3ODdjYWMxOTQ1OGJhNDFjOGM1NTAyZDgxMjczOTgz",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Fortify",
+        "url": "https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 349008,
+      "name": "Fortify",
+      "url": "https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "The Yussef Dayes Experience - Live From Malibu",
+        "url": "https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Istanbul (feat. Elijah Fox)",
+      "url": "https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Hudson (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eG2q4jobDvU5Leo0oI3ut"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Larry Grenadier",
+          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
+        },
+        {
+          "name": "Hudson",
+          "url": "https://open.spotify.com/artist/5TLN8NgSEohypkfU1sKwaI"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Lay Lady Lay - Radio Edit",
+      "url": "https://open.spotify.com/track/5OG31noejjsYhav7aY4Uui"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Wait A While",
+        "url": "https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Farah Audhali",
+          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "Wait A While",
+      "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "central park west",
+        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 268915,
+      "name": "central park west",
+      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
+    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -27,6 +135,54 @@
       "duration_ms": 207386,
       "name": "Beautiful Day [Feat. PJ Morton]",
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Barnyard Disturbance",
+        "url": "https://open.spotify.com/album/10naARtWiSqKm34GZasjzU"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 283041,
+      "name": "Barnyard Disturbance",
+      "url": "https://open.spotify.com/track/4ByhP16EpPRIqsKaBXZRHQ"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Bacon Lettuce and Tmrw",
+        "url": "https://open.spotify.com/album/5pDjGqgJs7py0qA95b4H3c"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Emiliano Lasansky",
+          "url": "https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Jacob Dupre",
+          "url": "https://open.spotify.com/artist/27vbYMQq6Sq2rJltjX7Xj8"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Bacon Lettuce and Tmrw",
+      "url": "https://open.spotify.com/track/5izpsM3fbB1oF7yNnJO69x"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -53,20 +209,44 @@
       "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2024-01-26 05:01:00",
       "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+        "name": "3",
+        "url": "https://open.spotify.com/album/7zQJ12lE2XhxLyoTqSYS6v"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+        },
+        {
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+      "duration_ms": 102920,
+      "name": "Ishmael",
+      "url": "https://open.spotify.com/track/0PpwwmmLTEi0cCsh0YMn0c"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "A Lord Without Jewels",
+        "url": "https://open.spotify.com/album/3UJZt5F7nnYpKN34IhmdYr"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "duration_ms": 412951,
+      "name": "A Lord Without Jewels",
+      "url": "https://open.spotify.com/track/3zbbEmBPEDqoLJDNtpbkkk"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1133,22 +1313,6 @@
       "url": "https://open.spotify.com/track/5OXgjjil0Gl6wrRvoR3IsI"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "nublues (fade)",
-        "url": "https://open.spotify.com/album/13LGo7WE21yw89QwuYiWqt"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 490325,
-      "name": "nublues - fade",
-      "url": "https://open.spotify.com/track/0OhiQIsXhYTZ6uVb8SBSVI"
-    },
-    {
       "added_at": "2023-12-15 05:01:00",
       "album": {
         "name": "Plum Blossoms",
@@ -1253,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4U4cW7s3iOiSJXFvzY9tiZ"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        }
-      ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "A Nuyorican Tale",
@@ -1303,30 +1451,6 @@
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Don't Believe The Dancers (Mophono Remix)",
-        "url": "https://open.spotify.com/album/4uLnZNggcGP2WrUOU9YcHM"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Mophono",
-          "url": "https://open.spotify.com/artist/5jMONVJ1q335buxCmXAo00"
-        }
-      ],
-      "duration_ms": 315492,
-      "name": "Don't Believe The Dancers - Mophono Remix",
-      "url": "https://open.spotify.com/track/7mt3MXHKqlXGwRwNL9tbAs"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1433,30 +1557,6 @@
       "url": "https://open.spotify.com/track/0kXyRmTQDrs2oK6uFFWagR"
     },
     {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Owl Song",
-        "url": "https://open.spotify.com/album/6HYZUqe4sXwIu5VWlfaV2E"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Herlin Riley",
-          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
-        }
-      ],
-      "duration_ms": 303080,
-      "name": "Flux Fuelings (feat. Bill Frisell & Herlin Riley)",
-      "url": "https://open.spotify.com/track/339kfnKfy8HDVhSJVmJKTI"
-    },
-    {
       "added_at": "2023-11-10 05:01:00",
       "album": {
         "name": "Stop Calling Me",
@@ -1471,58 +1571,6 @@
       "duration_ms": 327342,
       "name": "STOP CALLING ME",
       "url": "https://open.spotify.com/track/314r69preySjrl67vpaEI8"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "The Botanist",
-        "url": "https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "The Botanist",
-      "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Letter to a Friend",
-        "url": "https://open.spotify.com/album/3ryYiluY1ZX0oMULRwWZVO"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl Pannier",
-          "url": "https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x"
-        },
-        {
-          "name": "Acid Pauli",
-          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
-        },
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Francois Moutin",
-          "url": "https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp"
-        },
-        {
-          "name": "Giorgi Mikadze",
-          "url": "https://open.spotify.com/artist/6JS9KZNBZNM7q7EASDnQCK"
-        }
-      ],
-      "duration_ms": 444830,
-      "name": "Could We but See",
-      "url": "https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1647,22 +1695,6 @@
       "duration_ms": 422226,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1907,26 +1939,6 @@
       "duration_ms": 318158,
       "name": "The Junglist - Bonus Track",
       "url": "https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "New Jawn",
-          "url": "https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR"
-        }
-      ],
-      "duration_ms": 435996,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen"
     },
     {
       "added_at": "2023-09-22 04:00:00",

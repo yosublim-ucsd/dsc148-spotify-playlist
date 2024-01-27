@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy y de siempre\. Foto: Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,286 likes - 250 songs - 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,007,121 likes - 250 songs - 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Por un Beso](https://open.spotify.com/track/796ep4WrbI6vbiqXnJgsQM) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 5:01 |
 | 250 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 |
 
-Snapshot ID: `MCwwYzgyYmJiYTExNGVlOGYyNmY4YmU2M2ZkYTBmMmJmNDVmNTliOGU3`
+Snapshot ID: `MCxlOWIzMjAzMjg5MDI4MWZhMWJhYjkxZjljYTZhN2U3ZTRiMjNjNzM2`

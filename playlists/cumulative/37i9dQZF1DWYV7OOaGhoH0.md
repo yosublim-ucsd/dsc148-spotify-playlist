@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Novo Amor
+> The best in folk & acoustic today featuring music from Tom Odell
 
-493 songs - 1 day 6 hr 38 min
+495 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Coming Home to You](https://open.spotify.com/track/6Hqq9doVDaNxEKFnz2KTTP) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Coming Home to You](https://open.spotify.com/album/2B7iIlJyxdmN37N7vYwMxx) | 3:12 | 2023-05-26 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-03 | 2022-12-03 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
+| [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 |  |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2021-12-10 | 2022-02-26 |
 | [Dance with Everybody](https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Dance with Everybody](https://open.spotify.com/album/3mVV3jcal3oh3hiMmvrxgZ) | 3:30 | 2022-09-23 | 2023-05-06 |
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2021-12-10 | 2022-06-18 |
@@ -184,6 +185,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-22 | 2023-04-22 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-09-10 |
 | [Gratitude](https://open.spotify.com/track/2URlvXHgKzdk6xFPedeuKI) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Gratitude](https://open.spotify.com/album/4ZYK6hRqISjMnrZafKUuBO) | 4:35 | 2022-12-02 | 2023-06-10 |
+| [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-26 |  |
 | [Hard To Tell](https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Hard To Tell](https://open.spotify.com/album/1b9EDZKgqNvvWuqOJCwPnE) | 3:06 | 2023-07-21 |  |
 | [Haunted Mountain](https://open.spotify.com/track/55PRwOkrZ5oQW9Qmi7Q2yo) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 5:11 | 2023-08-25 |  |
 | [Haunted Mountain](https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY) | 4:19 | 2023-08-25 | 2023-09-02 |

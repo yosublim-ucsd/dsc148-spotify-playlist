@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,392 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,178 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Gotica](https://open.spotify.com/track/6Zs40HTLJe4AReNqOYqe4K) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Gotica](https://open.spotify.com/album/46DpWWLhStPZ7SvqtsfU04) | 1:44 |
 | 100 | [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 |
 
-Snapshot ID: `MCxjYjBiZWFkNTY2NjY5YTUyYzZmMjQzYTBmNWQxNTNkZGNmNGRjZDRh`
+Snapshot ID: `MCw4MDhlODJmMmI1ZTdlZjg1M2ZhZTI4OTZhZjIxNmNjODVlNTAyOGU4`

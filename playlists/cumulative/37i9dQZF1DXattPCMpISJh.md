@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-240 songs - 15 hr 3 min
+241 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Crying on the Dance Floor](https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd) | [Jessy Jones](https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd) | [Crying on the Dance Floor](https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M) | 3:25 | 2021-07-09 | 2022-10-29 |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-03-18 | 2023-03-18 |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/4bwhZHMe1I2NlyU5z4GMwf) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\) \[Fancy Feelings Remix\]](https://open.spotify.com/album/1MxG6md1y2QeGZOPPIYPJD) | 3:26 | 2022-03-18 | 2022-11-13 |
+| [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-01-26 |  |
 | [Dancing into the Stars \- Dave Lee Super Soulful Mix](https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Dancing into the Stars](https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb) | 5:56 | 2021-08-20 | 2022-08-27 |
 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Manifesto](https://open.spotify.com/album/4SBBGeRaboOnypEhVFRw38) | 3:21 | 2023-09-15 |  |
 | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb) | 3:44 | 2023-03-24 | 2023-06-05 |
@@ -162,7 +163,7 @@
 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 | 2022-11-18 | 2023-04-01 |
 | [Never Enough](https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6) | [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Never Enough](https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo) | 3:28 | 2022-05-06 | 2023-07-22 |
 | [Never Knew](https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Never Knew](https://open.spotify.com/album/3KTdCe9WcP5b5SnXfL80UJ) | 3:41 | 2022-10-14 |  |
-| [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 | 2022-11-18 |  |
+| [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 | 2022-11-18 | 2024-01-27 |
 | [Nowhere To Run](https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM) | [Amira Jazeera](https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6), [Papi Beatz](https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1) | [Nowhere To Run](https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il) | 2:57 | 2022-02-25 | 2023-01-28 |
 | [Only Direction](https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Ride Away](https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1) | 3:08 | 2023-03-17 | 2023-04-09 |
 | [Only U \- Original Mix](https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Only U](https://open.spotify.com/album/4rR53leHib9wW0G4C8wFM0) | 3:14 | 2021-08-20 | 2022-10-22 |

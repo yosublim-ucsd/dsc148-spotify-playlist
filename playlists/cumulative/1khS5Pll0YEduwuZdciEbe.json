@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "A playlist showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Eliza McLamb",
+  "description": "A playlist showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Medium Build",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212183,
       "name": "Bobtail Road",
       "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/4rTnonrrlWZsrDUUTgzHSt"
@@ -1212,6 +1230,28 @@
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
+    },
+    {
+      "album": {
+        "name": "My Friends Are Having A Hard Time",
+        "url": "https://open.spotify.com/album/6QHDyA3r5IrgwQzyWlpr3h"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "My Friends Are Having A Hard Time [Feat. Manchester Orchestra]",
+      "url": "https://open.spotify.com/track/19CvrnbxreRJuH9G6ZMBrd"
     },
     {
       "album": {

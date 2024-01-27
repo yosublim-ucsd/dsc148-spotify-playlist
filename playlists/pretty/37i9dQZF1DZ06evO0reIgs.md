@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,313 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,282 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 27 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
 | 28 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 |
 | 29 | [Dançar Com Você](https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:53 |
-| 30 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
-| 31 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 |
+| 30 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 |
+| 31 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
 | 32 | [Ela Tá Que Tá](https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Felipe Flip](https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Ela Tá Que Tá](https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27) | 3:26 |
 | 33 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 |
 | 34 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
-| 35 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 36 | [Beira Mar](https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Beira Mar](https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX) | 3:00 |
+| 35 | [Beira Mar](https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Beira Mar](https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX) | 3:00 |
+| 36 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 37 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
 | 38 | [Me Negaram Amor \- Ao Vivo](https://open.spotify.com/track/5jIA3vKNB2oVYk2BO4QRQD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 5:22 |
 | 39 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 |
 | 51 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBiMDI2NzA2NjNlNDA0OGQ4NmFjZjAzMjZhODgxMzNmZA==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBmMDFjYzk2Y2IyOTMwNmZlMjIxYWUzNTA4NWNhM2MwMw==`

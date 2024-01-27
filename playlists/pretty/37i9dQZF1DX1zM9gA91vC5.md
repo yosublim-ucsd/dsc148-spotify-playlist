@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,229 likes - 250 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,170 likes - 250 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 |
 | 250 | [Prairie d'été](https://open.spotify.com/track/0rsGOnRV2avSVuin3XZ5FO) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Prairie d'été](https://open.spotify.com/album/5XPBI5MTUG64NGaxrDWFcS) | 2:49 |
 
-Snapshot ID: `MCxlYjA2Y2I0ZTI1MDdhYTQ3NzMxYWM4NGI4YjYxNzdlODJlMDc4MjM5`
+Snapshot ID: `MCw3YzhkZmMzZGIzNzE0ZDcyMTU0NjVmODQ4MjQ4YWJmOGJkYzViZjVm`

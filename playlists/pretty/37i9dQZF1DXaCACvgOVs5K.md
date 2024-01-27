@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,249 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,592 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 |
 | 100 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 
-Snapshot ID: `MCxiMjIxYjRlYjA4NTI1NjJlZmM3ZTY2OGQ2YWRjMmEwNzRlMTk3YWRi`
+Snapshot ID: `MCw3NjIwNDQ2YjMzNmI3MzdkODZiODViYmIyYzE0NGI5MTk2Mzc4MWRl`

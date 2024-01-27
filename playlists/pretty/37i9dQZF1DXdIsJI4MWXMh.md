@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,055 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,084 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
 | 100 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 |
 
-Snapshot ID: `MCxiNTNmOGI4NzcwNDk2NTY1MTliMjY2NjY4MWY2YjRiMTE4NmRkMjNl`
+Snapshot ID: `MCw1ZTMxZTdiMjFmZDhiNzhkY2Q4ZTE3YjVmY2MwYWJkNGEzMDE4Zjc4`

@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-127 songs - 7 hr 58 min
+129 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Danza Del Millonario](https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Canibalismo](https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp) | 3:51 | 2021-10-20 |  |
 | [Desaparecer](https://open.spotify.com/track/5bqVSvkVpqq9UavaeDpIgP) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Quién Es Quién](https://open.spotify.com/album/7irXgfKsuVDuAoZl7pxx2Q) | 4:39 | 2021-10-20 | 2023-12-21 |
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 |  |
-| [Echo en Mexico](https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 4:17 | 2021-10-20 |  |
+| [Echo en Mexico](https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 4:17 | 2021-10-20 | 2024-01-27 |
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2021-10-20 |  |
 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 | 2021-10-20 |  |
 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 | 2021-10-20 |  |
@@ -59,7 +59,7 @@
 | [Fantasmagoría](https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 4:13 | 2021-10-20 | 2024-01-26 |
 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 | 2022-02-15 |  |
 | [Guadalupe](https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 3:24 | 2021-10-20 | 2023-10-11 |
-| [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 | 2021-10-20 |  |
+| [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 | 2021-10-20 | 2024-01-27 |
 | [Guaracha U.F.O \(No Estamos Solos...\)](https://open.spotify.com/track/5A8XYp8wXZD5Y3gQlZp81h) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 6:51 | 2021-10-20 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-20 |  |
 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 | 2021-10-20 |  |
@@ -117,6 +117,7 @@
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2021-10-20 |  |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2021-10-20 |  |
 | [Strange Salsa](https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:19 | 2023-03-28 |  |
+| [Sábadito](https://open.spotify.com/track/2OiIYDDSKP90B7LBbs9Fdr) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Sábadito de Locura](https://open.spotify.com/album/5BVZ6ILgDpcIRtrNKMHG3G) | 1:58 | 2024-01-26 |  |
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-10-20 |  |
 | [Teniente Harina \- Cumbia Manifiesto, Pt\. 2](https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Teniente Harina \(Cumbia Manifiesto, Pt\. 2\)](https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq) | 2:21 | 2022-03-11 |  |
 | [Thai Cumbia](https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY) | [Rolando Bruno](https://open.spotify.com/artist/6lxsLBQooRKATCql5xjXfP) | [Bailazo](https://open.spotify.com/album/190UZl9plvUecfZplaAhRs) | 3:45 | 2021-10-20 |  |
@@ -130,6 +131,7 @@
 | [Vaivén](https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [José Pereelanga](https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |
 | [Vampiro Sabanero](https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:42 | 2021-10-20 |  |
 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 | 2023-10-23 |  |
+| [Ya](https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Ya](https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM) | 2:20 | 2024-01-26 |  |
 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 | 2023-12-12 |  |
 | [Yo Bailo Sola](https://open.spotify.com/track/6swdsm8ovYxcm5a8mgye0F) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Mucho Gusto](https://open.spotify.com/album/5cBEcSpfpxeFyPZTqNg5X6) | 5:17 | 2021-10-20 | 2023-10-06 |
 | [Ángeles y Demonios](https://open.spotify.com/track/2Yr9mWZoQDSjINYpEsoXgA) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 2:59 | 2022-06-22 |  |

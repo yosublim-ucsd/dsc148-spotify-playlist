@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,071 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,866 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 49 | [DE CAROLINA](https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:01 |
 | 50 | [Locura y Maldad](https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK) | 3:20 |
 
-Snapshot ID: `MCxlMzdhZWZiMjgxNzczN2JiZjRlNTBmMGU2NDM2ZDc1ZmU2OGU2YWNk`
+Snapshot ID: `MCwxMmQ3ZDNjNWM2NGVkOGFkMTZjNmYxM2Y3MDY0NGIyM2MyYmI3NjQ3`

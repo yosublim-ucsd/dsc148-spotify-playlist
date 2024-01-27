@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,705 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,729 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 18 | [Snakeskin ∞ Has\-Been \- Edit](https://open.spotify.com/track/43zuONKEpzHcZ5UvCalGfr) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rare, Forever](https://open.spotify.com/album/5UfCxNbc7RTtM6FyVqyi5x) | 3:25 |
 | 19 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 20 | [pretty girls](https://open.spotify.com/track/3vEkBzAP09A4MEitPzWKWL) | [Sumwun](https://open.spotify.com/artist/3p6Sps6tkzvz5YzDqAZgu5), [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [pretty girls](https://open.spotify.com/album/4s8fbAnwt0z7SM8SjkxWqn) | 1:30 |
-| 21 | [FANTAZIA](https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj) | 5:36 |
+| 21 | [FANTAZIA](https://open.spotify.com/track/5YcJp0fqzgYQodloOnwEIl) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/6liZ25En8EvCQlsidM65Oe) | 5:36 |
 | 22 | [Bring The Sun feat\. Gry \- Original Mix](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 |
 | 23 | [Healing](https://open.spotify.com/track/3nhNVCiyHSYbYPFwoKbOA0) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Emotional Shift](https://open.spotify.com/album/68xVswDiJHf3kSVVoKVD9H) | 6:15 |
 | 24 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 54 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 |
 | 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
 
-Snapshot ID: `MCwyNDU0ODk2MThjOTNhMmU3MTBkMTgzN2VkNmJhNjA2OGZkYzJhNTUy`
+Snapshot ID: `MCwzMzAyN2VmMjE1MjY3ZjQ1MjBlZTBiZjYyZjM3ZmIyMjU4ZGI3MTY3`

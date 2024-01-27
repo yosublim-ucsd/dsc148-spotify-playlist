@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,782 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,807 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 85 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz`
+Snapshot ID: `MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh`

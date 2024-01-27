@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,992 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,059 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 |
 | 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 
-Snapshot ID: `MCwzOWU1MzQ2MmQwZDhmOWE5ZWZhOWMzYzBhMWQ1Nzg1NmJlNmQxMGEw`
+Snapshot ID: `MCw0NWQ0NTdmNzVlMDY5ZDIxNGNjYTBmOGQyMzUyZjI5MmUxNDFiYjg0`

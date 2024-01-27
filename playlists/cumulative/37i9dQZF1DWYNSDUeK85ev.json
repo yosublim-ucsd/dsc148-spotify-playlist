@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181800,
       "name": "Con Tu Amiga",
       "url": "https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0"
@@ -6518,6 +6518,32 @@
       "duration_ms": 185118,
       "name": "Ponte Pa' Mix",
       "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
+    },
+    {
+      "album": {
+        "name": "PONTE SATA",
+        "url": "https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ"
+      },
+      "artists": [
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "VERNAZ",
+          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "PONTE SATA",
+      "url": "https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC"
     },
     {
       "album": {

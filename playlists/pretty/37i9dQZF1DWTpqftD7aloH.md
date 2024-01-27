@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,295 likes - 120 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,482 likes - 120 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 120 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 |
 
-Snapshot ID: `MCw5Njk3Nzk3NTYzYzI1MDgyYzRjYmMyMTVhZTUzM2I5OTQ0MTllYzZk`
+Snapshot ID: `MCw0ZjM3OTlmNDUzZTA5YjFlYTZmNTFmMjM0YWEwNjMwYzgyZDQ0ZTgx`

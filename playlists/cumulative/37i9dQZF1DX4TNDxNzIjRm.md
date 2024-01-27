@@ -4,7 +4,7 @@
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-261 songs - 14 hr 44 min
+262 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 | 2022-11-09 |
 | [BUENOTA](https://open.spotify.com/track/5p7k15ePkj78IEKTMW2cTU) | [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [BUENOTA](https://open.spotify.com/album/691oeEC4D424lvYosf086I) | 1:55 | 2023-10-03 | 2023-10-14 |
 | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX) | 3:27 | 2022-05-10 | 2022-07-27 |
+| [Caballo De Troya](https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Chente Ydrach](https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN) | [Caballo De Troya](https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL) | 2:01 | 2024-01-26 |  |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2022-05-10 | 2022-07-29 |
 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 | 2022-07-11 |  |
 | [CAPSULEANDO](https://open.spotify.com/track/2Qjn1SUdWlBD2Fb79uPUVw) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [CAPSULEANDO](https://open.spotify.com/album/0gpy4ieYD73YIrAaOLkU9y) | 2:35 | 2023-04-21 | 2023-05-02 |
@@ -145,7 +146,7 @@
 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 | 2022-10-03 | 2023-04-30 |
 | [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-10-03 | 2023-10-13 |
 | [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2023-10-03 |  |
-| [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2023-12-28 |  |
+| [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2023-12-28 | 2024-01-27 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-28 |  |
 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 | 2023-03-31 | 2023-04-22 |
 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2022-11-12 | 2023-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,970 likes - 30 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,038 likes - 30 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [Ahlan Wa Sahlan](https://open.spotify.com/track/6BDTIKl7bRtdm199pjvCQS) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Ahlan Wa Sahlan](https://open.spotify.com/album/4fkLIVBIc2i2Vb0jJtXItO) | 3:04 |
 | 30 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
 
-Snapshot ID: `MCw5MWQ4MzBiMDMxNjg4NmFlZDMyZTllZmY2MGQyYWE0N2IyZDc1MzAy`
+Snapshot ID: `MCwwM2VmODAwM2QyMTk4ZDE5MzdjNTUzMTFhNjI1NWFiOTdlMDUxMWIx`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 70851,
+  "2024-01-27": 71022,
   "date_first_scraped": "2022-12-28",
   "description": "Breathe deep, close your eyes, immerse yourself.... Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance. ",
   "name": "zen garden",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 251735,
       "name": "Bheetar dekho",
       "url": "https://open.spotify.com/track/5h0CaDOGz03xtjBEERCpKi"
@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Cloudy Afternoon",
+        "url": "https://open.spotify.com/album/5gVXsMZiYgnP6eDfDhFems"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Cloudy Afternoon - Sound Bath",
+      "url": "https://open.spotify.com/track/13rc9WSSFdjyAMrd7CJ7Ji"
+    },
+    {
+      "album": {
         "name": "Tibetan Bowls",
         "url": "https://open.spotify.com/album/5BFMmN1aL37Zd8NMZWqSzs"
       },
@@ -240,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Coast",
+        "url": "https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx"
+      },
+      "artists": [
+        {
+          "name": "Delayed Dreams",
+          "url": "https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191578,
+      "name": "Cosmic Coast - Sound Bath",
+      "url": "https://open.spotify.com/track/3BK83oOyJEybXoddbqdyFe"
+    },
+    {
+      "album": {
         "name": "Meditation Crystal Bowls (Rivers & Creeks)",
         "url": "https://open.spotify.com/album/7sYKxI77L3mabnemRy6X00"
       },
@@ -251,7 +287,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 142000,
       "name": "Crystal Bowl - Meditation - Rivers & Creeks",
       "url": "https://open.spotify.com/track/538On8xhz3KwNPpEBMeSko"
@@ -744,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Krathong",
+        "url": "https://open.spotify.com/album/4FsrtxxXyROSsrqwvX4tBg"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183041,
+      "name": "Krathong",
+      "url": "https://open.spotify.com/track/2ZJEXYpeQy4YBx3DmjoakI"
+    },
+    {
+      "album": {
         "name": "Dakpa Nepali",
         "url": "https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT"
       },
@@ -939,6 +993,24 @@
       "duration_ms": 138340,
       "name": "Natures Harmony - Bowls and Pads (Water sounds)",
       "url": "https://open.spotify.com/track/2WuOkAKX235pxGwXEe6Szi"
+    },
+    {
+      "album": {
+        "name": "Next Moment - 432 Hz",
+        "url": "https://open.spotify.com/album/3blhjHGTCpNVl4D5umEpKo"
+      },
+      "artists": [
+        {
+          "name": "Liam Armstrong",
+          "url": "https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201932,
+      "name": "Next Moment - 432 Hz",
+      "url": "https://open.spotify.com/track/3j6bdU5gjL8BwOel976Ntg"
     },
     {
       "album": {
@@ -1295,7 +1367,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173294,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/7D1q0ED0J2pbRysoJW8VNj"
@@ -1349,7 +1421,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 106830,
       "name": "Serenity Hang with Water",
       "url": "https://open.spotify.com/track/7IUVB8IbX7Mm03gqilAsrT"
@@ -1529,7 +1601,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 312000,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/0VfBUuUgvUfkpxujoNyHuv"
@@ -1644,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL"
+      },
+      "artists": [
+        {
+          "name": "Zen Atlas",
+          "url": "https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q"
+    },
+    {
+      "album": {
         "name": "The Space In Between",
         "url": "https://open.spotify.com/album/4h1AiHMwsXQB8owiD6U3WZ"
       },
@@ -1727,7 +1817,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 206000,
       "name": "Tibetan Meditation Sound (Sound Bath)",
       "url": "https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6"
@@ -1781,7 +1871,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 188610,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7BtonY4mBApPSoWPA4ftVc"

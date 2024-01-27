@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,710 likes - 150 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,715 likes - 150 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Plaything](https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [We Are Reasonable People](https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko) | 4:14 |
 | 150 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
 
-Snapshot ID: `MCw5MjNmOTVkMTYyY2Y2NGYxODMyNmQ5ZGQ4NzdmNjgzMmU3ZDMxOWY2`
+Snapshot ID: `MCwxZDlmN2EzNmQzMDUxYmQyZGE0MTFlYzhhYmM4N2EyYWVlNmUwYTI3`

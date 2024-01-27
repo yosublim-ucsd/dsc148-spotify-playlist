@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,398 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,672 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 |
 | 150 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 |
 
-Snapshot ID: `MCw4YzMyMWJhNDA1MTRiNjAyZTExNWZkNjJhNjUyNzI2OTQxNWZlNmFj`
+Snapshot ID: `MCwyZTRkMDM3MGFmZGFkYjQwNzY0ODk0MDUzNmNlZDg4M2JjN2M0OGI2`

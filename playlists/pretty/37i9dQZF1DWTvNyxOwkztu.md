@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,468 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,653 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 |
 | 100 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
 
-Snapshot ID: `MCxjZmNmMzNjMTlkN2FjMGY5ODJhYmE0ODA2NGUyOGUxYjM2ZGNkOTNk`
+Snapshot ID: `MCxmODE2MzI5MTJhMTcwZjdhMzdhYjkzM2QyNzU4ZTg0OTUxYzY5NTQ5`

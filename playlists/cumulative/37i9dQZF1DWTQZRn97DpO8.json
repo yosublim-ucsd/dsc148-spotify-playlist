@@ -1198,10 +1198,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
+    },
+    {
+      "album": {
+        "name": "Mocha Venti",
+        "url": "https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144186,
+      "name": "Photoshop",
+      "url": "https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE"
     },
     {
       "album": {

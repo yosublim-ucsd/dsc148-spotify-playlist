@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,708 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,622 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 42 | [Mr\. Snowman](https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Peppermint Tea](https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ) | 3:31 |
 | 43 | [Winter Bloom](https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Winter Bloom](https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy) | 2:59 |
 | 44 | [Merry Christmas](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:43 |
-| 45 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
+| 45 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
 | 46 | [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 |
 | 47 | [Merry\-Go\-Round \(Christmas Edition\)](https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Merry\-Go\-Round \(Christmas Edition\)](https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7) | 3:53 |
 | 48 | [Lonely Christmas](https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Lonely Christmas](https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a) | 3:37 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 79 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 |
 | 80 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
 | 81 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
-| 82 | [Before Our Night Is Over](https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:34 |
+| 82 | [Before Our Night Is Over](https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:34 |
 | 83 | [Love Wishes](https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [Hyunseong](https://open.spotify.com/artist/77RShpcU6y1y3qy2UyEnU8), [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [STARSHIP PLANET 2016](https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl) | 3:42 |
 | 84 | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 |
 | 85 | [Special Christmas](https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ), [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw), [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [2016 United Cube Project Part 1](https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [welove Christmas](https://open.spotify.com/track/4e7G7lhG4j0C6g0UX00Rej) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/0VmQEAqP4FlTZRRWDO4KlN) | 2:45 |
 | 100 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 |
 
-Snapshot ID: `MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0`
+Snapshot ID: `MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,251 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,303 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [Guadalajara](https://open.spotify.com/track/1w3PYey5h6WBp4Y8W3e3vM) | [Ramon Dona\-Dio](https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:31 |
 | 100 | [La Zandunga](https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 3:09 |
 
-Snapshot ID: `MCwxNjhhMjI2ZjM2N2E4MzkwYjVmOTQ1NmY1YjE4ODJmOTQ3NTAwMmNm`
+Snapshot ID: `MCw2NzYzZGUxNDQxOTkzZDNmYWZlOGEwYTk1MDY1MjgxNGEzODM4YTI2`

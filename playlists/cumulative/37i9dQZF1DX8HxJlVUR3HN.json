@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "State of Alert",
+        "url": "https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso"
+      },
+      "artists": [
+        {
+          "name": "Frustration",
+          "url": "https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139217,
+      "name": "State of Alert",
+      "url": "https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk"
+    },
+    {
+      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },

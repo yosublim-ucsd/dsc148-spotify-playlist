@@ -4,7 +4,7 @@
 
 > A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix.
 
-48 songs - 2 hr 59 min
+52 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,19 +28,23 @@
 | [Invitation To The World](https://open.spotify.com/track/2NioybG1WQQptpLGTlNTPH) | [Jimmy Briscoe & the Little Beavers](https://open.spotify.com/artist/0ewOyRQOalQrov3eYMZUtq) | [Invitation To The World](https://open.spotify.com/album/6TsV4CzV4baMSCETh5lOW5) | 5:29 | 2024-01-25 |  |
 | [Jericho](https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:02 | 2024-01-25 |  |
 | [La Cigarra](https://open.spotify.com/track/4Crfr9xYWRZhgYS693xjTV) | [Climaco Sarmiento](https://open.spotify.com/artist/7M9SeIqdPfOX6sw5cJUSfB) | [Historia Musical de Clímaco Sarmiento](https://open.spotify.com/album/52h4urEINXnhdVXMwC2h8F) | 2:32 | 2024-01-25 |  |
+| [LA MADRINA](https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 1:06 | 2024-01-26 |  |
 | [La Senorita Lola](https://open.spotify.com/track/2EdJQjATzNihLgjFSp9pzy) | [Ray & His Court](https://open.spotify.com/artist/6sPAw5VzYsZRZ9NG2X352H) | [Ray & His Court \(Digitally Remastered\)](https://open.spotify.com/album/0MJgrIDAKUyVNXVCD08ZP1) | 2:47 | 2024-01-25 |  |
 | [La Zenaida](https://open.spotify.com/track/0oeCEz8VGMh577gC2W78NJ) | [Armando Hernandez Y Su Conjunto](https://open.spotify.com/artist/3nqWnNlIK3AuSVrBBUMHhQ) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 4:28 | 2024-01-25 |  |
 | [Let There Be Drums](https://open.spotify.com/track/0nf1kn9Nt1WeQyOinNadKz) | [Sandy Nelson](https://open.spotify.com/artist/5gI33iEWzSZqDZeVOwfJVi) | [Let There Be Drums](https://open.spotify.com/album/3lNS7bUQk0GcyD8u46z4Bd) | 2:18 | 2024-01-25 |  |
 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 | 2024-01-25 |  |
 | [Liza..\. Liza](https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 5:26 | 2024-01-25 |  |
 | [Lullaby in Ragtime](https://open.spotify.com/track/4A3xaD4iayHnfWJ3iTSxWU) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [A Little Touch of Schmilsson in the Night](https://open.spotify.com/album/6ggKzTC3H2t2EEFIfd48SF) | 3:40 | 2024-01-25 |  |
+| [MALA MADRE MADHOUSE](https://open.spotify.com/track/3H5aVcxGvJNX8fwkyL09Xw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 3:20 | 2024-01-26 |  |
 | [Mamy Blue](https://open.spotify.com/track/3e6Z3t8GuHL8ab93rbBdHc) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk) | [Roger Whittaker \- The Best Of \(1967 \- 1975\)](https://open.spotify.com/album/4mLl8N7qHbTgTlyjZOav2N) | 3:38 | 2024-01-25 |  |
 | [Maria Isabel](https://open.spotify.com/track/4Npc9R3uenfy1C4ZUYyfmW) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Onda Brava](https://open.spotify.com/album/4IcP00lgvctKBLf2JPvPOi) | 2:45 | 2024-01-25 |  |
+| [MATRIARCH'S PLAN](https://open.spotify.com/track/147ubpf8aUc8TNmQljV6GE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:05 | 2024-01-26 |  |
 | [Mirando al Mar](https://open.spotify.com/track/45PwEQFU7EPFvz7zMa2FYg) | [Jorge Sepúlveda](https://open.spotify.com/artist/3jGe43dtDkcRvPzqyHbLzU) | [El Increíble Jorge Sepúlveda](https://open.spotify.com/album/4lgmEJ96wxzygeOhnu9mrP) | 3:11 | 2024-01-25 |  |
 | [Na Na](https://open.spotify.com/track/5r9lyaFXBfXYEwjB0ZwtfJ) | [Coke](https://open.spotify.com/artist/7EFSjmQnTZJ3GZuxzDVqdL) | [Na Na \- A Funk Anthology](https://open.spotify.com/album/6xu9Da47yYNf1VsjTyQ0RO) | 4:03 | 2024-01-25 |  |
 | [One In A Million](https://open.spotify.com/track/4RUXZ7T2brAn6o2B9jw8TN) | [The Ovations](https://open.spotify.com/artist/4pZJw2pjpyxcqdOUmYdwSY), [Louis Williams](https://open.spotify.com/artist/2GtB02M8GaQerOSq3aVNvO) | [The Complete Sounds Of Memphis Albums](https://open.spotify.com/album/15XXBiHfUk2BvW6ApShy5n) | 3:06 | 2024-01-25 |  |
 | [Ou La La](https://open.spotify.com/track/06Eo5LVYnWUTIyU66xLB9z) | [grandpa](https://open.spotify.com/artist/6HYktSXPFFXxkZKiTVkIHW) | [Ou La La / Hello Dog](https://open.spotify.com/album/3SM79npbCvtgE2UdEHxAHR) | 2:14 | 2024-01-25 |  |
 | [Oye No Me Beses](https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Charanga Super Charanga Vol\. 2](https://open.spotify.com/album/7o2Ug4ry3Vhf7egIodmoH3) | 3:15 | 2024-01-25 |  |
+| [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 | 2024-01-26 |  |
 | [Salut](https://open.spotify.com/track/5aspFJNTT2prR3NMm2IVUH) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:20 | 2024-01-25 |  |
 | [Sex Toy](https://open.spotify.com/track/3FJuPT7ebSeZI6t9dxb5d9) | [Julie Sims](https://open.spotify.com/artist/1vJuBwScUu9UVbPy59m4qt) | [Divas Without Diamonds: The Best Female Singers You've Never Heard](https://open.spotify.com/album/1WMvX4TcmNX0m1z6FgoKvi) | 4:54 | 2024-01-25 |  |
 | [Soy una Nube](https://open.spotify.com/track/6wuUERCNF5oppDPIblsLtp) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:47 | 2024-01-25 |  |

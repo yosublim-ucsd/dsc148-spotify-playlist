@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-231 songs - 12 hr 49 min
+232 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 | 2023-08-15 | 2024-01-20 |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-08-15 | 2023-08-29 |
 | [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 | 2023-08-28 | 2023-10-07 |
-| [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 | 2024-01-10 |  |
+| [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 | 2024-01-10 | 2024-01-27 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-06 | 2023-08-16 |
 | [Give You Love](https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Give You Love](https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG) | 3:03 | 2023-08-15 | 2023-08-29 |
 | [Glass on the Shelf](https://open.spotify.com/track/0coaS3vPUhouAAWWhZtXYx) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Glass on the Shelf](https://open.spotify.com/album/31ig3AL64lmrzBDbuTRdJa) | 3:40 | 2023-08-15 | 2023-08-29 |
@@ -177,6 +177,7 @@
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2023-11-18 |  |
 | [Show Me Off](https://open.spotify.com/track/4YGHPxZbzLFpFQTSFruLzW) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Show Me Off](https://open.spotify.com/album/4W3wJDaJ6eMMlhFu6IQiuz) | 2:55 | 2023-08-15 |  |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2023-08-28 |  |
+| [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 | 2024-01-26 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/0pP0p7X4SXzdkjugDOPt4s) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Sleepy Eyes](https://open.spotify.com/album/1wKEos4Xsx9LCyxNBX508l) | 2:46 | 2021-12-06 | 2023-08-16 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-10 |  |
 | [Smile](https://open.spotify.com/track/200sUtE26yUqmjTBMKFJTW) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Smile](https://open.spotify.com/album/7uWv0dR6T2k7pooUTHo1Zk) | 2:54 | 2021-12-06 | 2023-08-16 |

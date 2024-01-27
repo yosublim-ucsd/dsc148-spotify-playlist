@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,176 likes - 52 songs - 2 hr 49 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,258 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 50 | [Do It Like Me](https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz) | [Logan Camin](https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o) | [Do It Like Me](https://open.spotify.com/album/2nrliuY92znfzFnihbY20f) | 3:04 |
 | 51 | [Dynamites \- Radio Edit](https://open.spotify.com/track/7xEqJeQfyxTiLadzqva6my) | [Jonk & Spook](https://open.spotify.com/artist/6iIYgGL8ey9QXv82z41c5c) | [Dynamites](https://open.spotify.com/album/62ts1jNjvFpBHwUmXPOi9e) | 3:35 |
 | 52 | [Like WTF](https://open.spotify.com/track/1VsntaYUROfIQfeMDFEfXJ) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 3:02 |
+| 53 | [Move It Back \- Radio Edit](https://open.spotify.com/track/2IA2lxYtlTGJZXl0zTWG33) | [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0), [NAIGEL](https://open.spotify.com/artist/0UyXNC9dPP8i29R6vAnISz) | [Move It Back](https://open.spotify.com/album/4x44OhkCnpfiAEuVj6TVOS) | 3:32 |
+| 54 | [Celtic \- Radio Edit](https://open.spotify.com/track/2zTu0aoHVBOIiP1hpVtLRf) | [MYMA](https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK) | [Celtic EP](https://open.spotify.com/album/1qAuTwolHR0KnWZsvqc06t) | 4:16 |
 
-Snapshot ID: `ODI5MCwxZWUyYjczMGRmN2NhYTU2ZWQ5ZGM2ZGRhOTA0MDk5YjhlMjczMzgy`
+Snapshot ID: `ODI5Miw5ZDg5OTM3ODY0N2IwN2VlZmM5MjY2NzBiODI2MTFkYmZiNTkzZTdm`

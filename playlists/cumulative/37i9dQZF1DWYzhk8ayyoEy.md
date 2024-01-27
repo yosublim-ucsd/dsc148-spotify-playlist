@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-113 songs - 6 hr 22 min
+114 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2023-01-04 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2023-01-04 |  |
 | [Let Me Be](https://open.spotify.com/track/1hGDrKv13rCRaKXjsaHPx2) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Let Me Be](https://open.spotify.com/album/7HgOBdIBEgUIM0FfoVAQTu) | 3:31 | 2023-01-04 |  |
-| [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 |  |
+| [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 | 2024-01-27 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-01-04 |  |
 | [Lift Us Up](https://open.spotify.com/track/4mJ00KHgwBFw2Na0JZxoOy) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Memphis Love](https://open.spotify.com/album/6m88bX6KLUhRVk7DDZBihL) | 4:25 | 2023-11-17 |  |
 | [Light It Up](https://open.spotify.com/track/27G2FTLanmvyUmXzT0pecS) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Light It Up](https://open.spotify.com/album/17Ey42YChKT9G4vH9WX52c) | 3:34 | 2023-02-10 |  |
@@ -120,6 +120,7 @@
 | [Yes We Can](https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Yes We Can](https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra) | 3:26 | 2023-09-01 |  |
 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 | 2023-01-04 | 2023-05-06 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2023-01-04 |  |
+| [You Got My Best](https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [You Got My Best](https://open.spotify.com/album/2esdWQ8nAK82DvziUNsssV) | 2:37 | 2024-01-26 |  |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2023-01-04 |  |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

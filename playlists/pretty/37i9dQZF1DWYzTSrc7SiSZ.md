@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain](/playlists/plain/37i9dQZF1DWYzTSrc7SiSZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzTSrc7SiSZ)
 
-### [Chill Latino](https://open.spotify.com/playlist/37i9dQZF1DWYzTSrc7SiSZ)
+### [chill latino](https://open.spotify.com/playlist/37i9dQZF1DWYzTSrc7SiSZ)
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,649 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,040 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
 | 100 | [Llévate](https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Llévate](https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3) | 2:50 |
 
-Snapshot ID: `MCw0NDU3ZWY5NjY0ZWRjOWYxMTc0NDcyMWNhNjJiYTZhZTc3NWIyYWE1`
+Snapshot ID: `MCw4ZTNkZmY3NTc2NzZkOWRmMzZkMjAyZDU5NjdlYmU2ZDM5ZjdhODhk`

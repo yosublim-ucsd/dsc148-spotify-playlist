@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-158 songs - 10 hr 58 min
+160 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Is There Something I Should Know](https://open.spotify.com/track/4igHNG3kw9KrG9myowBJvC) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Beautiful Lowdown](https://open.spotify.com/album/5W7H2kAiUChuRI05H4VLzm) | 4:29 | 2020-11-05 |  |
 | [Is There Something I Should Know](https://open.spotify.com/track/70vU4pqCiPVJVo6N04Kamz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Beautiful Lowdown](https://open.spotify.com/album/60crLBQx2RHQQfDoDXdnke) | 4:29 | 2020-11-05 | 2022-07-29 |
 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 | 2020-11-05 |  |
+| [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 | 2024-01-26 |  |
 | [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 | 2020-11-05 |  |
 | [Katrina](https://open.spotify.com/track/6Ktr87bevDceLjUC3xtLAt) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Anders Osborne](https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888) | [Freedom & Dreams](https://open.spotify.com/album/1GwtFx5UsUEbfoDDgs5KoC) | 5:01 | 2020-11-05 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2020-11-05 |  |
@@ -112,6 +113,7 @@
 | [Pressure Makes Diamonds](https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 3:29 | 2020-11-05 |  |
 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 | 2020-11-05 |  |
 | [Promises You Can't Keep](https://open.spotify.com/track/0kwo8RG3XpE0tBKJNPBk2D) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:55 | 2020-11-05 |  |
+| [Right By Your Side](https://open.spotify.com/track/0bI84E3wbmzIX2ANurP4vR) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [The Love You Bleed](https://open.spotify.com/album/6gOCWFIXmBEy1c34AqahMo) | 4:19 | 2024-01-26 |  |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/0GpNbGsPTQbVapnsC2fwji) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [My Jazz Music Café \- Americano](https://open.spotify.com/album/0ap8lA7TvwErYHZFfvI2n0) | 4:43 | 2020-11-05 | 2022-11-13 |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2020-11-05 |  |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 | 2020-11-05 | 2022-07-29 |
@@ -130,7 +132,7 @@
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-03-05 | 2022-07-29 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2021-03-05 |  |
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-01-28 |  |
-| [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 | 2020-11-05 |  |
+| [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 | 2020-11-05 | 2024-01-27 |
 | [Take Me Home](https://open.spotify.com/track/5Ilym2G41PI6qjYTshJD8f) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 4:11 | 2020-11-05 |  |
 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 | 2020-11-05 | 2022-07-29 |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-04-14 |  |

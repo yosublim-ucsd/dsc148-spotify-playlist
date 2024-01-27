@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-164 songs - 18 hr 37 min
+165 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,12 @@
 | [Ajab Khail](https://open.spotify.com/track/427BC6reuQ7MFaucXBovNQ) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:00 | 2024-01-05 |  |
 | [Ajab Shaan](https://open.spotify.com/track/4CZISmbEjlxmS2AZU5PicM) | [Junaid Ahmad](https://open.spotify.com/artist/2bj8wu4yydN6N6ocVCRmJz), [Ayashi Music](https://open.spotify.com/artist/6q92ahsRTNAvLM9Joys95s) | [Ajab Shaan](https://open.spotify.com/album/027Hm6R2LDBLuQ7UoH54qY) | 4:16 | 2022-08-02 | 2024-01-06 |
 | [Akhiyan Udeek Diyan](https://open.spotify.com/track/4DeJZKLeq2sKRIRMVUQfr3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Whirling Sufis 50 Greatest Hits](https://open.spotify.com/album/36KaeUjT0XPK2gNe2Ui3go) | 15:03 | 2022-08-02 | 2024-01-06 |
+| [Ali \(A.S\) Aye Hain](https://open.spotify.com/track/1eg7IqSJ1JHk3goCqLpS60) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali \(A.S\) Aye Hain](https://open.spotify.com/album/4VALKrlOl0rKJUlDFfRQvx) | 6:56 | 2024-01-26 |  |
 | [Ali Ali](https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp) | [Afaq Munir](https://open.spotify.com/artist/2xpY02EIF6tEPh6MwaW0MU) | [Ali Ali](https://open.spotify.com/album/5HOkWmLlJfuIQZRQehlEUS) | 2:42 | 2023-08-31 | 2024-01-06 |
 | [Ali Ali](https://open.spotify.com/track/7tDQEy0JBw7EldhdlBaF1w) | [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3) | [Ali Ali](https://open.spotify.com/album/2wPoxnDvYbnXeCWG4P9Ugd) | 4:58 | 2022-06-21 | 2023-11-18 |
 | [Ali Ali](https://open.spotify.com/track/67gxJf9SlZiYLjPBtmWNuw) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali Ali](https://open.spotify.com/album/3GHXQ0iMm996ZrW1VhWrFb) | 3:43 | 2023-03-16 | 2023-05-20 |
 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 | 2022-07-18 |  |
-| [Alif Allah Chambey Di Booty](https://open.spotify.com/track/3ubdpgbEWIcaOyF7bVtxof) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Jugni](https://open.spotify.com/album/7MX5gFeegQUkLCUFtn1oFJ) | 8:37 | 2022-06-21 |  |
+| [Alif Allah Chambey Di Booty](https://open.spotify.com/track/3ubdpgbEWIcaOyF7bVtxof) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Jugni](https://open.spotify.com/album/7MX5gFeegQUkLCUFtn1oFJ) | 8:37 | 2022-06-21 | 2024-01-27 |
 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 | 2024-01-05 |  |
 | [Allah](https://open.spotify.com/track/1If4nhpAJUVwogpsbitL4M) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Main Kavita Hoon \- Amrita Pritam](https://open.spotify.com/album/4zVSwIq5uplUTpCr6p6sHk) | 4:28 | 2022-08-02 |  |
 | [Allah Hi Reham](https://open.spotify.com/track/7lTvFxtg1kwAFFhCBlY75x) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 4:01 | 2022-11-02 | 2022-11-14 |

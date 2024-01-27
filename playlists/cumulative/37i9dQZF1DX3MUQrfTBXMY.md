@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-307 songs - 1 day 2 hr 23 min
+308 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 | 2022-07-15 | 2023-01-21 |
 | [Pakhi](https://open.spotify.com/track/2iwhemWEp6YMN1BD84nUPl) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Icche Ghuri](https://open.spotify.com/album/6xsj12l9oKEbWsdgeqxjAD) | 4:16 | 2023-01-20 | 2023-04-04 |
 | [Parabar](https://open.spotify.com/track/75esoVpXyHok6jAOaCSmWq) | [Mmanifesto](https://open.spotify.com/artist/5HYXOKiy88BlZStvgCNqHF) | [Parabar](https://open.spotify.com/album/2m0tykjdzNt1Uda5iWq0k2) | 5:09 | 2022-11-02 | 2022-12-01 |
-| [Phiriye Dao](https://open.spotify.com/track/5ajjsZ8TgVPiwN4ySTtAZz) | [Miles](https://open.spotify.com/artist/6Q3N4VeQYqEzVDcYEfe5hh) | [Prottasha](https://open.spotify.com/album/2zBBrsAOTZRmYIOcPTBG41) | 4:53 | 2023-04-03 |  |
+| [Phiriye Dao](https://open.spotify.com/track/5ajjsZ8TgVPiwN4ySTtAZz) | [Miles](https://open.spotify.com/artist/6Q3N4VeQYqEzVDcYEfe5hh) | [Prottasha](https://open.spotify.com/album/2zBBrsAOTZRmYIOcPTBG41) | 4:53 | 2023-04-03 | 2024-01-27 |
+| [Phiriye Dao](https://open.spotify.com/track/5pNCVZ2IZK9TXr6nOAIF8t) | [Miles](https://open.spotify.com/artist/6Q3N4VeQYqEzVDcYEfe5hh) | [Prottasha](https://open.spotify.com/album/3oU7jUP8kolEWIlltmqhko) | 4:53 | 2023-11-21 |  |
 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 | 2023-02-23 |
 | [Porinita](https://open.spotify.com/track/5fQBQdZwNcW1FKTuCXQWjU) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Porinita](https://open.spotify.com/album/27MXNp9QGpVfaH06YTM7mJ) | 4:12 | 2022-09-09 |  |
 | [Poth](https://open.spotify.com/track/3dv85YSG11pKRmuFc5Uq37) | [Auparthib](https://open.spotify.com/artist/4AsVsjbexTMpk4sBlsn6gW), [Tahsin Ahmed](https://open.spotify.com/artist/6IFvtjFs36fLuqgSKeVTG0), [Nuraet Prottay](https://open.spotify.com/artist/5zpsCm1FIKCbCqygkxez8N) | [Poth](https://open.spotify.com/album/1fJBVpb9ysFdGmRcUCAxBI) | 3:59 | 2023-11-21 |  |

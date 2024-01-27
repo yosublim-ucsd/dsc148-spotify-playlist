@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,913 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,110 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [Pictures at an Exhibition \(Orch\. M\. Ravel\): Promenade II](https://open.spotify.com/track/5uONLpSzdrUP6N1rSKRU8o) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [フランス国立リヨン管弦楽団](https://open.spotify.com/artist/6H1zw7xcaHmJwPtQsS64JQ), [レナード・スラットキン](https://open.spotify.com/artist/33aBe4ZGmLhCqb6cd68h1i) | [Ravel: Orchestral Works, Vol\. 3 – Orchestrations](https://open.spotify.com/album/1kjREafO2ZSgSRUXQ5ChNm) | 0:55 |
 | 120 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
 
-Snapshot ID: `MCxhMmYxZTMzNzQ3ODk3OWQ0NmZlYzE4YjA2MjgzZWY4M2QxMmFmZWRm`
+Snapshot ID: `MCw4ZWFkMjBkOGI3NDNjNWJmMzc0OGRlYjBiZmM1YWViYTNkYmY5NTk3`

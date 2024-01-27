@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 96647,
+  "2024-01-27": 96673,
   "date_first_scraped": "2023-02-25",
-  "description": "Ariana Grande op de cover van Fresh Pop!",
+  "description": "Froukje op de cover van Fresh Pop!",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -100,6 +100,24 @@
     },
     {
       "album": {
+        "name": "24/7, 365",
+        "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "24/7, 365",
+      "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
+    },
+    {
+      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -177,7 +195,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 165963,
       "name": "Bad Boy!",
       "url": "https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -3703,7 +3721,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -4007,6 +4025,28 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "album": {
@@ -4458,6 +4498,24 @@
     },
     {
       "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
+    },
+    {
+      "album": {
         "name": "Let Me Go Home",
         "url": "https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl"
       },
@@ -4707,6 +4765,24 @@
       "duration_ms": 146666,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil"
+    },
+    {
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229697,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk"
     },
     {
       "album": {
@@ -7123,7 +7199,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"

@@ -1,12 +1,12 @@
 {
   "description": "Digging deep into the history of 10s pop: Cover: Ariana Grande.",
-  "num_followers": 190475,
+  "num_followers": 190547,
   "original_name": "Deep Dive: 10s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA0YmQ2M2U2NzFlMzlkMGNhOGFkY2VhMWU0MjQ4MWYyOGRkMzQy",
+  "snapshot_id": "MCxmYzZjNTg3Zjg1NDZkMDc4Yjg3MDM3YWIxODkwZmMxNDVhNDdjMjRi",
   "tracks": [
     {
       "added_at": "2023-08-30 00:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
-        "name": "A Different Way (with Lauv)",
-        "url": "https://open.spotify.com/album/4PSoaA9rxBDYfrROdI17b9"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 198285,
-      "name": "A Different Way (with Lauv)",
-      "url": "https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
         "name": "Make Me (Cry)",
         "url": "https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g"
       },
@@ -1177,6 +1157,22 @@
       "url": "https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx"
     },
     {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 300253,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T"
+    },
+    {
       "added_at": "2023-12-27 13:03:52",
       "album": {
         "name": "Melodrama",
@@ -1259,22 +1255,6 @@
       "duration_ms": 219000,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 300253,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -1891,6 +1871,22 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
+        "name": "Last Hurrah",
+        "url": "https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Last Hurrah",
+      "url": "https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
         "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
         "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
@@ -1907,22 +1903,6 @@
       "duration_ms": 215315,
       "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
       "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
-        "name": "Last Hurrah",
-        "url": "https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Last Hurrah",
-      "url": "https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -2015,22 +1995,6 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
-        "name": "Emotion (Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251327,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
         "name": "The Mack",
         "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
       },
@@ -2051,6 +2015,38 @@
       "duration_ms": 167038,
       "name": "The Mack",
       "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Reflection (Deluxe)",
+        "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF"
     },
     {
       "added_at": "2023-12-27 13:03:52",
@@ -2083,22 +2079,6 @@
       "duration_ms": 256453,
       "name": "Can't Stop Loving You - 2016 Remaster",
       "url": "https://open.spotify.com/track/2W6PNGCN4PGwPMf1jYazL4"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
-        "name": "Reflection (Deluxe)",
-        "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF"
     },
     {
       "added_at": "2023-12-27 13:03:52",
@@ -2525,6 +2505,22 @@
       "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
+      "added_at": "2024-01-05 10:44:00",
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
+    },
+    {
       "added_at": "2022-11-29 06:12:39",
       "album": {
         "name": "Heart to Break",
@@ -2555,22 +2551,6 @@
       "duration_ms": 221881,
       "name": "I Have Questions",
       "url": "https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv"
-    },
-    {
-      "added_at": "2024-01-05 10:44:00",
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -3699,22 +3679,6 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
-        "name": "High Expectations",
-        "url": "https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/0i2xIlZCO0H3mSpxr2HzgK"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
@@ -4295,22 +4259,6 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Lies In The Dark",
-      "url": "https://open.spotify.com/track/53UKOu8knQIiceqiPiudV3"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
         "name": "Sleep Talking",
         "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
       },
@@ -4387,6 +4335,22 @@
       "duration_ms": 238200,
       "name": "Unkiss Me",
       "url": "https://open.spotify.com/track/1m39XApxHXb2UkGItyyIUO"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Lies In The Dark",
+      "url": "https://open.spotify.com/track/53UKOu8knQIiceqiPiudV3"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -4527,22 +4491,6 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
-        "name": "Treasure - EP",
-        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Tired of Talking",
-      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -4555,6 +4503,22 @@
       "duration_ms": 265613,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Treasure - EP",
+        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Tired of Talking",
+      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -4743,6 +4707,22 @@
     {
       "added_at": "2022-11-29 06:12:39",
       "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "Walk of Shame",
+      "url": "https://open.spotify.com/track/6l2Q66TlfZqzbRkFrZOMT1"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB"
       },
@@ -4791,22 +4771,6 @@
       "duration_ms": 218446,
       "name": "Lighthouse - Andrelli Remix",
       "url": "https://open.spotify.com/track/04CttTezSnv71USiiG9mIo"
-    },
-    {
-      "added_at": "2022-11-29 06:12:39",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Walk of Shame",
-      "url": "https://open.spotify.com/track/6l2Q66TlfZqzbRkFrZOMT1"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -5561,22 +5525,6 @@
       "url": "https://open.spotify.com/track/4jyVtsexyS1kY6X3X3gmAw"
     },
     {
-      "added_at": "2023-12-27 13:03:52",
-      "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Better Than Yourself (Criminal Mind, Pt. 2)",
-      "url": "https://open.spotify.com/track/3DwN8YfAtvJh4c5u8DZPen"
-    },
-    {
       "added_at": "2022-11-29 06:12:39",
       "album": {
         "name": "Growing Pains",
@@ -5591,6 +5539,22 @@
       "duration_ms": 193680,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/003eoIwxETJujVWmNFMoZy"
+    },
+    {
+      "added_at": "2023-12-27 13:03:52",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Better Than Yourself (Criminal Mind, Pt. 2)",
+      "url": "https://open.spotify.com/track/3DwN8YfAtvJh4c5u8DZPen"
     },
     {
       "added_at": "2022-11-29 06:12:39",
@@ -6735,6 +6699,38 @@
       "duration_ms": 207200,
       "name": "What I Did for Love (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Bloodsport '15",
+        "url": "https://open.spotify.com/album/5AFd8rNXb2jRmoIEgIQCEG"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Bloodsport '15",
+      "url": "https://open.spotify.com/track/7EHv6Eb7nQOXhO0BW5gytT"
+    },
+    {
+      "added_at": "2022-11-29 06:12:39",
+      "album": {
+        "name": "Piece by Piece (Radio Mix)",
+        "url": "https://open.spotify.com/album/1Iz4Bvj0LG1puWmKJngIGl"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Piece by Piece - Radio Mix",
+      "url": "https://open.spotify.com/track/1VuUzZe8sFk59msXYK97uu"
     }
   ],
   "unique_name": "Deep Dive: 10s Pop",

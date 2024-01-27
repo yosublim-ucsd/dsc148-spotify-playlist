@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,686 likes - 200 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,733 likes - 200 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [Call on Me](https://open.spotify.com/track/2GxkC3PeOaUd1FBVHkAyOU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 2:50 |
 | 200 | [Need You](https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Need You](https://open.spotify.com/album/1IqpPKPKVpu1VWZ67VnHPB) | 3:02 |
 
-Snapshot ID: `MCxiMTg0MTQ2NTE4NDBjYTVhYTU5MWRiYzVkMDViMWUzODgzNWU4OWIx`
+Snapshot ID: `MCw4ZWYwMWFmOTM0MTA2NDc5ODZmMjQwY2ZmOGEwNDcxNDQ3MTg0ZmJi`

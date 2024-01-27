@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Audrey Vanessa
 
-2,997 songs - 7 day 15 hr 52 min
+2,998 songs - 7 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2249,6 +2249,7 @@
 | [Satu Tahun Cahaya](https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd) | [Suara Lima](https://open.spotify.com/artist/3b20SopLWIzoAeE3WW4QDA), [Carla Vania](https://open.spotify.com/artist/1DApabURVjotLcHbWka1S2) | [Satu Tahun Cahaya](https://open.spotify.com/album/4AzsnehZMJ8FAYkFZk26aO) | 4:18 | 2022-06-02 | 2022-06-24 |
 | [Saturdate](https://open.spotify.com/track/4Pg8QC1plmWGybAPS5Wtru) | [Sugartaste](https://open.spotify.com/artist/1N3HUqrk8kFRCQDccgLuMs) | [Saturdate](https://open.spotify.com/album/0YzBxG0KbHq4O5S5dESErk) | 3:07 | 2023-02-03 | 2023-02-17 |
 | [Saturday Night](https://open.spotify.com/track/1IjgRvB84ShOBxAO1iTqLt) | [GHO$$](https://open.spotify.com/artist/74k9TFZjvOyebE5pWByAdR) | [Saturday Night](https://open.spotify.com/album/2GeoZP9K0qs6zr40BbAOJX) | 3:01 | 2022-11-17 | 2022-12-01 |
+| [Saturday Night](https://open.spotify.com/track/50OV9WQpFOpmy1m7wiQApy) | [Merindink Disko](https://open.spotify.com/artist/7uORYqO84wkxjXknxCA6k2) | [Saturday Night](https://open.spotify.com/album/6Thx3HaT2j4m9r8A3EIA2u) | 3:23 | 2024-01-25 |  |
 | [Save Me](https://open.spotify.com/track/7yKld3qK1s2cTBlrvhIKVn) | [Fraqtion](https://open.spotify.com/artist/3dgWzqWwzldCWo9i84SLE7) | [Save Me](https://open.spotify.com/album/4zA8K6EXG722S685P5Mhzn) | 3:09 | 2022-02-24 | 2022-03-11 |
 | [Say To You](https://open.spotify.com/track/6TzVlySQiD19ToP8nZAf1z) | [2N3RD](https://open.spotify.com/artist/2YXppeJYfVtkLyqLdQwozb) | [Say To You](https://open.spotify.com/album/3izelWOdse0OZUjJr89qLN) | 3:27 | 2022-07-14 | 2022-08-12 |
 | [Say Your Grace](https://open.spotify.com/track/55W1PHzb9OlSh2rxWbpyxa) | [JOSUA](https://open.spotify.com/artist/2QMEyW4sU9nxyxemnzTLzW) | [Say Your Grace](https://open.spotify.com/album/3n9S0AWe5QL7mvY242uUVE) | 3:00 | 2022-02-03 | 2022-02-18 |

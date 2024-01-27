@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,232 likes - 200 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,265 likes - 200 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [The Clearing](https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Blikan](https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew) | 4:19 |
 | 200 | [The Vertical Movements of Eötvös](https://open.spotify.com/track/6i7UMkdeJusb8lVEk3cSG4) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk) | [Fjære](https://open.spotify.com/album/4LE0R14CDvs8f0i650UD1U) | 3:28 |
 
-Snapshot ID: `MCxmZjIzOGEzYTZjYTU2ZmNiYjYyMjFiOTJhZjMyZmQwMjMwNzFlNDcx`
+Snapshot ID: `MCwwMTYwYWY2YTBiZDU2ODg2YTA4NmUwNDU2MjIyZWE2ZTEzYmRkZTY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,431 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,554 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
 | 100 | [St\. Thomas](https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:47 |
 
-Snapshot ID: `MCxjMjM3NTQ0MTE3MjhjZjkzODMyZDNiZWUxYzBlYTkwM2MwMzM3YWIz`
+Snapshot ID: `MCxhYThlMDc2NjI3OThiYjQyOTlhNDhjNmFjNDEwNzFlMWJlMzJiOTA0`

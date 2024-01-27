@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,809 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,854 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 |
 | 80 | [Hawaiian Boogie \(No\. 2\)](https://open.spotify.com/track/3CaLMAdCR0IWOSGRHLh53x) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Blues Kingpins](https://open.spotify.com/album/6ZYbk8xFYOiqSBkxUmOOVI) | 2:19 |
 
-Snapshot ID: `MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1`
+Snapshot ID: `MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh`

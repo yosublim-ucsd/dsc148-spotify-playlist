@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 670867,
+  "2024-01-27": 671764,
   "date_first_scraped": "2021-12-29",
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=Jfag9go1TViPYcDj5HT0wg\">Major League Djz</a>",
   "name": "AMAPIANO grooves",
@@ -4471,7 +4471,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 304334,
       "name": "Boroko Keng (feat. Thama Tee)",
       "url": "https://open.spotify.com/track/70ehQKd5nQ1ADD9uEV2EAF"
@@ -5243,7 +5243,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 413582,
       "name": "Christmas Present",
       "url": "https://open.spotify.com/track/03rdHTIFjxhsWXBsfj2c9h"
@@ -5455,7 +5455,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 416500,
       "name": "Company (Remix)",
       "url": "https://open.spotify.com/track/0608p0wvaTJbwD76vMF0Jh"
@@ -12866,6 +12866,36 @@
     },
     {
       "album": {
+        "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+        "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
+      },
+      "artists": [
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390873,
+      "name": "Jealousy (feat. Leemckrazy & Khalil Harrison)",
+      "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
+    },
+    {
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/6GAkZhByKqRQJzWon4fKKv"
       },
@@ -12977,7 +13007,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 454823,
       "name": "Jika Majika (feat. Mrnationthingz & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6dCbUy4J6oYQInSJpJi91A"
@@ -13317,6 +13347,44 @@
       "duration_ms": 324537,
       "name": "Jwala",
       "url": "https://open.spotify.com/track/3Qn6nt0w9ZmptdolUveOF7"
+    },
+    {
+      "album": {
+        "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+        "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Massive95k",
+          "url": "https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1"
+        },
+        {
+          "name": "Dj Motee",
+          "url": "https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p"
+        },
+        {
+          "name": "L4desh",
+          "url": "https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF"
+        },
+        {
+          "name": "Turnupkiid",
+          "url": "https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347148,
+      "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+      "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
     },
     {
       "album": {
@@ -14039,7 +14107,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 377142,
       "name": "Koko (feat. ShaunMusiq & Ftears, Infinite Motion, Deethegeneral & Eemoh)",
       "url": "https://open.spotify.com/track/7vvZz4Kq95NwZijrCID4VK"
@@ -14471,7 +14539,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 317176,
       "name": "Kunkra (feat. Xduppy & ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l"
@@ -15895,7 +15963,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 349825,
       "name": "MALI MALI",
       "url": "https://open.spotify.com/track/6R1eHGeM4rDkaDaLrRjTTs"
@@ -17059,7 +17127,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
@@ -17359,7 +17427,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 385731,
       "name": "Moratata (feat. Leemckrazy & TitoM)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
@@ -18097,7 +18165,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 492831,
       "name": "Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitar)",
       "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
@@ -22236,6 +22304,32 @@
     },
     {
       "album": {
+        "name": "Sgcebezana (feat. Bongza)",
+        "url": "https://open.spotify.com/album/6DQvatq8rGcNoOt6YWXTRf"
+      },
+      "artists": [
+        {
+          "name": "Semi Tee",
+          "url": "https://open.spotify.com/artist/2mRDgWrF5x7MOS1X1C1UDF"
+        },
+        {
+          "name": "Ma Lemon",
+          "url": "https://open.spotify.com/artist/2UJRUGgGu9ADntAYptgjmf"
+        },
+        {
+          "name": "Bongza",
+          "url": "https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428577,
+      "name": "Sgcebezana (feat. Bongza)",
+      "url": "https://open.spotify.com/track/7f01iy3JxwcICMvajamBBa"
+    },
+    {
+      "album": {
         "name": "Sgija",
         "url": "https://open.spotify.com/album/5MT3TA95ow4zZ4bJD73kBl"
       },
@@ -26111,7 +26205,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 305868,
       "name": "Thula Mabota",
       "url": "https://open.spotify.com/track/6oUHzIheQp8cLdKdeMYl9Z"
@@ -27677,7 +27771,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184285,
       "name": "Umhlolo",
       "url": "https://open.spotify.com/track/7w9l1MLqmCtwhKHz9R93Xd"
@@ -29785,7 +29879,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 413625,
       "name": "Weh Mama (feat. Kabza De Small)",
       "url": "https://open.spotify.com/track/5gyjz42adFHRu6BxW0WZHJ"
@@ -30025,7 +30119,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 360920,
       "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
       "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"
@@ -30295,6 +30389,32 @@
       "duration_ms": 355758,
       "name": "Woza La",
       "url": "https://open.spotify.com/track/3xPsHIBAFsl2x1WYiU91F1"
+    },
+    {
+      "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     },
     {
       "album": {

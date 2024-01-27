@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 18148,
+  "num_followers": 18132,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU5NTQ3MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU5NjMzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "L.M.K",
+        "url": "https://open.spotify.com/album/0068SAfIJFyxzyVKeODMub"
+      },
+      "artists": [
+        {
+          "name": "StaJe",
+          "url": "https://open.spotify.com/artist/5SeXFc1f3INXLRq7TiyYlS"
+        }
+      ],
+      "duration_ms": 195021,
+      "name": "L.M.K",
+      "url": "https://open.spotify.com/track/7qNGTYmJMj5Pj9tKI5eeWq"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "(nendest) narkootikumidest ei tea me (k\u00fcll) midagi",
         "url": "https://open.spotify.com/album/1Mc8irTlnfXUsSrpd2hpOj"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/3wdfbb4qfNmPHJRn8ILMHk"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Vox Populi",
         "url": "https://open.spotify.com/album/6r4Q96ErUy7kkY9bWJxDd4"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/4b8Hn8DVvORc3VT99L4gbn"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "A.I.A. (Anna Inimesele Andeks) (feat. Lea Dali Lion)",
         "url": "https://open.spotify.com/album/1tFAIcYCevUBMfyoCIJz2D"
@@ -69,39 +85,7 @@
       "url": "https://open.spotify.com/track/6I2dpO2LegGmgMpFpk2Qk7"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "trammipark!!",
-        "url": "https://open.spotify.com/album/2nNCViHdZXFw8HpgrFsgjZ"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 152555,
-      "name": "trammipark!!",
-      "url": "https://open.spotify.com/track/0FXVOQfd4q4iMkGgXbTCxp"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "heikki???",
-        "url": "https://open.spotify.com/album/4DX67GjJVKqU7C4iUBgxS5"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 142655,
-      "name": "heikki???",
-      "url": "https://open.spotify.com/track/25yBeIWwwD870aYq18jvT1"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -117,7 +101,39 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "heikki???",
+        "url": "https://open.spotify.com/album/4DX67GjJVKqU7C4iUBgxS5"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 142655,
+      "name": "heikki???",
+      "url": "https://open.spotify.com/track/25yBeIWwwD870aYq18jvT1"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "trammipark!!",
+        "url": "https://open.spotify.com/album/2nNCViHdZXFw8HpgrFsgjZ"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 152555,
+      "name": "trammipark!!",
+      "url": "https://open.spotify.com/track/0FXVOQfd4q4iMkGgXbTCxp"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -157,87 +173,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Wunderbar",
-        "url": "https://open.spotify.com/album/41o4UhGAMv9sKvPI9vCh3e"
-      },
-      "artists": [
-        {
-          "name": "Traffic",
-          "url": "https://open.spotify.com/artist/0Yk0PoyjQiEyIKgnaJFR0n"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Wunderbar",
-      "url": "https://open.spotify.com/track/7ghis9qcx7EdKnFQDycdDt"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -253,7 +189,107 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Wunderbar",
+        "url": "https://open.spotify.com/album/41o4UhGAMv9sKvPI9vCh3e"
+      },
+      "artists": [
+        {
+          "name": "Traffic",
+          "url": "https://open.spotify.com/artist/0Yk0PoyjQiEyIKgnaJFR0n"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Wunderbar",
+      "url": "https://open.spotify.com/track/7ghis9qcx7EdKnFQDycdDt"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "k\u00f5rvetab / kallab",
         "url": "https://open.spotify.com/album/20egrE0c1WlTifi75xBbe3"
@@ -277,51 +313,7 @@
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -337,7 +329,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -353,7 +345,7 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -377,43 +369,31 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -433,7 +413,75 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "\u00c4ra \u00c4rata",
+        "url": "https://open.spotify.com/album/46B9iiG4AkdE7EwJVAIxn5"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "\u00c4ra \u00c4rata",
+      "url": "https://open.spotify.com/track/6ZMDwqvyv7rR1rlFXJs1Ro"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 251249,
+      "name": "MY EYES",
+      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -449,7 +497,23 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "leekiv armastus",
+        "url": "https://open.spotify.com/album/12kK2J0RSiFjgcNyQzG3bF"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        }
+      ],
+      "duration_ms": 154077,
+      "name": "leekiv armastus",
+      "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -473,71 +537,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "\u00c4ra \u00c4rata",
-        "url": "https://open.spotify.com/album/46B9iiG4AkdE7EwJVAIxn5"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 179812,
-      "name": "\u00c4ra \u00c4rata",
-      "url": "https://open.spotify.com/track/6ZMDwqvyv7rR1rlFXJs1Ro"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "leekiv armastus",
-        "url": "https://open.spotify.com/album/12kK2J0RSiFjgcNyQzG3bF"
-      },
-      "artists": [
-        {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
-        }
-      ],
-      "duration_ms": 154077,
-      "name": "leekiv armastus",
-      "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "My Friend",
-        "url": "https://open.spotify.com/album/5Gguna94kJLZ4FUfeTbjEX"
-      },
-      "artists": [
-        {
-          "name": "OLLIE",
-          "url": "https://open.spotify.com/artist/4hhNfPUZ2kBKGuseRny35w"
-        }
-      ],
-      "duration_ms": 183047,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/1E37w5VtNlRXTj43hNrwNb"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 251249,
-      "name": "MY EYES",
-      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
@@ -597,43 +597,23 @@
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "Funk Rave",
+        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/6Dyv9KaRrje5sokNinfUSg"
-      },
-      "artists": [
-        {
-          "name": "Cartoon",
-          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
-        },
-        {
-          "name": "Ewert Sundja",
-          "url": "https://open.spotify.com/artist/1syJOGIeZdFUmwFT6W9Qxh"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3IJXbaTdccJ7p5WdTAiPM1"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -649,23 +629,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/5Gguna94kJLZ4FUfeTbjEX"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "OLLIE",
+          "url": "https://open.spotify.com/artist/4hhNfPUZ2kBKGuseRny35w"
         }
       ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+      "duration_ms": 183047,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/1E37w5VtNlRXTj43hNrwNb"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -689,39 +669,39 @@
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Funk Rave",
-        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "duubel5-v2.mp3",
         "url": "https://open.spotify.com/album/6SV6ze9FYHH1qSVCljrGqz"
@@ -737,7 +717,27 @@
       "url": "https://open.spotify.com/track/71xR5xqbuaMbxlrChk07g9"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
@@ -753,7 +753,75 @@
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 167864,
+      "name": "Not Allowed",
+      "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/6Dyv9KaRrje5sokNinfUSg"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Ewert Sundja",
+          "url": "https://open.spotify.com/artist/1syJOGIeZdFUmwFT6W9Qxh"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3IJXbaTdccJ7p5WdTAiPM1"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -773,87 +841,7 @@
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 167864,
-      "name": "Not Allowed",
-      "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "\u00dchega Miljoneist",
-        "url": "https://open.spotify.com/album/2JfHr8URoBpb9IiWiRgjf5"
-      },
-      "artists": [
-        {
-          "name": "P\u00far M\u00fadd",
-          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "\u00dchega Miljoneist",
-      "url": "https://open.spotify.com/track/2mynvzugqcKLxDPHJgnjvs"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
-      "album": {
-        "name": "Happy Nation",
-        "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Happy Nation",
-      "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
-    },
-    {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -873,23 +861,23 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -905,20 +893,40 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-01-25 10:03:21",
+      "added_at": "2024-01-26 16:03:19",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-01-26 16:03:19",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     }
   ],
   "unique_name": "Top 50 - Estonia",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Valencia Grace",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Livingston",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 169721,
       "name": "as good a reason",
       "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136077,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
@@ -1940,6 +1940,24 @@
       "duration_ms": 140540,
       "name": "cheater",
       "url": "https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3"
+    },
+    {
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
     },
     {
       "album": {
@@ -3935,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "album": {
         "name": "For The Romantics",
         "url": "https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6"
       },
@@ -4407,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD"
+    },
+    {
+      "album": {
         "name": "House We Share",
         "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
       },
@@ -4494,6 +4548,24 @@
       "duration_ms": 159981,
       "name": "How Do We Stay In Love?",
       "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
+    },
+    {
+      "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
       "album": {
@@ -5711,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
       },
@@ -6680,7 +6770,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 130931,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694"
@@ -7314,6 +7404,24 @@
       "duration_ms": 197786,
       "name": "Out Of Excuses",
       "url": "https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj"
+    },
+    {
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU"
+      },
+      "artists": [
+        {
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184556,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb"
     },
     {
       "album": {
@@ -9136,7 +9244,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 234288,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo"
@@ -9836,7 +9944,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167257,
       "name": "Too Tight",
       "url": "https://open.spotify.com/track/7p4y4PW1nOOlW5pINpAxxk"

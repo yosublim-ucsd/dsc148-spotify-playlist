@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now \u2013 featuring Honey Bxby and Kaliii.",
+  "description": "What's happening in R&B, right now \u2013 featuring SiR.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -578,6 +578,24 @@
       "duration_ms": 146000,
       "name": "and i'd go a thousand miles",
       "url": "https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306847,
+      "name": "Angel Numbers / Ten Toes",
+      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
     },
     {
       "album": {
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 293979,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
@@ -4068,7 +4086,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 229040,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
@@ -5537,6 +5555,28 @@
     },
     {
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/5lGpg4Y094O4JdWe3jinRW"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        },
+        {
+          "name": "Drew Deezy",
+          "url": "https://open.spotify.com/artist/4Zl3QweeaLhOlwoujYccnK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201243,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4xcAwYIuE7m9MZhOFlwqAE"
+    },
+    {
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
       },
@@ -5570,7 +5610,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 203294,
       "name": "Is It Real? (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe"
@@ -7151,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "Main One (feat. Tyga)",
         "url": "https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF"
       },
@@ -7984,6 +8042,24 @@
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
+    },
+    {
+      "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145267,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
       "album": {
@@ -9089,6 +9165,36 @@
     },
     {
       "album": {
+        "name": "Passion Pt. 2",
+        "url": "https://open.spotify.com/album/3kytNG7DtrydrdK8Z0mcCS"
+      },
+      "artists": [
+        {
+          "name": "DJ Rosegold",
+          "url": "https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH"
+        },
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        },
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204115,
+      "name": "Passion Pt. 2",
+      "url": "https://open.spotify.com/track/3OraGxjYSSd6ifEX0Ji2mj"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/19Tg0DpJK3hdnNRxJhkb6v"
       },
@@ -9428,7 +9534,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 127615,
       "name": "Press Me",
       "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
@@ -13676,6 +13782,32 @@
       "duration_ms": 186095,
       "name": "Words of Affirmation",
       "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "album": {
+        "name": "Wrist On Freeze",
+        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Wrist On Freeze",
+      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
     },
     {
       "album": {

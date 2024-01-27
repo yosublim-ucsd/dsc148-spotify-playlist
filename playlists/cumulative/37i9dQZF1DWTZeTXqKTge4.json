@@ -132,10 +132,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184109,
       "name": "21",
       "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
+    },
+    {
+      "album": {
+        "name": "Focus / 21 Grammes",
+        "url": "https://open.spotify.com/album/0bZwYhsQX0JtWp5v3yeW4B"
+      },
+      "artists": [
+        {
+          "name": "Joe Rocca",
+          "url": "https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "21 Grammes",
+      "url": "https://open.spotify.com/track/7kYuLvNGvmr0epI0sUmVdv"
     },
     {
       "album": {
@@ -2195,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/4V7dO3foBj5MgHfx11GFc9"
+      },
+      "artists": [
+        {
+          "name": "PCL",
+          "url": "https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/1NstWz5T8H0pqFDStJ43kI"
+    },
+    {
+      "album": {
         "name": "CATCH LACKIN",
         "url": "https://open.spotify.com/album/2tIMAhiJvYPi61JPOKWWIJ"
       },
@@ -2224,7 +2260,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 227547,
       "name": "CC",
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
@@ -3810,7 +3846,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 156788,
       "name": "Eastside Story",
       "url": "https://open.spotify.com/track/75XxDL422jppGj97qBCVxy"
@@ -6629,6 +6665,24 @@
     },
     {
       "album": {
+        "name": "LA TEMP\u00caTE",
+        "url": "https://open.spotify.com/album/1iqSyi183oO6BxB2XMjPgj"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172303,
+      "name": "Liens de sang",
+      "url": "https://open.spotify.com/track/31SWi3hoe6mC7hxQ4mK8eV"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/0ATe5aLX1LMZnavETQCtRw"
       },
@@ -7972,7 +8026,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214000,
       "name": "Noy\u00e9",
       "url": "https://open.spotify.com/track/6Q2UmYEhrFyQSe9PcKOz5b"
@@ -8198,6 +8252,28 @@
       "duration_ms": 217580,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2z3l5GF5En5omNXn55v60u"
+    },
+    {
+      "album": {
+        "name": "On va blow up",
+        "url": "https://open.spotify.com/album/5Owing5I1VQkPKtWfhgAwZ"
+      },
+      "artists": [
+        {
+          "name": "Lanuit",
+          "url": "https://open.spotify.com/artist/0Cwq8OSwWcEHfMlMTW0EJG"
+        },
+        {
+          "name": "D-track",
+          "url": "https://open.spotify.com/artist/4l54qFvTRzDW7zixG6k42z"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "On va blow up",
+      "url": "https://open.spotify.com/track/0s0BYBZMmsGqLojBNQopsI"
     },
     {
       "album": {
@@ -9276,6 +9352,24 @@
       "duration_ms": 248000,
       "name": "Rage de vivre",
       "url": "https://open.spotify.com/track/2PfxSNKBpl64hwE5IQjvKM"
+    },
+    {
+      "album": {
+        "name": "Rancer",
+        "url": "https://open.spotify.com/album/2UnpxsSOSVPBHvFY38ZW2x"
+      },
+      "artists": [
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182391,
+      "name": "Rancer",
+      "url": "https://open.spotify.com/track/7j44AT7B8aSygc571iV4e6"
     },
     {
       "album": {
@@ -10408,7 +10502,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 225253,
       "name": "Speak White",
       "url": "https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX"
@@ -11255,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "Tu connais mon nom",
+        "url": "https://open.spotify.com/album/26Ewl0i5v5fhMKPOIMWkqj"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Tu connais mon nom",
+      "url": "https://open.spotify.com/track/3yFvxH76jUG9LAPg0E6SbP"
+    },
+    {
+      "album": {
         "name": "Tudo Bem",
         "url": "https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93"
       },
@@ -11444,7 +11556,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176045,
       "name": "Vertige",
       "url": "https://open.spotify.com/track/31xvYaTkRzTzTpqhODv0mP"
@@ -11676,10 +11788,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198963,
       "name": "Wait a minute",
       "url": "https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am"
+    },
+    {
+      "album": {
+        "name": "Wasabi",
+        "url": "https://open.spotify.com/album/4casJwyDPUWXpz7P576z5X"
+      },
+      "artists": [
+        {
+          "name": "Sora\u00ef",
+          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+        },
+        {
+          "name": "La Monarque",
+          "url": "https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187776,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/5OXFw7wT8P6Su13CoYVRSf"
     },
     {
       "album": {

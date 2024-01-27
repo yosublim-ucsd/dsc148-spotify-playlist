@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 181413,
       "name": "Canto a la Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 244992,
       "name": "Coastin' (with Alem\u00e1n)",
       "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 192922,
       "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
       "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160522,
       "name": "Gringuita",
       "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
@@ -5583,6 +5583,28 @@
     },
     {
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173524,
+      "name": "La Canci\u00f3n Feliz Del Disco",
+      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
+    },
+    {
+      "album": {
         "name": "La Casa De Las Flores",
         "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
       },
@@ -6050,7 +6072,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211666,
       "name": "Live For Me",
       "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
@@ -6068,7 +6090,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 143474,
       "name": "Llamadas Vac\u00edas",
       "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
@@ -6334,7 +6356,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 142153,
       "name": "luchador",
       "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
@@ -6818,7 +6840,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177815,
       "name": "Me Pongo Loca",
       "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
@@ -6982,10 +7004,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "album": {
+        "name": "Mi Onda/Elen",
+        "url": "https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen"
+      },
+      "artists": [
+        {
+          "name": "ProdMarvin",
+          "url": "https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150916,
+      "name": "Mi Onda",
+      "url": "https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z"
     },
     {
       "album": {
@@ -7374,7 +7414,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
@@ -7542,6 +7582,24 @@
       "duration_ms": 184329,
       "name": "Naranja",
       "url": "https://open.spotify.com/track/5OLU4AqakHYnXfEJ1QbmYL"
+    },
+    {
+      "album": {
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
     },
     {
       "album": {
@@ -8656,6 +8714,24 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192027,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS"
     },
     {
       "album": {
@@ -9914,7 +9990,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
@@ -11848,7 +11924,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177341,
       "name": "Walk On Everything",
       "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
@@ -12300,7 +12376,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-162 songs - 15 hr 25 min
+163 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 | 2024-01-13 |
 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 | 2022-06-23 | 2023-04-29 |
 | [Colorado](https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/3pCxaR5TAlOmGAZQ7TLtwI) | 5:06 | 2022-07-01 |  |
-| [Comes In Waves \- Live at EastWest Studios](https://open.spotify.com/track/6y4xSKfYeOjof39UciTQGz) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller \(Deluxe\)](https://open.spotify.com/album/7KiWpWWSK7VCN5zzi0rb0U) | 5:48 | 2023-02-17 |  |
+| [Comes In Waves \- Live at EastWest Studios](https://open.spotify.com/track/6y4xSKfYeOjof39UciTQGz) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller \(Deluxe\)](https://open.spotify.com/album/7KiWpWWSK7VCN5zzi0rb0U) | 5:48 | 2023-02-17 | 2024-01-27 |
 | [Cottonmouth](https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX) | [WOLF!](https://open.spotify.com/artist/4Xp09N3LwGCuUqyXNRHaVR), [Scott Metzger](https://open.spotify.com/artist/0ZILxKPM8Y2vYZ1UToHidc) | [Adult Entertainment](https://open.spotify.com/album/4XBDWweRR7036JySp1V0rV) | 3:27 | 2022-10-28 |  |
 | [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 | 2022-06-23 | 2023-06-10 |
 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 | 2022-06-23 |  |
@@ -168,6 +168,7 @@
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2023-06-10 |
 | [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 | 2022-11-11 |  |
 | [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 |  |
+| [Yourself](https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/1v7TNMLqaXnJPcCASnFVps) | 6:22 | 2024-01-26 |  |
 | [You’re a Catman](https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [You're a Catman](https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF) | 5:42 | 2022-12-09 | 2023-06-03 |
 | [Zoom Out](https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Zoom Out](https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC) | 4:22 | 2022-10-21 | 2023-07-01 |
 

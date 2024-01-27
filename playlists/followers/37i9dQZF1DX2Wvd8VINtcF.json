@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 130090,
+  "2024-01-27": 130209,
   "date_first_scraped": "2022-11-02",
-  "description": "the pearls of an oyster. Cover: Sam Gellaitry & METTE",
+  "description": "the pearls of an oyster. Cover: Justice",
   "name": "Oyster",
   "tracks": [
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182337,
       "name": "179 Deli (with AJ Tracey)",
       "url": "https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 238459,
       "name": "23",
       "url": "https://open.spotify.com/track/28pZzysr6bKo42CS01n0uP"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
@@ -2848,6 +2848,28 @@
     },
     {
       "album": {
+        "name": "Burn The Hard Drive (feat. Mura Masa)",
+        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192832,
+      "name": "Burn The Hard Drive (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
+    },
+    {
+      "album": {
         "name": "Burns",
         "url": "https://open.spotify.com/album/0VCCrFF3DHUNcjwA9k2K6u"
       },
@@ -2961,7 +2983,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178203,
       "name": "Can You Believe It?",
       "url": "https://open.spotify.com/track/4JCdKIbTurUEw62DBZWerI"
@@ -3733,7 +3755,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 232000,
       "name": "COINS",
       "url": "https://open.spotify.com/track/31hpVui5KjTADblRVdQivQ"
@@ -5264,6 +5286,24 @@
     },
     {
       "album": {
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith"
+    },
+    {
+      "album": {
         "name": "Underneath, Ova East",
         "url": "https://open.spotify.com/album/2QjqterCynXaYFoPmCWXdl"
       },
@@ -5359,7 +5399,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 128000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
@@ -5749,7 +5789,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 227133,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3Yh8wsWL2X9xzznASIpQWh"
@@ -5869,7 +5909,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 235500,
       "name": "Ezekiel's Wheel",
       "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
@@ -6281,7 +6321,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 104238,
       "name": "FEEL ME?",
       "url": "https://open.spotify.com/track/0jxLD2pSThncHuVNvFJYro"
@@ -6735,6 +6775,24 @@
       "duration_ms": 205421,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2xSLfoDlfgGOvjQ6OEJMd5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250368,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6NK6YFjxpLMpaqt6YKfIDA"
     },
     {
       "album": {
@@ -10650,6 +10708,24 @@
     },
     {
       "album": {
+        "name": "let them know they're on your mind",
+        "url": "https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "let them know they're on your mind",
+      "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
+    },
+    {
+      "album": {
         "name": "Let's Break It Down",
         "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
       },
@@ -11916,6 +11992,24 @@
     },
     {
       "album": {
+        "name": "Miss You On My Own",
+        "url": "https://open.spotify.com/album/18i1cm2aN0wqLiVc8qmU9i"
+      },
+      "artists": [
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187361,
+      "name": "Miss You On My Own",
+      "url": "https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP"
+    },
+    {
+      "album": {
         "name": "Missing you",
         "url": "https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn"
       },
@@ -12991,7 +13085,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
@@ -13248,6 +13342,28 @@
     },
     {
       "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
       },
@@ -13277,7 +13393,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
@@ -15090,6 +15206,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223587,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
+    },
+    {
+      "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
       },
@@ -15253,7 +15387,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 293747,
       "name": "Save My Life - Folamour Remix",
       "url": "https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE"
@@ -18068,6 +18202,24 @@
     },
     {
       "album": {
+        "name": "The Irrational",
+        "url": "https://open.spotify.com/album/4ApIXVxkyWR0zidM0T2D10"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "The Irrational",
+      "url": "https://open.spotify.com/track/25erUsbrNb31cdP3OqFA3j"
+    },
+    {
+      "album": {
         "name": "the man",
         "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
       },
@@ -18217,6 +18369,24 @@
       "duration_ms": 186453,
       "name": "The World",
       "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
+    },
+    {
+      "album": {
+        "name": "THERE WAS A BOY",
+        "url": "https://open.spotify.com/album/2IxrRJ6xHiUy6DmSX5Xiee"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221275,
+      "name": "THERE WAS A BOY",
+      "url": "https://open.spotify.com/track/4VF771laHvBn583zLzk3pn"
     },
     {
       "album": {
@@ -18465,6 +18635,24 @@
       "duration_ms": 154782,
       "name": "Time Wasted (Jersey Club) - Remix",
       "url": "https://open.spotify.com/track/3WMcY80tAi7vGHnXYc4k2e"
+    },
+    {
+      "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
       "album": {
@@ -18927,7 +19115,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216154,
       "name": "U & I",
       "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
@@ -19865,7 +20053,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187689,
       "name": "Who",
       "url": "https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw"

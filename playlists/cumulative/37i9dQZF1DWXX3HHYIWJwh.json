@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
       },

@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 1864580,
+  "2024-01-27": 1862216,
   "date_first_scraped": "2022-04-16",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Kidd Voodoo & Daiko 02.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Feid.",
   "name": "\u00c9xitos Chile",
   "tracks": [
     {
@@ -2364,6 +2364,28 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
         "name": "JARABE (feat. Chiko Alfa, Bayriton, Malito Malozo & Paolo Pimp)",
         "url": "https://open.spotify.com/album/2fIVbh6bx6h3odxlQJ0Oof"
       },
@@ -2629,7 +2651,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 226841,
       "name": "La Noche Est\u00e1",
       "url": "https://open.spotify.com/track/0NNV0t2jwoLBViOxM6IZHo"

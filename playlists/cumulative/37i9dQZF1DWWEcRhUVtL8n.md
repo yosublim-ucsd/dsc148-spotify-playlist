@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Etta Marcus
+> New and approved indie pop\. Cover: Goth Babe
 
-1,741 songs - 3 day 19 hr 48 min
+1,743 songs - 3 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-21 | 2022-04-09 |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-05-08 | 2022-04-20 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-07 | 2022-12-10 |
-| [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-08 |  |
+| [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-08 | 2024-01-27 |
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2022-10-07 | 2022-10-22 |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2020-10-16 | 2022-06-15 |
 | [Adult Movies](https://open.spotify.com/track/5k3bwPbg6Kiz4bz76vRnyZ) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Adult Movies](https://open.spotify.com/album/4z4K18jaiyHHjSUthRrPC9) | 3:15 | 2021-08-13 | 2022-07-02 |
@@ -377,6 +377,7 @@
 | [dancing in the kitchen](https://open.spotify.com/track/7yw1S0euAJViNQ6cEUXuEh) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [dancing in the kitchen](https://open.spotify.com/album/7Ge6ILkZgdQoNavqhPU0Wa) | 2:57 | 2021-06-04 | 2022-06-01 |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-07-23 |
 | [Dangerous](https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Dangerous](https://open.spotify.com/album/54xf7HiB51PGuga8FDvxGS) | 2:51 | 2020-10-13\* | 2021-10-21 |
+| [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-01-26 |  |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-02-22 | 2021-10-13 |
 | [Day by Day](https://open.spotify.com/track/1iAtzizV90sFq9oXw4zONM) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Day by Day](https://open.spotify.com/album/1g5s0gmdxuwtZP4qzt9APy) | 2:57 | 2020-10-20 | 2021-02-25 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2023-07-29 |
@@ -1037,7 +1038,7 @@
 | [Monsters](https://open.spotify.com/track/1YsPiKqxgsQjp1KR4Anhlp) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Good Morning Stranger](https://open.spotify.com/album/3WzPTX1IRa5EOAhPYMq1SZ) | 3:44 | 2020-11-10 | 2021-05-25 |
 | [Montage](https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [Montage](https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo) | 2:50 | 2023-02-10 | 2023-03-04 |
 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 | 2024-01-12 |  |
-| [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-08-25 |  |
+| [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-08-25 | 2024-01-27 |
 | [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 | 2023-04-14 |  |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2020-10-20 | 2022-04-05 |
 | [more](https://open.spotify.com/track/0D2bQ8QLRSLeyuvEhSuaDD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [more](https://open.spotify.com/album/3WRv5yZu3FmnQ0JR6eZ482) | 3:03 | 2021-02-22 | 2021-05-28 |
@@ -1306,6 +1307,7 @@
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 | 2023-08-12 |
 | [Sad to Breathe](https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:34 | 2023-04-21 |  |
 | [Sad To See You Happy](https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Sad To See You Happy](https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk) | 2:54 | 2021-05-03 | 2022-04-07 |
+| [Sadie](https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:43 | 2024-01-26 |  |
 | [Safe Places](https://open.spotify.com/track/0877TMacBX9bM5cHZg6c3Q) | [Cassidy King](https://open.spotify.com/artist/04igiyo2E7vg7FxMxoTsIR) | [Safe Places](https://open.spotify.com/album/1bNGqBNK8ZqjmfRm843y1E) | 3:07 | 2020-10-13\* | 2020-11-20 |
 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2022-12-09 |  |
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/50NIEDq6xm6K4CDp8mpcTh) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 2:53 | 2022-11-07 | 2022-12-01 |

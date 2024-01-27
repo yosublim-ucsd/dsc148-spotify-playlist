@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 136109,
+  "num_followers": 136130,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNjM2FjZmM0OTIzMjhiZmYxM2E2MzQ5YTMwNDYyZmJiZDRkZWFh",
+  "snapshot_id": "MCw3OTI5MzIyMmZkN2Q5ZjE1N2U1NWRmNGU4MDEwMGQ5ZmY2OTI0MmFi",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 248087,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Save it for a Rainy Day",
+        "url": "https://open.spotify.com/album/3L6bLwnlpJc9W6TTgLVk2J"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        }
+      ],
+      "duration_ms": 418170,
+      "name": "Save it for a Rainy Day",
+      "url": "https://open.spotify.com/track/3OJ1GwHbz5yVQpmq24AriB"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -75,6 +95,38 @@
       "duration_ms": 115679,
       "name": "Tight",
       "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "East Coast Jazz",
+        "url": "https://open.spotify.com/album/4EbfwbnUU2NIipF7e33KXP"
+      },
+      "artists": [
+        {
+          "name": "Casey Abrams",
+          "url": "https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+        },
+        {
+          "name": "Jesse Elder",
+          "url": "https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S"
+        },
+        {
+          "name": "Dave Tedeschi",
+          "url": "https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5"
+        },
+        {
+          "name": "Kyle Morgan",
+          "url": "https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Stuck In London",
+      "url": "https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -327,26 +379,6 @@
       "duration_ms": 260918,
       "name": "Without You",
       "url": "https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 282441,
-      "name": "What Gives You The Right",
-      "url": "https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1531,22 +1563,6 @@
       "duration_ms": 233284,
       "name": "Midnight, The Stars & You",
       "url": "https://open.spotify.com/track/0MZf8EhOc5Q6B7TIn69WnF"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "A New Kind of Love",
-        "url": "https://open.spotify.com/album/4x8UriOxIb5GFiAg7fLxQK"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 242359,
-      "name": "Tiny Hands",
-      "url": "https://open.spotify.com/track/3zDS4k6w8j6ngoBKtOVR6F"
     },
     {
       "added_at": "2023-02-24 05:01:00",

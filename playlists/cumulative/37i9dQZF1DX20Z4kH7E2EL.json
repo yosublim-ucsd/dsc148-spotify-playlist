@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 245208,
       "name": "ATK",
       "url": "https://open.spotify.com/track/6bhqnnTOHVIGsQL47S3w4N"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 277824,
       "name": "Babe",
       "url": "https://open.spotify.com/track/0qnJLucDt2p59Vf1Km2Bxj"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 321293,
       "name": "CIRCLES - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR"
@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Coming Up (Hold On) (Dokho Remix)",
+        "url": "https://open.spotify.com/album/5dF60bjUT9nwb3d3F5rP7r"
+      },
+      "artists": [
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        },
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198877,
+      "name": "Coming Up (Hold On) - Dokho Remix",
+      "url": "https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC"
+    },
+    {
+      "album": {
         "name": "Compute",
         "url": "https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk"
       },
@@ -770,7 +792,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 263610,
       "name": "Compute",
       "url": "https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw"
@@ -1127,6 +1149,32 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Julia Kleijn",
+          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "album": {
         "name": "Elder Garden",
         "url": "https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf"
       },
@@ -1138,7 +1186,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 329071,
       "name": "Elder Garden",
       "url": "https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H"
@@ -1164,7 +1212,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
@@ -1929,6 +1977,46 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/1Zv46rekPJ2jl2I814JrIj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Ruprecht",
+          "url": "https://open.spotify.com/artist/7KoxAmAWgIo6I6XEkLhIIT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4bGsaRWzpJqww8VvNnaN8J"
+    },
+    {
+      "album": {
+        "name": "Hold On (Festival Piano Mix)",
+        "url": "https://open.spotify.com/album/5SlxhliLDUp1CSWIbSCj9T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Kye Sones",
+          "url": "https://open.spotify.com/artist/5nF0tVCTlrhdEqM09GyOZn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357500,
+      "name": "Hold On - Festival Piano Mix - Extended Mix",
+      "url": "https://open.spotify.com/track/4mj9sr1awjWCmhYgGjgt4i"
+    },
+    {
+      "album": {
         "name": "Illuminations EP",
         "url": "https://open.spotify.com/album/6GWaQBoDbfFb4lsvklJEqY"
       },
@@ -1962,6 +2050,24 @@
       "duration_ms": 339351,
       "name": "Hope Song",
       "url": "https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/4oBK5MWLq48KZWar6wXfmf"
+      },
+      "artists": [
+        {
+          "name": "James iD",
+          "url": "https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326500,
+      "name": "Horizon - Extended Mix",
+      "url": "https://open.spotify.com/track/3X6cmwGMYsTN3MBZ7pspi7"
     },
     {
       "album": {
@@ -2111,6 +2217,32 @@
     },
     {
       "album": {
+        "name": "I Got Nothing",
+        "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203540,
+      "name": "I Got Nothing",
+      "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/7fQXPTn6DbdBQ54achG6cw"
       },
@@ -2180,7 +2312,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216393,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/2Rl4R9VfisgDmVH9J0dHXR"
@@ -2198,10 +2330,40 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 485810,
       "name": "Ichika",
       "url": "https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL"
+    },
+    {
+      "album": {
+        "name": "If You Know Me (Qrion Remix)",
+        "url": "https://open.spotify.com/album/5s8OXeVny3NihaLgjBDJzp"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332459,
+      "name": "If You Know Me - Qrion Extended Mix",
+      "url": "https://open.spotify.com/track/7xcJAex6hVX3gWTpHars8V"
     },
     {
       "album": {
@@ -2317,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "I Hope It Lasts Forever",
+        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292360,
+      "name": "Jones St.",
+      "url": "https://open.spotify.com/track/2b5xmRxuDDygzLSSr9aZlO"
+    },
+    {
+      "album": {
         "name": "JOY (Back on 74)",
         "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
       },
@@ -2376,6 +2556,32 @@
       "duration_ms": 489639,
       "name": "Jungle Hunt - Percussive Mix",
       "url": "https://open.spotify.com/track/1ixdjrTAAau35c97jwUPfP"
+    },
+    {
+      "album": {
+        "name": "Just The Kinda Feeling (Nicky Elisabeth Remix)",
+        "url": "https://open.spotify.com/album/1YD0barVcolgJVSdzRwzeX"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174996,
+      "name": "Just The Kinda Feeling - Nicky Elisabeth Remix",
+      "url": "https://open.spotify.com/track/6bZHIYoZn2Lz8sOGZCthYQ"
     },
     {
       "album": {
@@ -2644,7 +2850,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183876,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
@@ -2669,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Make You Stay",
+        "url": "https://open.spotify.com/album/4d8UfJi5LXHHNF2arS9tnJ"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Make You Stay",
+      "url": "https://open.spotify.com/track/2ft8bS9WVLTCOlRBme1anR"
+    },
+    {
+      "album": {
         "name": "Mama EP",
         "url": "https://open.spotify.com/album/5MHNmGiFJQ67gI0Nlnl3JZ"
       },
@@ -2680,7 +2904,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 407815,
       "name": "Mama",
       "url": "https://open.spotify.com/track/5XSoESe1pq3cmWw3XFH9Z0"
@@ -2698,7 +2922,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 261500,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe"
@@ -2822,6 +3046,32 @@
       "duration_ms": 330459,
       "name": "Mind Dimension - Ben Sterling Remix",
       "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
+    },
+    {
+      "album": {
+        "name": "Miroir Miroir (Qrion Remix)",
+        "url": "https://open.spotify.com/album/1R4LQ1lu3U96k6hznwS8Ya"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295161,
+      "name": "Miroir Miroir - Qrion Remix",
+      "url": "https://open.spotify.com/track/5aKJuLnUZnLdIdJO3csJbj"
     },
     {
       "album": {
@@ -2995,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "I Hope It Lasts Forever",
+        "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269111,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/7qK9QzWb1QJlrNB79Jmkqj"
+    },
+    {
+      "album": {
         "name": "Little i EP",
         "url": "https://open.spotify.com/album/0slGoxoNtLo7UkvIzxON9m"
       },
@@ -3068,7 +3340,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258254,
       "name": "No Sympathy",
       "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"
@@ -3268,7 +3540,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 380631,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5BocQRTrVzVVo2BE1PCbxM"
@@ -3312,6 +3584,28 @@
       "duration_ms": 289175,
       "name": "Out of Sorts - Lycoriscoris Remix",
       "url": "https://open.spotify.com/track/1FeVNarvOAeurpXiHbEeFA"
+    },
+    {
+      "album": {
+        "name": "The Sea Was Empty",
+        "url": "https://open.spotify.com/album/4dbOgOx6gxw12Gb3O9nqgn"
+      },
+      "artists": [
+        {
+          "name": "Ucleden",
+          "url": "https://open.spotify.com/artist/3sXnQFBarm53ZmRpcqnKib"
+        },
+        {
+          "name": "Lexicon Avenue",
+          "url": "https://open.spotify.com/artist/6zbczxkeoCw5lwEhdadPJz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474937,
+      "name": "Oxygen - Lexicon Avenue Remix",
+      "url": "https://open.spotify.com/track/2zHvUABtmKluDFfWPHwxEx"
     },
     {
       "album": {
@@ -3588,7 +3882,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 227625,
       "name": "Ready (feat. Art School Girlfriend)",
       "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
@@ -3672,6 +3966,24 @@
       "duration_ms": 307768,
       "name": "Regado",
       "url": "https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV"
+    },
+    {
+      "album": {
+        "name": "Regency",
+        "url": "https://open.spotify.com/album/3PN8JeTAvDZAvah4uHDgiC"
+      },
+      "artists": [
+        {
+          "name": "Sam Shure",
+          "url": "https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347975,
+      "name": "Regency",
+      "url": "https://open.spotify.com/track/0dhPUNuC2lAiA6IRkebvD9"
     },
     {
       "album": {
@@ -3810,6 +4122,24 @@
       "duration_ms": 210000,
       "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "album": {
+        "name": "Infinita",
+        "url": "https://open.spotify.com/album/45k4FEw7KqxxLbdfZjwavv"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257424,
+      "name": "Seven Six Four",
+      "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
     },
     {
       "album": {
@@ -4268,7 +4598,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
@@ -4606,6 +4936,24 @@
       "duration_ms": 354499,
       "name": "Unknown Structure",
       "url": "https://open.spotify.com/track/3qjZJg6mW6RFUj8M324Bed"
+    },
+    {
+      "album": {
+        "name": "Vajkoczy",
+        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250338,
+      "name": "Vajkoczy",
+      "url": "https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP"
     },
     {
       "album": {

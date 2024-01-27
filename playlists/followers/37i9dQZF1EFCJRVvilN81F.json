@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 3534,
+  "2024-01-27": 3534,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO\">KAYTRANADA</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By KAYTRANADA",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -65,7 +65,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191616,
       "name": "10%",
       "url": "https://open.spotify.com/track/7m0GLNroVLwS55FviKS0h7"
@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 263445,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/69sZjq2UfKfT46g0mVbgnv"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 258784,
       "name": "Meditation (feat. Jazmine Sullivan & KAYTRANADA)",
       "url": "https://open.spotify.com/track/7jaYiqwCFQDdtxfQaSzZuM"

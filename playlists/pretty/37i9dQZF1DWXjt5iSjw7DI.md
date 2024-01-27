@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,208 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,292 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Miles and Miles of Texas \- Live](https://open.spotify.com/track/0z7O4Q7COQ4eoyZ9InDELz) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Live From Austin, TX](https://open.spotify.com/album/54uCapU9InxHywvMVsNo0A) | 3:38 |
 | 150 | [Don't the Girls Get Prettier at Closing Time \(Live\)](https://open.spotify.com/track/2XQ8hkAWo3YalRK0v95Wfk) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Live in Branson](https://open.spotify.com/album/4UPpoNRxQH9VmJPHZ4J3hz) | 3:01 |
 
-Snapshot ID: `MCxiMmFiMTkxNWFkNDM4YWI1ZGQzMTg0ZmZlNDM1OTRlODI0YThmZjNi`
+Snapshot ID: `MCxjYThiY2RjYWZjOThhYjlkYjYyODg0MjFiMDNhMDQ3MDhkNmYxYTNl`

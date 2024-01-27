@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 12 min
+110 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Popurrí Cumbias](https://open.spotify.com/track/05xTV0QyQyV87C9UNq9vuP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Que Se Apague el Sol](https://open.spotify.com/album/2FfHFcmKb9jRKs6usSJGob) | 5:34 | 2022-07-04 | 2022-08-16 |
 | [Por Una Lágrima](https://open.spotify.com/track/5XtoPh8NZ8L309wg60p1RE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:38 | 2022-06-05 | 2022-09-23 |
 | [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 | 2023-10-10 |  |
+| [Por Una Mujer Bonita](https://open.spotify.com/track/4r22bG0xvwQ1VQtnmFrZpJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Me Recordaras](https://open.spotify.com/album/5Q1NInyNiy2h5OaQYDOFgJ) | 2:56 | 2024-01-26 |  |
 | [Porque Es Amor](https://open.spotify.com/track/1HpuLuxNb7xn0yAL9yRDL4) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:30 | 2022-06-09 | 2023-11-11 |
 | [Porque Es Amor](https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 2:30 | 2023-11-10 |  |
 | [Que Sacrificio](https://open.spotify.com/track/0H4sY34re8cnzGfwKQboiE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:25 | 2023-11-10 |  |
@@ -115,7 +116,7 @@
 | [Tumbando Caña \- Live Version](https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:09 | 2023-11-10 |  |
 | [Vamos a Bailar](https://open.spotify.com/track/1BTacG6OfqCbqjwvXolIJS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:48 | 2023-11-10 |  |
 | [Vamos a Bailar](https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:50 | 2022-06-01 | 2023-11-11 |
-| [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 | 2022-11-11 |  |
+| [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 | 2022-11-11 | 2024-01-27 |
 | [Yo Le Bautizo el Chiquito](https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Soy Mexicano](https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa) | 3:10 | 2022-06-01 | 2022-12-21 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

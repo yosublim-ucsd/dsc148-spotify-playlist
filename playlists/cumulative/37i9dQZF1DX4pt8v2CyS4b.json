@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "A Real Bug's Life (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6dfHVPdqW5lUqCP1X35Sb8"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121560,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/0AqqqI8GcSna2WgUe04ytE"
+    },
+    {
+      "album": {
         "name": "Music from Earth Moods (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
       },

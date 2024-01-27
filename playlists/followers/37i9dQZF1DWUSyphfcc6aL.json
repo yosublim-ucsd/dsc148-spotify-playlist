@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1305511,
+  "2024-01-27": 1305375,
   "date_first_scraped": "2022-05-01",
   "description": "",
   "name": "Workout Beats",
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 152952,
       "name": "Be With You Tonight",
       "url": "https://open.spotify.com/track/4fup3Q1Aqn7Y34rkyrI0d7"
@@ -2310,6 +2310,28 @@
     },
     {
       "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/28ovXVvFvyeA51ynmGllvv"
+      },
+      "artists": [
+        {
+          "name": "Kal Elle",
+          "url": "https://open.spotify.com/artist/2Oy9vyrMhGER1C0WIIaSJW"
+        },
+        {
+          "name": "Nick Saady",
+          "url": "https://open.spotify.com/artist/5Tz7R7pSvrDfg1x4BKnAvs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177863,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/3xpF0vVfaIGZw9OKkcS4WX"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -3389,7 +3411,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -3845,7 +3867,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 145662,
       "name": "PROPER Remix",
       "url": "https://open.spotify.com/track/4VqTTfqmQ5TDGq2v6UO78T"

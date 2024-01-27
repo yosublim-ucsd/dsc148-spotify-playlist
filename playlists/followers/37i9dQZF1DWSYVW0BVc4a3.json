@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 118403,
+  "2024-01-27": 118710,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground.",
   "name": "Open Air",
@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "album": {
         "name": "Before Dawn (Solardo Remix)",
         "url": "https://open.spotify.com/album/6EDLqOk2dfRgM6dGIhBFV4"
       },
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 299670,
       "name": "BroCode",
       "url": "https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x"
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 202500,
       "name": "Forget the Things",
       "url": "https://open.spotify.com/track/11BCmyww75y0zyYR3BJtAo"
@@ -6049,7 +6067,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -6193,6 +6211,32 @@
       "duration_ms": 164554,
       "name": "I See You - Junior Simba Remix",
       "url": "https://open.spotify.com/track/1vcn1B5GCrVAGxZ01xCaIB"
+    },
+    {
+      "album": {
+        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
     },
     {
       "album": {
@@ -7995,7 +8039,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221557,
       "name": "L\u0113t It Go",
       "url": "https://open.spotify.com/track/1Xgyx4LF58DLDLQrqM9U7j"
@@ -10339,7 +10383,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191355,
       "name": "Perfect Love - Biscits Remix",
       "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
@@ -10437,6 +10481,28 @@
       "duration_ms": 192086,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt"
+    },
+    {
+      "album": {
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+      },
+      "artists": [
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        },
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "album": {
@@ -15671,7 +15737,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 483199,
       "name": "Whatever We Call It",
       "url": "https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG"
@@ -15815,6 +15881,28 @@
       "duration_ms": 462978,
       "name": "Wildfire - Colyn Remix",
       "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
+    },
+    {
+      "album": {
+        "name": "Will You Remember Me? (YOTTO vs. Anden)",
+        "url": "https://open.spotify.com/album/4fZ5FOgPaTPErFFMFQwbhN"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227427,
+      "name": "Will You Remember Me? - (YOTTO vs. Anden)",
+      "url": "https://open.spotify.com/track/3qRBvlbLv3ZCwQ9rVa7VyW"
     },
     {
       "album": {

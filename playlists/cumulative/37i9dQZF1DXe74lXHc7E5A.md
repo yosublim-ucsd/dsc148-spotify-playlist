@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Skepta
 
-352 songs - 18 hr 8 min
+353 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2022-09-16 | 2023-12-14 |
 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-09-18 |  |
 | [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 | 2022-08-26 | 2022-09-15 |
-| [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 |  |
+| [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 | 2024-01-27 |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-10-14 |
 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 | 2022-07-27 | 2023-06-20 |
 | [Hear It Back \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:14 | 2022-07-27 | 2022-09-24 |
@@ -323,6 +323,7 @@
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-27 | 2023-02-24 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-09 | 2023-10-02 |
 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 | 2022-08-05 | 2023-06-23 |
+| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 |  |
 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 | 2022-11-25 | 2023-10-02 |
 | [Too Hot \(feat\. Adekunle Gold\)](https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Too Hot \(Maxi Single\)](https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d) | 2:59 | 2022-07-27 | 2023-02-22 |
 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 | 2023-09-29 | 2023-10-13 |

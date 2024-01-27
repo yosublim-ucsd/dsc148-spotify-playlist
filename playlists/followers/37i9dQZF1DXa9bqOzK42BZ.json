@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 9458,
+  "2024-01-27": 9512,
   "date_first_scraped": "2022-06-26",
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD_XhBS2mDgi67XVbyhA\">Phina</a> ",
   "name": "Swahili Praise",
@@ -467,6 +467,24 @@
       "duration_ms": 295920,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+    },
+    {
+      "album": {
+        "name": "Ebenezer (Live)",
+        "url": "https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T"
+      },
+      "artists": [
+        {
+          "name": "Noel Nderitu",
+          "url": "https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302050,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv"
     },
     {
       "album": {
@@ -2023,6 +2041,40 @@
       "duration_ms": 370000,
       "name": "SON RISE (Servant)",
       "url": "https://open.spotify.com/track/0MKmPgpBppNrg7gWEyVctc"
+    },
+    {
+      "album": {
+        "name": "SON RISE (Soldier)",
+        "url": "https://open.spotify.com/album/7tXgqXpOjDTuxFB41fEWch"
+      },
+      "artists": [
+        {
+          "name": "XLVI K",
+          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+        },
+        {
+          "name": "Christ's Solja",
+          "url": "https://open.spotify.com/artist/3h5opp4A7fAbFN4Cwjx9SY"
+        },
+        {
+          "name": "Alex Gvng Gvng",
+          "url": "https://open.spotify.com/artist/6LQtttDyFRDL5lbBnrqH1F"
+        },
+        {
+          "name": "Mr Wen",
+          "url": "https://open.spotify.com/artist/3r4bTmnxktH3QHSj1MLyIX"
+        },
+        {
+          "name": "Nakalah Safi",
+          "url": "https://open.spotify.com/artist/58UHCq5r2BlCx9eh2BQ9uQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290821,
+      "name": "SON RISE (Soldier)",
+      "url": "https://open.spotify.com/track/0C02e42RiZPw7JEfMeBF1w"
     },
     {
       "album": {

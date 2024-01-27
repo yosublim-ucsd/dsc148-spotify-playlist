@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 80992,
+  "2024-01-27": 81044,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Kelsey Hart, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -1575,6 +1575,24 @@
       "duration_ms": 182603,
       "name": "American Dirt",
       "url": "https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef"
+    },
+    {
+      "album": {
+        "name": "dear dolly",
+        "url": "https://open.spotify.com/album/6t9kuRQWETA62U9tUH2Qxi"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "american dream",
+      "url": "https://open.spotify.com/track/6Koj5ejCeCF8yoxqql8lb2"
     },
     {
       "album": {
@@ -11062,6 +11080,24 @@
     },
     {
       "album": {
+        "name": "L Is For",
+        "url": "https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Finding Firsts",
+      "url": "https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3"
       },
@@ -11675,6 +11711,24 @@
       "duration_ms": 143592,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1WLDrAPFuq8ipBHlTuosRM"
+    },
+    {
+      "album": {
+        "name": "Friday After Midnight",
+        "url": "https://open.spotify.com/album/5x4FgF26zS8ue3pKuboain"
+      },
+      "artists": [
+        {
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231960,
+      "name": "Friday After Midnight",
+      "url": "https://open.spotify.com/track/5GA3u8KiIL1x4Iddm61LgQ"
     },
     {
       "album": {
@@ -19079,6 +19133,24 @@
       "duration_ms": 184695,
       "name": "Last Call Last",
       "url": "https://open.spotify.com/track/6kayGg0oExDfXnFkTqp97B"
+    },
+    {
+      "album": {
+        "name": "Last Frontier",
+        "url": "https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt"
+      },
+      "artists": [
+        {
+          "name": "Will Jones",
+          "url": "https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208783,
+      "name": "Last Frontier",
+      "url": "https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2"
     },
     {
       "album": {

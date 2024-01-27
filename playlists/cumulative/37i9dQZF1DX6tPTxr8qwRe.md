@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Sam Short
+> Dark, hard hitting pop\. Cover: Charlotte Sands
 
-577 songs - 1 day 2 hr 27 min
+580 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 | 2023-09-04 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
-| [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-10-20 |  |
+| [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-10-20 | 2024-01-27 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2023-04-01 |
 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 | 2022-08-20 |
 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 | 2023-08-18 | 2023-09-16 |
@@ -314,6 +314,7 @@
 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 | 2023-11-10 |  |
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-01-13 | 2023-08-12 |
 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 | 2023-07-07 | 2023-11-11 |
+| [Lose Her](https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Lose Her](https://open.spotify.com/album/316orttce8f1LBwKgJCOou) | 2:50 | 2024-01-26 |  |
 | [Lose Lose](https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Lose Lose](https://open.spotify.com/album/0j0dNw26VKfudkaXZm2QaT) | 3:10 | 2022-11-11 | 2023-05-20 |
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 | 2022-09-24 |
@@ -355,6 +356,7 @@
 | [my best friend's ex](https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [my best friend's ex](https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF) | 2:55 | 2022-09-16 | 2023-02-04 |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-01 | 2024-01-05 |
 | [Naked](https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Naked](https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj) | 2:13 | 2022-08-05 | 2023-03-25 |
+| [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 |  |
 | [narcissists](https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [narcissists](https://open.spotify.com/album/3bxmadBCTKM5ehmDVfeMkv) | 1:51 | 2023-07-14 | 2023-08-19 |
 | [Never Dated You](https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Never Dated You](https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU) | 2:01 | 2022-09-16 | 2023-02-04 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 |  |
@@ -472,6 +474,7 @@
 | [Soul Sucker, Pt\. 2](https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Soul Sucker, Pt\. 2](https://open.spotify.com/album/5DkmK3sQcBanrRg1lFHlMs) | 2:41 | 2021-11-12 | 2022-03-12 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-08 |  |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
+| [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 |  |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 |  |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-18 |
@@ -582,7 +585,7 @@
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2023-09-03 | 2023-09-23 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
-| [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 |  |
+| [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 | 2024-01-27 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-11-11 |
 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 | 2023-01-27 | 2023-06-17 |
 

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Acts Of Union",
+        "url": "https://open.spotify.com/album/3f1UEIn91gogniby61Nl3g"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143656,
+      "name": "Acts Of Union",
+      "url": "https://open.spotify.com/track/3rVkdxXmUBtMkerMqF1Km6"
+    },
+    {
+      "album": {
         "name": "After All This Time",
         "url": "https://open.spotify.com/album/3ReYVDlK8cefCzAvrJ85dv"
       },
@@ -20,6 +38,28 @@
       "duration_ms": 289230,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm"
+    },
+    {
+      "album": {
+        "name": "And Yet (Gold Panda Remix)",
+        "url": "https://open.spotify.com/album/6LNDNbQAtMzcYwhuuiw8q2"
+      },
+      "artists": [
+        {
+          "name": "Will Samson",
+          "url": "https://open.spotify.com/artist/6VBJxxPZ84ty9nR1nFkNNx"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "And Yet - Gold Panda Remix",
+      "url": "https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR"
     },
     {
       "album": {
@@ -70,7 +110,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258806,
       "name": "Beyond Belief",
       "url": "https://open.spotify.com/track/4ahm9nGSgc4YDzRi6eL3l2"
@@ -514,7 +554,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 230500,
       "name": "Kyoto (\u4eac\u90fd) - Lycoriscoris Remix",
       "url": "https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1"
@@ -576,6 +616,24 @@
       "duration_ms": 233499,
       "name": "Lone Swordsman",
       "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
+    },
+    {
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326571,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5"
     },
     {
       "album": {
@@ -778,7 +836,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 293972,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7"

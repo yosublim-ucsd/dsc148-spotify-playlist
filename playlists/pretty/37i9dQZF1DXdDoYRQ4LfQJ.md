@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien al tiro con Los Hijos De Garcia, Fuerza Regida and the hottest corridos in the U.S.!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,350 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,468 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 84 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 85 | [La Vida Loca](https://open.spotify.com/track/1nexAZpehtaPLqJZJSz0VI) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Vida Loca](https://open.spotify.com/album/2PoHoFZmyVSVJuulIjEhNZ) | 3:05 |
 | 86 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
-| 87 | [Guerras En El Barrio](https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0) | [Código Rojo](https://open.spotify.com/artist/5MtON3xriFgVSy9ZrkEtqy), [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO), [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Guerras En El Barrio](https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD) | 4:00 |
+| 87 | [Guerras en el Barrio](https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR), [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO), [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Guerras en el Barrio](https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD) | 4:00 |
 | 88 | [El Mas Buscado](https://open.spotify.com/track/0vtteN4GAHvd6XUQIpwzYI) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mas Buscado](https://open.spotify.com/album/16MeKaH8tGMsB5CqfN5s5o) | 3:05 |
 | 89 | [Serafín \- En Vivo](https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 4:16 |
 | 90 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
 | 100 | [PRC](https://open.spotify.com/track/0cNSq9T5l8gZnpY14rsTR2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:04 |
 
-Snapshot ID: `MCw1ZTMyY2FlNmUwODIzMGYxMDYzMGNiOGVlYmQyOTFhMTE1NDlhYzRl`
+Snapshot ID: `MCxhOGI3NzllN2Y0M2Q0ZDljNmJkNDhjYzVmYjVjZDhhZjQwMzI0MjNm`

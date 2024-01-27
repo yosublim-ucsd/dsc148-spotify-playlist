@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,955 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,006 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 50 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
 
-Snapshot ID: `MCw3MjFlZTlkNjgwZDEwYjY2MzZlNWJiMzEwNjA4MjI3MTRlZTMzNTA2`
+Snapshot ID: `MCxlMTY1ZDAyYTkyZDVlNGIxY2JhZWJkMTI2MWZlOTU0MTUwOGYxNTE5`

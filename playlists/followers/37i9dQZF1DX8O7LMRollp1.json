@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 7549,
+  "2024-01-27": 7556,
   "date_first_scraped": "2023-07-06",
   "description": "Listen to the soundtracks of the drama Revenant. (\ub4dc\ub77c\ub9c8 \uc545\uadc0\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to thriller music that makes you cool on a summer night. (\uc5ec\ub984\ubc24\uc744 \uc2dc\uc6d0\ud558\uac8c \ub9cc\ub4dc\ub294 \uc2a4\ub9b4\ub7ec \uc74c\uc545\ub3c4 \uc990\uaca8\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
   "name": "\uc545\uadc0 (Revenant)",
@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Secret Boutique OST Part.1",
+        "url": "https://open.spotify.com/album/6vCthWDxGcU9d0eZZKPjxp"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/0eQZxRfdIZrCH80qFOBYAV"
+    },
+    {
+      "album": {
         "name": "Secret Boutique Pt.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C"
       },
@@ -281,7 +299,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 239066,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV"

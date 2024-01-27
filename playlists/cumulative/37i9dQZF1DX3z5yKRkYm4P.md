@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-91 songs - 5 hr 5 min
+92 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2022-10-10 |  |
 | [Stinkin' Zombies](https://open.spotify.com/track/1M2s8CvdojlVc1SeUFfnD4) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk) | 3:11 | 2022-10-10 |  |
 | [Stinkin' zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 | 2022-10-10 | 2022-12-01 |
-| [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE) | 1:46 | 2022-10-10 |  |
+| [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE) | 1:46 | 2022-10-10 | 2024-01-27 |
+| [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/44xuds12NIakj4S9jcGKFZ) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/3CRvTWlhtUhLGgFgkRk1D3) | 1:46 | 2022-10-10 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/57wV4ExkkZBDEwM1OqGmGp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Spring Clean](https://open.spotify.com/album/6h0tyUTj25WN2yhgxAkfgY) | 4:04 | 2022-10-10 | 2022-11-13 |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-10-10 |  |
 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2022-10-10 |  |

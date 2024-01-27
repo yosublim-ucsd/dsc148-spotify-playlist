@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,186 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,214 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Silver & Gold \- Yarni & Liv East Remix](https://open.spotify.com/track/5HfAWcuSOLWGihI0bfpls0) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Blackbird Returns](https://open.spotify.com/album/6r3NfKBFkgG0QD2ayvff1r) | 5:00 |
 | 100 | [Starseed](https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [SIM](https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf) | [Starseed](https://open.spotify.com/album/599P9w4ah9XpED1bnB35FB) | 3:22 |
 
-Snapshot ID: `MCw5ZWU2MzEzMzJhNjg3MTZiNjE4YjQ0Y2NjYTBhMzU4YWZkNDNmOTky`
+Snapshot ID: `MCxiMzFkM2NkNTgwZDdmZThkYzYwMzVhYmFmMDhhZTk4ZGQwNWMzZDk1`

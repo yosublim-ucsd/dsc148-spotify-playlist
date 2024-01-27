@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "A Nice Thing To Do",
+        "url": "https://open.spotify.com/album/1zf8IxmaRKqudzIWhWJR6x"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197342,
+      "name": "A Nice Thing To Do",
+      "url": "https://open.spotify.com/track/4ZWNJo7xK9TJwLmpboNVNm"
+    },
+    {
+      "album": {
         "name": "A Sinner and A Saint",
         "url": "https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171354,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj"
@@ -1523,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "dear dolly",
+        "url": "https://open.spotify.com/album/6t9kuRQWETA62U9tUH2Qxi"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "american dream",
+      "url": "https://open.spotify.com/track/6Koj5ejCeCF8yoxqql8lb2"
+    },
+    {
+      "album": {
         "name": "Reno",
         "url": "https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM"
       },
@@ -1556,6 +1596,24 @@
       "duration_ms": 213493,
       "name": "American Dream Truck",
       "url": "https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa"
+    },
+    {
+      "album": {
+        "name": "Anabelle",
+        "url": "https://open.spotify.com/album/49vqjsIgu9xzPAiURWy4vc"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Anabelle",
+      "url": "https://open.spotify.com/track/3FJapheyNIZg3W7bt1qpOa"
     },
     {
       "album": {
@@ -2599,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Bed We Made",
+        "url": "https://open.spotify.com/album/3nMymo2xpK8AdKUTsMigAa"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139946,
+      "name": "Bed We Made",
+      "url": "https://open.spotify.com/track/3qiTaMPDMKBsbnelXf4ATC"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk"
       },
@@ -3408,6 +3484,24 @@
       "duration_ms": 220876,
       "name": "Blame 'Em Both",
       "url": "https://open.spotify.com/track/4TeyMGu3DXaWA9stCQxUW6"
+    },
+    {
+      "album": {
+        "name": "Blame It All On Country Music",
+        "url": "https://open.spotify.com/album/1oxN3TOY3nClvy1qASxPx1"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201015,
+      "name": "Blame It All On Country Music",
+      "url": "https://open.spotify.com/track/2nJL5Rqs9lpnY36lJgONc2"
     },
     {
       "album": {
@@ -4590,7 +4684,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 256117,
       "name": "Cancel",
       "url": "https://open.spotify.com/track/6RicQ0QJK1QF4NyKvHYvvQ"
@@ -8528,7 +8622,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 205100,
       "name": "fake tan",
       "url": "https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ"
@@ -8600,7 +8694,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 213443,
       "name": "Falls Into Place",
       "url": "https://open.spotify.com/track/3qGmFd9KeyjUv1D3BuSST5"
@@ -8748,6 +8842,24 @@
       "duration_ms": 167072,
       "name": "Fill 'Er Up",
       "url": "https://open.spotify.com/track/6BfPaiVZQGXTfnVUXdp2en"
+    },
+    {
+      "album": {
+        "name": "Smoke, Wine & Whiskey",
+        "url": "https://open.spotify.com/album/46Gr2IyUZrqMQmzb1anM9o"
+      },
+      "artists": [
+        {
+          "name": "Runaway June",
+          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/2oHW5EW14gL2VG4q0gRh6j"
     },
     {
       "album": {
@@ -9080,10 +9192,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 218813,
       "name": "Flip a Coin",
       "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
+    },
+    {
+      "album": {
+        "name": "Flip a Coin (Spotify OUTSIDE Version - Live from Burnet, TX)",
+        "url": "https://open.spotify.com/album/3SLqSzzUoodKo22UfEOGUd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212505,
+      "name": "Flip a Coin - Spotify OUTSIDE Version - Live from Burnet, TX",
+      "url": "https://open.spotify.com/track/2Hc0gzPRXrmUleRpUwX0sb"
     },
     {
       "album": {
@@ -10824,7 +10954,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 192263,
       "name": "Guilty Pleasure (feat. Brittney Spencer)",
       "url": "https://open.spotify.com/track/7fXc4hW2uLoRu0ysVHOM2J"
@@ -11008,6 +11138,24 @@
       "duration_ms": 201066,
       "name": "Hands on the Wheel",
       "url": "https://open.spotify.com/track/0wgpdRjaFPJcMDk4k2inkV"
+    },
+    {
+      "album": {
+        "name": "Hands to Myself",
+        "url": "https://open.spotify.com/album/4wvwAOkfyDHyobeEckVkrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Warren",
+          "url": "https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164464,
+      "name": "Hands to Myself",
+      "url": "https://open.spotify.com/track/1DY3vPRXeUHzCC57WXCjuq"
     },
     {
       "album": {
@@ -12166,6 +12314,24 @@
       "duration_ms": 182493,
       "name": "Her To Here",
       "url": "https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW"
+    },
+    {
+      "album": {
+        "name": "Here All Day",
+        "url": "https://open.spotify.com/album/7kye1cwqFjfk83wYDA1SFN"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180149,
+      "name": "Here All Day",
+      "url": "https://open.spotify.com/track/3xbjqQRG3wj2YyoBYr0ESh"
     },
     {
       "album": {
@@ -14837,6 +15003,24 @@
     },
     {
       "album": {
+        "name": "If I Was You",
+        "url": "https://open.spotify.com/album/3pEUkkc5q9sYEZ40apuYJU"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "If I Was You",
+      "url": "https://open.spotify.com/track/37I2TpB0m4MFflQJ7fd3S6"
+    },
+    {
+      "album": {
         "name": "If I Was Your Lover",
         "url": "https://open.spotify.com/album/5xCdd9l7w4pFAkBsBFnSJK"
       },
@@ -16614,7 +16798,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206092,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
@@ -17362,7 +17546,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190906,
       "name": "Living Don't Cost a Lot",
       "url": "https://open.spotify.com/track/5FaouE0oUkLV2SQbDsBjGh"
@@ -17741,6 +17925,24 @@
     },
     {
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/6TY5WOwIef2h4QOrS69qxk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kinder",
+          "url": "https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/4gNJiDP52AJlZeQxsYlEW9"
+    },
+    {
+      "album": {
         "name": "Lost Right Now",
         "url": "https://open.spotify.com/album/6od5VbvVdhpvBOHaB5wWjd"
       },
@@ -17828,6 +18030,24 @@
       "duration_ms": 203347,
       "name": "Love A Little More",
       "url": "https://open.spotify.com/track/6sDICPeeY46P9hdcNN7BwP"
+    },
+    {
+      "album": {
+        "name": "Love Ain't Pretty",
+        "url": "https://open.spotify.com/album/6YRBjg5nmfBroAYXpasNbe"
+      },
+      "artists": [
+        {
+          "name": "Charles Esten",
+          "url": "https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "Love Ain't Pretty",
+      "url": "https://open.spotify.com/track/6LMAUqVUKNKodKuA5xRfJL"
     },
     {
       "album": {
@@ -18418,7 +18638,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 169415,
       "name": "Make You Happy",
       "url": "https://open.spotify.com/track/1INRMefkzrXIx5U16zTt2k"
@@ -18508,7 +18728,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202586,
       "name": "Making It Up As I Go",
       "url": "https://open.spotify.com/track/07PpEVqYwtNFR3DcU6yGsw"
@@ -20193,6 +20413,24 @@
     },
     {
       "album": {
+        "name": "Neon Highway (from Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gF9hFvwy11Twt88SSWKv7"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Neon Highway",
+      "url": "https://open.spotify.com/track/4sh8mzcvlYWku0cooriQ59"
+    },
+    {
+      "album": {
         "name": "Neon Soul",
         "url": "https://open.spotify.com/album/0cnzykC12pbdQCDW7hLbK7"
       },
@@ -21738,6 +21976,24 @@
       "duration_ms": 167690,
       "name": "One Life Ain't Enough",
       "url": "https://open.spotify.com/track/2DibNZpN5dZpYFNLB59foC"
+    },
+    {
+      "album": {
+        "name": "One of Mine",
+        "url": "https://open.spotify.com/album/5BosI6XJUiTBH41m4IBiKS"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163584,
+      "name": "One of Mine",
+      "url": "https://open.spotify.com/track/0BBtQTW7InGLloLnluXXVA"
     },
     {
       "album": {
@@ -26532,7 +26788,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167959,
       "name": "South Of The Border",
       "url": "https://open.spotify.com/track/1U42O036JuKJigXbvOG3Bb"
@@ -27170,7 +27426,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 296000,
       "name": "Suburban Outlaw",
       "url": "https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb"
@@ -28702,7 +28958,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 311862,
       "name": "The Man From Everywhere",
       "url": "https://open.spotify.com/track/2INFjvxKjgCto9nOKyHLDc"
@@ -33912,7 +34168,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194378,
       "name": "Young & Hungry",
       "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"

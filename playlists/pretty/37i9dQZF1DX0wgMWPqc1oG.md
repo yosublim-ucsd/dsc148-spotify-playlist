@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,097 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,135 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [May Street \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/7EyrwcVkLXemac6DBXxCkO) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:20 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCw2ZjRmZDAxNDFlY2ViYzA3Nzk1MmQ3ODMyOTY5ZTFiNjI5YzQ3MWQ2`
+Snapshot ID: `MCwyMmQ3MDlmYjJjNjE1N2M1ZDcwOWM2MjU2MDY0YjU0ZGQ2YjNjYzJj`

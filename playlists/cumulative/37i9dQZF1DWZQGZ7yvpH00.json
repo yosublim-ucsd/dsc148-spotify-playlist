@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Adrian L Santos, Joaquin Medina en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Le\u00f3n Leiden, DannyLux en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208898,
       "name": "$AD BOYZ II",
       "url": "https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL"
@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Aqui Estoy",
+        "url": "https://open.spotify.com/album/4cTofkw0LG4066neRSJG3j"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188058,
+      "name": "Aqui Estoy",
+      "url": "https://open.spotify.com/track/133Ac3HCdH0cZchgMGEmoG"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
@@ -414,6 +436,28 @@
       "duration_ms": 155466,
       "name": "Arroz Con Leche",
       "url": "https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1"
+    },
+    {
+      "album": {
+        "name": "awitado :(",
+        "url": "https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "awitado :(",
+      "url": "https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL"
     },
     {
       "album": {
@@ -494,10 +538,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212976,
       "name": "Bye",
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
+        "name": "Cada Momento",
+        "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "Cada Momento",
+      "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
     },
     {
       "album": {
@@ -600,6 +662,24 @@
       "duration_ms": 187336,
       "name": "Claro Que Te Amo",
       "url": "https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK"
+    },
+    {
+      "album": {
+        "name": "Como Voy A Ser Feliz",
+        "url": "https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Como Voy A Ser Feliz",
+      "url": "https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA"
     },
     {
       "album": {
@@ -1594,7 +1674,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180653,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST"
@@ -1960,7 +2040,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 242831,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/7onIiU1mi9YDbFzMsErUgw"
@@ -2330,7 +2410,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172760,
       "name": "Me Dejaron Como 100pre",
       "url": "https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk"
@@ -2683,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Nada es Igual",
+        "url": "https://open.spotify.com/album/3cRTveeXfjce0BqnFDcped"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145433,
+      "name": "Nada es Igual",
+      "url": "https://open.spotify.com/track/3ExycM3hsqRMC4FAOcFT9k"
+    },
+    {
+      "album": {
         "name": "No Eres La Oficial",
         "url": "https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V"
       },
@@ -2756,6 +2854,24 @@
       "duration_ms": 223000,
       "name": "No Hay Nadie Mas",
       "url": "https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp"
+    },
+    {
+      "album": {
+        "name": "NO HAY SE\u00d1AL",
+        "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161392,
+      "name": "NO HAY SE\u00d1AL",
+      "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
     },
     {
       "album": {
@@ -3082,6 +3198,24 @@
       "duration_ms": 171334,
       "name": "PATRAS (with Yahritza Y Su Esencia)",
       "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
+    },
+    {
+      "album": {
+        "name": "Peonia",
+        "url": "https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5"
+      },
+      "artists": [
+        {
+          "name": "Uriel S. V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145946,
+      "name": "Peonia",
+      "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
     },
     {
       "album": {
@@ -4166,7 +4300,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 153153,
       "name": "TE FUI A SEGUIR",
       "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
@@ -4910,7 +5044,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

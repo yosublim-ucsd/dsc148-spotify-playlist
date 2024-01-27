@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,156 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,196 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [Unfuck The World](https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 4:10 |
 | 60 | [Raise Hell](https://open.spotify.com/track/44WBNnkJAtTEWIkmrco6Mv) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/1NL4RNStYgVzAvD7SWYdV9) | 5:09 |
 
-Snapshot ID: `MCxlYjdhOGJiN2Y3NzkyYjc3NWI4YjNhNDA2YjU5YzI2ZmQ1ODFkNjc5`
+Snapshot ID: `MCw0YzU3OTJlOGMxODM1MDA3YWQyMDA5YTU1ODMyOTMzYWVmN2Q1ODZh`

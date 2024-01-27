@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 邱振哲 \(PikA.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,787 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,827 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [兜轉 \- 《HIStory4\-近距離愛上你》LINE TV片頭曲](https://open.spotify.com/track/3H6nBaQ2UJsUrK78NbYrD9) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [兜轉 \(《HIStory4\-近距離愛上你》LINE TV片頭曲\)](https://open.spotify.com/album/5M2ahDoiH4lD742rCmC1pL) | 4:00 |
 | 50 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 
-Snapshot ID: `MCxhOWQyOGE3MDRhMmE2YzBlM2I4YjBiNjk4ZjllNTNkNTYyNjFkMTc5`
+Snapshot ID: `MCwyNjYwYzQwOThiZWQ0MGM3MTc0MDA2N2M4Y2M5NTg0MDAxZGJkYzZm`

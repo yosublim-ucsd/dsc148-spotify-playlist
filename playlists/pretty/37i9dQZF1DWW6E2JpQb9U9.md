@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,753 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,742 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 |
 | 100 | [Maradó \- En Vivo](https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 6:54 |
 
-Snapshot ID: `MCwzNjc0MmY4YmE3NDIyNjhjNjdiNzZmNGVkNWFjMjRjMjFhZDA4N2E0`
+Snapshot ID: `MCxmMjQxNzQ2M2IwOTQ0MmVhNjU1NjNhMDM2N2ExMDllNGIxNTZkZThj`

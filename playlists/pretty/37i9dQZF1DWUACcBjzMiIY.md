@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,030 likes - 200 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,962 likes - 200 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 199 | [A New Day Has Come](https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 5:41 |
 | 200 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 |
 
-Snapshot ID: `MCw0ZjA5NDljNjY4MjVhMDcxMDA2OWY5NzEwZmIyNWM2NzJkYmVkODQ3`
+Snapshot ID: `MCxmZGRhZjA1MjZmNmEwYzg5ZmY4Y2UxNGFiODYzOWJmMzIzNzk1M2Vk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,743 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,777 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 36 | [炎上撲滅！魔法少女アイ子](https://open.spotify.com/track/1kfD9go6fe7qa1nNpdI5hy) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p), [そりっどびーつ](https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x) | [炎上撲滅！魔法少女アイ子](https://open.spotify.com/album/2KOraN5wCTzllmf9oPjjS7) | 2:55 |
 | 37 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 |
 | 38 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
-| 39 | [さよならバースデー](https://open.spotify.com/track/3aANAlDDG1zLVQo0cc6hVQ) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [さよならバースデー](https://open.spotify.com/album/1pxdxlJ9hl3yVcAr6YaKHi) | 3:29 |
+| 39 | [Sayonara Birthday](https://open.spotify.com/track/6vVBsyhKr1NBC0V1FvP3Ut) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Sayonara Birthday](https://open.spotify.com/album/12fbJ0HEWboQXtsebbykCA) | 3:29 |
 | 40 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 41 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
 | 42 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 50 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
 
-Snapshot ID: `MCxkZGY3YmRhNzgzM2IwNmY1YTM2NDMwZDcyY2ExNzY0M2QwNDFlZTcy`
+Snapshot ID: `MCxhOGI4NzVjNWM4NWMyNThjOWIxOTlhYmZkZGU2ZWM2MDJiMjRmMGNm`

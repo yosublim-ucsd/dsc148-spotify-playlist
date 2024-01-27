@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce & Gabito Ballesteros
 
-346 songs - 21 hr 15 min
+349 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Eso Es Amor](https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Eso Es Amor](https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d) | 3:52 | 2022-03-04 | 2022-09-03 |
 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 | 2023-11-10 |  |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-03-04 | 2022-03-26 |
+| [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 | 2024-01-26 |  |
 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 | 2023-01-27 | 2024-01-13 |
 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 | 2022-08-19 | 2022-09-03 |
 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 | 2022-09-09 | 2024-01-13 |
@@ -180,6 +181,7 @@
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-03-04 | 2022-07-29 |
 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 | 2024-01-19 |  |
 | [Las Puertas del Cielo](https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Las Puertas del Cielo](https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7) | 3:52 | 2022-03-04 | 2022-09-03 |
+| [Latidos](https://open.spotify.com/track/7ED3KHIfiyn83mcwonMr6T) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu), [El Tiguere](https://open.spotify.com/artist/1noUS4B84xt3nMpTIRgV8F) | [Latidos](https://open.spotify.com/album/3sKQ2V6nzvfKFBpfoJtHpo) | 3:05 | 2024-01-26 |  |
 | [Lejos](https://open.spotify.com/track/3Ux53Gwh9txPtWaO7AXKZQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Amor Total](https://open.spotify.com/album/4rDdqIdgGzfD6KXc7VDDzU) | 3:49 | 2022-03-04 | 2022-09-03 |
 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 | 2022-09-09 | 2024-01-13 |
 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 | 2022-09-09 | 2024-01-13 |
@@ -256,6 +258,7 @@
 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 | 2022-09-02 | 2022-09-10 |
 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 | 2022-07-19 | 2024-01-13 |
 | [Propuesta Indecente](https://open.spotify.com/track/6FwEmbPo3d3USlMzuulT69) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Propuesta Indecente](https://open.spotify.com/album/6gLmdzR4hAdr8jIquzZHqH) | 3:55 | 2022-03-04 | 2022-07-29 |
+| [Punta Cana](https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Punta Cana](https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu) | 3:05 | 2024-01-26 |  |
 | [Pégame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 | 2022-09-09 | 2023-02-25 |
 | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/album/5YbnFaF9U2kEOYvMtp1QLe) | 4:19 | 2022-03-04 | 2022-09-03 |
 | [Que Sera de Mi](https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Que Sera de Mi](https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF) | 4:31 | 2022-09-09 | 2024-01-13 |

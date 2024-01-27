@@ -1,13 +1,45 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: IVE",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: IU",
   "num_followers": 740,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "MTc0NiwxM2UzZTdmM2QyYWQ5ZTJhZjMxMTUxMjYxZTIzZmM0ZTVjZDliOWVj",
+  "snapshot_id": "MTc1MSwwNDhjZTYwNTE5ZTFiZTMxZTJhNGEyZTYyOTNkMTA5YWQ2OTdmNmU4",
   "tracks": [
+    {
+      "added_at": "2024-01-26 03:20:08",
+      "album": {
+        "name": "Love wins all",
+        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 271080,
+      "name": "Love wins all",
+      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "added_at": "2024-01-26 03:20:34",
+      "album": {
+        "name": "CIX 1st Single Album \u20180 or 1\u2019",
+        "url": "https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Lovers or Enemies",
+      "url": "https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH"
+    },
     {
       "added_at": "2024-01-22 07:07:39",
       "album": {

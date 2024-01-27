@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44315,
+  "num_followers": 44308,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ0MyxhZDZhNjM4NDBiMjVhZGRiYzNkNWQwNjc3NWNjZmM2YTVhNmE5ZmNi",
+  "snapshot_id": "NjQ0NSwyMDNkMDFjNTFhMTNiZmI5MTM2NzQ1MjVjYTYzYzMxNGJjZTVkNDdj",
   "tracks": [
+    {
+      "added_at": "2024-01-26 17:06:02",
+      "album": {
+        "name": "You\u2019re All Drunk",
+        "url": "https://open.spotify.com/album/3DGJDMRduLi2qKHjt0CKZH"
+      },
+      "artists": [
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "You're All Drunk",
+      "url": "https://open.spotify.com/track/53I9ct5lkkNHUDZqsOnlbb"
+    },
+    {
+      "added_at": "2024-01-26 17:05:46",
+      "album": {
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
     {
       "added_at": "2024-01-19 17:58:32",
       "album": {

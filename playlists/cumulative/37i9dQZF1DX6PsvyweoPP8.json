@@ -2195,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm"
+      },
+      "artists": [
+        {
+          "name": "Olhares",
+          "url": "https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc"
+        },
+        {
+          "name": "Tangi",
+          "url": "https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152365,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs"
+    },
+    {
+      "album": {
         "name": "Leva a S\u00e9rio",
         "url": "https://open.spotify.com/album/7vvK6xHPbNyDaBC4ltB50K"
       },
@@ -3638,6 +3660,28 @@
       "duration_ms": 158588,
       "name": "Sainha Rosa",
       "url": "https://open.spotify.com/track/6Nsm1jyRtGUz9YVFgYNtso"
+    },
+    {
+      "album": {
+        "name": "Satisfa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2gNHfU4gv5Kotk6bMUyGnA"
+      },
+      "artists": [
+        {
+          "name": "Tchelo Gomez",
+          "url": "https://open.spotify.com/artist/7fooyIQDZUU5lZt7NUjM2m"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138863,
+      "name": "Satisfa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5dauxLdy8fScmxOUwYn246"
     },
     {
       "album": {

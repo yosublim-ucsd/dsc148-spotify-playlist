@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Negative Fascination",
+        "url": "https://open.spotify.com/album/65Cl6azbLoaqjKOe4ZTDOt"
+      },
+      "artists": [
+        {
+          "name": "Silent Servant",
+          "url": "https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229379,
+      "name": "A Path Eternal",
+      "url": "https://open.spotify.com/track/7L8B9HJA1hWMde6nRLlPrM"
+    },
+    {
+      "album": {
         "name": "A Place That's Meant To Be",
         "url": "https://open.spotify.com/album/3uLU6f0ueMYcodY8Qnocxp"
       },
@@ -2732,6 +2750,24 @@
       "duration_ms": 347767,
       "name": "Folge Mir",
       "url": "https://open.spotify.com/track/7KBl0w5TYcF8wdQBiTRbsQ"
+    },
+    {
+      "album": {
+        "name": "Sintaxis EP",
+        "url": "https://open.spotify.com/album/77dgtQw89Nj5ng8bORyiaC"
+      },
+      "artists": [
+        {
+          "name": "Gotshell",
+          "url": "https://open.spotify.com/artist/09uDrDm1BBwakHZgqFHrNu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353686,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/7nSEoebmwsWy8acpkF17H4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-226 songs - 9 hr 44 min
+227 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-02 |  |
 | [Far Away](https://open.spotify.com/track/1gGlMU3ILr4ePbLgL6DbyK) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Far Away](https://open.spotify.com/album/3hX0ay3ofbFMq2L9DexOsC) | 2:15 | 2023-04-03 |  |
 | [First Farewell](https://open.spotify.com/track/3RMRrmCruSltU9pnzURb5F) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Weightless](https://open.spotify.com/album/66LNQCSB1ZGGljErprVkVm) | 3:25 | 2023-04-03 |  |
-| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2023-04-03 |  |
+| [First Sunlight](https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6YaTqyn5dntxFNuV1Kc2J9) | 2:28 | 2024-01-02 |  |
+| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2023-04-03 | 2024-01-27 |
 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 | 2023-04-03 |  |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-16 |  |
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2023-04-03 |  |

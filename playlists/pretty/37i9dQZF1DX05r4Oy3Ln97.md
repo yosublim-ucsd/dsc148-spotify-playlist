@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,430 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,457 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
 | 60 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 |
 
-Snapshot ID: `MCxhZTcwNzdlNjg5MWE2MDhmMmQ0YTFkYTFjN2U3ZTQyZmI0ZmJkZmJm`
+Snapshot ID: `MCxhYzI5OTA3Y2JjOTdiZTMwYTdlZTU4MGMzMmFmNTc1NzA0NzI0NWM5`

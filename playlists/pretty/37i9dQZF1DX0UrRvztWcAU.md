@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these happy songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,561 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,758 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/album/09K53TLaJZ156prccNvwuS) | 3:35 |
 | 150 | [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 |
 
-Snapshot ID: `MCwxNWJlZWZiNmM4MDIwOTYyZGJiNTBmZjViMzdiZGU3NjllN2E3YWY5`
+Snapshot ID: `MCxhZjk5MDU0ZjJjNWJjODdmMDA2YTExMzQ3MTUxY2E0YWQ4Yzc5NTU4`

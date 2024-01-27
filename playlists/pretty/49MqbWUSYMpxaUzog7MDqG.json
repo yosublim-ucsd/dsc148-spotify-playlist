@@ -1,12 +1,12 @@
 {
   "description": "Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop. Cover: David Kushner",
-  "num_followers": 23241,
+  "num_followers": 23236,
   "original_name": "Late Night Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MzU0NCwxMjVlMzdlNzc2OWFlNDQxMWY0MmE3OGE5OTllMjIwZDg0ZWM0NTUy",
+  "snapshot_id": "MzU1MywyNjQ0NWE1MzFkYzdlY2E5ZjUxZTQzM2M0MjdhZTQ1MWEyMzliODYx",
   "tracks": [
     {
       "added_at": "2024-01-19 14:08:17",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
+      "added_at": "2024-01-26 14:28:12",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
       "added_at": "2024-01-19 14:08:17",
       "album": {
         "name": "Talk to Me",
@@ -75,6 +91,22 @@
     {
       "added_at": "2024-01-19 14:08:17",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "added_at": "2024-01-19 14:08:17",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -89,20 +121,20 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2024-01-19 14:08:17",
+      "added_at": "2024-01-26 14:37:25",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Hypersensible (Deluxe)",
+        "url": "https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
         }
       ],
-      "duration_ms": 174782,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+      "duration_ms": 215652,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC"
     },
     {
       "added_at": "2024-01-19 14:08:17",
@@ -427,6 +459,26 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2024-01-26 14:30:48",
+      "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "added_at": "2024-01-19 14:08:17",

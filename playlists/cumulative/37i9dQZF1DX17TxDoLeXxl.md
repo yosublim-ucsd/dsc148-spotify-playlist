@@ -4,7 +4,7 @@
 
 > for wandering through nature's playground 🏔️
 
-190 songs - 11 hr 36 min
+192 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 | 2023-05-12 |  |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-05-12 |  |
 | [Gone as It Gets](https://open.spotify.com/track/6pgvh09E3Hdj5rjBHk8LWe) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Gone as It Gets](https://open.spotify.com/album/20fMYYeUFcB6KQglhdgA4l) | 3:44 | 2023-05-15 |  |
+| [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-26 |  |
 | [Halfway Up](https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 3:55 | 2023-05-12 | 2023-10-26 |
 | [Halfway Up](https://open.spotify.com/track/4iB4ES81d7HYw0oqwQ6FRM) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK) | 3:55 | 2023-10-25 |  |
 | [Hard Way Home](https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:21 | 2023-05-15 |  |
@@ -171,6 +172,7 @@
 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-08-20 |  |
 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 | 2023-05-12 |  |
 | [The Mtn\. Song](https://open.spotify.com/track/1kjmgTx2PCBJTPTue0bDb4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 4:28 | 2023-05-12 |  |
+| [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 | 2024-01-26 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-14 |  |
 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 | 2023-05-12 | 2023-11-11 |
 | [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 | 2023-06-30 | 2023-09-18 |
@@ -184,9 +186,9 @@
 | [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 | 2023-08-08 | 2023-09-30 |
 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 | 2023-05-12 |  |
 | [Vines to Make It All Worth It](https://open.spotify.com/track/1OyKSBvrtyy3LczOQQagJb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Vines to Make It All Worth It](https://open.spotify.com/album/4Yhhj9VKURvV5wdMvzkWDb) | 1:36 | 2023-05-12 |  |
-| [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 | 2023-05-12 |  |
+| [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 | 2023-05-12 | 2024-01-27 |
 | [Wandering Child](https://open.spotify.com/track/6xpF0dbtDGmEd0En18Kfwl) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Wild Rivers](https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK) | 3:04 | 2024-01-14 |  |
-| [What A Drag](https://open.spotify.com/track/7MxkBqqxn7YF1PhXsuxLGD) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:34 | 2023-05-12 |  |
+| [What A Drag](https://open.spotify.com/track/7MxkBqqxn7YF1PhXsuxLGD) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:34 | 2023-05-12 | 2024-01-27 |
 | [Where'd All the Time Go](https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Where'd All the Time Go](https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD) | 4:01 | 2023-05-12 |  |
 | [Whistling Trees](https://open.spotify.com/track/71jHTDUXLZmyqMItq9TaYs) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [Let Us Be](https://open.spotify.com/album/3A0XVECahAkgXDfGVZGyKC) | 4:44 | 2023-05-12 | 2024-01-15 |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-05-15 | 2024-01-15 |

@@ -1,29 +1,13 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=0oRxTVcjTp6yilot-NnRLQ\">Beatenberg</a> ",
-  "num_followers": 10988,
+  "num_followers": 10990,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWI2N2NhNGIwMjc3N2JlYjFjNDk2ZDkxYzU5MDhjNjg0OTBmMmE3",
+  "snapshot_id": "MCxmOGFhMzBlZTk3YTAzYjg1MWJjZTNmNDU4M2UzNTNhN2YwYTI5MWQ3",
   "tracks": [
-    {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
-        "name": "Good Morning, Sunshine",
-        "url": "https://open.spotify.com/album/5dVPRn2HblUVCUrexq7UBr"
-      },
-      "artists": [
-        {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "Couch Potato",
-      "url": "https://open.spotify.com/track/5BsYcBRgqetNrAKpQzpHrK"
-    },
     {
       "added_at": "2024-01-11 22:00:00",
       "album": {
@@ -43,8 +27,24 @@
     {
       "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Worth More",
-        "url": "https://open.spotify.com/album/5MyFWcrxlpBfN6MW39mmGc"
+        "name": "Good Morning, Sunshine",
+        "url": "https://open.spotify.com/album/5dVPRn2HblUVCUrexq7UBr"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "Couch Potato",
+      "url": "https://open.spotify.com/track/5BsYcBRgqetNrAKpQzpHrK"
+    },
+    {
+      "added_at": "2024-01-11 22:00:00",
+      "album": {
+        "name": "The Hanging Gardens Of Beatenberg",
+        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
         }
       ],
-      "duration_ms": 166071,
-      "name": "Worth More",
-      "url": "https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK"
+      "duration_ms": 217466,
+      "name": "Chelsea Blakemore",
+      "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
     },
     {
       "added_at": "2024-01-18 22:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Shortcuts",
-        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Shortcuts",
-      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
-    },
-    {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-01-11 22:00:00",
+      "album": {
+        "name": "Shortcuts",
+        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Shortcuts",
+      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
     },
     {
       "added_at": "2024-01-11 22:00:00",
@@ -135,22 +135,6 @@
       "duration_ms": 196640,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/2UKsPrqGAbsVO5ei8Y1JOs"
-    },
-    {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
-        "name": "The Hanging Gardens Of Beatenberg",
-        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
-      },
-      "artists": [
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Chelsea Blakemore",
-      "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
     },
     {
       "added_at": "2024-01-11 22:00:00",
@@ -201,6 +185,22 @@
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
     },
     {
+      "added_at": "2024-01-11 22:00:00",
+      "album": {
+        "name": "Worth More",
+        "url": "https://open.spotify.com/album/5MyFWcrxlpBfN6MW39mmGc"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 166071,
+      "name": "Worth More",
+      "url": "https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK"
+    },
+    {
       "added_at": "2024-01-18 22:00:00",
       "album": {
         "name": "Slasher",
@@ -231,6 +231,22 @@
       "duration_ms": 198826,
       "name": "Let's Fall in Love Some More",
       "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
+    },
+    {
+      "added_at": "2024-01-26 06:08:41",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 136216,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
       "added_at": "2024-01-11 22:00:00",
@@ -481,6 +497,30 @@
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
+      "added_at": "2024-01-26 06:08:41",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Paul Timitch",
+          "url": "https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS"
+        }
+      ],
+      "duration_ms": 140190,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4"
+    },
+    {
       "added_at": "2024-01-11 22:00:00",
       "album": {
         "name": "Fight For Me",
@@ -531,22 +571,6 @@
     {
       "added_at": "2024-01-11 22:00:00",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
         "name": "Platinumb Heart Open",
         "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
       },
@@ -579,6 +603,22 @@
       "duration_ms": 211195,
       "name": "Everything Slow",
       "url": "https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ"
+    },
+    {
+      "added_at": "2024-01-26 06:08:41",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7zosLLg2w5AByAMt6oR8W5"
+      },
+      "artists": [
+        {
+          "name": "Cara Frew",
+          "url": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2gvUi2Q8OYQThkPGyoS0FU"
     },
     {
       "added_at": "2024-01-11 22:00:00",
@@ -693,26 +733,6 @@
       "url": "https://open.spotify.com/track/38QjNatYVLGEPZkwYxmYpi"
     },
     {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/7A7aGgIqC9N4lHnHVp3PKg"
-      },
-      "artists": [
-        {
-          "name": "Grassy Spark",
-          "url": "https://open.spotify.com/artist/4unF31CeJIj7d6M3H0PvCl"
-        },
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Living in a Paradise",
-      "url": "https://open.spotify.com/track/1kqWv1DW4UxK4uiSmWEAAh"
-    },
-    {
       "added_at": "2023-11-09 22:00:00",
       "album": {
         "name": "1988",
@@ -761,36 +781,36 @@
       "url": "https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu"
     },
     {
-      "added_at": "2024-01-11 22:00:00",
+      "added_at": "2024-01-26 06:08:41",
       "album": {
-        "name": "Standing with the Sun/Under the Palms",
-        "url": "https://open.spotify.com/album/5LqODlbCD9Hbx9Ns3Dmbkx"
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/17fH9Ubi1ovMNEOVUAt47o"
       },
       "artists": [
         {
-          "name": "Sol Gems",
-          "url": "https://open.spotify.com/artist/1cZoW6y2gbkVEphDW2ReWi"
+          "name": "Amy Ayanda",
+          "url": "https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt"
         }
       ],
-      "duration_ms": 276647,
-      "name": "Standing With the Sun",
-      "url": "https://open.spotify.com/track/3eG2LHJW83IwA8Zv5E3llX"
+      "duration_ms": 231724,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/3V6tKpXHWxlP9z7ThCcUEA"
     },
     {
-      "added_at": "2024-01-11 22:00:00",
+      "added_at": "2024-01-26 06:08:41",
       "album": {
-        "name": "jupiter.",
-        "url": "https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3sSpQCJ1P8uowaX1jbXghS"
       },
       "artists": [
         {
-          "name": "JUCINDA",
-          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
+          "name": "Mtwana",
+          "url": "https://open.spotify.com/artist/70ewNHz36HOPCyctw0oUnt"
         }
       ],
-      "duration_ms": 226754,
-      "name": "jupiter.",
-      "url": "https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4"
+      "duration_ms": 169644,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6652ZJ7gXOKZtXTTgUDYFs"
     },
     {
       "added_at": "2024-01-11 22:00:00",
@@ -811,22 +831,6 @@
       "duration_ms": 366011,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
-    },
-    {
-      "added_at": "2024-01-11 22:00:00",
-      "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/5WujsrVJKPjAL7UA9xvN8I"
-      },
-      "artists": [
-        {
-          "name": "Brynn",
-          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "White Collar Kings",
-      "url": "https://open.spotify.com/track/7GH9I49Uz6fU3kqoB1jK2v"
     }
   ],
   "unique_name": "Indie GO",

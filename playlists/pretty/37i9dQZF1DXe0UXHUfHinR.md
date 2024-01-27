@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,209 likes - 500 songs - 1 day 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,330 likes - 500 songs - 1 day 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
 | 500 | [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 |
 
-Snapshot ID: `MCw4NTljZTg1ZjgyMzdlZWRkZTVlMWY1NmRjNmZhZTE5NTJhODg3YjZi`
+Snapshot ID: `MCwyZTU4M2NmY2ViZmJmM2MzODQ4ZWQ0ZGYxYjg3NzExZmI3ZjBiOGUy`

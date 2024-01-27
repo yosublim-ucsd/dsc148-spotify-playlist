@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "BANANAS",
+        "url": "https://open.spotify.com/album/0AcsHt2hJ7RFFC96y7KLTL"
+      },
+      "artists": [
+        {
+          "name": "PUMP!",
+          "url": "https://open.spotify.com/artist/5Lf6UvtlHP3ZIsZwE31ZuC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "BANANAS",
+      "url": "https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N"
+    },
+    {
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3GhxXFxMVqvbCNjULasnZh"
       },
@@ -2717,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Cash For Love",
+        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276495,
+      "name": "Cash For Love",
+      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
+    },
+    {
+      "album": {
         "name": "Cathedrals",
         "url": "https://open.spotify.com/album/45klGB1wagnbiUySeCuZCj"
       },
@@ -2762,7 +2798,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
@@ -12439,6 +12475,32 @@
     },
     {
       "album": {
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -12678,6 +12740,24 @@
       "duration_ms": 268837,
       "name": "Shaolin Dreams",
       "url": "https://open.spotify.com/track/2sGFufjNzWIVBp5vRR7Sgm"
+    },
+    {
+      "album": {
+        "name": "Shook Pt. 3",
+        "url": "https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8"
+      },
+      "artists": [
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281904,
+      "name": "Shook Pt. 3 - Radio Edit",
+      "url": "https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW"
     },
     {
       "album": {
@@ -15738,7 +15818,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 282375,
       "name": "Where You Are - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
@@ -15760,7 +15840,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184160,
       "name": "Whisper (feat. Raphi)",
       "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
@@ -16198,7 +16278,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"

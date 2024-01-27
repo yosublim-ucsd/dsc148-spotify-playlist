@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 6115,
+  "2024-01-27": 6082,
   "date_first_scraped": "2022-05-30",
-  "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam.",
+  "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam. \u1ea2nh b\u00eca: NSND B\u1ea1ch Tuy\u1ebft, Nal",
   "name": "V\u1ec1 Qu\u00ea",
   "tracks": [
     {
@@ -1828,6 +1828,28 @@
     },
     {
       "album": {
+        "name": "T\u00e2n Kh\u00fac L\u00fd C\u00f4 Ba",
+        "url": "https://open.spotify.com/album/5UYisJuXkNCUvlafiK5Stj"
+      },
+      "artists": [
+        {
+          "name": "NSND Bach Tuyet",
+          "url": "https://open.spotify.com/artist/6BLc7t4KaJGJXuRlUgUNgx"
+        },
+        {
+          "name": "Nal",
+          "url": "https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260967,
+      "name": "T\u00e2n Kh\u00fac L\u00fd C\u00f4 Ba",
+      "url": "https://open.spotify.com/track/6TRpFn93kffx16XZUE8k1C"
+    },
+    {
+      "album": {
         "name": "T\u00e2m S\u1ef1 N\u00e0ng Xu\u00e2n",
         "url": "https://open.spotify.com/album/7girI5OMh6o8ft6DUiAp9B"
       },
@@ -2099,6 +2121,24 @@
       "duration_ms": 231046,
       "name": "T\u1ebft V\u1ec1 Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/07VnCAzjNOeKQZkWaC6UGE"
+    },
+    {
+      "album": {
+        "name": "V\u1ec1 Mi\u1ec1n T\u00e2y",
+        "url": "https://open.spotify.com/album/0zprVApNTxzbO8qipA7eZB"
+      },
+      "artists": [
+        {
+          "name": "Ngh\u1ec7 s\u0129 Th\u1ee5y M\u01b0\u1eddi",
+          "url": "https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294026,
+      "name": "V\u1ec1 Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/5aGK4NYBqRQET6S0ZlGBKj"
     },
     {
       "album": {

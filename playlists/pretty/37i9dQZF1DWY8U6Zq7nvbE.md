@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,829 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,415 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 |
 | 100 | [Unforgettable](https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Unforgettable](https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL) | 2:32 |
 
-Snapshot ID: `MCw4MTM4N2RmM2E4Yjc5MWVkZWRiMWJiMjBiZGJmNzJjYTNiZTJhNzc0`
+Snapshot ID: `MCxmYTQwNTUwZGVlZTQ4N2Q2MGM4Y2E5NDZhNzU2NGVhYzE1YzZjMDc0`

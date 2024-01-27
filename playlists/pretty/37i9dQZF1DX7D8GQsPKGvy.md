@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,995 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,498 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Remixes\)](https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5) | 3:02 |
 | 100 | [Ruin My Life \- Steve James Remix](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Ruin My Life \(Remixes\)](https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN) | 2:57 |
 
-Snapshot ID: `MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1`
+Snapshot ID: `MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk`

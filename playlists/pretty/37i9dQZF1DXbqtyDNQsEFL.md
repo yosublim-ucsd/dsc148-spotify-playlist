@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,281 likes - 80 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,354 likes - 80 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
 | 80 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
 
-Snapshot ID: `MCwyMjZkYzc1NzY2MjhhZTM2YWQ0OGJiYzU3YzI4MzQwZTVjMTQ0ZDAw`
+Snapshot ID: `MCxlMGJjMjFiYTQ5OGYxMzc0YmNmMGUwMGUyODNjMzhlNzE2M2JlMDgz`

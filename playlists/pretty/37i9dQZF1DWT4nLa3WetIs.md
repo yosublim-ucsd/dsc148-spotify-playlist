@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,787 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,961 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
 | 80 | [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 |
 
-Snapshot ID: `MCw0ZjUyNmVmODIxMTZlZTM1NzA5OWQ4MzdjOGZhMTY4YmQ3OWNmNzBj`
+Snapshot ID: `MCwwYTg1OTM2YzE1NmM3OWZjMzA2NTNmYzZmYjU2NWZjODkwMjNjN2E4`

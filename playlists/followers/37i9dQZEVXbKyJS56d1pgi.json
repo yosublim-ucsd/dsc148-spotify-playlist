@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 214070,
+  "2024-01-27": 213847,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Portugal.",
   "name": "Top 50 - Portugal",
@@ -19313,7 +19313,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 129692,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
@@ -21523,7 +21523,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 144765,
       "name": "Where U @",
       "url": "https://open.spotify.com/track/27YnktnfLRoQzUQ7fEQqjA"

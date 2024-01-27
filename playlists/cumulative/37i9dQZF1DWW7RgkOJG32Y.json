@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: The Red Clay Strays",
+  "description": "Top trending country tracks from the last few months. Cover: The War and Treaty",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -944,6 +944,28 @@
       "duration_ms": 183906,
       "name": "Country Boy's Dream Girl",
       "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
     },
     {
       "album": {
@@ -2332,7 +2354,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182973,
       "name": "Heaven By Then",
       "url": "https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO"
@@ -2712,7 +2734,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181066,
       "name": "I'm Not Pretty",
       "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
@@ -3203,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Lotta Bit of You",
+        "url": "https://open.spotify.com/album/3MkHOjkp1AsIOm0RlVVWwf"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162443,
+      "name": "Lotta Bit of You",
+      "url": "https://open.spotify.com/track/7LFj4V7izgF22CUGeDo38n"
+    },
+    {
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -3668,7 +3708,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
@@ -3856,6 +3896,24 @@
       "duration_ms": 187640,
       "name": "No Body",
       "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
+    },
+    {
+      "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
     },
     {
       "album": {

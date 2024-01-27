@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: H1\-KEY\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jooyoung\(주영\)\)
 
-290 songs - 16 hr 13 min
+291 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fantasy \(feat\. Gary & ALi\)](https://open.spotify.com/track/1QOot7m7p0cDBL0Ei4qpCJ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [EGO 90'S PART 2](https://open.spotify.com/album/7zCPiOJpqtj70zmIjZIo0c) | 3:48 | 2022-12-15 | 2023-07-08 |
 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 | 2023-07-08 |
 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 | 2022-07-27 | 2023-01-14 |
+| [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-26 |  |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-20 | 2023-08-18 |
 | [Flying \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [4th Mini Album ?=3 GENEZIS3](https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si) | 3:15 | 2022-08-03 | 2023-01-11 |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-01-31 | 2023-02-15 |

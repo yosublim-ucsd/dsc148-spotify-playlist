@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán
 
-202 songs - 11 hr 8 min
+203 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Entre las Nubes](https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Entre las Nubes](https://open.spotify.com/album/4SlVC4vaeqOwso6amw6a8S) | 3:17 | 2022-01-14 | 2022-11-29 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-05-06 |  |
 | [Entrégate](https://open.spotify.com/track/2C29ujYjA5xyCbSS5oYbF3) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Entrégate](https://open.spotify.com/album/5VUoRAtJqrRpXO2L9Uvh6I) | 2:52 | 2023-08-18 |  |
-| [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-04-01 |  |
+| [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-04-01 | 2024-01-27 |
 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 | 2022-10-28 | 2023-02-14 |
 | [Estabas Ahí](https://open.spotify.com/track/5IwOgqXn6mE1XTIOwnB6Zz) | [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Estabas Ahí](https://open.spotify.com/album/7JWGVjzXvuslaS4bxfuHBi) | 3:27 | 2022-01-21 | 2023-09-09 |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
@@ -97,6 +97,7 @@
 | [La Boca Junta](https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Boca Junta](https://open.spotify.com/album/5KiFt9khw9XuwkFCQ6ZTtB) | 3:47 | 2022-01-14 |  |
 | [La Culpa](https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Culpa](https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT) | 3:20 | 2022-10-07 | 2023-03-18 |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2022-01-14 | 2023-04-15 |
+| [La Oportunidad](https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [La Oportunidad](https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei) | 4:15 | 2024-01-26 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-13 |  |
 | [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 | 2023-10-26 |  |
 | [lento](https://open.spotify.com/track/0YvDSab87x0r3nTExxhztv) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [lento](https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU) | 3:16 | 2023-09-01 |  |

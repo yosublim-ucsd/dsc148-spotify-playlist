@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-815 songs - 1 day 20 hr 41 min
+816 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Happy w u](https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u](https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb) | 4:40 | 2022-07-22 |  |
 | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/track/1n94XVEMS40MCW52AyLGDs) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/album/6tNvMkhgMHVnKMgk5FdCvU) | 4:40 | 2022-01-28 | 2022-07-29 |
 | [HAPPYONMYOWN](https://open.spotify.com/track/2S7KQw63melbknupslX5K8) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [HAPPYONMYOWN](https://open.spotify.com/album/3Eumfyga6PNlHpSeDRm1dG) | 3:50 | 2023-01-26 | 2023-02-03 |
+| [HARTTBREAK](https://open.spotify.com/track/4yar1Xf64ub25x7z8lzyNJ) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [HARTTBREAK / am I enough?](https://open.spotify.com/album/1ROUWJo8rgIAEt6pm34ToK) | 4:55 | 2024-01-26 |  |
 | [hate me](https://open.spotify.com/track/1Trna2zgrXLnIMGoZepn3X) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [hate me](https://open.spotify.com/album/4BgqPDBaoMCyzIreCad3ep) | 2:37 | 2022-11-10 | 2022-12-16 |
 | [headaches](https://open.spotify.com/track/5v2RDx3oCcHxToNSLOJ05y) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [headaches](https://open.spotify.com/album/6g4XzBd2vaJ6zkZn8ddyAi) | 3:18 | 2023-04-20 | 2023-05-12 |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-01-28 | 2022-07-29 |
@@ -785,7 +786,7 @@
 | [White Lies \(feat\. Kvsh\)](https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [November](https://open.spotify.com/album/6HTCFrvyDgMFnFQPVtB6Hz) | 3:33 | 2022-03-29 | 2022-07-05 |
 | [Who Do You Love](https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4apvOjR5ybt6G5IlHBBGmA) | 4:33 | 2022-01-28 | 2022-04-21 |
 | [Who Is It](https://open.spotify.com/track/6rjEtr5eXC89xTntU4PLfo) | [Lady Owl](https://open.spotify.com/artist/2EYRLiZZ9961wOJ823Sl6b) | [Who Is It](https://open.spotify.com/album/1Txsqze4gWVZIbV6zopjkK) | 3:21 | 2023-01-06 | 2023-01-27 |
-| [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 | 2022-08-19 |  |
+| [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 | 2022-08-19 | 2024-01-27 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-08-26 | 2022-09-12 |
 | [WILL YOU?](https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WILL YOU?](https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5) | 3:42 | 2023-02-02 | 2023-04-21 |
 | [Wine](https://open.spotify.com/track/1sp745hELNnYUHowtyvAvn) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Wine](https://open.spotify.com/album/2VlVUCmoqWKd15SOiSeJAS) | 5:50 | 2022-01-28 | 2022-07-26 |

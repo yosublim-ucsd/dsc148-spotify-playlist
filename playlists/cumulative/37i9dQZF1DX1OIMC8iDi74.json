@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 189157,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/7xBTCRTyw51WV8J8Eb0Mmt"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 126857,
       "name": "DR!P",
       "url": "https://open.spotify.com/track/5jSfWCUwhSpG7EJiupoL15"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174857,
       "name": "freeworld",
       "url": "https://open.spotify.com/track/3HBHVolxiWQzQzYFkcwsng"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 289285,
       "name": "In tha Trap",
       "url": "https://open.spotify.com/track/1Dl1opgs5iNJdnUZx3n1aM"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208645,
       "name": "Into It (with Danni Carra)",
       "url": "https://open.spotify.com/track/2aXerFb42GVKbgmbb8fKpD"
@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 117600,
       "name": "Issa Bounce",
       "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 325720,
       "name": "Lights Go Down - Peekaboo Remix",
       "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157500,
       "name": "ONE",
       "url": "https://open.spotify.com/track/3HhNldd3UxNRNJGcWSjMix"
@@ -5257,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "Raw Talent",
+        "url": "https://open.spotify.com/album/6rlfFXYkuQUQasZx7Iseg0"
+      },
+      "artists": [
+        {
+          "name": "roi*",
+          "url": "https://open.spotify.com/artist/3X9NFPrMHYe39NrNUGC9TI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Raw Talent",
+      "url": "https://open.spotify.com/track/0dsCsCrnuAhS3SfBhRZw8f"
+    },
+    {
+      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -5458,7 +5476,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196216,
       "name": "Root Cause",
       "url": "https://open.spotify.com/track/0ynMhP1uUAXZN2dsyBEpVa"
@@ -5993,6 +6011,32 @@
     },
     {
       "album": {
+        "name": "Floorspace RMX-S",
+        "url": "https://open.spotify.com/album/4N81KuegkW5ggoY8bPsGe4"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Stacks (Juelz & Tisoki VIP)",
+      "url": "https://open.spotify.com/track/0v2qqcHfv7qkQc3If1v8zd"
+    },
+    {
+      "album": {
         "name": "Stallions",
         "url": "https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f"
       },
@@ -6234,7 +6278,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 200571,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5XJeq3Et1eL0paiOhnxCpc"
@@ -6356,7 +6400,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 229850,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
@@ -6494,7 +6538,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172800,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/6UK3DJjALEcDdqehJvkjP4"
@@ -7103,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "WE RUN THIS",
+        "url": "https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194142,
+      "name": "WE RUN THIS",
+      "url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T"
+    },
+    {
+      "album": {
         "name": "Whip It Up",
         "url": "https://open.spotify.com/album/1HovnCOvJthebS7vPVVw63"
       },
@@ -7334,7 +7396,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 159310,
       "name": "Zurna",
       "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"

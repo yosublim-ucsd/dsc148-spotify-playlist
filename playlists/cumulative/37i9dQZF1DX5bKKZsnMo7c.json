@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 203058,
       "name": "After You",
       "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167878,
       "name": "anarchy",
       "url": "https://open.spotify.com/track/7cxcMgTHKSZ25C0q1i50Dk"
@@ -548,6 +548,24 @@
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
+    },
+    {
+      "album": {
+        "name": "Bible Belt",
+        "url": "https://open.spotify.com/album/191JnqnJNWLE29v3NlgtRN"
+      },
+      "artists": [
+        {
+          "name": "Sid Dorey",
+          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "Bible Belt",
+      "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
     },
     {
       "album": {
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 173124,
       "name": "bop it",
       "url": "https://open.spotify.com/track/3AKYihZBUkVTjyVqHsBgqg"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196500,
       "name": "Bust Your Kneecaps",
       "url": "https://open.spotify.com/track/5QjoIwD2oUBUUlrHpZa1nZ"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175500,
       "name": "despair",
       "url": "https://open.spotify.com/track/292JruITePIpFvRpPb85GF"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190866,
       "name": "Flower",
       "url": "https://open.spotify.com/track/665GayQvSikGzkwQl32TVy"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157365,
       "name": "I FORGOT",
       "url": "https://open.spotify.com/track/7qIXBakmmkg9c4W1BuXZHj"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224640,
       "name": "just last week",
       "url": "https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210241,
       "name": "Kiss Me, I'm a Prince",
       "url": "https://open.spotify.com/track/5qVQqa8DOJVPFmQI8mrlsb"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167520,
       "name": "La Seine - Extrait de la bande originale un monstre \u00e0 Paris",
       "url": "https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 260799,
       "name": "Learn How to Lose: Act 1",
       "url": "https://open.spotify.com/track/2NzhgfZeAFOf5tfBNcdQoF"
@@ -3418,10 +3436,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 121269,
       "name": "Lover (take me to the moon) - demo",
       "url": "https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
     },
     {
       "album": {
@@ -3696,7 +3732,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195028,
       "name": "Money Machine",
       "url": "https://open.spotify.com/track/1lcRKgU8mtBZTXq0sGUAzy"
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165320,
       "name": "Numb Little Bug - Piano Version",
       "url": "https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu"
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194165,
       "name": "R\u00e4t",
       "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
@@ -4664,7 +4700,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
@@ -4924,7 +4960,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 137543,
       "name": "Soft Boy",
       "url": "https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag"
@@ -5032,7 +5068,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
@@ -5408,7 +5444,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181920,
       "name": "This December",
       "url": "https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d"
@@ -5588,7 +5624,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186000,
       "name": "Typical Me",
       "url": "https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq"
@@ -5664,6 +5700,24 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
+    },
+    {
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "album": {
@@ -5916,6 +5970,28 @@
       "duration_ms": 182727,
       "name": "Wires Crossed",
       "url": "https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre"
+    },
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215936,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"
     },
     {
       "album": {

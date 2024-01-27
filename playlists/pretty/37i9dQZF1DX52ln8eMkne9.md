@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,913 likes - 180 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,001 likes - 180 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [But Beautiful](https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:38 |
 | 180 | [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Q\. Rothwell](https://open.spotify.com/artist/3gIcOkO2AmfH34rmPfXBct) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 |
 
-Snapshot ID: `MCw0YWI1ZDYyNWUzNTNkMGRlOTUwMTBhZTY5YjM0NWYxOGFiMzBhYWUw`
+Snapshot ID: `MCxlZjZlNWY2NzQzYzhkYWRkOTQ2NWQ5ZDFkNDJmM2Y2ZDA4NmNjYTVi`

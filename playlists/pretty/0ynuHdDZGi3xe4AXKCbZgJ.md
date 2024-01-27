@@ -14,6 +14,6 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 | 4 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 5 | [Bad Child](https://open.spotify.com/track/1qCmZnC1FUpNgOydIzqIPC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Bad Child/Can't Be Happy All The Time](https://open.spotify.com/album/6Z7DGRyzIlsq7kXNXQF3Yd) | 3:41 |
 | 6 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 |
-| 7 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [Bounce Into The Music](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 |
+| 7 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 |
 
 Snapshot ID: `MTAsMmM5YzNkZWE4ZmUxOWMyMzczYjgzNmM0ZTQ4N2NmYWJkMDBhMzc4Nw==`

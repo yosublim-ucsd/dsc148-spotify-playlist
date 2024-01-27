@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,652 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,673 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Keyboard Suite No\. 3 \(Set I\) in D Minor, HWV 428: VI\. Presto](https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23) | 4:07 |
 | 61 | [Water Music Suite No\. 1 in F, HWV 348: 3b\. Andante](https://open.spotify.com/track/4UwwMfQVuDqTCdI7oSS8M0) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Concertgebouw Chamber Orchestra](https://open.spotify.com/artist/254914edb11tMrw8vCDjut), [Simon Preston](https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0) | [Handel: Water Music; Music For The Royal Fireworks](https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4) | 4:42 |
 
-Snapshot ID: `MCwwZTg3Y2Q3NzgyYzkyM2Y4NWUzNWE1ZGJhMDJjNWU3ZmIyYThlZDBl`
+Snapshot ID: `MCwzYTQzZDc3MDMyMzY1Y2Q3MWY2ZDViYjY0ZWVlZGUxYThlZGUyMjE3`

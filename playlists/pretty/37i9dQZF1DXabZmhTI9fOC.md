@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,555 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 114 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 115 | [Part Of Me](https://open.spotify.com/track/3aOgskwxDLNY9Xz6hE2zzm) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:22 |
 | 116 | [God Only Knows](https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [God Only Knows](https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi) | 3:04 |
-| 117 | [Step Into the Sunshine](https://open.spotify.com/track/6Afb3ymDLDuJBBhb1QJr8F) | [Brightout](https://open.spotify.com/artist/3rpYhUiJjp3t7XNVfb5K8C) | [Getaway](https://open.spotify.com/album/0KSFcwOe3lg2egU0apitwb) | 2:50 |
+| 117 | [Step Into the Sunshine](https://open.spotify.com/track/7wsZxnH8qxWAmxp5PlhBhf) | [Brightout](https://open.spotify.com/artist/3rpYhUiJjp3t7XNVfb5K8C) | [Getaway](https://open.spotify.com/album/4v5byqaaCofmoIHL1Rbgcf) | 2:50 |
 | 118 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 119 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
 | 120 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 142 | [Tomorrow We Fight](https://open.spotify.com/track/5qIswLybSuwnkcKHYsclPN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Cinematic Songs \(Vol\. 2\)](https://open.spotify.com/album/3m4jEsg6lxhjaYXJSkvfaG) | 3:20 |
 | 143 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 |
 | 144 | [I Want to Know What Love Is \- Acoustic](https://open.spotify.com/track/0wUVwtui3Se9kGUfSD7gaU) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Want to Know What Love Is \(Acoustic\)](https://open.spotify.com/album/1erqPjuceZMoyG0KXvXvFs) | 2:51 |
-| 145 | [Eternal](https://open.spotify.com/track/37prc0NEjJhD62tns24wOt) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Elena Westermann](https://open.spotify.com/artist/4aqCciNWbqvgOfq3ys6bni), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Eternal](https://open.spotify.com/album/0QFpJroV1JB3PjYWFot9Xo) | 4:17 |
+| 145 | [Eternal](https://open.spotify.com/track/62bK6wbshLZMZrpnPWaOh9) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Elena Westermann](https://open.spotify.com/artist/4aqCciNWbqvgOfq3ys6bni), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Eternal](https://open.spotify.com/album/0njgCu7xajrLT6NBx2WEiF) | 4:17 |
 | 146 | [Rise Up](https://open.spotify.com/track/0CZhAu03oSkphxXrpe0HrA) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Rise Up](https://open.spotify.com/album/7Kr2ENTlGbZOV1Ux6n6him) | 2:51 |
 | 147 | [Pandora](https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/0CNTA1D3BQGQMkz38po4IC) | 3:41 |
 | 148 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 195 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/1NGsd18L8kq5BZ22WZZlwa) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/7lqhNDxn83ztjLEtJOuBM7) | 3:44 |
 | 196 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 197 | [Vowels](https://open.spotify.com/track/46MrekDNTftl3P3VyAM0GL) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Vowels](https://open.spotify.com/album/2wuDAXRofgRTMkkGsb5Dg5) | 2:40 |
-| 198 | [Getaway](https://open.spotify.com/track/2fgPMTkiC2el9QghPrLYqJ) | [Brightout](https://open.spotify.com/artist/3rpYhUiJjp3t7XNVfb5K8C) | [Getaway](https://open.spotify.com/album/0KSFcwOe3lg2egU0apitwb) | 2:38 |
+| 198 | [Getaway](https://open.spotify.com/track/4J52AjRCxGE0xbx738PiD4) | [Brightout](https://open.spotify.com/artist/3rpYhUiJjp3t7XNVfb5K8C) | [Getaway](https://open.spotify.com/album/4v5byqaaCofmoIHL1Rbgcf) | 2:38 |
 | 199 | [Another One Bites the Dust \- Epic Trailer Version](https://open.spotify.com/track/700UEnWizRm2pVZ9pDreT5) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI) | [Reawakenings](https://open.spotify.com/album/1CUCeOtiH3pknijQK7zduV) | 3:15 |
 | 200 | [Be Loved](https://open.spotify.com/track/6K6nm6XQNbUkxu9LcPJwfK) | [Di Napoli](https://open.spotify.com/artist/0ztqBP31RGo3uJPFno3odf) | [Made For This](https://open.spotify.com/album/6sHhc2rZ31pLTCeLyLir04) | 3:33 |
 | 201 | [Perfect Two](https://open.spotify.com/track/5GoLr27fvkk48BTSkjQwMK) | [Marissa Detlor](https://open.spotify.com/artist/0jthLdERLuIGXnBkgxnPSm) | [Perfect Two](https://open.spotify.com/album/0KLq1Kh4m35koVRmBAfLPz) | 3:46 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCwzMDY5MDAyMTBhNzBkYmEwY2MyMzdiYzE4ODg3YTgyZDVhMWM4ODIy`
+Snapshot ID: `MCxlYjFjMWUwYTRlYjg4ZTUyYjA4YWQ0M2QxZWRkYTNkMzMyMTlkM2Vk`

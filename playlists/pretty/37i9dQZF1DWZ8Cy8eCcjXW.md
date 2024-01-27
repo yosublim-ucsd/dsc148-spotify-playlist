@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 
 > The genre\-bending singer's essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,208 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,475 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 | 27 | [Doves In The Wind \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:26 |
 | 28 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
 | 29 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
-| 30 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 |
+| 30 | [What Lovers Do](https://open.spotify.com/track/1PrNd4qyytqDIlfmQ1r8YL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NOW That's What I Call Music, Vol\. 64](https://open.spotify.com/album/68FGnF6LTrgtYHQDVgPkZL) | 3:15 |
 | 31 | [Julia](https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:39 |
 | 32 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
 | 33 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 | 49 | [Neva CHange](https://open.spotify.com/track/6tPDalwocS7zgeFpYi3xtr) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 4:30 |
 | 50 | [Gods Reign](https://open.spotify.com/track/4MaI1E1CQfm15THfV0WUIE) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 4:18 |
 
-Snapshot ID: `MCw0NDIwMTkwYjg2ZDZiOWY3YTY2ZmYxYTM0M2M2NzA1MjZhMTdkZTU4`
+Snapshot ID: `MCw2ZDBiMDRlMGE3YzUzMzNmYTEyODU1OTEzYjFiMzJmYzE4MjQ2OGE2`

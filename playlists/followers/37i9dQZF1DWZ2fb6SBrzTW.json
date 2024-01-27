@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 27010,
+  "2024-01-27": 27056,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -329,7 +329,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 313891,
       "name": "Amapiano Body",
       "url": "https://open.spotify.com/track/6wk9QPgrtHe18c47n8uGFb"
@@ -3646,6 +3646,24 @@
     },
     {
       "album": {
+        "name": "Jakpa",
+        "url": "https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Jakpa",
+      "url": "https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00"
+    },
+    {
+      "album": {
         "name": "Jiggy",
         "url": "https://open.spotify.com/album/1T3JGgaZr91l2pJmr5c9Bx"
       },
@@ -4129,7 +4147,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
@@ -7655,7 +7673,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 313891,
       "name": "Yenco!",
       "url": "https://open.spotify.com/track/25Cs1b7GV45uDa9XX82JFB"

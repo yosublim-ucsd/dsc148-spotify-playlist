@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Vaughn
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,740 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Storm](https://open.spotify.com/track/2d0tSxRBa1HogyBnhprZbH) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [Storm](https://open.spotify.com/album/5RWa1vtqR722LRPyFLJflw) | 2:30 |
 | 80 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 |
 
-Snapshot ID: `MCw2MjRmZDkwMWNkNDJlMmNiOTY5YTE3MDk4MjMyYzcwZjRlYWI4OGEz`
+Snapshot ID: `MCw0NWQzYTZiODk2Y2Q2YjhiZjAzOTc0MmZiNGFlN2RkZjY3OWQ1NjJi`

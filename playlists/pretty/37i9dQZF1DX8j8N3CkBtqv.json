@@ -1,28 +1,116 @@
 {
-  "description": "Naye Indie gaano ka khazana! Cover- Sanjeeta Bhattacharya",
-  "num_followers": 68723,
+  "description": "Naye Indie gaano ka khazana! Cover- Prateek Kuhad",
+  "num_followers": 68717,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGY5ZmU5MjY0MWVhZTI4M2Y2OWFiMDUxZDE3MzUwNDIwMTUxMWI2",
+  "snapshot_id": "MCwyZGZkMTE4ZmYyMTZmMzdkZTk3ZjE5NGVjNmVmMmJmZmVjODQzNTJk",
   "tracks": [
     {
-      "added_at": "2024-01-19 07:54:49",
+      "added_at": "2024-01-26 10:17:00",
       "album": {
-        "name": "Kaash",
-        "url": "https://open.spotify.com/album/0lc99amF6gyQb0vwmX7wuv"
+        "name": "No Complaints",
+        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
       },
       "artists": [
         {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 143888,
-      "name": "Kaash",
-      "url": "https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI"
+      "duration_ms": 187089,
+      "name": "No Complaints",
+      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
+    },
+    {
+      "added_at": "2024-01-26 10:17:00",
+      "album": {
+        "name": "Kaafi Ho",
+        "url": "https://open.spotify.com/album/18UmX0AGiBc8zZIwcHIgMJ"
+      },
+      "artists": [
+        {
+          "name": "Kakkey",
+          "url": "https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp"
+        }
+      ],
+      "duration_ms": 220641,
+      "name": "Kaafi Ho",
+      "url": "https://open.spotify.com/track/1gmSrvdhHB2NBLFFf7OHxJ"
+    },
+    {
+      "added_at": "2024-01-26 10:17:00",
+      "album": {
+        "name": "Shor",
+        "url": "https://open.spotify.com/album/2edER6jfSkiA9eUFhdR14Z"
+      },
+      "artists": [
+        {
+          "name": "Maamuli",
+          "url": "https://open.spotify.com/artist/2MDXHghZmuXJImwzmBCeGC"
+        }
+      ],
+      "duration_ms": 245837,
+      "name": "Shor",
+      "url": "https://open.spotify.com/track/6bcZpVgLwABoJFE6hz8zYY"
+    },
+    {
+      "added_at": "2024-01-26 10:17:00",
+      "album": {
+        "name": "Anjaana",
+        "url": "https://open.spotify.com/album/6JZ21dZJTtAFC1EA1KsAXN"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Anup Satam",
+          "url": "https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "Anjaana",
+      "url": "https://open.spotify.com/track/3ebbxhIuOz0Fj2hS1Onxx4"
+    },
+    {
+      "added_at": "2024-01-26 10:17:00",
+      "album": {
+        "name": "Life Is Certain",
+        "url": "https://open.spotify.com/album/2LzWmQaeUY3rh0ok7THjLq"
+      },
+      "artists": [
+        {
+          "name": "Parikrama",
+          "url": "https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn"
+        }
+      ],
+      "duration_ms": 274736,
+      "name": "Life Is Certain",
+      "url": "https://open.spotify.com/track/3TBCLwcRX4I4cd4Wc0UzMv"
+    },
+    {
+      "added_at": "2024-01-26 10:17:00",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/0VmJ3busCjjVnW21lFjDLn"
+      },
+      "artists": [
+        {
+          "name": "Nida",
+          "url": "https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/1RBoCMoHMs3fWFOHNC4zCz"
     },
     {
       "added_at": "2024-01-19 07:55:38",
@@ -623,46 +711,6 @@
     {
       "added_at": "2023-12-22 06:52:38",
       "album": {
-        "name": "Baagh Aayore",
-        "url": "https://open.spotify.com/album/7vTgy0D3sbZVB56Im6yv3X"
-      },
-      "artists": [
-        {
-          "name": "Indian Ocean",
-          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Baagh Aayore",
-      "url": "https://open.spotify.com/track/0wRxv8Im3QgtlWRAhdNQEn"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
-        "name": "Jaise Mein Chaahun",
-        "url": "https://open.spotify.com/album/2k4nJGu6QVuIq36zPERj6I"
-      },
-      "artists": [
-        {
-          "name": "Dropped Out",
-          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
-        },
-        {
-          "name": "Aman Sagar",
-          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
-        },
-        {
-          "name": "bebhumika",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Jaise Mein Chaahun",
-      "url": "https://open.spotify.com/track/2UxqmUsEvSJfOiwgspj03d"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
         "name": "Sajda Karaan",
         "url": "https://open.spotify.com/album/7qwVYqNUkUX6eq5UBkVzp3"
       },
@@ -695,26 +743,6 @@
       "duration_ms": 222545,
       "name": "Teri Meri Baatein",
       "url": "https://open.spotify.com/track/6TrlQk9TsIEPTNA6PbHRsY"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
-        "name": "Hosh Na Raha",
-        "url": "https://open.spotify.com/album/0v1xkdfLWpR10wlieHbvMz"
-      },
-      "artists": [
-        {
-          "name": "KASYAP",
-          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
-        },
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Hosh Na Raha",
-      "url": "https://open.spotify.com/track/3cioL4K2HFHlCfOTGhkv2g"
     },
     {
       "added_at": "2023-12-22 06:52:38",
@@ -795,38 +823,6 @@
       "duration_ms": 222121,
       "name": "Mere Ranjhana",
       "url": "https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
-        "name": "Jadui Pari",
-        "url": "https://open.spotify.com/album/0B8PgzP5Vbl3GyCDKtYHwF"
-      },
-      "artists": [
-        {
-          "name": "Raman",
-          "url": "https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8"
-        }
-      ],
-      "duration_ms": 159522,
-      "name": "Jadui Pari",
-      "url": "https://open.spotify.com/track/5QPSxr7k2kyFCpZXFKm9T6"
-    },
-    {
-      "added_at": "2023-12-22 06:52:38",
-      "album": {
-        "name": "Husn",
-        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Husn",
-      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
       "added_at": "2023-12-22 06:52:38",

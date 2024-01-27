@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Loud, EDGE 👔
 
-133 songs - 6 hr 58 min
+134 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-28 | 2023-10-28 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-16 | 2023-07-01 |
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-03-03 | 2023-03-18 |
+| [A l'envers](https://open.spotify.com/track/4CPKr0neKXh3q5BsnRp2HC) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:39 | 2024-01-26 |  |
 | [AKRAPO 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AKRAPO 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 | 2023-12-08 |  |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Ayenne](https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ayenne](https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd) | 2:36 | 2023-12-08 |  |
@@ -121,7 +122,7 @@
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2023-03-03 | 2023-03-18 |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-17 | 2023-11-11 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-11-25 |
-| [Shooter](https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:43 | 2024-01-19 |  |
+| [Shooter](https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:43 | 2024-01-19 | 2024-01-27 |
 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 | 2023-05-05 |  |
 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX) | 2:33 | 2024-01-12 |  |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-19 |  |

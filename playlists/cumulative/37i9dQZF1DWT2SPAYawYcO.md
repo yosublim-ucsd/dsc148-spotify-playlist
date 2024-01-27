@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Kobie Dee
 
-2,761 songs - 6 day 5 hr 15 min
+2,764 songs - 6 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1080,6 +1080,7 @@
 | [Highroad](https://open.spotify.com/track/7BBvEBbVfkYZNA5Bg7LgIS) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Highroad](https://open.spotify.com/album/5W0CNfQ36xJuAW0CUbr1kN) | 1:48 | 2023-09-07 | 2023-09-15 |
 | [Hip Trumpets](https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [KVISION](https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR) | [Hip Trumpets](https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4) | 3:15 | 2023-08-31 | 2023-09-08 |
 | [his parents](https://open.spotify.com/track/1NAMlNTkAWBJeoaPaBJmGD) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [his parents](https://open.spotify.com/album/7cUoVrkWkWVVrf15fauHny) | 2:52 | 2023-11-23 | 2023-12-01 |
+| [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-01-26 |  |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX) | 3:53 | 2023-07-20 | 2023-07-28 |
 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 | 2024-01-11 | 2024-01-19 |
 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 | 2023-07-07 | 2023-07-14 |
@@ -1734,7 +1735,8 @@
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-10-27 |
 | [Nyun \(Brother\)](https://open.spotify.com/track/4xVdv6DiFlfGV5X9dlKitu) | [Yirinda](https://open.spotify.com/artist/1pw6eWOemOfIL00gMOr53D) | [Nyun \(Brother\)](https://open.spotify.com/album/5thkO3T7JKkmQwLWDgDaue) | 4:22 | 2024-01-25 |  |
 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 | 2023-09-21 | 2023-09-29 |
-| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-25 |  |
+| [Ocean Demon](https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0) | 4:20 | 2024-01-26 |  |
+| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-25 | 2024-01-27 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 | 2023-06-30 |
 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-03 | 2023-08-11 |
 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 | 2023-06-15 | 2023-06-23 |
@@ -2444,6 +2446,7 @@
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-07 | 2023-07-14 |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-07 | 2023-09-15 |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-10-19 | 2023-10-27 |
+| [Think U The Sh\*t \(Fart\)](https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6) | 2:21 | 2024-01-26 |  |
 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 | 2023-07-20 | 2023-07-28 |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-15 | 2023-06-23 |
 | [Thinking Twice](https://open.spotify.com/track/1Xy2Y3gfSQbSTOG73WYlTv) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Thinking Twice](https://open.spotify.com/album/3PAZyWolGtMijOB5ZzJbKR) | 2:44 | 2023-08-03 | 2023-08-11 |

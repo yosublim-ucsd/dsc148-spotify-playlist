@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,070 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,083 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 | 100 | [There is a King \- Live Rehearsal Demo](https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [There is a King \(Live Rehearsal Demo\)](https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY) | 3:42 |
 
-Snapshot ID: `MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4`
+Snapshot ID: `MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx`

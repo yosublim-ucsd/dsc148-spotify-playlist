@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Myke Towers, Feid, KAROL G, Bad Bunny and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Maluma & J Balvin, Feid, Myke Towers and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166662,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1jtlQznvROmiq3b3gulGzE"
@@ -2580,6 +2598,32 @@
       "duration_ms": 229626,
       "name": "Ex-Special",
       "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
+    },
+    {
+      "album": {
+        "name": "Faldas y Gistros",
+        "url": "https://open.spotify.com/album/4I3UDGvDhFHcq9nPFzsOb1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Faldas y Gistros",
+      "url": "https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp"
     },
     {
       "album": {
@@ -2638,7 +2682,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198126,
       "name": "Fenti",
       "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
@@ -2858,6 +2902,28 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+    },
+    {
+      "album": {
+        "name": "Gafas Negras",
+        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Gafas Negras",
+      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
     },
     {
       "album": {
@@ -4415,6 +4481,32 @@
     },
     {
       "album": {
+        "name": "MALIANTEO",
+        "url": "https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "MALIANTEO",
+      "url": "https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE"
+    },
+    {
+      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
       },
@@ -5160,7 +5252,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188647,
       "name": "No Ando Weando",
       "url": "https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh"
@@ -5902,6 +5994,24 @@
       "duration_ms": 193561,
       "name": "Party y Alcohol",
       "url": "https://open.spotify.com/track/19Z5rP5UdeIGKHjqlh1ZdP"
+    },
+    {
+      "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "Perdi\u00f3 Este Culo",
+      "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
     },
     {
       "album": {
@@ -6838,7 +6948,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/7C19B0faFkwBzfS5yHg1bF"
@@ -6964,6 +7074,28 @@
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
+    },
+    {
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
     },
     {
       "album": {
@@ -7480,7 +7612,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176800,
       "name": "TEN",
       "url": "https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT"

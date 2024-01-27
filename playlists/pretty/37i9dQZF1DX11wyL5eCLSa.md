@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,408 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,413 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [estupefacientes](https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [estupefacientes](https://open.spotify.com/album/5tbHg9Ktqq5aYnsP5xUdO9) | 3:34 |
-| 2 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
-| 3 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 |
-| 4 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 |
-| 5 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 |
-| 6 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
-| 7 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
-| 8 | [Te entiendo](https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Te entiendo](https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII) | 4:00 |
-| 9 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
-| 10 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
-| 11 | [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 |
-| 12 | [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 |
-| 13 | [Un Nuevo Sol](https://open.spotify.com/track/34IpEx8bOSBtuJEQ6VF9KX) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Un Nuevo Sol](https://open.spotify.com/album/6fqEKcSaECC1fVGzVGAP8Y) | 5:18 |
-| 14 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
-| 15 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 |
-| 16 | [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 |
+| 1 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 |
+| 2 | [Tú y yo \(feat\. Anni B Sweet\)](https://open.spotify.com/track/3nP5l62C8gQrjsSlj93Xyv) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw) | [Tú y yo / Los días que no vivimos](https://open.spotify.com/album/10O1J89NyFyaMPY0fArs6P) | 3:42 |
+| 3 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 |
+| 4 | [¿Quién Cuida al Pueblo?](https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [¿Quién Cuida al Pueblo?](https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9) | 4:04 |
+| 5 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
+| 6 | [Buena Cara](https://open.spotify.com/track/5Xp3EUWiKRdjfhXuiV7uU4) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Buena Cara](https://open.spotify.com/album/5deaapMZqDEB7DJjENNOJx) | 3:55 |
+| 7 | [estupefacientes](https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [estupefacientes](https://open.spotify.com/album/5tbHg9Ktqq5aYnsP5xUdO9) | 3:34 |
+| 8 | [Stop!](https://open.spotify.com/track/0DQWrYklBrwGJGmlsv5bpa) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Stop!](https://open.spotify.com/album/3Lrh8TWJYpIED5ydf0Gm2i) | 2:38 |
+| 9 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 |
+| 10 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
+| 11 | [Te entiendo](https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Te entiendo](https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII) | 4:00 |
+| 12 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 13 | [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 |
+| 14 | [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 |
+| 15 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 16 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 |
 | 17 | [Un Pecado](https://open.spotify.com/track/6231K4fFlHPJGpsipCPW9U) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Un Pecado](https://open.spotify.com/album/3RIoz236bukwbpck1Xvqg6) | 3:31 |
 | 18 | [La edad que tengo](https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [La edad que tengo](https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4) | 2:54 |
 | 19 | [Respuesta Sensorial](https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Respuesta Sensorial](https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 100 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 
-Snapshot ID: `MCxmZTQ1NTA0NGIxNzJkYzUzZmUyOTU4Mjg3ZDRlMTA5MzllZjFlMTkz`
+Snapshot ID: `MCw3ODM0Mzc3OGJmYjg0Nzk1NDY2OTE0MWJhYjQ3Y2NmOGJiOGZlNzgx`

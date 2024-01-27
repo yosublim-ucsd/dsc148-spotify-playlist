@@ -4,7 +4,7 @@
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-308 songs - 17 hr 13 min
+309 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 | 2021-11-01 | 2023-06-13 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2qOpRaCIXWMr36X9NNrCER) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 4:07 | 2021-11-01 | 2023-06-13 |
 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 | 2021-11-01 | 2023-04-18 |
-| [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 | 2023-06-12 |  |
+| [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 | 2023-06-12 | 2024-01-27 |
+| [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 | 2023-08-08 |  |
 | [Te Lo Pido Por Favor](https://open.spotify.com/track/4wqyyFpxior3cSQvub5aO3) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Mexillennials Acústico](https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N) | 3:26 | 2021-11-01 | 2022-07-28 |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:44 | 2021-11-01 | 2023-06-13 |
 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 | 2023-06-12 |  |

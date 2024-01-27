@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 279763,
+  "2024-01-27": 279865,
   "date_first_scraped": "2022-04-19",
   "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
   "name": "Disney Lullaby",
@@ -149,6 +149,24 @@
       "duration_ms": 243826,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ"
+    },
+    {
+      "album": {
+        "name": "Wish (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making",
+      "url": "https://open.spotify.com/track/0bzD4NrdJpYqSvlPFSgeyV"
     },
     {
       "album": {

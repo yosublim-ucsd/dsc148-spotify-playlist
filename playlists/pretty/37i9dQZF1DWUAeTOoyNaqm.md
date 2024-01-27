@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,364 likes - 82 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,293 likes - 82 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 81 | [Tearing Paper](https://open.spotify.com/track/12Xux8G6bXk2CyQX8lXeqT) | [Arnie Svensson](https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa) | [Crease It](https://open.spotify.com/album/0c5feArn8yG3Q729h0hLY7) | 3:20 |
 | 82 | [Burning Your Ears \- ASMR Random Triggers](https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [F1](https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg) | 10:35 |
 
-Snapshot ID: `MCxhNDE0YzcxN2FmODkzYzhjNDY5YjE2NzdjODdkYWU1MzRmOGVlNjBh`
+Snapshot ID: `MCw3YjY0YzQ1MjZmZTMwNzY3MTMwMzJhN2Y2YjgxNTFkYTc2MWQ3MThh`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 436604,
+  "2024-01-27": 436880,
   "date_first_scraped": "2022-01-09",
   "description": "Los temas de los \u00faltimos a\u00f1os que se convertir\u00e1n en himnos.",
   "name": "m\u00edticas",
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
@@ -955,10 +955,28 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162740,
       "name": "Clavaito",
       "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
+    },
+    {
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "album": {
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219666,
       "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
       "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
@@ -4655,7 +4673,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 229386,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,036 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,111 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 |
 | 100 | [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/track/73oAtotfBIqc4MYzT7nwPf) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/album/7yicQGzbw93rWbU0rjlMwq) | 3:24 |
 
-Snapshot ID: `MCw5OTY5OTE0ZDBlODNhY2RmY2U1Nzg1NDM0ODc2Njc3NDIyOWQ5Y2M0`
+Snapshot ID: `MCxiOTEzMDIwZDA5ZjllZDllODdjMGU3NzBjYzMyNzBiYzk4ZjZiNGY3`

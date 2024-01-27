@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,102 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,764 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 |
 | 150 | [brkdwn](https://open.spotify.com/track/6Shhq1xBZyafFLUvU8ghrH) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [brkdwn](https://open.spotify.com/album/7pkLbvZVOIfOd5e4C1N3t1) | 2:15 |
 
-Snapshot ID: `MCxmMWQ5OTE4MzNkMDI0NmQ0Yzk4MDIxYjVmM2Y4NTM4ZGRkNGNkMDBm`
+Snapshot ID: `MCw5MThhMWRlZGYzNmU4ZmViMzA1OTI0MjFlMWI1ZWY0OTM1YjE3Nzk1`

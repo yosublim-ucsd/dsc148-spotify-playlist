@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 
 > Listen to the soundtracks of the Tell Me That You Love Me\. \(사랑한다고 말해줘 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,666 likes - 22 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,705 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 | 3 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |
 | 4 | [Sound of your heart](https://open.spotify.com/track/3aC5bdpXLshTQQb7IiCuIR) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Tell Me That You Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX) | 4:11 |
 | 5 | [Just because it’s yours](https://open.spotify.com/track/5AxP3BVFxHzmSS1gvEqWym) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Tell Me That You Love Me, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK) | 3:45 |
-| 6 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
+| 6 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 7 | [Island \- Instrumental](https://open.spotify.com/track/7FAXFYqgeBa1rYEtjFI6jK) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Tell Me That You Love Me, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/5LZhVXGgRCaygG8QXqoRLd) | 3:46 |
 | 8 | [Silent Ode to You \- Instrumental](https://open.spotify.com/track/0qbMykLd8HA85tZqzfQNdx) | [Seo YoungJu of Nerd Connection](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [Tell Me That You Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/2MD7FKf7rliCqIvByheoBl) | 4:15 |
 | 9 | [The Moment You Arrive \- Instrumental](https://open.spotify.com/track/2D4HVYoP9wTcl6PDp3rKOv) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |
 | 10 | [Sound of your heart \- Instrumental](https://open.spotify.com/track/6JjcVTdWhrQlTkDocb0hYR) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Tell Me That You Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX) | 4:11 |
 | 11 | [Just because it’s yours \- Instrumental](https://open.spotify.com/track/7h2h0w9HIPPN08HykalsJT) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Tell Me That You Love Me, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK) | 3:45 |
-| 12 | [try not to cry \- Instrumental](https://open.spotify.com/track/7M2UiVJvehmWQvV0zTxrz5) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
+| 12 | [try not to cry \- Instrumental](https://open.spotify.com/track/7M2UiVJvehmWQvV0zTxrz5) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 13 | [Eternal Sunshine](https://open.spotify.com/track/7JZJDEaq7KKPAhwrX5r9Ag) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 3:25 |
 | 14 | [Wanderer](https://open.spotify.com/track/1i24CcFgh1yrBLdovext8h) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Wanderer](https://open.spotify.com/album/5reaBV8ZAMTF68sD5M05Mc) | 3:44 |
 | 15 | [저 별은 외로움의 얼굴 Letter From Home \- Full Version](https://open.spotify.com/track/6kWMLnTJYMI2MKHP1aX5yg) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:20 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain]
 | 21 | [Dear my love](https://open.spotify.com/track/7edVJNzk7RyLdiD9fk7zUE) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79), [강아솔](https://open.spotify.com/artist/4qd6aMgaD6f8W8r2yokcNS) | [The short memory you left](https://open.spotify.com/album/4IW1PXgq9HyYsiuZ1TL9vr) | 4:06 |
 | 22 | [시간속의향기](https://open.spotify.com/track/3aBkJjXgWGdvSEXNpVb11A) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지2집](https://open.spotify.com/album/3feEoOTRXGt3fm28rJrgfI) | 3:43 |
 
-Snapshot ID: `MCxhYjg2ZDE2NWQzOWI5MGNmZThhN2YyMTE2ZmI2MTVmZmE2ZWRkNDI2`
+Snapshot ID: `MCxhNmRlMzZjNDNlNTUyNGQzNjY5MjVmMjAyYTM0NWU4ZTMzMzEyOTNj`

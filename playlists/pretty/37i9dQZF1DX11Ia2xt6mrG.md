@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,857 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,856 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Covalent Bond](https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK) | [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0), [The Second Wave](https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o) | [Covalent Bond](https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK) | 2:39 |
 | 90 | [Scare](https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Scare](https://open.spotify.com/album/4pQR2kQ9oEYuLgu6MV9l4p) | 3:22 |
 
-Snapshot ID: `MCw4ZmFhOWEwNDJjNzdmY2VkY2U1OGZmNTViMGY0MGI0OTk4NGRhYTky`
+Snapshot ID: `MCxjMDI1NGIzZmM4ZWVkZWFiYjkwZmNlNmVlMTVkM2E2NWJkN2E0NzNk`

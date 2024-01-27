@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Lo m\u00e1s Top de las mujeres de los Andes, a todo volumen! En portada Na\u00efa Valdez.",
-  "name": "Top EQUAL Andes 2023",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Na\u00efa Valdez.",
+  "name": "EQUAL Andes",
   "tracks": [
     {
       "album": {
@@ -4264,7 +4264,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 152000,
       "name": "tamagotchi",
       "url": "https://open.spotify.com/track/1vHxEzI1v51jIAQM7D5g6g"
@@ -4840,6 +4840,28 @@
       "duration_ms": 230719,
       "name": "Vamos por el Magdalena",
       "url": "https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG"
+    },
+    {
+      "album": {
+        "name": "VAMPIRA RPS",
+        "url": "https://open.spotify.com/album/5JoC7BJWPh7hdKCk8DZQvX"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        },
+        {
+          "name": "Asmir Young",
+          "url": "https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "VAMPIRA RPS",
+      "url": "https://open.spotify.com/track/25wZAOe1XKargxzF1N7MVX"
     },
     {
       "album": {

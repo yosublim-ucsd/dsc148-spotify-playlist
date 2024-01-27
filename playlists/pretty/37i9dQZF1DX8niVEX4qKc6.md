@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: El Zar ft Zoe Gotusso
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,156 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,158 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
 | 100 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 |
 
-Snapshot ID: `MCxiNTdiMGE3OTkxMjFjMzMyYWQyNTY2NTJhN2VjOWJkNzc5NTBjZDQ1`
+Snapshot ID: `MCxkNmJjM2EzODE4YTNmZGIzMzRmMGMxYTA4NzQ0ZWRmZjJhYjU1NDcx`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 68654,
+  "2024-01-27": 68696,
   "date_first_scraped": "2023-07-30",
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
@@ -309,6 +309,24 @@
       "duration_ms": 272293,
       "name": "Even if the world hates me (2023 ver.)",
       "url": "https://open.spotify.com/track/5OtLyHGENq0YNpo6jNSo8d"
+    },
+    {
+      "album": {
+        "name": "1Time",
+        "url": "https://open.spotify.com/album/2O5JoRxsxK3ZEQWWCwUzDs"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376375,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6"
     },
     {
       "album": {
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183800,
       "name": "\u6625\u6101",
       "url": "https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K"

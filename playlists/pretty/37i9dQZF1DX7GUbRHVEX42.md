@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,177 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,248 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [Allow Me to Live](https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib) | 3:03 |
 | 70 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/2QMRbLnOeCfuGXRZcdJ9if) | [F.Y.A.H.](https://open.spotify.com/artist/4mRKEfgXtRtIWeidQ1JSWV), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/1MUV7xH6xhqAFuVzOuuBNG) | 4:18 |
 
-Snapshot ID: `MCxiYjAzYjAxODNkMWJjMjdmNTJlODllOWE0NWQwODJjMzM5OTJlMmZk`
+Snapshot ID: `MCxhNTE2MzExNjkxYjNlZWRlNDBhY2YwZDlmMzg5OGNjNmI2MjM1N2I1`

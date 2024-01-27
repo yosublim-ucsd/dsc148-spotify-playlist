@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Famax / Mala Fama / Yafama",
+        "url": "https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx"
+    },
+    {
+      "album": {
         "name": "FANTASIZE",
         "url": "https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv"
       },
@@ -5166,7 +5184,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
@@ -5524,6 +5542,24 @@
       "duration_ms": 568454,
       "name": "Lanarka",
       "url": "https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "album": {
@@ -8184,7 +8220,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 371520,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,183 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,179 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Pavane \- Sam Thompson Rework](https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Martha Thompson](https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX) | [Pavane \(Sam Thompson Rework\)](https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc) | 5:23 |
 | 80 | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 |
 
-Snapshot ID: `MCxlN2YxZThiNmIzN2M2MjQ3YjAzMDFiYjNlZDAwMTIwZGRlMDc3NGY4`
+Snapshot ID: `MCw1YzIxYTkwM2ZiZjI0ZDg1NjBmZjg3YTM4NmE2NGNiOTdjMDhjYjQ2`

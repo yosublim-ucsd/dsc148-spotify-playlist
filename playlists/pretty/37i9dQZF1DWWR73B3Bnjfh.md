@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,326 likes - 75 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,437 likes - 75 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Round Midnight](https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Rufus Reid](https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg) | [The Standard Joe](https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK) | 8:50 |
 | 75 | [Night Flower \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/02rDg3xZg4crus7U6VjCOm) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 6:48 |
 
-Snapshot ID: `MCxlM2IwZWQzOGQ3MzFkYjkyMjVkNjZiY2UzOTI0ZTFiYzMyNzViMWM2`
+Snapshot ID: `MCwwYjIzY2Y0OTBhZWEyNzMyNjYzYTQ3YWUzYjQxZDkxODc0OTA4NmNh`

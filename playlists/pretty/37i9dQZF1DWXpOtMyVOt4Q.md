@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,047 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,081 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [fable](https://open.spotify.com/track/4dNCtqHEBPcFt08498i6oW) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [fable](https://open.spotify.com/album/13TD4kdtXztxz5sSmwHSy7) | 2:50 |
 | 50 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
 
-Snapshot ID: `MCxhZmE3ZWNkMTI0OWE0ZjMwN2JlYjhkZDdjNGNkNTFhYzhjOWIzODM2`
+Snapshot ID: `MCw4MmQ2MzVlMjQ3MDJjZmYxNWNhNzFiYmJmODAxYmI2ZWRiODcyYWU3`

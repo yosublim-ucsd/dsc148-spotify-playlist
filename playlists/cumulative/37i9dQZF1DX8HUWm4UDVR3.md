@@ -4,7 +4,7 @@
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-124 songs - 6 hr 8 min
+125 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Tristesse](https://open.spotify.com/track/7duqAqQUm0vYSaXzavXhfn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Tristesse](https://open.spotify.com/album/2knIF0Z25bt6E8fYWYhOqJ) | 3:31 | 2023-07-27 | 2023-09-22 |
 | [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-07-27 | 2023-09-08 |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 |  |
+| [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 | 2024-01-26 |  |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |
 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 | 2023-09-07 | 2023-10-06 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-07-27 | 2023-12-22 |

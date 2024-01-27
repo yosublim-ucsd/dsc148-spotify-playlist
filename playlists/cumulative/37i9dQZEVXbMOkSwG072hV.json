@@ -21972,7 +21972,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -22694,7 +22694,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -30240,6 +30240,24 @@
     {
       "album": {
         "name": "Pi Po Po Po Ro Po",
+        "url": "https://open.spotify.com/album/6RzUIF1xmL28SYZ5326cAc"
+      },
+      "artists": [
+        {
+          "name": "Pedrinha Moraes",
+          "url": "https://open.spotify.com/artist/3asivM2DaHPt3PP2ZohGR3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Pi Po Po Po Ro Po",
+      "url": "https://open.spotify.com/track/3dSDQ8jGCOcviaRynf9jeK"
+    },
+    {
+      "album": {
+        "name": "Pi Po Po Po Ro Po",
         "url": "https://open.spotify.com/album/7xwUt8ebLbKdK9oSzE1mxh"
       },
       "artists": [
@@ -30250,7 +30268,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174680,
       "name": "Pi Po Po Po Ro Po",
       "url": "https://open.spotify.com/track/4e1NqsPJixICKE4xB6nZQq"
@@ -38096,7 +38114,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 167862,
       "name": "Terapia de Ver\u00e3o",
       "url": "https://open.spotify.com/track/4s6RZM6RPW47sGBIOG39iu"
@@ -39428,7 +39446,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157647,
       "name": "Treta do Dj Lorran",
       "url": "https://open.spotify.com/track/1Kw8Z6tri1YKG1t98FhlFJ"

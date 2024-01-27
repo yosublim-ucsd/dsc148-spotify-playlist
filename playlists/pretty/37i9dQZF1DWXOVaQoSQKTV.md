@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,043 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,068 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 103 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 104 | [Ellipsis](https://open.spotify.com/track/7j3KGtoP432CcQLA9zLrAo) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [Modern Mirror](https://open.spotify.com/album/5M68LgZR31aWfO4rWwooQK) | 5:06 |
 | 105 | [Be Fair](https://open.spotify.com/track/6n89Kys79T2kZnjAAVhHcR) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:08 |
-| 106 | [The Technology](https://open.spotify.com/track/0asDnlxGyRvFZw7Ft0DrnB) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Super Rare: a Compilation of Early Tracks, Japan Exclusives and Rarities](https://open.spotify.com/album/1cK9XZ32ji2QoJd3UoRLNM) | 4:11 |
+| 106 | [The Technology](https://open.spotify.com/track/0asDnlxGyRvFZw7Ft0DrnB) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP), [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [Super Rare: a Compilation of Early Tracks, Japan Exclusives and Rarities](https://open.spotify.com/album/1cK9XZ32ji2QoJd3UoRLNM) | 4:11 |
 | 107 | [Darjeeling](https://open.spotify.com/track/6vPmNElzvzODHP0tWu9Ayu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy To Be Here](https://open.spotify.com/album/6t1OiiVq9VIbW1SUHaXX7W) | 3:19 |
 | 108 | [More Love](https://open.spotify.com/track/0iQsANSDYXZI40g7DQSng5) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [More Love](https://open.spotify.com/album/6BXcqC3UlzpTA5iK3V8nYF) | 3:24 |
 | 109 | [I Want U](https://open.spotify.com/track/3VXBfP0bu9M4wSSTBrL4oP) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [Gamirez](https://open.spotify.com/artist/4s425iwuaOWj5rIGxXoYsE) | [I Want U](https://open.spotify.com/album/0oTjW2pnlw9ahbAuxvNzOe) | 3:58 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCw5OTJkN2VkMzY4NzI5MzM2MWY5MzRiYjcwMTgyYjc0MGRkMzA3YTRj`
+Snapshot ID: `MCxjNDljZTY5YTg4OTYyYmViYjdmNDgxZWU0ZjkyNTc0ZWFlZTZmMmNk`

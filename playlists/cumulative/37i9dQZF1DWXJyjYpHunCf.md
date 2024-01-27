@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: asiris
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Henrik
 
-343 songs - 19 hr 41 min
+345 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-08-24 |
 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 | 2023-08-18 | 2023-10-06 |
 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-09-29 |  |
-| [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 |  |
+| [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 | 2024-01-27 |
 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2021-11-12 | 2022-12-04 |
 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-08-19 | 2023-11-08 |
 | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx) | 2:59 | 2023-03-24 | 2023-04-09 |
@@ -50,7 +50,7 @@
 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-03-12 | 2022-11-21 |
 | [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2022-10-14 | 2022-11-13 |
 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-10-27 |  |
-| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-08-19 |  |
+| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-08-19 | 2024-01-27 |
 | [Better When We're Falling Apart](https://open.spotify.com/track/2GLj5AhUJJPpM4ISa3IjYF) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 | 2023-08-19 |
 | [Big Wide World](https://open.spotify.com/track/1RLlkQpO7tpHCW2O0Pv43s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World](https://open.spotify.com/album/6G5WVhD7EsJIDEXnJ53rUC) | 4:14 | 2022-03-12 | 2022-07-29 |
@@ -72,6 +72,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-17 |  |
 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 | 2021-11-12 |  |
 | [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 | 2021-11-12 | 2022-08-09 |
+| [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 |  |
 | [Cliché](https://open.spotify.com/track/26B9017HwUloEaz9SeiPoy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/6JmAID0bTN1be4b6EQtKGI) | 2:56 | 2022-10-14 | 2023-07-01 |
 | [Cliché](https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Cliché](https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG) | 3:03 | 2021-11-12 | 2022-08-20 |
 | [Coffee](https://open.spotify.com/track/1kAaFW89gi4lYR7338kbPm) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/5pXU4pTiu6a5ue9Qr3s7JS) | 3:05 | 2021-11-12 | 2022-07-29 |
@@ -85,7 +86,7 @@
 | [DANDELION](https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs) | [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [DANDELION](https://open.spotify.com/album/4C3Okl0eCT7wBlHWHB6ett) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-22 |  |
-| [december](https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [december](https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh) | 3:12 | 2023-12-15 | 2024-01-26 |
+| [december](https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [december](https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh) | 3:12 | 2023-12-15 |  |
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-21 |  |
@@ -184,6 +185,7 @@
 | [Is What It Is](https://open.spotify.com/track/5E2lXhEAe1dsQlvAFzykx2) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Is What It Is](https://open.spotify.com/album/3EKqraKWALJHm2AZ2cDzSr) | 3:56 | 2024-01-12 |  |
 | [James](https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Kairos](https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k) | 3:31 | 2022-03-12 | 2022-10-20 |
 | [Jesse C'mon \- Acoustic](https://open.spotify.com/track/6CuHpRIWEXLscIhPioqw7e) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Jesse C'mon](https://open.spotify.com/album/3hwLmu6RDKLKCzlI0htPUg) | 2:41 | 2022-03-12 | 2022-07-27 |
+| [Jesus Song \(County Line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Jesus Song \(County Line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 | 2024-01-26 |  |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-03-12 |  |
 | [Keep Me Going](https://open.spotify.com/track/1Gn1Yzgdk0RFq3H0lePlMB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Keep Me Going](https://open.spotify.com/album/6z5T17mfAG7wqGjF63DuPv) | 3:28 | 2021-11-12 | 2022-01-17 |
@@ -289,7 +291,7 @@
 | [Tender feat\. Yoke Lore](https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Tender feat\. Yoke Lore](https://open.spotify.com/album/0YEXWeaZ335jOntWXoFbia) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [The Ghost In Your Smile](https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost In Your Smile // Seventeen](https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T) | 3:47 | 2022-03-12 | 2022-04-25 |
-| [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 |  |
+| [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 | 2024-01-27 |
 | [The Other Side](https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH) | 2:44 | 2023-12-27 | 2024-01-19 |
 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2023-12-27 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 |  |

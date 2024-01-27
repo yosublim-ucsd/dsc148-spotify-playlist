@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: MFS
 
-571 songs - 1 day 18 hr 46 min
+572 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [again, but colder](https://open.spotify.com/track/3XpROG821mTe8QLA8FSueT) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [again, but colder](https://open.spotify.com/album/3qWsjSFljhSeeqQoUgkx01) | 4:38 | 2023-03-16 | 2023-04-09 |
 | [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 | 2023-09-28 | 2023-09-30 |
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-28 | 2023-12-15 |
+| [AINOSEIDE2024](https://open.spotify.com/track/2NDW9c3MOiNsAyyJeyVgGn) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [AINOSEIDE2024](https://open.spotify.com/album/47xn9arhGI2sRMYB9E04Ph) | 4:58 | 2024-01-26 |  |
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 | 2023-11-18 |
 | [All Comes Back To You](https://open.spotify.com/track/3VOVozgyKMXN148Q2LEi9G) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [All Comes Back To You](https://open.spotify.com/album/7idL8lIGQ59148yy4NVJHK) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [all i can do is miss you](https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT) | [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [all i can do is miss you](https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ) | 3:00 | 2023-03-16 | 2023-05-19 |
@@ -240,7 +241,7 @@
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-03-30 | 2023-06-17 |
 | [Home](https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r) | [Home](https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er) | 3:56 | 2023-03-16 | 2023-05-05 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 | 2023-12-09 |
-| [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 |  |
+| [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 | 2024-01-27 |
 | [Howl](https://open.spotify.com/track/3B81HqB2k8hrsSvX04zu5J) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:17 | 2023-06-09 | 2023-07-08 |
 | [Hyperreturn](https://open.spotify.com/track/6k1raxShjUdCSxRqLRmUld) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Era / Hyperreturn / Not Your Skin](https://open.spotify.com/album/2EuyZsGQGnhntkfLXi7kJm) | 6:02 | 2023-12-15 | 2024-01-12 |
 | [Hysterika](https://open.spotify.com/track/1fQjpNRarY2olE50ZBIsCX) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Baby Cocada](https://open.spotify.com/artist/2f2EmidwEUgacBJfs5QqkZ) | [Kilometro Quinze](https://open.spotify.com/album/0Brk8w8KmdrB7wSuMnTHW6) | 4:13 | 2023-10-20 | 2023-12-09 |

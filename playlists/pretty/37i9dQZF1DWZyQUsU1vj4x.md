@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,900 likes - 111 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,847 likes - 111 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 23 | [Tuna](https://open.spotify.com/track/60A4ihsqTYgbB4POHJripD) | [HuskyMe](https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM) | [Tuna](https://open.spotify.com/album/0NkZsxwLM9KB1z8Q4m5H3I) | 4:07 |
 | 24 | [My Least Favorite Life \- From The HBO Series True Detective](https://open.spotify.com/track/7aDOYDChRnXeM1dmROvepj) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [My Least Favorite Life \(From The HBO Series True Detective\)](https://open.spotify.com/album/0DdAlZARgsnIJBIyla95fn) | 3:29 |
 | 25 | [When the Storm Sets In](https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [A Turning of the Tide: Side A](https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe) | 5:40 |
-| 26 | [Small Minds](https://open.spotify.com/track/5udZQ5BrYVsggZZovH97QN) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:17 |
+| 26 | [Small Minds](https://open.spotify.com/track/0CP7grqQw8tVNmOjJlMNdA) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:17 |
 | 27 | [Maybe Go Dancing](https://open.spotify.com/track/7dWLDKReL7vY1hLOOUZWtm) | [The Satellite Station](https://open.spotify.com/artist/3Cz6z3clgPkPz84faABaDS) | [Maybe Go Dancing](https://open.spotify.com/album/2hdhTP6FE1IVDI2UQmo929) | 4:07 |
 | 28 | [Manuscripts](https://open.spotify.com/track/1vSwF9g9HvreKhSHJCkRac) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:43 |
 | 29 | [Jem's Theme](https://open.spotify.com/track/79KqZKVzGQghHiwdUXXWCH) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Music for The Starling Girl \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/1mDpO84TgiUxVHI81x8h36) | 4:00 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 110 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 111 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCw1ZjRjMzI5MWZiOWVlMTU1ZjcwZjdkMmZkZTY1YzFlYjM5ZTVmMDQz`
+Snapshot ID: `MCw1NmE4MjAzNzA0NTM1YTBhZWYwMDJiZjk2OTk4ZTYwYTUxYTY1ZGJj`

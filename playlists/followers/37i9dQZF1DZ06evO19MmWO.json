@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 5889,
+  "2024-01-27": 5893,
   "date_first_scraped": "2022-08-06",
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
   "name": "This Is Little Walter",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172466,
       "name": "Ah'w Baby",
       "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 174813,
       "name": "Blue And Lonesome - Single Version",
       "url": "https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172120,
       "name": "I'm Your Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164893,
       "name": "Juke",
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163813,
       "name": "Key To The Highway",
       "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162040,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 192600,
       "name": "Sad Hours",
       "url": "https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "Tonight With A Fool",
       "url": "https://open.spotify.com/track/5E9jeFIBqogmSdYaUx6Anp"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 127933,
       "name": "Up The Line",
       "url": "https://open.spotify.com/track/3ryMwGsogVwbliTHds0KqO"

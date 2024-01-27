@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,666 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,713 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 99 | [Jersey](https://open.spotify.com/track/2my5Krx5X2FTrLsaYKBuJR) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Jersey](https://open.spotify.com/album/3pAaQGDsxRpoGlxhuVH7Yp) | 2:50 |
 | 100 | [Midnight Hour](https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [In Times Like These](https://open.spotify.com/album/2PALArxxYv8saqhds083oC) | 2:44 |
 
-Snapshot ID: `MCw1NTA2ZDQzNzVmMzQ4ZjQwYzQ0YzFjZmE3YzAwY2IyZDNmYWUzZmM2`
+Snapshot ID: `MCw2YzlkMDEyYTFmNDM0MTlkMTExMWRhNTM4MTYzZjdlMjdhOTVjYjcz`

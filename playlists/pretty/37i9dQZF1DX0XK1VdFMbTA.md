@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,076 likes - 500 songs - 1 day 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,142 likes - 500 songs - 1 day 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 |
 | 500 | [Peanuts](https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:54 |
 
-Snapshot ID: `MCw1ZmFkNmQwMmJlNjIwZDYwYmJiNGM4YmNjMTg5YmFlZTA5ZTRhMDMy`
+Snapshot ID: `MCwwNmQ4NzhhYjJhMDZhYjEzMWYwYmNlMTQ0YjVlYzA3MjJlN2ZhMzNi`

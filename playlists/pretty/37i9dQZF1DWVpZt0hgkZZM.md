@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,969 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,996 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Golpe Con Golpe](https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:30 |
 | 100 | [Mar de Emociones](https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Músical \- 40 Éxitos](https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO) | 3:34 |
 
-Snapshot ID: `MCw5ZDIxMzIzNWM1NGYxZTg2MDA5YWZkNGQzZmQ4MzYxY2YyM2E0Yzg3`
+Snapshot ID: `MCwyZGU3YWZjMjgwYTJhOWRjZmNmODc2NmQ2ZDRkMzRmYWI3ZWUzZjVl`

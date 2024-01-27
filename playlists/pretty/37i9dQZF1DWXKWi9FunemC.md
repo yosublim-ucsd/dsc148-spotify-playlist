@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,363 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,550 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Letting Go \- Alternate Version](https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ) | 3:32 |
 | 100 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 |
 
-Snapshot ID: `MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj`
+Snapshot ID: `MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx`

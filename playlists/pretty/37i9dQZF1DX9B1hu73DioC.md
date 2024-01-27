@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,360 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,238 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 99 | [Forget Me Not](https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:56 |
 | 100 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 |
 
-Snapshot ID: `MCw1MzBjZGYxMDkwMDVkYWNjYjRhM2Y4NjNlZjAxOWNhM2I5MjQzNjA1`
+Snapshot ID: `MCxhZDcyY2ExMDc0NDY0NGEwNDEyYWEwZjAwM2U3ZGNiMzc3ZjllNjgy`

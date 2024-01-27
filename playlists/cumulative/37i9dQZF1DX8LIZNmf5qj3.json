@@ -3109,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145267,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
+    },
+    {
+      "album": {
         "name": "No Feelings",
         "url": "https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w"
       },

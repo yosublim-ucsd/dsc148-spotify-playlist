@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,121 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,650 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 |
 | 100 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 
-Snapshot ID: `MCw1MjcxMzYwZGU5NWM0ZDY1ZTAwNmQ4M2U0MWRmYmQyMjdmYjEzZTA3`
+Snapshot ID: `MCwxZGZiODU4ZmExOTdjZjZiMjk4MTU1Y2VmNzdiZjgxYTE4ZDM1ZTYw`

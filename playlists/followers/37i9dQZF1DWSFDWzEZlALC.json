@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 413304,
+  "2024-01-27": 413327,
   "date_first_scraped": "2023-02-03",
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
   "name": "Wilde Herzen",
@@ -255,6 +255,24 @@
       "duration_ms": 161860,
       "name": "4 Minuten",
       "url": "https://open.spotify.com/track/4VTGQ7HOUbxICMLBnSI4bw"
+    },
+    {
+      "album": {
+        "name": "5 neue sorgen",
+        "url": "https://open.spotify.com/album/0HIHYFw3F6Swht6XLpJGwf"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149203,
+      "name": "5 neue sorgen",
+      "url": "https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik"
     },
     {
       "album": {
@@ -993,6 +1011,28 @@
       "duration_ms": 154210,
       "name": "bitte k\u00fcss mich",
       "url": "https://open.spotify.com/track/4CofSphX6ltv4pRdJaKqL0"
+    },
+    {
+      "album": {
+        "name": "bittebitte",
+        "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166700,
+      "name": "bittebitte",
+      "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
     },
     {
       "album": {
@@ -2367,7 +2407,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126967,
       "name": "ersterplatz",
       "url": "https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf"
@@ -2949,6 +2989,24 @@
       "duration_ms": 149367,
       "name": "Gaga Baby",
       "url": "https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8"
+    },
+    {
+      "album": {
+        "name": "EKSTASE",
+        "url": "https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Galaxis",
+      "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
     },
     {
       "album": {
@@ -3717,6 +3775,24 @@
       "duration_ms": 212500,
       "name": "Ich Riech Gern An B\u00fcchern",
       "url": "https://open.spotify.com/track/2rUr2JheHPRs9bfDsyF6xk"
+    },
+    {
+      "album": {
+        "name": "ein blick in mein kopf",
+        "url": "https://open.spotify.com/album/5uO8yrLtqRLkk9MzsWrH6z"
+      },
+      "artists": [
+        {
+          "name": "Keule",
+          "url": "https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137139,
+      "name": "idc",
+      "url": "https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0"
     },
     {
       "album": {
@@ -4618,6 +4694,24 @@
     },
     {
       "album": {
+        "name": "lass los",
+        "url": "https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv"
+      },
+      "artists": [
+        {
+          "name": "Maeckes",
+          "url": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131992,
+      "name": "lass los",
+      "url": "https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc"
+    },
+    {
+      "album": {
         "name": "Lass Sie Reden",
         "url": "https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5"
       },
@@ -4991,7 +5085,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187933,
       "name": "mama",
       "url": "https://open.spotify.com/track/3KC5rxlfJZIb4VCSqqPEHu"
@@ -5819,7 +5913,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183000,
       "name": "o strasse",
       "url": "https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc"
@@ -5877,7 +5971,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 210194,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4"
@@ -6083,7 +6177,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176276,
       "name": "Paris Paris",
       "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
@@ -6289,7 +6383,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 171906,
       "name": "primetime",
       "url": "https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ"
@@ -6476,6 +6570,24 @@
     },
     {
       "album": {
+        "name": "Richtung Mars",
+        "url": "https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163157,
+      "name": "Richtung Mars",
+      "url": "https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN"
+    },
+    {
+      "album": {
         "name": "rimini tape",
         "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
       },
@@ -6509,7 +6621,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 193710,
       "name": "RIP",
       "url": "https://open.spotify.com/track/3vqML7qAPUXH7AbtESolBY"
@@ -6601,6 +6713,24 @@
       "duration_ms": 170178,
       "name": "Rosarot",
       "url": "https://open.spotify.com/track/66qpxAK9DfINxmLErrKLNz"
+    },
+    {
+      "album": {
+        "name": "Rosenkohl",
+        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Rosenkohl",
+      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
     },
     {
       "album": {
@@ -6796,6 +6926,24 @@
     },
     {
       "album": {
+        "name": "Schritt f\u00fcr Schritt",
+        "url": "https://open.spotify.com/album/5m1TXHF7JagAB954yDSn6w"
+      },
+      "artists": [
+        {
+          "name": "Tigermilch",
+          "url": "https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138963,
+      "name": "Schritt f\u00fcr Schritt",
+      "url": "https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz"
+    },
+    {
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -6927,7 +7075,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153782,
       "name": "Sekundenschlaf",
       "url": "https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn"
@@ -7275,7 +7423,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178369,
       "name": "Sommer Mit Dir",
       "url": "https://open.spotify.com/track/2s0OQYPKqcYxqPiKVpGxDX"

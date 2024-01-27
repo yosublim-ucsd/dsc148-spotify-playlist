@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,628 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,771 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 46 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 |
 | 47 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
 | 48 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
+| 49 | [Good News](https://open.spotify.com/track/5UpNgshYfG2FReGGz6zyGW) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 0:46 |
 
-Snapshot ID: `Mjg0MzY0MjcsMDAwMDAwMDA4NWFmNWM1OWRkZGUyMjczMGFhZDM0MTgwNmJjZTk2MQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDA1YzVmODYwZTA2YWVhMzY2OWY4YjJiOGQwMDYyMzgwZA==`

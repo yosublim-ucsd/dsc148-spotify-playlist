@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,214 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,278 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [Hortelã](https://open.spotify.com/track/4hShW5zZGC09Wzam5e76AW) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Hortelã](https://open.spotify.com/album/5cYjX7Gbc0bfxzJY5zns2I) | 2:17 |
 | 100 | [Flutuo](https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Flutuo](https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq) | 3:25 |
 
-Snapshot ID: `MCw4ZmM5ZDI4ZjY1NzYzZWRkNWJmMDQ4MTNiYTg2ZGNiOGU4MzE3NWNl`
+Snapshot ID: `MCxjYTYxNWU0YTFjNDA0YTdmNTE0YjkyZDQ3ZWUyZWZmYWZmNjc3MWIy`

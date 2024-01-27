@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture, Maverick Sabre
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,722 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,262 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 6 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
 | 7 | [Chaos 32](https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Chaos 32](https://open.spotify.com/album/17appExbNIbdc4aPRcAZ6E) | 1:50 |
 | 8 | [Road To Nowhere](https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Road To Nowhere](https://open.spotify.com/album/5ac8bG69seB2u4qEeCwtkl) | 3:11 |
-| 9 | [Everybody](https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Everybody](https://open.spotify.com/album/2AvSRmLXT7fw20Egn9DiSr) | 2:30 |
-| 10 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 9 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 |
+| 10 | [Everybody](https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Everybody](https://open.spotify.com/album/2AvSRmLXT7fw20Egn9DiSr) | 2:30 |
 | 11 | [Reason](https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Reason](https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib) | 3:06 |
-| 12 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
-| 13 | [Focus \- Double Mzk Remix](https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double Mzk Remix\)](https://open.spotify.com/album/4SzaT0l2P7XNF2b2Ht1RDj) | 2:21 |
-| 14 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 |
+| 12 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 13 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
+| 14 | [Focus \- Double Mzk Remix](https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double Mzk Remix\)](https://open.spotify.com/album/4SzaT0l2P7XNF2b2Ht1RDj) | 2:21 |
 | 15 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
 | 16 | [With You](https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [With You](https://open.spotify.com/album/18ejf0VB2RM7UnyTZ3EIOc) | 2:04 |
 | 17 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Teletransporte](https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Teletransporte](https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS) | 2:45 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCw1YTkwODkyZDNlMDZhNGEwZDMzNDZlYTIwMTc5MTA0MGI3OTIxNTQx`
+Snapshot ID: `MCw2NWE4ODBhYjliMTNhYWQyNzhkMDM0NzI4ODY3YjI2NGVmMGM0OTRk`

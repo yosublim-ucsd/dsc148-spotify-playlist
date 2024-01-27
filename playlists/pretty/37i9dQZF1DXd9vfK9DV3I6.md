@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,589 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,751 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [all the things i got](https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06) | 2:25 |
 | 100 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 |
 
-Snapshot ID: `MCwwZmYzNTQ4NmQxNmQwYmFiMDc4Y2I0ZjE2MjYxYmM0MWM3OGIzNjQy`
+Snapshot ID: `MCwyZGJlYzM1NjA4YjYzYjE2ZmNmM2VlYTgxYTUxZjRhM2ZkNDE4Yzc0`

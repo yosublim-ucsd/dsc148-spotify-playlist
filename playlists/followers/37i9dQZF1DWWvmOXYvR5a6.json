@@ -1,9 +1,27 @@
 {
-  "2024-01-26": 209890,
+  "2024-01-27": 209973,
   "date_first_scraped": "2022-04-20",
   "description": "Trendy x Chill K-Hip Hop.  (Cover: \b\bYumewanaii(\uc720\uba85\ud55c\uc544\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
+    {
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116722,
+      "name": "00:01",
+      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
+    },
     {
       "album": {
         "name": "Beginning",
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 165986,
       "name": "Do",
       "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
@@ -12191,7 +12209,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
@@ -12318,6 +12336,24 @@
     },
     {
       "album": {
+        "name": "Giggles",
+        "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135007,
+      "name": "Tic Tac?",
+      "url": "https://open.spotify.com/track/50V9V62d0byssOftbpH0ZK"
+    },
+    {
+      "album": {
         "name": "Tic Tac?",
         "url": "https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos"
       },
@@ -12329,7 +12365,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 135096,
       "name": "Tic Tac?",
       "url": "https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4"
@@ -12383,7 +12419,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 268733,
       "name": "Till I Live",
       "url": "https://open.spotify.com/track/6mKVMbbmoMDO8DS9hyxhtx"

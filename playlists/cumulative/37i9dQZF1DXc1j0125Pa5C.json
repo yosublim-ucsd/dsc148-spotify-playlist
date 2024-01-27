@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Bom Gosto, Vitinho",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -170,6 +170,24 @@
       "duration_ms": 191750,
       "name": "Beijo Doce / Brilho de Cristal - Ao Vivo",
       "url": "https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC"
+    },
+    {
+      "album": {
+        "name": "paGGodin (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281319,
+      "name": "Beijo Doce / Jeitinho Manhoso / Ajoelhou Tem Que Rezar - Ao Vivo",
+      "url": "https://open.spotify.com/track/42kX3d8Sa59mF37iaqmpKC"
     },
     {
       "album": {
@@ -498,7 +516,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 405154,
       "name": "Eu Vacilei / Preciso Viver / Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/3oLdEjZm0x46ycfdlRPYuX"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 286271,
       "name": "Ilha da Felicidade / Madrugada / Onde Est\u00e1 (O Som da Rua)",
       "url": "https://open.spotify.com/track/7rJSwx2cUFC7NTpyVLnN09"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 311476,
       "name": "Quando Te Encontrei / Cigana / Cheia de Manias - Ao Vivo",
       "url": "https://open.spotify.com/track/2S2gZlCWZwJVhYotyrB2h7"
@@ -1537,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Toda Nua / V\u00f4o pro Jap\u00e3o / Seja Mais Voc\u00ea (O Som da Rua) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/093IiRkCcg30kRN5ztMs4D"
+      },
+      "artists": [
+        {
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+        },
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333225,
+      "name": "Toda Nua / V\u00f4o pro Jap\u00e3o / Seja Mais Voc\u00ea (O Som da Rua) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1D4XdTtuZk6a8158N6Y1Tf"
+    },
+    {
+      "album": {
         "name": "Trai\u00e7\u00e3o / Ref\u00e9m / Me Assume ou Me Esquece (Ao Vivo)",
         "url": "https://open.spotify.com/album/0mjy6Lxi1kfgRBolN7xDlk"
       },
@@ -1662,6 +1702,28 @@
       "duration_ms": 173518,
       "name": "\u00c9 Diferente / Preciso Te Amar",
       "url": "https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz"
+    },
+    {
+      "album": {
+        "name": "Guer\u00eaguer\u00ea, Bloco 6 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V"
+      },
+      "artists": [
+        {
+          "name": "Bom Gosto",
+          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267178,
+      "name": "\u00c9 Na Madrugada / Amor Bipolar / A Casa Caiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6"
     },
     {
       "album": {

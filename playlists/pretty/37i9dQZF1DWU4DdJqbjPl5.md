@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=kMra\_ARaTXqkgg75udSQAA"> Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,256 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,340 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 |
 | 80 | [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 |
 
-Snapshot ID: `MCxhZTlkMDhjMmZiMWNmYmIyZDEyY2YwNGJlZTcxMzk0YTdjYTg3ZTll`
+Snapshot ID: `MCxkNTZkZmQwNjBhOTg3NzAyNGQ1YTdlZTRmMWY5NGNhZjZhNzY2M2Rh`

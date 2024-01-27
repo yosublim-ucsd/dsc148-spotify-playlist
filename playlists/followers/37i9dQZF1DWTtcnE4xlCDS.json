@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 45736,
+  "2024-01-27": 45801,
   "date_first_scraped": "2022-08-25",
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
   "name": "DEN-ON-BU \u96fb\u97f3\u90e8",
@@ -2418,6 +2418,36 @@
     },
     {
       "album": {
+        "name": "Marebito",
+        "url": "https://open.spotify.com/album/4NHAu0kY4BeVVVx90K0xOH"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Sho Okada [Bandai Namco Studio Inc.]",
+          "url": "https://open.spotify.com/artist/65SYu5S01780daM46aDQZP"
+        },
+        {
+          "name": "\u5b89\u500d=\u30b7\u30e3\u30af\u30b8=\u6469\u8036 (CV: SONOTA)",
+          "url": "https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Marebito",
+      "url": "https://open.spotify.com/track/7MHRMexVGTi9h7pyTJqJVs"
+    },
+    {
+      "album": {
         "name": "Melodies light up my life",
         "url": "https://open.spotify.com/album/0fwCP9wjyh3b3RgbysGIIN"
       },
@@ -4517,7 +4547,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 167666,
       "name": "\u7a00\u3073\u3068",
       "url": "https://open.spotify.com/track/6w3xm2YE6CRz4qFiP4yFel"

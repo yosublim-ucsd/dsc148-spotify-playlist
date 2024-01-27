@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. Enigma Norte\u00f1o, Edgardo Nu\u00f1ez en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. Los Chavalitos en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
@@ -2278,6 +2278,24 @@
       "duration_ms": 196992,
       "name": "Cash Only (En Vivo)",
       "url": "https://open.spotify.com/track/1tcCdjYPYJgaaQV2UOsDLq"
+    },
+    {
+      "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181033,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s"
     },
     {
       "album": {
@@ -3080,6 +3098,28 @@
       "duration_ms": 213125,
       "name": "Creci\u00f3 La Cuenta",
       "url": "https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4"
+    },
+    {
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "album": {
@@ -4550,7 +4590,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179500,
       "name": "El Buenazo",
       "url": "https://open.spotify.com/track/4ul3U8QzZLpZttqp9EkWK0"
@@ -5454,7 +5494,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 163714,
       "name": "El De Seattle",
       "url": "https://open.spotify.com/track/0WClo6HlsIYv9eVLPkvdiP"
@@ -5759,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "El Duro de TJ",
+        "url": "https://open.spotify.com/album/1mnKdD8o7c3vnvrhweN6Kk"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141154,
+      "name": "El Duro de TJ",
+      "url": "https://open.spotify.com/track/7F0bZ8bzIveOy86bKrD9S7"
+    },
+    {
+      "album": {
         "name": "El Emblema",
         "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
       },
@@ -6002,7 +6060,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 200044,
       "name": "El Flaco",
       "url": "https://open.spotify.com/track/5sWS0FUxzQvYyEuzMuGIfV"
@@ -6082,6 +6140,24 @@
       "duration_ms": 161606,
       "name": "El Freddy (En Vivo)",
       "url": "https://open.spotify.com/track/4jPCeYi7uGROvnGvqdoU0s"
+    },
+    {
+      "album": {
+        "name": "El Fresa",
+        "url": "https://open.spotify.com/album/1TKxUMokZlKDFlGVq2Pn9f"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "El Fresa",
+      "url": "https://open.spotify.com/track/4cMOfkMyTneOnxzFx5KLM3"
     },
     {
       "album": {
@@ -7952,7 +8028,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222135,
       "name": "El Rey Del Pop (En Vivo)",
       "url": "https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye"
@@ -10113,6 +10189,32 @@
     },
     {
       "album": {
+        "name": "Haganse A Un Lado",
+        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156223,
+      "name": "Haganse A Un Lado",
+      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
+    },
+    {
+      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/6lXe0TGUsy16Z4zEKqp1aD"
       },
@@ -10860,7 +10962,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157915,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3XoulLjDwUr15dxttX9G5X"
@@ -10966,7 +11068,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160320,
       "name": "Kim Kardashian",
       "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
@@ -10988,6 +11090,24 @@
       "duration_ms": 180101,
       "name": "La 701",
       "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+    },
+    {
+      "album": {
+        "name": "La Aguja Marca",
+        "url": "https://open.spotify.com/album/4ecSoNNV9W5g0MmyhLwQLv"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193391,
+      "name": "La Aguja Marca",
+      "url": "https://open.spotify.com/track/67DoQ43ne7BVA4YULcn0d3"
     },
     {
       "album": {
@@ -11144,6 +11264,28 @@
       "duration_ms": 185429,
       "name": "La Caperucita",
       "url": "https://open.spotify.com/track/3MGsthYZjz56Lyl7bUkagd"
+    },
+    {
+      "album": {
+        "name": "La Caravana Del F22",
+        "url": "https://open.spotify.com/album/2yG1QJVut8ewsVe8Mpb5ie"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Miguel Gonzalez",
+          "url": "https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129304,
+      "name": "La Caravana del F22",
+      "url": "https://open.spotify.com/track/2bjnvr2aSA4ICm6Q2FwsMt"
     },
     {
       "album": {
@@ -13635,6 +13777,24 @@
     },
     {
       "album": {
+        "name": "Me La Rolo",
+        "url": "https://open.spotify.com/album/2g0x1RIrfPKWjdW7uyPJKW"
+      },
+      "artists": [
+        {
+          "name": "Kirri Enigma",
+          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216735,
+      "name": "Me La Rolo",
+      "url": "https://open.spotify.com/track/6BOEWJ6rnCLKHpPjgRnegT"
+    },
+    {
+      "album": {
         "name": "Me La Seguiran Pelando (En Vivo)",
         "url": "https://open.spotify.com/album/2qF8R8IWrc0LxE2CFkHdaL"
       },
@@ -14291,6 +14451,28 @@
     },
     {
       "album": {
+        "name": "Morro Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Morro Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB"
+    },
+    {
+      "album": {
         "name": "Mundo Ah\u00ed Te Quedas",
         "url": "https://open.spotify.com/album/3xzaGoNpYmudCYYWY51WvG"
       },
@@ -14764,6 +14946,28 @@
       "duration_ms": 175802,
       "name": "Nos Dicen Los Alfreditos (En Vivo)",
       "url": "https://open.spotify.com/track/45yghJ5TkgBOacU5UIA7ME"
+    },
+    {
+      "album": {
+        "name": "Nuevo Mando",
+        "url": "https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156650,
+      "name": "Nuevo Mando",
+      "url": "https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv"
     },
     {
       "album": {
@@ -16902,7 +17106,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167853,
       "name": "Si No Es Fresita Mejor Nada",
       "url": "https://open.spotify.com/track/5vNnmrhaYgLp1GcQTqQ80e"
@@ -18038,7 +18242,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190632,
       "name": "Trokonas",
       "url": "https://open.spotify.com/track/0ZUAFqyhSY9aYijKDDWxa6"
@@ -18537,6 +18741,28 @@
     },
     {
       "album": {
+        "name": "Vida Recia (En Vivo)",
+        "url": "https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268434,
+      "name": "Vida Recia (En Vivo)",
+      "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
+    },
+    {
+      "album": {
         "name": "Vidrios Oscuros",
         "url": "https://open.spotify.com/album/5ylOYdH54lagobJmC1q9yc"
       },
@@ -18764,7 +18990,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166567,
       "name": "Ya Empez\u00f3 la Balacera - En Vivo",
       "url": "https://open.spotify.com/track/4x9mTkwHK8Jo8r4YLnbkt4"
@@ -19058,7 +19284,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208452,
       "name": "Zero Miedo",
       "url": "https://open.spotify.com/track/20FlfAVPC5gjuPDdzhvX9t"

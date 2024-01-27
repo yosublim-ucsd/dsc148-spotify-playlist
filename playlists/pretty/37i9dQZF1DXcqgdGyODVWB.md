@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,047 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,100 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 | 100 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
 
-Snapshot ID: `MCxiMjIzYzA5MWIzZjg0NzdhMWI1M2YzNjcwOWI5ZGVmMGI2NWU2ZmQ3`
+Snapshot ID: `MCw3NWE3N2E5YzUxYzRhNzhiNzFhODU1YzkxNGUyMTA5MDdkZGM1ZDcz`

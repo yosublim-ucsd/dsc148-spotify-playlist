@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Naama
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,006 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,031 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 |
 | 2 | [Reach Out I'll Be There](https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Reach Out I'll Be There](https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK) | 3:40 |
-| 3 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/6itrJDS89zESGoipn5vkCO) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/album/3hmMIzmXleegAOFQap4LDg) | 4:08 |
+| 3 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 |
 | 4 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 5 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 |
 | 6 | [Just](https://open.spotify.com/track/2a4PkVPUiH7ITVbUUxlxtx) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Just](https://open.spotify.com/album/1DiPTDwuzbplRZmK9WI805) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [I loves you Porgy](https://open.spotify.com/track/4wYj7DbAJBNE8YzWpmsWnT) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 4:13 |
 | 50 | [Almost Like Being in Love](https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Almost Like Being in Love](https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk) | 2:39 |
 
-Snapshot ID: `MCxkYzAyYTZlY2EyNGI0MzZhZjhjYzA0ZDAyMDQ2N2Q4NzMyNWI1ZGVh`
+Snapshot ID: `MCxiODNmZmRiNTBhZDkwYTMyNWU2Y2U2N2QzMWQ2YWVkNmY0ZWQxNzc0`

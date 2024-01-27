@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,250 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,286 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 |
 | 80 | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/track/66Edhig6kHzI7LoyWxS5qy) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/album/1b8LywlMLAXiIbucnvoLS9) | 3:11 |
 
-Snapshot ID: `MCwzNTQ3Y2ExZWZhNmZjYmY1NTU1NGZkNzI3MGIxMzMxOTdhNTc5ZjJj`
+Snapshot ID: `MCw5Mjk0Y2VhMzE2MWZlNjkyM2VhZjEyNWVkZTczZmJlODliNjVmZjYy`

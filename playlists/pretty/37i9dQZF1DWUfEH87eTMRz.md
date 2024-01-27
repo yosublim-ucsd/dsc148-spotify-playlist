@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Bogotá, Marzo 23, 24, 25 y 26\. Foto: Billie Eillish
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,237 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,212 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 44 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
 | 45 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 46 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
-| 47 | [Drinkee](https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/2o1klTHRbovfM3ABxUcKnc) | 4:57 |
+| 47 | [Drinkee](https://open.spotify.com/track/5TBsLU9TSxjDLzMpsEgJsv) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/5vho6dyBSwkXPoZg67x3Co) | 4:59 |
 | 48 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 | 49 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 50 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 87 | [Dame Dame Dame \(Un Pelao Esta Noche\)](https://open.spotify.com/track/0cdjbdyZ6Zm2MlChywPEzH) | [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs), [La Nueva Estudiantina Electrónica](https://open.spotify.com/artist/5pipWDbMhmVYvYltFgJr1C) | [La Nueva Estudiantina Electrónica](https://open.spotify.com/album/1QfEbwvRAmLpMbyThc1gha) | 4:31 |
 | 88 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
 
-Snapshot ID: `MCw3MjRlZWYxY2FlMjA1MDhiYTMzZjliZWY5NGNhMzg1MDQ5NGNmNzFk`
+Snapshot ID: `MCxhMTBhNDg2NjdlMWI0ZjA1ZDU5ZjZhMzRiZDdmY2UwMzQ2YmY1YzQx`

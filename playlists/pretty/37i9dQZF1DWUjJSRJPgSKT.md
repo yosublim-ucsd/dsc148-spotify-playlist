@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics\. Cover: McCoy Tyner
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,651 likes - 65 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,742 likes - 65 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 | 65 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 
-Snapshot ID: `MCwzMGZjZDRmZjA3YzEyOTU2ZTAwOWY1MjJkYmZmNzdiZTI0OTk5YjVk`
+Snapshot ID: `MCw3ZDY4MmYyNGE3NjI2YmM2ZWRhYTEyNGVmMzAxYjJiMmJmMzFmMDll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Escucha lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,864 likes - 95 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,857 likes - 95 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 94 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
 | 95 | [BOTON](https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [BOTON](https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427) | 2:18 |
 
-Snapshot ID: `MCwzY2JmZDUyY2VmMzFhN2RlZGM4NzcyOGE3YTcwM2UwZmY2YzFiNTg5`
+Snapshot ID: `MCxjYjcwYmU0MTNjNjZhMWE5YWM4NjA3ZWI0NTlkYmRjOGQ0N2NlM2Nh`

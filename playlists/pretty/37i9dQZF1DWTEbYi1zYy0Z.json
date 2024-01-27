@@ -1,13 +1,33 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 58990,
+  "num_followers": 59021,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGIyMzMzMDhkNmU1MGJmYzlhZDI5YTYxZWIyNDE2MjQwMjk3MGY5",
+  "snapshot_id": "MCxiNmRhMzYwM2VjODNhZjY4MmZhYjEwMDM1NTQ5NGY1MjBjMmEzN2Fi",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Sunshine Yellow",
+        "url": "https://open.spotify.com/album/01uww2D76rOmTnVJzz7A85"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        },
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266447,
+      "name": "Sunshine Yellow",
+      "url": "https://open.spotify.com/track/3edR7f5Na4A3yqo57mtzuQ"
+    },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
@@ -39,6 +59,38 @@
       "duration_ms": 706580,
       "name": "Summer Groove",
       "url": "https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Timelines (Alto sax)",
+        "url": "https://open.spotify.com/album/4s9v6WCuvJTIeKRO6xSvaT"
+      },
+      "artists": [
+        {
+          "name": "LeSend",
+          "url": "https://open.spotify.com/artist/0fRyjG92ERQSAF2LCpXnGA"
+        },
+        {
+          "name": "Alfonso Gugliucci",
+          "url": "https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ"
+        },
+        {
+          "name": "Mio Costans",
+          "url": "https://open.spotify.com/artist/3NBy5bUfAVtcQZZiWFz3er"
+        },
+        {
+          "name": "Albert Fratris",
+          "url": "https://open.spotify.com/artist/4jqRqGYJTBEyO7LybN062o"
+        },
+        {
+          "name": "Lenny Sendersky",
+          "url": "https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ"
+        }
+      ],
+      "duration_ms": 242902,
+      "name": "Timelines (Alto sax)",
+      "url": "https://open.spotify.com/track/3J01LedVe3Q0gMQmkdHQwG"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -83,6 +135,30 @@
       "duration_ms": 300331,
       "name": "The Midnight Hour",
       "url": "https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "complexity.",
+        "url": "https://open.spotify.com/album/0GQZPUKaxEGuUHw6wPHtaE"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "name": "Jah Born",
+          "url": "https://open.spotify.com/artist/45tF2B3yeJtBrw3QgJEGAc"
+        },
+        {
+          "name": "Jordache Grant",
+          "url": "https://open.spotify.com/artist/0uR3O2Rdr1AV3JuFw1Wcx9"
+        }
+      ],
+      "duration_ms": 172935,
+      "name": "complexity.",
+      "url": "https://open.spotify.com/track/4kVkbJqTLz9I86bkzI1Ftj"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1065,22 +1141,6 @@
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
-      },
-      "artists": [
-        {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
-    },
-    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "Deep Dive",
@@ -1275,26 +1335,6 @@
       "duration_ms": 255839,
       "name": "Bleecker Street",
       "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Making Love To You",
-        "url": "https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7"
-      },
-      "artists": [
-        {
-          "name": "Rocco Ventrella",
-          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
-        },
-        {
-          "name": "Andrea Razzauti",
-          "url": "https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1"
-        }
-      ],
-      "duration_ms": 285069,
-      "name": "Making Love To You",
-      "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1607,22 +1647,6 @@
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "In His Vision",
-        "url": "https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae"
-      },
-      "artists": [
-        {
-          "name": "Christian de Mesones",
-          "url": "https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS"
-        }
-      ],
-      "duration_ms": 231509,
-      "name": "In His Vision",
-      "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
     },
     {
       "added_at": "2023-04-14 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,822 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,929 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [So Shine](https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s) | 4:45 |
 | 100 | [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 |
 
-Snapshot ID: `MCwyNDhjMjRjYzg0MGFiOWU0MWYwMjVkZjZhYjM0MjkzYTM2NDgxZjk3`
+Snapshot ID: `MCw1YTdlYWVkMTQ0ZTk1MmRhNzBjMDcxZDg1NWM0NmJiMjQwZTZjYjgy`

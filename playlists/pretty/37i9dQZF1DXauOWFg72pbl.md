@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,350 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,320 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 99 | [Make Me A Believer](https://open.spotify.com/track/2dpmSeMBn8XcpPPHNhEs06) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Sometimes Y](https://open.spotify.com/album/0ZFqRtDxJIX8qHgQMAeJuT) | 5:00 |
 | 100 | [Survivor](https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 4:02 |
 
-Snapshot ID: `MCxhYWYzZTczMDhkNGVmZjJkYTNjNDQ4NTAxZmU5NGQwNjhiYjY4YTE5`
+Snapshot ID: `MCxmYjk5MzdkMWEzNmMyYThjZjg3NzAwYTQ0OWQ3OTVhYTEzNjdjNTVj`

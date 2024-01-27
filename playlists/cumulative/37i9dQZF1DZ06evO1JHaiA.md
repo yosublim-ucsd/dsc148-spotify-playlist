@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 55 min
+73 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [It Must Be Love](https://open.spotify.com/track/1zBKJIhcErReXXjAW1YWrY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 | 2022-06-19 |  |
 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 | 2022-05-26 | 2023-01-29 |
 | [Jan](https://open.spotify.com/track/6vk4bs3o5EPeRceLmTtGZE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 4:35 | 2022-05-25 | 2023-03-26 |
-| [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 | 2023-05-11 |  |
+| [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 | 2023-05-11 | 2024-01-27 |
 | [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 | 2022-05-25 | 2023-05-12 |
 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 | 2022-05-25 | 2023-12-21 |
 | [Let Me In Your Mind](https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:10 | 2022-08-13 | 2022-09-15 |
@@ -67,7 +67,7 @@
 | [She's A Winner \- Single Version](https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 2:26 | 2022-05-25 |  |
 | [Slow Drag](https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:25 | 2022-05-25 |  |
 | [Teardrops](https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:05 | 2022-05-25 |  |
-| [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 | 2022-05-25 |  |
+| [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 | 2022-05-25 | 2024-01-27 |
 | [The Intruders MC Introduction \- Live](https://open.spotify.com/track/1GOnplSqwgvFIcjeTL50SK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:03 | 2022-05-25 |  |
 | [The Intruders Medley Introduction \- Live](https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:29 | 2022-05-25 |  |
 | [The Love I Lost \- Live](https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 5:12 | 2023-01-10 | 2024-01-16 |
@@ -79,6 +79,7 @@
 | [Turn the Hands of Time](https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:31 | 2022-05-25 |  |
 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 | 2022-05-25 |  |
 | [When We Get Married](https://open.spotify.com/track/577wJybDQlVQ4qrT8nogLk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:21 | 2022-05-25 |  |
+| [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 | 2024-01-26 |  |
 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

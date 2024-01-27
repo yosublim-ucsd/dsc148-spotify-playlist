@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,607 likes - 125 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,698 likes - 125 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 106 | [But Beautiful \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 6:26 |
 | 107 | [Falling in Love with Love](https://open.spotify.com/track/47wToAWMFORf7uL8V62a82) | [Eddie Higgins](https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92) | [Anticipation](https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY) | 4:36 |
 | 108 | [Willow Weep for Me](https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Piano](https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ) | 5:20 |
-| 109 | [Old Devil Moon](https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK) | 8:21 |
+| 109 | [Old Devil Moon \- Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK) | 8:21 |
 | 110 | [Hello, Young Lovers \- Remastered 2006](https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Another Workout](https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji) | 8:03 |
 | 111 | [Afternoon In Paris](https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 6:53 |
 | 112 | [Dearly Beloved](https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y) | 4:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [You Are Too Beautiful](https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [You And Lee](https://open.spotify.com/album/4zOW1zEMnDd4mH6Gs8dpFr) | 4:09 |
 | 125 | [My Romance \(take 2\) \- Alternate Take](https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:12 |
 
-Snapshot ID: `MCxkZThjNjRiYjBlMGM0Yzg3YzU5ZDFlYzg0YzIwYzY2ZTVlNWJkNWY2`
+Snapshot ID: `MCw5ZWRmMDU5YWM5YWFiM2ZmOTM5Y2RlNWE2MzU2MDllYzY0OWQ3Zjg0`

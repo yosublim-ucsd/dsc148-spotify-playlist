@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,295 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,300 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 21 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
 | 22 | [My Girlfriend Is a Witch](https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX) | 2:06 |
 | 23 | [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 |
-| 24 | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE) | 1:46 |
+| 24 | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/44xuds12NIakj4S9jcGKFZ) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/3CRvTWlhtUhLGgFgkRk1D3) | 1:46 |
 | 25 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 26 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
 | 27 | [Monstruo Verde](https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fui una Adolescente Terrosatánica](https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `MCwwYmEwNzM3NDliZDY0YzZjMDI2MzJhNTU0ZTlmMDE0NzcwMWI4ZjIz`
+Snapshot ID: `MCw5YWJjOGEyYjYyMGY3ODg2OWYwMWMzMDRhYmFjMzBiMWRkYjIwZTUy`

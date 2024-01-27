@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 131724,
+  "2024-01-27": 131757,
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=6LcMRZJuRgKhHuzR-k2a0A\">Jabulile Majola</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU?si=QBUsseDqSXKS279m5kto9A\">The Soil</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -468,6 +468,28 @@
     },
     {
       "album": {
+        "name": "Isibane Selali",
+        "url": "https://open.spotify.com/album/0dfYUSlAXQ45wCowCf4Mda"
+      },
+      "artists": [
+        {
+          "name": "Flash Ikumkani",
+          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228023,
+      "name": "Amaqaba",
+      "url": "https://open.spotify.com/track/6PvyDgb1ChljnQk1qwy1dg"
+    },
+    {
+      "album": {
         "name": "Amatshe",
         "url": "https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg"
       },
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 296052,
       "name": "Angsakhoni",
       "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 282663,
       "name": "Bengdakiwe",
       "url": "https://open.spotify.com/track/1KIKoF34Yafcd8TkwBzwPv"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 184219,
       "name": "Enza Kwenzeke",
       "url": "https://open.spotify.com/track/7Jw6ETWgWSyffa8AGNdap0"
@@ -2139,7 +2161,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174046,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5"
@@ -4517,7 +4539,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 238173,
       "name": "KUYALUNGA",
       "url": "https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi"
@@ -4963,7 +4985,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 448787,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/7nwoJ5llZhWQJql6z7F1AH"
@@ -5303,6 +5325,24 @@
       "duration_ms": 217855,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt"
+    },
+    {
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/2so1Bl0SweyoitmotIWVXo"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/1tHKABq4u7XHe6y86PV070"
     },
     {
       "album": {
@@ -6590,6 +6630,24 @@
     },
     {
       "album": {
+        "name": "Ngiyabonga",
+        "url": "https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8"
+      },
+      "artists": [
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241685,
+      "name": "Ngiyabonga",
+      "url": "https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG"
+    },
+    {
+      "album": {
         "name": "Ngiyaku'Khumbula",
         "url": "https://open.spotify.com/album/23w1acZtpgmgFGKyuf1o3L"
       },
@@ -7641,7 +7699,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 264938,
       "name": "Qhawe lam",
       "url": "https://open.spotify.com/track/2moWw0WSvfyZ7bXe1JOtx6"
@@ -9693,7 +9751,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 332434,
       "name": "Ukhisimusi",
       "url": "https://open.spotify.com/track/46MKPNCPgQ8d1ujdMeovGW"
@@ -9898,6 +9956,24 @@
     },
     {
       "album": {
+        "name": "UMKHONTO",
+        "url": "https://open.spotify.com/album/0qAAJBVDuxADt93qEk06xZ"
+      },
+      "artists": [
+        {
+          "name": "Zuko SA",
+          "url": "https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Umkhonto",
+      "url": "https://open.spotify.com/track/1L9J1HzkgKfdYPo3gYOhl7"
+    },
+    {
+      "album": {
         "name": "Umkhov'etsheni (feat. Igcokama elisha)",
         "url": "https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ"
       },
@@ -10075,7 +10151,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 235866,
       "name": "Umthombo",
       "url": "https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR"
@@ -10605,7 +10681,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 282107,
       "name": "Wa Nkutlwa Na",
       "url": "https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,293 likes - 40 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,170 likes - 40 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 39 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
 | 40 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 8:40 |
 
-Snapshot ID: `MCxhYThiNjVlZWUxZDBmMGRkMWU4YTEyZDY1MWUzMzI4ODhhOTY1ZWEz`
+Snapshot ID: `MCwzNGZmZDkxMDlhNGFiOWIyMmUxOGFkNzhiMDZiZTQwMmM2ZmNlNDZl`

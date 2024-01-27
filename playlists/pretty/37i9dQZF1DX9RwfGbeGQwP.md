@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,219 likes - 350 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,298 likes - 350 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 349 | [new era](https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [new era](https://open.spotify.com/album/6EaOjZA4k52UfZO5Tqhhu6) | 2:12 |
 | 350 | [Fantasy](https://open.spotify.com/track/3rA0C85YSUAfbgz9VcaSZt) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Fantasy](https://open.spotify.com/album/6n36uThkqF7cInMVdxMEsr) | 3:36 |
 
-Snapshot ID: `MCw3NWNiYTQxZjhhYjVhOWJhY2M1NDA0ZWRiYmM2NWZlZWIwYmIwYWE2`
+Snapshot ID: `MCxjYWZkNDA2OWYxODBiMjRiMjMwNzZiN2E0M2YwMDE0ZTk4ZTAzODVl`

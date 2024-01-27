@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 3 hr 11 min
+51 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Ready To Fly](https://open.spotify.com/track/7DCdoJx9mCpdxcyk5CtbBM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:25 | 2023-12-15 |  |
 | [SeeSaw](https://open.spotify.com/track/6N9NpkIKu7SLAjZd0IewoV) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:28 | 2023-12-15 |  |
 | [Show Me A Sign](https://open.spotify.com/track/0mpWUcqmvL9JuMJE67aVwm) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/album/1ppi1rMwooZxaY9FuOjhuy) | 6:46 | 2023-12-15 |  |
-| [So In Love With You \- Full Intention Mix Version](https://open.spotify.com/track/6Vja9QrWtd6ZGKIcziBQjg) | [Duke](https://open.spotify.com/artist/5kARVtC2AG0DnhgrFBCbGR) | [Duke](https://open.spotify.com/album/1DE2FenrgY7vr8ZUMLTGci) | 3:36 | 2023-12-15 |  |
+| [So In Love With You \- Full Intention Mix Version](https://open.spotify.com/track/6Vja9QrWtd6ZGKIcziBQjg) | [Duke](https://open.spotify.com/artist/5kARVtC2AG0DnhgrFBCbGR) | [Duke](https://open.spotify.com/album/1DE2FenrgY7vr8ZUMLTGci) | 3:36 | 2023-12-15 | 2024-01-27 |
 | [Summertime Chi](https://open.spotify.com/track/5rzrxBZmzo5i0kxXm10TSw) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [Summertime Chi](https://open.spotify.com/album/4ljqV8ilKfJrotx3LDR8iE) | 3:51 | 2023-12-15 |  |
+| [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-01-26 |  |
 | [t.t.t.](https://open.spotify.com/track/6FIsNIYx49bgyxryfojAKM) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:10 | 2023-12-15 |  |
 | [Take Off, Baby! feat\. Orlando \- Original Mix](https://open.spotify.com/track/53De5pp7L4umlJU7srhacZ) | [Ronald Christoph](https://open.spotify.com/artist/694Mu9TpePnihtyxVNHBW2), [Orlando](https://open.spotify.com/artist/4CFVwKkEV3fPV2hr6ISfPH) | [Take Off, Baby!](https://open.spotify.com/album/7wo10jLxb5sP1NyvkXcf4z) | 6:42 | 2023-12-15 |  |
 | [Together](https://open.spotify.com/track/0KzHujAaLA7rJs0GIJVk1A) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7) | [Selected Dub Works](https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi) | 2:53 | 2023-12-15 |  |

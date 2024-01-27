@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 88250,
+  "2024-01-27": 88286,
   "date_first_scraped": "2021-12-29",
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Joey B",
   "name": "Alt\u00e9 Cruise",
@@ -1341,6 +1341,32 @@
       "duration_ms": 210215,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa"
+    },
+    {
+      "album": {
+        "name": "Be You",
+        "url": "https://open.spotify.com/album/7CsI1Y3Xy7uLaIQXeo1lk4"
+      },
+      "artists": [
+        {
+          "name": "Riverays",
+          "url": "https://open.spotify.com/artist/5ryOUcwAfjNpX9DGgj83dC"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195460,
+      "name": "Be You",
+      "url": "https://open.spotify.com/track/6NQKDyqLsrQ38XW1rHmuNZ"
     },
     {
       "album": {
@@ -3575,7 +3601,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187307,
       "name": "FINAL CHAMPION",
       "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
@@ -6392,6 +6418,24 @@
     },
     {
       "album": {
+        "name": "Menko Me Hemaa",
+        "url": "https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD"
+      },
+      "artists": [
+        {
+          "name": "CozyPols",
+          "url": "https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Menko Me Hemaa",
+      "url": "https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU"
+    },
+    {
+      "album": {
         "name": "MIDLIFE CRISIS / WYDTM",
         "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
@@ -8945,7 +8989,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 140800,
       "name": "showmetheway !!",
       "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
@@ -9115,7 +9159,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 151578,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
@@ -9543,6 +9587,24 @@
       "duration_ms": 170520,
       "name": "STRIPPERS ANTHEM (feat. Teezee and PsychoYP)",
       "url": "https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/0EsezaZxlfx9UC76ha3okG"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/6M7aVGlZ6yk9wvDl3APqUc"
     },
     {
       "album": {

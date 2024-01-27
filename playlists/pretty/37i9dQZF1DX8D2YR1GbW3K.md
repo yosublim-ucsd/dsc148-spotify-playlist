@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,803 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,869 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 |
 | 125 | [Dum Dum](https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dum Dum](https://open.spotify.com/album/4DL7wqyLEOhf6pEsuXelur) | 2:01 |
 
-Snapshot ID: `MCw3NzdhNDFiYTc0MmQwMTkyZmQ3OWYyMTE1NTA2OTU4NTc0YWVlMGJi`
+Snapshot ID: `MCxkYzk0ZTNlZDZjYTY5YjkyZTc0ZjczZDg4NDBlZDFiYzlmOWFiNTc2`

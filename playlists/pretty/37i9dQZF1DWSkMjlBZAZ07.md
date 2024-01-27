@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,713 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,949,012 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 100 | [Amsterdam](https://open.spotify.com/track/07h7XnD84Kzg8EsMqj1H5R) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Amsterdam](https://open.spotify.com/album/1G5wziJiffg6QNea5Xqp86) | 2:59 |
 
-Snapshot ID: `MCw1NTZlNjEzMzMyYzczMjk3ZTUwZDMxNzRiMDJmMTYwNjM0ZjY4NjM5`
+Snapshot ID: `MCxjOWE5OTdlZmM0Mzk3YTViYzZkNjg3YTU4Y2U0ZmQxODU1N2ZmMWIy`

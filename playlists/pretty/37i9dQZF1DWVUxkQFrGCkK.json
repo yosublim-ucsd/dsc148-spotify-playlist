@@ -1,12 +1,12 @@
 {
   "description": "Tulum szn",
-  "num_followers": 234974,
+  "num_followers": 235373,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGUyNDdkZWYzZGI5ZjRlYjAxMWFiODc2NDczMGQ1NThjMzkxMzRh",
+  "snapshot_id": "MCxhOWZhMzgxNzZlNmU2NGQ2MmYwNDg5YmQzZjdjZGYyZDk4YWNmOGIy",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy"
-      },
-      "artists": [
-        {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -251,6 +235,26 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2024-01-26 16:41:29",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+      },
+      "artists": [
+        {
+          "name": "Cent",
+          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
+        },
+        {
+          "name": "Katia B",
+          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -411,26 +415,6 @@
       "duration_ms": 325706,
       "name": "Ordinary Love - Folamour Remix",
       "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
         "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
       },
@@ -1175,6 +1175,26 @@
       "duration_ms": 364426,
       "name": "The Greatest Thing Alive - Extended Mix",
       "url": "https://open.spotify.com/track/2nR8CqtAyZxwIuNU9Mz3Un"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2024-01-25 23:00:00",

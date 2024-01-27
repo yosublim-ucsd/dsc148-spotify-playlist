@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 角銅真実\(Manami Kakudo\)
 
-1,261 songs - 3 day 6 hr 26 min
+1,262 songs - 3 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 | 2023-02-10 |
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 |  |
 | [Theme park](https://open.spotify.com/track/03vL5ThjjFD8ALjZjRSVlL) | [Jan flu](https://open.spotify.com/artist/3KuNGrXzOFrVtQvi8czDCR) | [Theme park](https://open.spotify.com/album/7gP1UZ7y4LIGKGI0vKNxcS) | 2:19 | 2023-12-12 | 2024-01-10 |
+| [Things Will Be Done Before You Come](https://open.spotify.com/track/3ukGUIYkWua4IWvHYSH3kD) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [Things Will Be Done Before You Come](https://open.spotify.com/album/7jOdfY3G7UMSNl85y0YGho) | 4:15 | 2024-01-25 |  |
 | [THINK OF SUMMER](https://open.spotify.com/track/25Nom4nb1pULKwa4nQBPgq) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [THINK OF SUMMER](https://open.spotify.com/album/1fqeQV1L97fvOPDW09kSpC) | 4:38 | 2023-10-10 | 2023-10-18 |
 | [THINK OF SUMMER](https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [THINK OF SUMMER](https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a) | 4:38 | 2023-10-10 | 2023-10-12 |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-01-31 | 2023-03-29 |
@@ -833,7 +834,7 @@
 | [あたしぐらいは願うたび](https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [あたしぐらいは願うたび](https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ) | 4:20 | 2024-01-09 | 2024-01-25 |
 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 | 2023-06-20 | 2023-06-22 |
 | [あと少しだけ](https://open.spotify.com/track/6mlIEwQoxhSxFbseoZ81xQ) | [NOUGAT](https://open.spotify.com/artist/67WDTAIYSpsPUOjyuYPw0C) | [あと少しだけ](https://open.spotify.com/album/437RqIC0jGlFx9GbFNlNZX) | 5:04 | 2023-07-11 | 2023-07-19 |
-| [あなたがここに来るまでに用は済みそう](https://open.spotify.com/track/4Zemxdar3w4SYTwNcvQIid) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [あなたがここに来るまでに用は済みそう](https://open.spotify.com/album/0HPOV5QMJlItsN3hfjNq33) | 4:15 | 2024-01-25 |  |
+| [あなたがここに来るまでに用は済みそう](https://open.spotify.com/track/4Zemxdar3w4SYTwNcvQIid) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [あなたがここに来るまでに用は済みそう](https://open.spotify.com/album/0HPOV5QMJlItsN3hfjNq33) | 4:15 | 2024-01-25 | 2024-01-27 |
 | [あなたの虜](https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [あなたの虜](https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr) | 3:08 | 2023-10-31 | 2023-12-30 |
 | [あなたの走馬灯に出れたら](https://open.spotify.com/track/2eJNSD8yq12EtrbJjQIjYD) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [あなたの走馬灯に出れたら](https://open.spotify.com/album/10uoBh2SE89VMu6MHvvBCA) | 3:10 | 2023-12-05 | 2024-01-03 |
 | [あなたはショパン](https://open.spotify.com/track/70oXonbDGdN3c8GtUPLEkV) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [あなたはショパン](https://open.spotify.com/album/6unSvOC7ZjO69VHfumrK3q) | 3:27 | 2023-02-21 | 2023-03-15 |

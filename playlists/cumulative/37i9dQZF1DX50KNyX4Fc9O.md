@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Kaylee Bell, Navvy
 
-643 songs - 1 day 9 hr 19 min
+647 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [High Heels \- Party Down Under \- Sam Feldt vs\. Flo Rida](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \- Party Down Under \(Sam Feldt vs\. Flo Rida\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 | 2023-07-13 | 2023-08-11 |
 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 | 2023-06-15 | 2023-06-30 |
 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-27 | 2023-09-22 |
+| [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-01-26 |  |
 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 | 2024-01-11 |  |
 | [Hold My Hand](https://open.spotify.com/track/0aOY075fZdCkovTY8j27r0) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/2hfiRL8VAW7v2S16LUidPi) | 3:02 | 2023-06-15 | 2023-07-07 |
 | [Hold My Hand](https://open.spotify.com/track/3guViWlEmxEmxD4XNfehe9) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/3GBlqBwDypuKt94dwQUTx8) | 3:02 | 2023-07-06 | 2023-07-14 |
@@ -408,7 +409,8 @@
 | [NOTHING WRONG](https://open.spotify.com/track/7xYpIPjCyI5eMtxGTOZnA5) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [NOTHING WRONG](https://open.spotify.com/album/4JnbqQ7i2dHRxuye81bsYQ) | 2:56 | 2023-12-14 | 2024-01-19 |
 | [november](https://open.spotify.com/track/0GOD7WsMBZqp4AuAp0CH0E) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [november](https://open.spotify.com/album/5hr28sFuldGtJqqPrV4l5e) | 2:38 | 2023-09-21 | 2023-11-09 |
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-12-01 |
-| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-18 |  |
+| [Ocean Demon](https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0) | 4:20 | 2024-01-26 |  |
+| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-18 | 2024-01-27 |
 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-10 | 2023-09-29 |
 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 | 2024-01-11 | 2024-01-19 |
 | [Oh My](https://open.spotify.com/track/4K1n9wTnjshdk3IOHnwVt3) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Oh My](https://open.spotify.com/album/78B0K7fpzAxJ1BLtU3oKVe) | 3:28 | 2023-10-19 | 2023-12-08 |
@@ -565,6 +567,7 @@
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2023-06-29 | 2023-10-06 |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-06-15 | 2023-06-23 |
 | [Things We Do For Love \(Extended Mix\)](https://open.spotify.com/track/1vUuCsaUEUxCZHRxiCDM3z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Extension \(The Extended Mixes\)](https://open.spotify.com/album/1MfcoyNFj7RufL8XJ7egos) | 4:53 | 2023-12-07 |  |
+| [Think U The Sh\*t \(Fart\)](https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6) | 2:21 | 2024-01-26 |  |
 | [This Generation Sucks](https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [This Generation Sucks](https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV) | 2:58 | 2023-08-10 | 2023-09-29 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-14 | 2023-10-20 |
 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 | 2023-09-29 | 2023-11-17 |
@@ -598,6 +601,7 @@
 | [Up In My Head](https://open.spotify.com/track/3fCq01smXb4MnNSydn1Uem) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Up in My Head](https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq) | 3:32 | 2023-07-27 | 2023-09-08 |
 | [Upgraded](https://open.spotify.com/track/2dS7bENqIUpJzF5d2TpEbl) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:33 | 2023-08-17 | 2023-10-06 |
 | [Upside Down](https://open.spotify.com/track/3hBKTpjfxiSji15s6s9Dr7) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Upside Down](https://open.spotify.com/album/5ib2apMJxqeGmbxBcEgWKz) | 3:03 | 2023-06-15 | 2023-07-14 |
+| [ur special to me](https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [ur special to me](https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L) | 1:54 | 2024-01-26 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-24 | 2023-10-06 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-29 | 2023-08-25 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-08-31 | 2023-10-06 |

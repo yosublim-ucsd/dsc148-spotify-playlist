@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 278955,
+  "2024-01-27": 279006,
   "date_first_scraped": "2022-01-18",
-  "description": "Party anthems from the club to your ears!",
+  "description": "Dance anthems from the club to your ears!",
   "name": "Warehouse Party",
   "tracks": [
     {
@@ -171,7 +171,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 393387,
       "name": "Au Seve",
       "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
@@ -389,6 +389,28 @@
       "duration_ms": 391082,
       "name": "Callin'",
       "url": "https://open.spotify.com/track/0oNmrG9mCMH51Gfnwme4nF"
+    },
+    {
+      "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "album": {
@@ -691,6 +713,24 @@
       "duration_ms": 390786,
       "name": "Don't Go - Dusky Remix",
       "url": "https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy"
+    },
+    {
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "album": {
@@ -1121,7 +1161,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 288919,
       "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
       "url": "https://open.spotify.com/track/4vSsMRGjCez8mriReBzGD1"
@@ -1937,7 +1977,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 218639,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/6qMHCyhQPPVQaadEHAsoJW"
@@ -1973,7 +2013,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 359297,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
@@ -2159,6 +2199,28 @@
       "duration_ms": 257360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH"
+    },
+    {
+      "album": {
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
       "album": {
@@ -2495,6 +2557,28 @@
       "duration_ms": 259385,
       "name": "Take Me Away (feat. Rae) - Extended Radio Edit",
       "url": "https://open.spotify.com/track/5JH5GCGS531CBZdowQ9UNr"
+    },
+    {
+      "album": {
+        "name": "Take You On",
+        "url": "https://open.spotify.com/album/7I6qpO1jTxMunIMw3zghgr"
+      },
+      "artists": [
+        {
+          "name": "Josh Burnett (UK)",
+          "url": "https://open.spotify.com/artist/5OazACOH1YtPTkxiqTtILW"
+        },
+        {
+          "name": "ACT ON",
+          "url": "https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "Take You On",
+      "url": "https://open.spotify.com/track/07VI6sdD2s7hzPEezIMtiT"
     },
     {
       "album": {

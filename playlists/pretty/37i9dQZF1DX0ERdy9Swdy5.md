@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,207 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,237 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Hoy Quiero Confesar](https://open.spotify.com/track/28xNqT1rb2xmrZ28N53M1v) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Oro Salsero](https://open.spotify.com/album/2XhNOKvTdyoq9HcTkHqIWp) | 4:29 |
 | 100 | [A Corazón Abierto](https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU) | 4:58 |
 
-Snapshot ID: `MCwzYjAxYmVjNjc5Y2JjZGFmMzQ2MjBhZDBhNzU1ZjMxZmZhMTc4OGZm`
+Snapshot ID: `MCxmMDZiZjM5YmUwZDBlZjlmMjdiYzRjNDBlMGM5ZjkyMjNkNzQ4MTAz`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 73780,
+  "2024-01-27": 73812,
   "date_first_scraped": "2023-01-15",
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
   "name": "New UK Garage",
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 236363,
       "name": "Belly",
       "url": "https://open.spotify.com/track/2HpCoa9ca8wJJ16MfTCO2g"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 135409,
       "name": "Closer (Higgo Remix)",
       "url": "https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF"
@@ -676,6 +676,28 @@
     },
     {
       "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
+    },
+    {
+      "album": {
         "name": "Garage Queen EP",
         "url": "https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig"
       },
@@ -821,7 +843,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 214545,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 142763,
       "name": "Hypnotize Me Baby",
       "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
@@ -1462,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346030,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
+    },
+    {
+      "album": {
         "name": "More To Give",
         "url": "https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5"
       },
@@ -1495,6 +1535,42 @@
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
+    },
+    {
+      "album": {
+        "name": "Needle On The Record (4am Mix)",
+        "url": "https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Needle On The Record - 4am Mix",
+      "url": "https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,673 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,725 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 104 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 
-Snapshot ID: `MCw1Yjc5OTIwY2Y2NTRjMGM4MDJlMzZjNmM1NGY4NjRiMjZjMjA2ZDhh`
+Snapshot ID: `MCwzMzYyYjVkMzk3OWQ1YTFiOWQ3YWY3YmNmOWQzY2FkN2EyZjkwOWE1`

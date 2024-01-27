@@ -4,7 +4,7 @@
 
 > Reprenez ces hymnes tous en choeur jusqu'à votre prochaine destination
 
-53 songs - 3 hr 8 min
+55 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Emmenez\-moi](https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves \(Remastered 2014\)](https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd) | 3:32 | 2021-05-18 |  |
 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:52 | 2021-05-18 |  |
 | [Et moi, et moi, et moi](https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 2:55 | 2021-05-18 |  |
+| [Formidable](https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:33 | 2021-05-18 |  |
 | [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 | 2021-05-18 | 2024-01-26 |
-| [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 | 2021-05-18 |  |
+| [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 | 2021-05-18 | 2024-01-27 |
 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 | 2021-05-18 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5VeXUDkjN6EXElAPw91LUC) | [Åsleik Engmark](https://open.spotify.com/artist/6NPdaUIOn46ehUOYaIGdKT), [Yngvar Numme](https://open.spotify.com/artist/7GGUQET1YKyN4F2MF236im), [Håvard Bakke](https://open.spotify.com/artist/6DeZhVD8Zb1iiJ0W1YBvtD), [Eirik Espolin Johnson](https://open.spotify.com/artist/2eNM7wFEWCKkyTnXmrTQwu) | [The Lion King: Special Edition Original Soundtrack \(Norwegian Version\)](https://open.spotify.com/album/2fv8z7YZQCV6bsqp4gwHqO) | 3:32 | 2021-05-18 |  |
 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 | 2021-05-18 |  |
@@ -45,7 +46,8 @@
 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 | 2021-05-18 |  |
 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 | 2021-05-18 |  |
 | [Quelque chose de Tennessee](https://open.spotify.com/track/54BqQGaBnDTkSKOp7A3MRP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Rock N' Roll Attitude](https://open.spotify.com/album/5AQWpIMm7H5FgwzCXfC00b) | 4:10 | 2021-05-18 |  |
-| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-05-18 |  |
+| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-05-18 | 2024-01-27 |
+| [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 | 2021-05-18 |  |
 | [Reste](https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/2lHVp0TDnXIHUHwojpW6fN) | 3:51 | 2021-05-18 |  |
 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 | 2021-05-18 |  |
 | [Roule](https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:58 | 2021-05-18 |  |

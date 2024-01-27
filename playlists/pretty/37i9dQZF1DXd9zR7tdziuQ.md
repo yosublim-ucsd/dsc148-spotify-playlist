@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,325 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,350 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 | 150 | [Dancing in the Moonlight \- Acoustic Version](https://open.spotify.com/track/1iUkHPHr2E9Zy6PWKNpViK) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Greatest Hits](https://open.spotify.com/album/4x8DMzG3QC2pBLw01NQHLI) | 3:00 |
 
-Snapshot ID: `MCxlZjc1ODk5NGUwZjU4NGRiYzMwZDFlNTVmYjNiMjdkMGRlZjA0OWZj`
+Snapshot ID: `MCxmZmRjNDY3NjE2NWI1MTY5MWU0Mjc2NWU0NDBjNzI2M2ZlYzNhOTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,412 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,890 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/6tFLKJWMwqn5XbbHlzojPz) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Turn Up the Heat](https://open.spotify.com/album/2ZYXtGcQxwAkjZhpz4oDaS) | 3:03 |
 | 50 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 
-Snapshot ID: `MCxhODIzM2NkMzI1YmMxNTQ0N2U5MTBlZjk5NzU5NjYzZjFiY2QxMGQ0`
+Snapshot ID: `MCxlNzJiNTNkYTU4YTY5YWZlYWQ0YjUzZTgzMGZkOGE0MGY5NjI4OGI1`

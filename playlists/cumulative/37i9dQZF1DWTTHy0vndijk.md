@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: H1\-KEY \(하이키\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: VCHA \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-390 songs - 21 hr 46 min
+391 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Butterfly 2018 PyeongChang Winter Olympics Special](https://open.spotify.com/track/6YkTM8MJIqoXlAfBbEAydl) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Butterfly 2018 PyeongChang Winter Olympics Special](https://open.spotify.com/album/1JV158ApbmEIJFWdoQCRk1) | 3:47 | 2021-11-29 | 2022-04-15 |
 | [BYOB \(bring your own best friend\)](https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Billlie 'BYOB \(bring your own best friend\)'](https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl) | 2:38 | 2023-09-27 |  |
 | [Cameo](https://open.spotify.com/track/7x9AO2pEWZTbKIek7RAecH) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album \(R U Ready?\)](https://open.spotify.com/album/6O2yBn46GYN9yPJqGzRWHZ) | 3:19 | 2021-11-29 | 2022-07-19 |
-| [Camera](https://open.spotify.com/track/4hmPTbTJGPgd5nnQfIAdeH) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- FINAL STATION](https://open.spotify.com/album/3NztH7vDAl1pFeJKMl3bKN) | 3:08 | 2024-01-20 |  |
+| [Camera](https://open.spotify.com/track/4hmPTbTJGPgd5nnQfIAdeH) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- FINAL STATION](https://open.spotify.com/album/3NztH7vDAl1pFeJKMl3bKN) | 3:08 | 2024-01-20 | 2024-01-27 |
 | [Can't Stop](https://open.spotify.com/track/62ize8LNryAth4LFUckZvS) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [LOVE GENERATION](https://open.spotify.com/album/2YC8M3B0hDBavlgzsAQrjf) | 3:40 | 2021-11-29 | 2022-07-11 |
 | [CANDY](https://open.spotify.com/track/53Abp3QVXDA9z1VmJsOBXm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:15 | 2022-01-04 | 2022-07-29 |
 | [Candy Boy](https://open.spotify.com/track/0SY4Q05g5eazjmgr3Dxr5y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 2:46 | 2022-01-04 | 2022-07-12 |
@@ -127,6 +127,7 @@
 | [FUN!](https://open.spotify.com/track/2yEjyto6ztOMGffProMlgX) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/242r7I1BKR3nyDKwieT43f) | 3:03 | 2022-03-29 | 2022-04-21 |
 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 | 2023-06-20 |
 | [Gee \- Live](https://open.spotify.com/track/3f5tqrL3PfRrfxFwoYrOhQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into The New World \(The First Asia Tour\)](https://open.spotify.com/album/3gQKLh7YC3VjvO3AMDVuJt) | 3:21 | 2022-03-29 | 2022-05-18 |
+| [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 |  |
 | [Glass Bead](https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 1st Mini Album 'Season Of Glass'](https://open.spotify.com/album/3yOVupLmLpD7Qosl08ow0u) | 3:23 | 2021-11-29 | 2022-07-20 |
 | [Glass Shoes](https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Fromis\_9 PRE\-DEBUT Single](https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr) | 3:11 | 2021-11-29 | 2022-07-29 |
 | [Good Day \(Special Daileee\)](https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Good Day \(Special Daileee\)](https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq) | 2:48 | 2023-09-13 | 2023-09-28 |

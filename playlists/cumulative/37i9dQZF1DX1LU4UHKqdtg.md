@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
 
-890 songs - 2 day 0 hr 34 min
+892 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2022-10-26 |
 | [Girls \- BRLLNT Remix](https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 2:55 | 2022-10-20 | 2023-01-25 |
+| [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-25 |  |
 | [Girls’ Capitalism](https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [LOVElution <ↀ>](https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf) | 3:38 | 2023-08-18 | 2023-10-28 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-06-22 |
@@ -362,6 +363,7 @@
 | [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-26 | 2023-07-08 |
 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-30 | 2023-04-05 |
 | [Here is](https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Here is](https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb) | 4:10 | 2023-01-17 | 2023-04-26 |
+| [Hey!](https://open.spotify.com/track/0MwrVgNk2IVFpL8OK2Fw9V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [FlexxCop OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/6VJyLEvO5f5xNsKdHY9Vgk) | 3:03 | 2024-01-25 |  |
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-10 | 2022-06-29 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 | 2022-09-05 |
 | [Hold On](https://open.spotify.com/track/6TB4hC3ShE7uPr3SXXfjT8) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Hold On](https://open.spotify.com/album/5CYjQwztXHsyVVxUjMetRj) | 3:20 | 2023-08-08 | 2023-08-30 |

@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 105307,
+  "2024-01-27": 105245,
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Douwe Bob",
+  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162160,
       "name": "17",
       "url": "https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182960,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0FFmB4MCI1lofdXUkask2p"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 175119,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Ezy5p9gSo1HaXt1UA2Pxd"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191103,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 233266,
       "name": "Everybody's Got to Learn",
       "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -1920,6 +1920,28 @@
     },
     {
       "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO"
       },
@@ -2086,6 +2108,24 @@
     },
     {
       "album": {
+        "name": "Heart Attack",
+        "url": "https://open.spotify.com/album/6OWwjI57DMRsv42xKJvq5m"
+      },
+      "artists": [
+        {
+          "name": "Oliver Pesch",
+          "url": "https://open.spotify.com/artist/26tOE9bbYwhN5SRHcAic97"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/4JJyspZ4EulL5b02rvaLdy"
+    },
+    {
+      "album": {
         "name": "Heartaches",
         "url": "https://open.spotify.com/album/68taUYP2jqsYXxBwTcth54"
       },
@@ -2187,7 +2227,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 259265,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
@@ -2339,6 +2379,24 @@
       "duration_ms": 295357,
       "name": "Hollywood Blvd",
       "url": "https://open.spotify.com/track/63NXZMNOKRfjzkhKQ5Ub2s"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "album": {
@@ -3241,7 +3299,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 256644,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/12N4DCVM7AXrIsI33Dafpw"
@@ -4113,7 +4171,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 175342,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex"
@@ -4555,6 +4613,24 @@
       "duration_ms": 174000,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
+    },
+    {
+      "album": {
+        "name": "Something About It",
+        "url": "https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200435,
+      "name": "Something About It",
+      "url": "https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn"
     },
     {
       "album": {
@@ -5245,7 +5321,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 215893,
       "name": "The Pool",
       "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
@@ -5407,7 +5483,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
@@ -5946,6 +6022,24 @@
     },
     {
       "album": {
+        "name": "What You Gonna Do",
+        "url": "https://open.spotify.com/album/7ndrgvQs1wROQByST5SZ3u"
+      },
+      "artists": [
+        {
+          "name": "Slow Pilot",
+          "url": "https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197412,
+      "name": "What You Gonna Do",
+      "url": "https://open.spotify.com/track/3g1kcKJuFOQNpmLVi4i0vI"
+    },
+    {
+      "album": {
         "name": "whatstheuse",
         "url": "https://open.spotify.com/album/0MV6aHAYFTdLVYIw5Qv0FW"
       },
@@ -6127,7 +6221,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 198040,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/7CxAGUICNbA8GQixb6bQNN"
@@ -6203,6 +6297,24 @@
       "duration_ms": 178921,
       "name": "You Are You",
       "url": "https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO"
+    },
+    {
+      "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/07bYmAUqno1xlFrQFJGIte"
+      },
+      "artists": [
+        {
+          "name": "Sofie Winterson",
+          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198161,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3UwsdMZnmrLB7Tms4mJSs3"
     },
     {
       "album": {

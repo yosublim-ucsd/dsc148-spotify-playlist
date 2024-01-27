@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,666 songs - 3 day 16 hr 32 min
+1,667 songs - 3 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Actes](https://open.spotify.com/track/1A18fWpnZE3Lwrm4JCjbGa) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:06 | 2022-11-19 | 2022-11-24 |
 | [Adieu les filles](https://open.spotify.com/track/5bGOqwlF2tRmey4xSZELGK) | [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n), [ZZCCMXTP](https://open.spotify.com/artist/1qOGqdcQd7qTSZe55uoNAh), [KronoMuzik](https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Ronare](https://open.spotify.com/artist/5dJHwfmDYunx4FM7nuO5bT) | [Adieu les filles](https://open.spotify.com/album/5P39jRcoydtlXdEXiaj4xJ) | 2:05 | 2022-04-09 | 2022-04-11 |
 | [ADN](https://open.spotify.com/track/3EvLsCs6vdGAjskXqEhwdK) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:59 | 2022-11-05 | 2022-11-07 |
+| [Adrenalean](https://open.spotify.com/track/0klIln517VMntb0BAesVuR) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Adrenalean](https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn) | 2:12 | 2024-01-26 |  |
 | [AFRIKANBADMAN](https://open.spotify.com/track/5JxFWqqJiWPDXDTmQfwas3) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:24 | 2023-12-02 | 2023-12-10 |
 | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/track/1ZSdPeVhNy8VuSiXM3pXhv) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 2:34 | 2021-07-18 | 2021-10-06 |
 | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/track/62nJqZs3Qs7DGUto35dVUv) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/album/2ztIejOSOlhj6tbkwgaSsc) | 2:34 | 2021-05-29 | 2021-07-18 |
@@ -931,7 +932,7 @@
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-26 | 2022-04-24 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-09-16 | 2021-10-03 |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-07-16 | 2021-10-30 |
-| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-06 |  |
+| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-06 | 2024-01-27 |
 | [Loyal](https://open.spotify.com/track/665XULRUnV9lonxbakqwMo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:44 | 2021-03-27 | 2021-03-29 |
 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 | 2023-11-25 | 2023-12-01 |
 | [LOYAL](https://open.spotify.com/track/7GzrdM0tPqKZ564YeLM1Vc) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 3:48 | 2023-12-23 | 2023-12-25 |

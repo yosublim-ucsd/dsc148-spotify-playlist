@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228961,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -3311,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/2CkwDTtBMN2GzJo05QF8WE"
       },
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
@@ -6662,7 +6698,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 161719,
       "name": "WELCOME TO THE PARTY",
       "url": "https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz"

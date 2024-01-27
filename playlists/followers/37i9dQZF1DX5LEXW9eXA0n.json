@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 358851,
+  "2024-01-27": 358621,
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bSolar(\uc194\ub77c)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bKwak Jin Eon(\uacfd\uc9c4\uc5b8)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1965,6 +1965,24 @@
       "duration_ms": 210733,
       "name": "Best Friend (with SEULGI)",
       "url": "https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu"
+    },
+    {
+      "album": {
+        "name": "Short Pieces (Studio Live)",
+        "url": "https://open.spotify.com/album/0Ed1Cb804BKKJQKZHWhARy"
+      },
+      "artists": [
+        {
+          "name": "Kwak Jin Eon",
+          "url": "https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/54nRNzhHNi8xL53obahC0o"
     },
     {
       "album": {
@@ -15716,6 +15734,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
+    },
+    {
+      "album": {
         "name": "Last Winter",
         "url": "https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5"
       },
@@ -17197,6 +17233,24 @@
       "duration_ms": 228948,
       "name": "The Wind Blows",
       "url": "https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ"
+    },
+    {
+      "album": {
+        "name": "The World of You",
+        "url": "https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "The World of You",
+      "url": "https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR"
     },
     {
       "album": {

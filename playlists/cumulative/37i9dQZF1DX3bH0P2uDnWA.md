@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-341 songs - 19 hr 33 min
+342 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [So Good](https://open.spotify.com/track/6JUW1SeVIe3Rtdq7beQ6eM) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [So Good](https://open.spotify.com/album/6YQTYUeaN0xEwE63rB4Zj7) | 3:16 | 2022-11-07 |  |
 | [Somebodys Watching Me \- Electro Swing Mix](https://open.spotify.com/track/2yNfs7f9Vwi56hIXtwajPl) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Somebodys Watching Me \(Electro Swing Mix\)](https://open.spotify.com/album/28jxO28LLz3IVS0JQZUxkH) | 2:40 | 2023-10-13 | 2023-11-07 |
 | [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 | 2022-06-10 | 2024-01-20 |
-| [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 | 2022-07-15 |  |
+| [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 | 2022-07-15 | 2024-01-27 |
 | [Speed Dating An Arsonist](https://open.spotify.com/track/2FhInxwW01SyhpDp9LbInt) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Swagger & Stroll Down The Rabbit Hole](https://open.spotify.com/album/3ZAWIIIWwe5ZmfY4fLZ8Y0) | 5:30 | 2022-11-07 |  |
 | [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 | 2021-10-22 | 2023-05-05 |
 | [Spook](https://open.spotify.com/track/2B93XfJsX1F2wnisPmtHhF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 4:17 | 2022-10-12 | 2023-11-07 |
@@ -303,6 +303,7 @@
 | [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 | 2020-10-30 |  |
 | [The Mayor of Storyville \- Electro Swing Spin](https://open.spotify.com/track/1Yu8LT5fuomnLUcnpuJEOR) | [Swing'it](https://open.spotify.com/artist/2acptETX6n0IHKXyybYgWS), [Jonah Hitchens](https://open.spotify.com/artist/62dpqHNrPSn56BQK7zoROE), [Sam Norris](https://open.spotify.com/artist/1i3MM8Iwhjv1KnpCVYebY6) | [The Mayor of Storyville \(Electro Swing Spin\)](https://open.spotify.com/album/0FlV6WAxVjBtubyCYzlwRY) | 3:16 | 2023-07-21 |  |
 | [The Munsters \- Electro Swing Mix](https://open.spotify.com/track/6KSx750dE2LN3iRgKsbnkO) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [The Munsters \(Electro Swing Mix\)](https://open.spotify.com/album/67drYtHDl9aU68cP8X5ezb) | 2:08 | 2022-10-12 | 2023-10-14 |
+| [Think Twice](https://open.spotify.com/track/0GDtLtIJ4zbXfo4oDGq3oz) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Think Twice](https://open.spotify.com/album/3RDPYwu7EqUVyUBglOlGfs) | 2:51 | 2024-01-26 |  |
 | [To the Bat Cave](https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [To the Bat Cave](https://open.spotify.com/album/1XmrRxz3esoXTEzIoWVp79) | 3:46 | 2020-10-30 | 2022-07-29 |
 | [Tom's Diner \- Electro Swing Mix](https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh), [Kasia Buja](https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg) | [Tom's Diner \(Electro Swing Mix\)](https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw) | 3:11 | 2023-01-13 |  |
 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/7cdqNTpJWKqA6rp35tJUrH) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 | 2021-06-11 |  |

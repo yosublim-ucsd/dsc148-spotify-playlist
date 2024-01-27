@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,504 likes - 100 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,563 likes - 100 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
 | 100 | [Christ Be With Me](https://open.spotify.com/track/0ZJzZI0hyMxWtUg3kOyPce) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [The Brilliance Original Mixtape](https://open.spotify.com/album/0duE0bJzF0cq6n7YNQAP3P) | 3:03 |
 
-Snapshot ID: `MCxkMjdkOTk3OTE1YzBjZThhMTcxZTEyNmFlYzE5ZTRkYWM3M2Y1OWEw`
+Snapshot ID: `MCw1Y2I2Nzc0ODk1YmRkNGI1NjU4NjM1MzlhNjhiMTNkMTI4NmRjY2Yw`

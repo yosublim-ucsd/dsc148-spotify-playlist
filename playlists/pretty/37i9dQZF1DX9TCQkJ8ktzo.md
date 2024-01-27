@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,202 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,221 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [La Montaña](https://open.spotify.com/track/6ZKTF8RYIZuoANeYoBH752) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Grandes Éxitos de Lucho Gatica](https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc) | 3:35 |
 | 50 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
 
-Snapshot ID: `MCxiZDQ0MWU4ZTE0N2UxZDI5OGE1NDdmYTg0NzVmY2U0ZTQxODk4ODYw`
+Snapshot ID: `MCwwZjY1N2IzZTY4ZTY4Y2FhYzQ0YTk3NWNkMWYzZTYwNjgyNWE1ZDY1`

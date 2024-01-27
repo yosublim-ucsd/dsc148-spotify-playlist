@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas.
 
-152 songs - 8 hr 11 min
+154 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-10-13 |  |
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-11-24 |  |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-10-13 |  |
-| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-19 |  |
+| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-19 | 2024-01-27 |
 | [Beso a Beso](https://open.spotify.com/track/70l4rAWoSEdtir2jTs88Cd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Es infinito](https://open.spotify.com/artist/6mjMtFxKociqdKI14Ug3ec) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:33 | 2023-12-15 |  |
 | [bien](https://open.spotify.com/track/2ZafAJuC7oYKtPOnO0uTnW) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1tfZOsRed1FZUuPDuSDSZC) | 3:00 | 2023-12-21 | 2024-01-20 |
 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 | 2023-10-13 | 2023-12-31 |
@@ -80,8 +80,10 @@
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 |  |
 | [Lo Azul de Mi](https://open.spotify.com/track/6Ojtbe9JYEmQB8e0bnnbFZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Azul de Mi](https://open.spotify.com/album/6MR5564jgXNBKIHjpS8odI) | 2:34 | 2023-10-13 | 2023-12-09 |
 | [LO TENGO](https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Lo Tengo](https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU) | 2:47 | 2023-10-13 |  |
+| [Los Tontos](https://open.spotify.com/track/4DoEHKWh8k6vYDleECQkJx) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:12 | 2024-01-26 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 |  |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-10-13 |  |
+| [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 |  |
 | [Mala](https://open.spotify.com/track/2NoDVifTYfrBkBboPjo9P3) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Mala](https://open.spotify.com/album/6ntkK8bmIOjQ8ewEU9FkWT) | 2:44 | 2023-12-15 | 2024-01-20 |
 | [Me Gusta Tu Estilo](https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt) | [Mat Alba](https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chai](https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn) | 3:17 | 2023-10-13 | 2023-11-11 |
 | [Me Gustas Tanto \- Remix](https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Me Gustas Tanto \(Remix\)](https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4) | 3:28 | 2023-10-13 |  |
@@ -116,7 +118,7 @@
 | [pensando en mí](https://open.spotify.com/track/32hmIJoOZOS1WM0LL9zzeM) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [q\*](https://open.spotify.com/album/3CC1TrFsBYU7aqEx0KmwkP) | 2:24 | 2023-11-10 |  |
 | [PERDÓN](https://open.spotify.com/track/5YSuQJsJoFrEPUSwfydSmj) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [BAM: LA SUITE](https://open.spotify.com/album/7Foru1jdTrjfzOjVkQuYeS) | 2:58 | 2023-11-10 |  |
 | [Piola](https://open.spotify.com/track/1K5cL6O2dHT985ad2p1Cbm) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Piola](https://open.spotify.com/album/4WnVzvPrkXDRqPrJIjJ9pz) | 3:01 | 2023-10-13 |  |
-| [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 | 2024-01-19 |  |
+| [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 | 2024-01-19 | 2024-01-27 |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 |  |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-10-13 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2023-12-08 |  |

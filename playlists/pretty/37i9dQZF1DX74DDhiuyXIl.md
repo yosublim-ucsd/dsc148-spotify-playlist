@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,674 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,654 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 |
 | 75 | [天下](https://open.spotify.com/track/7vlCdxLVwaV6wBPFwcFXXK) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [天下](https://open.spotify.com/album/2jhnvk13zoeCfb74AvTyr2) | 3:25 |
 
-Snapshot ID: `MCwyN2NiMDA3ODU3NzNmNjQwZmU0NjI2MjQ4Mjk4ZDM5YTk2MzBkYmIw`
+Snapshot ID: `MCwxODM1YTVlYTBkYjdmODk1ZTdkZWQ2MmRmMDYyYWQ0MmY0N2I2ZDM1`

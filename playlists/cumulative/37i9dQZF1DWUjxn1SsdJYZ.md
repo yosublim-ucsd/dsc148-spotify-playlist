@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: 808Riot
 
-652 songs - 1 day 6 hr 19 min
+654 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,8 @@
 | [Pinnacle Bitch](https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Pinnacle Bitch](https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b) | 3:21 | 2023-10-19 |  |
 | [Play for Keeps](https://open.spotify.com/track/1aD6KGgZ6duNKQJQVulwmT) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Play for Keeps](https://open.spotify.com/album/1NQn3XcLiZNFwC5pqsYdgl) | 3:02 | 2023-09-14 |  |
 | [Playing For Keeps](https://open.spotify.com/track/1vF8QBmwJqzaB3AQkRqiBP) | [Jose Poly](https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0) | [Playing For Keeps](https://open.spotify.com/album/5mtMmwVBF7Cwu9qSLPg2ug) | 2:14 | 2022-12-01 | 2023-06-16 |
-| [Please Explain](https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [Please Explain](https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu) | 5:27 | 2023-10-26 |  |
+| [Please Explain](https://open.spotify.com/track/1oPLazsFo5ZamgPQ8dQyTv) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [Please Explain](https://open.spotify.com/album/6HTnsLJbSRqaHRyBgAXrDG) | 5:27 | 2024-01-25 |  |
+| [Please Explain](https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [Please Explain](https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu) | 5:27 | 2023-10-26 | 2024-01-27 |
 | [plug call](https://open.spotify.com/track/59hWa9eLP3jw1eIycAx28H) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [plug call](https://open.spotify.com/album/6mUqZUlaAaHlWEfdm39k3j) | 2:34 | 2023-05-04 | 2023-07-07 |
 | [POLYMERS.](https://open.spotify.com/track/3CumivLbQXJ6NEJpPbukWT) | [Mazbou Q](https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ) | [POLYMERS.](https://open.spotify.com/album/5wBI8B4tzO9HEpULB66Q5D) | 3:13 | 2024-01-11 |  |
 | [POSTER](https://open.spotify.com/track/1eUAKYrj3F7LvrbAR0X3rL) | [Mwayz](https://open.spotify.com/artist/2EYr0y2iynxHcbb6fQ4Emg) | [POSTER](https://open.spotify.com/album/4xTwDdRNCJRg2Po83RkkKk) | 2:33 | 2023-08-31 |  |
@@ -531,6 +532,7 @@
 | [Slide](https://open.spotify.com/track/0kwUsrcjtn8l8oNjTSZgJW) | [RENZI](https://open.spotify.com/artist/6vmhMeXBCSMtkCEcDD8Wmk), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Paintin' Pictures](https://open.spotify.com/album/1PCalYSpG12Lv7UznrJEQl) | 2:58 | 2022-08-25 | 2023-02-10 |
 | [SLIPPIN](https://open.spotify.com/track/44MmMErXGh8EwcS9mjxtZi) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [UNEEK.](https://open.spotify.com/artist/698B1NbgD1hmSuL2KvjLTz) | [SLIPPIN](https://open.spotify.com/album/0qMn6sRTvNXLk4IhtQ0Q0O) | 4:20 | 2022-06-23 | 2022-11-18 |
 | [Smoke](https://open.spotify.com/track/2ibDEUmWjwdu7MfA0PfeeO) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel), [Yung Shogun](https://open.spotify.com/artist/36FoSt7DBnQar4gankr8t2) | [Smoke](https://open.spotify.com/album/3PFsfVM5QjIBKmr0AZHPVy) | 2:48 | 2023-06-29 | 2023-07-28 |
+| [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/track/4NIKjGaP987XcVCQwm17eH) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/album/59hgBzoddZgZ1NcZV5F1IF) | 2:16 | 2024-01-25 |  |
 | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 | 2022-10-21 |
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-02 | 2023-04-21 |
 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 | 2023-10-19 |  |

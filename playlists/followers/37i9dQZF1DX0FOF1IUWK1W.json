@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 8134285,
+  "2024-01-27": 8128857,
   "date_first_scraped": "2022-01-18",
-  "description": "Ana Castela, Gustavo Mioto e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Borges, Veigh, MC Cabelinho e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -4693,7 +4693,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178080,
       "name": "MONTAGEM ANOS 2000",
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
@@ -5201,7 +5201,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
@@ -5617,7 +5617,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -6245,6 +6245,68 @@
       "duration_ms": 153448,
       "name": "Revoada No Colch\u00e3o",
       "url": "https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej"
+    },
+    {
+      "album": {
+        "name": "Ritmista 1.0",
+        "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
+      },
+      "artists": [
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615810,
+      "name": "Ritmista 1.0",
+      "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
     },
     {
       "album": {
@@ -6958,6 +7020,32 @@
     },
     {
       "album": {
+        "name": "Tipo Holywood",
+        "url": "https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z"
+      },
+      "artists": [
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "MC Cothi\u00ea",
+          "url": "https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109384,
+      "name": "Tipo Hollywood",
+      "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
+    },
+    {
+      "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
       },
@@ -7445,6 +7533,28 @@
       "duration_ms": 144516,
       "name": "Vestido Coladinho",
       "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
+    },
+    {
+      "album": {
+        "name": "Vestido Curto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151976,
+      "name": "Vestido Curto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny summer vibe!
 
-169 songs - 10 hr 43 min
+170 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr) | 3:59 | 2021-11-25 | 2022-03-18 |
 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 | 2021-11-25 | 2023-02-01 |
 | [No Other Love \(feat\. Estelle\)](https://open.spotify.com/track/0FsqhyyHNZJfK29IpHihMK) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Evolver](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) | 3:59 | 2021-11-25 |  |
-| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-25 |  |
+| [Ocean Demon](https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0) | 4:20 | 2024-01-25 |  |
+| [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-25 | 2024-01-27 |
 | [Old School Feeling](https://open.spotify.com/track/4CP5zdy0pLR5Q3IeLeY1qU) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [In the Moment](https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW) | 3:56 | 2022-02-25 |  |
 | [One Life \(with Demarco\)](https://open.spotify.com/track/2eYdqeaVgb5bDixVAhiQJO) | [DMP](https://open.spotify.com/artist/7pNbAaBrIRKErypLJiIrQ4), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [One Life \(with Demarco\)](https://open.spotify.com/album/6NiJEPYL1JfRERgshDaoaG) | 3:42 | 2022-08-26 | 2023-08-17 |
 | [One World, One Prayer \(feat\. Skip Marley, Farruko, Shaggy & Cedella Marley\)](https://open.spotify.com/track/0NjwB0pgNC2ate5QOeHXTu) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [One World, One Prayer \(feat\. Skip Marley, Farruko, Shaggy & Cedella Marley\)](https://open.spotify.com/album/2c98u5IkZvxOJtAYyDDnwI) | 3:16 | 2021-11-25 |  |

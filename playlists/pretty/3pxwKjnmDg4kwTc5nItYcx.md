@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,770 likes - 408 songs - 22 hr 1 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,769 likes - 408 songs - 22 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,7 +299,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 289 | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/track/6NHQNFSpBaBvTHTt96dhfy) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/album/0XKpLb1bh3PvdQ7BaPRA29) | 4:03 |
 | 290 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 |
 | 291 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 |
-| 292 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
+| 292 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
 | 293 | [Parasite](https://open.spotify.com/track/4pRVh4JXhDiwkOMRNJuRju) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Parasite](https://open.spotify.com/album/2GVR00cBAHHzBKQs4UYY7G) | 3:06 |
 | 294 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
 | 295 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 |

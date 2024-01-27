@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,831 likes - 150 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,867 likes - 150 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 149 | [I'm Slippin' In](https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:52 |
 | 150 | [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 |
 
-Snapshot ID: `MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1`
+Snapshot ID: `MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0`

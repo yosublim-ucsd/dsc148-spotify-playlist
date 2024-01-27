@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Destin Conrad",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Sinead Harnett",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -7483,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
+    },
+    {
+      "album": {
         "name": "PHILEO Deluxe",
         "url": "https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM"
       },
@@ -8080,7 +8098,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 118095,
       "name": "LIFE BEEN LIFIN'",
       "url": "https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU"
@@ -12558,6 +12576,24 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
+    },
+    {
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
     },
     {
       "album": {

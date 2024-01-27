@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,137 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,095 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 70 | [Safe Place \- Acoustic](https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place \(Acoustic\)](https://open.spotify.com/album/4AM1TkaWF2RRoHhgQ4i4te) | 2:58 |
 
-Snapshot ID: `MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0`
+Snapshot ID: `MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw`

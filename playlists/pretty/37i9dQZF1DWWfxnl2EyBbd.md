@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,747 likes - 400 songs - 1 day 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,786 likes - 400 songs - 1 day 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 |
 | 400 | [Slow Boat to China](https://open.spotify.com/track/49ZabI6v41balII6X6u3BM) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:08 |
 
-Snapshot ID: `MCxlNTY0MDVhMDNmNmVkNGMzZDhlYTZmMzVkZTI5ZWEwMGI2NmQ2MWZk`
+Snapshot ID: `MCw2ZjUzYjgyMWNlYThjNWJlYjdiM2ExMzA1Mjg5NWE0ODMwNTZkYWI3`

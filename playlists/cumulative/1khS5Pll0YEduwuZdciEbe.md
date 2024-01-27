@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Eliza McLamb
+> A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Medium Build
 
-99 songs - 6 hr 7 min
+101 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Better Somehow](https://open.spotify.com/track/1z9CCSDT7GELqrY5E30EM3) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/7EXR3xQBx2rxMcd7XaYpJZ) | 3:58 | 2023-11-03 | 2023-12-09 |
 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2023-11-03 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-11-03 |  |
-| [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-11-03 |  |
+| [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-11-03 | 2024-01-27 |
 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 | 2023-11-03 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2023-11-03 |  |
 | [Bubba](https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/3jTD1rSEBGiYzLNvOKYkua) | 3:09 | 2023-12-08 |  |
@@ -48,8 +48,9 @@
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-03 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-11-03 |  |
 | [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-17 |  |
+| [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 |  |
 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-11-03 |  |
-| [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4rTnonrrlWZsrDUUTgzHSt) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving](https://open.spotify.com/album/6YJkCoqnyVmdtPNQ9T4BP8) | 3:35 | 2023-11-03 |  |
+| [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4rTnonrrlWZsrDUUTgzHSt) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving](https://open.spotify.com/album/6YJkCoqnyVmdtPNQ9T4BP8) | 3:35 | 2023-11-03 | 2024-01-27 |
 | [Don't Fade Away](https://open.spotify.com/track/55YY7cmB3jkIJq54cC7G4W) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:22 | 2023-11-03 |  |
 | [Edith](https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 3:24 | 2023-11-10 |  |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 |  |
@@ -73,6 +74,7 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-11-03 |  |
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-03 |  |
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-12-08 | 2024-01-13 |
+| [My Friends Are Having A Hard Time \[Feat\. Manchester Orchestra\]](https://open.spotify.com/track/19CvrnbxreRJuH9G6ZMBrd) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [My Friends Are Having A Hard Time](https://open.spotify.com/album/6QHDyA3r5IrgwQzyWlpr3h) | 3:21 | 2024-01-26 |  |
 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 | 2023-12-08 |  |
 | [Never Get Enough](https://open.spotify.com/track/2NzIRMkyRe7oXpNW2P4m81) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Forever Never Cares](https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL) | 4:20 | 2023-11-17 |  |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-11-03 |  |

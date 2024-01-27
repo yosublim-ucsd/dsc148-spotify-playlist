@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 1032887,
+  "num_followers": 1032483,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzhlOTU3M2IwNWQ4ZDgwZTViYWRjOWRmNGQxYjY0MDk0NTYwYWE4",
+  "snapshot_id": "MCxjNjZiNjI3NzAwMjNlNWU2MzdhMWU3ZWY1ODFiZTU2M2FkYTk1NjQ2",
   "tracks": [
     {
       "added_at": "2023-04-11 19:14:43",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 309586,
       "name": "Ahora Quien - Salsa Version",
       "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
     },
     {
       "added_at": "2023-04-11 19:14:43",

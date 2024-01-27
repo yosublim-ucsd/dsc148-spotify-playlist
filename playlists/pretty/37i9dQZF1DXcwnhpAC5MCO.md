@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 
 > Reprenez ces hymnes tous en choeur jusqu'à votre prochaine destination
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,272 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,276 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 | 30 | [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 |
 | 31 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 32 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 |
-| 33 | [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 |
+| 33 | [Formidable](https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:33 |
 | 34 | [Une belle histoire](https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:15 |
 | 35 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 |
 | 36 | [Et moi, et moi, et moi](https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 2:55 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 | 43 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 | 44 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 |
 | 45 | [On écrit sur les murs](https://open.spotify.com/track/5LaNypZh0fQMMy70pClm8d) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Un monde meilleur](https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ) | 2:54 |
-| 46 | [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 |
+| 46 | [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 |
 | 47 | [Mirza](https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:24 |
 | 48 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
 | 49 | [Je veux](https://open.spotify.com/track/734dz1YaFITwawPpM25fSt) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Zaz](https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU) | 3:35 |
 | 50 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 |
 
-Snapshot ID: `MCw2N2JkYTAwOWRmMjAwZTM1NDU1MGFjYWIyODg3MDRmNDE3ZThjZGJl`
+Snapshot ID: `MCxiODE2M2E0OWQwMWU5NDAwZTM3MGE5ODMzZTFlMTFkMjhmMDk5MzFj`

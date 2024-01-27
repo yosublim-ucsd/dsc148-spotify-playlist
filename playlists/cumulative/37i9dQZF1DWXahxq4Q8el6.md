@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-86 songs - 4 hr 51 min
+87 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 | 2022-07-13 |  |
 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 | 2021-01-29 |  |
 | [The Blue Planet](https://open.spotify.com/track/5TLBCv54hqLxMPfVQ8JMzq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:13 | 2021-01-29 |  |
+| [The Braid](https://open.spotify.com/track/4E2bZwH1vK6bXY1XWAMQYU) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [La Tresse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HBW4VCennw5rKtdCynJyC) | 6:04 | 2024-01-26 |  |
 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 | 2021-01-29 |  |
 | [The Flight To Neverland \- From "Hook"](https://open.spotify.com/track/20g6TJr37OZ9MQjM8odlrW) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/35IxiAY1JPlCVM93bD4vMI) | 4:56 | 2021-01-29 | 2022-07-29 |
 | [The Flight To Neverland \- From "Hook"](https://open.spotify.com/track/5lRilqjJwiywcHntGRWbpx) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8) | 4:56 | 2022-07-13 |  |

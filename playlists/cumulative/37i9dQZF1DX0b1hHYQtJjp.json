@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Kelly Clarkson",
+  "description": "Recent hits and new songs from your fave artists. Cover: Justin Timberlake",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 164963,
       "name": "Bad Woman",
       "url": "https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj"
@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -10469,6 +10469,24 @@
     },
     {
       "album": {
+        "name": "I Hope You Know",
+        "url": "https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "I Hope You Know",
+      "url": "https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
@@ -12643,6 +12661,24 @@
     },
     {
       "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
+    },
+    {
+      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
       },
@@ -13920,7 +13956,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 249825,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
@@ -14487,6 +14523,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/6esPAZhJiXGKhByoXAHSEG"
       },
@@ -14948,6 +15002,24 @@
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5yifCNmASgALVJ3mlBre69"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214865,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0UrupbFijMlpNFH0hEuJnN"
     },
     {
       "album": {
@@ -19239,6 +19311,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "album": {
         "name": "Spaceman (Deluxe)",
         "url": "https://open.spotify.com/album/5Zktm8iOk8gKrQazrc9Uzh"
       },
@@ -23058,7 +23148,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194575,
       "name": "This Year",
       "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
@@ -23246,7 +23336,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"

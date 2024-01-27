@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Frank Walker",
+  "description": "The best of today's dance hits. Cover: Kiesza",
   "name": "mint Canada",
   "tracks": [
     {
@@ -5737,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "Every Body",
+        "url": "https://open.spotify.com/album/6EZZDBW4jSadUKZwNmUrL0"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379789,
+      "name": "Every Body",
+      "url": "https://open.spotify.com/track/19Q0BMjOl5DOz7ZswMFwgV"
+    },
+    {
+      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ"
       },
@@ -6224,7 +6242,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195813,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N"
@@ -6246,7 +6264,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190476,
       "name": "fault in the stars",
       "url": "https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo"
@@ -6436,7 +6454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202758,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
@@ -8108,7 +8126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185422,
       "name": "Heaven (feat. Jon Bryant)",
       "url": "https://open.spotify.com/track/15xN5qQdAT0FGZhaJSfjHm"
@@ -8138,6 +8156,28 @@
       "duration_ms": 236242,
       "name": "Heaven - Simon Doty Remix",
       "url": "https://open.spotify.com/track/5DBYUTjoF0UUBeens734db"
+    },
+    {
+      "album": {
+        "name": "Heaven Ain't Calling",
+        "url": "https://open.spotify.com/album/2ljTtssMM05i6E3zg6jgw3"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        },
+        {
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177338,
+      "name": "Heaven Ain't Calling",
+      "url": "https://open.spotify.com/track/7dQ8raH1V6AArFqJ419fZ7"
     },
     {
       "album": {
@@ -9068,7 +9108,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168160,
       "name": "Hyperdream",
       "url": "https://open.spotify.com/track/4bL2exKkLpkKveLKnIltSQ"
@@ -10102,6 +10142,28 @@
       "duration_ms": 170213,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Bad Nonno",
+          "url": "https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND"
     },
     {
       "album": {
@@ -11428,6 +11490,24 @@
       "duration_ms": 185624,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/7xOes3NXkYCVp1IE7hknek"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "album": {
@@ -15245,6 +15325,28 @@
     },
     {
       "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
         "name": "One Three Nine",
         "url": "https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi"
       },
@@ -17040,7 +17142,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160000,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/0rabGrLs3R4WOp0BB1dnLP"
@@ -17406,7 +17508,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219405,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/6aUk3zMedZd18Axi3ZO8lN"
@@ -17848,6 +17950,40 @@
       "duration_ms": 133913,
       "name": "Safe",
       "url": "https://open.spotify.com/track/7EuW5fS26s5cHZjI56FCjr"
+    },
+    {
+      "album": {
+        "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/3Rt6Hr5epP4lKXhLI802l6"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Spilulu",
+          "url": "https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j"
+        },
+        {
+          "name": "Gafacci",
+          "url": "https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG"
+        },
+        {
+          "name": "Mwamba",
+          "url": "https://open.spotify.com/artist/5VpE9q71Ar80HR6OpqSpSJ"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201389,
+      "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/7gV8ucFxnU0VR37gDg9MdT"
     },
     {
       "album": {
@@ -23464,6 +23600,28 @@
       "duration_ms": 150476,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN"
+    },
+    {
+      "album": {
+        "name": "Where Does The Light Go",
+        "url": "https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Where Does The Light Go",
+      "url": "https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal"
     },
     {
       "album": {

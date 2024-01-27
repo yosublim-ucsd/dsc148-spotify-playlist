@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,695 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,706 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Morte Do Artista](https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP) | 3:27 |
 | 80 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
 
-Snapshot ID: `MCxhZjUzNWI2ZjA3M2M4ZTIyZmEwNzcwZjk3YTBjOWJmMDEyNDY5NWU4`
+Snapshot ID: `MCw4MmIwYWEzM2MxYmJlZTE3YWE5MjBlN2EwOWUzYWU2ZWQzOTc1Yjg5`

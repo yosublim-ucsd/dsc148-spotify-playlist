@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,783 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,010 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 22 | [Coco](https://open.spotify.com/track/68UUvouqmZQk002KIUq5O6) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Coco](https://open.spotify.com/album/0eoghwWb7oDZW09yCNjyq0) | 2:57 |
 | 23 | [Odakle Sam Ja](https://open.spotify.com/track/0uAL0BS2rHCH9BwqYVnhp3) | [Coby](https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F), [Rimski](https://open.spotify.com/artist/431KEVcAHxXyC94cgMy9MZ) | [Odakle Sam Ja](https://open.spotify.com/album/2JeA3zDZqUedykLdgEezos) | 3:13 |
 | 24 | [Whoopty](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE) | 2:03 |
-| 25 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
+| 25 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 |
 | 26 | [Bebo](https://open.spotify.com/track/3AXhnRH7o4dX8RpMPCqQcV) | [Nucci](https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze) | [Bebo](https://open.spotify.com/album/3oFYYM9JZ0fhC8c7SDj9iW) | 2:41 |
 | 27 | [Padam](https://open.spotify.com/track/74kvy2LMpWYaK99CxlK7fQ) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG), [Baby its Pablo](https://open.spotify.com/artist/4B3J9LwUZpJmIT6tdO9XnD) | [Padam](https://open.spotify.com/album/6Oe0GtqhVTiSZb14cP3k3M) | 2:15 |
 | 28 | [Dead People](https://open.spotify.com/track/2pmYug1wWd0WoK5tpbsbKL) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Roze](https://open.spotify.com/track/0JNPCThIHsG8zphORbTR16) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/3F380dBX1laVxluSsl2Zf9) | 3:04 |
 | 50 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 
-Snapshot ID: `MCw2MjgwZGM5OWQxODUyOTUxYjhjMWMzNzg3OTI5ZGEzMzg3OTY4ZjI4`
+Snapshot ID: `MCwzNDllM2JhOGZkNjdmNjYyMTBlYjFjNTY0ZjM5MzU1ZDA5NTg3YTc5`

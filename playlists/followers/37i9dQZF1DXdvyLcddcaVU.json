@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 460925,
+  "2024-01-27": 461327,
   "date_first_scraped": "2023-07-29",
   "description": "It's murder on the dancefloor  \ud83c\udf46 #fyp\n",
   "name": "t'as la ref ?",
@@ -1923,10 +1923,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
+    },
+    {
+      "album": {
+        "name": "French Pop",
+        "url": "https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214677,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb"
     },
     {
       "album": {

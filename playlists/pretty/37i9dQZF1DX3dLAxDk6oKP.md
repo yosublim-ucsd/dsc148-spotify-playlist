@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,617 likes - 140 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,743 likes - 140 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 130 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 |
 | 131 | [Mi Gusto, Mi Dinero](https://open.spotify.com/track/6kHFsaoRFgBkudAKgOvcdQ) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Delux 12](https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb) | 3:14 |
 | 132 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
-| 133 | [Guerras En El Barrio](https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0) | [Código Rojo](https://open.spotify.com/artist/5MtON3xriFgVSy9ZrkEtqy), [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO), [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Guerras En El Barrio](https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD) | 4:00 |
+| 133 | [Guerras en el Barrio](https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR), [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO), [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Guerras en el Barrio](https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD) | 4:00 |
 | 134 | [Pueblo Querido](https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pueblo Querido](https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT) | 2:33 |
 | 135 | [Soy el Ratón \- En Vivo](https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6) | [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Soy el Raton \(En Vivo\)](https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW) | 2:55 |
 | 136 | [Lo Que Les Falta](https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Lo Que Les Falta](https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP) | 2:14 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 139 | [Vida Rencorosa](https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Vida Rencorosa](https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D) | 3:00 |
 | 140 | [El Pelo Chino](https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Pelo Chino](https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7) | 3:00 |
 
-Snapshot ID: `MCw1YjllNGQyNmRlMWEzMjFlYTRiMWE0ZDcyM2FmYmQ1NzBiNzdjN2I4`
+Snapshot ID: `MCxkMWJkYmIyOGYyN2IwZGQyYTZhYmM1YzU2YjE5MWU0YTVjNmM3NWI5`

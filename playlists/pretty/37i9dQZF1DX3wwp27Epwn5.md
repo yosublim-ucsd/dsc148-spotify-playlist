@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,710 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,670 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 50 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 
-Snapshot ID: `MCxhM2ZiMjZlOTk0OGM5MzczMTUxYzc4YjNlNjNjYzIyNGZiZTExZThl`
+Snapshot ID: `MCwzYTU5NzBhNTA5NDhkOWU3ZDRkN2ZiNjc2YTE2ZTE5NDM1YTBkM2Nj`

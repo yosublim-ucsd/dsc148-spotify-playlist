@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,006 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,884 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Under My Skin](https://open.spotify.com/track/0uXhQHd0wYV9gvXyMcpnQj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 2:58 |
 | 150 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 |
 
-Snapshot ID: `MCwwYjZkZDg2OWUxZTQyN2IwY2U4ZWM2YWIzMDNiOTBlMjQ2ZTJkZmYx`
+Snapshot ID: `MCxjZWY0YTlkYTMzMGFhNzYzZWYzZDhiODMzNjBiMDg3NjVkNmU0NTg2`

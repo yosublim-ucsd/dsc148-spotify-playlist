@@ -4,7 +4,7 @@
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Ocevne
 
-96 songs - 4 hr 43 min
+97 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [P.U.O.](https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:30 | 2023-09-28 | 2023-11-17 |
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-09-28 | 2023-12-01 |
 | [Pansement](https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [East\-Blue \(Gold edition\)](https://open.spotify.com/album/7CCmqM36JQ4WS33ZDfm3zk) | 2:33 | 2024-01-18 |  |
-| [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 |  |
+| [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 | 2024-01-27 |
+| [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 | 2024-01-25 |  |
 | [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 | 2023-12-08 | 2024-01-26 |
 | [PRADA's BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/track/6q8GWj1qGBieT4fDcLV1Mo) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [PRADA’S BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/album/1sTBYpKRWhZCIAcX5RjztP) | 3:14 | 2023-09-28 | 2023-10-20 |
 | [Que la nuit](https://open.spotify.com/track/5z2n55eaoZSM7KipCmIHa4) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Que la nuit](https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94) | 2:39 | 2023-11-09 | 2023-12-01 |

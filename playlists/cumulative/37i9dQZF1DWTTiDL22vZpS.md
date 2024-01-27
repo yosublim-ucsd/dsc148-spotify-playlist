@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-108 songs - 6 hr 48 min
+109 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-11-22 |  |
 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 | 2022-11-22 |  |
 | [Bajo las Luces](https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Bajo las Luces](https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC) | 3:32 | 2022-11-22 |  |
-| [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 | 2023-03-03 | 2023-09-30 |
+| [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 | 2023-03-03 |  |
 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 | 2022-11-22 |  |
 | [Canyufilit](https://open.spotify.com/track/61agIVNg8AM0FvTdK8kCTW) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 1:49 | 2023-05-12 | 2023-07-03 |
 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 | 2023-09-01 |  |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-11-22 | 2023-09-16 |
 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 | 2023-03-03 | 2023-05-17 |
 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-04-13 | 2023-08-30 |
+| [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 | 2024-01-26 |  |
 | [comoestasmiamor <3](https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1) | 2:59 | 2023-09-01 | 2023-10-27 |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-24 |  |
 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 | 2022-11-22 |  |
@@ -67,7 +68,7 @@
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-13 | 2023-06-24 |
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 |  |
 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 | 2022-11-22 |  |
-| [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 | 2022-12-02 | 2023-04-23 |
+| [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 | 2022-12-02 |  |
 | [Love](https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Love Paraíso](https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt) | 4:54 | 2022-11-22 |  |
 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 | 2023-04-21 | 2023-06-16 |
 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 | 2022-11-22 |  |
@@ -101,7 +102,7 @@
 | [Te Vas](https://open.spotify.com/track/3gyGxfzR3OK2PcjfGELyvI) | [AMC Funk](https://open.spotify.com/artist/6ZYGRZZ5H6yq9EsCRiBrUj) | [Te Vas \- Single](https://open.spotify.com/album/0su2ILpysKqx37lnLHgCDM) | 4:06 | 2022-11-22 | 2022-12-03 |
 | [Templos](https://open.spotify.com/track/08nCggIJ1q30XYxkktE2uT) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Templos](https://open.spotify.com/album/2l1mbUPYql0jTcByqFrqnu) | 4:43 | 2022-11-22 | 2023-02-02 |
 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 | 2023-06-30 |  |
-| [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 | 2023-11-17 | 2024-01-02 |
+| [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 | 2023-11-17 |  |
 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 | 2022-11-22 | 2023-05-01 |
 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 | 2022-11-22 |  |
 | [Tu Veneno](https://open.spotify.com/track/0MzNLLx5SxavXd2eoRrpZC) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Tu Veneno](https://open.spotify.com/album/1IsxF9dkpu7ZwV1LCndiXc) | 3:19 | 2023-02-10 | 2023-02-14 |
@@ -114,7 +115,7 @@
 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 | 2023-05-05 | 2023-09-04 |
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2022-12-02 |  |
 | [Young Girl](https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Funk Your Bones \(Side B\)](https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT) | 3:16 | 2022-11-22 |  |
-| [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 | 2022-11-22 | 2023-12-11 |
+| [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 | 2022-11-22 |  |
 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 | 2022-12-02 |  |
 
 \*This playlist was first scraped on 2022-11-22. Prior content cannot be recovered.

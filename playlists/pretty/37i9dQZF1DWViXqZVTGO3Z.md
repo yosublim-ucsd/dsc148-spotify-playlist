@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,946 likes - 150 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,912 likes - 150 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Mothers and Shepherds](https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Mothers and Shepherds](https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4) | 5:02 |
 | 150 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 |
 
-Snapshot ID: `MCwxYmY1NmFjYzEwMzBkZDY1OWQwNGVhMzg5YzRlNjczN2M4OWNiODdk`
+Snapshot ID: `MCw1NTU1YjdmMTI4YzNhNzk2MTk0NTQ5NGIwZTk0M2RmZjg5YmU3YmZh`

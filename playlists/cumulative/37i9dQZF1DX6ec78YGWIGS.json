@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Ptazeta & Lali",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. ",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 163043,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/23SHCMa4ploHHZHqNBK23D"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157200,
       "name": "Hundi\u00e9ndome",
       "url": "https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC"
@@ -1912,6 +1912,28 @@
       "duration_ms": 161727,
       "name": "Idealizar",
       "url": "https://open.spotify.com/track/5StAfgJRRAOiOvkys7qgBs"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "album": {
@@ -2546,6 +2568,24 @@
       "duration_ms": 167419,
       "name": "L\u00e1grimas | CROSSOVER #4",
       "url": "https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb"
+    },
+    {
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
       "album": {
@@ -3906,7 +3946,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199591,
       "name": "SINCERAMENTE",
       "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
@@ -4144,6 +4184,24 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "TQMQA",
+      "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"
     },
     {
       "album": {

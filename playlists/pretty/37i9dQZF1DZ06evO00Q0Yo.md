@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,722 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,798 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 26 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 27 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 |
 | 28 | [Pockets Bigger](https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 1:46 |
-| 29 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
-| 30 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 |
+| 29 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 |
+| 30 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
 | 31 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 32 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 |
 | 33 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Cherry \- Remix](https://open.spotify.com/track/1QsxMw8pGrJ9juETzspO3g) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Cherry \(Remix\)](https://open.spotify.com/album/1ojIoYoDIciIGMgaSEs2Rr) | 2:12 |
 | 50 | [Buying All Black \(feat\. Flo Milli & PJ\)](https://open.spotify.com/track/10ObGiDAN6J2k60oeQ0IG8) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Buying All Black](https://open.spotify.com/album/2kao7DqNu09OPPx0djcVCo) | 2:42 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBiZjNkMmRmYmU5ZDY1YThjOGZiOWIwYjg4YWJhNmQxYw==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDAxZmM5ODVmYjIzOGViZWVhNzQwZjhmMGE0ZGZiODcyMw==`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 60934,
+  "2024-01-27": 61003,
   "date_first_scraped": "2022-09-22",
   "description": "Amapiano tracks to fuel your beast mode!",
   "name": "Beast Mode Amapiano",
@@ -33,7 +33,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 432851,
       "name": "10111 (feat. M.J, Djy Ma'Ten & Matute Boy)",
       "url": "https://open.spotify.com/track/21pRTkAdSPCP3tAn7ECYzs"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 304613,
       "name": "298",
       "url": "https://open.spotify.com/track/06WiZEUgQIleFoZlQFou1y"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 413493,
       "name": "Amaneighbour",
       "url": "https://open.spotify.com/track/0mOoPsb9xZTzFqKLLqvkjL"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiq & Ftears & Madumane)",
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 275105,
       "name": "Baja Ko Pele",
       "url": "https://open.spotify.com/track/6RzTv3JiPndZpv0Lq3kGHO"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 358400,
       "name": "Bambelela",
       "url": "https://open.spotify.com/track/6FJOlQk0XSCWRs8NorJik1"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 395180,
       "name": "Bodene",
       "url": "https://open.spotify.com/track/2YJtekYbkUE6QIqLIn8Pz0"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 325691,
       "name": "Catalia",
       "url": "https://open.spotify.com/track/2PgDbeuhqT2vY6fOe15PDf"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 379285,
       "name": "Dipatje Tsa Felo (feat. Daliwonga)",
       "url": "https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb"
@@ -715,10 +715,32 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 297000,
       "name": "Ede Weri (Srananpiano)",
       "url": "https://open.spotify.com/track/51XMfEXGLn4kIuhcZ0xZYA"
+    },
+    {
+      "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
       "album": {
@@ -943,7 +965,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 377142,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1HNDRSH8IPUc58fXrKHpP6"
@@ -991,7 +1013,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 462357,
       "name": "Gqoz Gqoz",
       "url": "https://open.spotify.com/track/4Hm1wkKAh7b2GI2yC6sgi0"
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 369475,
       "name": "GUPTA",
       "url": "https://open.spotify.com/track/3ZDWlHNxPkVcjhRWJUvPz0"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 385714,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
@@ -1259,7 +1281,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 491258,
       "name": "Internal (Mr Bassplay)",
       "url": "https://open.spotify.com/track/4iJzHasoWssPMFvCE3MPK0"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 372631,
       "name": "Isphithiphithi",
       "url": "https://open.spotify.com/track/7GHKr2Fg86xWObxTnz26vK"
@@ -1315,7 +1337,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 326703,
       "name": "Iyamemeza",
       "url": "https://open.spotify.com/track/09mer8EOsqtdQ43Dqsm54m"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 277428,
       "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
       "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
@@ -1421,7 +1443,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 445714,
       "name": "Izolo (feat. Madumane, Mpura & Daliwonga)",
       "url": "https://open.spotify.com/track/2lM7orFD058wiAiBixzffm"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 355033,
       "name": "John Vuli Gate (feat. Ntosh Gazi & Colano)",
       "url": "https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC"
@@ -1621,7 +1643,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 416321,
       "name": "John Wick",
       "url": "https://open.spotify.com/track/4nLJnkaFq9VNYVz1SxJsXi"
@@ -1663,6 +1685,44 @@
       "duration_ms": 378214,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf"
+    },
+    {
+      "album": {
+        "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+        "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Massive95k",
+          "url": "https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1"
+        },
+        {
+          "name": "Dj Motee",
+          "url": "https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p"
+        },
+        {
+          "name": "L4desh",
+          "url": "https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF"
+        },
+        {
+          "name": "Turnupkiid",
+          "url": "https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347148,
+      "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
+      "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
     },
     {
       "album": {
@@ -1759,7 +1819,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 433136,
       "name": "Ke Star (feat. Vigro Deep)",
       "url": "https://open.spotify.com/track/7uhOIYLVWbBZ6ISBoyiMrl"
@@ -2049,7 +2109,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 344402,
       "name": "Location",
       "url": "https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is"
@@ -2109,7 +2169,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 374961,
       "name": "Lorch (feat. Semi Tee, Miano & Kammu Dee)",
       "url": "https://open.spotify.com/track/0HqMsg5QmooAII1GZUvVHA"
@@ -2147,7 +2207,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 355000,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/380AIR4IYW4Ni3O3shTXa2"
@@ -2287,7 +2347,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 378958,
       "name": "Mmapula",
       "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
@@ -2377,7 +2437,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 382039,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/13O2tE5Z6l24mcAR5OdsGk"
@@ -2511,7 +2571,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 402896,
       "name": "Nini Nannini (feat. Daliwonga & Howard Gomba)",
       "url": "https://open.spotify.com/track/3MqIKE7r4Pjag6xaEgOHlD"
@@ -2603,7 +2663,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 317486,
       "name": "Pele Pele",
       "url": "https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE"
@@ -2671,7 +2731,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 410066,
       "name": "Possible",
       "url": "https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7"
@@ -2767,7 +2827,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 406160,
       "name": "Salary Salary",
       "url": "https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj"
@@ -2853,7 +2913,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 412057,
       "name": "Sandton (feat. Focalistic, Kamo Mphela & Bontle Smith)",
       "url": "https://open.spotify.com/track/6VIlerY0Emf3oYWIVBIsMN"
@@ -2983,7 +3043,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 352626,
       "name": "Shaka Zulu (feat. Young Stunna)",
       "url": "https://open.spotify.com/track/77pVhq7KrUYE3ZRd3XUi9F"
@@ -3039,7 +3099,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 377182,
       "name": "Sithi Shwi (feat. Big Zulu, DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
@@ -3105,7 +3165,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 386043,
       "name": "Stolen Goods",
       "url": "https://open.spotify.com/track/2cZAgtMdUNsbrmS6wpSu8Q"
@@ -3205,7 +3265,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -3231,7 +3291,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 378978,
       "name": "Tetema",
       "url": "https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC"
@@ -3309,7 +3369,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 410586,
       "name": "The Fxckin Injury (feat. Mellow & Sleazy & DJ SOL K)",
       "url": "https://open.spotify.com/track/2B1NVmSoy7g9JAn83YaycC"
@@ -3339,7 +3399,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 407820,
       "name": "Tobetsa Remake (feat. Focalistic, Daliwonga & ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
@@ -3859,10 +3919,36 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 391186,
       "name": "Woza",
       "url": "https://open.spotify.com/track/3830LcxTUk1zTWA51f5xfF"
+    },
+    {
+      "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     },
     {
       "album": {
@@ -3889,7 +3975,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 214408,
       "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"

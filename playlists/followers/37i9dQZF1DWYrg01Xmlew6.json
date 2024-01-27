@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 183347,
+  "2024-01-27": 183377,
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Vale Lambo in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Nicola Siciliano in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -777,7 +777,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157168,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
@@ -1051,6 +1051,24 @@
       "duration_ms": 136201,
       "name": "CLEAN",
       "url": "https://open.spotify.com/track/2v71zuC2m9gItAYrXWTFcn"
+    },
+    {
+      "album": {
+        "name": "Colpa Mia",
+        "url": "https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174124,
+      "name": "Colpa Mia",
+      "url": "https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG"
     },
     {
       "album": {
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 132467,
       "name": "GUNDAM",
       "url": "https://open.spotify.com/track/1yEACt2XZhwPNQtt8U8jkT"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183331,
       "name": "HORSE DANCE (feat. Yung Snapp, DrefGold, Side Baby)",
       "url": "https://open.spotify.com/track/3S4tSMSUWE3EA5jKy5Vwwh"
@@ -4076,6 +4094,28 @@
     },
     {
       "album": {
+        "name": "Plaza Freestyle",
+        "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88363,
+      "name": "Plaza Freestyle",
+      "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
+    },
+    {
+      "album": {
         "name": "PNT #1 - Punti di vista",
         "url": "https://open.spotify.com/album/12jRhgG3sfQQtIgjVYfSaB"
       },
@@ -4195,7 +4235,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 158181,
       "name": "Porta Una Rosa (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/0DEonV559DYbtSPEvw7VtD"
@@ -4995,7 +5035,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 160000,
       "name": "Soprano",
       "url": "https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy"
@@ -5625,7 +5665,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 138231,
       "name": "TUTT' APPOST'",
       "url": "https://open.spotify.com/track/1x4c3uX52ae6HDhRjbLbyK"
@@ -5701,7 +5741,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126588,
       "name": "Uh Ah Ah",
       "url": "https://open.spotify.com/track/1JDIwqwmJZkMyekXsyjCHq"

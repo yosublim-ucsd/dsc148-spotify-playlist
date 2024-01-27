@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,637 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,625 likes - 120 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 119 | [Buscando Al Rey](https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Lors](https://open.spotify.com/artist/3SuHjvLOEQDs3a7HaGKJN8), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Da' Ministry](https://open.spotify.com/artist/2kHUJ4qirJxS72oSMvfqMd) | [Buscando Al Rey](https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx) | 4:32 |
 | 120 | [Es Navidad \(O Holy Night\)](https://open.spotify.com/track/1RVCH1Vml52aqeZUuZPIr6) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Ekos](https://open.spotify.com/artist/1Zr4c9yNeLpBcUZUjfBgQQ), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Es Navidad \(O Holy Night\)](https://open.spotify.com/album/2nkkkt4JVY1gxY9MgIbCiq) | 3:48 |
 
-Snapshot ID: `MCxjN2E5M2EyM2MxYzQ4M2FmZWFhNzc3YTA1M2UwZmQ3MWNjMmY1OTFm`
+Snapshot ID: `MCxiYjAwN2NkYTAxNTFkNmJjZDFlMTIxMDc5YzQzNmY4ZDRmZmEzN2Q0`

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-259 songs - 15 hr 16 min
+260 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |
 | [Higher](https://open.spotify.com/track/2T75yzrR6z0ciGATKZUaBA) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:15 | 2023-05-12 |  |
 | [Higher](https://open.spotify.com/track/3MzJt1QR7YyJAKje1elWUY) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36) | 3:15 | 2022-01-28 | 2023-05-18 |
+| [Hold On Hope \(with Eric Church\)](https://open.spotify.com/track/5wXfwmtAOe8Rv0WiSgFUW0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hold On Hope \(with Eric Church\)](https://open.spotify.com/album/6B5cFxr38RU2w3FlAMRIhs) | 3:32 | 2024-01-26 |  |
 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 | 2021-10-15 |  |
 | [Holes in the Wall \(feat\. Tracy Byrd\)](https://open.spotify.com/track/68juMHiJPLVDit4W3WmsP1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Hindsight 2020, Vol\. 2: Price of Fame](https://open.spotify.com/album/1SYBN8T25jAmIstn5swHeA) | 2:59 | 2021-10-15 | 2022-09-21 |
 | [Home Run](https://open.spotify.com/track/3XZyu7QgInEok7mk0lTm9Z) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Good Day for Living](https://open.spotify.com/album/0S2KcWY0lkBv3D6YPryaxc) | 3:05 | 2023-08-04 |  |

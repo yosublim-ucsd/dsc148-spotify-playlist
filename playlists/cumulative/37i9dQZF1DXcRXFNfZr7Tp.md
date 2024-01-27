@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Taylor Swift
+> Current favorites and exciting new music\. Cover: Kygo & Ava Max
 
 1,097 songs - 2 day 8 hr 41 min
 

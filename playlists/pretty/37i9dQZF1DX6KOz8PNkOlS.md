@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,832 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,017 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Sweet Lie](https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Modern World](https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p) | 4:42 |
 | 100 | [Sweetness \- Dub Mix by Andras](https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu) | [Sweet Whirl](https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu), [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Sweetness Remixes](https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb) | 3:26 |
 
-Snapshot ID: `MCw1ODg3N2JkZDdmNTE1N2ExOWFmZTkwMWEwYzdmMzM1NjA2NDNhOTMz`
+Snapshot ID: `MCw2ZDFjYzhjZmQxYmI5ZjcwZDc0YWNmMjNhYWRlZmRlODc5MWM0OWIx`

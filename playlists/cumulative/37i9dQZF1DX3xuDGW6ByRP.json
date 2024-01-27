@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 146000,
       "name": "CINZEIRO",
       "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197877,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
@@ -808,6 +808,24 @@
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j"
     },
     {
       "album": {
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 173576,
       "name": "Keep It Tucked",
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
@@ -1330,6 +1348,24 @@
       "duration_ms": 134382,
       "name": "Legado",
       "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
+    },
+    {
+      "album": {
+        "name": "lentamente",
+        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199611,
+      "name": "lentamente",
+      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
     },
     {
       "album": {
@@ -2474,6 +2510,28 @@
       "duration_ms": 216997,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
+    },
+    {
+      "album": {
+        "name": "Vampira (Remix)",
+        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178848,
+      "name": "Vampira - Remix",
+      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
     },
     {
       "album": {

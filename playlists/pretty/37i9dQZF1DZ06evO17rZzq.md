@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,822 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 22 | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
 | 23 | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw) | 2:33 |
 | 24 | [Toxic Chocolate](https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:28 |
-| 25 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 |
+| 25 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
 | 26 | [Street Nigga \(feat\. Kaliii\)](https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 2:35 |
 | 27 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
 | 28 | [Ms\. Lick Back](https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:08 |
-| 29 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
+| 29 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 |
 | 30 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
 | 31 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
 | 32 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 45 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
 | 46 | [Rockers Step Like Kelly](https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 2:58 |
 | 47 | [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 |
-| 48 | [Espalmador \- Original Mix](https://open.spotify.com/track/7nJCvPKWpTNIun09HK0Ojp) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 7:24 |
-| 49 | [Binary Tertials](https://open.spotify.com/track/4gdjjcgEYjDLs7R4omwjZ3) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 5:20 |
-| 50 | [Junior Bunny](https://open.spotify.com/track/3AWSj0PitVg617wGbqpW70) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 4:19 |
+| 48 | [Espardell \- Original Mix](https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:40 |
+| 49 | [Junior Bunny](https://open.spotify.com/track/3AWSj0PitVg617wGbqpW70) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 4:19 |
+| 50 | [Espalmador \- Original Mix](https://open.spotify.com/track/7nJCvPKWpTNIun09HK0Ojp) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 7:24 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBiNmYxMGQyZjNhZjI1OWUwYTM5ZTkwZmZiYmQ2ZGZiZQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDAzNmM3MWM2OGNkMTM5NWNjMGU3YzExOTJlZDBhMDY2ZA==`

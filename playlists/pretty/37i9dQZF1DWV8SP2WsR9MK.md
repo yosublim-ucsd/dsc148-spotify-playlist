@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,230 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,298 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Never Will I Marry](https://open.spotify.com/track/5U5dQkH5I16AkPx0OrR9JQ) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/1XFiNrteRnlPbQfSYCITKb) | 5:54 |
 | 100 | [For Toddlers Only](https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Sweet Georgia Peach](https://open.spotify.com/album/5uip0ZOqDmZb6GqFfLpqOw) | 5:18 |
 
-Snapshot ID: `MCxmMDg2YWNkZjZiMWE4OWFlNTMyNDkxNmM0Njg3OTQzM2QyYTg4YmJk`
+Snapshot ID: `MCwxMjYxYjUxMWM1OGZlODZlYzMyYzUyZjc3YjIzNmFhNGE3MzVhZWU1`

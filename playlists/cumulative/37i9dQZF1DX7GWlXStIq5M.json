@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT",
   "name": "Palco POP",
   "tracks": [
     {
@@ -230,6 +230,32 @@
       "duration_ms": 164000,
       "name": "777-666",
       "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
+    },
+    {
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157140,
+      "name": "7am (feat. Vit\u00e3o)",
+      "url": "https://open.spotify.com/track/4j1ofdMqxZFDXknkrZCdTl"
     },
     {
       "album": {
@@ -1592,10 +1618,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207500,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "album": {
+        "name": "Bandida N\u00e3o, Solteira",
+        "url": "https://open.spotify.com/album/1eEyYWbAegi9oJ0DmgrkOd"
+      },
+      "artists": [
+        {
+          "name": "ANALU",
+          "url": "https://open.spotify.com/artist/6O7SmUBylp6ZvR9oJ7rNQW"
+        },
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147549,
+      "name": "Bandida N\u00e3o, Solteira",
+      "url": "https://open.spotify.com/track/28ejkyhOfL3SaBg7MrkIFJ"
     },
     {
       "album": {
@@ -2000,7 +2048,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136806,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
@@ -3341,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Deixa Acontecer",
+        "url": "https://open.spotify.com/album/0ptqouE0Ph1o1aqoxz4iiW"
+      },
+      "artists": [
+        {
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165883,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/6UIiNaaOhQ19K2U8Tq61ge"
+    },
+    {
+      "album": {
         "name": "Clube dos Cora\u00e7\u00f5es Partidos",
         "url": "https://open.spotify.com/album/6AVbmvq2Xau0692kLrF3be"
       },
@@ -3574,7 +3640,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157565,
       "name": "Desfa\u00e7o",
       "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
@@ -4248,7 +4314,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166315,
       "name": "ESTRANHO",
       "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
@@ -7543,6 +7609,32 @@
     },
     {
       "album": {
+        "name": "mentalmente",
+        "url": "https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "GCARVALHO",
+          "url": "https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175471,
+      "name": "mentalmente",
+      "url": "https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9"
+    },
+    {
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
@@ -10496,6 +10588,24 @@
       "duration_ms": 165973,
       "name": "Praya",
       "url": "https://open.spotify.com/track/5yXjOmgTVSE3zXP1B3WP4F"
+    },
+    {
+      "album": {
+        "name": "PREPARADA",
+        "url": "https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143990,
+      "name": "PREPARADA",
+      "url": "https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE"
     },
     {
       "album": {
@@ -13606,7 +13716,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 147272,
       "name": "Troco",
       "url": "https://open.spotify.com/track/0tf2VNO7BR4zqQxkfdzlj7"

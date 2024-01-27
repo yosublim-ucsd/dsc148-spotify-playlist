@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-127 songs - 5 hr 46 min
+128 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Space Friends](https://open.spotify.com/track/31GeJjJyIVRNiW9AL8fERw) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/4RWxjJqoAP90QbgzkQ3uyg) | 1:51 | 2021-12-06 |  |
 | [Space Mountain \- From "Space Mountain"](https://open.spotify.com/track/3ORWL1CHflFhOVxd7FJoi1) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 3:10 | 2021-12-06 |  |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2023-11-08 |  |
+| [Space Shuttle](https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Tobie](https://open.spotify.com/artist/4v7MbkhfDQZYPXBDBSKkhw), [Kate Steinway](https://open.spotify.com/artist/0K2OWWGyo4fnLJnVY41M6l) | [Space Shuttle](https://open.spotify.com/album/70LcL2PWtfJyJGT2EbzOGX) | 3:15 | 2024-01-26 |  |
 | [Space!](https://open.spotify.com/track/0NGdowggVZ627JzBWYzZ4a) | [Eddy J Lemberger](https://open.spotify.com/artist/2AFZgHsZvi72YWZs4ZhIxS) | [Eddy J's Fun Songs For Kids!](https://open.spotify.com/album/5rO7RsFvJl75cahlNIOO3T) | 3:58 | 2021-12-06 |  |
 | [Spaceman Jam](https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 | 2021-12-06 |  |
 | [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 | 2021-12-06 | 2022-10-25 |

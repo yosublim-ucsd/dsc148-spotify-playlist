@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
+  "description": "Today's Bluegrass and old time favorites. Cover: Sister Sadie",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178182,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253058,
       "name": "Anna Marie (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 124013,
       "name": "Buck Creek Girls",
       "url": "https://open.spotify.com/track/29pFQh9n5R0wz3jlBgtlSC"
@@ -1358,6 +1358,32 @@
       "duration_ms": 178507,
       "name": "Can't Hold Me Down",
       "url": "https://open.spotify.com/track/0hBkrp57ca4CIDqQb2gSy8"
+    },
+    {
+      "album": {
+        "name": "Can't Live Without Love",
+        "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Can't Live Without Love",
+      "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
       "album": {
@@ -1582,7 +1608,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212480,
       "name": "City That Drowned",
       "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
@@ -1658,6 +1684,24 @@
       "duration_ms": 177907,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/1zt4gLJditzsDxaY9tzLIh"
+    },
+    {
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "album": {
@@ -1891,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Delta Queen",
+        "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233946,
+      "name": "Delta Queen",
+      "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
+    },
+    {
+      "album": {
         "name": "Desert Flowers",
         "url": "https://open.spotify.com/album/0kKvq0CejAOdMreoJSvsvV"
       },
@@ -2021,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Banjoland",
+        "url": "https://open.spotify.com/album/5YvH4W9anJuW0ADQExvUkR"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289388,
+      "name": "Don't Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/3PYlZPKBHqnEw9VOoK0glB"
+    },
+    {
+      "album": {
         "name": "Ink, Dust & Luck",
         "url": "https://open.spotify.com/album/3PXlhFmgMiY4qXiQbBI5PJ"
       },
@@ -2050,7 +2130,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
@@ -2258,6 +2338,28 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
+    },
+    {
+      "album": {
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
+      },
+      "artists": [
+        {
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
     },
     {
       "album": {
@@ -2473,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "album": {
         "name": "Fall In Tennessee",
         "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
@@ -2524,7 +2648,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160525,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
@@ -2564,7 +2688,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186709,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
@@ -2716,7 +2840,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
@@ -2754,7 +2878,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
@@ -2868,6 +2992,28 @@
       "duration_ms": 216542,
       "name": "Gamblers & Gypsies",
       "url": "https://open.spotify.com/track/0PYBy1h8hVeiripF1Q3knS"
+    },
+    {
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "album": {
@@ -3380,7 +3526,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 170386,
       "name": "Hard Times Come Again No More",
       "url": "https://open.spotify.com/track/6SBQvkVex8EiCuOhojVaVw"
@@ -3424,6 +3570,24 @@
       "duration_ms": 213894,
       "name": "Harefoot's Retreat",
       "url": "https://open.spotify.com/track/5KLsa6pymi48DUERMmEtfU"
+    },
+    {
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "album": {
@@ -3528,7 +3692,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 262407,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq"
@@ -4066,7 +4230,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 269663,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
@@ -4218,7 +4382,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
@@ -4236,7 +4400,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 213826,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR"
@@ -4418,7 +4582,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 248760,
       "name": "In the Next Life",
       "url": "https://open.spotify.com/track/7zcuGv5rkuxFuKeDK6jNoJ"
@@ -4705,6 +4869,24 @@
     },
     {
       "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -4720,7 +4902,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 231269,
       "name": "Kentucky Morning",
       "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"
@@ -4760,7 +4942,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180687,
       "name": "Keys",
       "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
@@ -4796,7 +4978,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -4884,6 +5066,28 @@
       "duration_ms": 216229,
       "name": "Lies & Money",
       "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
+    },
+    {
+      "album": {
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "album": {
@@ -4996,7 +5200,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 143929,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/6Ve06auIooixlCcp145XKp"
@@ -5116,7 +5320,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
@@ -5152,7 +5356,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
@@ -5336,7 +5540,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
@@ -6038,7 +6242,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
@@ -6074,7 +6278,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185430,
       "name": "Oh Sarah",
       "url": "https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC"
@@ -6092,7 +6296,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
@@ -7518,7 +7722,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Snake Charmer",
       "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
@@ -8106,7 +8310,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
@@ -8288,7 +8492,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 237186,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
@@ -8400,6 +8604,28 @@
       "duration_ms": 267213,
       "name": "The Hills of Mexico (Live)",
       "url": "https://open.spotify.com/track/31UAWm9VeYUMTdbrSJkfXW"
+    },
+    {
+      "album": {
+        "name": "The IPA Song",
+        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174381,
+      "name": "The IPA Song",
+      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
     },
     {
       "album": {
@@ -8974,7 +9200,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172160,
       "name": "Turn Me into a Diamond",
       "url": "https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF"
@@ -9194,6 +9420,24 @@
       "duration_ms": 206239,
       "name": "We Bring the Light",
       "url": "https://open.spotify.com/track/0Qxb8LCHHeCfOGnQ9Qg37q"
+    },
+    {
+      "album": {
+        "name": "We'll All Drink Money",
+        "url": "https://open.spotify.com/album/7y2k6ZKShkeWxDXSMmAxVa"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "We'll All Drink Money",
+      "url": "https://open.spotify.com/track/0zKcrQGmur0QqluRIRuU91"
     },
     {
       "album": {
@@ -9563,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Silence In These Walls",
+        "url": "https://open.spotify.com/album/3BeB7TaifMP0twTfTgZ3jD"
+      },
+      "artists": [
+        {
+          "name": "Flatt Lonesome",
+          "url": "https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231899,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/2XAmK0FylCRoxCbFbDEFcR"
+    },
+    {
+      "album": {
         "name": "Everyone A Song, Vol. 2",
         "url": "https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P"
       },
@@ -9664,7 +9926,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 241013,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
@@ -9768,7 +10030,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 223404,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
@@ -9804,7 +10066,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
@@ -9858,7 +10120,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Winter's Gone",
       "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"

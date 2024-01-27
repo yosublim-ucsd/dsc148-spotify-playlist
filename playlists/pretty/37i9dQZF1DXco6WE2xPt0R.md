@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,634 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,678 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 95 | [Wait On Me Pt\. 2 / Remix](https://open.spotify.com/track/4WvBRYAI9k7BS2lk2Q1JsK) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [GeorgiaReign](https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI) | [From Lust Till Dawn](https://open.spotify.com/album/4ZLdzPexpu7tb068zRz503) | 2:37 |
 | 96 | [Look At You](https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO) | [Keeyen Martin](https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Look At You](https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ) | 2:45 |
 | 97 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 |
-| 98 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 |
-| 99 | [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 |
+| 98 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
+| 99 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 |
 | 100 | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/track/4YgSbiKEci7QjkOT0oo7zB) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Back 2 Love](https://open.spotify.com/album/5aPQUMh6FT9qZA97ZH6QZH) | 4:00 |
 
-Snapshot ID: `MCwzMDUyZTA4MTJhYzAwMDYwNzE4NjAyZWNkNTdkNjY4ZGM4MmM2ZDFj`
+Snapshot ID: `MCxlMGJlOTA5ZmMzYzFiYjIzYWZhYTViNThjMzM1ODE4ZWU4ZGUxYWZl`

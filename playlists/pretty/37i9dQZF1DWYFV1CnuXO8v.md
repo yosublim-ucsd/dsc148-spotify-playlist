@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,888 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,993 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 74 | [Ana Eshtaret](https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Ana Eshtaret](https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui) | 2:51 |
 | 75 | [لسه هعيش](https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD) | [عبدالله ناصر](https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo) | [لسه هعيش](https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF) | 3:15 |
 
-Snapshot ID: `MCw0ZjA4ZTUzOWM4ZGRhMTYxMDc0MmU4YzgzMWI4ODk2Mjg1MTZiZjkz`
+Snapshot ID: `MCw2ZTNjZTFjNTgwNjBlM2U0YzU5YjdkZGJjYTA4ZTcxZTlkNjBkYTY2`

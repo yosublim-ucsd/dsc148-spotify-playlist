@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,177 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,928 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [Drivel](https://open.spotify.com/track/3PthR3zLOVCqdnwJEJR03g) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Drivel](https://open.spotify.com/album/6Jw9aKlgYMB0r9VnZJPLqE) | 2:45 |
 | 100 | [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 |
 
-Snapshot ID: `MCwyOWVkNGRkMzVmMTZlZTA0ZGZjYjI0OGI4YWM4NTljZWMzMWMwZTAw`
+Snapshot ID: `MCw2MGQ3ZDE4ZTU4Y2UzODY2YTVkN2JiODQxNWQyNDBjYTQ1MGIxYWE1`

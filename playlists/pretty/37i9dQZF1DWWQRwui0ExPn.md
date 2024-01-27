@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,192,835 likes - 750 songs - 1 day 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,192,844 likes - 750 songs - 1 day 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Apples & Bananas](https://open.spotify.com/track/5DCWBwovqvYUQd88QFZrpW) | [Invisible Beach](https://open.spotify.com/artist/3xlDAzWOZoDGyuoSEfVFjt) | [Apples & Bananas](https://open.spotify.com/album/4FxnFoxIajmf5Jk600OhBR) | 3:09 |
 | 750 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
 
-Snapshot ID: `MCwxNjYwMWM3YzdlNDdlOGJkZWM2ZWYxMDU1MGEzN2VmYzZhNWU5M2Rl`
+Snapshot ID: `MCxhMzA3OWRjNDQ3ZTAxMDlmMDZlYWYzYmZhN2JkOTdlMWNiODA3N2Qz`

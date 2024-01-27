@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,045 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,097 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
 | 100 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 
-Snapshot ID: `MCxlMGJhOWRhOWU2NThjMGU0ZjY5MmVhYjUyMmQxNDFlZjY2ZWUxZmVk`
+Snapshot ID: `MCw4MjAzNGM4ZTlmNmViYTk3ZTVkNDFlZDZmMDIzMzM3YWNkMzZiZjMw`

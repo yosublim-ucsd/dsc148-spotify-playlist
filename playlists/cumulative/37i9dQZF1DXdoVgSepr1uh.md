@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: Angela Torres.
 
-223 songs - 10 hr 43 min
+224 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BABY DRIP](https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [BABY DRIP](https://open.spotify.com/album/5PyWxSxtmxTO0F46TrFWZu) | 3:22 | 2022-05-24 | 2022-07-29 |
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2022-05-24 |  |
 | [BANDIDA](https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:07 | 2022-05-24 | 2023-03-18 |
+| [BB](https://open.spotify.com/track/3Cd4WUYSdQjSZ0e2J2ZIfz) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [BB](https://open.spotify.com/album/0k7xTuLGEGtKWRWXRVfq6W) | 2:45 | 2024-01-26 |  |
 | [Bellaka](https://open.spotify.com/track/6CDN62fkyLVzsMA21CoYgg) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Roman JD](https://open.spotify.com/artist/1RPvTAR0XtupIRm1ehPUQj) | [Bellaka](https://open.spotify.com/album/5RVN4rGbwHA5BzVK2HDnGR) | 2:30 | 2023-05-05 |  |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-05-24 |  |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2022-05-24 |  |
@@ -139,7 +140,7 @@
 | [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 | 2023-01-06 |
 | [MISSY](https://open.spotify.com/track/1KV2P6C34FiL8T9qfXvsMK) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MISSY](https://open.spotify.com/album/5QDHb6pa4lZYZaJdMKeBWJ) | 3:41 | 2024-01-19 |  |
 | [Modo Avión](https://open.spotify.com/track/4qMAWw30CdPVCS6adU1QLi) | [POLI](https://open.spotify.com/artist/58bKHK6LvPOSZJmHOozjfz), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Modo Avión](https://open.spotify.com/album/1W1IyRqoLR1WsZPIMVYDQw) | 3:11 | 2022-06-17 | 2022-08-06 |
-| [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 |  |
+| [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 | 2024-01-27 |
 | [MotaMoto](https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MotaMoto](https://open.spotify.com/album/5yXc9YYgTGVOiUVGJtN6Fl) | 2:28 | 2023-09-29 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 | 2023-02-18 |
 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 | 2022-05-24 | 2023-05-13 |

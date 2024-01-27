@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,554 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,559 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 74 | [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 |
 | 75 | [Tiembla](https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB) | 3:36 |
 
-Snapshot ID: `MCxkMmQ3ZGFlYzRhYTgzNmQ2MmZmZWQ0OGYwZDE1ZDc4YTc2NDE2Njg4`
+Snapshot ID: `MCw0MDE2OGQ2NDc4YWIzYWE2MzRhMDZhZTkxM2YzOGFlZGU3ZGEyZmEw`

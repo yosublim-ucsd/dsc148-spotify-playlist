@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,076 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,179 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 75 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
 
-Snapshot ID: `MCxiMzYwYzI5ZmY1NWQ1NWE2NmUyNjVhMTIzMTY0ZGMyYmI1YTIxZWE1`
+Snapshot ID: `MCxmZDBmODU1NWY2MmNhNDQ0MGM2MjliYTFlMmVjMjQ2MGFiZTQyZmNj`

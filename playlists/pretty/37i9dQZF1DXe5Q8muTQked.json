@@ -1,12 +1,12 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1184442,
+  "num_followers": 1183205,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDgzMzFjMGI0YzI3ZTJlYmI3NTk2NTdlZWM5Y2EwMjM1M2JkYzZj",
+  "snapshot_id": "MCxhNjRmY2Q2MTkxN2NlM2M5ODNlYzI4Zjc3YmQ1MmEyYjliMDMzOWYz",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:16",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
         "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
       },
@@ -795,26 +775,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -843,6 +803,26 @@
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -927,22 +907,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Lost On The River (Deluxe)",
-        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
         "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
       },
@@ -959,22 +923,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
+        "name": "Lost On The River (Deluxe)",
+        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
         }
       ],
-      "duration_ms": 304293,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/63wsZUhUZLlh1OsyrZq7sz"
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1011,6 +971,26 @@
       "duration_ms": 181136,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 304293,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/63wsZUhUZLlh1OsyrZq7sz"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1987,6 +1967,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Unearthed",
+        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -2003,22 +1999,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Unearthed",
-        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2887,22 +2867,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Take Me To Church (Acoustic Cover) feat. Matt Wright",
-        "url": "https://open.spotify.com/album/2B4RGo8z3KZUkjM5HqotjR"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        }
-      ],
-      "duration_ms": 277802,
-      "name": "Take Me To Church (Acoustic Cover) feat. Matt Wright",
-      "url": "https://open.spotify.com/track/2iNnrc56yZP4jBBLkPc5bx"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Gun Shy",
         "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
       },
@@ -2915,6 +2879,22 @@
       "duration_ms": 251889,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Take Me To Church (Acoustic Cover) feat. Matt Wright",
+        "url": "https://open.spotify.com/album/2B4RGo8z3KZUkjM5HqotjR"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        }
+      ],
+      "duration_ms": 277802,
+      "name": "Take Me To Church (Acoustic Cover) feat. Matt Wright",
+      "url": "https://open.spotify.com/track/2iNnrc56yZP4jBBLkPc5bx"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2963,6 +2943,22 @@
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3035,22 +3031,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Ysabelle",
         "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
       },
@@ -3063,6 +3043,22 @@
       "duration_ms": 189673,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 167296,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3127,22 +3123,6 @@
       "duration_ms": 123283,
       "name": "(Everything I Do) I Do It for You",
       "url": "https://open.spotify.com/track/4Sope1x1EUQiWPyCMKFRRN"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 167296,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -4175,6 +4155,22 @@
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     }
   ],
   "unique_name": "Ultimate Covers",

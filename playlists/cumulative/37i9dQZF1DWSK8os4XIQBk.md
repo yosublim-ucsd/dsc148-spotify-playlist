@@ -4,7 +4,7 @@
 
 > Nothing but the best in modern country music\. Cover: Wyatt Flores
 
-615 songs - 1 day 9 hr 16 min
+616 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 | 2022-12-31 |
 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 | 2022-12-16 | 2023-07-01 |
 | [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 | 2022-08-19 | 2023-06-24 |
+| [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-26 |  |
 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2022-12-16 | 2023-03-18 |
 | [Nobody Knows You](https://open.spotify.com/track/4w2LAqLhIoWzophDSbT3G3) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Diamonds in the Desert](https://open.spotify.com/album/3GwsN7jQgsANKT8bRaKDuy) | 5:28 | 2022-02-25 | 2022-04-23 |
 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2021-12-31 | 2022-01-15 |
@@ -603,7 +604,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-31 | 2022-05-14 |
 | [With A Woman You Love](https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [With A Woman You Love](https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71) | 2:47 | 2022-03-18 | 2022-10-08 |
 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-06-23 | 2023-12-16 |
-| [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 | 2023-11-03 |  |
+| [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 | 2023-11-03 | 2024-01-27 |
 | [Wood On The Fire](https://open.spotify.com/track/4U25YVWSMJ7glekBTsNMUQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Wood On The Fire](https://open.spotify.com/album/2h27NOoPTkhHSjU1K79EST) | 3:27 | 2022-09-09 | 2022-12-31 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-04-28 |  |
 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-05-13 | 2023-01-06 |

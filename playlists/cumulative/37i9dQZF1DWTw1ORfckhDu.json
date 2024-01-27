@@ -4127,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "sim/p\u00e4\u00e4 eel",
+        "url": "https://open.spotify.com/album/36pdXixZc2XTjWne7rK77x"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139046,
+      "name": "p\u00e4\u00e4 eel",
+      "url": "https://open.spotify.com/track/5eSl8Q9chK0YZ0PU8Giz67"
+    },
+    {
+      "album": {
         "name": "P\u00e4\u00e4 irti",
         "url": "https://open.spotify.com/album/2YT8ieyiVvdG1aHBVSiImi"
       },
@@ -4386,10 +4404,36 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 236466,
       "name": "Rikosrekisteri 2",
       "url": "https://open.spotify.com/track/4lQNe723Kc0n1NFLnWRenV"
+    },
+    {
+      "album": {
+        "name": "Paratiisi SRJTNT Vol. 3",
+        "url": "https://open.spotify.com/album/6HXBOglr4QsdJ5ERXXbVkm"
+      },
+      "artists": [
+        {
+          "name": "Julma Henri",
+          "url": "https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o"
+        },
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D"
+        },
+        {
+          "name": "Jiiaa",
+          "url": "https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Rikosrekisteri 2",
+      "url": "https://open.spotify.com/track/5gY1vrys9KVOuvgcGJvS52"
     },
     {
       "album": {

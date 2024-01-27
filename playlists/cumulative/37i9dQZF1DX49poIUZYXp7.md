@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Hailey Whitters
+> The extraordinary women making great country music today\. Cover: Hannah Ellis
 
-356 songs - 19 hr 29 min
+357 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 | 2021-12-01 |  |
 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 | 2023-10-27 |  |
 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-06-01 | 2023-11-19 |
+| [Heart They Didn't Break](https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Heart They Didn't Break](https://open.spotify.com/album/0UEl0ztfoALMXiCqjl8tvN) | 3:10 | 2024-01-26 |  |
 | [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 | 2023-09-15 | 2023-12-02 |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 |  |
@@ -214,7 +215,7 @@
 | [Never Been in Love](https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN) | 2:59 | 2022-07-22 | 2023-02-15 |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-04-15 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-01 | 2022-07-29 |
-| [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
+| [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 | 2024-01-27 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 |  |
 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 | 2021-12-01 |  |
 | [Not My Business](https://open.spotify.com/track/7rc8zMNiVa7gFs5BHN4RNy) | [Brittany Brodie](https://open.spotify.com/artist/2SCMzOSOfJt3GwROmroua5) | [Not My Business](https://open.spotify.com/album/1AXvisFBjFJWEsbbDEKaa4) | 3:10 | 2022-03-25 | 2022-04-21 |

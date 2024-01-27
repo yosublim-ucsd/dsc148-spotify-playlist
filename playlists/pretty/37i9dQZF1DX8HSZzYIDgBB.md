@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,297 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,317 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
 | 75 | [Glorieta](https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3) | 2:28 |
 
-Snapshot ID: `MCxlOTZhZWUyMjVlYWFjNTcwOWExZmFkZjFiYjE3YWQxNTdhYTVmMGQw`
+Snapshot ID: `MCxhODg0Y2ViYzg2OTk2MmNlYjM2MTQ4NDc3ZTkxNGNiYWQ0ODUyNWM5`

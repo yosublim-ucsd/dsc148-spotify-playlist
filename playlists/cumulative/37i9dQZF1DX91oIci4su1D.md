@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-814 songs - 2 day 1 hr 30 min
+815 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [For Your Mind](https://open.spotify.com/track/0BrmTgrtXvkPkyJA9quEUo) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [For Your Mind](https://open.spotify.com/album/7zKl8SBKcAG5FvxOWw4i5M) | 3:32 | 2021-12-17 | 2022-02-26 |
 | [Force Field](https://open.spotify.com/track/1d4pctzFlT9dIVa35ChSvm) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Force Field](https://open.spotify.com/album/3XIAiUVPhtaPiOMi4VX7Js) | 4:24 | 2023-06-09 |  |
 | [Forests](https://open.spotify.com/track/6ZHmoAgOoGjb4HzEBqTzsL) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Forests](https://open.spotify.com/album/5P5FEpvLLANtp0hcIFyXAH) | 3:14 | 2023-02-24 |  |
-| [Forever](https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Forever](https://open.spotify.com/album/0kc67mUEonFGpXDSAvZTq1) | 4:00 | 2023-06-02 |  |
+| [Forever](https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Forever](https://open.spotify.com/album/0kc67mUEonFGpXDSAvZTq1) | 4:00 | 2023-06-02 | 2024-01-27 |
 | [Forever](https://open.spotify.com/track/4C6uD2tR7wwLoR1KIgk7Hb) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Forever](https://open.spotify.com/album/3v8q4sJs2qAGUqCmyjkb6M) | 2:55 | 2021-12-17 | 2022-03-12 |
 | [Forever \- Christopher Corrigan Remix](https://open.spotify.com/track/3SZTrJcyuLhAoPTwLDl0Je) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8), [Rebecca Louise Burch](https://open.spotify.com/artist/2xakyy51UCHjVwIvHGNpdY) | [Forever](https://open.spotify.com/album/5zp9XkQBSaz7i8A8t8j6bo) | 3:28 | 2023-05-26 |  |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 | 2023-06-10 |
@@ -765,6 +765,7 @@
 | [Underwater](https://open.spotify.com/track/2pyvGOhJ78nGL1mSPWGmPD) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Underwater](https://open.spotify.com/album/6JbBPLYdfzn5diCgq57wle) | 3:24 | 2022-04-08 | 2023-04-09 |
 | [United](https://open.spotify.com/track/7xKATmfmkwgt8qvUaAdm1a) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [United](https://open.spotify.com/album/1vOqWNcp26CmNsBXu1T2tU) | 3:16 | 2023-02-24 | 2023-10-30 |
 | [Unity](https://open.spotify.com/track/5lAWYLmP9HyE4NFKnsMwtm) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Unity](https://open.spotify.com/album/0Z4uKZqTTjsNd8u0W6WHF5) | 2:58 | 2022-04-01 | 2022-12-10 |
+| [Universal Nation \- Charlotte de Witte Rework \- Edit](https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 4:00 | 2024-01-26 |  |
 | [Unkonsciousness \(UNK23 Anthem\)](https://open.spotify.com/track/5iteodYhvmxjP46YZCfjy1) | [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Unkonsciousness \(UNK23 Anthem\)](https://open.spotify.com/album/0QW37hkxcBbCI4smqQ55u8) | 4:18 | 2023-03-17 |  |
 | [Unreal](https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Unreal](https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid) | 3:52 | 2023-10-27 |  |
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-31 | 2023-05-20 |

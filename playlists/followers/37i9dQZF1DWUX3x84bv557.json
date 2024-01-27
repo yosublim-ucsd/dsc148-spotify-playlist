@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 161145,
+  "2024-01-27": 161137,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Antoon",
+  "description": "De nieuwste Nederlandse pop! Cover: Adriaan Persons",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -11,8 +11,8 @@
       },
       "artists": [
         {
-          "name": "Dirikteur",
-          "url": "https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA"
+          "name": "Roi",
+          "url": "https://open.spotify.com/artist/2vT124WpcLchMi8cTczWdl"
         },
         {
           "name": "Jada Faith",
@@ -2478,6 +2478,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9"
       },
@@ -2613,6 +2631,28 @@
       "duration_ms": 174760,
       "name": "Droom Het Donker Weg (feat. MEAU)",
       "url": "https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l"
+    },
+    {
+      "album": {
+        "name": "Duizend Lichtjes (Radio Edit)",
+        "url": "https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Glen Faria",
+          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Duizend Lichtjes - Radio Edit",
+      "url": "https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9"
     },
     {
       "album": {
@@ -4202,6 +4242,24 @@
     },
     {
       "album": {
+        "name": "Paradijs",
+        "url": "https://open.spotify.com/album/6XXlimQKIfOiVzb7JrzxX0"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149700,
+      "name": "In Het Licht",
+      "url": "https://open.spotify.com/track/1OhdiixXL81GSl6G5SLgf2"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -4509,7 +4567,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187836,
       "name": "Kom Dansen",
       "url": "https://open.spotify.com/track/4GWSLrTdJoRSFMJRirlypJ"
@@ -4801,7 +4859,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196744,
       "name": "Leef je in mij",
       "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
@@ -4931,7 +4989,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 125294,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/7An8syerbMM9c3a4rOwCOx"
@@ -5001,6 +5059,24 @@
       "duration_ms": 153634,
       "name": "Luchtkasteel",
       "url": "https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f"
+    },
+    {
+      "album": {
+        "name": "Maar Niet Met Jou Erbij",
+        "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Maar Niet Met Jou Erbij",
+      "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
     },
     {
       "album": {
@@ -6370,6 +6446,24 @@
     },
     {
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/1wNXE5nqPYkz3j0Fe8nmWB"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142264,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/7sPU3UDb9jjW3F9AYKlQD9"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
       },
@@ -6631,6 +6725,24 @@
       "duration_ms": 166053,
       "name": "Samen Niets Doen",
       "url": "https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/6Kv3bhL09toCx2K3z0b6n9"
+      },
+      "artists": [
+        {
+          "name": "Mike Peterson",
+          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Samen Zijn We E\u00e9n",
+      "url": "https://open.spotify.com/track/1Q36IMiHir62ZkdinImepL"
     },
     {
       "album": {
@@ -7765,6 +7877,28 @@
       "duration_ms": 167244,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "album": {
+        "name": "Verpest",
+        "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160974,
+      "name": "Verpest",
+      "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
     },
     {
       "album": {

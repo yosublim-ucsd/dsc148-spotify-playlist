@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 29556,
+  "2024-01-27": 29561,
   "date_first_scraped": "2022-02-25",
   "description": "New Rock & Alt driving the current, every week. Cover: Meet Me @ The Altar",
   "name": "Rock Frequency",
@@ -4529,10 +4529,28 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155957,
       "name": "Wait and Bleed - Spotify Singles",
       "url": "https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0pt0GZkcQqoePHrWdjP6L5"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155957,
+      "name": "Wait and Bleed - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mZJV1uUmapZbuPJP33Ej5"
     },
     {
       "album": {

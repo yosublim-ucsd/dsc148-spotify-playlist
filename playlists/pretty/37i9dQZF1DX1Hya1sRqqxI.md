@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,667 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,070 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 3:06 |
 | 150 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
 
-Snapshot ID: `MCw0Y2YyZWY3ODYxY2Q1OGNkNTg1NTc5ODEzNDc2NjJjYTE2ZjI1M2U3`
+Snapshot ID: `MCw5N2E3NGUyYTQwOTMxYzFiZmEyYzU1NDNiZGVlNzc1MGU2NTE0ZmQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,511 likes - 150 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,490 likes - 150 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 150 | [Risen](https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 5:38 |
 
-Snapshot ID: `MCxjZGMyYjRkNTUzNmM3NWJmZWY1MGVlYmE1NGQxNTMwZDEzNThiNjY3`
+Snapshot ID: `MCxiM2I5MzhjMjJhNTBjZWI0OTQwNmFmMzhlMzgyOWI4NzhlNzY2M2Vl`

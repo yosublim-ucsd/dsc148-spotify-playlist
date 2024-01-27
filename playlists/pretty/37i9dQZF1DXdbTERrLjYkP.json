@@ -1,13 +1,109 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Valencia Grace",
-  "num_followers": 93238,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Livingston",
+  "num_followers": 93341,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZThlMjdhZWVmYThlYjQ4MGU4ODgwNGViMGVjNDU2NGQ2MGMyYzcz",
+  "snapshot_id": "MCxkNzM4NzkwMjZmMjI5YzczMWZhNGI1YTk0MjQzMGZjYjAwN2YzM2Vi",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Sky Up",
+        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Sky Up",
+      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -41,20 +137,20 @@
       "url": "https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl"
     },
     {
-      "added_at": "2024-01-19 05:01:00",
+      "added_at": "2024-01-26 05:01:00",
       "album": {
-        "name": "Sky Up",
-        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU"
       },
       "artists": [
         {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Sky Up",
-      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
+      "duration_ms": 184556,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -375,22 +471,6 @@
       "duration_ms": 167865,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "AND ALL I LOVED, I LOVED ALONE",
-        "url": "https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 130931,
-      "name": "MERRY GO ROUND",
-      "url": "https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -827,70 +907,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "Call Me Yours",
-        "url": "https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg"
-      },
-      "artists": [
-        {
-          "name": "Lillian Hepler",
-          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Call Me Yours",
-      "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Between The Lines",
-        "url": "https://open.spotify.com/album/3fCkMihwoQJsCmuiOzCeRa"
-      },
-      "artists": [
-        {
-          "name": "Michael Gerow",
-          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
-        }
-      ],
-      "duration_ms": 136077,
-      "name": "Between The Lines",
-      "url": "https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Too Tight",
-        "url": "https://open.spotify.com/album/5AJOgsrk3tg0FlG8OZIfHR"
-      },
-      "artists": [
-        {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
-        }
-      ],
-      "duration_ms": 167257,
-      "name": "Too Tight",
-      "url": "https://open.spotify.com/track/7p4y4PW1nOOlW5pINpAxxk"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "Convince Myself",
         "url": "https://open.spotify.com/album/2qnVx4SGCy5qlwefWAT1ig"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 182649,
       "name": "Convince Myself",
       "url": "https://open.spotify.com/track/23s1QNkajTtC5kRbMCrWNE"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "as good a reason",
-        "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "as good a reason",
-      "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
     },
     {
       "added_at": "2023-11-10 04:00:00",

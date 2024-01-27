@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 85007,
+  "2024-01-27": 85003,
   "date_first_scraped": "2021-12-21",
   "description": "\"Bond... James Bond.\" Cover: <a href=\"spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH\">Billie Eilish</a>",
   "name": "Best of Bond",
@@ -796,28 +796,24 @@
     },
     {
       "album": {
-        "name": "Thunderball",
+        "name": "Thunderball (Original Motion Picture Soundtrack / Remastered 2003)",
         "url": "https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN"
       },
       "artists": [
         {
-          "name": "Don Black",
-          "url": "https://open.spotify.com/artist/63KnR8pniNe7l75qr1GK7Q"
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
         },
         {
           "name": "John Barry",
           "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        },
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
         }
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183626,
-      "name": "Thunderball (Main Title) - Remastered",
+      "name": "Thunderball (Main Title) - Remastered 2003",
       "url": "https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia"
     },
     {

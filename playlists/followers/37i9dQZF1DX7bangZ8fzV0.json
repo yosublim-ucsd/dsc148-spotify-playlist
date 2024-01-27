@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 94092,
+  "2024-01-27": 94126,
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=rJ-Dhvo-RCy74FXmpQJSYw\">Bok Van Blerk</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK?si=zq7XaHccRsqu2JVVFR--_w\">Anneli Van Rooyen</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2191,7 +2191,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 213333,
       "name": "My Volgende Fout",
       "url": "https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh"
@@ -2213,6 +2213,28 @@
       "duration_ms": 199000,
       "name": "Nee of Ja",
       "url": "https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB"
+    },
+    {
+      "album": {
+        "name": "Neem My Op Vlerke (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
+      },
+      "artists": [
+        {
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202648,
+      "name": "Neem My Op Vlerke - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Skifoan und Hüttenabriss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,613 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,835 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 |
 | 80 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 |
 
-Snapshot ID: `MCwxMGFlNTQ1MjM3MzA1NmFmZTQzNjhhZWZhMWI0MzRmMThkMmVjZDU3`
+Snapshot ID: `MCw5YWQ2MDk4ZDlmNmYyNDYyNjg3MWNlNjNjODQxNzMyNGE0N2U0MTY5`

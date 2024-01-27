@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,332 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,847 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
 | 100 | [The Yellow Mile](https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [The Yellow Mile](https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b) | 3:03 |
 
-Snapshot ID: `MCw5NjU1ZTU3M2EwZDZiOTVkNjE5YmE1YzdmNjU0NzM3ODg2OGEwZmJm`
+Snapshot ID: `MCw4MDdmMTk5NGM2MTJjZWY4NDVhZDFkOWVmNDQxYjU3MTI3YmMzZjc0`

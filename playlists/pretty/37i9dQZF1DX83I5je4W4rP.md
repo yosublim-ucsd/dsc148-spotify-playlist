@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,328 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,897 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
 | 125 | [Message to the World](https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:44 |
 
-Snapshot ID: `MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0`
+Snapshot ID: `MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5`

@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 209120,
       "name": "Natal Solteiro",
       "url": "https://open.spotify.com/track/41FfJDG3FRnChcwlLRBgMp"
@@ -1326,6 +1326,24 @@
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
+    },
+    {
+      "album": {
+        "name": "Nos Teus Olhos",
+        "url": "https://open.spotify.com/album/2u5GJtcazWSanPzzxXvLU7"
+      },
+      "artists": [
+        {
+          "name": "EHLY",
+          "url": "https://open.spotify.com/artist/4kClroraaHmlZglNiNa1O0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191190,
+      "name": "Nos Teus Olhos",
+      "url": "https://open.spotify.com/track/5vrV3s1PC4lUDWj6YOv3K3"
     },
     {
       "album": {
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 166438,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
@@ -2407,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "YEY\u00ca",
+        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
+      },
+      "artists": [
+        {
+          "name": "Ally Akin",
+          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "YEY\u00ca",
+      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
+    },
+    {
+      "album": {
         "name": "Yo Quiero Te Namorar",
         "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
       },
@@ -2462,7 +2502,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 156000,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/1lOvdRWVCQT2zWRfW96gBx"

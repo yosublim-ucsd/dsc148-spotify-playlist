@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,630 likes - 195 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,653 likes - 195 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 151 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 |
 | 152 | [Rowan's Lullaby](https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Hymn](https://open.spotify.com/album/3Ib3ew2pm5a2UOmAAbn7QC) | 1:56 |
 | 153 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 |
-| 154 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 |
+| 154 | [First Sunlight](https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6YaTqyn5dntxFNuV1Kc2J9) | 2:28 |
 | 155 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 |
 | 156 | [Statuette](https://open.spotify.com/track/5zoMbgXYkKymbUeCWP6p3o) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Statuette](https://open.spotify.com/album/3FH07fFtQxome3Cv8B0PYg) | 3:47 |
 | 157 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 194 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 |
 | 195 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 |
 
-Snapshot ID: `MCwzOTMwYjhlMjU3MzhkNDY5MzU0OTNjNTViMDFhZDMzZDYzNDk3OWUy`
+Snapshot ID: `MCxmMDZkYjU4OTJjZDg4N2I1MTY2NzhhZTA4YTI3Mzk3Mzg1NjJkNmM3`

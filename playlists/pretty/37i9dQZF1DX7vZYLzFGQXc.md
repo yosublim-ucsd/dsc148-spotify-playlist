@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Rosy Barbie\(로지바비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,575 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,600 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 38 | [손 내밀면 닿을 거리에](https://open.spotify.com/track/5fRRUYHrYF7mXDqi8CXEN5) | [KIM CHANG YEON](https://open.spotify.com/artist/2CLYdeUofgL5gywkME1QPO) | [나만의 고막 남친 프로젝트 Part 1](https://open.spotify.com/album/1XndVWE6VTyNbChJOXBQda) | 3:37 |
 | 39 | [L FOR LOVE](https://open.spotify.com/track/4Ruc5qusSWMYOZfJ2DHoKn) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [L FOR LOVE](https://open.spotify.com/album/0qHlEPGihwWsEISpKG7jCT) | 3:17 |
 | 40 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 |
-| 41 | [Night Sea](https://open.spotify.com/track/7zkut02u2ekBqbZeT395YF) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Trip: playlist \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0n8M5xkvlhZSd8t7Mxp38s) | 4:14 |
+| 41 | [Night Sea](https://open.spotify.com/track/7zkut02u2ekBqbZeT395YF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Trip: playlist \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0n8M5xkvlhZSd8t7Mxp38s) | 4:14 |
 | 42 | [칫챗 chit\-chat](https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [칫챗 chit\-chat](https://open.spotify.com/album/6oYxwXE8cigILBPADV34G3) | 2:47 |
 | 43 | [refraction of water](https://open.spotify.com/track/3F5mzzJscBpAkw3NujfC6A) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [refraction of water](https://open.spotify.com/album/4vHbpyloMoR1cTGZGtRE7n) | 3:25 |
 | 44 | [awry \(Prod\. Epitone Project\)](https://open.spotify.com/track/0ktw1LzsWYvKaLLIGHWvZW) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Blossom with Love, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/06G2atOgnViq1WwdbQM6MN) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Someone Who Only Looks at Me](https://open.spotify.com/track/2Jgmlko3UxydEyRfXRhLmK) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo) | [Someone Who Only Looks at Me](https://open.spotify.com/album/1dYtVMk6Fewjcgqay1Tkht) | 3:42 |
 | 100 | [nowhere](https://open.spotify.com/track/0rInzo0AeGSKjLcP7RWvWp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [I Heal You, Another Healing](https://open.spotify.com/album/1k8cDbdQux8yOjQAiFu9f6) | 4:34 |
 
-Snapshot ID: `MCxiYjA3Mjc2ZmQwNzRlODAyZTEzMGViMDVmNzdkMjFkNzg2MjI2Mjgz`
+Snapshot ID: `MCw2YWNlZWUzNmU1ZjBmNTE5MDFmZWNhOTY1NTk2MGQ2ZmZkZGNkMGU0`

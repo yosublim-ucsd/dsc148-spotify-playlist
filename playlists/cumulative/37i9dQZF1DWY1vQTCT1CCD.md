@@ -4,7 +4,7 @@
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-61 songs - 3 hr 34 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2021-05-17 |  |
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2021-05-17 |  |
 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 | 2021-05-17 |  |
-| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-05-17 |  |
+| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-05-17 | 2024-01-27 |
+| [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 | 2021-05-17 |  |
 | [Reste](https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/2lHVp0TDnXIHUHwojpW6fN) | 3:51 | 2021-05-17 |  |
 | [Riche](https://open.spotify.com/track/3UbgnZgbLpsrpPzSBq7JBK) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Claudio Capéo \(Version deluxe\)](https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1) | 4:05 | 2021-05-17 |  |
 | [Roule](https://open.spotify.com/track/3qbX096fmueH0VCrhh47mY) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie](https://open.spotify.com/album/4oyz1B8KiCj3WVk1ruTlbw) | 3:08 | 2021-05-17 |  |

@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185880,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
@@ -3168,6 +3168,28 @@
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
+    },
+    {
+      "album": {
+        "name": "Mars To Liverpool",
+        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220940,
+      "name": "Mars To Liverpool",
+      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Ucie Sucita
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-143 songs - 11 hr 4 min
+144 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 |  |
+| [Cinta Yang Tulus \- Acoustic Version](https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Tulus \(Acoustic Version\)](https://open.spotify.com/album/2rD3h2v9YzyoVkRKFrjuMB) | 4:45 | 2024-01-26 |  |
 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 | 2021-08-23 | 2022-07-29 |
 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 | 2021-08-23 |  |
 | [Dalan Liyane](https://open.spotify.com/track/0500gMP5UyLXs1HSuLOnBD) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/2uXWRk8gpYuaYI7LkaD8NS) | 4:04 | 2021-08-23 | 2023-02-17 |
@@ -66,7 +67,7 @@
 | [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 |  |
 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 | 2021-08-23 |  |
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
-| [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA](https://open.spotify.com/artist/0b5wJp0t3tnafP9BnbQY98), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 | 2024-01-25 |  |
+| [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 | 2024-01-25 |  |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 | 2023-08-03 |  |
 | [Kilau Cinta](https://open.spotify.com/track/4pnuf1MaxKMi94aaSZ1xwq) | [Nilam Sari](https://open.spotify.com/artist/1HMH1XCsJiOQhp0piHmKE6) | [Kilau Cinta](https://open.spotify.com/album/3iPvBqNKPSsRQv0rnwEOoy) | 4:32 | 2023-10-12 |  |

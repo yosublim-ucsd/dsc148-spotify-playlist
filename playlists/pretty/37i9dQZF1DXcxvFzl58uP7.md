@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,586 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,620 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [Warmer](https://open.spotify.com/track/27n8scut9e5uU4uD5qFzDQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Warmer](https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA) | 2:34 |
 | 100 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 |
 
-Snapshot ID: `MCxkNDdhYzQzYTMzN2FkYTM5Y2U5NjQ3ZTc0OTVlM2ExMjFhYjJhYWRk`
+Snapshot ID: `MCw5MjYwMDJmYTU5MDExZTQwMWJlNDAzNGU3YWM3MzBkNWNmNjAzMjI0`

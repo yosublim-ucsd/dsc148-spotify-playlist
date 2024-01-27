@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,092 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,103 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 | 52 | [Midi sur novembre](https://open.spotify.com/track/37lHdHJC9yCQkOAw1qBJnI) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 3:04 |
 | 53 | [When You Wish Upon A Star](https://open.spotify.com/track/3qoIxlw9BCybS73pNyWPJp) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe In Little Things](https://open.spotify.com/album/1FlKW25Y5D6l8fTeuCqq8E) | 5:48 |
 | 54 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 |
-| 55 | [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 |
+| 55 | [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 |
 | 56 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 57 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 |
 | 58 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 59 | [Tiago](https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 2:58 |
 | 60 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 
-Snapshot ID: `MCwxOGM3Mjc1OWRiMjg1YjYwMzBmOGIwYTJhYTRhNTJmM2YxNTVhMzU3`
+Snapshot ID: `MCw2NmU1MTdiOWU1NjkzMDg0MmYwNzI5OTM4OTk3M2E0MmE4MzM2MTRh`

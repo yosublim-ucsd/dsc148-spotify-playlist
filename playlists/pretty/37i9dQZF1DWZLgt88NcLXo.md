@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 
 > Guitarra cálida e instrumental para un agradable inicio de día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,007 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,004 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 149 | [Within You, Within Me](https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ) | [Sophie Hansen\-Agard](https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu) | [Within You, Within Me](https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS) | 2:44 |
 | 150 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 |
 
-Snapshot ID: `MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm`
+Snapshot ID: `MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm`

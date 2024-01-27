@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1729,
+  "2024-01-27": 1742,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Yvng Patra",
   "name": "+81 Connect FRESH",
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "AP",
+        "url": "https://open.spotify.com/album/0dYyVvUgzs1v38uXhZhWEY"
+      },
+      "artists": [
+        {
+          "name": "Granzotto Kris",
+          "url": "https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171096,
+      "name": "AP",
+      "url": "https://open.spotify.com/track/5Uq2Sl7iRceUDkVObQQcCc"
+    },
+    {
+      "album": {
         "name": "20MIX",
         "url": "https://open.spotify.com/album/1Qan9ZgkHuuSLZn2cQYp8P"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187237,
       "name": "BASH BASH - feat. JP THE WAVY & Awich",
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 382325,
       "name": "Brico Studio Cypher",
       "url": "https://open.spotify.com/track/3lWVYAxisByY8K1JvnrHWB"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 149126,
       "name": "Chotto Mattene (feat. Jean Placide)",
       "url": "https://open.spotify.com/track/0RqJcCqFvJyjfJnkjgxq3R"
@@ -1530,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "The Diary",
+        "url": "https://open.spotify.com/album/0lWIcfSd06NzJ7e8qiY4fS"
+      },
+      "artists": [
+        {
+          "name": "Kampf",
+          "url": "https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK"
+        },
+        {
+          "name": "XAN",
+          "url": "https://open.spotify.com/artist/604ByWe9PBAjkIyEarEz60"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190416,
+      "name": "HACKER",
+      "url": "https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx"
+    },
+    {
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0jGOX35jE6qx6w3tpVS3U6"
       },
@@ -1805,7 +1845,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180422,
       "name": "i have a wing",
       "url": "https://open.spotify.com/track/210KJALjlNU0gWvWg7VfNS"
@@ -1959,6 +1999,24 @@
       "duration_ms": 125392,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7lFq5rNntI0abNXzINWNt6"
+    },
+    {
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs"
+      },
+      "artists": [
+        {
+          "name": "Fionn Mily",
+          "url": "https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166870,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm"
     },
     {
       "album": {
@@ -2912,6 +2970,24 @@
     },
     {
       "album": {
+        "name": "Youth After The Loss I",
+        "url": "https://open.spotify.com/album/5HZQ3QkoyiroMYeWxYXpoy"
+      },
+      "artists": [
+        {
+          "name": "L.O.S.T",
+          "url": "https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159839,
+      "name": "Roar system",
+      "url": "https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn"
+    },
+    {
+      "album": {
         "name": "Get Dream Story",
         "url": "https://open.spotify.com/album/4DOWq9dCkrfoAtKn80d1lO"
       },
@@ -3160,6 +3236,32 @@
     },
     {
       "album": {
+        "name": "Real Trap 2 (Delux)",
+        "url": "https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe"
+      },
+      "artists": [
+        {
+          "name": "Playsson",
+          "url": "https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Skrrrby Doo - Delux",
+      "url": "https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu"
+    },
+    {
+      "album": {
         "name": "Brain Screen",
         "url": "https://open.spotify.com/album/0WPV0XX09CCMBiLLBAhVy0"
       },
@@ -3312,6 +3414,24 @@
     },
     {
       "album": {
+        "name": "TANSAN",
+        "url": "https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy"
+      },
+      "artists": [
+        {
+          "name": "hyunis1000",
+          "url": "https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "TANSAN",
+      "url": "https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC"
+    },
+    {
+      "album": {
         "name": "tetote",
         "url": "https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY"
       },
@@ -3381,7 +3501,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139893,
       "name": "TOYOTA CAROLLA",
       "url": "https://open.spotify.com/track/1BZ7SR2PchuoUPfP4pP3px"
@@ -3443,7 +3563,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180776,
       "name": "Ujimushi",
       "url": "https://open.spotify.com/track/5dqEB0IHqXO6afBahLGnoA"

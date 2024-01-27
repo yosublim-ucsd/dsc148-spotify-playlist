@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1482,
+  "2024-01-27": 1567,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -629,7 +629,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139440,
       "name": "Autumn Air",
       "url": "https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2"
@@ -5097,6 +5097,24 @@
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
+    },
+    {
+      "album": {
+        "name": "Meowtown",
+        "url": "https://open.spotify.com/album/5rJarXsGwgOGGcUgTiItZn"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148605,
+      "name": "Meowtown",
+      "url": "https://open.spotify.com/track/6Pm9etykP81ZPhwztUv8LQ"
     },
     {
       "album": {

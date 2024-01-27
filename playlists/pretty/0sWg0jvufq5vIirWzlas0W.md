@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 
 ### [Cottage Life](https://open.spotify.com/playlist/0sWg0jvufq5vIirWzlas0W)
 
-> Over 8 hours of music for hanging out at the cottage\. Includes favorites from The Tragically Hip, The Rolling Stones, Morgan Wallen and more!
+> Over 8 hours of music for hanging out at the cottage\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_CottageLife\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 64,796 likes - 126 songs - 8 hr 41 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 64,790 likes - 126 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 | 125 | [Diggin' A Hole](https://open.spotify.com/track/6c4RIQcixWsXmhHtfMWPRY) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hit And Run: The Best Of Big Sugar](https://open.spotify.com/album/5DkVM509YTab4WVZWE84ez) | 5:23 |
 | 126 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 
-Snapshot ID: `MjU5MSw0OWI0ZDdkZTE2MjU3YWE3N2ZlNzg4NTIwN2UwMWQ2Y2NhMDMxMmU2`
+Snapshot ID: `MjU5Myw2NzIwY2VmNmE3NjJmYzYzNTUzMDkwZmJkZDE1YzM2NjgzZjkwMWJm`

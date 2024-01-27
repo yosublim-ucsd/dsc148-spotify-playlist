@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-405 songs - 1 day 6 hr 16 min
+406 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 | 2024-01-25 |  |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 | 2023-08-25 |
 | [Desire](https://open.spotify.com/track/1t9sv2QWKyIzIcuka3Cvnr) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/1zYlBqGoWNoEp3WrKULrWT) | 5:06 | 2023-06-29 | 2023-08-02 |
+| [Destiny](https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2) | [Cent](https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d), [Katia B](https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU) | [Destiny](https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q) | 3:09 | 2024-01-26 |  |
 | [Detective Chimp](https://open.spotify.com/track/7H4DeHbqZkeNdJkEequ1sh) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dance Monkey Dance](https://open.spotify.com/album/1k3ppNSi9Ko3oaKVcyUWXW) | 6:06 | 2023-05-11 |  |
 | [Devotion](https://open.spotify.com/track/0WhwH8se1uvdwktL3buvlg) | [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs), [Jake The Rapper](https://open.spotify.com/artist/5ApiJ1eiRnYhXRXsnYe5yy) | [Devotion](https://open.spotify.com/album/664zX64P0i4McluvapFBMR) | 6:15 | 2023-06-29 | 2024-01-05 |
 | [Devotion](https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Devotion](https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0) | 3:22 | 2024-01-25 |  |

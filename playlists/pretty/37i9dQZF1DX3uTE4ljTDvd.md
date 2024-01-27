@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Milena Pina
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,114 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,045 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Anotando Pensamentos](https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz) | [Hellen Camargo](https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Anotando Pensamentos](https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT) | 4:31 |
 | 60 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 
-Snapshot ID: `MCxjNDljNzdjY2UxNWQzMmNkNmFjNTNmMTk4MDk1OThjZmZmODU1M2U0`
+Snapshot ID: `MCxkOTdiMzY5YmM2NzBkMzY4MzJjNjlmM2I1NGJkOWRiMjMxYTY5YWRj`

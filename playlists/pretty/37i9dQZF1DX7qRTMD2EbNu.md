@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,645 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,667 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Business](https://open.spotify.com/track/12nwov2pJwGWo46edmeMha) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Business](https://open.spotify.com/album/0OUfH78gM0AI6ey3moKq1S) | 2:38 |
 | 70 | [Afrafranto](https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr) | [Limuel](https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8) | [Afrafranto](https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK) | 3:21 |
 
-Snapshot ID: `MCxkYTQ5ZDlhODRlZTg0ZjlmZmRiZmI2YzA3NTk2YzEzNDVhNDY4M2Qw`
+Snapshot ID: `MCwzNzVkMGIzZDYwMGMxMWM0M2Q0YjYxOWRkZjM5OWJlZTcyOTA3YzYw`

@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Kyle Dion",
-  "num_followers": 47922,
+  "description": "R&B of the moment by the artists of the future. Cover: Reggie Becton",
+  "num_followers": 47953,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmUzMjNiZWU5Yjc4MmVkMTEwNWU2YWI5MDAyNTcwMzZlNmY0OTVj",
+  "snapshot_id": "MCxhY2MwNTgyOTAzOWMxOGI0YWEwYzhjMGU3OTc4NDA3ZDA4OGY1NjNi",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bad M'fkr",
+        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 218698,
+      "name": "Bad M'fkr",
+      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
+    },
     {
       "added_at": "2024-01-19 06:47:03",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 209933,
       "name": "Put Your Hand in My Pocket",
       "url": "https://open.spotify.com/track/2fXkEslayKkVNITdQiApt0"
-    },
-    {
-      "added_at": "2024-01-19 06:47:03",
-      "album": {
-        "name": "SUBMISSIVE2",
-        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "WAR!",
-      "url": "https://open.spotify.com/track/3FQb9Ybqr2FsWJrb499pg0"
     },
     {
       "added_at": "2024-01-19 06:47:03",
@@ -87,6 +103,38 @@
       "duration_ms": 265386,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Who\u2019s Been On Your Mind",
+        "url": "https://open.spotify.com/album/5zhr5TB7m7TvNiwDLQhEb4"
+      },
+      "artists": [
+        {
+          "name": "Breez Kennedy",
+          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Who\u2019s Been On Your Mind",
+      "url": "https://open.spotify.com/track/5IwLjYaHO04YqP9SZRmIi4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
     },
     {
       "added_at": "2024-01-19 06:47:03",
@@ -159,6 +207,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "+243",
+        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "duration_ms": 194857,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
     },
     {
       "added_at": "2024-01-10 17:00:00",

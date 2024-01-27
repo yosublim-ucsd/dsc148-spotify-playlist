@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 
 > Enjoy the soundtrack of My Liberation Notes! \(드라마 나의 해방일지의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,578 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,588 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 3 | [Laggard](https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 |
 | 4 | [That Day](https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 |
 | 5 | [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 |
-| 6 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
+| 6 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 | 7 | [My Spring](https://open.spotify.com/track/01hBpZaHVwgAyxkuegRrS4) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [My Liberation Notes OST Part 7](https://open.spotify.com/album/4GxoEwxFNoMkDLbammppO8) | 4:12 |
 | 8 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 |
 | 9 | [A Kind Of Confession \(Female Ver.\)](https://open.spotify.com/track/2JulabkZjteUbO2oOawKXi) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 2:58 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 15 | [Laggard \(Inst.\)](https://open.spotify.com/track/0Qf4L4k49yjhqUPwhwGpsE) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 |
 | 16 | [That Day \(Inst.\)](https://open.spotify.com/track/04hk0UIuZRaD4UdK9Llmnj) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 |
 | 17 | [Be My Birthday \(Inst.\)](https://open.spotify.com/track/7Mkt2BILldW6AM23BpH0ld) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 |
-| 18 | [We Sink \(Inst.\)](https://open.spotify.com/track/0TqZWgjQV6Vt1x2YsJqAbD) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
+| 18 | [We Sink \(Inst.\)](https://open.spotify.com/track/0TqZWgjQV6Vt1x2YsJqAbD) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 | 19 | [My Spring \(Inst.\)](https://open.spotify.com/track/3wu0OPkZ1xh0EMVvmTCqrO) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [My Liberation Notes OST Part 7](https://open.spotify.com/album/4GxoEwxFNoMkDLbammppO8) | 4:13 |
 | 20 | [Diamond \(Inst.\)](https://open.spotify.com/track/6OIfJrlxajf9JPMyCafnCh) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 |
 | 21 | [I Think I Know \(Inst.\)](https://open.spotify.com/track/6Lu75sdDi17emdR55GleLL) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [My Liberation Notes OST Part 10](https://open.spotify.com/album/294GsETEHK2D4pm8O9KcnP) | 3:24 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 53 | [Homeground](https://open.spotify.com/track/3CgVQDDq902NtzGJRSQZ2Y) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:26 |
 | 54 | [Happy Ending](https://open.spotify.com/track/2Ya6w0aZbfzejyxKeAHZay) | [YOON CHAE YOUNG](https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 1:26 |
 
-Snapshot ID: `MCxiMGY4Yzc0ZTY2ODE4YmUzZTM5MDM0ZGQ4MzdmMGEwYWEzMDc0MTRm`
+Snapshot ID: `MCw3ZTJlM2RhOGU4Zjc0ZDhhZjcwOWFmNDA3OWQ5MzMzOWQxYzMxYTli`

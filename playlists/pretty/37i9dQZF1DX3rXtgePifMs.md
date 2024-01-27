@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,146 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,346 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [Sekkle In](https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Earache / Sekkle In](https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM) | 3:45 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCxjOThhMjhmYmM4MTdmYWE2OGJjNjdhMzc4MmE2M2E0MTE4OGUzMDQ2`
+Snapshot ID: `MCw3OTk3NGJkNjMwZjUyNmI2ZTgwNTY1YjM5N2Y1NWI1NTBhYTQ4ZjVm`

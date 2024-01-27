@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,540,297 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,541,141 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 |
 | 76 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
 
-Snapshot ID: `MCxlYTA3OTFiMzg3MTNhMWQzOWYzMWY1ZWNjMTU5MTBlN2VhZjhiMjM2`
+Snapshot ID: `MCw1ZGMxZWFmOGVkZGNlMjYzNmI1YTU5ODY0ODc2NmVjMzhmOGJhYjlm`

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your morning yoga session.
 
-636 songs - 1 day 7 hr 11 min
+639 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-11 |  |
 | [Clinomania](https://open.spotify.com/track/6b4OyybfZdBNXgknURxiTq) | [Emelie Kindh](https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp) | [Clinomania](https://open.spotify.com/album/5sR3dH6OibvYRN1jEXvkSg) | 3:51 | 2022-03-18 | 2022-11-26 |
 | [Close Your Eyes Once Again](https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Encounter](https://open.spotify.com/album/4O4UIoJHt1GHL7GkRkuyui) | 2:57 | 2022-03-18 | 2022-09-02 |
+| [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 | 2024-01-26 |  |
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-10 | 2023-08-30 |
 | [Cold Spring](https://open.spotify.com/track/1WwjE3IGXk54dNBRKZAXz3) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 2:04 | 2022-03-18 | 2022-07-29 |
 | [Cold Spring](https://open.spotify.com/track/5qzs925pSB9rD5v8tdu9CZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/4lnx4Xq7hxsOFltbRZ12fr) | 2:04 | 2022-07-28 | 2022-10-26 |
@@ -339,6 +340,7 @@
 | [Lullaby for Dreamers](https://open.spotify.com/track/6AsXo1lufj9WFqL4Youwzd) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Lullaby for Dreamers](https://open.spotify.com/album/1Ks1064T8n7ju8hQLGDH1D) | 3:02 | 2023-06-21 |  |
 | [Luminescence](https://open.spotify.com/track/2gtA1bK2XSyg4bWwkXz8wF) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Luminescence](https://open.spotify.com/album/4HvbDI30Xhbev7NLMaWv2Q) | 2:38 | 2022-06-22 |  |
 | [Luminous Corridor](https://open.spotify.com/track/1IIJYx2RQFNrHO2X9868LD) | [Elevatissimo](https://open.spotify.com/artist/5I9ymDOTe4vD38qQc1JYeN) | [Luminous Corridor](https://open.spotify.com/album/3cdzBgviCyZMfy2CKGQswf) | 2:34 | 2022-03-18 | 2023-08-11 |
+| [Luminus Circle](https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Luminus Circle](https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom) | 3:22 | 2024-01-26 |  |
 | [Lyng](https://open.spotify.com/track/47qB0XJToyyOis9VCopt5Q) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Lyng](https://open.spotify.com/album/4pcZEf8H3djemmKDO63JWv) | 3:22 | 2022-07-28 |  |
 | [Ma constellation](https://open.spotify.com/track/6gIqp5x0pYgLnMDBLPkgao) | [Ema Jihne](https://open.spotify.com/artist/2jzsKZk6U18dc7so1MWB2l) | [A la belle etoile](https://open.spotify.com/album/6yXXgpjWUIaGEZoL5ZUgwu) | 2:00 | 2022-05-10 | 2022-12-24 |
 | [Magna](https://open.spotify.com/track/3scqHSHRUG0X5qINBCVpjE) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Magna](https://open.spotify.com/album/36M8uMwRz3aGfoEsqg22zm) | 2:44 | 2022-03-18 | 2022-12-08 |
@@ -575,6 +577,7 @@
 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Aulin Heras](https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 | 2022-05-31 | 2022-10-26 |
 | [The Far Distance](https://open.spotify.com/track/6cmHtdStPdM9WJjZBqNwyf) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:03 | 2022-10-25 | 2022-12-24 |
 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-25 |  |
+| [The Free Air](https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [The Free Air](https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW) | 3:22 | 2024-01-26 |  |
 | [The Friendly Ghost](https://open.spotify.com/track/1vRJierLm2Vrsbn2NGzNUB) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [The Friendly Ghost](https://open.spotify.com/album/5FOF69WGkSmZzbME4xyOXP) | 3:01 | 2022-03-18 | 2023-01-14 |
 | [The Glowing Warmth](https://open.spotify.com/track/6f5KmR75ItwfoPM4Iu4aGt) | [Iseo Ander](https://open.spotify.com/artist/5TIC0VIC8D9AbwXrA0vN4f) | [The Glowing Warmth](https://open.spotify.com/album/1oBsomT6Ak6rF3qFilI63r) | 2:45 | 2022-11-25 |  |
 | [The Golden Path](https://open.spotify.com/track/4Yfx8KnmfYaNr58SVLV4QY) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 2:58 | 2022-03-18 | 2022-08-12 |

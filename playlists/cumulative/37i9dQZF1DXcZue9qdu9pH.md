@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-66 songs - 3 hr 51 min
+68 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2023-12-16 |
 | [Hivyo](https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:18 | 2023-06-30 |  |
 | [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 |  |
+| [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 |  |
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 |  |
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
 | [LIONESS](https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/1LyhGlYSYPkovZnz7X9Iud) | 3:12 | 2023-06-30 |  |
@@ -52,8 +53,9 @@
 | [Runaway](https://open.spotify.com/track/3T6SSkt8wFNAbRXr059GEL) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Why Am I](https://open.spotify.com/album/0UpzcwYzTv2bexQrNwboyh) | 4:00 | 2023-06-30 |  |
 | [s\_t\_h](https://open.spotify.com/track/6Psl0ZE8kSih75nrk0D97m) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [The Universe is Holding You](https://open.spotify.com/album/3EoCnLU9v6MkcoQsplFecN) | 3:32 | 2023-06-30 |  |
 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 | 2023-06-30 |  |
-| [Saa Kalo](https://open.spotify.com/track/4pf3QeVj6UGc0V3X6mxqYe) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Ere Yo](https://open.spotify.com/album/7DNAJQGsUTeV858UCsREoi) | 4:41 | 2023-06-30 |  |
+| [Saa Kalo](https://open.spotify.com/track/4pf3QeVj6UGc0V3X6mxqYe) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Ere Yo](https://open.spotify.com/album/7DNAJQGsUTeV858UCsREoi) | 4:41 | 2023-06-30 | 2024-01-27 |
 | [Same Page](https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:06 | 2023-06-30 |  |
+| [Sare Jokes](https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sare Jokes](https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9) | 2:02 | 2024-01-26 |  |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 | 2023-12-09 |
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 |  |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 |  |
@@ -62,7 +64,7 @@
 | [Sucky Place](https://open.spotify.com/track/0IxYhLVxCsjKR5Mv5ZWis4) | [Sichangi](https://open.spotify.com/artist/2DftdJfk5hxZfnnRETvXtE), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Soundtrack to a Heartbreak](https://open.spotify.com/album/5emRSeXmDV77latJDtwIM3) | 2:40 | 2023-06-30 |  |
 | [Superhuman](https://open.spotify.com/track/5IjmDEuIPnGuZlAjJVnsPV) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [The Awakening](https://open.spotify.com/album/6WnV2kPJou5mPZpmnSLvx0) | 3:03 | 2023-06-30 | 2023-10-24 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-06-30 |  |
-| [The Sun, The Grass & The River](https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 4:08 | 2023-06-30 |  |
+| [The Sun, The Grass & The River](https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 4:08 | 2023-06-30 | 2024-01-27 |
 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 | 2023-09-01 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-06-30 |  |
 | [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 | 2023-12-08 |  |

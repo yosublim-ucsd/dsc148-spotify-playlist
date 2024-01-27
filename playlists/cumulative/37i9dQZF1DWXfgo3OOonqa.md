@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,337 songs - 2 day 10 hr 47 min
+1,339 songs - 2 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Nere](https://open.spotify.com/track/0eJDlTe9RKCmmA2qbqMHY1) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Nere](https://open.spotify.com/album/1J7cOxPTlmbGS4s1Yq6vi4) | 2:11 | 2022-01-13 | 2022-02-04 |
 | [NERVOUS](https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [NERVOUS](https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q) | 2:10 | 2022-09-29 | 2022-11-18 |
 | [Next](https://open.spotify.com/track/6SPKgVl0S6t8lEqOGThiuF) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Varohl](https://open.spotify.com/artist/6G9T14kPHFXzL8Viegb6dy) | [UNDER TIDEN 3](https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw) | 1:57 | 2022-10-13 | 2022-11-04 |
+| [Next Up Scandinavia \- S1\-E4](https://open.spotify.com/track/5EBKB0TvJ6BeggcaWozv0x) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Scandinavia \- S1\-E4](https://open.spotify.com/album/1Gd0RsRWURZFst3n972FGf) | 1:58 | 2024-01-26 |  |
 | [Nia Mondo](https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Nia Mondo](https://open.spotify.com/album/7DLJtZ2jt4os2dgLZxmH5P) | 2:17 | 2021-12-16 | 2022-02-26 |
 | [Nigdy wiecej](https://open.spotify.com/track/6tnyrWNiCNek8xsOReS0QU) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Pappaisjappa](https://open.spotify.com/artist/3lyO0ckTcHudVm1wkTDb9h) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 3:32 | 2023-03-16 | 2023-03-25 |
 | [NIKE](https://open.spotify.com/track/02DYgKZ989wMiB04nGrhYQ) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [NIKE](https://open.spotify.com/album/0d80U9t56GLD00gLWUxz3z) | 2:33 | 2022-06-17 | 2022-06-28 |
@@ -1195,11 +1196,12 @@
 | [TOPP IDAG](https://open.spotify.com/track/3srWz7HzXOyZvfFSpkERLC) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:26 | 2022-05-05 | 2022-07-15 |
 | [Torkar Tårar](https://open.spotify.com/track/65w8eqh8Tdz7WSMeNQNH5B) | [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh) | [Torkar Tårar](https://open.spotify.com/album/6H2Ojyr3vYgr4FD4fxmAVX) | 2:55 | 2023-01-19 | 2023-02-03 |
 | [Torneträsket](https://open.spotify.com/track/3axBOKMbMygv4vvue5CUVi) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Ayla](https://open.spotify.com/artist/2bhXhHd607n9Ax6GhaNbPD), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Torneträsket](https://open.spotify.com/album/0oEcldjNxDGYH13AXE9Sqf) | 4:06 | 2022-04-14 | 2022-05-13 |
+| [Toto Bien](https://open.spotify.com/track/6n9IAWUx3QamVfNlQcdMaj) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Toto Bien](https://open.spotify.com/album/5XgwhFkliOQ7dVYSPb5B8r) | 2:22 | 2024-01-26 |  |
 | [Toto rina](https://open.spotify.com/track/77bdp38VGyb4Enx0XbqgbY) | [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [Toto rina](https://open.spotify.com/album/4I5H3GeBfZv63q40EVKezK) | 3:00 | 2023-07-20 | 2023-09-08 |
 | [Tour de france](https://open.spotify.com/track/3E3nCqzrDlkJ9V9bz0ijw1) | [ALXX](https://open.spotify.com/artist/42oNjM23ACV53FS64GZlSa), [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [Tour de france](https://open.spotify.com/album/48WUL5jwA9aCds5cNdeZpP) | 2:12 | 2022-06-02 | 2022-06-17 |
 | [Toxic](https://open.spotify.com/track/3MzstfXCjDmSW0rRLUxEIy) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Drillogi 2](https://open.spotify.com/album/2Vb6P90zzl0ex09Vb5H9oS) | 2:41 | 2022-06-17 | 2022-07-01 |
 | [Toxic](https://open.spotify.com/track/323HQ2RY3vEcvovOwm3vNq) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Toxic](https://open.spotify.com/album/524OeuH5dnlefyR9XmbZUC) | 2:48 | 2023-05-18 | 2023-08-04 |
-| [TOXIC](https://open.spotify.com/track/4eIMdJQXQ0HobHTWKcma2B) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [TOXIC](https://open.spotify.com/album/6NwRMczd6U8GCIAuakwRAt) | 2:20 | 2023-11-23 |  |
+| [TOXIC](https://open.spotify.com/track/4eIMdJQXQ0HobHTWKcma2B) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [TOXIC](https://open.spotify.com/album/6NwRMczd6U8GCIAuakwRAt) | 2:20 | 2023-11-23 | 2024-01-27 |
 | [Toxic](https://open.spotify.com/track/1FfLkGsY5puufJ7If0ikDh) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [GWG](https://open.spotify.com/artist/3EYhRp0nVBGmZ0ZonjgmFv) | [Toxic](https://open.spotify.com/album/4pEbojIaPy0CNmmQUy6ZRS) | 3:15 | 2022-03-17 | 2022-05-06 |
 | [Toxic](https://open.spotify.com/track/0mz9vn7wCRPaDb9WoProZa) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Toxic](https://open.spotify.com/album/0bCLG3QbItecMjIQ2WHOmr) | 2:08 | 2023-05-04 | 2023-06-09 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "AM-PM (Gluttony)",
+        "url": "https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168152,
+      "name": "AM-PM (Gluttony)",
+      "url": "https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI"
+    },
+    {
+      "album": {
         "name": "Angel in to the Darkness",
         "url": "https://open.spotify.com/album/3mTm5JDYQTxeV8JolyklYd"
       },
@@ -6487,6 +6505,42 @@
     },
     {
       "album": {
+        "name": "Hardshock Festival 2019",
+        "url": "https://open.spotify.com/album/1YWDz7aYyr9lh0bzxJyHWs"
+      },
+      "artists": [
+        {
+          "name": "Cryogenic",
+          "url": "https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62240,
+      "name": "Fake Ass Model Bitch [Mixed]",
+      "url": "https://open.spotify.com/track/1uBAuWOJkBnGCBBr3aiczY"
+    },
+    {
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/6agZ0uTwV5xImfUK65bnaG"
+      },
+      "artists": [
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188599,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4xVMm0rx6iqv65XJ7IOYb9"
+    },
+    {
+      "album": {
         "name": "FALL WITH ME",
         "url": "https://open.spotify.com/album/5bXdsl7pZ1wAXArTr8FZKX"
       },
@@ -8234,6 +8288,28 @@
       "duration_ms": 170937,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5OHdCpueECq21KGgRRwlEz"
+    },
+    {
+      "album": {
+        "name": "Give A Fuck",
+        "url": "https://open.spotify.com/album/1jv7Xlj8nNuxHOPcfJtU43"
+      },
+      "artists": [
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174012,
+      "name": "Give A Fuck",
+      "url": "https://open.spotify.com/track/11ZZzQgJXAw0lHvKF6y23S"
     },
     {
       "album": {
@@ -10264,6 +10340,28 @@
       "duration_ms": 187953,
       "name": "IN MY ZONE",
       "url": "https://open.spotify.com/track/5czw8I3SbtoPgA9CFwf0zc"
+    },
+    {
+      "album": {
+        "name": "IN MY ZONE (Sanctuary Remix)",
+        "url": "https://open.spotify.com/album/3SdyubznhTBU6bTEkAzMKV"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Sanctuary",
+          "url": "https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168027,
+      "name": "IN MY ZONE - (Sanctuary Remix)",
+      "url": "https://open.spotify.com/track/6PFTrdtW5vXWgYAW9JKcFv"
     },
     {
       "album": {
@@ -13485,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/59mrdZOzQaJ1fwfzOz5gfS"
+      },
+      "artists": [
+        {
+          "name": "BreakStyle",
+          "url": "https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166310,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/2CUIJX7SUpIEjjTSnUdjtJ"
+    },
+    {
+      "album": {
         "name": "Natsunohate",
         "url": "https://open.spotify.com/album/1EKOSL14zwun268foawaqc"
       },
@@ -14590,6 +14706,28 @@
       "duration_ms": 260005,
       "name": "Oldschool Vibe",
       "url": "https://open.spotify.com/track/20aATMUbhkYPqvj98ROwqP"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/5TzA4F1jF2pW9XKx41tmoE"
+      },
+      "artists": [
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+        },
+        {
+          "name": "Screecher",
+          "url": "https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171512,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/05X5EEUF98ivpyyMcXiZly"
     },
     {
       "album": {
@@ -17023,6 +17161,28 @@
     },
     {
       "album": {
+        "name": "ROCK THE PARTY",
+        "url": "https://open.spotify.com/album/0g7sXazuFcwzAwXfB0YqrL"
+      },
+      "artists": [
+        {
+          "name": "Hatred",
+          "url": "https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ"
+        },
+        {
+          "name": "The Teacher",
+          "url": "https://open.spotify.com/artist/5OT3OFFJzsgYs5A7cnzgr7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156571,
+      "name": "ROCK THE PARTY",
+      "url": "https://open.spotify.com/track/3T1AE8iRhpGCmyI9rVU2tI"
+    },
+    {
+      "album": {
         "name": "Rock The Place",
         "url": "https://open.spotify.com/album/4bNzsVWGcxG5sccui28uK9"
       },
@@ -18332,6 +18492,32 @@
       "duration_ms": 235606,
       "name": "Start The Fire",
       "url": "https://open.spotify.com/track/7sLFSUNwyLbFZ7hovu4a3j"
+    },
+    {
+      "album": {
+        "name": "Start Walking",
+        "url": "https://open.spotify.com/album/3XsEkFd1pdEpjLfjTHwTfi"
+      },
+      "artists": [
+        {
+          "name": "Vernex",
+          "url": "https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC"
+        },
+        {
+          "name": "Sandy Warez",
+          "url": "https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM"
+        },
+        {
+          "name": "Kratox",
+          "url": "https://open.spotify.com/artist/1tEULdMAvcimepmjfUkDCO"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Start Walking",
+      "url": "https://open.spotify.com/track/0ayvGN30akgA6KsZZrBkLE"
     },
     {
       "album": {
@@ -20382,6 +20568,28 @@
       "duration_ms": 184665,
       "name": "Time Has Come",
       "url": "https://open.spotify.com/track/3ZxDoUNTbjvVT9y5Mf0mun"
+    },
+    {
+      "album": {
+        "name": "Time to Leave",
+        "url": "https://open.spotify.com/album/4uWSchuVCaKAPpRHZbdho4"
+      },
+      "artists": [
+        {
+          "name": "Fyloh",
+          "url": "https://open.spotify.com/artist/3VLpd6XZs2Q6OQRaIomc5h"
+        },
+        {
+          "name": "Heartless",
+          "url": "https://open.spotify.com/artist/5kt5kCRNT99Dr93bWD0RPo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160858,
+      "name": "Time to Leave",
+      "url": "https://open.spotify.com/track/7dAYin26LBw20TPbS5GQoC"
     },
     {
       "album": {

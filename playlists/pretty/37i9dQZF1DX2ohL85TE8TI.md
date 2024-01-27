@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: MY DEMON\(마이데몬\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,859 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,523,888 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 4 | [Good Person](https://open.spotify.com/track/2rFruUru0ZA5QSJ6DJoDMm) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2QeUHkGZ3X5rSw3HBVBE4C) | 3:34 |
 | 5 | [I'll Find You](https://open.spotify.com/track/3cLWOb7hIhGTbswWqqISP0) | [WOOYEON](https://open.spotify.com/artist/32v1AQMVgVG4PJ9jXWQS5l) | [Snap and Spark \(Original Soundtrack\) Part.3](https://open.spotify.com/album/6mdhIZQo0qC3Ciy5JYM0mO) | 3:01 |
 | 6 | [TRUE](https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [YOARI X MY DEMON](https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf) | 3:12 |
-| 7 | [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
+| 7 | [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 8 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 |
 | 9 | [Everything of Us](https://open.spotify.com/track/6GZdBkrKNN2eD6TbKLFzFv) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Moon in the day, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3lPWY7gF6Nkwbd3rrQiBwZ) | 3:24 |
 | 10 | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/track/73ByHWU9prg74XMJHM6Nfy) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/album/2n59KRYHmLnU3SxfzRHKWv) | 3:30 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 14 | [I Fall In Love](https://open.spotify.com/track/3kmiZLsnhfqndAKiJMib2Q) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Live your own life OST Part\. 4 \(Soundtrack\)](https://open.spotify.com/album/1nsl7ZKyqy9p7wdINmEYcR) | 3:52 |
 | 15 | [Can We Go Back To The Good Old Days](https://open.spotify.com/track/0Tk3i4zjMKNbD5xvOXKIii) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Soundtrack \#2: Vol\. 1](https://open.spotify.com/album/3I4gPQQ9JMsM5lNEsTFurJ) | 4:10 |
 | 16 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 |
-| 17 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
+| 17 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 18 | [I'm afraid love will come again](https://open.spotify.com/track/3txb1pa6m3bYVBZMZv2GD5) | [BO RA \(Cherry Bullet\)](https://open.spotify.com/artist/6s6Nq0B0SbJViFZ3R6B691) | [The Matchmakers OST Part.4](https://open.spotify.com/album/652wRvL6hsZZjJjEyfCS5p) | 4:03 |
 | 19 | [Wave of Dream](https://open.spotify.com/track/2ZouBivQgMO7CtUxRT13Lj) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Moon in the day, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/67An8YhfVUFA3cQ8HYpQmu) | 4:15 |
 | 20 | [Maestra](https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0) | [조성우](https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD) | [Maestra \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv) | 2:58 |
@@ -108,10 +108,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 98 | [Happy Together](https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95) | [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:40 |
 | 99 | [That night](https://open.spotify.com/track/39xCVmownamTOcvNPslbO4) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Heartbeat \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/3mk6dri7UvhIglmEiKgG8p) | 3:57 |
 | 100 | [Spoiler](https://open.spotify.com/track/5y6jryJF3l5KqnCZMPw1qR) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [My Lovely Liar, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5LKJGEt0FiAr1X9PklDkgS) | 3:10 |
-| 101 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
+| 101 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
 | 102 | [The breath](https://open.spotify.com/track/0ueGZc0MRyHtYtIDIHUXKT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Revenant \(Original Soundtrack\) Pt.4](https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R) | 3:33 |
 | 103 | [We are still](https://open.spotify.com/track/6dB7ouNHcivhWCmpIsB097) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [D.P\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3FA6NBPtvE7KlH1ULQJIHP) | 4:04 |
 | 104 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
 | 105 | [Which Season](https://open.spotify.com/track/5Mnsc0A7mgceTqDCw25N4L) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 21](https://open.spotify.com/album/0klaPOXVmNwJ4X39qsEfcY) | 4:55 |
 
-Snapshot ID: `MCwzOTE1M2M0ODZkMTlmNjA0NTk2MzhkNWE1OWY3MzhjMTc2NzA5NTY0`
+Snapshot ID: `MCwyN2E2YjlkNTFmMmEwYzA5MGNiODM3ZGQzZjIwYmY5NzdmZjJhOGFl`

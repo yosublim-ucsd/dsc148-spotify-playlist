@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 195669,
+  "2024-01-27": 195689,
   "date_first_scraped": "2023-11-11",
   "description": "This is Aitana. The essential tracks, all in one playlist.",
   "name": "This Is Aitana",
@@ -239,7 +239,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 167192,
       "name": "CUANDO TE FUISTE",
       "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 210726,
       "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"

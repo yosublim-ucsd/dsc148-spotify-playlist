@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 419 songs - 1 day 3 hr 27 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 420 songs - 1 day 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -427,5 +427,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 417 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
 | 418 | [Rhododendron Overlook](https://open.spotify.com/track/01zy9hOX1ZcvF1qjQC3EJr) | [Violet Pine](https://open.spotify.com/artist/6wmZyabjfKGIsSiQQxj93r) | [If I Sit Here Long Enough](https://open.spotify.com/album/2TcTUQz8kWFf0wXT7dgWAz) | 6:48 |
 | 419 | [The Day Begins](https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Remastered 2017\)](https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i) | 5:48 |
+| 420 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 |
 
-Snapshot ID: `MTMyNSw2MzFiOGNkYTkzY2I5YmNlYzVmYTM0OGYxNjRiZTI4Yzc4MDNiZmEy`
+Snapshot ID: `MTMyOCwwYmZiMWUxMjExNjZkMDBjYTY1Y2IzYmVmOThjMzgyMzIyNzRjY2Mx`

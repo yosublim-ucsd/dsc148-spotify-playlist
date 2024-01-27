@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Keith Urban's hit album "Fuse" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,023 likes - 200 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,358 likes - 200 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 |
 | 200 | [Where I Come From](https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Rebels on the Run](https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm) | 3:21 |
 
-Snapshot ID: `MCwzMDVjMmEyZDZmNWNjNDBhOWViMTcyZTQ0MzE2M2Q3YWQzOGRiMGEw`
+Snapshot ID: `MCwwZTk2Y2U5NjllN2ZlNDAzZmVlOTY0NjljZTI4NjQ3MmIyZGMzZThi`

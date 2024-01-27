@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 79583,
+  "2024-01-27": 79605,
   "date_first_scraped": "2022-10-01",
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Joyce Olong",
   "name": "Afro Indie",
@@ -1402,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Let Me Go (Acoustic)",
+      "url": "https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq"
+    },
+    {
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
       },
@@ -2733,7 +2751,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 223260,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s"

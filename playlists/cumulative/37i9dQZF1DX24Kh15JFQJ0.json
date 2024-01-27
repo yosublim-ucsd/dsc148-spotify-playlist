@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Hold On Hope (with Eric Church)",
+        "url": "https://open.spotify.com/album/6B5cFxr38RU2w3FlAMRIhs"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212531,
+      "name": "Hold On Hope (with Eric Church)",
+      "url": "https://open.spotify.com/track/5wXfwmtAOe8Rv0WiSgFUW0"
+    },
+    {
+      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },

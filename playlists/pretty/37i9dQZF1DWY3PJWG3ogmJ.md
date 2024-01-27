@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,485 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,643 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 120 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
 
-Snapshot ID: `MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz`
+Snapshot ID: `MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,692 likes - 151 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,702 likes - 151 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 54 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
 | 55 | [You and I](https://open.spotify.com/track/1UwVpY94ycUvPPcEGaitou) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Couple on the Backtrack \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6ca5HPYJlOSeaPtIJ3Z9Ep) | 4:13 |
 | 56 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 57 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 |
+| 57 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 |
 | 58 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 |
 | 59 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 |
 | 60 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 130 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 131 | [너의 기사 Your Knight](https://open.spotify.com/track/4QEXiHUHiDe7OaqtwpbnUJ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/16v4mvD3Umt3hJLi7ZcUdX) | 3:11 |
 | 132 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
-| 133 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 |
+| 133 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 |
 | 134 | [Picture of You](https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Hwang Moon Seob](https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr) | [Picture of you](https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9) | 2:58 |
 | 135 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 |
 | 136 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 150 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 151 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCw4YTA4ZjE5ZTE5ZDBjMjc3MGM5YjM4MTg1ZDU4NDBlZWM1YmJhMjM3`
+Snapshot ID: `MCwxNzhlN2FkOTgxNmIyMGJlMDE5MzdkNGVlNGJmYTg2NmNkNTllNDk4`

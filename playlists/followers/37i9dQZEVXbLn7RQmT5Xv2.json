@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 27480,
+  "2024-01-27": 27512,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Egypt.",
   "name": "Top 50 - Egypt",
@@ -9317,7 +9317,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 289227,
       "name": "Sabry Aalil",
       "url": "https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU"
@@ -11544,6 +11544,28 @@
     },
     {
       "album": {
+        "name": "Wo3ood",
+        "url": "https://open.spotify.com/album/39R31eUEebxYctZmty8hhZ"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Moaaz Hamed",
+          "url": "https://open.spotify.com/artist/4GEdHhtW9lWFNol245fkMX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252075,
+      "name": "Wo3ood",
+      "url": "https://open.spotify.com/track/21xzasfNyth66koAVTkNTA"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -12681,7 +12703,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 195882,
       "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/0SbObewB36qKLWcaxMntej"
@@ -14405,7 +14427,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 163121,
       "name": "\u0644\u0650\u0644\u0651\u064a",
       "url": "https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf"

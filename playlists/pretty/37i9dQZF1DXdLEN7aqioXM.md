@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,120 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,197 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Turnover](https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B) | [Envotion](https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS) | [Turnover](https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd) | 3:05 |
 | 150 | [Across Dark Sky](https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Across Dark Sky](https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90) | 3:13 |
 
-Snapshot ID: `MCxlNjM4ZGEzMjgxNzJjOWQ5NTA4Yjk3MTdmNmM4YTY5ODI5YWQ0N2Q5`
+Snapshot ID: `MCxiOWY2YmNkODk1YjRjYTkxODI0ZmY3NjI4NGQwN2UzZWJkMjIwMGM0`

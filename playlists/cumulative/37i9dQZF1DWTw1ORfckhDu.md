@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Senya.
 
-300 songs - 14 hr 28 min
+302 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Puhu pahaa](https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Puhu pahaa](https://open.spotify.com/album/3g7uT2PjCsbLGKMRkPSqpS) | 2:55 | 2023-09-21 | 2024-01-12 |
 | [Puol kilsaa helvettiin \(feat\. Tuomas Kauhanen\)](https://open.spotify.com/track/0b4zrtymXZ8UVmkJGpmQhh) | [Tuomo Pee](https://open.spotify.com/artist/0gq6DbtU9E2vcYyFhEblYp), [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Puol kilsaa helvettiin \(feat\. Tuomas Kauhanen\)](https://open.spotify.com/album/2Vtb4JnXRt2dnsKy9XFIxk) | 3:02 | 2023-10-19 | 2023-10-27 |
 | [Purjehtija](https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Purjehtija](https://open.spotify.com/album/4ChX26IMBE1mm5EIE4N9uA) | 2:38 | 2023-11-02 | 2024-01-12 |
+| [pää eel](https://open.spotify.com/track/5eSl8Q9chK0YZ0PU8Giz67) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [sim/pää eel](https://open.spotify.com/album/36pdXixZc2XTjWne7rK77x) | 2:19 | 2024-01-26 |  |
 | [Pää irti](https://open.spotify.com/track/5G3n5lnygZ8sBlQALfEect) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Pää irti](https://open.spotify.com/album/2YT8ieyiVvdG1aHBVSiImi) | 2:19 | 2023-11-30 | 2023-12-08 |
 | [Päästää irti](https://open.spotify.com/track/3bbnY02F4WYbQnxAx1WY3l) | [ADIVA](https://open.spotify.com/artist/31SWuzmzKlZLttVf4IMACW), [Dreas](https://open.spotify.com/artist/643zuX8YGhsDtirkCQJIwE) | [Päästää irti](https://open.spotify.com/album/4buDPQtKoK1SkXcSHA6haP) | 2:41 | 2024-01-04 | 2024-01-19 |
 | [Päätön hevonen](https://open.spotify.com/track/1kARqcLF8qud7K5WNxFUEy) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB), [KAKKU](https://open.spotify.com/artist/2JPgBGUtlIYbnxr1PffsXD) | [Päätön hevonen](https://open.spotify.com/album/1iPDNTEwYy1kl2uDigD6bb) | 2:55 | 2024-01-25 |  |
@@ -221,7 +222,8 @@
 | [Ride or Die](https://open.spotify.com/track/5l8N2KjnzXTlhIfw32YzbX) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Ride or Die](https://open.spotify.com/album/3Rg21pAHsjQcMwiEw0TmVg) | 2:47 | 2023-11-16 | 2023-12-08 |
 | [Righteous](https://open.spotify.com/track/2XTVHgtFhbXEMsv7T4Kj73) | [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj) | [GoGetter](https://open.spotify.com/album/3YQ10HWXEatQYDuq5i9AtT) | 2:21 | 2023-09-21 | 2023-09-29 |
 | [Riidellään](https://open.spotify.com/track/6FPbXTKc9DZCeseA5Gzv27) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Riidellään](https://open.spotify.com/album/1n9F3Lqv6JXZGlQeXNsOFs) | 2:02 | 2024-01-04 |  |
-| [Rikosrekisteri 2](https://open.spotify.com/track/4lQNe723Kc0n1NFLnWRenV) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Rikosrekisteri 2](https://open.spotify.com/album/3nbhFVwnwbgxI37B2DJ7dN) | 3:56 | 2024-01-25 |  |
+| [Rikosrekisteri 2](https://open.spotify.com/track/4lQNe723Kc0n1NFLnWRenV) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Rikosrekisteri 2](https://open.spotify.com/album/3nbhFVwnwbgxI37B2DJ7dN) | 3:56 | 2024-01-25 | 2024-01-27 |
+| [Rikosrekisteri 2](https://open.spotify.com/track/5gY1vrys9KVOuvgcGJvS52) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Paratiisi SRJTNT Vol\. 3](https://open.spotify.com/album/6HXBOglr4QsdJ5ERXXbVkm) | 3:56 | 2024-01-26 |  |
 | [Rio](https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK) | [Phimi](https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk), [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Rio](https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r) | 2:23 | 2023-09-21 | 2023-10-20 |
 | [ROISTO](https://open.spotify.com/track/7cEX0molDUgDwiw3Mjzsmt) | [Mäly](https://open.spotify.com/artist/7Dmkxc9giT3jSEuKKX20b0), [rare](https://open.spotify.com/artist/6oxHDZYK4DdWQ9SqMntkes) | [ROISTO](https://open.spotify.com/album/5Cp3eaVCmNQugVdFZUOvI3) | 2:00 | 2024-01-04 | 2024-01-12 |
 | [Ruotsinlaiva](https://open.spotify.com/track/1TJZBnGcTwM89FoOBxuM87) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Ruotsinlaiva](https://open.spotify.com/album/0YOIUxCU79NvRXaLvzF4yE) | 3:30 | 2023-11-09 | 2023-12-08 |

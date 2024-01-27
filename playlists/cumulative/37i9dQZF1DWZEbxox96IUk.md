@@ -4,7 +4,7 @@
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-67 songs - 4 hr 37 min
+68 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Les démons de minuit \(Version single\)](https://open.spotify.com/track/4ePsPRmL0aXbgCY2BwOBGZ) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit \- EP](https://open.spotify.com/album/3tiEnone5M9hFCnmk9j6xj) | 3:56 | 2023-12-13 |  |
 | [Les lacs du Connemara](https://open.spotify.com/track/1qqZp3jIXNctfD4oOhN6Ef) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Long Box](https://open.spotify.com/album/1BezUoM2R3WDKFk3CUhqWS) | 6:03 | 2023-12-13 |  |
 | [Les lacs du Connemara](https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Les Lacs Du Connemara](https://open.spotify.com/album/3pTPQbaS5vKxke6Edvnlen) | 6:03 | 2022-05-23 | 2024-01-26 |
-| [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 | 2022-05-23 |  |
+| [Les sunlights des tropiques](https://open.spotify.com/track/5DwbrhdKbySbsXOo1zPlgG) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/1fJDHcBtTHl2dIpX1D3aoi) | 3:57 | 2023-12-13 |  |
+| [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 | 2022-05-23 | 2024-01-27 |
 | [Libertine](https://open.spotify.com/track/1zlYAnYJD7TzHiXnA6oQEW) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Libertine](https://open.spotify.com/album/2nkqzj7uKomG5q4UHV2EGi) | 3:46 | 2022-05-23 |  |
 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 | 2022-05-23 |  |
 | [Manureva](https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx) | 6:43 | 2022-05-23 |  |

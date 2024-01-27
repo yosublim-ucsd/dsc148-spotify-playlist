@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,170 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,331 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 45 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
 | 46 | [La Tamalera](https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Tamalera](https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV) | 2:33 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDA4MDdmMmRmMDNjYTMyNDlkMTFlYTQ3ZWI1YWM3Y2U5MQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBkZjFhYTRmNTZkN2RjYzFlZmI4ZGY2ODkwZmJkZWFiYg==`

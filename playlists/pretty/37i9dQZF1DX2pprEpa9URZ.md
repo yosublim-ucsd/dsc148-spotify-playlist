@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,171 likes - 75 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,299 likes - 75 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
 | 75 | [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 |
 
-Snapshot ID: `MCwyMTFiMDM2NzYxZTdmNDU2YjhlMzg3NWJhMzVlMjNhYjEyNmM2NmQ1`
+Snapshot ID: `MCxmZGVlOTM2MjVlODM0MjIyYTAwMWQ3M2U5ZGYwMzdlNTgzOTJhZmI0`

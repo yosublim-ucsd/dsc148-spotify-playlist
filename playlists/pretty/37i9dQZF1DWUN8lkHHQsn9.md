@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:09GfElZ8wfFoJyaHNbSaan">Sophie Szklarska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,066 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,072 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 79 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 80 | [Bezpowrotnie](https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Bezpowrotnie](https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06) | 3:02 |
 
-Snapshot ID: `MCxmN2Q3YjMzNjU0ODljYzg1MDhkNzk4NTU2YWQyMGMzZmI4NDY1Y2Rh`
+Snapshot ID: `MCwwZTk3YzhjZTYxZWFjNDFlNTMzMDYzYjUwMTllNDg2NGRlMWM1NzE1`

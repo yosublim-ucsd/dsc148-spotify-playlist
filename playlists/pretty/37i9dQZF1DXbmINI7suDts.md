@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,173 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,184 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 24 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 |
 | 25 | [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 |
 | 26 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
-| 27 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 |
+| 27 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 |
 | 28 | [Call Me Crazy](https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu) | [The Goddess Lawino](https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Call Me Crazy](https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ) | 3:09 |
-| 29 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3MDL0K0VQwb4tji9qSek91), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 |
+| 29 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 |
 | 30 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 31 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 |
 | 32 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 |
 | 60 | [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 |
 
-Snapshot ID: `MCw5NTY2OGYyOWYxYjQ0OWMyZDhhOGIxYzJmYTA2OTJlZmQ5YTQ0MGQ3`
+Snapshot ID: `MCwyZmZlYjA4YjA5NWNlNjg4YzkyMzgyODFkYzlhMjE5ZWEzMWM5OGRj`

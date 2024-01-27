@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,071 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,066 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 |
 | 50 | [Chim Sẻ & Dâu Tây \- Stage Version](https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s) | [Dế Choắt \(DC\)](https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT) | [1St.](https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7) | 2:05 |
 
-Snapshot ID: `MCxmNDE4Y2VkNTY1MzkyYWQ2OTU4MzMwZWU0ZWE1OTViMGNjZTRiYzk5`
+Snapshot ID: `MCwyNGI1MDAyMDVlODExNDYyNzFmYWY1YmJiMWFkZmMxNWVkYjNjZmQz`

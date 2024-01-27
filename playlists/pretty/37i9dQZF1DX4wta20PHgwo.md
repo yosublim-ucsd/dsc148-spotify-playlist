@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,925 likes - 200 songs - 18 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079,401 likes - 200 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 199 | [Story from a Stranger](https://open.spotify.com/track/6flkJf6S1CIc1rLNivcd8n) | [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [From a Mountain](https://open.spotify.com/album/7C8sdv2xwY8rvMf2GYSnaO) | 3:59 |
 | 200 | [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 |
 
-Snapshot ID: `MCxjY2M5NjdhMmI5Nzk4MjJhNzdhZTkwYjU0M2NmZjI3YzZjNjIwZTJh`
+Snapshot ID: `MCw3MmYzMWZhZGE3ZDExZjY0NjQzOGY5MzhmNzU3ZDJmNTUxMDMzZjRh`

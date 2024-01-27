@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Ain't Missin' You",
+        "url": "https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "Ain't Missin' You",
+      "url": "https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy"
+    },
+    {
+      "album": {
         "name": "All I Need Is You",
         "url": "https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 195586,
       "name": "Doing Life With Me",
       "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
@@ -1925,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Heart They Didn't Break",
+        "url": "https://open.spotify.com/album/0UEl0ztfoALMXiCqjl8tvN"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190540,
+      "name": "Heart They Didn't Break",
+      "url": "https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh"
+    },
+    {
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
@@ -2742,7 +2778,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP"
@@ -3204,7 +3240,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
@@ -3890,7 +3926,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 193898,
       "name": "Shoot Tequila",
       "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
@@ -5326,7 +5362,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183107,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"

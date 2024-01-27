@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,148 likes - 47 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,155 likes - 47 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
 | 47 | [Balinese Fantasy \(feat\. Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri & Anthony Hindson\)](https://open.spotify.com/track/4gX8zohTKh60fGL3jZgxHV) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Dana Pandey](https://open.spotify.com/artist/6ZNiKkCIGJqrJIkcyWGyiB), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Syed Arshad](https://open.spotify.com/artist/5133gOOsLNGTDEdRBf8OvJ), [Vince Delgado](https://open.spotify.com/artist/30iufXAcbiAyoV3CgunYNg), [Aushim Chaudhuri](https://open.spotify.com/artist/6eHtMIbxdeGtNFVQuPVXk8), [Anthony Hindson](https://open.spotify.com/artist/4SxNRoFulwosvUXRmsBPQs) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:52 |
 
-Snapshot ID: `MCw2ODcwNjU1ODc2NjlmYmYwYjE4ODhiMzI5OGY3M2ZmNTliODRlNWJi`
+Snapshot ID: `MCw4Y2RhNTZlMDA4MDI5ZmFjOTVjMTAxNTkzYWFlNjgzNDk2MTE4N2Qy`

@@ -1,328 +1,264 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10615,
+  "num_followers": 10613,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY2MyxlODg5NzI3YjEzY2I0OTI2NzUxOTBhODRiZDNkOWM2YzZhZmI0Njdk",
+  "snapshot_id": "MjY2NSwyZjg3OGY4NDM4ODFiNTVkMjJmZDNiYzVjNzkzODdmNWI3NjQzZWZj",
   "tracks": [
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Off With Her Tits",
-        "url": "https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr"
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
       },
       "artists": [
         {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 196648,
-      "name": "Off With Her Tits",
-      "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "You Love Who You Love",
-        "url": "https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "You Love Who You Love",
-      "url": "https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Mean Girls",
-        "url": "https://open.spotify.com/album/5pyO5W1ssC5hhgtyGuYkwC"
+        "name": "What's Love (feat. MUNA)",
+        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
       "artists": [
         {
-          "name": "Glowe",
-          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
-        }
-      ],
-      "duration_ms": 167803,
-      "name": "Mean Girls",
-      "url": "https://open.spotify.com/track/7f4DG9vrgpSgOLWpc7yipo"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/5LWCWTYFBiK2wjDuoCgULt"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/5ySUEftjq9CpbeeQiRYaBX"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "If I Don't Laugh I'll Cry",
-        "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "If I Don't Laugh I'll Cry",
-      "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Chloe Enough!",
-        "url": "https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj"
-      },
-      "artists": [
-        {
-          "name": "CXLOE",
-          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
-        }
-      ],
-      "duration_ms": 150014,
-      "name": "Chloe Enough!",
-      "url": "https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Boy in the Back",
-        "url": "https://open.spotify.com/album/0HW4sTSB9JRHJspGr8L3ce"
-      },
-      "artists": [
-        {
-          "name": "SKYLAR",
-          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
-        }
-      ],
-      "duration_ms": 151847,
-      "name": "Boy in the Back",
-      "url": "https://open.spotify.com/track/4SGEMgo0dBDqAznK9Q0CtL"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Like I Was Never Here",
-        "url": "https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 218100,
-      "name": "Like I Was Never Here",
-      "url": "https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Never Need Me",
-        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Never Need Me",
-      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Cross Bridges",
-        "url": "https://open.spotify.com/album/5hgKC38tzWh22EV98HN3Nc"
-      },
-      "artists": [
-        {
-          "name": "june",
-          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "Cross Bridges",
-      "url": "https://open.spotify.com/track/1lPZNd1xq4kSClrag6Q8Nx"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/1uRqKyjf4aSw8g68tXy754"
-      },
-      "artists": [
-        {
-          "name": "SIIGHTS",
-          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
-        }
-      ],
-      "duration_ms": 160110,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn"
-    },
-    {
-      "added_at": "2024-01-19 17:36:22",
-      "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         },
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Atom Bomb",
-        "url": "https://open.spotify.com/album/1m7J2mLzE0rlXQIJbmnoSI"
+        "name": "Ego Rush",
+        "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
       },
       "artists": [
         {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
         }
       ],
-      "duration_ms": 153542,
-      "name": "Atom Bomb",
-      "url": "https://open.spotify.com/track/5DPxNfBMFY2Npj5mGi0lAn"
+      "duration_ms": 159806,
+      "name": "Ego Rush",
+      "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Susan",
-        "url": "https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0"
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 198974,
-      "name": "Susan",
-      "url": "https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO"
+      "duration_ms": 173933,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Dancefloors & Drama Vol. 1",
-        "url": "https://open.spotify.com/album/0mKyM4mMIwktTrIn3LxYXo"
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
       },
       "artists": [
         {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 191477,
-      "name": "Broke Me Good",
-      "url": "https://open.spotify.com/track/2TTOgmORQI8mDGRiuJw2xK"
+      "duration_ms": 160421,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "All Night (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+        "name": "eat me alive",
+        "url": "https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 159946,
+      "name": "eat me alive",
+      "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "Life Is Tough (But So Am I)",
+        "url": "https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
         },
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
         }
       ],
-      "duration_ms": 197763,
-      "name": "All Night (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
+      "duration_ms": 199757,
+      "name": "Life Is Tough (But So Am I)",
+      "url": "https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5"
     },
     {
-      "added_at": "2024-01-19 17:36:22",
+      "added_at": "2024-01-26 12:21:27",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C"
+        "name": "Know Nothing",
+        "url": "https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP"
       },
       "artists": [
         {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
         }
       ],
-      "duration_ms": 190373,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV"
+      "duration_ms": 180466,
+      "name": "Know Nothing",
+      "url": "https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "Shape of Me (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Shape of Me (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/3u0SfcaJb189Qph3CIMgEs"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "duration_ms": 128307,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/6rNDRkdg6B4ZyL8OleyLXW"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
+      },
+      "artists": [
+        {
+          "name": "Heidi Klum",
+          "url": "https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Sunglasses at Night",
+      "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "California Lover",
+        "url": "https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x"
+      },
+      "artists": [
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "California Lover",
+      "url": "https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD"
+    },
+    {
+      "added_at": "2024-01-26 12:21:27",
+      "album": {
+        "name": "Waterslides",
+        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 158174,
+      "name": "Waterslides",
+      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,736 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,759 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 60 | [Siwarquinticha](https://open.spotify.com/track/5AXFzmnW21Atxa2zM92VsA) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Mensajes Andinos](https://open.spotify.com/album/4DBGVbYysli4Ir4J1cjvXI) | 3:40 |
 
-Snapshot ID: `MCxlNmU4NmRkNzAyNDY4NjJiYmYxMjc2OWIwODUwNDgxZGFjMGEyMjg4`
+Snapshot ID: `MCw5Mzg0ZDc5ZGNlZjVkMzJlMmI5Y2FkMDBiODQ2ODA5NTA1YmVjNDBh`

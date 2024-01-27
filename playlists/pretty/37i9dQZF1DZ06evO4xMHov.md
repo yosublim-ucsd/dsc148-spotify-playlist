@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,018 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,007 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 43 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 |
 | 44 | [Meu Maior Amor \- Ao Vivo](https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 4:51 |
 | 45 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
-| 46 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
-| 47 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 |
-| 48 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
-| 49 | [Vem Outra Vez](https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem Outra Vez](https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU) | 7:27 |
-| 50 | [Deus do Impossível, YAHWEH \- Ao Vivo](https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Deus do Impossível, YAHWEH \(Ao Vivo\)](https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh) | 5:46 |
+| 46 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 |
+| 47 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
+| 48 | [Vem Outra Vez](https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem Outra Vez](https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU) | 7:27 |
+| 49 | [Deus do Impossível, YAHWEH \- Ao Vivo](https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Deus do Impossível, YAHWEH \(Ao Vivo\)](https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh) | 5:46 |
+| 50 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDA1OWM4MzBlZjMyNWY2YTE2YzFhYmUyMzhmMDkwZjAzNw==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDAzY2RmOTc2MDk1Y2IyZjM0NjFjZmVlNmMyYWI3M2JlNg==`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 395997,
+  "2024-01-27": 396107,
   "date_first_scraped": "2022-05-23",
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
   "name": "Romance Grupero",
@@ -749,7 +749,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 207792,
       "name": "El Regalo",
       "url": "https://open.spotify.com/track/5D0fWMxBbdyIq9zT9whqrD"
@@ -771,6 +771,24 @@
       "duration_ms": 207792,
       "name": "El Regalo",
       "url": "https://open.spotify.com/track/7DRE3azMuqMFWWldlfEnui"
+    },
+    {
+      "album": {
+        "name": "El Regalo",
+        "url": "https://open.spotify.com/album/5t6D7FOAlo8uE8qEXzm61Z"
+      },
+      "artists": [
+        {
+          "name": "Los Due\u00f1os Del Sol",
+          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207793,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/6DroKi0OlIbFmQEb6JSi0E"
     },
     {
       "album": {
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 191026,
       "name": "Y Me Dijo Eres Tu",
       "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
@@ -2515,6 +2533,24 @@
       "duration_ms": 191026,
       "name": "Y Me Dijo Eres Tu",
       "url": "https://open.spotify.com/track/2AHpYjJ5seLjktGggmewW6"
+    },
+    {
+      "album": {
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/6RcGuHhHeDWVwyckC7Gq1u"
+      },
+      "artists": [
+        {
+          "name": "Los Rodarte",
+          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Y Me Dijo Eres Tu",
+      "url": "https://open.spotify.com/track/3V96G2c2S5hairNDPLxqiP"
     },
     {
       "album": {

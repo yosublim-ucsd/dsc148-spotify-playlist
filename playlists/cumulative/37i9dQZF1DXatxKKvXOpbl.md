@@ -4,7 +4,7 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-172 songs - 10 hr 8 min
+173 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,8 +171,9 @@
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2021-03-05 | 2022-07-29 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/5CuujDaCCdlqzUVPFPPHHl) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Dang! \- Pool Day Hits](https://open.spotify.com/album/7iRvkL2fnhr6OFEVg1VnY0) | 3:13 | 2022-10-14 | 2022-11-14 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 3:13 | 2021-03-05 |  |
+| [What Lovers Do](https://open.spotify.com/track/1PrNd4qyytqDIlfmQ1r8YL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NOW That's What I Call Music, Vol\. 64](https://open.spotify.com/album/68FGnF6LTrgtYHQDVgPkZL) | 3:15 | 2023-06-02 |  |
 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 | 2021-03-05 | 2024-01-26 |
-| [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/6YVpU5vVxezJCYeQUxIkRT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/album/4DQ69vlzv8evjMG7oU9beE) | 3:19 | 2023-06-02 |  |
+| [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/6YVpU5vVxezJCYeQUxIkRT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/album/4DQ69vlzv8evjMG7oU9beE) | 3:19 | 2023-06-02 | 2024-01-27 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-03-05 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2021-03-05 |  |
 | [Wise Woman](https://open.spotify.com/track/1zdhLwuduTGwGSlJSowTzA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Wise Woman / Look For The Good \(Single Version\)](https://open.spotify.com/album/24syghxD5exa3QDGedRZbt) | 4:41 | 2021-03-05 | 2022-07-29 |

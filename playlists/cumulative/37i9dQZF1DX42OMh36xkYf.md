@@ -4,13 +4,13 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Diamante Eléctrico en portada.
 
-96 songs - 5 hr 23 min
+98 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 | 2023-11-10 |  |
 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 | 2023-09-22 | 2023-11-11 |
-| [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 | 2023-11-24 |  |
+| [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 | 2023-11-24 | 2024-01-27 |
 | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/track/3xz4Jg0TxpkyH9axrFFNFW) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/album/2IH4LWJl1W4XNqojhOQTUV) | 3:15 | 2023-09-22 | 2023-10-07 |
 | [Antes de los 30](https://open.spotify.com/track/0BV8DNvqkRPtaP9N5mNmWp) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh), [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Antes de los 30](https://open.spotify.com/album/2dQ8ANC4SA9hQZ53BElAiH) | 5:02 | 2023-09-22 |  |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 |  |
@@ -32,7 +32,7 @@
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-10 |  |
 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 | 2023-09-22 | 2023-10-14 |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-09-22 |  |
-| [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 |  |
+| [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2023-09-22 |  |
 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 | 2023-10-20 |  |
 | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/track/68xkXOW4aA6oFOsXGsg0Gj) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Iluso](https://open.spotify.com/artist/0i51gGztiY5rG4qdmkQeCP) | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/album/3zvfgER0YAVkUu64r72r8P) | 2:53 | 2023-09-22 | 2023-10-21 |
@@ -45,6 +45,8 @@
 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 | 2023-09-22 | 2023-10-21 |
 | [Fue Por Ti](https://open.spotify.com/track/3Zf9tMuhSXNVvjtBjYzbEg) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Fue Por Ti](https://open.spotify.com/album/7MlRZt1qs5PYIFb3Nw6Om1) | 2:14 | 2023-09-22 | 2023-09-30 |
 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 |  |
+| [Get Down](https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Get Down](https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h) | 2:38 | 2024-01-26 |  |
+| [graciosa](https://open.spotify.com/track/2OTUGrELWU6rmgIn1fUi11) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [graciosa](https://open.spotify.com/album/48rNo2MHPCvOl0hq5DRg9g) | 2:15 | 2024-01-26 |  |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2023-10-20 | 2023-11-25 |
 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-09-22 | 2023-10-27 |
 | [Heladito](https://open.spotify.com/track/0xuR1uorCHBfBi0HDZPSYi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:24 | 2024-01-12 |  |

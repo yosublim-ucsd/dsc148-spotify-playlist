@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Caleb Awiti
 
-154 songs - 8 hr 39 min
+155 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Can't Keep It In](https://open.spotify.com/track/5r5x6rTbWTn2CxoNVg86lN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/2s5m4P630f4PkTWMesgkfV) | 2:49 | 2022-09-22 | 2023-10-11 |
 | [Can't Keep It In](https://open.spotify.com/track/6YtTeD6tpQ40Fih6E1oqEN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/03TPBnGax4n6AzpTqDWlqK) | 2:49 | 2023-10-06 | 2023-10-27 |
 | [Catch Me Later](https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [FREE](https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa) | 3:31 | 2022-08-26 | 2023-02-24 |
+| [Closer To Me](https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Closer To Me](https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA) | 2:44 | 2024-01-26 |  |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Cotton Candy](https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Cotton Candy](https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr) | 2:51 | 2023-06-29 |  |
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 | 2022-04-29 |
@@ -54,7 +55,7 @@
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 |  |
 | [Hello Sadness](https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Sim Citizen](https://open.spotify.com/artist/6yrGrT2cOZ3R2oZqNQozsu) | [Hello Sadness](https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8) | 4:01 | 2023-04-06 |  |
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
-| [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 |  |
+| [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 |  |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-02-23 | 2023-10-13 |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |

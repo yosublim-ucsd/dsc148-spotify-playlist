@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 48525,
+  "num_followers": 48554,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTM0NDAyYzY3MzA0MGNhYzZhNDlkMWJjYWJjMjJlYWRiZmZiN2Y0",
+  "snapshot_id": "MCw4ODJkZjk2MWYyOWVhYjQ5Njk4YjAyZDYyOThjZjlhNzgxMDE2ZDY4",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Get By (Good Enough)",
+        "url": "https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "Get By (Good Enough)",
+      "url": "https://open.spotify.com/track/0PwobOQQPY75G5PeuoAdQs"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -303,22 +319,6 @@
       "duration_ms": 173053,
       "name": "Beautiful Women",
       "url": "https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Come on Now (Take From Me)",
-        "url": "https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/5hjvnv9HHS8VRDdmGjWKRK"
     },
     {
       "added_at": "2022-08-31 19:53:08",

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 8281,
+  "2024-01-27": 8271,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225416,
       "name": "ALFOMBRA ROJA",
       "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
@@ -4684,6 +4684,24 @@
     },
     {
       "album": {
+        "name": "Caer",
+        "url": "https://open.spotify.com/album/1SU0oXQNxm1fD9DpHnY7C9"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192491,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/60lxyyqxHxrMuzm7pE5jaV"
+    },
+    {
+      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -7426,6 +7444,32 @@
     },
     {
       "album": {
+        "name": "Dejame Saber",
+        "url": "https://open.spotify.com/album/3kY5sANzBWpIgY11kiR2bG"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Full Harmony",
+          "url": "https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158643,
+      "name": "Dejame Saber",
+      "url": "https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA"
+    },
+    {
+      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/0CHi6grJf1HrNarJjlTFkS"
       },
@@ -7481,7 +7525,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 190457,
       "name": "DELIRIO",
       "url": "https://open.spotify.com/track/3WxuX8C3ZV3xwO6AAoE0Sh"
@@ -17141,7 +17185,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -17295,7 +17339,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 158333,
       "name": "MARTILLAZO",
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
@@ -20885,7 +20929,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
@@ -27063,7 +27107,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139278,
       "name": "Sol",
       "url": "https://open.spotify.com/track/791SeQLJ0mcwZALYEIlb2V"
@@ -31113,7 +31157,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 308266,
       "name": "UuU 2",
       "url": "https://open.spotify.com/track/0zGC4aH7efj69kmTPHZBTr"
@@ -33439,7 +33483,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 223190,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"

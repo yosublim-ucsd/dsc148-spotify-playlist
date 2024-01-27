@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Mudbaby Ru",
+  "description": "Strictly for the streets. Cover: MudBaby Ru",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -382,6 +382,24 @@
       "duration_ms": 166494,
       "name": "300 Blackout",
       "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
+    },
+    {
+      "album": {
+        "name": "32 Bars",
+        "url": "https://open.spotify.com/album/64bJrpjuW1J7V2WeeZYn1u"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133791,
+      "name": "32 Bars",
+      "url": "https://open.spotify.com/track/3F8b80zjERYnKDDBiag615"
     },
     {
       "album": {
@@ -836,6 +854,24 @@
       "duration_ms": 129593,
       "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
       "url": "https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv"
+    },
+    {
+      "album": {
+        "name": "Act A Donkey",
+        "url": "https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "Act A Donkey",
+      "url": "https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz"
     },
     {
       "album": {
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 139008,
       "name": "ATL Freestyle",
       "url": "https://open.spotify.com/track/57YTz6wLTV3c6bXFI8nwAh"
@@ -2154,7 +2190,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 137142,
       "name": "Battery Pack",
       "url": "https://open.spotify.com/track/6shwUqU1aXN5rAfsX1npaH"
@@ -2492,6 +2528,28 @@
       "duration_ms": 173783,
       "name": "BIG TIME (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
+    },
+    {
+      "album": {
+        "name": "Everybody Can't Go",
+        "url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212380,
+      "name": "Big Tymers (with Peezy)",
+      "url": "https://open.spotify.com/track/5NLvSq5JnMt1EVLv49P0LW"
     },
     {
       "album": {
@@ -4482,7 +4540,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160957,
       "name": "Cut Different",
       "url": "https://open.spotify.com/track/0e4ys6GGVeCdnMFAmJTyoZ"
@@ -8992,7 +9050,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 97222,
       "name": "Hop Out The V!",
       "url": "https://open.spotify.com/track/6lDAYnMU80ULvsP6vDA2xT"
@@ -10437,6 +10495,24 @@
     },
     {
       "album": {
+        "name": "Still Playing The Shadows",
+        "url": "https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178337,
+      "name": "Jdot's Talking",
+      "url": "https://open.spotify.com/track/3YQAW1NHbYSIH8WdHJSzC6"
+    },
+    {
+      "album": {
         "name": "PRE5L",
         "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
       },
@@ -10526,6 +10602,24 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "album": {
+        "name": "Still Playing The Shadows",
+        "url": "https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167471,
+      "name": "Jordan Year",
+      "url": "https://open.spotify.com/track/4InhSroLUMR1niKA53Z2ni"
     },
     {
       "album": {
@@ -11532,7 +11626,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181812,
       "name": "Like Mike",
       "url": "https://open.spotify.com/track/7uBWaQMKg4skAzMJX8Xzhe"
@@ -16800,7 +16894,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188512,
       "name": "Real Drip",
       "url": "https://open.spotify.com/track/3fwIVLw8KgouF6hZbAtVTq"
@@ -16950,6 +17044,24 @@
       "duration_ms": 207306,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
+    },
+    {
+      "album": {
+        "name": "Still Playing The Shadows",
+        "url": "https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173531,
+      "name": "Red Key",
+      "url": "https://open.spotify.com/track/1k25DljEqP1APkG68xjRsi"
     },
     {
       "album": {
@@ -20371,6 +20483,28 @@
     },
     {
       "album": {
+        "name": "Sundown (feat. JID)",
+        "url": "https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157253,
+      "name": "Sundown (feat. JID)",
+      "url": "https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ"
+    },
+    {
+      "album": {
         "name": "Welcome To The Trap",
         "url": "https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ"
       },
@@ -21069,6 +21203,32 @@
     },
     {
       "album": {
+        "name": "This One For (feat. BigWalkDog & Money Man)",
+        "url": "https://open.spotify.com/album/0nygvRHM2DUvWR3QGNou7a"
+      },
+      "artists": [
+        {
+          "name": "Ralo",
+          "url": "https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi"
+        },
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230463,
+      "name": "This One For (feat. BigWalkDog & Money Man)",
+      "url": "https://open.spotify.com/track/2YQq9gw6Jp2kZ3i5N3yMsy"
+    },
+    {
+      "album": {
         "name": "Threat (feat. 42 Dugg)",
         "url": "https://open.spotify.com/album/4LhFCy4TgbP2gypEbGVc7A"
       },
@@ -21120,7 +21280,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 173949,
       "name": "Thug Diary",
       "url": "https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq"
@@ -21570,7 +21730,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165539,
       "name": "Trip 2 Cali",
       "url": "https://open.spotify.com/track/1GPNxjkzeY7J6PS02mRWdv"

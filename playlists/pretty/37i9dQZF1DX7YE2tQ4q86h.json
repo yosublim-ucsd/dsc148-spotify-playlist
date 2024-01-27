@@ -1,12 +1,12 @@
 {
   "description": "It's an main improv pop girl emergency \ud83c\udd98  Cover: Ariana Grande",
-  "num_followers": 138581,
+  "num_followers": 138771,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjQyNTUyZjc1ZDQzNjk1YzBhNDFkNzc2NjJiZTFlYjZiMWQzMmY3",
+  "snapshot_id": "MCw4YTg5MjhiOWIyMWZjYTQ3MGE1ZjIxM2Y0MzFhMzRjN2FhNjViMmRj",
   "tracks": [
     {
       "added_at": "2024-01-19 05:07:14",
@@ -23,22 +23,6 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -63,6 +47,74 @@
     {
       "added_at": "2024-01-19 05:07:14",
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Cheeky",
+        "url": "https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 142731,
+      "name": "Cheeky",
+      "url": "https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Last Resort",
+        "url": "https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q"
+      },
+      "artists": [
+        {
+          "name": "Metteson",
+          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy"
+    },
+    {
+      "added_at": "2024-01-19 05:07:14",
+      "album": {
         "name": "The Things I Do For Love",
         "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
       },
@@ -75,6 +127,38 @@
       "duration_ms": 160588,
       "name": "The Things I Do For Love",
       "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2w3PyJC61SAVM7KR6tyDwF"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -113,6 +197,62 @@
       "url": "https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
+    },
+    {
       "added_at": "2024-01-19 05:07:14",
       "album": {
         "name": "Off With Her Tits",
@@ -127,6 +267,22 @@
       "duration_ms": 196648,
       "name": "Off With Her Tits",
       "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "LIVE, RAFF, LOVE (Act II)",
+        "url": "https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "duration_ms": 135197,
+      "name": "Polly Pocket",
+      "url": "https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -163,6 +319,26 @@
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Party Girl (Gonna Do)",
+        "url": "https://open.spotify.com/album/2DNGRhO281OlxC3tQXC7f7"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "KIMMIC",
+          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
+        }
+      ],
+      "duration_ms": 143263,
+      "name": "Party Girl (Gonna Do)",
+      "url": "https://open.spotify.com/track/1PghLrmrEHyXfyMTyZWz5d"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -231,6 +407,22 @@
       "duration_ms": 149918,
       "name": "Rhinestone Heart",
       "url": "https://open.spotify.com/track/28TbRayU38hCt7vYvRbHM4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Never Made It Out Alive",
+        "url": "https://open.spotify.com/album/1YMTVbVImqUtUN0pa78xxK"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Never Made It Out Alive",
+      "url": "https://open.spotify.com/track/4aMzh0rVdwl1vE2oIy0lf3"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -331,38 +523,6 @@
     {
       "added_at": "2024-01-19 05:07:14",
       "album": {
-        "name": "Stop The Time",
-        "url": "https://open.spotify.com/album/6qjOCRqN6sT4gHq2NmNuIG"
-      },
-      "artists": [
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 168695,
-      "name": "Stop The Time",
-      "url": "https://open.spotify.com/track/21PLu6RKamRrwSj3pOa6Ok"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Jaw Drop",
-        "url": "https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V"
-      },
-      "artists": [
-        {
-          "name": "Laurell",
-          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
@@ -399,22 +559,6 @@
       "duration_ms": 180127,
       "name": "Losing You - Spotify Singles",
       "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "You Want My ...",
-        "url": "https://open.spotify.com/album/27zepHIiwqXIqBYB23Uc5D"
-      },
-      "artists": [
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "You Want My \u2026",
-      "url": "https://open.spotify.com/track/7599UxhqJlpV013iiLCfZK"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -543,22 +687,6 @@
     {
       "added_at": "2024-01-19 05:07:14",
       "album": {
-        "name": "God Invented The Radio",
-        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 137827,
-      "name": "God Invented The Radio",
-      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
         "name": "STARFUCKER (Deluxe)",
         "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
       },
@@ -635,22 +763,6 @@
       "duration_ms": 132775,
       "name": "Freaks In Town",
       "url": "https://open.spotify.com/track/2XbfCpQpmkrJKIjuIKhFs3"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "LOVE ME / HATE ME",
-        "url": "https://open.spotify.com/album/420k8UjboKKbxGSyB9Nt8l"
-      },
-      "artists": [
-        {
-          "name": "Mari Bella",
-          "url": "https://open.spotify.com/artist/0lzgDLqdg3F8hUKNORx7CM"
-        }
-      ],
-      "duration_ms": 157265,
-      "name": "LOVE ME / HATE ME",
-      "url": "https://open.spotify.com/track/5RMRJRGzmUdlB7MQBzyTHi"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -891,42 +1003,6 @@
     {
       "added_at": "2024-01-19 05:07:14",
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 143950,
-      "name": "EX EX EX (Whoops)",
-      "url": "https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Summertime Friends",
-        "url": "https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 170616,
-      "name": "Think Of Us",
-      "url": "https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
         "name": "SUCKER 4 GREEN",
         "url": "https://open.spotify.com/album/5hDOPaghJtj3fUPrpE28uE"
       },
@@ -939,26 +1015,6 @@
       "duration_ms": 214068,
       "name": "SUCKER 4 GREEN",
       "url": "https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Steady Pace",
-        "url": "https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 146007,
-      "name": "Steady Pace",
-      "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -1043,26 +1099,6 @@
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Kiss Me (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Kiss Me (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -1167,22 +1203,6 @@
       "duration_ms": 175327,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Sammy Don't Know",
-        "url": "https://open.spotify.com/album/1svhdQBIm2VU29KSplAOy0"
-      },
-      "artists": [
-        {
-          "name": "Dani Sylvia",
-          "url": "https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Sammy Don't Know",
-      "url": "https://open.spotify.com/track/1Z32wFrfqnWme23ExhTmOX"
     },
     {
       "added_at": "2024-01-19 05:07:14",
@@ -1407,22 +1427,6 @@
       "duration_ms": 137514,
       "name": "Choose Your Fighter (From Barbie The Album)",
       "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
-    },
-    {
-      "added_at": "2024-01-19 05:07:14",
-      "album": {
-        "name": "Figure You Out",
-        "url": "https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ"
-      },
-      "artists": [
-        {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
-        }
-      ],
-      "duration_ms": 209398,
-      "name": "Figure You Out",
-      "url": "https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW"
     },
     {
       "added_at": "2024-01-19 05:07:14",

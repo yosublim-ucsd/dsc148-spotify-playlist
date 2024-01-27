@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,323 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,307 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Calvary's Shadow](https://open.spotify.com/track/5saR4W1MyuwWJTCT78pOrn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:32 |
 | 100 | [Love Changes Everything](https://open.spotify.com/track/6eACLLkE060QHoxvJZaIXT) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Into the Light](https://open.spotify.com/album/3J7jxdGbgpikotJaPIUEqM) | 5:13 |
 
-Snapshot ID: `MCxkZmU5NzkyMmU4ODY2ZjE3ZjdiZGEzNmVlY2FhNzNkN2JkODU1NDY0`
+Snapshot ID: `MCxkNzM2OGI3MzhiZjEyMjZlN2ZjMmE0MmRjMDIzZjY3M2ZhMTUyMGQ3`

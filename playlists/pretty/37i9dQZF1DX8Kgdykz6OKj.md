@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,181 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,056 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 100 | [Misty](https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:38 |
 
-Snapshot ID: `MCw5ZjhmNWEyNmRiNDdjYmUwMDE3MmY5ZGU0YTEwNmE1ZDUyZWZlOGJl`
+Snapshot ID: `MCwyNjY0ZjM5MTkwOGNlODRmZDEyYWRjMmVhYjZhZTM4YTE5Y2Q0NGQ1`

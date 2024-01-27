@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "The Ceremony",
+        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Lil Yea",
+      "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
+    },
+    {
+      "album": {
         "name": "Lilypad",
         "url": "https://open.spotify.com/album/5cdIXp8gnJBs0EX1zpGEd8"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,425 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,483 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
 | 150 | [Co\-Motion](https://open.spotify.com/track/4OV7oBWb9GxZVKqp9qYYw7) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Emergence](https://open.spotify.com/album/4tXLbKussGYTS4b5JMzVBt) | 4:07 |
 
-Snapshot ID: `MCw3YzA3ZGQ2ZjI1Y2Y0ZTlhNzA0ZTU5OTUxN2Y0OWE1ZTlmMDNlMzM4`
+Snapshot ID: `MCw3NzZiMWVkMzFhMmFkMmZlMGQyMDU0MmExMjQzMDUwMTliZWU0MWRm`

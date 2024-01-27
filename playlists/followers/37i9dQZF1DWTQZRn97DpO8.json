@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 26822,
+  "2024-01-27": 26891,
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : J\u00e4de",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ocevne",
   "name": "le miel",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 98063,
       "name": "04:00",
       "url": "https://open.spotify.com/track/32LB7dP3aOmpNTESVZM0HP"
@@ -310,6 +310,28 @@
     },
     {
       "album": {
+        "name": "Cons\u00e9quences (feat. Tuerie)",
+        "url": "https://open.spotify.com/album/03VtAtXTEuKUysbNav4Yuh"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161310,
+      "name": "Cons\u00e9quences (feat. Tuerie)",
+      "url": "https://open.spotify.com/track/0TQzpIYyBIhnBjbyq5yEdf"
+    },
+    {
+      "album": {
         "name": "Contresens",
         "url": "https://open.spotify.com/album/2Z9Yj4fLaNRaWNGzzc94FY"
       },
@@ -485,7 +507,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 171990,
       "name": "D\u00e9connect\u00e9e",
       "url": "https://open.spotify.com/track/5iPIGpFQZLtvw78mvcWqQZ"
@@ -640,6 +662,28 @@
     },
     {
       "album": {
+        "name": "Hot Couture (ft. Le Juiice)",
+        "url": "https://open.spotify.com/album/2PDe64Wjn87QJRXzxKyZQZ"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        },
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165863,
+      "name": "Hot Couture (ft. Le Juiice)",
+      "url": "https://open.spotify.com/track/5sLMOCqB3zUMoEobHOSzpE"
+    },
+    {
+      "album": {
         "name": "HYPNOTIZE",
         "url": "https://open.spotify.com/album/0mqW7McCu8MwjFAQbqRHRi"
       },
@@ -673,7 +717,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228054,
       "name": "J'apaise",
       "url": "https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz"
@@ -898,6 +942,28 @@
     },
     {
       "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/2Aa7pSxhX9PaijFYujYE7U"
+      },
+      "artists": [
+        {
+          "name": "Dj Mk Neal",
+          "url": "https://open.spotify.com/artist/1MCoEJsXR1t0wduJIc39QG"
+        },
+        {
+          "name": "Asma",
+          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202112,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/1bnIZA3TTVezTeFUCQKejA"
+    },
+    {
+      "album": {
         "name": "Lumi\u00e8re",
         "url": "https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv"
       },
@@ -939,6 +1005,24 @@
       "duration_ms": 137368,
       "name": "Mauvais Pressentiment",
       "url": "https://open.spotify.com/track/7D5CKBjZ1ylncHKMUAm5bU"
+    },
+    {
+      "album": {
+        "name": "Mienne",
+        "url": "https://open.spotify.com/album/0X0mA4fLAGZJLbTHFfu8Nb"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Mienne",
+      "url": "https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B"
     },
     {
       "album": {
@@ -1032,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Oublie-moi",
+        "url": "https://open.spotify.com/album/6aArlolikfU8Wd7bOmB4Z6"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155596,
+      "name": "Oublie-moi",
+      "url": "https://open.spotify.com/track/6fLxzXS6PRXglMvu3eNpQJ"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e"
       },
@@ -1115,7 +1217,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 188000,
       "name": "Plus la peine",
       "url": "https://open.spotify.com/track/11okUANe3u6NzVAL2G33So"
@@ -1571,7 +1673,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 186750,
       "name": "Trop parfait",
       "url": "https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I"
@@ -1679,7 +1781,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166831,
       "name": "Viano",
       "url": "https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf"
@@ -1701,6 +1803,24 @@
       "duration_ms": 188973,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ"
+    },
+    {
+      "album": {
+        "name": "Violence & Po\u00e9sie",
+        "url": "https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv"
+      },
+      "artists": [
+        {
+          "name": "Siy\u00e9",
+          "url": "https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205488,
+      "name": "Violence & Po\u00e9sie",
+      "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
     },
     {
       "album": {

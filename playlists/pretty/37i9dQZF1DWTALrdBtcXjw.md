@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,131 likes - 150 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,033 likes - 150 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 |
 | 150 | [With Just A Word](https://open.spotify.com/track/26sXeAD1FjmUoFjw6os2S0) | [Diego Rivera](https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa) | [With Just A Word](https://open.spotify.com/album/2Oo2IDL5MsYIpGT0BHQkGE) | 5:53 |
 
-Snapshot ID: `MCwxM2YxYWZkYjJjYTFkZjU2YTMxNzgxZDc0OTI0NzUwOTQ4MTkyMDM3`
+Snapshot ID: `MCw4YjQzMTZmMzg3MzUyY2ZjZDllMDU4ZTY2NmFjOGJhNzlhZTM3ODIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,170 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,429 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [Romance Com Safadeza](https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São João 2018](https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH) | 2:52 |
 | 100 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 |
 
-Snapshot ID: `MCxlYzI2YmRmZGYyYzFlY2Q4MTEwZWQ0N2FkZmU0ODExNmUwYTA1MWI1`
+Snapshot ID: `MCwwM2JjMWRjZTlmYTMxZGZkM2NmMThjODVlNjRhMjJlMWI1MmY0MjJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Omar Montes, Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,546 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,195 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 58 | [No Te Conozco](https://open.spotify.com/track/7uWpQKO15DghiCLafPYRdU) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [No Te Conozco](https://open.spotify.com/album/6RVTyVzPCbZv17ByqITGr7) | 3:00 |
 | 59 | [LOLITA](https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LOLITA](https://open.spotify.com/album/0EO1dyAqWVpuhUtvwvXdpm) | 2:57 |
 
-Snapshot ID: `MCwzMzFkNDZjNTAxMzNlMjA4NTc3ZTcxM2Q4NGJmMDkzN2NkZDJmNDFh`
+Snapshot ID: `MCxkZDZmODg4NjIwNWI1ZTRmNjgxNTk3NWUyZjQxNDAzMjE5MWU1YmZh`

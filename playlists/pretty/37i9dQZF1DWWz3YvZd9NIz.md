@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,119 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,338 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 |
 | 70 | [Scared to Be Lonely](https://open.spotify.com/track/2d2QoGS87x3y7NmcpSMIpi) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [Sintica](https://open.spotify.com/artist/52tz2HSHkvRWTP5IGk8Mjt) | [Scared to Be Lonely](https://open.spotify.com/album/1cs9BxcIzMDI3ePRs02KNQ) | 3:38 |
 
-Snapshot ID: `MCwwYjk1NTc2OTVhMzQ5NDc4YTdhZTMzNzFjNzBlNzBmZDJmNWRjN2Zh`
+Snapshot ID: `MCxkZGQyZWNhYTI5OTE4YTU2MmU3NDdjMmYyN2Q5YmJiNDhmMWVmNTcy`

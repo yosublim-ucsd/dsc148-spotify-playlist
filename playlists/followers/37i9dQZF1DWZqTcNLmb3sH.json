@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 56937,
+  "2024-01-27": 56929,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
   "name": "Latest Kannada",
@@ -809,7 +809,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 283865,
       "name": "Ailoo Pailoo",
       "url": "https://open.spotify.com/track/3znNSNFvuv8lUnuPxdQ8Ty"
@@ -3601,7 +3601,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 129009,
       "name": "Bham Bham Bole (From \"Cicada\")",
       "url": "https://open.spotify.com/track/53mRiu9ELgDp6PpbvKvEDJ"
@@ -20756,6 +20756,36 @@
     },
     {
       "album": {
+        "name": "Sameepa (From \"Pranayam\")",
+        "url": "https://open.spotify.com/album/7fpkSP9VC4QyBCVGfH88nV"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Hudaya Shiva",
+          "url": "https://open.spotify.com/artist/3mLYvMqUhMoZF6y9Qf3U7j"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236508,
+      "name": "Sameepa (From \"Pranayam\")",
+      "url": "https://open.spotify.com/track/0jReORrSdz0qjADXiaY8Zz"
+    },
+    {
+      "album": {
         "name": "Sampige Maradalli Gubbi",
         "url": "https://open.spotify.com/album/4YiXu9oMuZ4MQhYmhrd8E2"
       },
@@ -22983,6 +23013,36 @@
       "duration_ms": 195043,
       "name": "Udupi Hotelu",
       "url": "https://open.spotify.com/track/5qHavAlDuoHxydQvcoYyHZ"
+    },
+    {
+      "album": {
+        "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
+        "url": "https://open.spotify.com/album/0eEpt1QvWuPmdoSjJquD1r"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Arvind Sastry",
+          "url": "https://open.spotify.com/artist/5LYfroOEnxQrFtoVYSH9L4"
+        },
+        {
+          "name": "Ramesh Kurubagatti",
+          "url": "https://open.spotify.com/artist/1rDnokI7CTozvLPsBPl1A7"
+        },
+        {
+          "name": "Ram Hadpad",
+          "url": "https://open.spotify.com/artist/3mjO5dyLHDKvJHf76lIoiH"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
+      "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,054 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,086 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 10 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Train De Mes Souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
 | 11 | [Femme que j'aime](https://open.spotify.com/track/6BDGz3KS4xmlUGv3hB0M8A) | [Jean\-Luc Lahaye](https://open.spotify.com/artist/6kKVGVM28hXgQDqNPr2CsD) | [Rendez\-vous](https://open.spotify.com/album/1AUBLpYSKPoxUivPUbhba7) | 3:45 |
 | 12 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
-| 13 | [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 |
+| 13 | [Les sunlights des tropiques](https://open.spotify.com/track/5DwbrhdKbySbsXOo1zPlgG) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/1fJDHcBtTHl2dIpX1D3aoi) | 3:57 |
 | 14 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
 | 15 | [Femme libérée](https://open.spotify.com/track/7H90dG9HiJ05b5NMNccm5C) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Stars 80 l’album anniversaire !](https://open.spotify.com/album/59fkKgFk49BHq1tgTBpVtb) | 3:44 |
 | 16 | [Histoire d'1 soir \- Bye bye les galères](https://open.spotify.com/track/03QgO3lV2SxLD2rrdetFHt) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Histoire d'1 soir \(Bye bye les galères\)](https://open.spotify.com/album/7tt4oeT6k5W3e8n0r89WJz) | 4:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [A caus' des garçons \- Radio Version](https://open.spotify.com/track/6qVHavRuhCeoNq66osK4cL) | [A Caus' Des Garçons](https://open.spotify.com/artist/44rIoyd04L9FBK4P8zrodX) | [A caus' des garçons](https://open.spotify.com/album/2Pd31sl13MAvyawXBToJi7) | 4:13 |
 
-Snapshot ID: `MCxkZWY3NTk5YmI0YjA0YTlhNGUwMTBiYThjNTYzMzhhODhiZGQxOTFh`
+Snapshot ID: `MCwyNWI2NmYxNzZjZTI1OGE3NjBiNjJkZDFjYjIzNjNkY2U1OGZjYjFl`

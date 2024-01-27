@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 31017,
+  "2024-01-27": 31007,
   "date_first_scraped": "2020-11-03",
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
   "name": "Morning Workout 2024",
@@ -2735,7 +2735,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 205440,
       "name": "Chill135",
       "url": "https://open.spotify.com/track/5GMgZChVHLBSS9g0icqyF5"
@@ -4836,6 +4836,36 @@
     },
     {
       "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159483,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "album": {
         "name": "F.U.",
         "url": "https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d"
       },
@@ -5101,6 +5131,24 @@
       "duration_ms": 153172,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/74fKiP8rXuzBVrPG37i3xs"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5J26cCE9pYXrdfNJ3pwV8k"
+      },
+      "artists": [
+        {
+          "name": "Baron Von Trax",
+          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5S7xGgvd4RWejVhj6mZHMq"
     },
     {
       "album": {
@@ -6101,7 +6149,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -7971,7 +8019,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 173046,
       "name": "Kota on the plane - MGNA Crrrta Remix",
       "url": "https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe"
@@ -8153,7 +8201,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -9219,7 +9267,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 207519,
       "name": "Luna Love",
       "url": "https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A"
@@ -10342,6 +10390,28 @@
     },
     {
       "album": {
+        "name": "Ninacamina",
+        "url": "https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187494,
+      "name": "Ninacamina",
+      "url": "https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY"
+    },
+    {
+      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch"
       },
@@ -11085,7 +11155,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
@@ -11261,6 +11331,28 @@
       "duration_ms": 158582,
       "name": "People Happy",
       "url": "https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder) [1991 Remix]",
+        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/082SdPhw4QP3JkdmLQX20R"
     },
     {
       "album": {
@@ -11975,7 +12067,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 254883,
       "name": "Real Love - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/2H8R5SP2SVBWRmCFBZYXe3"
@@ -12653,6 +12745,28 @@
       "duration_ms": 210000,
       "name": "Saving Up - Loods Remix",
       "url": "https://open.spotify.com/track/16BIjTqG2R5PV2BrMOjU3y"
+    },
+    {
+      "album": {
+        "name": "Saving Up (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Saving Up - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
       "album": {
@@ -15839,6 +15953,24 @@
       "duration_ms": 160906,
       "name": "Up All Night (feat. Afrojack)",
       "url": "https://open.spotify.com/track/5k1uIPpsHmnbWFr4nbpdYb"
+    },
+    {
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
     },
     {
       "album": {

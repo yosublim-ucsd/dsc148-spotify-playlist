@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,512 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,650 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 | 60 | [Boom Boom \(feat\. Jimmie Vaughah\) \(2007 \- Remaster\)](https://open.spotify.com/track/707t1ODCETCCgiZNQVEbMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 4:18 |
 
-Snapshot ID: `MCw4Y2ZhZDA1OTc4MWMzZGMwNmVmNDkwYTlhNzdiZTRhZjBiZWY0YmFl`
+Snapshot ID: `MCxkY2Q1ZTZhYzVmN2IyOTZhYjNhMTcwNmIzZTc4OGU2ZWNmYjI3MTkx`

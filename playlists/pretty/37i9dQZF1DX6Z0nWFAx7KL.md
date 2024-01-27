@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,509 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,526 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 |
 | 80 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 |
 
-Snapshot ID: `MCwzZjE0YjdmMGZjMTU2MzMzYTA5MjAxZTUxNDYwNTEzNGI3MzM3ZTAy`
+Snapshot ID: `MCxiYjY3N2NiY2NiMzI0NzE2MjE5Y2QyYWM0ZTMxZDQ1ZDFkOWU5MjNl`

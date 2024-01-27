@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Keyon Harrold",
+  "description": "New jazz for open minds. Cover: Nubya Garcia",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -476,6 +476,24 @@
       "duration_ms": 618645,
       "name": "A Flower is a Lovesome Thing",
       "url": "https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN"
+    },
+    {
+      "album": {
+        "name": "A Lord Without Jewels",
+        "url": "https://open.spotify.com/album/3UJZt5F7nnYpKN34IhmdYr"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412951,
+      "name": "A Lord Without Jewels",
+      "url": "https://open.spotify.com/track/3zbbEmBPEDqoLJDNtpbkkk"
     },
     {
       "album": {
@@ -2349,6 +2367,36 @@
     },
     {
       "album": {
+        "name": "Bacon Lettuce and Tmrw",
+        "url": "https://open.spotify.com/album/5pDjGqgJs7py0qA95b4H3c"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Emiliano Lasansky",
+          "url": "https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Jacob Dupre",
+          "url": "https://open.spotify.com/artist/27vbYMQq6Sq2rJltjX7Xj8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Bacon Lettuce and Tmrw",
+      "url": "https://open.spotify.com/track/5izpsM3fbB1oF7yNnJO69x"
+    },
+    {
+      "album": {
         "name": "Badeep",
         "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
@@ -2532,6 +2580,28 @@
       "duration_ms": 922658,
       "name": "Bark Out Thunder Roar Out Lightning",
       "url": "https://open.spotify.com/track/0f32CcNYyYuoLtl83BXWPL"
+    },
+    {
+      "album": {
+        "name": "Barnyard Disturbance",
+        "url": "https://open.spotify.com/album/10naARtWiSqKm34GZasjzU"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283041,
+      "name": "Barnyard Disturbance",
+      "url": "https://open.spotify.com/track/4ByhP16EpPRIqsKaBXZRHQ"
     },
     {
       "album": {
@@ -4185,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "central park west",
+        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268915,
+      "name": "central park west",
+      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
+    },
+    {
+      "album": {
         "name": "Chacha Rom",
         "url": "https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h"
       },
@@ -4280,7 +4368,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 221986,
       "name": "Chasing the Drum - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
@@ -4928,7 +5016,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 444830,
       "name": "Could We but See",
       "url": "https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87"
@@ -6046,7 +6134,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 315492,
       "name": "Don't Believe The Dancers - Mophono Remix",
       "url": "https://open.spotify.com/track/7mt3MXHKqlXGwRwNL9tbAs"
@@ -7898,7 +7986,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 303080,
       "name": "Flux Fuelings (feat. Bill Frisell & Herlin Riley)",
       "url": "https://open.spotify.com/track/339kfnKfy8HDVhSJVmJKTI"
@@ -8082,6 +8170,24 @@
       "duration_ms": 280822,
       "name": "Forget me",
       "url": "https://open.spotify.com/track/6ggsDCv63e5mOOwGg3TSke"
+    },
+    {
+      "album": {
+        "name": "Fortify",
+        "url": "https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349008,
+      "name": "Fortify",
+      "url": "https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc"
     },
     {
       "album": {
@@ -10905,6 +11011,32 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7zQJ12lE2XhxLyoTqSYS6v"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+        },
+        {
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102920,
+      "name": "Ishmael",
+      "url": "https://open.spotify.com/track/0PpwwmmLTEi0cCsh0YMn0c"
+    },
+    {
+      "album": {
         "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
         "url": "https://open.spotify.com/album/3WwPC6pxPHPGJo7K6fZDPi"
       },
@@ -10954,6 +11086,28 @@
       "duration_ms": 308146,
       "name": "Isn't This My Sound Around Me? (feat. Reuben Rogers, Walter Smith III)",
       "url": "https://open.spotify.com/track/08wE4pl2bY1qaM5mqqCiG6"
+    },
+    {
+      "album": {
+        "name": "The Yussef Dayes Experience - Live From Malibu",
+        "url": "https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Istanbul (feat. Elijah Fox)",
+      "url": "https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c"
     },
     {
       "album": {
@@ -12048,6 +12202,40 @@
       "duration_ms": 205720,
       "name": "Lawd Why",
       "url": "https://open.spotify.com/track/39VnaoDW2jT2QuWQ3gk9j2"
+    },
+    {
+      "album": {
+        "name": "Hudson (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eG2q4jobDvU5Leo0oI3ut"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Larry Grenadier",
+          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
+        },
+        {
+          "name": "Hudson",
+          "url": "https://open.spotify.com/artist/5TLN8NgSEohypkfU1sKwaI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226880,
+      "name": "Lay Lady Lay - Radio Edit",
+      "url": "https://open.spotify.com/track/5OG31noejjsYhav7aY4Uui"
     },
     {
       "album": {
@@ -14842,7 +15030,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
@@ -15486,7 +15674,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 490325,
       "name": "nublues - fade",
       "url": "https://open.spotify.com/track/0OhiQIsXhYTZ6uVb8SBSVI"
@@ -17842,7 +18030,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207484,
       "name": "Ready To Ball",
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
@@ -22148,7 +22336,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 270586,
       "name": "The Botanist",
       "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
@@ -22562,7 +22750,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 435996,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen"
@@ -25124,6 +25312,32 @@
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
+    },
+    {
+      "album": {
+        "name": "Wait A While",
+        "url": "https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Farah Audhali",
+          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214593,
+      "name": "Wait A While",
+      "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
     },
     {
       "album": {

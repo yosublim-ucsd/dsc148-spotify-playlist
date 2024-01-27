@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Ocevne
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,822 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,891 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 6 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
 | 7 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 |
 | 8 | [Dimanche Soir](https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Dimanche Soir](https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX) | 3:09 |
-| 9 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 |
+| 9 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 |
 | 10 | [Mienne](https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Mienne](https://open.spotify.com/album/0X0mA4fLAGZJLbTHFfu8Nb) | 3:00 |
 | 11 | [Oublie\-moi](https://open.spotify.com/track/638DO6YrucQZj3VLt0KH4W) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [era 24](https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL) | 2:53 |
 | 12 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Boyfriend \- Acoustic](https://open.spotify.com/track/2ENr7qlJCeQee8S37EXAyQ) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Boyfriend \- Acoustic](https://open.spotify.com/album/4AJzUPRChFSksbTbzYND1x) | 2:16 |
 | 50 | [Ton masque est tombé](https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Ton masque est tombé](https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ) | 3:23 |
 
-Snapshot ID: `MCwyMzRhMzU4NDA0OGU0NGE2MGRiMTI0MjQ1NDIzOGViZTlmODg1Y2M5`
+Snapshot ID: `MCwwYjc4MmVmMGU4Zjc0YTQ5YzA4MmFmYzJhYWM0MDgzZmMzYTVjMzVl`

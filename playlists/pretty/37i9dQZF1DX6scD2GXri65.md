@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,864 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,959 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
 | 80 | [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 |
 
-Snapshot ID: `MCxmYzRlZTdmZjBjMDUzZmE1ODM2ZjM3Yzk1M2E0OTU4YTFhYzI0MjQ4`
+Snapshot ID: `MCw3ZDJmNDIyNjU0ZTZkZGE1NzI2NzA3NTQ1ZmRjZGVkZTdhOWIwZjg0`

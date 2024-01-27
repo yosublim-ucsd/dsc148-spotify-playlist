@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
+  "description": "The most essential R&B songs from the 2010s. Cover: Jhen\u00e9 Aiko",
   "name": "I Love My '10s R&B",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 310863,
       "name": "Grown Woman",
       "url": "https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 104438,
       "name": "Riot",
       "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"

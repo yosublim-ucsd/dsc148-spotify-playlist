@@ -136,10 +136,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 451253,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1h4KA8WqfvIi2TBjkpM4qO"
+    },
+    {
+      "album": {
+        "name": "Latin Party",
+        "url": "https://open.spotify.com/album/4zpMLaxbbTnVx6eZutDwHE"
+      },
+      "artists": [
+        {
+          "name": "Latin Party People",
+          "url": "https://open.spotify.com/artist/7aScPHP4oVPbJBmOKyc9jQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453280,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/0GTa1YqNSXpye3B6shoo8m"
     },
     {
       "album": {
@@ -1750,10 +1768,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 289720,
       "name": "No Llores Mas",
       "url": "https://open.spotify.com/track/7cM93GhjLMv6kXqKrqhTL8"
+    },
+    {
+      "album": {
+        "name": "Cafe Havana",
+        "url": "https://open.spotify.com/album/6nVlDrSjPXusRk45H1xbIr"
+      },
+      "artists": [
+        {
+          "name": "Cuba Cuba",
+          "url": "https://open.spotify.com/artist/0lGLinWCvSkF3eSyV9a6aB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289973,
+      "name": "No Llores Mas",
+      "url": "https://open.spotify.com/track/7ua8TSAa61VVXu7uJIsffl"
     },
     {
       "album": {

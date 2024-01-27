@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 208075,
+  "2024-01-27": 207980,
   "date_first_scraped": "2022-05-12",
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: 21 Savage",
   "name": "Rap Internazionale",
@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Adrenalean",
+        "url": "https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn"
+      },
+      "artists": [
+        {
+          "name": "menace Santana",
+          "url": "https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132743,
+      "name": "Adrenalean",
+      "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -309,6 +327,24 @@
       "duration_ms": 142000,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/5MNBATfg8bUvBkMGIFQ1PU"
+    },
+    {
+      "album": {
+        "name": "Algo Muy Raro",
+        "url": "https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189864,
+      "name": "Algo Muy Raro",
+      "url": "https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0"
     },
     {
       "album": {
@@ -883,7 +919,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 117839,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/3FEAgxuYNeFjKzwNqRcnwV"
@@ -1179,6 +1215,28 @@
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "album": {
+        "name": "Blue Porsche (feat. Niska)",
+        "url": "https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186479,
+      "name": "Blue Porsche (feat. Niska)",
+      "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
     },
     {
       "album": {
@@ -1655,7 +1713,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 147096,
       "name": "CARACAS",
       "url": "https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2"
@@ -3676,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "Gas Me Up (Diligent)",
+        "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Gas Me Up (Diligent)",
+      "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -4117,7 +4193,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 214791,
       "name": "Heist",
       "url": "https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q"
@@ -6517,7 +6593,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 210143,
       "name": "Must Be Me",
       "url": "https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ"
@@ -9402,6 +9478,32 @@
     },
     {
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3Lfn5Dl1gfkwuLxjVDKaGE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166751,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -11125,7 +11227,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 119172,
       "name": "Why Would I?",
       "url": "https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4"

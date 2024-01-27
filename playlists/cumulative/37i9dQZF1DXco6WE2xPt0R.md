@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-265 songs - 15 hr 52 min
+266 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 | 2022-08-12 | 2023-01-21 |
 | [Lovely](https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Lovely](https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876) | 2:53 | 2023-11-10 |  |
 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 | 2022-02-25 |  |
-| [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 | 2022-02-25 |  |
+| [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 | 2022-02-25 | 2024-01-27 |
 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 | 2022-08-12 | 2022-09-24 |
 | [Masterpiece](https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Masterpiece](https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh) | 3:19 | 2023-10-20 |  |
 | [Me x 7 \(feat\. Tierra Whack\)](https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:32 | 2022-07-01 |  |
@@ -257,6 +257,7 @@
 | [Wait On Me Pt\. 2 / Remix](https://open.spotify.com/track/6ZajtDkRBBiUKzf4Gmzhgc) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [GeorgiaReign](https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI) | [From Lust Till Dawn](https://open.spotify.com/album/4yDOgY5kkq7bi8o2WnAe6N) | 2:37 | 2023-04-28 | 2023-12-09 |
 | [Wake Up Baby](https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach Presents: The Original Jill Scott \- from the vault, Vol\. 1 \(Deluxe\)](https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng) | 3:55 | 2022-02-25 | 2022-07-29 |
 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 | 2022-07-01 |  |
+| [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 | 2024-01-26 |  |
 | [Waterfall](https://open.spotify.com/track/3MUb3mziKpbLN8NB0VPplV) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk), [PLANTTTA Lab](https://open.spotify.com/artist/25DO6Yyq4TbNo7ICQIwLSU) | [Waterfall](https://open.spotify.com/album/4P35qUvgULbZRNpohOdoeI) | 3:20 | 2022-05-06 | 2022-05-20 |
 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-02-25 | 2023-12-23 |
 | [Wet Dreamz](https://open.spotify.com/track/2OhVsFUxkFIp8LuBTjH2Rs) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 3:05 | 2023-11-10 |  |

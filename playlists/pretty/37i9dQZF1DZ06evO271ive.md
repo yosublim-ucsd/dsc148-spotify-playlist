@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,036 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,074 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 30 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 31 | [Sexyy Red For President](https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 32 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/3k56wuGvKg3l9g1t61C9jW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:00 |
-| 33 | [Slob on My Ckat](https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Slob on My Ckat](https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1) | 2:28 |
-| 34 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
+| 33 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
+| 34 | [Slob on My Ckat](https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Slob on My Ckat](https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1) | 2:28 |
 | 35 | [Hold On Yeah](https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:25 |
 | 36 | [No Panties \(with Sexyy Red\) \- From Rap Sh!t S2: The Mixtape](https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [No Panties \(with Sexyy Red\) \[From Rap Sh!t S2: The Mixtape\]](https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap) | 2:05 |
 | 37 | [Perc & Sex](https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Perc & Sex](https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Don't Get Beat](https://open.spotify.com/track/5pcTiNM6KXYjvOEgmKxIXH) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Get Beat](https://open.spotify.com/album/5zfiG2ja4Nh4OBph2QAOMK) | 2:21 |
 | 50 | [FaceTime](https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:31 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDAwMzViNzk4N2M1YmE4NWZmYThkOWIxNjdiMzQ1MDJlMQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDA2MzY3ZDU4ZjUyMzU1YTY4MGZkZDVlYmYxMTI0NjE1Ng==`

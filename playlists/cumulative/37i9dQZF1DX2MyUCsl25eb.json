@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
@@ -4242,6 +4242,24 @@
       "duration_ms": 219161,
       "name": "Free",
       "url": "https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "album": {
@@ -5480,7 +5498,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214234,
       "name": "How Long (Single Version)",
       "url": "https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB"
@@ -5900,6 +5918,24 @@
       "duration_ms": 286426,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "album": {
+        "name": "I Hope You Know",
+        "url": "https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "I Hope You Know",
+      "url": "https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj"
     },
     {
       "album": {
@@ -7609,6 +7645,24 @@
     },
     {
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/6TY5WOwIef2h4QOrS69qxk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kinder",
+          "url": "https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/4gNJiDP52AJlZeQxsYlEW9"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
       },
@@ -8013,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5yifCNmASgALVJ3mlBre69"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214865,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0UrupbFijMlpNFH0hEuJnN"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -8144,7 +8216,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216992,
       "name": "Miss Me the Same (with Anson Seabra)",
       "url": "https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU"
@@ -8960,7 +9032,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 213000,
       "name": "On Fire (Ingrid Andress Version)",
       "url": "https://open.spotify.com/track/79z7tGjpNtsgHwZxYCb5EM"
@@ -9130,6 +9202,28 @@
       "duration_ms": 256773,
       "name": "Out of the Ashes",
       "url": "https://open.spotify.com/track/5pdfwA4RJCEp7GpCJlu2pi"
+    },
+    {
+      "album": {
+        "name": "Outta My Head",
+        "url": "https://open.spotify.com/album/6VUwD6FZ2b1wpL9PblefHo"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        },
+        {
+          "name": "Josh Kelley",
+          "url": "https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Outta My Head",
+      "url": "https://open.spotify.com/track/1qGsNUvEula9l3dTBIPyLA"
     },
     {
       "album": {
@@ -10850,7 +10944,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
@@ -11844,7 +11938,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176453,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/7vAlIaKmcTYB1BqFcTuQmW"

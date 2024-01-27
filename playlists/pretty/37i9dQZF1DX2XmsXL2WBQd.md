@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,481 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,530 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 70 | [Manifest](https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Mass Appeal: The Best Of Gang Starr \(Explicit\)](https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR) | 4:50 |
 
-Snapshot ID: `MCxhMzkwMGM2NzQ3YzhmZGJmMWExMzM2M2FiMmZjY2EwMmNlNDM4MDQ2`
+Snapshot ID: `MCwzN2EzZDExNGNjNGNhMmRmNDY4NWU0YmMzZGI4MmU2ZmM4OTQ4ZWNi`

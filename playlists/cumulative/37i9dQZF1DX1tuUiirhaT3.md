@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-295 songs - 15 hr 35 min
+298 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [432hz Healing Breath](https://open.spotify.com/track/619a0hCjOWgTYnJ6pGYm6A) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Breath](https://open.spotify.com/album/0hRwcHs2JKtcirMyoPGbz8) | 3:36 | 2021-12-17 | 2023-01-21 |
 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 | 2021-12-17 | 2023-03-10 |
 | [963 Hz Miracle Creek](https://open.spotify.com/track/4DUlzJYHrdNxxdJlt94nP3) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [963 Hz Miracle Creek](https://open.spotify.com/album/0mz84nyqMCYq8tJB4xbwLV) | 2:02 | 2023-01-20 |  |
+| [Abloom](https://open.spotify.com/track/44r59nq6u7G8x2hQgYNBT8) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Abloom](https://open.spotify.com/album/1Lg1RbTgB8FijKZPeGU8p7) | 2:56 | 2024-01-26 |  |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-03-04 |  |
 | [Above The Trees](https://open.spotify.com/track/6vUWjoUSF92bxEXheAQwPg) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Above The Trees](https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn) | 3:16 | 2022-02-16 |  |
 | [Aerial Flow \- Meditation](https://open.spotify.com/track/0qqvlSXjz8XXwjsXGAuPwh) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Aerial Flow](https://open.spotify.com/album/5ds4gdwtnC4xVusJb6MLBx) | 4:03 | 2022-12-30 |  |
@@ -175,6 +176,7 @@
 | [Nightswimming](https://open.spotify.com/track/7i93LXVxC6OnibqUY8DdpT) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Nightswimming](https://open.spotify.com/album/6F7tYoC2zPzi0yt6bzX2ad) | 2:39 | 2023-11-24 |  |
 | [Nipigon \(Meditation\)](https://open.spotify.com/track/7E79GrK1NuYiPfBmEoWhsm) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:37 | 2022-12-02 |  |
 | [No Beginning No End](https://open.spotify.com/track/08Ud09yKK3KT1ylfWzBF8p) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [No Beginning No End](https://open.spotify.com/album/4hJS4JLgD3kkTlHfotsYCh) | 3:05 | 2021-12-17 |  |
+| [Nordic Nature](https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Nordic Nature](https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO) | 3:08 | 2024-01-26 |  |
 | [Numerus](https://open.spotify.com/track/3EPRoYFIBqOghG8uXqKD8x) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Novo](https://open.spotify.com/album/4T9SRXa272N8cLRiUpTMIB) | 3:33 | 2021-12-17 |  |
 | [Ocean Safari](https://open.spotify.com/track/1kOp6oEC9hivJjhTyPs2AS) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Simple Habit](https://open.spotify.com/album/6DcCzJdg8MRc9s6jFKtXl5) | 3:39 | 2021-12-17 | 2023-01-14 |
 | [Ocean Waves Piano](https://open.spotify.com/track/1oyi9kI7l9CsPVznuluNOn) | [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Relaxing Piano Music With Ocean Waves for Spa Music, Relaxation, Yoga, Meditation, Massage Therapy and the Best Sleeping Music](https://open.spotify.com/album/0k4rbtqhnVbuy2YafsnEME) | 2:00 | 2021-12-17 | 2022-07-29 |
@@ -194,6 +196,7 @@
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-17 |  |
 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2022-11-17 |  |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-17 | 2023-01-14 |
+| [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-01-26 |  |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2022-05-05 |  |
 | [Praeniteo](https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Praeniteo](https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL) | 2:34 | 2022-04-13 |  |
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2021-12-17 |  |

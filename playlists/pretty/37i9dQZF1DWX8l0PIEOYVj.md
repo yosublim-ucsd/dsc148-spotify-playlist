@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: SLANDER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,901 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,935 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 |
 | 150 | [Bloom](https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g) | [Bloom](https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz) | 3:07 |
 
-Snapshot ID: `MCw3MDdkNDhjMjI2ZDc5YjY2ZWQzNDkzMzAwN2QxYzc1YjY3Nzc2MDZk`
+Snapshot ID: `MCxkMTllMzc5YmY0NmRhZjZkZDkyNGI1Mzk5ZjVhZGZmMzVkYTY1NTc2`

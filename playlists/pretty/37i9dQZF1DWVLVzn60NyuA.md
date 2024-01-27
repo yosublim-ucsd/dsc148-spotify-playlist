@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,094 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,142 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Bluffin](https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Bluffin](https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F) | 3:41 |
 | 150 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 |
 
-Snapshot ID: `MCwyNjliZDM2NWVhOWI2YjUzYzdkZTA2OTZkMmExYjNjNTBmOTUxZmM5`
+Snapshot ID: `MCwwNTdkYTBlZjEwNDZkMTc4YzE2NmRhOTYwZmQ2MjI0YzRjNTk2ODM5`

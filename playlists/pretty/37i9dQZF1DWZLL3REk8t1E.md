@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,947 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,057 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 | 100 | [Seremos](https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Seremos](https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr) | 3:06 |
 
-Snapshot ID: `MCwyZDkxY2QzMzE1MTgxYzBmMmQ1MDg2YzU4NmFlYmZlZjg3ZDJlODQ3`
+Snapshot ID: `MCw0NzU2ZjA3OGY1YThlNDYyMTg5ZDVkMWEwZjkxMmE1YmNmMWQ2YTA3`

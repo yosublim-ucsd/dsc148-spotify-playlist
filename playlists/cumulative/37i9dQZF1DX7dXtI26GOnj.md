@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Kali Uchis, Peso Pluma
 
-389 songs - 20 hr 26 min
+390 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Esperándote](https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3) | 2:45 | 2023-02-24 | 2023-04-15 |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2021-12-31 | 2022-01-15 |
 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 | 2023-07-07 | 2023-08-05 |
+| [Faldas y Gistros](https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Faldas y Gistros](https://open.spotify.com/album/4I3UDGvDhFHcq9nPFzsOb1) | 2:59 | 2024-01-26 |  |
 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 | 2023-10-27 | 2023-11-04 |
 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 | 2022-10-21 | 2023-05-20 |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-08-25 |  |
@@ -341,7 +342,7 @@
 | [Te Quiero](https://open.spotify.com/track/1UrIIf3M5R2pOwkvh1F8NX) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Te Quiero](https://open.spotify.com/album/3JqYyLydwNbHG4014uqd45) | 2:12 | 2022-04-01 | 2022-06-18 |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-12-31 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-12-31 | 2022-01-22 |
-| [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-11-03 |  |
+| [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-11-03 | 2024-01-27 |
 | [Tenemos que hablar](https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Tenemos que hablar](https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU) | 3:10 | 2023-08-04 | 2023-09-16 |
 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 | 2023-09-29 | 2023-11-05 |
 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 | 2022-04-29 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Hear the world in new ways with music from National Geographic’s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.
 
-58 songs - 2 hr 53 min
+59 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Pedagogic](https://open.spotify.com/track/3tXLYJhJktVZpwxKAK2gi2) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC) | [Fire of Love \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW) | 1:39 | 2023-12-15 |  |
 | [Penguins](https://open.spotify.com/track/4VlLEFdAfKiFVMkzSHV7qT) | [Andrew Christie](https://open.spotify.com/artist/3yJPmPcckAkvSN8nCX3MFW) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 2:52 | 2023-12-15 |  |
 | [Perfect Life](https://open.spotify.com/track/6aDerNa8GOuJGIqa13gdmg) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 3:43 | 2023-12-15 |  |
+| [Queen Bee](https://open.spotify.com/track/0AqqqI8GcSna2WgUe04ytE) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Real Bug's Life \(Original Series Soundtrack\)](https://open.spotify.com/album/6dfHVPdqW5lUqCP1X35Sb8) | 2:01 | 2024-01-26 |  |
 | [Salt Lake to Antelope](https://open.spotify.com/track/08fZDhN62EQZ9R8GnvhJlG) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:25 | 2023-12-15 |  |
 | [Sea Turtle](https://open.spotify.com/track/3vAnvSdQJLDgWH2NxSEOic) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 2:33 | 2023-12-15 |  |
 | [Sperm Whales Clicks](https://open.spotify.com/track/7r2C6F3MqPoNrw5vuFeeUF) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 2:34 | 2023-12-15 |  |

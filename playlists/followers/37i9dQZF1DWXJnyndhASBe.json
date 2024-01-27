@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 494721,
+  "2024-01-27": 494708,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Chivas",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -261,7 +261,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139300,
       "name": "AEZAKMI",
       "url": "https://open.spotify.com/track/0gj0afh4abWrCkp3wg1b4A"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 134000,
       "name": "ALL DAY FRESH",
       "url": "https://open.spotify.com/track/7u6Z5O7qeprlI6glcP68sJ"
@@ -1024,6 +1024,28 @@
     },
     {
       "album": {
+        "name": "CO\u015a WI\u0118CEJ",
+        "url": "https://open.spotify.com/album/2ucJEZ7OtlvXK18VI0UWzM"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194548,
+      "name": "CO\u015a WI\u0118CEJ",
+      "url": "https://open.spotify.com/track/6CsZzjVW0AhvXifMJAhpyt"
+    },
+    {
+      "album": {
         "name": "CRAZY FROG",
         "url": "https://open.spotify.com/album/0bCQd3xcOyLh122uEsvwC8"
       },
@@ -1174,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Deathcore",
+        "url": "https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Death note",
+      "url": "https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc"
+    },
+    {
+      "album": {
         "name": "Death note",
         "url": "https://open.spotify.com/album/16WmqXFFozCJCzANtKYWQj"
       },
@@ -1185,7 +1225,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 162000,
       "name": "Death note",
       "url": "https://open.spotify.com/track/7dgt6RI3o5QCB7xuXMVMxS"
@@ -1895,7 +1935,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153600,
       "name": "Jolie Jolie",
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
@@ -2522,6 +2562,40 @@
     },
     {
       "album": {
+        "name": "ANATEMA",
+        "url": "https://open.spotify.com/album/4vgb7rCMlDpVZQONdLbs5O"
+      },
+      "artists": [
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "Dj Taek",
+          "url": "https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R"
+        },
+        {
+          "name": "808Bros",
+          "url": "https://open.spotify.com/artist/44DGXC4Jy2OEik8LhoHjFg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215675,
+      "name": "MIZANTROP",
+      "url": "https://open.spotify.com/track/62nDbbCuUxzq6j5gj24cNr"
+    },
+    {
+      "album": {
         "name": "MMS",
         "url": "https://open.spotify.com/album/7EfQTrbwAlIWRpKb2Wnkzm"
       },
@@ -2574,6 +2648,36 @@
     },
     {
       "album": {
+        "name": "M\u0142ody Manson",
+        "url": "https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Lucassi",
+          "url": "https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "M\u0142ody Manson",
+      "url": "https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X"
+    },
+    {
+      "album": {
         "name": "UZUMAKI FORMA OSTATECZNA",
         "url": "https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79"
       },
@@ -2623,7 +2727,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183346,
       "name": "Nametag",
       "url": "https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y"
@@ -2839,7 +2943,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 169750,
       "name": "noWy baTmAN",
       "url": "https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ"
@@ -3129,7 +3233,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 165818,
       "name": "pls help me",
       "url": "https://open.spotify.com/track/0CHHKvtT48UIsiC7bgxcBw"
@@ -3960,6 +4064,32 @@
     },
     {
       "album": {
+        "name": "Tuptanie",
+        "url": "https://open.spotify.com/album/72UXBc5oCuhyjviuJP3PyL"
+      },
+      "artists": [
+        {
+          "name": "Popek",
+          "url": "https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz"
+        },
+        {
+          "name": "Razgonov",
+          "url": "https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15"
+        },
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168754,
+      "name": "Tuptanie",
+      "url": "https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t"
+    },
+    {
+      "album": {
         "name": "TYLE S\u0141O\u0143CA",
         "url": "https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2"
       },
@@ -4027,6 +4157,24 @@
       "duration_ms": 175518,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
+    },
+    {
+      "album": {
+        "name": "Vanitas",
+        "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Vanitas",
+      "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
     },
     {
       "album": {
@@ -4417,6 +4565,28 @@
       "duration_ms": 189206,
       "name": "Znak",
       "url": "https://open.spotify.com/track/5j3xxOZ9YI6Dnj1908z7oN"
+    },
+    {
+      "album": {
+        "name": "Saska Butik",
+        "url": "https://open.spotify.com/album/3oAaphM6SqpxlfwJfuUnxP"
+      },
+      "artists": [
+        {
+          "name": "Holak",
+          "url": "https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189700,
+      "name": "Znalaz\u0142em pieni\u0105dze",
+      "url": "https://open.spotify.com/track/6Kmm6QwMjkXh4tVtViPsWx"
     },
     {
       "album": {

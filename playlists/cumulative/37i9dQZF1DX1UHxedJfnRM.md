@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gian Marco, Daniela Darcourt
 
-149 songs - 11 hr 1 min
+150 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-05-13 | 2022-10-29 |
 | [Citas Clandestinas](https://open.spotify.com/track/0uRvViYnZWTRxwODPtwfn5) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Citas Clandestinas](https://open.spotify.com/album/2dfna1St5Mu6i9BnBKwSgX) | 5:33 | 2022-05-13 | 2023-02-17 |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2022-05-13 |  |
+| [Como Olvidarte](https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Olvidarte](https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9) | 3:08 | 2024-01-26 |  |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-13 | 2023-08-12 |
 | [Como Te Pago](https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ) | 3:13 | 2023-08-04 |  |
 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 | 2022-07-15 |  |
@@ -156,6 +157,6 @@
 | [Ya para Que](https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido Ante Ti](https://open.spotify.com/album/6YQbz2amnceEATuoen42u0) | 4:03 | 2022-07-15 |  |
 | [Ya para qué](https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido ante ti](https://open.spotify.com/album/4xPuNmZW2uIj067i75SIhm) | 4:03 | 2022-05-13 | 2022-07-29 |
 | [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 | 2023-08-23 |
-| [Zumbalaé \(En Vivo\)](https://open.spotify.com/track/3VIStFqBZXOe8KVnbQ1eYf) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Live](https://open.spotify.com/album/5AuRALmzALV366aYogg7Eo) | 3:35 | 2023-10-27 |  |
+| [Zumbalaé \(En Vivo\)](https://open.spotify.com/track/3VIStFqBZXOe8KVnbQ1eYf) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Live](https://open.spotify.com/album/5AuRALmzALV366aYogg7Eo) | 3:35 | 2023-10-27 | 2024-01-27 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

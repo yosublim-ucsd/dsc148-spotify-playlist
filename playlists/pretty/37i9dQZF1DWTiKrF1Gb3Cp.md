@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,946 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,059 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [7](https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [7](https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl) | 3:26 |
 | 100 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 
-Snapshot ID: `MCw1OTEwYWJjNzNmMmM1NWU0MzNjODJhYTFmMDgyM2UwNDI1Y2ZiODQz`
+Snapshot ID: `MCxiNzNhY2I5YzQyYWJmYzYzMTk2OGZlNTI3NzFmNjA3YTU1YWJlZGRi`

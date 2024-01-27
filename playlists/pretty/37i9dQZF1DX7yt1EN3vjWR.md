@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,648 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,969 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 59 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 |
 | 60 | [Inori](https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:30 |
 
-Snapshot ID: `MCwwMzIxMGM4OGZkZDY0NWQwZmIzYzk0MGY4OTNkZmNjMjg2ZWYzMmUz`
+Snapshot ID: `MCw3ZWFlZGU5NWQ3MDA4ZjQ0MTFiMmFhMzAwNTFmZmU5N2NkMjQ3MjA5`

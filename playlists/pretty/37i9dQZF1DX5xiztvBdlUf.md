@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,778 likes - 80 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,881 likes - 80 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
 | 80 | [ut i rommet](https://open.spotify.com/track/6aEVhlxyq0Lm05es90KBwq) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/7xp98hOrKFnD3zO27YDNAG) | 7:26 |
 
-Snapshot ID: `MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz`
+Snapshot ID: `MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl`

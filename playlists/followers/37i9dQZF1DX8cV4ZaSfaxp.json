@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 50014,
+  "2024-01-27": 50037,
   "date_first_scraped": "2022-05-15",
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
@@ -3833,7 +3833,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194306,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
@@ -5021,6 +5021,32 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/5n6lYfPddk0bNY8eW6O1ds"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223006,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/4C3cXopfT2rbKGYgYfoHrK"
     },
     {
       "album": {

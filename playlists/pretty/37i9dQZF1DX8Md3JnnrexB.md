@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,591 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,508 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Quiet Storm](https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 7:48 |
 | 100 | [Biggest Part of Me \- Remastered Version](https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [The Essentials: Ambrosia](https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW) | 5:26 |
 
-Snapshot ID: `MCxkMThkMjNlNWVlMWFmODc1NTdiM2ZiYTU4NDQxZmFkZGY2MmFkYzFk`
+Snapshot ID: `MCxiODU4M2Q0ZjU2NzkyZjE5MTE5MDAxZTg5NjhkNTRiMTI1NjA1NWM3`

@@ -4,7 +4,7 @@
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-71 songs - 3 hr 46 min
+72 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 | 2023-06-30 |  |
 | [El Capi](https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:42 | 2023-06-30 |  |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2023-06-30 |  |
-| [El Güero](https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 2:51 | 2023-06-30 |  |
+| [El Güero](https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 2:51 | 2023-06-30 | 2024-01-27 |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-06-30 |  |
 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 | 2023-06-30 |  |
 | [El Viejón de la Loma](https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:50 | 2023-06-30 |  |
@@ -41,6 +41,7 @@
 | [Jerarquia de Nivel](https://open.spotify.com/track/4GF5SpVBFyn4IuVtY56MTu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 3:32 | 2023-06-30 | 2023-11-07 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-06-30 |  |
 | [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 | 2023-11-06 |  |
+| [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 | 2024-01-26 |  |
 | [La Melena](https://open.spotify.com/track/4w5hSBHaXu849xt0g9eeDg) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 2:55 | 2023-06-30 |  |
 | [LA PEOPLE](https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:33 | 2023-06-30 |  |
 | [LA PEOPLE](https://open.spotify.com/track/62W2m05Hn0fBsfCzUjNaj2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LA PEOPLE](https://open.spotify.com/album/5Upqoyr3DsX6gpiE0NdzmW) | 2:33 | 2023-06-30 | 2023-08-04 |

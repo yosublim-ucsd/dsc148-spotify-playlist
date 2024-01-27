@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,444 likes - 140 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,499 likes - 140 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 |
 | 140 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
 
-Snapshot ID: `MCxhNTVmZGU0NDI1ZGM0MzA5ODgxMmY2MzMzYmFhZTgzYzU0NGM2MWJi`
+Snapshot ID: `MCw1ZmY0NDY5ZjlhYmMxZDg2Y2Y4NTc5MTM5MmM0ZTE2Zjg0ZmI0ZGUx`

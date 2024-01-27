@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,003 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,042 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 |
 | 100 | [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 |
 
-Snapshot ID: `MCw2ZDM0NmFkZDZkMjlkYzg3NDA0NzlhMjA5NGE4NDAzOTU1NTY0YzZk`
+Snapshot ID: `MCw2MjIyZDhjNjk5M2VlZTdmNjhjOGI0OWNhMmE4NTlkYTc1YTk2OTk0`

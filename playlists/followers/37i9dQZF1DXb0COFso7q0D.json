@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 3117236,
+  "2024-01-27": 3109694,
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Carin Leon, Grupo Frontera",
+  "description": "The playlist sin fronteras. Cover: Peso Pluma, Christian Nodal",
   "name": "Los Que Mandan",
   "tracks": [
     {
@@ -831,6 +831,24 @@
       "duration_ms": 151000,
       "name": "Aunque Digan",
       "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
+    },
+    {
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "BARBIEZ",
+      "url": "https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI"
     },
     {
       "album": {
@@ -4123,7 +4141,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225480,
       "name": "GAVIL\u00c1N II",
       "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
@@ -4893,6 +4911,28 @@
       "duration_ms": 174923,
       "name": "La Fresa",
       "url": "https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN"
+    },
+    {
+      "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "album": {
@@ -8303,7 +8343,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Skepsis
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,788 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,836 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
 | 55 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
 
-Snapshot ID: `MCxkYTU2YTljYzJmNjkwNTIxNWYwMzE0NTc3ZmE1NzlmNmM0ZjMxOTg4`
+Snapshot ID: `MCxkNWYyYjlmOTE5MjAzMWQ1MGM0MTM3ZTAwYzVmZDljOWNmOTU5YmUw`

@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-305 songs - 12 hr 19 min
+306 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Childs Play](https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Just Dance](https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9) | 2:36 | 2022-08-12 | 2022-12-31 |
 | [Childs Play Bounce That \(Jersey Club\)](https://open.spotify.com/track/3JurQMM5CRgRKNMHAN4vRH) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Childs Play Bounce That \(Jersey Club\)](https://open.spotify.com/album/683ZzVObUnZaOTzspVxWoF) | 2:36 | 2022-02-11 | 2022-07-27 |
 | [Chocolate Parfait](https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Chocolate Parfait](https://open.spotify.com/album/7vQ6C0NU6ReWNqbxMt7tvc) | 2:44 | 2022-02-11 | 2022-11-25 |
-| [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 | 2022-07-22 |  |
+| [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 | 2022-07-22 | 2024-01-27 |
 | [Clout Chaser, Pt\. 4](https://open.spotify.com/track/4GyVJP3XHOVb8CxXQKT8Um) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy the Producer](https://open.spotify.com/artist/1jCHbNhLn02pWxqNWsQFvw), [Pyt Ny](https://open.spotify.com/artist/5jjGLA9R4YUmCVipl3Btj3) | [Clout Chaser, Pt\. 4](https://open.spotify.com/album/75qoG0Zx9aF19ngja8Z1Dh) | 2:30 | 2022-02-11 | 2022-07-29 |
 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 | 2022-07-08 |  |
 | [Crowd Pleaser](https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc), [Vianna](https://open.spotify.com/artist/1BpHYjBTqv7eRxSnpV2D6S) | [So Far So Good \(Deluxe\)](https://open.spotify.com/album/5QPYD8dztySGd1vOQiOoUS) | 2:24 | 2022-02-11 | 2022-12-31 |
@@ -206,6 +206,7 @@
 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 | 2023-11-10 |  |
 | [Need Your Body](https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI) | [Jaeo Draftpick](https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq), [DJ Scenario](https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE) | [Need Your Body](https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi) | 2:44 | 2022-09-02 | 2023-07-20 |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-30 |  |
+| [NO IDEA \#jerseyclub](https://open.spotify.com/track/4uNzalrFBK6dPKiQffmQBo) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/4wNgysj3uaCO6VhPYzzXdA) | 2:36 | 2024-01-26 |  |
 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3A9QsMXZE9PQi4DRfoNBVU) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 | 2022-12-30 | 2023-01-06 |
 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 | 2023-08-12 |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,578 likes - 300 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,665 likes - 300 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 299 | [Stormy Weather](https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:14 |
 | 300 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 |
 
-Snapshot ID: `MCw3ZGViMDc0M2ZiMmM5YzkzNTVhNTAwMTA5NTc5Mzg5YTk3MWYxNWMx`
+Snapshot ID: `MCwzYWJiM2YwZDM4Zjk2NzU0NDE1MmJjM2NhM2RmYWYyYTRkZWUwMzlm`

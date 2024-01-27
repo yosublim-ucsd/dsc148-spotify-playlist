@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,853 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,859 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Findsemaine](https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Tommy Kruise](https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S) | [La Coupe](https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg) | 2:52 |
 | 100 | [Johnny](https://open.spotify.com/track/1rUTNL7BmKVOALl3iwu9z3) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 4:37 |
 
-Snapshot ID: `MCxhNGU4NzI1NWZiMWEzNDJhYjUyN2QxNThhNWFiNmNmOWYyZjhkODEx`
+Snapshot ID: `MCxlYzU0MzNmZjM0N2VlMDY2ZDJlM2I1ZmFhNmY3ZTJkYzg0OTZjMjgz`

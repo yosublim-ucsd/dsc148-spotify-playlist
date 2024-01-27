@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: LAI$ROSA
 
-208 songs - 9 hr 50 min
+209 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Porta Malas](https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Porta Mala](https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 | 2023-07-21 | 2023-09-16 |
 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 | 2022-03-11 | 2023-09-02 |
-| [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 | 2022-03-11 |  |
+| [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 | 2022-03-11 | 2024-01-27 |
 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 | 2023-10-06 |  |
 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 | 2023-12-01 |  |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-11 | 2022-03-26 |
@@ -208,6 +208,7 @@
 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-08 | 2023-09-30 |
 | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/track/1LvjU5igregWzDRl6kRMkc) | [King](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Soho Sessions](https://open.spotify.com/artist/02bsMuvxMq6bvNLAJdtOQe) | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/album/1Mo043KD2TGELiE4D0cAfd) | 3:25 | 2023-07-28 | 2023-08-26 |
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-29 |
+| [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 | 2024-01-26 |  |
 | [Vibe](https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG) | [Dourado](https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x) | [Vibe](https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5) | 2:51 | 2023-01-06 | 2023-03-01 |
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 | 2023-04-09 |
 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 | 2023-12-15 | 2024-01-20 |

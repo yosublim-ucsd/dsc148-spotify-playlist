@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,460 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,448 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 |
 | 150 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1d9d2mvsKvUro1XB7HJ0gt) | [Caleb Collins](https://open.spotify.com/artist/7yJDmdXvSih9XGh8alDSfB) | [Christmas](https://open.spotify.com/album/18vGLMKM03hxzNRxvkuMMY) | 4:05 |
 
-Snapshot ID: `MCw1MDM3ZDI4MjIwNzlmNmMxY2Q3NjQ3MWU5ZDAyZDgxMTA2YTNhNWRi`
+Snapshot ID: `MCwzNjVmNjA1ZDg2YzBmMmE4MTQwOTJkNTc0NzZmYzAzODY5YzAxNTZh`

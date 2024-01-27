@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,946 likes - 125 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,002 likes - 125 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [Let's Make Believe](https://open.spotify.com/track/0Bfod0RloRfwS3gPx2UAAk) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Deborah J\. Carter](https://open.spotify.com/artist/2NEVFoeoJx9W4p1Ubqxd0I) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:46 |
 | 125 | [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 |
 
-Snapshot ID: `MCxmMzMxM2Y0YWM2MjRlY2Y5OWY1N2Y5MzlmMDEyZGI2YjEyNDhjZTQw`
+Snapshot ID: `MCw1MjQ0Yzg5NTRjZjFhMDUxNjgwOTQ1MmY5YTVjN2QzOTY4Y2U3MTdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,877 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,884 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 37 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
 | 38 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
 | 39 | [O Mundo Parou](https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU) | 3:43 |
-| 40 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 |
-| 41 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
+| 40 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
+| 41 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 |
 | 42 | [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 |
 | 43 | [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 |
 | 44 | [Florescer](https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Florescer](https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE) | 3:32 |
 | 50 | [Agradecer](https://open.spotify.com/track/1l6Ft5qe5gSUjBYn2tXYKm) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Agradecer](https://open.spotify.com/album/4Ji39vIZY0YwdQSNw0ZmE4) | 2:19 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDA0MTg5ODAxMDc0NTIzMWYyN2FjMjg2NGU0ZTBjZDA4ZQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBkMTUyYzUwODY1N2NjM2VlNWQ3NjdhNjJmNTc3OWJkYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,716 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,610 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
 | 150 | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 |
 
-Snapshot ID: `MCwzZDNmNTVlNmVhMjBjZWI4Y2E5MzNjMjY4NzI5OTAzMGJiNGZjYzY1`
+Snapshot ID: `MCxhZjUzODA1YTg4NmQwYjQ5NjUzZGRmM2M5NjZlMzAzNzA2ZWJmY2Zl`

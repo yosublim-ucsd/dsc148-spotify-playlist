@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> q bololo ein
+> coquette ou cocota?
 
 371 songs - 17 hr 25 min
 
@@ -321,7 +321,7 @@
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-19 | 2023-08-04 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2023-05-03 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-20 | 2022-08-10 |
-| [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 |  |
+| [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 |  |
 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 | 2024-01-04 |  |
 | [Teu Amigo Cuidou](https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr) | [Mariana Reis](https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb) | [Ao Vivo Abril 2022](https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX) | 3:33 | 2022-07-04 | 2022-08-05 |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2022-05-26 | 2022-07-29 |

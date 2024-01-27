@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,585 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,593 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Open the Eyes of My Heart](https://open.spotify.com/track/2THCQcUx495TezaDX57Syx) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:59 |
 | 100 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 
-Snapshot ID: `MCwyNzM4OTk0NGE4Y2Q0ODBkN2VmMmRmY2RmODVhOTI4OWQ3NTEzZTU1`
+Snapshot ID: `MCwyOTMzMDNlMTUwOTUwOTg3YmViYzBmNDQ2MmFiNTU0MzAwYWFiODAw`

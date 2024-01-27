@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 角銅真実\(Manami Kakudo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,022 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,039 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 13 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 |
 | 14 | [I’m falling for you](https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [I’m falling for you](https://open.spotify.com/album/5PZi9Ctf2visPdtQRYRkbP) | 3:03 |
 | 15 | [HANDLE](https://open.spotify.com/track/1ad2WwhtOoNhB8W0KTveZL) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [HANDLE](https://open.spotify.com/album/4q4KHPSLPNjq7gucqUh3LN) | 2:37 |
-| 16 | [あなたがここに来るまでに用は済みそう](https://open.spotify.com/track/4Zemxdar3w4SYTwNcvQIid) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [あなたがここに来るまでに用は済みそう](https://open.spotify.com/album/0HPOV5QMJlItsN3hfjNq33) | 4:15 |
+| 16 | [Things Will Be Done Before You Come](https://open.spotify.com/track/3ukGUIYkWua4IWvHYSH3kD) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [Things Will Be Done Before You Come](https://open.spotify.com/album/7jOdfY3G7UMSNl85y0YGho) | 4:15 |
 | 17 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 |
 | 18 | [Escape](https://open.spotify.com/track/3L5TQ68de9dyCwYxCwUVOZ) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [The Department](https://open.spotify.com/artist/6snnkNUPcJcVbqEWeUcQgV) | [Escape](https://open.spotify.com/album/285MuuagQrs9TDqhBlHZgH) | 4:05 |
 | 19 | [OK](https://open.spotify.com/track/26Yh1T75WaqQ3R9PLIYgwV) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [OK](https://open.spotify.com/album/3YzWLuauk7PzsLIwyJMPVr) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [論理はロンリー](https://open.spotify.com/track/5RoGgHnJ6QAClrbmjHvFdS) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [論理はロンリー](https://open.spotify.com/album/3U38JcKpHHhRfY2h7y0ESd) | 4:48 |
 | 100 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
 
-Snapshot ID: `MCw3NDAyYzNiOWI2ZjA5NWUwZjhlZDA1MGE2NGY1NWY2MTMwM2ViYjYz`
+Snapshot ID: `MCw3NmY1Yjg1Y2I4ODZiNDJhZmY2YzVkMjIwYTMyMDM5MWE4MmVjNjQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,164 likes - 115 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,641 likes - 115 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [You Asked Me To](https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4) | 2:51 |
 | 115 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 |
 
-Snapshot ID: `MCxkZmFjZWVlZjQ5Y2E1ZDI1ZDA0YTZiNWVlMWEwN2NhMmU2NjYyNTkz`
+Snapshot ID: `MCw0MWU5Yzk2YjUyNTg2MDUyODdlNDEwNTE5NjZhMDYwOTc4NjNmZmM3`

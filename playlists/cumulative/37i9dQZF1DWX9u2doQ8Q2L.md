@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,271 songs - 3 day 6 hr 7 min
+1,272 songs - 3 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,7 +902,8 @@
 | [Tonight](https://open.spotify.com/track/6xHQ5Pzxoor8cjQjKgcevB) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Tonight](https://open.spotify.com/album/0IMYcOMmlYhL0QFBekAHdX) | 3:33 | 2023-05-23 | 2023-05-31 |
 | [Too Good To Be True](https://open.spotify.com/track/6lQDD0b8SZn3pvb2p2epFU) | [Solgasa](https://open.spotify.com/artist/2OnKo4AWIS0E2QLKLW8VPQ), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [michel ko](https://open.spotify.com/artist/55brV6SE3YnJWlU9MRrNlE), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Too Good To Be True](https://open.spotify.com/album/71W2IasyVROT0m96mYSc0V) | 2:40 | 2022-07-19 | 2022-07-27 |
 | [Torisugiteiku](https://open.spotify.com/track/1P3qOEqKbAYYMJUcKM06dW) | [Qaijff](https://open.spotify.com/artist/2ybYclZz8KsmrgwlK8Em1X) | [Torisugiteiku](https://open.spotify.com/album/4rsp9BropcJweaeBbV6gWW) | 2:57 | 2022-11-15 | 2022-11-23 |
-| [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 |  |
+| [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 |  |
+| [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-11-25 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 |  |
 | [Train II](https://open.spotify.com/track/4q62OUvG21gzGEPHZSNH3P) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Loomie](https://open.spotify.com/album/1xWjFHmBvwgXKjy16jLDYf) | 4:52 | 2023-10-31 | 2023-11-08 |

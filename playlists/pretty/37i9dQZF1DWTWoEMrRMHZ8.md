@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Marisa Monte
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,530 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,233 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [A Lenda do Abaeté](https://open.spotify.com/track/3xGv2WGYRCpHPVj7aEUSXY) | [Adriano Grineberg](https://open.spotify.com/artist/2599bDGK4Ajb35fL2P2iev) | [Eufótico](https://open.spotify.com/album/0dFqIyj6yuJz3BWCeznW8U) | 4:49 |
 | 100 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MCw0NDEwMDY2Y2E5NzQ1Yzc5M2I2NGE5YjZkNjBmMDQzNDAwMzNiZDRl`
+Snapshot ID: `MCxiZjBlYjQyODRlNjg5ZTkwZDc4ZjY4MGNkNWYyOTllODU4NzQ2Mjkw`

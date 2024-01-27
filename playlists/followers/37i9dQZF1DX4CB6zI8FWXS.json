@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 87379,
+  "2024-01-27": 87359,
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Joey Bada$$",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Justin Timberlake",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -2715,7 +2715,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 203294,
       "name": "Is It Real? (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/3RlcyNhoM8zAEL32RF6axe"
@@ -4208,6 +4208,24 @@
     },
     {
       "album": {
+        "name": "Our Destination",
+        "url": "https://open.spotify.com/album/7rqsSXssi9xlffxuxR7CEg"
+      },
+      "artists": [
+        {
+          "name": "Tomoko Nia",
+          "url": "https://open.spotify.com/artist/3KsYG0LJISq8jaL3ckUXeo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230328,
+      "name": "Our Destination",
+      "url": "https://open.spotify.com/track/4bA0WPhGGbbAHNz0DRPg0H"
+    },
+    {
+      "album": {
         "name": "Outside / Obaa Sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -4475,7 +4493,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194254,
       "name": "Practice",
       "url": "https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6"
@@ -4770,6 +4788,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "album": {
         "name": "Seven Days a Week",
         "url": "https://open.spotify.com/album/2k899IKbxRu66ysrb8lYpa"
       },
@@ -4931,6 +4967,28 @@
       "duration_ms": 165670,
       "name": "Silver Platter (From Barbie The Album)",
       "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
+    },
+    {
+      "album": {
+        "name": "Blended",
+        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
     },
     {
       "album": {
@@ -5267,6 +5325,24 @@
       "duration_ms": 185560,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH"
+    },
+    {
+      "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/5zXZBEsCxIFSqGwAO1FEOK"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216624,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/60gpPVIPxuB8OLKS3mif0I"
     },
     {
       "album": {
@@ -5695,7 +5771,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
@@ -6649,7 +6725,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164000,
       "name": "You 2 Thank",
       "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"

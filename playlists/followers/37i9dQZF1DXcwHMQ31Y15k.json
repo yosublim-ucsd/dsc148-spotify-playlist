@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 178192,
+  "2024-01-27": 178224,
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Denny Caknan",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: James AP",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1435,6 +1435,24 @@
       "duration_ms": 234240,
       "name": "Janji Tok!",
       "url": "https://open.spotify.com/track/3DPoVLhW3Av9Esa3yMjYju"
+    },
+    {
+      "album": {
+        "name": "Juragan Empang",
+        "url": "https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr"
+      },
+      "artists": [
+        {
+          "name": "Lala Widy",
+          "url": "https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230662,
+      "name": "Juragan Empang",
+      "url": "https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE"
     },
     {
       "album": {
@@ -3068,6 +3086,28 @@
     },
     {
       "album": {
+        "name": "Nyekso Batin",
+        "url": "https://open.spotify.com/album/2wWEPAldjTiqs1trN6nxGF"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Adinda Rahma",
+          "url": "https://open.spotify.com/artist/6KV2AA76lGjBjBI2gb5giZ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Nyekso Batin",
+      "url": "https://open.spotify.com/track/25a5nkGxMqY1eIFM0B4kzf"
+    },
+    {
+      "album": {
         "name": "nyikso batin",
         "url": "https://open.spotify.com/album/46cFNRFRfADKib0ac3Q3JE"
       },
@@ -3499,6 +3539,28 @@
       "duration_ms": 256285,
       "name": "Pengangguran Yo Lumayan - Keroncong",
       "url": "https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls"
+    },
+    {
+      "album": {
+        "name": "Penging",
+        "url": "https://open.spotify.com/album/7LXMwVDuyCTpwwupqKqkDF"
+      },
+      "artists": [
+        {
+          "name": "James AP",
+          "url": "https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5"
+        },
+        {
+          "name": "Rizal Today",
+          "url": "https://open.spotify.com/artist/5TGSy8BWOvTO2FumpNw5V3"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270029,
+      "name": "Penging",
+      "url": "https://open.spotify.com/track/38HIwPovZSYkqwnyISHnXh"
     },
     {
       "album": {

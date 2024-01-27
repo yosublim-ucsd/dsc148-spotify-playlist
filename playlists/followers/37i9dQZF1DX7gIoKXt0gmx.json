@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 2723924,
+  "2024-01-27": 2723523,
   "date_first_scraped": "2019-05-26",
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
   "name": "All The Feels",
@@ -359,6 +359,24 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184089,
+      "name": "Bahamas Promises",
+      "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
     },
     {
       "album": {
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
@@ -3146,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
       },
@@ -3675,7 +3711,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178520,
       "name": "Pain, no Percocet",
       "url": "https://open.spotify.com/track/67qc0MK4wCWJPaEQ9eCd4X"
@@ -4449,7 +4485,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
@@ -4703,7 +4739,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 187744,
       "name": "These Four Walls - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1rllCR1VL8FLZN5Q5yvW36"
@@ -5371,7 +5407,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 325305,
-      "name": "Wicked Games - Original",
+      "name": "Wicked Games",
       "url": "https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl"
     },
     {

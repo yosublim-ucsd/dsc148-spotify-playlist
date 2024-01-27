@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,059 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,113 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 26 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 |
 | 27 | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 |
 | 28 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
-| 29 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
+| 29 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 |
 | 30 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
 | 31 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
 | 32 | [Breathe](https://open.spotify.com/track/1ME8Thb5mDmBYTI3I5f3uJ) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Breathe](https://open.spotify.com/album/5qiwejbPXY26hyUEZe6k5f) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 59 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 |
 | 60 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 |
 
-Snapshot ID: `MCwxNzAwMDU0Yzg0ZTA5Zjg5YTMzOTQwMjkyMzYzOTNkNTQyMzZmNDdj`
+Snapshot ID: `MCxlZTRiYmY3YmMxZWRiMmEyOGVjNmNmNjM5MGE0YjhkZjEwZjYwZDYw`

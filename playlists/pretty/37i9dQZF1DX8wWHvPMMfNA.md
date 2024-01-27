@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,409 likes - 650 songs - 1 day 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,449 likes - 650 songs - 1 day 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,4 +659,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 649 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
 | 650 | [Polka Dots And Moonbeams \- Rudy Van Gelder/Digital Remaster/2007](https://open.spotify.com/track/4X56eAHSvc1H2SeAjLXv4h) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Gravy Train](https://open.spotify.com/album/5Eq7b34mkTNePUxKaEG1jg) | 4:59 |
 
-Snapshot ID: `MCxlNjI4MGE0YjA4YWZiZTc3ZTM1MWU0NThkYzkzN2QzODMzZGRmZmU0`
+Snapshot ID: `MCwxZjcyYzg1NWFkNDVmNThjYWEwMjFkNTEwMWI1NzE0ZmFiOWJiNDQx`

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Bias : KPOP ESSENTIAL](https://open.spotify.com/playlist/1DOwtSHKzJzutiL99WYwb0)
 
-> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: IVE
+> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: IU
 
-124 songs - 6 hr 33 min
+126 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,9 @@
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-08 |  |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-04 | 2023-11-10 |
 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 | 2023-08-21 |  |
+| [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-26 |  |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-07 |  |
+| [Lovers or Enemies](https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Single Album ‘0 or 1’](https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca) | 2:42 | 2024-01-26 |  |
 | [MACARONI CHEESE](https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [MACARONI CHEESE EP](https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e) | 2:25 | 2023-10-31 |  |
 | [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 | 2023-02-13 |  |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2023-11-10 |  |

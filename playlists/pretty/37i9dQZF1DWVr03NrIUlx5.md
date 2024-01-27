@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,226 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,289 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Fake Plastic Trees](https://open.spotify.com/track/5bN43arFW3dZ7pzlNOGAmj) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Radiohead](https://open.spotify.com/album/6jPxG83SGq5LkubgY4hEdX) | 4:54 |
 | 100 | [The Trooper](https://open.spotify.com/track/1FbtRuEVW4lG4sm2dOMsvl) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Iron Maiden](https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V) | 3:44 |
 
-Snapshot ID: `MCw1MmYxMTQ4MzM3MGUwMzhiYzA3OTRiZWRhZWJkNjVmZDQ3NzY0Nzk2`
+Snapshot ID: `MCwwM2UyNDFkMWUwMTVhNzgwNjVjMDI0YTcwZDhhNjZlNTNiYjliMjFk`

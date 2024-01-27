@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 1348916,
+  "2024-01-27": 1348852,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fivio Foreign & Russ Millions",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Skepta",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 127000,
       "name": "An Idea Was Born",
       "url": "https://open.spotify.com/track/7MMT2yeDKLjbxV3HS7k8Gf"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126053,
       "name": "Artiste",
       "url": "https://open.spotify.com/track/1uAFzVmlo4V4ndVtbF1ZlM"
@@ -3543,6 +3543,24 @@
       "duration_ms": 161052,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/5wwIUZVGc2ypBa6Z717HHh"
+    },
+    {
+      "album": {
+        "name": "Basically",
+        "url": "https://open.spotify.com/album/0MAgITcavTLRIy1qqi6Me5"
+      },
+      "artists": [
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Basically",
+      "url": "https://open.spotify.com/track/11YH6pYrbxkGl8vjdKK2bK"
     },
     {
       "album": {
@@ -6676,6 +6694,28 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/2b81z3LwIfg9yKGiVrKCks"
+      },
+      "artists": [
+        {
+          "name": "JM7",
+          "url": "https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm"
+        },
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191752,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/5w2wGoIGGGTHdxCQ2BaiRh"
+    },
+    {
+      "album": {
         "name": "Chasing the Bag",
         "url": "https://open.spotify.com/album/0qgzmo5SFrup2dg5jH7lsN"
       },
@@ -7149,6 +7189,32 @@
       "duration_ms": 198260,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/0uS9ADnjatyydeJUELiY9w"
+    },
+    {
+      "album": {
+        "name": "The G Tape: Volume 3",
+        "url": "https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q"
+      },
+      "artists": [
+        {
+          "name": "Groundworks",
+          "url": "https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc"
+        },
+        {
+          "name": "Steve Drive",
+          "url": "https://open.spotify.com/artist/5kx5NGT0XdiL2UoUrsxYgD"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158552,
+      "name": "Colder Than Ice",
+      "url": "https://open.spotify.com/track/2qufnRZH35H617nBybNqyX"
     },
     {
       "album": {
@@ -7911,7 +7977,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176326,
       "name": "Currency",
       "url": "https://open.spotify.com/track/6efzdUDDy1H2MH34eF2qcm"
@@ -11125,7 +11191,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180000,
       "name": "Exercise",
       "url": "https://open.spotify.com/track/0oNNi92GUuj6GcUVzQozlo"
@@ -12660,6 +12726,24 @@
     },
     {
       "album": {
+        "name": "Gas Me Up (Diligent)",
+        "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Gas Me Up (Diligent)",
+      "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "album": {
         "name": "Gauze",
         "url": "https://open.spotify.com/album/1UuWe2LFRtmNpVzk3KCPoy"
       },
@@ -13073,7 +13157,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 155200,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/7ce57gIvxc353OwZyapw5e"
@@ -14532,6 +14616,24 @@
     },
     {
       "album": {
+        "name": "How High?",
+        "url": "https://open.spotify.com/album/5BGxh7e5DSpfeK1fbdo7Hi"
+      },
+      "artists": [
+        {
+          "name": "Nino Uptown",
+          "url": "https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "How High?",
+      "url": "https://open.spotify.com/track/60yC6PGFHow11z6sjTOhxD"
+    },
+    {
+      "album": {
         "name": "How It Goes",
         "url": "https://open.spotify.com/album/6udCCcTCkuRhZXYsivvX4H"
       },
@@ -14653,7 +14755,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 200321,
       "name": "I Admit (feat. MoStack)",
       "url": "https://open.spotify.com/track/2DON7NziO4u041hCAfowEM"
@@ -15003,7 +15105,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 172316,
       "name": "Icy Watch",
       "url": "https://open.spotify.com/track/5i6JGzT3WboBEF7zpYtWEh"
@@ -15655,6 +15757,28 @@
       "duration_ms": 205165,
       "name": "Jeremy Corbyn",
       "url": "https://open.spotify.com/track/7r3AhAM2VnJHJi8YoFk59T"
+    },
+    {
+      "album": {
+        "name": "Jezebel (with Strandz)",
+        "url": "https://open.spotify.com/album/47OJlYJhNzdqpzb2aZ1ox3"
+      },
+      "artists": [
+        {
+          "name": "tn_490",
+          "url": "https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X"
+        },
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154618,
+      "name": "Jezebel (with Strandz)",
+      "url": "https://open.spotify.com/track/2zdFPLMBWLnyVy5a0Lnczv"
     },
     {
       "album": {
@@ -16503,7 +16627,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 194000,
       "name": "Landslide (feat. Nafe Smallz)",
       "url": "https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy"
@@ -16809,6 +16933,24 @@
       "duration_ms": 202199,
       "name": "Lean Wit It",
       "url": "https://open.spotify.com/track/1NFfmOAVWhY6rCnU8x8nqB"
+    },
+    {
+      "album": {
+        "name": "LEANIN",
+        "url": "https://open.spotify.com/album/6aTQ0cxnn2r1OucuHHLbtB"
+      },
+      "artists": [
+        {
+          "name": "A2 Anti",
+          "url": "https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "LEANIN",
+      "url": "https://open.spotify.com/track/7rhkyaxaAheX4usxCAECcw"
     },
     {
       "album": {
@@ -21222,6 +21364,28 @@
     },
     {
       "album": {
+        "name": "The G Tape: Volume 3",
+        "url": "https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q"
+      },
+      "artists": [
+        {
+          "name": "Groundworks",
+          "url": "https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151436,
+      "name": "No Wahala",
+      "url": "https://open.spotify.com/track/6DUVkJa50QyFebstc2AQpb"
+    },
+    {
+      "album": {
         "name": "Noisy Neighbours",
         "url": "https://open.spotify.com/album/1b3q0Ej3zJ9fNu7f0epW8H"
       },
@@ -21911,6 +22075,24 @@
       "duration_ms": 275280,
       "name": "On The Radar Freestyle",
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "album": {
+        "name": "once upon a time",
+        "url": "https://open.spotify.com/album/7j1UMhnjqn3Uwh0Gpck5jT"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/3NBCkND8iLWihiyOvwsVap"
     },
     {
       "album": {
@@ -26289,7 +26471,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 131960,
       "name": "S.A.S",
       "url": "https://open.spotify.com/track/02a3soEFabQ27HV6PLd1Fc"
@@ -26533,7 +26715,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 144204,
       "name": "Scary (feat. Aitch)",
       "url": "https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo"
@@ -26847,6 +27029,44 @@
       "duration_ms": 197616,
       "name": "Serious 2020",
       "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
+    },
+    {
+      "album": {
+        "name": "The G Tape: Volume 3",
+        "url": "https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q"
+      },
+      "artists": [
+        {
+          "name": "Groundworks",
+          "url": "https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc"
+        },
+        {
+          "name": "98s",
+          "url": "https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Stally",
+          "url": "https://open.spotify.com/artist/7pr9qSJxKwMX2i72yeVan4"
+        },
+        {
+          "name": "DA",
+          "url": "https://open.spotify.com/artist/2hPnjZntqhWewbJQeyikz2"
+        },
+        {
+          "name": "HitMan",
+          "url": "https://open.spotify.com/artist/5VHXV84wckS4wkzzPvSfqa"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173995,
+      "name": "Set That",
+      "url": "https://open.spotify.com/track/60iul36XULEn6ahhy8RU2Y"
     },
     {
       "album": {
@@ -28659,7 +28879,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 231240,
       "name": "STEVIE WONDER (feat. Aitch)",
       "url": "https://open.spotify.com/track/6xqT4aPEqQIoZ0SUp7zwEr"
@@ -29549,6 +29769,24 @@
       "duration_ms": 177464,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+    },
+    {
+      "album": {
+        "name": "Tea Over Henny",
+        "url": "https://open.spotify.com/album/0EQL1FlbCyFIhVMbKnXf7K"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Tea Over Henny",
+      "url": "https://open.spotify.com/track/0HlvdfwfrZjL6KAkrIGKI4"
     },
     {
       "album": {
@@ -30723,7 +30961,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164795,
       "name": "Tip Toes",
       "url": "https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG"
@@ -31525,7 +31763,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 154400,
       "name": "Two Phones",
       "url": "https://open.spotify.com/track/1RBpRYvgPcaVs32Nve1AVe"
@@ -33921,7 +34159,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 145352,
       "name": "Yahoo",
       "url": "https://open.spotify.com/track/3bHx8kGCUpkDTuAVQjN7Ta"

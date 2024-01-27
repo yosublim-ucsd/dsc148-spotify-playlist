@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 
 > Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,498,621 likes - 193 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,496,971 likes - 193 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 | 192 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 |
 | 193 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 |
 
-Snapshot ID: `MCxkYzQ4NjhjNzZjY2U1ZmRiZDZkNzNkZWY5MWYwMjk3MjQ5MDlmM2M0`
+Snapshot ID: `MCxhZTUxYTA1ZWY0NzU5ZDRhNjAxYjAyZTBhMzczYWUzNGEwNjllNWZk`

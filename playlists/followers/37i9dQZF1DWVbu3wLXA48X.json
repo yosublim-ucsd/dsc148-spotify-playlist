@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 110254,
+  "2024-01-27": 110287,
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Bleachers",
+  "description": "Current indie tunes from Asia and around the world. Cover: The Smile",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -271,7 +271,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 258426,
       "name": "4am",
       "url": "https://open.spotify.com/track/6WXX48O5lE9GwnQH8hUUiW"
@@ -3057,7 +3057,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 268000,
       "name": "Brand New Colony",
       "url": "https://open.spotify.com/track/20X3ds0M3dRSLuB5n45lvk"
@@ -4753,7 +4753,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
@@ -8158,6 +8158,24 @@
     },
     {
       "album": {
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
+    },
+    {
+      "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
@@ -8223,7 +8241,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 166643,
       "name": "GLOW",
       "url": "https://open.spotify.com/track/0i8EbwLvGtg3u9hq896b1A"
@@ -10664,6 +10682,24 @@
     },
     {
       "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
+    },
+    {
+      "album": {
         "name": "internet friends",
         "url": "https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5"
       },
@@ -10803,6 +10839,24 @@
       "duration_ms": 174253,
       "name": "It Happens All The Time",
       "url": "https://open.spotify.com/track/7azUltfF4fFdkedCuun9cF"
+    },
+    {
+      "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/7tIK8SgNtyAzhl4cuC43Ki"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180442,
+      "name": "IT HURTS ME",
+      "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
     },
     {
       "album": {
@@ -13477,10 +13531,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 205399,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV"
+      },
+      "artists": [
+        {
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202352,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz"
     },
     {
       "album": {
@@ -14017,7 +14089,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 177454,
       "name": "NEED",
       "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
@@ -14499,7 +14571,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 164844,
       "name": "Normal People Things",
       "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
@@ -16300,6 +16372,24 @@
     },
     {
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/4LQysmF0IAoFTPSscF0TIH"
+      },
+      "artists": [
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/0OnjHhnWXyVc3ExmEk2VLL"
+    },
+    {
+      "album": {
         "name": "L\u00dcCY",
         "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
       },
@@ -16588,6 +16678,24 @@
     },
     {
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/5qbYvtDCC4YDNTe0jSRxML"
+      },
+      "artists": [
+        {
+          "name": "Mall Girl",
+          "url": "https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/0cSFoCPPaQ4vDyUktA7iL2"
+    },
+    {
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -16827,6 +16935,24 @@
       "duration_ms": 219069,
       "name": "REACH!",
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
+    },
+    {
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
     },
     {
       "album": {
@@ -17675,7 +17801,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 205673,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
@@ -18677,6 +18803,24 @@
       "duration_ms": 232537,
       "name": "skin in the game",
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
+    },
+    {
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "album": {
@@ -20594,6 +20738,50 @@
     },
     {
       "album": {
+        "name": "Swapping Socks",
+        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218762,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
+    },
+    {
+      "album": {
+        "name": "Sweet Hurting",
+        "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        },
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214622,
+      "name": "Sweet Hurting",
+      "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
+    },
+    {
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
       },
@@ -20685,6 +20873,24 @@
       "duration_ms": 326000,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/6DffoPe45lbiNxdCkfoFYd"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218896,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3"
     },
     {
       "album": {
@@ -21433,6 +21639,24 @@
       "duration_ms": 254989,
       "name": "The Tern",
       "url": "https://open.spotify.com/track/7EcVoZPkdxpnTCCt8pblwK"
+    },
+    {
+      "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
     },
     {
       "album": {
@@ -22469,7 +22693,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 446733,
       "name": "Two Generations of Excess",
       "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
@@ -24287,6 +24511,24 @@
       "duration_ms": 179946,
       "name": "Years",
       "url": "https://open.spotify.com/track/2CRCLqCSRPPAudN3MjHoPI"
+    },
+    {
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "album": {

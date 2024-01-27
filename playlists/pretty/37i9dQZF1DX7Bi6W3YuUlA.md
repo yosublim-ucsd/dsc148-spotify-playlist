@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,244 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,320 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 |
 | 100 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 
-Snapshot ID: `MCxmZTQyNmQ2MjA3MmE0NmEwNTkxZjliYjllZmQ5YTMxY2VkZGQxZGU3`
+Snapshot ID: `MCwzZjFlNmUwODdhYzhkZWM5M2M4NmJkY2VhOTBlYTczNDdmZjYyNTNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,867 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,882 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 99 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
 | 100 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |
 
-Snapshot ID: `MCxhMDZjZTZiZDk0MDA4Y2UzNTg0ZWExZDQ0YmViZTE1NGJjMTEzM2M0`
+Snapshot ID: `MCxjZDhjOTNmMWUwYTE0NjM3YTlmMDI2MzM4ZjAwN2Y3ZDM3Yzk5MmQ4`

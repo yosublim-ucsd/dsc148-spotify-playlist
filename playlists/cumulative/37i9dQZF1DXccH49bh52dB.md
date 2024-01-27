@@ -4,7 +4,7 @@
 
 > The softer side of dance.
 
-207 songs - 11 hr 55 min
+208 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Faded](https://open.spotify.com/track/7gHs73wELdeycvS48JfIos) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Faded](https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd) | 3:32 | 2021-02-26 |  |
 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 | 2021-02-26 | 2022-07-29 |
 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 | 2022-01-18 |  |
-| [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 | 2021-02-26 |  |
+| [Fast Car](https://open.spotify.com/track/0KHJGKFbzSYPjyhN8TFWke) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Zandvoort 2021](https://open.spotify.com/album/39EP2mz8gBN6pkxTGSgLR7) | 3:32 | 2023-09-08 |  |
+| [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 | 2021-02-26 | 2024-01-27 |
 | [Favela](https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Favela](https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ) | 3:05 | 2021-03-19 | 2023-07-15 |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2021-02-26 |  |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2022-01-18 |  |
@@ -111,8 +112,8 @@
 | [Line Of Sight](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:56 | 2021-02-26 |  |
 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 | 2023-07-14 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-14 |  |
-| [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6) | 3:01 | 2021-10-06 | 2022-07-29 |
-| [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-01-18 |  |
+| [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6) | 3:01 | 2021-10-06 |  |
+| [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-01-18 | 2024-01-27 |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-09-08 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-07-07 |  |
 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 | 2021-02-26 |  |

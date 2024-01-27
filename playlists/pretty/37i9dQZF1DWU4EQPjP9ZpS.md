@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,387 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,477 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Carrie Bradshaw](https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z) | [No Sugar Added](https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX) | 2:42 |
 | 100 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
 
-Snapshot ID: `MCxjYjRiZjAwYTJlYWNhYjI4YTQxMDJiOTM5YmQ2OTg2YThkYjY2OTE3`
+Snapshot ID: `MCw3MWQ3YjYxMDM2YWJhOGJlNTAyMTMyZmIzNjA2Mjk5MmM4NWNmZDlh`

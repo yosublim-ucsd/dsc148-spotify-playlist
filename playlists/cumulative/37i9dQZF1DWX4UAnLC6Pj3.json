@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes y Nathan Galante en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Angel El Flaco en portada.",
   "name": "Banda 2024",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
@@ -182,6 +182,28 @@
       "duration_ms": 180120,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
     },
     {
       "album": {
@@ -1023,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+    },
+    {
+      "album": {
         "name": "Cuando Estuvo Entre Mis Brazos",
         "url": "https://open.spotify.com/album/3qzTvQTBG1HEQPM1tBZ71p"
       },
@@ -1136,7 +1180,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 163320,
       "name": "De Memoria Me Las S\u00e9",
       "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
@@ -2230,7 +2274,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165211,
       "name": "Fuiste Tu",
       "url": "https://open.spotify.com/track/0NgCOceAefYVWdeGj2OUNy"
@@ -2819,6 +2863,28 @@
     },
     {
       "album": {
+        "name": "Le Dicen",
+        "url": "https://open.spotify.com/album/4z1cTOtcm5Y3rCyiBENidv"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        },
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203613,
+      "name": "Le Dicen",
+      "url": "https://open.spotify.com/track/66Fs6uL39wuJX2NmKM7mKH"
+    },
+    {
+      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -2914,7 +2980,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174760,
       "name": "Lo Que No Es Pa' Uno",
       "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
@@ -3402,7 +3468,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 128513,
       "name": "Modo Crudo - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
@@ -3722,7 +3788,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165093,
       "name": "No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd"
@@ -5062,7 +5128,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
@@ -5208,6 +5274,24 @@
       "duration_ms": 249121,
       "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
       "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"
+    },
+    {
+      "album": {
+        "name": "Puras Complacencias, Vol. 1",
+        "url": "https://open.spotify.com/album/5GaOP53Bq1IYjIpj1GpuRT"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/3ssU6votRPPRQyLc7ir8Lp"
     },
     {
       "album": {
@@ -5733,6 +5817,24 @@
     },
     {
       "album": {
+        "name": "Vamos A Vernos",
+        "url": "https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Vamos A Vernos",
+      "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
+    },
+    {
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -6158,6 +6260,42 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Fuimos?",
+        "url": "https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u00bfQu\u00e9 Fuimos?",
+      "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Se Siente?",
+        "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "\u00bfQu\u00e9 Se Siente?",
+      "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
     },
     {
       "album": {

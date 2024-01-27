@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 5525518,
+  "2024-01-27": 5527207,
   "date_first_scraped": "2023-01-21",
   "description": "The essential tracks, all in one playlist.",
   "name": "This Is Taylor Swift",
@@ -21,6 +21,24 @@
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208186,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
     },
     {
       "album": {
@@ -489,7 +507,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 296013,
       "name": "Cornelia Street - Live From Paris",
       "url": "https://open.spotify.com/track/3fGnrtrtL1IHSX9t4DKOYf"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 199066,
       "name": "Death By A Thousand Cuts - Live From Paris",
       "url": "https://open.spotify.com/track/3oF7Or7T35yhQbGxbCGvRX"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 211857,
       "name": "Love Story (Taylor's Version) - Elvira Remix",
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 221306,
       "name": "Lover (Remix) [feat. Shawn Mendes]",
       "url": "https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0"

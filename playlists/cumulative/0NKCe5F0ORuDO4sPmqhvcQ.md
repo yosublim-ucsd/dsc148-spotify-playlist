@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-563 songs - 1 day 7 hr 44 min
+565 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2022-09-18 |  |
 | [Messed Up](https://open.spotify.com/track/0VUqaiSwHjC7yKZcudP9nN) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Messed Up](https://open.spotify.com/album/1BuUn3Th1gL6q7XGRbxNqR) | 2:11 | 2022-07-15 | 2022-09-19 |
 | [Midnight](https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Midnight](https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3) | 3:19 | 2022-07-22 | 2022-09-19 |
+| [mightaswell](https://open.spotify.com/track/6ga3XobgWLyxpFLDpYHCKm) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 2:20 | 2024-01-26 |  |
 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 | 2022-11-23 |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2023-01-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-08-18 |
@@ -392,6 +393,7 @@
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-24 |  |
 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 | 2022-06-29 | 2023-01-20 |
 | [Pour It Out](https://open.spotify.com/track/7M7zjcgWc3ekrweNu3lKj7) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Pour It Out](https://open.spotify.com/album/5zS3jRjbfKAlFEESscjMNK) | 3:48 | 2023-10-06 |  |
+| [Power \(Feat\. Yianna\)](https://open.spotify.com/track/3Y3dFkxxoU20qT0eeiKpJR) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Yianna](https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m) | [Power \(Feat\. Yianna\)](https://open.spotify.com/album/35X9DgSVkQVzsHFbqtfN0p) | 3:01 | 2024-01-26 |  |
 | [Pragmatica](https://open.spotify.com/track/4CRIvwzEP4uxqn6uDHWbrS) | [Dull Reality](https://open.spotify.com/artist/0MQQCmEALPoYI6rEYKCiXL) | [Pragmatica](https://open.spotify.com/album/6avpFSjEDoBZHQF4XdXCND) | 4:23 | 2022-12-12 | 2023-01-30 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-01-08 |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-22 | 2023-01-30 |

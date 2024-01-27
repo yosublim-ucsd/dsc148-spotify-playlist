@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > The very best rock covers\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,421 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,455 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 149 | [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 1](https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI) | 3:33 |
 | 150 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 |
 
-Snapshot ID: `MCwzOGQ5NjU2ZjMxMGQ1NmRjNDJjNDMxOWNlYjE3MzMxOWNmNjQ1NGY2`
+Snapshot ID: `MCwzNmRhMTE4YjI2ZGY1ZDYyZjRlNzFiNjc3NDBmMTE4MmE1ZjlkNGUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,376 likes - 100 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,427 likes - 100 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 | 100 | [Seraphic Borealis](https://open.spotify.com/track/0QGgY7KrzfTcIZRy7D8fGQ) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 12:37 |
 
-Snapshot ID: `MCwyOWI4NTFmMzI5YzMyYzM5YjUwZWU1NTI3MTc1MWQyYmY2ODJlYWIx`
+Snapshot ID: `MCxhZmZmYjFkNmFkM2Q2ZWVjMjA2OGY2YjBmODNjZWIzYmEyYmI3ZWVi`

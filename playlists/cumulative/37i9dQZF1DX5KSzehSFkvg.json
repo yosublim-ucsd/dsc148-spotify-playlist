@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179500,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ"
@@ -1520,6 +1520,24 @@
       "duration_ms": 190459,
       "name": "Toi & moi",
       "url": "https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6"
+    },
+    {
+      "album": {
+        "name": "Toxicomane",
+        "url": "https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Toxicomane",
+      "url": "https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl"
     },
     {
       "album": {

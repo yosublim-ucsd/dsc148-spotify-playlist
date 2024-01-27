@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-142 songs - 7 hr 52 min
+143 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 2:50 | 2023-05-19 | 2023-06-25 |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/5Ir5Ecewsnny4mGqdG8ScD) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Bless Your Soul \(Change\)](https://open.spotify.com/album/0Z35p1m5sLNanfuS8eQnvN) | 2:50 | 2023-05-19 | 2023-09-11 |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/5NGi8xu4YH3D5lhpPcZ2hH) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Light Rail Blues \(Heart Attack\)](https://open.spotify.com/album/0SjzyBUxbepqv4WXjO7551) | 2:50 | 2023-05-19 | 2023-10-24 |
-| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/5hjvnv9HHS8VRDdmGjWKRK) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 2:50 | 2023-05-19 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/5hjvnv9HHS8VRDdmGjWKRK) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 2:50 | 2023-05-19 | 2024-01-27 |
 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 | 2021-11-12 |  |
 | [Dog Days](https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY) | 4:08 | 2021-02-12 | 2023-05-26 |
 | [Dog Days](https://open.spotify.com/track/4NQDmvxgt5chFiy6fiSi2U) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/4YtmJvI0WHuIu1hzdFupZ4) | 4:08 | 2022-08-31 |  |
@@ -57,6 +57,7 @@
 | [Five Dollars](https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP) | 3:08 | 2021-02-12 | 2022-07-29 |
 | [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2021-02-12 | 2023-10-01 |
 | [Fix Your Face](https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:15 | 2021-02-12 | 2023-05-20 |
+| [Get By \(Good Enough\)](https://open.spotify.com/track/0PwobOQQPY75G5PeuoAdQs) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(Good Enough\)](https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ) | 3:23 | 2024-01-26 |  |
 | [Get Gone](https://open.spotify.com/track/0adTUwT73q2Y5yfzGN5Aln) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Get Gone](https://open.spotify.com/album/325vaJdKjifkkSISjTx03x) | 3:05 | 2021-02-12 | 2022-07-29 |
 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 | 2021-02-12 |  |
 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 | 2021-02-12 |  |

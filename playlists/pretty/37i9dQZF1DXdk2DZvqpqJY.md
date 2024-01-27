@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,942 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,003 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 149 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 |
 | 150 | [Isn’t this nice?](https://open.spotify.com/track/2IUs8ie4cwrxxQhHjw6gn3) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Isn’t this nice?](https://open.spotify.com/album/6J0s9bF3L1td3B8QvOKiCP) | 3:13 |
 
-Snapshot ID: `MCxkN2VlNWJlYTc1ZTNjNWY0ZGRkMWZjZGQ5MDRjZjA2ZDc4ZDM3MjVk`
+Snapshot ID: `MCxhOGI2NDk2OTgxMjQxNGIzNWNhOGQ5NWE5YTI3NzA1YjE5Y2M1MzJk`

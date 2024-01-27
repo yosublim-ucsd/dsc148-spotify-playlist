@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Metallic Rouge (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xUFB8dVFpTph5lYBZ3otN"
+      },
+      "artists": [
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        },
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209654,
+      "name": "Crimson Lightning",
+      "url": "https://open.spotify.com/track/0waIhVlr9YdRK3GNWLxD4m"
+    },
+    {
+      "album": {
         "name": "Dance In The Game",
         "url": "https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk"
       },

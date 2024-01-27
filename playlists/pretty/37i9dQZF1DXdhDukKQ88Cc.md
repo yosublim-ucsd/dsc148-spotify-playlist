@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu 🌚
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,577 likes - 56 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,561 likes - 56 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 55 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 56 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCxjNjZjYTE1ZjM3MGU4OWVkZDcxZmZlNTllOTBkM2IwZjhlMDIyOWY0`
+Snapshot ID: `MCw4ZGFjY2M4NmJiZWY4NTQ3ZmJkN2NlNDY0ZmRkYTVhZjA1MGQyMmUw`

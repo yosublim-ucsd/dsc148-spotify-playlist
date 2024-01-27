@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,588 likes - 300 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,882 likes - 300 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 |
 | 300 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 
-Snapshot ID: `MCwwZGIwZjlkOTY5NjQzY2VjNmM0MjY2ZWJjZDZkZDcwZGQyYWZhMWE3`
+Snapshot ID: `MCwyZTNhMTg5ZWM5YTI0NDhjMDg5MGI4NTYwYWU0YWEzYzhlZjA4NGZi`

@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 2286872,
+  "2024-01-27": 2284362,
   "date_first_scraped": "2023-03-26",
-  "description": "Hits terpanas dari The Weeknd, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "description": "Hits terpanas dari Geisha, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
@@ -349,6 +349,24 @@
       "duration_ms": 266330,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "album": {
+        "name": "Langkah Baru",
+        "url": "https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR"
+      },
+      "artists": [
+        {
+          "name": "Radja",
+          "url": "https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG"
     },
     {
       "album": {
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 274879,
       "name": "Nemen - Hiphop Dangdut Version",
       "url": "https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153718,
       "name": "Not You",
       "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
@@ -1559,6 +1577,24 @@
       "duration_ms": 260346,
       "name": "penjaga hati",
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "album": {
+        "name": "Lyodra",
+        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261299,
+      "name": "Pesan Terakhir",
+      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
       "album": {
@@ -1769,6 +1805,28 @@
       "duration_ms": 285071,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "album": {
+        "name": "Selamat (Selamat Tinggal)",
+        "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        },
+        {
+          "name": "Audy",
+          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313670,
+      "name": "Selamat (Selamat Tinggal)",
+      "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
     },
     {
       "album": {

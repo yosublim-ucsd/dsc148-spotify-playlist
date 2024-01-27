@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Gossip
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,129 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,980 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 27 | [DANSE MACABRE](https://open.spotify.com/track/2hxJocwTTkJBREFV8OohKD) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:22 |
 | 28 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 29 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 |
-| 30 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 |
+| 30 | [Hello](https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:16 |
 | 31 | [C’est Comme Ça \(Re: Wet Leg\)](https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 2:24 |
 | 32 | [Chosen to Deserve](https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 5:32 |
 | 33 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 |
 | 50 | [Burning in Flames](https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Burning In Flames](https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI) | 3:08 |
 
-Snapshot ID: `MCw1OTI0ZjEyODZmNjQ0NjFhYzFmOTEwZWEwNGMyYzhkYmY1YTUwZjkw`
+Snapshot ID: `MCw5YTgxZjFjNjgyNWNiNzVkZDFjNWUxMGQwMTVhZmFiZmM2NTBjNGU5`

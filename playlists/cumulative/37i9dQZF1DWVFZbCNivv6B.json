@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "album": {
         "name": "Cara Tapada",
         "url": "https://open.spotify.com/album/6iq6PKzGDoFuHGatP4M0WR"
       },
@@ -2804,6 +2822,36 @@
       "duration_ms": 258239,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL"
+    },
+    {
+      "album": {
+        "name": "El Bais\u00f3n (feat. Toser One)",
+        "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219791,
+      "name": "El Bais\u00f3n (feat. Toser One)",
+      "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
     },
     {
       "album": {
@@ -4741,6 +4789,32 @@
     },
     {
       "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
+    },
+    {
+      "album": {
         "name": "LA PIPA DE LA PAZ",
         "url": "https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ"
       },
@@ -4926,6 +5000,24 @@
       "duration_ms": 183374,
       "name": "Las Teclas del Piano",
       "url": "https://open.spotify.com/track/5nLVYMDn2Lnw9pSmNfG1bG"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/51iQtKvsZm81aAfIzGBXF1"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/4trRHN1parkCWBGnY0nxaI"
     },
     {
       "album": {
@@ -7274,7 +7366,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 503613,
       "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
       "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
@@ -9224,7 +9316,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201045,
       "name": "TE ALEJASTE",
       "url": "https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX"
@@ -10032,7 +10124,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215053,
       "name": "Un Round M\u00e1s",
       "url": "https://open.spotify.com/track/2fNHb6nRpKLQOSdD6Z3uJB"
@@ -10050,7 +10142,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166500,
       "name": "Una Leyenda Nunca Muere",
       "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 
 > the golden era of the 𝚒𝚗𝚝𝚎𝚛𝚗𝚎𝚝
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,466 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,477 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 99 | [Vanessa](https://open.spotify.com/track/2cEFHXXBfVEMUcTAaz2jVO) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Darkbloom](https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU) | 5:24 |
 | 100 | [We Are Your Friends \- Justice Vs\. Simian Edit](https://open.spotify.com/track/596KUmMbTifuYdDC14lQdD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 2:44 |
 
-Snapshot ID: `MCxjZjJkZmZjZmExZWU2YjI4MDllYWZmZjJhNzFlNzFlZTliYjdlNzIz`
+Snapshot ID: `MCw2NWQ0ZWJlYzEzNTE0ZjY1ODllNTc0YWYyYjU2YzQ4ZTQwYWMwZDVh`

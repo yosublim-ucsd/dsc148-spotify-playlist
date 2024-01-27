@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,406 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,476 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 |
 | 100 | [Forest](https://open.spotify.com/track/0UyG7VUhVVVb9xhwKg3rvQ) | [Purple Decades](https://open.spotify.com/artist/08lg5wRQNrKKJZzvWTynlv) | [Journey Test](https://open.spotify.com/album/45P14PPyN1or3llI8OH0jN) | 3:25 |
 
-Snapshot ID: `MCw0MjRjMWM4MDdmYzg0OGFlZWI1MTg4OTgwOGNlMzJjY2UxNTk0MzE0`
+Snapshot ID: `MCw3MTI2N2NmMWRlNjU2NjgxMzZjZDNmMjI5MWM0NWY5MjJlZmE3YjIy`

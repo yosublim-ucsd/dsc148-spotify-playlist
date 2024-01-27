@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-357 songs - 17 hr 44 min
+358 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 | 2022-06-30 | 2023-07-01 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-06-09 | 2023-09-29 |
 | [Gangnam Style](https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [That Uzere Boy](https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6) | 2:24 | 2023-07-14 | 2023-08-23 |
+| [Gen\-Z Fuji](https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Gen\-Z Fuji](https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9) | 2:02 | 2024-01-26 |  |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-27 | 2023-02-11 |
 | [Go Low](https://open.spotify.com/track/1Y6QFTEHpsaVBSHBT7orpc) | [Sean Dampte](https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Go Low](https://open.spotify.com/album/1EiJKDFKhW9KplldKDUQCv) | 2:55 | 2023-08-17 | 2023-09-29 |
 | [Greedy](https://open.spotify.com/track/1FnIaiMNOQPwcWZJC7gw6V) | [King David](https://open.spotify.com/artist/2ioqVteoHRyQE2u4aIojF7), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Greedy](https://open.spotify.com/album/2tIoxiF0AkKv3ynUZU2cB7) | 3:34 | 2023-12-01 | 2023-12-08 |
@@ -335,7 +336,7 @@
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-11-17 |  |
 | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9) | 2:28 | 2023-07-14 |  |
 | [Wamuhle](https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws) | [DJ So Nice](https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [BonafideBilli](https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn) | [Wamuhle](https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw) | 3:45 | 2022-06-30 | 2022-11-12 |
-| [Wanna Dance](https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Wanna Dance](https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv) | 3:11 | 2023-12-08 |  |
+| [Wanna Dance](https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Wanna Dance](https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv) | 3:11 | 2023-12-08 | 2024-01-27 |
 | [Want This](https://open.spotify.com/track/3JBRzPmIWSqGVCVUvKnxaL) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [QRITIQAL](https://open.spotify.com/artist/578R7lup6wk8R3TcWYLvd1) | [Want This](https://open.spotify.com/album/1RFGquNgtyqEEboRGlHzsb) | 2:46 | 2022-07-22 | 2022-09-02 |
 | [WASTELINE](https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WASTELINE](https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX) | 2:44 | 2023-11-10 | 2023-12-22 |
 | [Water](https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Water](https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml) | 2:29 | 2023-05-04 |  |

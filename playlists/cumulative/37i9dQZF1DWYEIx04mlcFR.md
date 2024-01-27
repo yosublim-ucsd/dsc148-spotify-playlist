@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> La nueva ola de artistas con Dannylux en portada\. 🌊✨
+> la nueva ola de artistas con Nicole Horts en portada\. 🌊✨
 
-451 songs - 23 hr 22 min
+454 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Autorretrato](https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Autorretrato](https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V) | 3:34 | 2023-05-19 | 2023-07-07 |
 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 | 2023-08-25 | 2023-11-30 |
 | [Back To U](https://open.spotify.com/track/4kWzYqOsoT2uzn42ueE4jX) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Back To U](https://open.spotify.com/album/4rRwEmIEgyqL70Omv2IWW3) | 3:13 | 2023-08-25 | 2023-10-21 |
+| [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-01-26 |  |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 |  |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-21 |  |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 |  |
@@ -63,7 +64,7 @@
 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 | 2022-10-31 | 2023-05-06 |
 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 | 2023-06-23 | 2024-01-13 |
 | [Bonita](https://open.spotify.com/track/4RfbO5R23JI33EEyjWqHHU) | [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Bonita](https://open.spotify.com/album/2FhnygvGvRWuE4RueywWyg) | 2:32 | 2023-03-10 | 2023-06-17 |
-| [Brillantina](https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Brillantina](https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl) | 3:27 | 2023-08-04 |  |
+| [Brillantina](https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Brillantina](https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl) | 3:27 | 2023-08-04 | 2024-01-27 |
 | [Bájale \(Suceso 5\)](https://open.spotify.com/track/2vAjXgBr5VlIJ50E6OqDNu) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Bájale \(Suceso 5\)](https://open.spotify.com/album/6IXzvNBhmqp18vz1f5ekOq) | 2:47 | 2021-12-10 | 2022-02-12 |
 | [C.A.T.](https://open.spotify.com/track/11glgfo3N4w5QKuUJKLnzH) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [C.A.T.](https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms) | 3:16 | 2021-12-10 | 2022-02-12 |
 | [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 | 2022-11-25 | 2023-05-27 |
@@ -72,7 +73,7 @@
 | [Calamidad](https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Calamidad](https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO) | 3:15 | 2021-12-10 | 2022-02-12 |
 | [CALLAO](https://open.spotify.com/track/61lhyMgfikV7h2NC4bcTCS) | [Ben Daval](https://open.spotify.com/artist/4bxF5XAQTgaUNG7j9iNkt8), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [CALLAO](https://open.spotify.com/album/2WT9a1kVhwTIqW3CWWB3J4) | 3:20 | 2021-12-10 | 2022-04-23 |
 | [Calor](https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Calor](https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs) | 3:23 | 2023-03-10 | 2023-07-07 |
-| [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 |  |
+| [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 | 2024-01-27 |
 | [cansada de verte en todas partes](https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 2:50 | 2023-11-29 | 2024-01-13 |
 | [Capricho](https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Capricho](https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh) | 2:40 | 2022-06-24 | 2022-10-15 |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-02-17 | 2023-07-01 |
@@ -104,7 +105,7 @@
 | [Cuando se trata conmigo](https://open.spotify.com/track/09apv88GVTMrW6ctM8WAqU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:18 | 2023-06-09 | 2023-10-21 |
 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 | 2023-05-26 | 2023-09-30 |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2021-12-10 | 2022-05-10 |
-| [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 |  |
+| [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 | 2024-01-27 |
 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-01-13 | 2023-06-10 |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-08-26 | 2023-04-01 |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-09-28 | 2023-03-25 |
@@ -180,6 +181,7 @@
 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-07-06 |  |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-08-25 |  |
 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 | 2023-03-10 | 2023-07-07 |
+| [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-01-26 |  |
 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-17 | 2022-10-08 |
 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 | 2023-10-21 |  |
 | [La Lista](https://open.spotify.com/track/50EiIhBL4GnkHFMPeDAeiV) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/0mAXjJLsLQJwRWb34DkUoM) | 3:44 | 2023-10-21 | 2023-11-11 |
@@ -385,6 +387,7 @@
 | [Tamagotchi](https://open.spotify.com/track/0qHrI3sYAchQOnj0biIhLR) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Tamagotchi](https://open.spotify.com/album/30UuPIcZoexQdXC1BWSH5z) | 3:03 | 2021-12-10 | 2022-02-19 |
 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 | 2023-07-06 | 2023-07-15 |
 | [Te espero](https://open.spotify.com/track/6G5rARmMTFt4EIKPXTMVw1) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [Te espero](https://open.spotify.com/album/2bT8vYqpXvG0q5ZzEKu0SV) | 3:33 | 2022-09-23 | 2023-03-25 |
+| [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 | 2024-01-26 |  |
 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 | 2023-05-26 |  |
 | [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 3:37 | 2022-02-11 | 2023-01-11 |
 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 | 2023-07-06 | 2024-01-13 |

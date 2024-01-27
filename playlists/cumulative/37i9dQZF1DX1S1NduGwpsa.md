@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Naama
 
-456 songs - 1 day 8 hr 48 min
+457 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Intertwined](https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:40 | 2022-08-18 | 2022-11-18 |
 | [Is Anything Wrong](https://open.spotify.com/track/0sHdyXmF9Q3Mh5ojcRoFDB) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Little Song Lines](https://open.spotify.com/album/5zsokd1sGZ5efqwOacYTBM) | 3:35 | 2024-01-25 |  |
 | [Isn't It a Lovely Day](https://open.spotify.com/track/1DdeuDPgLSnp423y11xWVN) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM) | [Isn't It a Lovely Day](https://open.spotify.com/album/2WGMmL5VzrudIvI1JzLcva) | 7:33 | 2023-01-05 | 2023-04-07 |
-| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/6itrJDS89zESGoipn5vkCO) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/album/3hmMIzmXleegAOFQap4LDg) | 4:08 | 2024-01-25 |  |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 | 2024-01-25 |  |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/6itrJDS89zESGoipn5vkCO) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/album/3hmMIzmXleegAOFQap4LDg) | 4:08 | 2024-01-25 | 2024-01-27 |
 | [It Don't Mean a Thing \- Rework](https://open.spotify.com/track/2VAyWXjHrKpMGivAO2w6SY) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [NOJAZZ PLAY JAZZ \(Rework\)](https://open.spotify.com/album/5BUyHOxpXi2twMN4j7idx4) | 3:01 | 2022-06-30 | 2022-11-11 |
 | [It's Alright with Me](https://open.spotify.com/track/45S7VWVW2je3lJ8uOBfFS0) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [It's Alright with Me](https://open.spotify.com/album/40iRG6qHYkWd2bbWFZvKeu) | 3:12 | 2023-11-23 |  |
 | [It's Not Unusual](https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:29 | 2023-07-27 | 2023-10-20 |

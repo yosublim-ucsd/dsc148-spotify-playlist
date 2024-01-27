@@ -1,15 +1,15 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: Travis Scott.",
-  "num_followers": 29968,
+  "num_followers": 29951,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "NzQ4OCxhNDIwMzhmMjEwZTA5OWQ1YTc4NDk1ZmFhMDBmOTE5ZmQ5YWUyMzNi",
+  "snapshot_id": "NzQ5NixjODAyODYxYjI3ZjFiY2Y5MDI4MjI2NTQyOTk4ZDA1Y2JhMmY1ZDg0",
   "tracks": [
     {
-      "added_at": "2024-01-19 19:27:35",
+      "added_at": "2024-01-26 16:14:39",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -18,15 +18,31 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 143718,
-      "name": "n.h.i.e.",
-      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-01-26 16:16:56",
+      "album": {
+        "name": "W Hotel (feat. Toosii)",
+        "url": "https://open.spotify.com/album/45D9T73N2DfpQPrT6QEh6T"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "W Hotel (feat. Toosii)",
+      "url": "https://open.spotify.com/track/5y0ZkrwaaXuTrW3Sbo4UI3"
     },
     {
       "added_at": "2024-01-19 19:27:35",
@@ -47,6 +63,42 @@
       "duration_ms": 232000,
       "name": "Same 24 (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU"
+    },
+    {
+      "added_at": "2024-01-26 16:17:49",
+      "album": {
+        "name": "Gas Me Up (Diligent)",
+        "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Gas Me Up (Diligent)",
+      "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "added_at": "2024-01-19 19:27:35",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
       "added_at": "2024-01-19 19:27:35",

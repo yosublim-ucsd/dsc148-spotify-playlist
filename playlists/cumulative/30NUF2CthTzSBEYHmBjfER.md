@@ -2,7 +2,7 @@
 
 ### [2000s Hip\-Hop/R&B](https://open.spotify.com/playlist/30NUF2CthTzSBEYHmBjfER)
 
-> The best Hip\-Hop and R&amp;B hits of the 2000’s\. Includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more!
+> The best Hip\-Hop and R&amp;B, includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
 99 songs - 7 hr 7 min
 

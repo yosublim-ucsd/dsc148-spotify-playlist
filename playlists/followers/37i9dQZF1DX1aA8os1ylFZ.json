@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 241171,
+  "2024-01-27": 241053,
   "date_first_scraped": "2022-01-09",
   "description": "get into your feels with some r&b magic",
   "name": "R&B Magic",
@@ -43,6 +43,24 @@
       "duration_ms": 274400,
       "name": "10,000 Tears (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/4K4aJCHMBhW74pwTzp7tLk"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158288,
+      "name": "123",
+      "url": "https://open.spotify.com/track/5dawpCCaji7L1oC3dOqoWb"
     },
     {
       "album": {
@@ -4321,7 +4339,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 179417,
       "name": "L O V E L Y",
       "url": "https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ"
@@ -4947,6 +4965,24 @@
       "duration_ms": 162461,
       "name": "Luxury Love",
       "url": "https://open.spotify.com/track/1jdqxweALuTOa9qZbX9FVG"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {
@@ -8182,6 +8218,28 @@
     },
     {
       "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -8251,7 +8309,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -8863,7 +8921,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 208038,
       "name": "WY@",
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"

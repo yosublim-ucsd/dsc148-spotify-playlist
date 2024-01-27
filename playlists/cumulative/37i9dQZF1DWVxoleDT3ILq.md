@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Yorka
+> Todo el sonido indie de Chile\. Foto: Benjamín Walker
 
-447 songs - 1 day 2 hr 52 min
+448 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2023-06-24 |
-| [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
+| [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 | 2024-01-27 |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
 | [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 | 2024-01-21 |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
@@ -398,6 +398,7 @@
 | [Tercero](https://open.spotify.com/track/1qhyXY725dxXb18j43G9fm) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Tercero](https://open.spotify.com/album/0sTpVleBRwymbvFbGlxNTh) | 3:29 | 2023-06-30 | 2023-08-12 |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 | 2022-12-10 |
+| [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libre](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-01-26 |  |
 | [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 | 2023-11-01 |
 | [Tormenta](https://open.spotify.com/track/6oTQtxgdzrQFRTbGchCNjn) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8) | 2:37 | 2023-12-07 |  |
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 | 2022-12-10 |

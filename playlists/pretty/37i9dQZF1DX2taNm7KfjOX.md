@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,850 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,318 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
 | 150 | [Candle](https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 3:43 |
 
-Snapshot ID: `MCwyNTE3MjkxNmMxODExNzM0ZWI3OGE1Mjk5OTQ3OGY4NmJkOWQ1ZWU5`
+Snapshot ID: `MCxjNzkxNzE2ZTZmYzk4OWI4NDM0YWVlYmQxOWQ2OTk5NmFlN2EwMjNh`

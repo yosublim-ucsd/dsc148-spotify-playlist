@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-166 songs - 8 hr 52 min
+168 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 | 2023-11-22 |  |
 | [DEKH TERA BHAI](https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [DEKH TERA BHAI](https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25) | 3:09 | 2023-10-27 |  |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 |  |
-| [Dil](https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Ishu Kaswan](https://open.spotify.com/artist/6rZtEdypx0YSD2uXa3v2ib) | [Dil](https://open.spotify.com/album/3XMFgKKrzGdhiJRn8RyjD3) | 2:46 | 2024-01-13 |  |
+| [Dil](https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Ishu Kaswan](https://open.spotify.com/artist/6rZtEdypx0YSD2uXa3v2ib) | [Dil](https://open.spotify.com/album/3XMFgKKrzGdhiJRn8RyjD3) | 2:46 | 2024-01-13 | 2024-01-27 |
 | [DJ Baajan De](https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [DJ Sheizwood](https://open.spotify.com/artist/11PdcXwGoRPtYOXNETRC0x), [Simaran Kaur](https://open.spotify.com/artist/2dTGtc9FpbXHMuAw95F6sy) | [DJ Baajan De](https://open.spotify.com/album/4UQGppLaW1FDAYnPSW7d5n) | 3:05 | 2023-03-28 | 2023-04-19 |
 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 | 2023-04-22 |  |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-22 |  |
@@ -124,7 +124,7 @@
 | [Naina Ki Talwar](https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:43 | 2023-07-11 |  |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 |  |
 | [No Darling](https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [No Darling](https://open.spotify.com/album/2VJhRHyWaPX9U86xYxpUo1) | 3:29 | 2023-06-10 | 2023-08-15 |
-| [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 | 2023-12-14 |  |
+| [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 | 2023-12-14 | 2024-01-27 |
 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 | 2023-12-14 |  |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-06-16 |  |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-03-28 | 2023-04-29 |
@@ -169,6 +169,8 @@
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 | 2023-10-10 |
 | [Unstoppable](https://open.spotify.com/track/6IePbDU29ymA3unC9NoETt) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Unstoppable](https://open.spotify.com/album/2iVLy5zu6a1W3gz8VK4azB) | 3:19 | 2023-10-09 |  |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-10-06 |  |
+| [Up\-14 J & G](https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Up\-14 J & G](https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm) | 2:17 | 2024-01-26 |  |
+| [Up12 to Jh14](https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF) | [Shikriwal](https://open.spotify.com/artist/0CinOHFWu7nAChXK9KH9Oa), [Total Deep](https://open.spotify.com/artist/6sRIh4YXmBX5EjTzQ9zmLf) | [Cactus](https://open.spotify.com/album/6QlGN5FPWk3VM3i3ugVfKN) | 2:54 | 2024-01-26 |  |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 |  |
 | [Vehem](https://open.spotify.com/track/6ZvrPAj3CE6yEi6IPP5Vjh) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Vehem](https://open.spotify.com/album/7yAES0qSOCdfBs045ZwmiU) | 2:57 | 2023-11-21 |  |
 | [World War](https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl), [Chaahat](https://open.spotify.com/artist/0Rmepg7H9PGYIDlR6wG1Iy), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Tem Aan Do](https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw) | 2:56 | 2023-12-22 |  |

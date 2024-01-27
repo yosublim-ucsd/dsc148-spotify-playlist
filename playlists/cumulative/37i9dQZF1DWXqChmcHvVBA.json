@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Alta Gama",
+        "url": "https://open.spotify.com/album/7nz02Iu8lvbwhVVxSENlma"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        },
+        {
+          "name": "Yasmi",
+          "url": "https://open.spotify.com/artist/3SeLlSSVzurvLQGQEZLyKW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Alta Gama",
+      "url": "https://open.spotify.com/track/6hxqef9MmA3Z783MNWhEgE"
+    },
+    {
+      "album": {
         "name": "Ando RKT (Remix)",
         "url": "https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt"
       },
@@ -359,6 +381,28 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1oso",
+        "url": "https://open.spotify.com/album/3ZnRCl3QQCFplYUrE5A494"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125933,
+      "name": "Cari\u00f1oso",
+      "url": "https://open.spotify.com/track/5u3RFXhMZOfWDTjpgio16p"
+    },
+    {
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR"
       },
@@ -564,7 +608,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 249795,
       "name": "Discotekeo",
       "url": "https://open.spotify.com/track/6z22jalbg1sYmw77oapORc"
@@ -630,7 +674,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 148544,
       "name": "ECKO | DJ TAO TURREO session #1",
       "url": "https://open.spotify.com/track/52Fw40zkJt0rFW5qkB2uJt"
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 146700,
       "name": "Leche",
       "url": "https://open.spotify.com/track/5iA4WKK8PGFiQgiEJc7zuE"
@@ -2924,6 +2968,32 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "album": {
+        "name": "Yuta Remix",
+        "url": "https://open.spotify.com/album/68auo1V3gChK8F5qMpdXv2"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        },
+        {
+          "name": "Yamir antiman",
+          "url": "https://open.spotify.com/artist/3inxgDqlKI4Feu0hPK7pU9"
+        },
+        {
+          "name": "Gonzalo Nawel",
+          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "Yuta Remix",
+      "url": "https://open.spotify.com/track/1tIoFlv46BGwnr3DuXxflg"
     },
     {
       "album": {

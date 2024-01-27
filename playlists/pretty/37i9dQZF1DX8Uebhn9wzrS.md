@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334,902 likes - 649 songs - 1 day 0 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,406 likes - 649 songs - 1 day 0 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -658,4 +658,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 648 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 |
 | 649 | [Midnight Vibes](https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Midnight Vibes](https://open.spotify.com/album/2ygtwvjYljWpHxtM5UdwNP) | 2:10 |
 
-Snapshot ID: `MCw1YmNjNTM1M2UzMzY5YmVkOGY4ZTBlMTQxNzA4YjUwN2NlZDc1Yjkw`
+Snapshot ID: `MCxjMDliODNiNzU1YmI2YWM2YjRmNjc3OWRjMmYxOWMxNjcyZTMyYWU3`

@@ -920,10 +920,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
+    },
+    {
+      "album": {
+        "name": "Hello, Everyday Changes",
+        "url": "https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k"
     },
     {
       "album": {

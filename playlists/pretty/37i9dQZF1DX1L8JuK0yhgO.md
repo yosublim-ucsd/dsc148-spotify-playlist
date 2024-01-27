@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,385 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,383 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [nasake](https://open.spotify.com/track/781vI5c61CWskQxvyOSeB8) | [rowbai](https://open.spotify.com/artist/04KOkP9uy9w56JxWuTMf0r) | [nasake](https://open.spotify.com/album/52nzf0Rfwln7CNb7P6ajjS) | 3:05 |
 | 60 | [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 |
 
-Snapshot ID: `MCxkMDFmYTAwYjgyZjQ0MzEyOGIxODExNDhmZmQyYzVmY2YxMGY1Njdl`
+Snapshot ID: `MCxmZjMyNGIyODEyYjVkMTVmNDcwMzVmMWEwMzY0ODI1OTg2ODA4ZTMz`

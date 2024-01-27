@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,843 likes - 40 songs - 1 hr 40 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,842 likes - 40 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 39 | [Santa's a Bit Drunk](https://open.spotify.com/track/4BH5EayAmND7PHgSAWp1gz) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Chilling with Santa](https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl) | 2:25 |
 | 40 | [Night Owl](https://open.spotify.com/track/3t9EVEYrWEo9jnYzuK5ZGI) | [Nephele](https://open.spotify.com/artist/3LT1YUHdetgIEclHsGn4Hs) | [Cosmic Tea](https://open.spotify.com/album/6JepTumzo8hBBQIP33Blnf) | 2:01 |
 
-Snapshot ID: `MTI3Nyw0N2M0ZTk2NzczZGY5YTVlZGY1ZjhkNjU3MDU0YzdjYjc4MzE1MTJk`
+Snapshot ID: `MTI5Nyw3ZDUwMjc3YzMyMjQ1NGNlYWM2NWU4MTc0NzlhMWFlZTVjNzkwMDM2`

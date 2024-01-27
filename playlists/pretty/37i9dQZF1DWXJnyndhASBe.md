@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Chivas
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,721 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,708 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 50 | [A Milli Milli](https://open.spotify.com/track/3JrArax5edAah1hauuHm4V) | [Expo 2000](https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu), [Belmondawg](https://open.spotify.com/artist/41OErJWZbkNcNzYPoy0PWJ), [Liroy](https://open.spotify.com/artist/1YNJc03EgclUK2rnLX7tE5) | [A Milli Milli](https://open.spotify.com/album/6nR34WMtc3v09JEfKmkwSc) | 2:25 |
 
-Snapshot ID: `MCw0YzUyNmE3NDY4ZTYxZmVjYjQzMzdlY2NmNWY4NTMxNTZmZjBkMDJm`
+Snapshot ID: `MCwwYjgyZGRkMGQ3MmVlYmEzMDBjYWM5MjA3NWUyOGY2ZGNhMzA2M2Iy`

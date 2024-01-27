@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 354322,
+  "2024-01-27": 354110,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 271266,
       "name": "17 de janeiro",
       "url": "https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty"
@@ -22695,7 +22695,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -35473,7 +35473,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 134437,
       "name": "Sim ou N\u00e3o",
       "url": "https://open.spotify.com/track/4lPTMUHdCxq9DK2GaFSWwh"
@@ -40207,6 +40207,24 @@
       "duration_ms": 300000,
       "name": "Uma Coisa Nova (Ao Vivo)",
       "url": "https://open.spotify.com/track/0hrcemiaHlr8lrogSFyTTH"
+    },
+    {
+      "album": {
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263702,
+      "name": "Uma Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cK1rd4UAIzTnPtuWFqumn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,649 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,668 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 74 | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/track/2DgOibtnwJ6azHeFln7qAM) | [Masar](https://open.spotify.com/artist/5DtZJ6PZq71ll1Pke5su7K) | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/album/6iJ58NKpXDA9fQ9Enlayeg) | 3:53 |
 | 75 | [Nas](https://open.spotify.com/track/5z3fSB7leR1hD07MVP7gh7) | [Jeries Babish](https://open.spotify.com/artist/0aSZXNXy1sFJSIrJkaau8S) | [Nas](https://open.spotify.com/album/1DXAfjEtsz5kzDMjdTJ5q6) | 3:04 |
 
-Snapshot ID: `MCw5MDhiODljZDM5N2I1OTZhZWRmNjQxODY4MzcyMWI2M2RiN2MwZmE3`
+Snapshot ID: `MCw3NWExNjc0ZjNlYjg4NjQ2MzdkNDc1NzI2YmJlMzc1YzEzMTAxNzgw`

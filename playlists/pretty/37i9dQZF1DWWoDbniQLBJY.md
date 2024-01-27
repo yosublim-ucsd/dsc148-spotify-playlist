@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,231 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,740 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 |
 | 100 | [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 |
 
-Snapshot ID: `MCwwZTI1ZTZmZDRhZDVjYzY0ZDk2YWMyZTM4MWViNzQ1ZWFmYTFiMTRj`
+Snapshot ID: `MCxkZmI2NTkxM2Y2MjZmYTg5NmJhNzhhOTI0ZTE0N2U3YWFjMjc0MzE3`

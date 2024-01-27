@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Architects on top of the biggest Metal playlist.
+> Bad Omens x Poppy on top of the biggest Metal playlist.
 
-581 songs - 1 day 14 hr 56 min
+584 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Congelia](https://open.spotify.com/track/5O2hzv6to8rtqMLNhjYmSW) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Heimdal](https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG) | 8:01 | 2023-03-03 | 2023-04-01 |
 | [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-20 | 2022-02-25 |
 | [Crank The Heat](https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:42 | 2022-07-01 | 2022-07-16 |
+| [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-26 |  |
 | [Crooked Halos](https://open.spotify.com/track/4zeNxJEOwvTIZex4kKEzCE) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Crooked Halos](https://open.spotify.com/album/2Kw1QJg6Js78qgqCAENY7W) | 3:17 | 2022-04-15 | 2022-07-08 |
 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 | 2022-06-24 | 2023-02-18 |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-08-12 | 2022-10-01 |
@@ -306,6 +307,7 @@
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-13 |  |
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-06-02 |  |
 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-25 |  |
+| [Miasma](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Winston McCall](https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx) | [Miasma](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-26 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 | 2022-07-15 | 2023-03-11 |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-07-30 |
 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 | 2022-11-18 | 2023-09-16 |
@@ -384,12 +386,12 @@
 | [Remember Me](https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Remember Me](https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ) | 4:04 | 2023-03-03 | 2023-11-04 |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-06-02 | 2023-06-24 |
 | [Revelation](https://open.spotify.com/track/5wfccHW5hemTM6o1uZqETU) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [Divine Tragedy](https://open.spotify.com/album/2gl9aNQuTgeVZAwOi3gLpI) | 2:55 | 2021-12-20 | 2022-02-25 |
-| [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-20 |  |
+| [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-20 | 2024-01-27 |
 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 | 2022-07-29 | 2022-12-17 |
 | [Rise \[ライズ\]](https://open.spotify.com/track/1FSs6GsRfsp5sbtV48Z7xk) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:00 | 2023-05-19 | 2023-09-16 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-07-22 | 2022-07-30 |
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2023-12-15 |  |
-| [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 | 2023-12-22 |  |
+| [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 | 2023-12-22 | 2024-01-27 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-09-17 |
 | [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 | 2023-03-10 | 2023-12-02 |
 | [Salt](https://open.spotify.com/track/4BSrRUm2cSaLRjN7xGpCRt) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay](https://open.spotify.com/album/5H93Egq9XH6M9R1mkxQDch) | 3:27 | 2022-09-30 | 2023-03-11 |
@@ -533,6 +535,7 @@
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-12-20 | 2022-01-14 |
 | [Until There Is No Longer](https://open.spotify.com/track/7M29N3LpCBMb0YqOGsdhT9) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Until There Is No Longer](https://open.spotify.com/album/35l01U5iYahwYIGzlk2MbT) | 3:41 | 2023-03-31 | 2023-05-06 |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-11-18 | 2023-02-11 |
+| [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 |  |
 | [Vengeance](https://open.spotify.com/track/087mtS3g2C2oL1V1hSmOvB) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Vengeance](https://open.spotify.com/album/1hPFFfkRIrIIaTqiHzD6OF) | 3:50 | 2022-12-02 | 2023-03-04 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |
 | [VIKING](https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [VIKING](https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG) | 4:31 | 2023-11-17 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 66056,
+  "2024-01-27": 66043,
   "date_first_scraped": "2023-09-29",
   "description": "Soulful takes on all your Holiday favorites. Cover: James Brown",
   "name": "Soulful Christmas",
@@ -125,10 +125,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 208306,
       "name": "Christmas Gift",
       "url": "https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D"
+    },
+    {
+      "album": {
+        "name": "M\u00fasicas de Natal",
+        "url": "https://open.spotify.com/album/1RHO8o29AWNh6TmUPANc46"
+      },
+      "artists": [
+        {
+          "name": "Margie Joseph",
+          "url": "https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Christmas Gift",
+      "url": "https://open.spotify.com/track/54LItSE1N9MSjF8bIdwuYY"
     },
     {
       "album": {

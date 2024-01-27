@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,304 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,269 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 17 | [just forget](https://open.spotify.com/track/2ff0Hy1uymLoiiHD1nmeOB) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/42blSc4ZKA1Ber7ZbYDYuB) | 3:55 |
 | 18 | [winter sunburn](https://open.spotify.com/track/2F6nw7ztr11cC4sQeE6Kcn) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [winter sunburn](https://open.spotify.com/album/5nHOhbEw2vFByKWNUgD4TF) | 2:24 |
 | 19 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 |
-| 20 | [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 |
+| 20 | [Mount Fuji](https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv) | 3:01 |
 | 21 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 |
 | 22 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 |
 | 23 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 |
 | 100 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 |
 
-Snapshot ID: `MCxmNzRhNjI5OGMyODE1NTdkZWY1NTEzNWY5NTQyZWEwNGNlOTgyNDJm`
+Snapshot ID: `MCw5MzIyN2JjOWY3NjU5Y2JlMThiNzM2NTcyZmY2ZmIxNmIyMjE4NDAw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=HOUusYpcTqarWWEHb-Xk7Q\"> Omah Lay</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=bSTtTp0kS6CkkubuD2zrRg\"> Shallipopi</a>  ",
   "name": "African Heat",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 231151,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
@@ -1742,6 +1742,28 @@
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+    },
+    {
+      "album": {
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
     },
     {
       "album": {
@@ -4621,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
+    },
+    {
+      "album": {
         "name": "Oga",
         "url": "https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5"
       },
@@ -4834,7 +4874,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180512,
       "name": "Outside (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Yvng Patra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,729 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 34 | [Made In Japan](https://open.spotify.com/track/2g4R2yFO2lWf1EzVNFTM18) | [DJ YUHH](https://open.spotify.com/artist/6gKGe2OP7u3UketewgWiP4), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Made In Japan](https://open.spotify.com/album/6UVjCi5Ht0Zm64FVO9cz8f) | 2:22 |
 | 35 | [King Swan](https://open.spotify.com/track/1cWeCO7Fc9Z6z3BDQz2Vwm) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/77GgZFHFDGoopROjsv2Udk) | 2:42 |
 | 36 | [One Love](https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 3:04 |
-| 37 | [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 |
+| 37 | [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 |
 | 38 | [HEART \- Remix](https://open.spotify.com/track/6ezpZzQEzlBwY4Fm8Xn6c6) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [HEART \(Remix\)](https://open.spotify.com/album/3GsWn17yCMKxfeynjaSNuD) | 3:05 |
 | 39 | [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 |
 | 40 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxjNjdhYjgxOGIwZjMwZGUxM2FkMWVhYzg1ZDc4ZWQ0NWFmZmEwZTk3`
+Snapshot ID: `MCwzNzg5NDgxYmI4MWEwY2M4MGFjYWU2ZjVkOTUwNjBlYjdkM2NlYWEz`

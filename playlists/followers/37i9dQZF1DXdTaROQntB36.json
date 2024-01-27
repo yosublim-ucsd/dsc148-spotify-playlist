@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 75873,
+  "2024-01-27": 75926,
   "date_first_scraped": "2023-07-29",
   "description": "Laissez vous emporter par la magie des plus grandes voix",
   "name": "Les plus belles voix",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
@@ -165,6 +165,46 @@
       "duration_ms": 230880,
       "name": "Control",
       "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+    },
+    {
+      "album": {
+        "name": "Chroniques d\u2019un cupidon",
+        "url": "https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Des milliers de je t'aime",
+      "url": "https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA"
+    },
+    {
+      "album": {
+        "name": "Icarus Falls",
+        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
     },
     {
       "album": {
@@ -197,10 +237,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "album": {
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219241,
+      "name": "Et Bam",
+      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
     },
     {
       "album": {
@@ -269,7 +327,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 220346,
       "name": "Homeless",
       "url": "https://open.spotify.com/track/4Lxrt5692GF4aanPiqmdh8"
@@ -291,6 +349,24 @@
       "duration_ms": 200186,
       "name": "Human",
       "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "album": {
@@ -323,7 +399,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -359,7 +435,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
@@ -417,10 +493,46 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+    },
+    {
+      "album": {
+        "name": "Sentiments Heureux (nan j'd\u00e9conne)",
+        "url": "https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207035,
+      "name": "Les \u00e9toiles",
+      "url": "https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "album": {
@@ -471,7 +583,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 196866,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
@@ -511,6 +623,24 @@
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "album": {
+        "name": "Popcorn Sal\u00e9",
+        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238653,
+      "name": "Popcorn Sal\u00e9",
+      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
     },
     {
       "album": {
@@ -561,7 +691,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
@@ -626,6 +756,28 @@
     },
     {
       "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Sous le vent",
+      "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
+    },
+    {
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI"
       },
@@ -659,6 +811,24 @@
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "album": {

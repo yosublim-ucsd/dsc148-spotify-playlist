@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,975 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,012 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Evening Song for B](https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 4:23 |
 | 100 | [I Kirken](https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF) | [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Bagland](https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn) | [Cirkel](https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY) | 4:29 |
 
-Snapshot ID: `MCxmMmE1NTMyMjIyOGYyNWZjZjNlYmRlNzI5MmI0MjQ2MGIyODAxYzIw`
+Snapshot ID: `MCw4NWJlMTc5NDRiYTIxNmU5OWNhOGY5M2EwY2ZmZDU2NzgyYWMzNTAw`

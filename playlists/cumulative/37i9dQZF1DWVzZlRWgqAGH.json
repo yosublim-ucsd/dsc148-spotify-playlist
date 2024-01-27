@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "30 Million",
+        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218988,
+      "name": "30 Million",
+      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
+    },
+    {
+      "album": {
         "name": "311!",
         "url": "https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3"
       },
@@ -1281,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N"
+    },
+    {
+      "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
       },
@@ -1618,7 +1654,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 248952,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5bXUmIWNuQfmmuWAXhESZR"
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 260497,
       "name": "Can\u2019t Be Replaced",
       "url": "https://open.spotify.com/track/7fIT6KXMgn8SJzg025oZh9"
@@ -5209,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Doom Gloom",
+        "url": "https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS"
+      },
+      "artists": [
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241132,
+      "name": "Doom Gloom",
+      "url": "https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -5938,6 +5992,24 @@
       "duration_ms": 219933,
       "name": "Everything Is Connected",
       "url": "https://open.spotify.com/track/4DoPUruUNmcg5RudmAhMWq"
+    },
+    {
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "album": {
@@ -13038,7 +13110,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 248213,
       "name": "Mrs. Postman",
       "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
@@ -13100,7 +13172,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 120490,
       "name": "My Mother's Daughter",
       "url": "https://open.spotify.com/track/3Z2F2EWLS8AIn4ukk5LxrD"
@@ -13468,7 +13540,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 229534,
       "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
       "url": "https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy"
@@ -13508,6 +13580,24 @@
       "duration_ms": 215288,
       "name": "No Cure",
       "url": "https://open.spotify.com/track/5ZVI0chJSdsqsj458FbFLr"
+    },
+    {
+      "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145267,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
       "album": {
@@ -14152,7 +14242,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214738,
       "name": "One Night",
       "url": "https://open.spotify.com/track/15ZxSLwa0IAPbwz1R9i7RQ"
@@ -14933,6 +15023,24 @@
     },
     {
       "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
       },
@@ -15210,6 +15318,24 @@
       "duration_ms": 194307,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
+    },
+    {
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
       "album": {
@@ -16690,7 +16816,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214939,
       "name": "Shade",
       "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
@@ -17939,6 +18065,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/5zXZBEsCxIFSqGwAO1FEOK"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216624,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/60gpPVIPxuB8OLKS3mif0I"
+    },
+    {
+      "album": {
         "name": "Stayback",
         "url": "https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk"
       },
@@ -18436,7 +18580,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215861,
       "name": "Summertime - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6Gd9Zzs5d7uALsKynGPwPn"

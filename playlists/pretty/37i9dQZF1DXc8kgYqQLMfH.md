@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,703 likes - 400 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,520 likes - 400 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 399 | [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 |
 | 400 | [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 |
 
-Snapshot ID: `MCxlNDY5ODIwZTBmZjc4MTZlYmI1ODFmYmQxZWQ1MDExZDIyYTRhODA1`
+Snapshot ID: `MCw2OWVlOWRiOGQwNWI2NGQ2YmUzMTQ3MThkMWU0MDg3MTc0Yjk4N2Ew`

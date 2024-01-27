@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-312 songs - 19 hr 31 min
+313 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 | 2021-10-29 |  |
 | [Carry](https://open.spotify.com/track/1aJsXPeKKQsTlKhff3uKo5) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light: Second Phase](https://open.spotify.com/album/2o3PqYyPUnFHmay1PtvBuI) | 3:35 | 2021-10-29 | 2022-07-27 |
 | [Cascades](https://open.spotify.com/track/5Wp1uC4TKl5gPTWF0GjfdK) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Emigrant EP](https://open.spotify.com/album/74rT0Qt1NIlFzAqAiShAYL) | 3:56 | 2021-10-29 | 2022-07-29 |
-| [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 |  |
+| [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 | 2024-01-27 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-10-29 | 2022-01-29 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-15 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-11-24 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 | 2021-10-29 |  |
 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 | 2021-10-29 | 2022-06-04 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-10-29 |  |
+| [Housewarming \- The New Recording](https://open.spotify.com/track/71kjx4TQWb4Fm9MJZhLFZ6) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Housewarming \(The New Recording\)](https://open.spotify.com/album/0M7Jed3vq0wZgWZs1hF9g6) | 4:10 | 2024-01-26 |  |
 | [How Bad I Wanna Live](https://open.spotify.com/track/4No2hBtuIufwb3w28Y0XZt) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How Bad I Wanna Live](https://open.spotify.com/album/2kuPelS6p4hK1oAnKCvZKy) | 2:53 | 2022-02-11 | 2022-06-24 |
 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 | 2022-04-15 | 2022-07-23 |
 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 | 2022-10-07 | 2024-01-13 |

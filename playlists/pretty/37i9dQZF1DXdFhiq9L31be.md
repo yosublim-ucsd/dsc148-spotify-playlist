@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,416 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,414 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 99 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 | 100 | [mars \- Spotify Singles](https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:26 |
 
-Snapshot ID: `MCwzMDBjY2YxZjE1NDllNDBkOWM5OTg3ZDViN2ViZTAzNTZmZTNlMWYx`
+Snapshot ID: `MCxkMmFmNjZmMTNkODQ0YzhhYzZjYTgyZjQzNDgxMjQ4YWQzZGQwY2Zk`

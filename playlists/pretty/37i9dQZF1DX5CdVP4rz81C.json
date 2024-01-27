@@ -1,44 +1,60 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Benson Boone",
-  "num_followers": 1337268,
+  "description": "Discover your favorite new chill pop songs. Cover: Michael Marcagi",
+  "num_followers": 1336808,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTZjMTY1YTRkM2E5ZmY4NWNkZjVhM2JjNmY2OGY2NTkzZmY4OGM5",
+  "snapshot_id": "MCxhOTgwYjcyYTM0NTA1Yjg2ZjZiODlkMzE4Y2IwMzRjOGI5OWMxMGU5",
   "tracks": [
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-01-19 05:43:01",
       "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -107,6 +123,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Into The Walls",
+      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Kissing In Swimming Pools",
         "url": "https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX"
       },
@@ -157,20 +189,20 @@
       "url": "https://open.spotify.com/track/7LM7kxM3RvpM04afbUKZsb"
     },
     {
-      "added_at": "2024-01-19 05:43:01",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+        "name": "Everything Almost",
+        "url": "https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+      "duration_ms": 180040,
+      "name": "Everything Almost",
+      "url": "https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -205,22 +237,6 @@
       "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Everything Almost",
-        "url": "https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Everything Almost",
-      "url": "https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Hey mom, don\u2019t worry I\u2019m fine",
@@ -235,6 +251,22 @@
       "duration_ms": 190000,
       "name": "Lilly",
       "url": "https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2023-12-01 05:00:00",

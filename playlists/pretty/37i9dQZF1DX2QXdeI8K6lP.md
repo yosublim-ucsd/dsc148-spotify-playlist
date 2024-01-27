@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,349 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,442 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Noche No Te Vayas](https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [Romanticamente Trios Vol\. 9](https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA) | 2:28 |
 | 100 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
 
-Snapshot ID: `MCw4YjBlZjYzZjIzNTZjODE4YzZjN2I5YjIyOTI2NGMxOTQ0NjBiZDhj`
+Snapshot ID: `MCxiOTAyMTYwNzg2YzJjYzQxZmVmZDM4OGM2ZTU3Y2U4YmMyZWY4ZTRk`

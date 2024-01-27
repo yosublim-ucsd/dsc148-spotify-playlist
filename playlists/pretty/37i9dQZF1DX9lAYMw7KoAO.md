@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=qOrn\-BYNTaaLYq4Qpg6boA">Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,344 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,661 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 |
 | 50 | [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 |
 
-Snapshot ID: `MCw4Y2M4MTdkOWZkMDJiOWEzNGFlYzVlOTc1NjA4MTNiOGE1MGRhZDc5`
+Snapshot ID: `MCw3NDg3NDk0Mjg0N2QxODhhNDVjNGMxZjYxZDIxODQ3ODIyZmQyMGYx`

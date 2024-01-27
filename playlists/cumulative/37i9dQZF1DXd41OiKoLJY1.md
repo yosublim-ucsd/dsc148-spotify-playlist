@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: No Lore Artwork: Isu Kim
 
-1,985 songs - 4 day 21 hr 48 min
+1,986 songs - 4 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [boho babe](https://open.spotify.com/track/4P9VD39kOCzF02VwQ98MAv) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa), [Sunny Side Up!](https://open.spotify.com/artist/62JSntrhTQZg2buPDIoGjQ) | [boho babe](https://open.spotify.com/album/3JT6cNrOKXXoD7yH98yiSS) | 2:26 | 2023-08-24 | 2023-09-15 |
 | [BOO](https://open.spotify.com/track/7u0zSyFJa5zEPKJRp6Qa15) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [BOO](https://open.spotify.com/album/2M4YwPXnpddtv9HYw1t6JI) | 2:50 | 2023-02-09 | 2023-02-24 |
 | [bored.](https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl) | [Beatsilog](https://open.spotify.com/artist/6TZouLjmWgL00bVKZcxUM6) | [bored.](https://open.spotify.com/album/38DShZ2neHNkCopeUtr7a8) | 3:42 | 2022-01-13 | 2023-01-13 |
+| [Born Of The Spirit](https://open.spotify.com/track/0tG1M6QkmC4Lybgb34Qe4k) | [The Power Of X](https://open.spotify.com/artist/6hYR3NQ6MpYvXIgjLmZDWO) | [Born Of The Spirit](https://open.spotify.com/album/2RM86TmHIivNAtRclUcuOD) | 4:02 | 2024-01-25 |  |
 | [Bottled Up](https://open.spotify.com/track/6eDBGl3gk5TcU63nDltaNm) | [Kacee Cortes](https://open.spotify.com/artist/0TJNUEzHtlI9OKM4i9QXts) | [Bottled Up](https://open.spotify.com/album/14sJFtxkpMuYNgIYTK6Y52) | 3:56 | 2023-03-30 | 2023-04-21 |
 | [Bougie Girl](https://open.spotify.com/track/3e6kv3nXcuKFMtyobVtjkl) | [Versus](https://open.spotify.com/artist/4y9OUwvKFJqN6HEJACgaFi) | [Bougie Girl](https://open.spotify.com/album/0MAspRGGyXnqmdGEyEsYGa) | 3:21 | 2023-05-04 | 2023-05-26 |
 | [Brain Plain](https://open.spotify.com/track/2DcXeMbptnngFFGDZgZnu2) | [The Radical](https://open.spotify.com/artist/6G5gsalxL7xQbT2Cjv9jiS) | [Brain Plain](https://open.spotify.com/album/3jIRK83vEh5FEmO5dJjEOQ) | 5:03 | 2022-06-02 | 2022-06-17 |

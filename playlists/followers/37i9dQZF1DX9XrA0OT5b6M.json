@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 28053,
+  "2024-01-27": 28114,
   "date_first_scraped": "2023-08-24",
   "description": "Music from TV Anime \"ONE PIECE\" /TV\u30a2\u30cb\u30e1\u300cONE PIECE\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\ufe0f\u5c3e\u7530\u6804\u4e00\u90ce\uff0f\u96c6\u82f1\u793e\u30fb\u30d5\u30b8\u30c6\u30ec\u30d3\u30fb\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
   "name": "ONE PIECE",
@@ -615,7 +615,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 157500,
       "name": "\u30ab\u30bf\u30af\u30ea\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/2WWc5nAx3baWLnZRH251SA"
@@ -745,10 +745,28 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126933,
       "name": "\u30eb\u30d5\u30a3\u3001\u52dd\u5229\u3078",
       "url": "https://open.spotify.com/track/5pAqQcyKQB5PxVDErD8KJe"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE Original Soundtrack\"GEAR5\"",
+        "url": "https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kitadani",
+          "url": "https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109266,
+      "name": "\u30eb\u30d5\u30a3\u306e\u5922",
+      "url": "https://open.spotify.com/track/1juDwtB0oyuiwhkoxmY201"
     },
     {
       "album": {
@@ -767,6 +785,24 @@
       "duration_ms": 219300,
       "name": "\u30ef\u30ce\u56fd \u5e55\u958b\u3051\u3001\u5e55\u5f15\u304d\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE Original Soundtrack\"GEAR5\"",
+        "url": "https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u5bb6\u4e00\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/2XSIUbee4i0jOyL3vwUmZH"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436800,
+      "name": "\u30ef\u30ce\u56fd\u30fb\u7d42\u5e55",
+      "url": "https://open.spotify.com/track/2oCvU0RlxPl74aV08Ro5P3"
     },
     {
       "album": {
@@ -1001,7 +1037,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178560,
       "name": "\u9ea6\u308f\u3089\u306e\u4e00\u5473VS\u30de\u30c3\u30c9\u30c8\u30ec\u30b8\u30e3\u30fc\u4e00\u5473",
       "url": "https://open.spotify.com/track/78Xn7fcliybiDG8zwK9Uqz"

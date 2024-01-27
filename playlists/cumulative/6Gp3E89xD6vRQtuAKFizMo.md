@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-264 songs - 12 hr 51 min
+266 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 |  |
 | [Bad Guy](https://open.spotify.com/track/2SJzfY2pZSzgAn3gQZMVJJ) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Bad Guy](https://open.spotify.com/album/67WchHfNYcPA0jv7mvkgqW) | 3:14 | 2023-08-09 |  |
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK) | 2:17 | 2023-08-11 |  |
+| [Bandolera \(feat\. Buza\)](https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [Buza](https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB) | [Bandolera \(feat\. Buza\)](https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh) | 2:55 | 2024-01-26 |  |
 | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Melissa Brooks](https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr) | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH) | 2:31 | 2023-06-09 |  |
 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 | 2023-05-19 |  |
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |
@@ -270,6 +271,7 @@
 | [Without u \- Voice Memo](https://open.spotify.com/track/0BeGIxBVnS3PsT86dXiX0q) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(Voice Memo\)](https://open.spotify.com/album/6NvyohSpMmjRcUbnGsgCMZ) | 2:20 | 2023-06-09 |  |
 | [Without You](https://open.spotify.com/track/16f31pXl2QC3J3LAk1KQRT) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Without You](https://open.spotify.com/album/72qnp2XHaIagEDHZFbiv9T) | 3:03 | 2023-11-22 |  |
 | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/album/1aJRxY9BMTN8SXC97rvKov) | 3:38 | 2022-05-06 | 2022-10-18 |
+| [You're All Drunk](https://open.spotify.com/track/53I9ct5lkkNHUDZqsOnlbb) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [You’re All Drunk](https://open.spotify.com/album/3DGJDMRduLi2qKHjt0CKZH) | 2:11 | 2024-01-26 |  |
 | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM) | 3:09 | 2022-09-02 | 2022-11-29 |
 | [Your Body](https://open.spotify.com/track/0bWyzjcqn3kn1l6VSgZg5W) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0), [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3) | [Your Body](https://open.spotify.com/album/06iF6QFLoRgnU1Egn7JHe2) | 3:36 | 2023-08-09 |  |
 

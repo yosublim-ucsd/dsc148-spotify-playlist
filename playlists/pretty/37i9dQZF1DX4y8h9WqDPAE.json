@@ -1,13 +1,45 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: 21 Savage",
-  "num_followers": 1772278,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Fridayy",
+  "num_followers": 1770892,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmU0YzFlZWIwNzQ3OThiOWZkNjYwNTExMjY5M2RhMGNlZmRhMTM5",
+  "snapshot_id": "MCxjZjM0YTQwYTQ0MWE3NzU4NzVlYjIyNmZmOTQyMzc2MDczNzc0YzZj",
   "tracks": [
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 145267,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
+    },
     {
       "added_at": "2024-01-12 05:18:41",
       "album": {
@@ -145,20 +177,24 @@
       "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
     },
     {
-      "added_at": "2024-01-12 05:18:41",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 165845,
-      "name": "Tu Coraz\u00f3n Es M\u00edo...",
-      "url": "https://open.spotify.com/track/59ak5RmKdyspU26ifSg0rW"
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": "2024-01-12 05:18:41",
@@ -301,6 +337,42 @@
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
     },
     {
+      "added_at": "2024-01-12 05:18:41",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 165845,
+      "name": "Tu Coraz\u00f3n Es M\u00edo...",
+      "url": "https://open.spotify.com/track/59ak5RmKdyspU26ifSg0rW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Blended",
+        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
       "added_at": "2023-12-01 18:55:35",
       "album": {
         "name": "DISC TWO (SCRATCHED UP)",
@@ -369,6 +441,66 @@
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Passion Pt. 2",
+        "url": "https://open.spotify.com/album/3kytNG7DtrydrdK8Z0mcCS"
+      },
+      "artists": [
+        {
+          "name": "DJ Rosegold",
+          "url": "https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH"
+        },
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        },
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 204115,
+      "name": "Passion Pt. 2",
+      "url": "https://open.spotify.com/track/3OraGxjYSSd6ifEX0Ji2mj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "added_at": "2024-01-19 06:50:33",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Welcome 2 Collegrove",
@@ -427,6 +559,22 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -673,6 +821,26 @@
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "+243",
+        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        },
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 163685,
+      "name": "Pressure (feat. JayO)",
+      "url": "https://open.spotify.com/track/79OE0Hp0x9UCPqgCvHPgrZ"
+    },
+    {
       "added_at": "2023-11-24 05:24:22",
       "album": {
         "name": "40x",
@@ -707,22 +875,6 @@
       "duration_ms": 167948,
       "name": "Tummy Hurts (feat. Coco Jones) - Remix",
       "url": "https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk"
-    },
-    {
-      "added_at": "2024-01-19 06:50:33",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2024-01-12 05:18:41",
@@ -819,6 +971,30 @@
       "duration_ms": 177813,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wrist On Freeze",
+        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Wrist On Freeze",
+      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1055,26 +1231,6 @@
       "duration_ms": 177417,
       "name": "Love Me To Find You",
       "url": "https://open.spotify.com/track/2BfaDvGnccdSeTqzFbney3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Gravy",
-        "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Honey (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/30Rh0C9HBH9FI0OtHwlHMn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1749,26 +1905,6 @@
       "url": "https://open.spotify.com/track/5xaQAWQ6Q65HTJGEZxrzpt"
     },
     {
-      "added_at": "2023-09-08 05:00:45",
-      "album": {
-        "name": "BORN FOR GREATNESS",
-        "url": "https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 157060,
-      "name": "BODY TOUCHING BODY (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP"
-    },
-    {
       "added_at": "2023-05-19 06:33:06",
       "album": {
         "name": "KAYTRAMIN\u00c9",
@@ -2109,22 +2245,6 @@
       "url": "https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Don't Say Love (R&B Version)",
-        "url": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 180131,
-      "name": "Don't Say Love - R&B Version",
-      "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2141,68 +2261,20 @@
       "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Risk: Reloaded",
-        "url": "https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7"
+        "name": "Don't Say Love (R&B Version)",
+        "url": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
       },
       "artists": [
         {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Highlyy",
-          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
-        },
-        {
-          "name": "WaveIQ",
-          "url": "https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA"
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Hate (feat. Lojay & Highlyy) - Remix",
-      "url": "https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
-    },
-    {
-      "added_at": "2023-08-11 04:06:40",
-      "album": {
-        "name": "So I Can Sleep Sound (feat. WSTRN)",
-        "url": "https://open.spotify.com/album/0D6O7ATDmEyLC838Rix8fP"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        },
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        }
-      ],
-      "duration_ms": 167572,
-      "name": "So I Can Sleep Sound (feat. WSTRN)",
-      "url": "https://open.spotify.com/track/3rhCx6OugHgtsomfR4qbWJ"
+      "duration_ms": 180131,
+      "name": "Don't Say Love - R&B Version",
+      "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -2227,26 +2299,6 @@
       "duration_ms": 197382,
       "name": "My Baby (feat. Ayra Starr) [Remix]",
       "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "FIREGUN (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
     },
     {
       "added_at": "2023-06-23 18:44:27",
@@ -2361,22 +2413,6 @@
       "url": "https://open.spotify.com/track/4sqUNxl5X6fF2wCQwYZH1D"
     },
     {
-      "added_at": "2023-07-14 15:37:12",
-      "album": {
-        "name": "DIAMOND (I NEED LOVE)",
-        "url": "https://open.spotify.com/album/1G7p8w6JJaXekZ8ECALcXh"
-      },
-      "artists": [
-        {
-          "name": "CHOSZN",
-          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
-        }
-      ],
-      "duration_ms": 188150,
-      "name": "DIAMOND (I NEED LOVE)",
-      "url": "https://open.spotify.com/track/2XNZpupSsdgRIGAW3X65jS"
-    },
-    {
       "added_at": "2023-07-14 05:46:05",
       "album": {
         "name": "INTOXYCATED (feat. Dave)",
@@ -2477,6 +2513,62 @@
       "url": "https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE"
     },
     {
+      "added_at": "2023-08-11 04:06:40",
+      "album": {
+        "name": "Won't Go",
+        "url": "https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1"
+      },
+      "artists": [
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        }
+      ],
+      "duration_ms": 128315,
+      "name": "Won't Go",
+      "url": "https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy"
+    },
+    {
+      "added_at": "2023-05-20 15:35:38",
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
+    },
+    {
+      "added_at": "2023-06-10 16:58:46",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
+    },
+    {
       "added_at": "2023-07-14 05:46:05",
       "album": {
         "name": "Risk",
@@ -2509,62 +2601,6 @@
       "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
     },
     {
-      "added_at": "2023-08-11 04:06:40",
-      "album": {
-        "name": "Won't Go",
-        "url": "https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1"
-      },
-      "artists": [
-        {
-          "name": "AP",
-          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
-        }
-      ],
-      "duration_ms": 128315,
-      "name": "Won't Go",
-      "url": "https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy"
-    },
-    {
-      "added_at": "2023-06-10 16:58:46",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
-    },
-    {
-      "added_at": "2023-05-20 15:35:38",
-      "album": {
-        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 260962,
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
@@ -2595,22 +2631,6 @@
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
-    },
-    {
-      "added_at": "2023-05-26 15:49:43",
-      "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-05-19 06:33:06",
@@ -2687,22 +2707,6 @@
       "duration_ms": 160821,
       "name": "Big Mistake",
       "url": "https://open.spotify.com/track/49MP4LYaSqpECfHXtrCSXr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2023-05-26 15:49:43",

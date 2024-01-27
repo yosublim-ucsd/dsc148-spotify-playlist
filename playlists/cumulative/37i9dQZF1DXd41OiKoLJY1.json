@@ -5337,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Born Of The Spirit",
+        "url": "https://open.spotify.com/album/2RM86TmHIivNAtRclUcuOD"
+      },
+      "artists": [
+        {
+          "name": "The Power Of X",
+          "url": "https://open.spotify.com/artist/6hYR3NQ6MpYvXIgjLmZDWO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Born Of The Spirit",
+      "url": "https://open.spotify.com/track/0tG1M6QkmC4Lybgb34Qe4k"
+    },
+    {
+      "album": {
         "name": "Bottled Up",
         "url": "https://open.spotify.com/album/14sJFtxkpMuYNgIYTK6Y52"
       },

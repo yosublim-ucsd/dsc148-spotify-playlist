@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,702 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,184 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 199 | [Bunny](https://open.spotify.com/track/608Il5lMSRS5AK7QUZlVPt) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 5:43 |
 | 200 | [Skylark](https://open.spotify.com/track/577faQuWq6ioVGsK4wel5s) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Collections](https://open.spotify.com/album/6CwQw2v0f0AEvRVYAm013g) | 2:01 |
 
-Snapshot ID: `MCxlOWJlMmNkZDgyZGUzMmU4MGMxMTczNDE4MDZjMjU0OGU1NDU2NGU1`
+Snapshot ID: `MCw4YzU5MWM2ZWU1Y2Q1ZTMxNWFiZTJmZTZhZDYwNzM3ZjIxOTkwMmIx`

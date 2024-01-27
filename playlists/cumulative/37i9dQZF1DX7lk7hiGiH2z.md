@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-275 songs - 13 hr 4 min
+276 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Wär' Dezember doch für immer \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten, Holger Stockhaus\)](https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1), [Holger Stockhaus](https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:58 | 2023-11-14 |  |
 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 | 2023-06-28 | 2023-09-01 |
 | [Zombietanz](https://open.spotify.com/track/2o8OojmqLNat22KUd1YeRl) | [Minidisco Deutsch](https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY) | [Minidisco 2020 \(Deutsch Version\)](https://open.spotify.com/album/0HT9yqMozur34CCOk9pdLd) | 2:54 | 2023-10-16 | 2023-11-06 |
+| [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 | 2024-01-26 |  |
 | [Zu Weihnachten, da wünsch ich mir](https://open.spotify.com/track/3WGrttRrM6XHKpAFAoc8oM) | [Sven van Thom](https://open.spotify.com/artist/6xQCjBc2GPRJbe2RDCaqRP) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:04 | 2023-11-14 | 2023-12-30 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

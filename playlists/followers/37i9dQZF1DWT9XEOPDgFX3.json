@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 88952,
+  "2024-01-27": 89059,
   "date_first_scraped": "2022-03-28",
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
   "name": "Folk Arc",
@@ -285,6 +285,24 @@
       "duration_ms": 303733,
       "name": "All Burn No Bridge",
       "url": "https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf"
+    },
+    {
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
     },
     {
       "album": {
@@ -6587,7 +6605,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"

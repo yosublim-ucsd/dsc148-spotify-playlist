@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap più forte del mondo in una sola playlist\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,075 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,980 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 119 | [MEZZANOTTE \(feat\. Rondodasosa\)](https://open.spotify.com/track/1TVrjQh9mfod3CMgG8eLqy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:22 |
 | 120 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 
-Snapshot ID: `MCxlNGE0OWEzMzJjM2EzNGM2ZTZjMDA4MTlhYWI4NjRhNDA0N2Y0YjUx`
+Snapshot ID: `MCwyYjk4OGU0ZjRiMmYxMGRmZmM0MjBiNmZhNTU0NmUwM2EzNzUxMTU3`

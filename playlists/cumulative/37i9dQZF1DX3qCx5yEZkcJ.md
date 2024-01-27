@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-516 songs - 21 hr 13 min
+517 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Momma Time](https://open.spotify.com/track/1oT9Ax3RM3yv3zSNAaNQLe) | [Kankick](https://open.spotify.com/artist/1F9XUalYzU3FBioU2EBJro) | [Kan Cassette Vol.1](https://open.spotify.com/album/3yYfMdo5u2OKxiHGmwBXZW) | 2:12 | 2019-05-26\* | 2020-01-14 |
 | [More Life](https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [More Life](https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw) | 2:34 | 2019-08-31 | 2022-11-05 |
 | [Morning Cartoons](https://open.spotify.com/track/0KjQTnwnwBddIkplN5xsU8) | [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98), [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Morning Cartoons](https://open.spotify.com/album/2BBagTuzwUy6XWJpIFzufV) | 2:07 | 2020-06-29 | 2022-04-21 |
-| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 |  |
+| [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 | 2024-01-27 |
+| [Mount Fuji](https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv) | 3:01 | 2024-01-25 |  |
 | [My Girl](https://open.spotify.com/track/6TXeLPNseWzCnmCjgexEfE) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Welcome Home](https://open.spotify.com/album/0dk2xXCxLT1KEO61WQ2YKg) | 1:39 | 2020-06-19 | 2020-10-02 |
 | [My Type Of Comfortable](https://open.spotify.com/track/0rXo6tpkeF3wNIHYMdjRwY) | [Hayai Sake](https://open.spotify.com/artist/3kID2s74JivIv9p0yAVIKa), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [Banana Katana](https://open.spotify.com/artist/3qUAvx09Sip4PpmP3LsEvQ) | [My Type Of Comfortable](https://open.spotify.com/album/5aw9ZE2yBUaIpDjiVgUbUH) | 1:17 | 2020-07-18 | 2022-06-17 |
 | [mysa](https://open.spotify.com/track/1jklKFn7x3Vn659OA0DyoO) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Dernière](https://open.spotify.com/album/53rEo4OVa0J3dTTDPraRX5) | 1:26 | 2019-06-14 | 2021-10-16 |

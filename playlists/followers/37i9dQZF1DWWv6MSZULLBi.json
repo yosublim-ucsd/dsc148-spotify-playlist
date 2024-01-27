@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 164588,
+  "2024-01-27": 164548,
   "date_first_scraped": "2022-05-14",
   "description": "A laid-back trip in the folk scene. Cover: Mumford & Sons",
   "name": "Folk & Friends",
@@ -1401,10 +1401,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 189073,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa"
+    },
+    {
+      "album": {
+        "name": "Bubba",
+        "url": "https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y"
     },
     {
       "album": {

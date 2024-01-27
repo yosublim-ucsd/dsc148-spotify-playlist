@@ -4,7 +4,7 @@
 
 > Tous les hits latino du moment sont ici\. Photo : Peso Pluma x Anitta
 
-84 songs - 4 hr 25 min
+85 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Olé Olé](https://open.spotify.com/track/0VgxupJzZCCCCJU0gPb9NJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Olé Olé](https://open.spotify.com/album/3evFSKuVUPwT9X3GtnD9hd) | 3:04 | 2023-09-28 | 2023-10-21 |
 | [Otra Vibra](https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Otra Vibra](https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS) | 3:27 | 2023-09-28 | 2023-11-24 |
 | [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 | 2023-12-14 | 2024-01-19 |
+| [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 | 2024-01-25 |  |
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-11-16 |  |
 | [PLEBITA](https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [PLEBITA](https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW) | 2:27 | 2023-11-23 | 2023-12-15 |
 | [Puesta Pal' Perreo](https://open.spotify.com/track/4OEgUT2QujgvvaiaXFsjiB) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Puesta Pal' Perreo](https://open.spotify.com/album/42LpYmMSb0yvCREf9ezQhj) | 2:59 | 2023-12-28 |  |

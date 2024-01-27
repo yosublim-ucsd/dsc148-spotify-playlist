@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 114908,
+  "2024-01-27": 114978,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc (Saba Sister)",
   "name": "Punk Japan",
@@ -407,6 +407,24 @@
       "duration_ms": 148666,
       "name": "Awaking Now",
       "url": "https://open.spotify.com/track/4WAmdwMGWeWW85onNiOw84"
+    },
+    {
+      "album": {
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I"
+      },
+      "artists": [
+        {
+          "name": "sayonaramiochan",
+          "url": "https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177183,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3"
     },
     {
       "album": {
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 147546,
       "name": "C\u304b\u3089\u306f\u3058\u307e\u308bABC",
       "url": "https://open.spotify.com/track/1Jk26lT8qgYtMzJvrAPZLe"
@@ -2249,6 +2267,24 @@
       "duration_ms": 178240,
       "name": "Farley",
       "url": "https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM"
+    },
+    {
+      "album": {
+        "name": "1Time",
+        "url": "https://open.spotify.com/album/2O5JoRxsxK3ZEQWWCwUzDs"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376375,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6"
     },
     {
       "album": {
@@ -3085,7 +3121,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 181891,
       "name": "Hey! Sunny!",
       "url": "https://open.spotify.com/track/0ka2Fx1ZmC4ZJBiP2cmVEH"
@@ -6515,7 +6551,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 275866,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
@@ -6785,7 +6821,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 126206,
       "name": "Seethe",
       "url": "https://open.spotify.com/track/32yj2Gs4yjjo0OxkI5DPbP"
@@ -9788,6 +9824,24 @@
     },
     {
       "album": {
+        "name": "(\u831c)",
+        "url": "https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR"
+      },
+      "artists": [
+        {
+          "name": "the dadadadys",
+          "url": "https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263472,
+      "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u7f85\u91dd\u76e4",
         "url": "https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2"
       },
@@ -10033,7 +10087,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 168500,
       "name": "\u30a2\u30f3\u30bb\u30e0",
       "url": "https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,659 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,723 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Vive](https://open.spotify.com/track/27Q2MMzV3wnE3ha02N4Fg4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/3fyFwIi7A4hCq08q2JvMgS) | 5:06 |
 | 100 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 
-Snapshot ID: `MCxjZjQxNDVlZmYyN2FjZjMwZTM2ODMxY2U4YjdmMzBmYjMyMzdhMGIz`
+Snapshot ID: `MCwyMDc1YzQ0OTM5OTI0ZTE5NWIzZDQyZTU1M2U2YWU2MjUwNWM2NjYz`

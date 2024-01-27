@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,727 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,717 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
 | 51 | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Carlos "Maffio" Peralta](https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS) | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH) | 3:28 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBjNDZjYmYzNjFmZWQzMmZkMzVkYzY0ZmUxZTI3MTI4MQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBlMTg1OWNlNzlmMDhhMWE0N2NjYzAxY2EwNGM3N2M1Mw==`

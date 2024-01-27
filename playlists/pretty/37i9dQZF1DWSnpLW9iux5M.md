@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,783 likes - 120 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,758 likes - 120 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 119 | [Oh Come All Ye Faithful](https://open.spotify.com/track/5FMoCyIlPwmEE5mdyBCJBi) | [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:57 |
 | 120 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 
-Snapshot ID: `MCwyNTc1MTE3NzE2Mjc2YzE2YmZkNTA3MDQ4NjExNDYzYWI2N2Q2ZGI3`
+Snapshot ID: `MCxlMWEyNmM1NjM2ZTMxMjFiNDBiZTk5MWU3ODRjYzc0ODNlOGZmMzc4`

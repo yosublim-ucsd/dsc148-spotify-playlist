@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,933 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,937 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [To over tolv](https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [To over tolv](https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM) | 4:55 |
 | 50 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
 
-Snapshot ID: `MCw2NTYwMTE3YjdhMDQxMzY4NGNkYjEzNWJkMjFiMjk0NzhkNjc2Y2Mx`
+Snapshot ID: `MCwyYTYzN2ZjMDhlODAwYmNlZTBkY2Y2YWU0Y2JmY2M1ZGQ3YWZkYzAw`

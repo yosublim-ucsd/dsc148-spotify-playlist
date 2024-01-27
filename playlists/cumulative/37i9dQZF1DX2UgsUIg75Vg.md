@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Destin Conrad
+> Chilled R&B jams for your most relaxed moods\. Cover: Sinead Harnett
 
-852 songs - 1 day 23 hr 47 min
+854 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-17 | 2023-03-18 |
 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 | 2022-07-08 | 2022-12-03 |
 | [It Ain't Easy](https://open.spotify.com/track/56ReCzcMty0YgfutYrQsDO) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [It Ain't Easy](https://open.spotify.com/album/2JTJ2I5P2l6DrF7oHiP3zk) | 3:55 | 2022-12-09 | 2023-06-10 |
+| [IT'S ONLY YOU](https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:28 | 2024-01-26 |  |
 | [It's You](https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [PHILEO Deluxe](https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM) | 3:02 | 2023-03-10 | 2023-10-21 |
 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 | 2022-12-16 | 2023-05-20 |
 | [It’s Not Me, It’s You \(feat\. Destin Conrad\)](https://open.spotify.com/track/2N6s3852GdbqhV29or63En) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:45 | 2023-07-14 | 2023-11-18 |
@@ -414,7 +415,7 @@
 | [Let This Go](https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Let This Go](https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V) | 2:57 | 2023-10-27 |  |
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-19 | 2022-09-10 |
 | [LIE TO ME](https://open.spotify.com/track/7ASpmYX408cN5tkmjvKTCN) | [Siergio](https://open.spotify.com/artist/6PSc1olsEQHlpmi4MRIBFP) | [BEFORE IT'S TOO LATE](https://open.spotify.com/album/1t43eH5HnqYEtadR8amnr8) | 4:24 | 2022-09-30 | 2023-02-04 |
-| [LIFE BEEN LIFIN'](https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 |  |
+| [LIFE BEEN LIFIN'](https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 | 2024-01-27 |
 | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 3:17 | 2022-07-08 | 2023-05-20 |
 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-04-15 | 2022-11-05 |
 | [Like Her Too](https://open.spotify.com/track/2prgEUNls0vlOlZoDzTw5m) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Like Her Too](https://open.spotify.com/album/4oRAaZA9TrNiR3ARRkAvWl) | 2:58 | 2023-01-06 | 2023-05-20 |
@@ -644,6 +645,7 @@
 | [Say Less](https://open.spotify.com/track/1iSkgpFIPBTvaCTYr0XoFq) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 2:24 | 2022-07-15 | 2023-01-21 |
 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 | 2022-10-21 | 2023-06-10 |
 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 | 2019-07-10\* | 2019-09-04 |
+| [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 | 2024-01-26 |  |
 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 | 2022-11-04 | 2023-04-09 |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2023-03-18 |
 | [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 | 2023-03-24 | 2023-06-17 |

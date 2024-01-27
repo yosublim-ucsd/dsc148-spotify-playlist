@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 71264,
+  "2024-01-27": 71297,
   "date_first_scraped": "2022-01-02",
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
   "name": "Folklore Rom\u00e1ntico ",
@@ -557,6 +557,24 @@
       "duration_ms": 320085,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
+    },
+    {
+      "album": {
+        "name": "Nocheros en la mesa",
+        "url": "https://open.spotify.com/album/3rIFawBWx7xjzgaQxJtvXb"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198165,
+      "name": "De cal y arena",
+      "url": "https://open.spotify.com/track/7lDKZo7VfclV6Btc9Cbhcq"
     },
     {
       "album": {
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 301800,
       "name": "Mucho M\u00e1s Que Piel",
       "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"

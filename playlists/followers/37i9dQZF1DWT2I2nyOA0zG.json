@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 17001,
+  "2024-01-27": 16998,
   "date_first_scraped": "2021-12-29",
   "description": "Cool vibes from the African continent.",
   "name": "Afrocentric",
@@ -141,6 +141,24 @@
       "duration_ms": 416417,
       "name": "Africa (Main Mix)",
       "url": "https://open.spotify.com/track/2ysx1y1Ump2gvFdCTQbYRK"
+    },
+    {
+      "album": {
+        "name": "Africa - 55 Nations",
+        "url": "https://open.spotify.com/album/4y1RU8xYrb7o89agVe37HU"
+      },
+      "artists": [
+        {
+          "name": "The Matsiko World Orphan Choir",
+          "url": "https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Africa - 55 Nations",
+      "url": "https://open.spotify.com/track/2Y21R10iBI0x7mMBetqONa"
     },
     {
       "album": {
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 154112,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/6QOFnwFRoiB5M6nSiHjvPj"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 183536,
       "name": "Earth Song",
       "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 262105,
       "name": "Free (Sounds for Healing)",
       "url": "https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 159914,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 210000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp"
@@ -2654,6 +2672,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Let Me Go (Acoustic)",
+      "url": "https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq"
+    },
+    {
+      "album": {
         "name": "Let Them Know",
         "url": "https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73"
       },
@@ -2705,7 +2741,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 182819,
       "name": "Logba Logba",
       "url": "https://open.spotify.com/track/0UYyNBBFrseB1Nb690QKHM"
@@ -2759,7 +2795,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 205714,
       "name": "Love Don't Cost A Dime",
       "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
@@ -3101,7 +3137,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 176766,
       "name": "Miss You Bad",
       "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
@@ -3232,6 +3268,32 @@
     },
     {
       "album": {
+        "name": "Mphakele (Edit)",
+        "url": "https://open.spotify.com/album/0G1VGyPWopUa9EfYUmfmtM"
+      },
+      "artists": [
+        {
+          "name": "No Idea",
+          "url": "https://open.spotify.com/artist/4SALNAaGSomqhqpnazJdd5"
+        },
+        {
+          "name": "Mesh ToniQ",
+          "url": "https://open.spotify.com/artist/1OBYPqsX8TSKfB5VLA61hF"
+        },
+        {
+          "name": "Kage Rage",
+          "url": "https://open.spotify.com/artist/2AOPJvIJ4iqVfu9BGVIfHc"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182138,
+      "name": "Mphakele - Edit",
+      "url": "https://open.spotify.com/track/0idezpzHDMzKs36F7AxAA7"
+    },
+    {
+      "album": {
         "name": "Mumu",
         "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
@@ -3359,10 +3421,28 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225767,
       "name": "My Size",
       "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
+    },
+    {
+      "album": {
+        "name": "Na lingi ye seko",
+        "url": "https://open.spotify.com/album/3feNeO8XG0yxYM7wXkpK1L"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Na lingi ye seko",
+      "url": "https://open.spotify.com/track/7GucUpV4mTCyPaevmI3ipa"
     },
     {
       "album": {
@@ -4632,6 +4712,24 @@
     },
     {
       "album": {
+        "name": "Sare Jokes",
+        "url": "https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Sare Jokes",
+      "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
+    },
+    {
+      "album": {
         "name": "Super Morio",
         "url": "https://open.spotify.com/album/2ZPizhglbQL7gSabTZFQnP"
       },
@@ -4975,7 +5073,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174000,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6YKFm46tDMGq1l9nuEhnzR"

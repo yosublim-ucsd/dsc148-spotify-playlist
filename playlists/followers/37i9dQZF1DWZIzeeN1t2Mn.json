@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 52872,
+  "2024-01-27": 52872,
   "date_first_scraped": "2022-05-11",
   "description": "Hymns and anthems of artists stepping  into the culture at large! Speak truth. Cover; Joshua Luke Smith",
   "name": "Speak Into Chaos",
@@ -1528,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "Early In The Morning (Bonus Version)",
+        "url": "https://open.spotify.com/album/1hqx7QxediDedheKHu9aVB"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293792,
+      "name": "We Don't Eat",
+      "url": "https://open.spotify.com/track/4UDgV4eVcO7R9yaLthdgDP"
+    },
+    {
+      "album": {
         "name": "Early in the Morning (Bonus Version)",
         "url": "https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I"
       },
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 293800,
       "name": "We Don't Eat",
       "url": "https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM"

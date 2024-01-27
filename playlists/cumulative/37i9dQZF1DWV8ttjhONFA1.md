@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Isla Mujeres
+> El nuevo sonido argentino lo encontrás acá\. Foto: wiranda johansen
 
-95 songs - 5 hr 9 min
+97 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-12-15 |  |
 | [Buen día](https://open.spotify.com/track/1KudG9EH6Gga8GGMlmX6iu) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Buen día](https://open.spotify.com/album/7rPvyhpzjEeqxmiwi1yVyZ) | 3:35 | 2023-12-15 |  |
 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 | 2023-12-15 |  |
-| [Calor](https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Calor](https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0) | 3:44 | 2023-12-15 |  |
+| [Calor](https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Calor](https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0) | 3:44 | 2023-12-15 | 2024-01-27 |
 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-15 |  |
 | [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 | 2023-12-15 |  |
 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 | 2023-12-15 |  |
@@ -33,6 +33,7 @@
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 | 2023-12-15 |  |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 |  |
 | [Dicen](https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 3:45 | 2023-12-15 |  |
+| [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 | 2024-01-26 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-12-15 |  |
 | [Día Especial](https://open.spotify.com/track/71UEdUX4HDUellHqmlQfKn) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [Día Especial](https://open.spotify.com/album/769NNJgkByGNAMpogVfFCR) | 4:07 | 2023-12-15 |  |
 | [El Cielo](https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [El Cielo](https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn) | 4:19 | 2023-12-15 |  |
@@ -44,7 +45,7 @@
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-12-15 |  |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-12-15 |  |
 | [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-12-15 |  |
-| [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 | 2023-12-15 |  |
+| [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 | 2023-12-15 | 2024-01-27 |
 | [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2023-12-15 |  |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-12-15 |  |
 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
@@ -54,6 +55,7 @@
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-12-15 |  |
 | [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 | 2024-01-12 |  |
+| [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 | 2024-01-26 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-12-15 |  |
 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 | 2024-01-20 |
 | [Mate Cocido](https://open.spotify.com/track/7pzaXobuXJswLGP90nJoLd) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Mate Cocido](https://open.spotify.com/album/0jW37dUj9crNPduuT0vlFc) | 3:55 | 2023-12-15 |  |

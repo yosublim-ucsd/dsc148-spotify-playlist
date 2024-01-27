@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,599 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,594 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 99 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 |
 | 100 | [Sometimes](https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:59 |
 
-Snapshot ID: `MCxkMDc1ODViMTk3YWE1NGQ2NDdjNDIwYzc4MTA3YjM3NjgzNjZmMTll`
+Snapshot ID: `MCw5Y2EyZTQ1YmExYThjZDNjNzgyNTZhOTc3NTZmZjQ5MjhkZWEyMTM2`

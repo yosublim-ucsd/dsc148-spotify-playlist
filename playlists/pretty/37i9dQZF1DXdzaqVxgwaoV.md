@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,447 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,401 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 |
 | 80 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 |
 
-Snapshot ID: `MCw3MzA5NGE2OWM2MmIxZTQ0OGUwNTg2ZDJkZTdhYjg3ODYxYjQ1MzM5`
+Snapshot ID: `MCxiNzdhZTg2M2NhNWZmYzJmZDVlM2IxYTMwNjY3NjAzMDU2M2E5ODVi`

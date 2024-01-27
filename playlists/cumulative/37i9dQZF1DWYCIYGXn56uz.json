@@ -4671,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134302,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
+    },
+    {
+      "album": {
         "name": "RESTO IN CHILL",
         "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
       },

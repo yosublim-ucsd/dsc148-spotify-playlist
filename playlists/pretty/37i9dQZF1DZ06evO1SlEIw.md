@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,908 likes - 26 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,915 likes - 26 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 25 | [巫女の祈り \- Strings Quartet Version](https://open.spotify.com/track/4efVZMDuSOBKJRmyxUCFYd) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 3:29 |
 | 26 | [虚ろな月の下で \- Vocalized Version](https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 2:35 |
 
-Snapshot ID: `Mjg0MzY0MjYsMDAwMDAwMDBlZDQ2ODRmYjg2ODQ0MzExY2RiNjM3ODYzN2NhNDY1MQ==`
+Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBmNzdiZDk0MzE5YTc0ZTk4ZDdiOWE2NjY5NmVmNDllNg==`

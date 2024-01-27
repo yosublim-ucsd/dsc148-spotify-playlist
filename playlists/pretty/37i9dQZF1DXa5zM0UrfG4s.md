@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,057 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,067 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Rom & Cola](https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Rom & Cola](https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU) | 2:12 |
 | 70 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
 
-Snapshot ID: `MCxiOTg0ZDBiMmE2MTIyZTA0MWJlMDg4NzUxYmRkZDM1OWUxN2Q4ZTQ3`
+Snapshot ID: `MCwwNjBhYWViNWI3OTFkMmE4YzMwNmQ1NWNmODMyMTE0N2Q4MmU5ZDZk`

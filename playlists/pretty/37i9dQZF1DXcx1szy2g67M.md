@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,164 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,251 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
 | 90 | [Dating The Devil](https://open.spotify.com/track/6Ke5dZvbqRmjTGCZEjFBqB) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Dating The Devil](https://open.spotify.com/album/6guX1X73FritPfc4b7Yi7d) | 3:00 |
 
-Snapshot ID: `MCw3NzNiYTQ3YTczNGY4NjY5ZjNkN2Q2MmQxYTI4M2Y2OTcyNDZkMGUw`
+Snapshot ID: `MCwxZTA3MGNiNTE0MGU3MDdiM2UyNmUzNWJiODExODA0NjdlY2ZmM2E2`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1072509,
+  "2024-01-27": 1072858,
   "date_first_scraped": "2023-08-09",
   "description": "No te contaron mal... este hombre es el mero-mero del mariache\u00f1o.",
   "name": "This Is Christian Nodal",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 139813,
       "name": "Anoche Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/59iaqF7XLiSXmI9Mz7Xcu8"
@@ -453,6 +453,28 @@
       "duration_ms": 210688,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
+    },
+    {
+      "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "album": {

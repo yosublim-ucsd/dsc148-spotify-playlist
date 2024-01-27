@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,826 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,858 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 2:53 |
 | 75 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 |
 
-Snapshot ID: `MCxlMDIxMWE1YTc3NDY1MTE2OWI2ZDJhZTIyYTU3MTZiNTlkMmE3N2Nk`
+Snapshot ID: `MCwyMTI3YzM4ZWEyMjJmOGRlNGZiZmIxMzE4YWZiMTY1YTZhMWJmM2Y2`

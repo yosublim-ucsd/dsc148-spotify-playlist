@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,824 likes - 200 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,931 likes - 200 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 | 199 | [It's Only Natural](https://open.spotify.com/track/1oSPStIOjKzNhPqCU1xXVi) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:32 |
 | 200 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 |
 
-Snapshot ID: `MCxjODNiZDk0MTU4ZmU5OWE0NTE1Y2ViMmQxNGQzYjJjODg3MTExNzk2`
+Snapshot ID: `MCxmNTcwOTc4YzljNzg0NmRmOWNkMjU2MDg2NmM4MmY1YjkxZTlhOTI5`

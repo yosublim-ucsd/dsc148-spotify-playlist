@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,748 likes - 170 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,838 likes - 170 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 169 | [Comfortable Ease](https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Comfortable Ease](https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0) | 1:56 |
 | 170 | [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 |
 
-Snapshot ID: `MCxmZjgwOTc5ZWMyNDNmMmRjOTg5ZDc0NGEyMzc4YWUzMWFkY2UwZDUz`
+Snapshot ID: `MCw0MWQyZTc1M2Q2NTZjZWYyZDM4ZmU1ODQwZTk1MmVhNjQwZTFkYzZj`

@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157140,
+      "name": "7am (feat. Vit\u00e3o)",
+      "url": "https://open.spotify.com/track/4j1ofdMqxZFDXknkrZCdTl"
+    },
+    {
+      "album": {
         "name": "916LOVE",
         "url": "https://open.spotify.com/album/2JFDR5i0LRxMNPJwq3em1D"
       },
@@ -296,7 +322,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
@@ -3539,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "Lugar Que Se Quis",
+        "url": "https://open.spotify.com/album/1ejAjlcuaNVgVy3fF4E8no"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Macucos",
+          "url": "https://open.spotify.com/artist/1qJP6ffWdFrWt0gIclIS9J"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Lugar Que Se Quis",
+      "url": "https://open.spotify.com/track/4vXEOt0jvNJWDkjTEpiK2A"
+    },
+    {
+      "album": {
         "name": "Luz Acesa",
         "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
       },
@@ -3984,7 +4032,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175208,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
@@ -5213,6 +5261,32 @@
     },
     {
       "album": {
+        "name": "Oxossi",
+        "url": "https://open.spotify.com/album/73QzmgHwhXvBE3xKuBMT25"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tatit",
+          "url": "https://open.spotify.com/artist/3oBYo87KeKu6tMgg9YHfqP"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204131,
+      "name": "Oxossi",
+      "url": "https://open.spotify.com/track/4YqPRJQN7eutRyyEYNBftJ"
+    },
+    {
+      "album": {
         "name": "PAIRAR\u00c1",
         "url": "https://open.spotify.com/album/4LUSJnaImzU16fl6XvcV5W"
       },
@@ -5972,10 +6046,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 137435,
       "name": "Quadrantes",
       "url": "https://open.spotify.com/track/4c0D88soVytSSLYS0m3FCl"
+    },
+    {
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "Qual \u00c9",
+      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
     },
     {
       "album": {
@@ -6230,7 +6326,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 141130,
       "name": "Risco de se Apaixonar",
       "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"

@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Naomi Sharon
 
-298 songs - 16 hr 26 min
+299 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Need Somebody \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:18 | 2023-09-15 | 2023-11-10 |
 | [Need You \- feat\. Zion Foster](https://open.spotify.com/track/4xBgDcn4YbojVTPRbr8I4H) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [Älskar Nights \(Deluxe Version\)](https://open.spotify.com/album/7nihXiQT5BVrsOe0SUgwtq) | 3:09 | 2022-12-22 | 2023-03-03 |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-19 | 2023-09-29 |
+| [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-25 |  |
 | [No Feelings](https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [No Feelings](https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w) | 2:49 | 2023-04-20 | 2023-07-07 |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-13 | 2023-08-18 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-14 |  |

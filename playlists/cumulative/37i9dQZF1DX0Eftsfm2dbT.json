@@ -8424,7 +8424,7 @@
     {
       "album": {
         "name": "VEETHOV3N",
-        "url": "https://open.spotify.com/album/5RA2IltJeXBUaPlyTto16s"
+        "url": "https://open.spotify.com/album/11gwuit4cLqR3mnEW2Z26L"
       },
       "artists": [
         {
@@ -8443,6 +8443,32 @@
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164500,
+      "name": "VEETHOV3N",
+      "url": "https://open.spotify.com/track/4grS0qdeitPb5QSxuiVBSm"
+    },
+    {
+      "album": {
+        "name": "VEETHOV3N",
+        "url": "https://open.spotify.com/album/5RA2IltJeXBUaPlyTto16s"
+      },
+      "artists": [
+        {
+          "name": "L.O.S.T",
+          "url": "https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV"
+        },
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm"
+        },
+        {
+          "name": "BiLL",
+          "url": "https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-27",
       "duration_ms": 164500,
       "name": "VEETHOV3N",
       "url": "https://open.spotify.com/track/5CCCQpO7tMVOBxxqoG20uv"
@@ -8714,6 +8740,28 @@
       "duration_ms": 253526,
       "name": "Wasurenaide",
       "url": "https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8"
+    },
+    {
+      "album": {
+        "name": "WHAT'S LOVE",
+        "url": "https://open.spotify.com/album/580v4C06eooVarwvKIVinB"
+      },
+      "artists": [
+        {
+          "name": "DALU",
+          "url": "https://open.spotify.com/artist/67tSyT2pC7ainhBp14h78c"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "WHAT'S LOVE",
+      "url": "https://open.spotify.com/track/0y2uEuPP9TnWNJdztKuoQs"
     },
     {
       "album": {

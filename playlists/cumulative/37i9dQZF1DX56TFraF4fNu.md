@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Doble Porción, Mañas Ru\-Fino & Métricas Frías
 
-135 songs - 7 hr 4 min
+136 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CHOLAO](https://open.spotify.com/track/6xKlwlSZg8QLcB2Rqt7GJe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CHOLAO](https://open.spotify.com/album/608gBIUYFg215UiVKSd2cY) | 3:04 | 2023-04-14 | 2023-06-24 |
 | [CHÉVERE](https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA) | [CHÉVERE](https://open.spotify.com/album/1UHDzDHdvndCypdFrudyGY) | 2:26 | 2023-12-22 |  |
 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 | 2023-03-31 | 2023-06-24 |
+| [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 |  |
 | [De 0 a Siempre](https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De 0 a Siempre](https://open.spotify.com/album/2s8Wgg7X68n41ZGuwTmqjd) | 4:08 | 2023-03-31 | 2023-07-08 |
 | [De Por Vida](https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS) | 3:04 | 2023-12-22 |  |
 | [De Todo Un Poco](https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [De Todo Un Poco](https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC) | 3:15 | 2023-03-31 | 2023-04-15 |
@@ -74,7 +75,7 @@
 | [ke será de mí](https://open.spotify.com/track/2Nbv8V7VtWUohwHmtFBJ9y) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 2:43 | 2023-06-23 | 2023-08-26 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2023-03-31 |  |
 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-07 |  |
-| [LA ROMPE CORAZONES \(feat\. Hozwal\)](https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [365 días de aguante](https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC) | 3:30 | 2023-12-22 |  |
+| [LA ROMPE CORAZONES \(feat\. Hozwal\)](https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [365 días de aguante](https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC) | 3:30 | 2023-12-22 | 2024-01-27 |
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-08-25 |  |
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2023-03-31 | 2023-09-23 |
 | [Lejanía](https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Lejanía](https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE) | 3:54 | 2023-03-31 |  |

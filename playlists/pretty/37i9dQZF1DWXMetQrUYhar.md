@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,571 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,563 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 |
 | 125 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6ZVANvsOAOxSqmqYhulqbd) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb) | 4:52 |
 
-Snapshot ID: `MCxlOTRmNTUxNWViMjE1Mzg1YzhhZjlmOTY1OGMzODgxNDk2MWJhNjg2`
+Snapshot ID: `MCwwZGE5YjYyMTFlYjc4ODk4ZDRiZjg0ODgxNDU2ZmVjYmQxMDQ0ZGZm`

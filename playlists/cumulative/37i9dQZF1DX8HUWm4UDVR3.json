@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Vanves",
+        "url": "https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK"
+      },
+      "artists": [
+        {
+          "name": "Distractions",
+          "url": "https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230458,
+      "name": "Vanves",
+      "url": "https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn"
+    },
+    {
+      "album": {
         "name": "Vent violent",
         "url": "https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO"
       },

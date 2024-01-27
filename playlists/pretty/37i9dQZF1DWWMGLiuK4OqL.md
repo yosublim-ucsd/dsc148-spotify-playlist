@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,651 likes - 200 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,749 likes - 200 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Staring Into White Walls](https://open.spotify.com/track/5Sunm8iWEHL5jMSHiqd62H) | [Alicia Lindberg](https://open.spotify.com/artist/7olGmzxfAsFE0TFAuxCotD), [Eskil Larsson](https://open.spotify.com/artist/618NVxS1XfPDmUJ68LWTPF), [Mattias Nyman](https://open.spotify.com/artist/5NHKT8vpmjaoMmuvXFFv9G), [Hilda Nordkvist](https://open.spotify.com/artist/0xH3M8dxavkf939mIU8QxE), [Elias Larsson](https://open.spotify.com/artist/16qMwtaTzOyBZjrZXgRTI3) | [Before You Go](https://open.spotify.com/album/3cqgWVLpeBiswAWqbuhD98) | 6:23 |
 | 200 | [Disclosure](https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Disclosure](https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ) | 4:47 |
 
-Snapshot ID: `MCxhOWY0YzY4MWIzZmMzMWM2ZTc0NDYxNDE0YWNmZDEwMDAzYjY2ZGYw`
+Snapshot ID: `MCxlZjIyNTc2YTljZDVlMTk2NTkxY2M2YWEwYzgwOWU4Njg4YmRhNTJj`

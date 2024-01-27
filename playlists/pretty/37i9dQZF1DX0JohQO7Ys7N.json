@@ -1,12 +1,12 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
-  "num_followers": 26624,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
+  "num_followers": 26643,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQ2NzZmYzFkNTZkMjg1NDA3NmRiNjU2NWRkMzQ5MmNiNzZhYTYw",
+  "snapshot_id": "MCw1MzBkNDg5YmE0OGIxMGRmMWRhZmI4Mjg5NmM4MDUyMmNlYmZjNDc1",
   "tracks": [
     {
       "added_at": "2024-01-19 17:53:19",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-19 17:53:19",
       "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
-        }
-      ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
       },
@@ -59,22 +43,6 @@
     {
       "added_at": "2024-01-19 17:53:19",
       "album": {
-        "name": "Feelings Station",
-        "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
-      },
-      "artists": [
-        {
-          "name": "Moraa",
-          "url": "https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Fire on Fire",
-      "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
         "name": "Qwarantunes",
         "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
       },
@@ -87,6 +55,38 @@
       "duration_ms": 262798,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+    },
+    {
+      "added_at": "2024-01-26 04:17:28",
+      "album": {
+        "name": "Closer To Me",
+        "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 164663,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
+    },
+    {
+      "added_at": "2024-01-19 17:53:19",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
       "added_at": "2024-01-19 17:53:19",
@@ -135,6 +135,22 @@
       "duration_ms": 232173,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "added_at": "2024-01-19 17:53:19",
+      "album": {
+        "name": "Feelings Station",
+        "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
+      },
+      "artists": [
+        {
+          "name": "Moraa",
+          "url": "https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Fire on Fire",
+      "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
     },
     {
       "added_at": "2024-01-19 17:53:19",
@@ -1043,22 +1059,6 @@
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Hivyo",
-        "url": "https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Hivyo",
-      "url": "https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw"
     },
     {
       "added_at": "2024-01-19 17:53:19",

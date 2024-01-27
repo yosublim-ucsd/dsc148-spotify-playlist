@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYzTSrc7SiSZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzTSrc7SiSZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzTSrc7SiSZ)
 
-### [Chill Latino](https://open.spotify.com/playlist/37i9dQZF1DWYzTSrc7SiSZ)
+### [chill latino](https://open.spotify.com/playlist/37i9dQZF1DWYzTSrc7SiSZ)
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 

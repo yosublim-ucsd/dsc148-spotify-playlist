@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 27430,
+  "2024-01-27": 27444,
   "date_first_scraped": "2023-01-05",
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "Sinego's track IDs",
@@ -192,6 +192,28 @@
     },
     {
       "album": {
+        "name": "Altura",
+        "url": "https://open.spotify.com/album/1U1CyTLlHJ1gWcR8468MtV"
+      },
+      "artists": [
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+        },
+        {
+          "name": "Sasha Wrist",
+          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352874,
+      "name": "Altura",
+      "url": "https://open.spotify.com/track/6paoKrVdn8tBVYyHJBy3qt"
+    },
+    {
+      "album": {
         "name": "The Editz Pt1",
         "url": "https://open.spotify.com/album/0y19ZERTX8lzrBgWbMHLK7"
       },
@@ -225,7 +247,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 406000,
       "name": "AMOROS",
       "url": "https://open.spotify.com/track/0onFGGXCx5OgGgR4G5nqQ8"
@@ -287,6 +309,24 @@
       "duration_ms": 353621,
       "name": "Atomic Alchemy - Original",
       "url": "https://open.spotify.com/track/2sntzWf1oa90KGpqDb9pPX"
+    },
+    {
+      "album": {
+        "name": "Ay Ay",
+        "url": "https://open.spotify.com/album/3loKmWn8CS98SJ9fYvTSDM"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316948,
+      "name": "Ay Ay",
+      "url": "https://open.spotify.com/track/4uEK01LoXTEbZZe7CBWYIz"
     },
     {
       "album": {
@@ -792,6 +832,32 @@
     },
     {
       "album": {
+        "name": "Canyon (Moullinex remix)",
+        "url": "https://open.spotify.com/album/7C1vJJjxAKJ3QmeimYbw4Q"
+      },
+      "artists": [
+        {
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295790,
+      "name": "Canyon - Moullinex Remix",
+      "url": "https://open.spotify.com/track/2PjBHWaHznTOFg60QSpbUB"
+    },
+    {
+      "album": {
         "name": "Caracas Way",
         "url": "https://open.spotify.com/album/1ECCcONLH2gwtFcxXzbEh4"
       },
@@ -891,7 +957,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 231488,
       "name": "Cocora (A la fuente)",
       "url": "https://open.spotify.com/track/44zDB43d3t6YSS7UFDK5Lb"
@@ -979,6 +1045,32 @@
       "duration_ms": 288813,
       "name": "De Anda - Bonus Track",
       "url": "https://open.spotify.com/track/7sjk5iceNdb0w5ev1H42VM"
+    },
+    {
+      "album": {
+        "name": "Delakufa",
+        "url": "https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL"
+      },
+      "artists": [
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB"
     },
     {
       "album": {
@@ -1115,7 +1207,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 340125,
       "name": "Does It Matter - Ajna (BE) Remix",
       "url": "https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5"
@@ -1307,6 +1399,32 @@
       "duration_ms": 424000,
       "name": "Ene Nyame",
       "url": "https://open.spotify.com/track/3zKyS1rZ4eLCGBvZ4vj1b5"
+    },
+    {
+      "album": {
+        "name": "R\u00e9ciprocit\u00e9",
+        "url": "https://open.spotify.com/album/6AwGQlrNSc9q7WI20Ojb6i"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "OSABA",
+          "url": "https://open.spotify.com/artist/2PzdrOVsz76n2iBcca58L2"
+        },
+        {
+          "name": "Francis Coletta",
+          "url": "https://open.spotify.com/artist/6qBX3cp5fWdIsYDfbkHb3S"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224595,
+      "name": "Esa Gitana",
+      "url": "https://open.spotify.com/track/63WvgXIq6tYmnKe0hhqm9G"
     },
     {
       "album": {
@@ -1672,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/7xDHGRg5PuEyiD38LrcVzN"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260629,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/0Ftna4jjTEiXBgN7TydtqK"
+    },
+    {
+      "album": {
         "name": "The Early Years",
         "url": "https://open.spotify.com/album/3iDqTksxFpWpZiL7PeymTy"
       },
@@ -1783,6 +1919,24 @@
       "duration_ms": 256470,
       "name": "It's a Joke",
       "url": "https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV"
+    },
+    {
+      "album": {
+        "name": "Best of 2022 (Extended Mixes)",
+        "url": "https://open.spotify.com/album/38CsEBU7YKcgJMB5PKhrWF"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "Izegbe - Extended Mix",
+      "url": "https://open.spotify.com/track/7oPhXLKrS231QW3jgieXXh"
     },
     {
       "album": {
@@ -2049,6 +2203,32 @@
       "duration_ms": 439315,
       "name": "Liberta",
       "url": "https://open.spotify.com/track/2Y25L6nAuzZrLrt3w9J9iE"
+    },
+    {
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/1nH5x8lJWoCtWUTD7gnjd7"
+      },
+      "artists": [
+        {
+          "name": "Murmusica",
+          "url": "https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY"
+        },
+        {
+          "name": "TAI",
+          "url": "https://open.spotify.com/artist/6PNofY2OXuhLu0R8stkGLh"
+        },
+        {
+          "name": "Tolga Bilgin",
+          "url": "https://open.spotify.com/artist/2n0mROXhyTtUEk8cb8Fyck"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364509,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/717rz2nyFu8hXlN2UmbjY2"
     },
     {
       "album": {
@@ -2345,7 +2525,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 318238,
       "name": "Melodia - Mollono.Bass Remix",
       "url": "https://open.spotify.com/track/7bD7xuMwpUAXbYvtw20V7D"
@@ -2597,7 +2777,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 369021,
       "name": "Naidi - Xinobi Remix",
       "url": "https://open.spotify.com/track/0tcCFrFJqartcXjaTre8m1"
@@ -2677,7 +2857,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 323754,
       "name": "Next to Me (Eduze Kwami)",
       "url": "https://open.spotify.com/track/6ePYgUb7cn9xmASV4urKt5"
@@ -3149,7 +3329,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 315080,
       "name": "Ride me High",
       "url": "https://open.spotify.com/track/53pZpvUuvvVzxwNKEjsU7D"
@@ -3621,7 +3801,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 414000,
       "name": "Sonini",
       "url": "https://open.spotify.com/track/3QkruQGnBhOLb0MyiAqxLm"
@@ -3807,7 +3987,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 248748,
       "name": "The Rain - Kerala Dust Version",
       "url": "https://open.spotify.com/track/6zFwRrM8nmgjH13E0XFYH5"
@@ -3914,6 +4094,46 @@
     },
     {
       "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS"
+      },
+      "artists": [
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251671,
+      "name": "The Veil",
+      "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"
+    },
+    {
+      "album": {
+        "name": "THENA",
+        "url": "https://open.spotify.com/album/4DWJB7IeNbj2DBMR4ToDvR"
+      },
+      "artists": [
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228408,
+      "name": "THENA",
+      "url": "https://open.spotify.com/track/51uYK67ibD34UeJc63pAeU"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -3929,6 +4149,24 @@
       "duration_ms": 272000,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
+    },
+    {
+      "album": {
+        "name": "Tratado",
+        "url": "https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254902,
+      "name": "Tratado",
+      "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
     },
     {
       "album": {
@@ -4051,10 +4289,32 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "album": {
+        "name": "Seba Campos Una Hormiga",
+        "url": "https://open.spotify.com/album/3pRqQGvI382JwDe0rGimQB"
+      },
+      "artists": [
+        {
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
+        },
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338081,
+      "name": "Una Hormiga - Kermesse Remix",
+      "url": "https://open.spotify.com/track/6xrxNPYXYGL6rmeCn8wE7Z"
     },
     {
       "album": {
@@ -4135,7 +4395,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 319175,
       "name": "Valente",
       "url": "https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t"
@@ -4249,7 +4509,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 394838,
       "name": "Vibraci\u00f3n C\u00f3smica",
       "url": "https://open.spotify.com/track/07tVofOmZNDkhLJN7oFEaa"
@@ -4267,7 +4527,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 360991,
       "name": "Viento - Extended Mix",
       "url": "https://open.spotify.com/track/1NK5Xdk6mzz3QbkrDfCiRV"
@@ -4421,6 +4681,24 @@
       "duration_ms": 251084,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/335GzS0E9yNFjLgXTqJSU7"
+    },
+    {
+      "album": {
+        "name": "Wonim",
+        "url": "https://open.spotify.com/album/1KUWYlFpXASnla20utb3sT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rateuke",
+          "url": "https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170655,
+      "name": "Wonim",
+      "url": "https://open.spotify.com/track/2jgIr4YeZEybyIYThVWTlB"
     },
     {
       "album": {

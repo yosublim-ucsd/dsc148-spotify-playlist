@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 252764,
+  "2024-01-27": 252714,
   "date_first_scraped": "2020-10-20",
   "description": "Laissez-vous porter par la playlist lo-fi",
   "name": "Chill Beats",
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 141085,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4eylVOfeUpDJQrDj58KrdR"
@@ -2057,6 +2057,32 @@
       "duration_ms": 119156,
       "name": "La Cienega",
       "url": "https://open.spotify.com/track/7qzuwMS8wVfmoC8430eilc"
+    },
+    {
+      "album": {
+        "name": "Laidback",
+        "url": "https://open.spotify.com/album/1hOZLvVtxrusTKNBoiPCXi"
+      },
+      "artists": [
+        {
+          "name": "7&Nine",
+          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
+        },
+        {
+          "name": "IONA",
+          "url": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
+        },
+        {
+          "name": "Jason Masoud",
+          "url": "https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122580,
+      "name": "Laidback",
+      "url": "https://open.spotify.com/track/4m9jblUj3gs3FWIScji4tZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,704 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,785 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 7 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 8 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 |
 | 9 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
-| 10 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 |
+| 10 | [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 |
 | 11 | [Love Supreme!](https://open.spotify.com/track/4kUsEPxZeNi59diQNDGroY) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Cipher](https://open.spotify.com/album/6iRdVAMzvCIlTOU3VghPpo) | 4:42 |
 | 12 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 13 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 17 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 |
 | 18 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 19 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 |
-| 20 | [強くて弱くて愛しくて](https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [強くて弱くて愛しくて](https://open.spotify.com/album/0oW5heg3arTMvuEwI8WZmu) | 3:13 |
+| 20 | [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/track/6K3VLQ6FhwGubGX39fBrGC) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [Tsuyokute Yowakute Itoshikute](https://open.spotify.com/album/06jM2JKRUkEZzLD3scqrK4) | 3:13 |
 | 21 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 22 | [WE ARE THE FUTURE](https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [キャロル・マールス・ディーンハイム\(CV:水瀬いのり\)](https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 4:02 |
-| 23 | [ALPINA](https://open.spotify.com/track/2wjOBd1d4arwtLJSHNMxfO) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf) | 4:06 |
+| 23 | [ALPINA](https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N) | 4:06 |
 | 24 | [Shinshin Muso no Ken ni Nare](https://open.spotify.com/track/7p4RhJ9eryGdHeGnx467OS) | [羽前京香\(CV:鬼頭明里\)](https://open.spotify.com/artist/52ky9tegM9Sdirv6I8Ok1q) | [Shinshin Muso no Ken ni Nare](https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk) | 3:09 |
 | 25 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
 | 26 | [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ULTRA FLASH](https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES) | 4:03 |
 | 50 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 |
 
-Snapshot ID: `MCxlY2E4NmFhZWQxMmI0MGZhYTVhNjg4NTZkMGY2ZjdhMDUxYmU1NTE3`
+Snapshot ID: `MCw1NjQxMWVmZTY0MzlmNjNkYTVhMDgzZWVhOTA4ZGVmZmM2YTcyOGJm`

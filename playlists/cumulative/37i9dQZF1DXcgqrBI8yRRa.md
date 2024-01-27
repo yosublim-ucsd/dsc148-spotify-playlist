@@ -2,9 +2,9 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> Sugar mummy of Lagos
+> "Ice Spice looks so Igbo\. Like her name is Chisom"
 
-362 songs - 20 hr 9 min
+363 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-13 | 2023-04-12 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2023-07-06 | 2023-11-23 |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-10-19 | 2023-02-17 |
-| [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 | 2024-01-15 |  |
+| [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 | 2024-01-15 | 2024-01-27 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-18 | 2023-06-27 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-16 | 2023-07-07 |
 | [Plenty \(Too Trendy\)](https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Plenty \(Too Trendy\)](https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE) | 2:47 | 2023-07-06 | 2023-11-23 |
@@ -321,6 +321,7 @@
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-03-28 | 2022-08-09 |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-06-26 | 2023-07-07 |
 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 | 2023-06-12 | 2023-06-27 |
+| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 |  |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-06-26 | 2023-07-07 |
 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 | 2021-10-19 | 2022-02-02 |
 | [Time Machine](https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:42 | 2022-02-01 | 2022-03-30 |

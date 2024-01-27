@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 4 hr 46 min
+73 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Drowning](https://open.spotify.com/track/7rBMPlE0MXMgYLRtqkN8gt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:45 | 2022-05-24 |  |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2022-05-24 |  |
 | [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 | 2022-05-24 | 2022-10-13 |
-| [FANTAZIA](https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj) | 5:36 | 2022-05-24 |  |
+| [FANTAZIA](https://open.spotify.com/track/5YcJp0fqzgYQodloOnwEIl) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/6liZ25En8EvCQlsidM65Oe) | 5:36 | 2022-05-24 |  |
+| [FANTAZIA](https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj) | 5:36 | 2022-05-24 | 2024-01-27 |
 | [Flashing](https://open.spotify.com/track/3qJ7uiN8W7ykxSVZ1lvdLs) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Flashing](https://open.spotify.com/album/5gMxG9aZ8LC5E5D8hUm73V) | 2:40 | 2022-05-24 |  |
 | [Formation \- Otik Remix](https://open.spotify.com/track/4uZwxFVkVq8fxHad28l4eh) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Formation \(Otik Remix\)](https://open.spotify.com/album/7olsXD3uHGnExYSKHnW0lf) | 7:16 | 2022-05-24 |  |
 | [Friendly](https://open.spotify.com/track/6RpCmGSiaF8x4hAPy1gNwO) | [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Quilt Jams](https://open.spotify.com/album/3bEXGkOqaDFmM62M9zm67H) | 2:14 | 2022-05-24 |  |

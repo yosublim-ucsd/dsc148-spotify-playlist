@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,691 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,668 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Everybody Lets You Down](https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [Everybody Lets You Down](https://open.spotify.com/album/22691Ekpew0aRVYenq16dD) | 3:32 |
 | 80 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
 
-Snapshot ID: `MCw4NjE3MTRhNzNmOTk0NTQ0M2FlMjk2Njc2Y2E2NDUwZTY2ZDdiYTAw`
+Snapshot ID: `MCwxNmRkOTY0YzU1YmJmZDljZjkxY2JlNGQyZmYyMjA4MjBkYWJjOTQx`

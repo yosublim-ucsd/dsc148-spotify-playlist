@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 114410,
+  "2024-01-27": 114409,
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Lime Garden",
+  "description": "The best in current indie rock. Cover: NewDad",
   "name": "pulp",
   "tracks": [
     {
@@ -1137,6 +1137,24 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249751,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
     },
     {
       "album": {
@@ -4011,7 +4029,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 153501,
       "name": "I Want To Be You",
       "url": "https://open.spotify.com/track/5ZMN6Zhr1A90CpaeDwL4GY"
@@ -4267,7 +4285,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 178305,
       "name": "Impossible + Strange",
       "url": "https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92"
@@ -4951,7 +4969,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 206667,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
@@ -5545,7 +5563,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 224858,
       "name": "Nearly Daffodils",
       "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
@@ -6376,6 +6394,24 @@
     },
     {
       "album": {
+        "name": "Pools of Colour",
+        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228398,
+      "name": "Pools of Colour",
+      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
+    },
+    {
+      "album": {
         "name": "Poor Boy",
         "url": "https://open.spotify.com/album/7iu5xANwikkcwdOjY2WeiB"
       },
@@ -6489,6 +6525,24 @@
       "duration_ms": 237980,
       "name": "Punk Rock Loser",
       "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2"
+      },
+      "artists": [
+        {
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195767,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB"
     },
     {
       "album": {
@@ -7263,6 +7317,24 @@
       "duration_ms": 191102,
       "name": "Shower Beer",
       "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
+    },
+    {
+      "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
     },
     {
       "album": {

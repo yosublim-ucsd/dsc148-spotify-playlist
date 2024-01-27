@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Penny Arcade, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,030 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,033 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 60 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 |
 | 61 | [Wie Berlin](https://open.spotify.com/track/66JUFEw7AuUx3SazWxjuqh) | [linna](https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J) | [Wie Berlin](https://open.spotify.com/album/3yWtTRGIErcGQ7CD9BPVeh) | 2:41 |
 | 62 | [Schicksal](https://open.spotify.com/track/6AqdyKZz1rYkWKHN3vZ9do) | [Florin](https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO) | [Schicksal](https://open.spotify.com/album/1QT4vnHJCIg3yTmEs6aguw) | 3:30 |
-| 63 | [Eisen](https://open.spotify.com/track/2S5EaTjKDKfjvFxAStd1yq) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Eisen](https://open.spotify.com/album/4r2yvJRoxD0xriyKopgvgU) | 3:05 |
+| 63 | [Eisen](https://open.spotify.com/track/2S5EaTjKDKfjvFxAStd1yq) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T), [SOMA](https://open.spotify.com/artist/3v8hKjW4vtSYSsvsVV2JMq) | [Eisen](https://open.spotify.com/album/4r2yvJRoxD0xriyKopgvgU) | 3:05 |
 | 64 | [Baddest Me](https://open.spotify.com/track/6nS8pvguEjOZAa0cqcPrHc) | [Nnella](https://open.spotify.com/artist/1BxL57Hm6Vuo7tmkEfAvQi) | [Baddest Me](https://open.spotify.com/album/1A8cdgR0tplJFJlGV1yfCu) | 2:51 |
 | 65 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 |
 | 66 | [Hope](https://open.spotify.com/track/04YaxpxAPVp4R4l432VTJn) | [ARCYDARO](https://open.spotify.com/artist/3foeYsD8getYJ83SoVZ0Xw) | [Hope](https://open.spotify.com/album/79UOwGeCqlpLY6xjALc5V4) | 5:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Different](https://open.spotify.com/track/76uoN1r9wMzKgjHu8nJjaZ) | [ANOTHER NGUYEN](https://open.spotify.com/artist/38bL6RPFPY14qTcIGIYyPM) | [Different](https://open.spotify.com/album/7815hAIrXX9NA8CqRhyAej) | 2:22 |
 | 80 | [es ist spät](https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [es ist spät](https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW) | 2:01 |
 
-Snapshot ID: `MCw3NzVjNGJkMDQyYzExMzBjZmY5ZGI4ZTBlMWQ2NWRjOTI5N2M1Mjhh`
+Snapshot ID: `MCxkOGEwMjdiY2RjM2NlZmZhYjBiNDhhZjUwNDQ3Njg3YzAwZDFjYmEx`

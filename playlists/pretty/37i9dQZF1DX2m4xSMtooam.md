@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,753 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,916 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 |
 | 150 | [Samba Cantina](https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 5:42 |
 
-Snapshot ID: `MCwwNDVmNTY4MDU0NDFlM2I0N2FmNDVlMTBmMTA1YWYxMjA3MzBmZDU1`
+Snapshot ID: `MCwwMWUzMDcwOTZkZjlhYjAwYjQ5MDBlZGJmOTg1MDQxOTE5MTJmNTc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,257 likes - 120 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,294 likes - 120 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 119 | [Air Castle](https://open.spotify.com/track/6cLY5VyDhvPzM8dSKYfsNx) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/4ROOv2nn1kJrgX5mK2c1pJ) | 3:34 |
 | 120 | [Gentle Dreams](https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [​Gentle Dreams](https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG) | 3:15 |
 
-Snapshot ID: `MCw3OTNmNjY1MDFmZjdjZTQxYjBhYjEwMmM3ZWU0NmM3ZTU4ODhjMDhk`
+Snapshot ID: `MCxiZmM5ZGJkYWU4MGQ3MmM0ODBiYjI5NmQzYmRlYjFlNzBhMzI2YzI1`

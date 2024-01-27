@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 142 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 142 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 57 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/4RPnrH7RPVkiInMV2L6dQs) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 16:16 |
 | 58 | [Drawing Room Blues](https://open.spotify.com/track/1WqFswiLuP8cji7nskoepu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Miti: Duke Ellington](https://open.spotify.com/album/2l3Twfq8UB4oUGXvl3j2L0) | 3:41 |
 | 59 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
-| 60 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 |
-| 61 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
+| 60 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
+| 61 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 |
 | 62 | [Boo\-Dah](https://open.spotify.com/track/3lboFV3xYtNiRtHQI9Ga4D) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:32 |
 | 63 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 |
 | 64 | [Night Time](https://open.spotify.com/track/3MEjLuXVGxrFBLUUmq0lni) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano Reflections](https://open.spotify.com/album/4fRxNElUcNCq9rUADhX1rY) | 2:33 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjg0MzcyNTAsMDAwMDAwMDA2ZDM4OGNhYWE5MWM4MDcwYjgzNWMyMDY4OGU2ZDA4Ng==`
+Snapshot ID: `Mjg0Mzg2OTAsMDAwMDAwMDAxY2I2MzYxNWU2OWRhYjhkOGNlNjY1MTE2NmIzYTQzZA==`

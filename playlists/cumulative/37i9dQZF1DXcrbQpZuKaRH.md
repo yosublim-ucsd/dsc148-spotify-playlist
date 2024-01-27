@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-82 songs - 4 hr 1 min
+84 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,14 @@
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 |  |
 | [Fishermans Village](https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Fishermans Village](https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni) | 2:37 | 2023-08-24 |  |
 | [Flumen](https://open.spotify.com/track/1mOEGoddEFOMgYKGUoSBQb) | [Calmisi](https://open.spotify.com/artist/70ES1wACbZKHnLEeysUGMy) | [Flumen](https://open.spotify.com/album/3gYjOZCknkQz3GGzAW8MFJ) | 2:05 | 2023-04-28 |  |
+| [From Within](https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr) | [Infinity Equals](https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ) | [From Within](https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK) | 2:40 | 2024-01-26 |  |
 | [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 | 2023-04-28 | 2023-08-19 |
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-06 |  |
 | [Insignia Waves](https://open.spotify.com/track/1v3PCOshBc0zitzDZ0Hlcw) | [Jungussen](https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW) | [Insignia Waves](https://open.spotify.com/album/6mj5pCg8JG9iOWzr1cKPQI) | 3:52 | 2023-12-01 |  |
 | [Joshmit Beach](https://open.spotify.com/track/4vDw0JzE1goBugh7lh4lFQ) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:24 | 2023-04-28 |  |
 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 | 2023-09-15 |  |
 | [Love Story Star](https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [In Your Dreams](https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN) | 2:45 | 2023-04-28 | 2023-10-24 |
+| [Lunar Light](https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Lunar Light](https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9) | 2:32 | 2024-01-26 |  |
 | [Majestic \(Ocean\)](https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Majestic \(Ocean\)](https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH) | 3:06 | 2023-09-15 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2023-04-28 |  |
 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 | 2023-04-28 |  |

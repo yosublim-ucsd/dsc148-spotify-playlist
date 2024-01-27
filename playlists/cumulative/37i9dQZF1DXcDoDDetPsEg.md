@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-905 songs - 1 day 22 hr 45 min
+906 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 | 2023-12-15 | 2024-01-26 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-03 | 2022-07-22 |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 | 2022-11-12 |
+| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 |  |
 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 | 2022-11-25 | 2023-01-27 |
 | [Thrill](https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Thrill](https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD) | 3:32 | 2023-04-21 | 2023-06-17 |
 | [Thug Affection](https://open.spotify.com/track/5f6t2fFJqHeFvrA5eIiGEj) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thug Affection](https://open.spotify.com/album/15hdZlgPNQ8q6JvdmlMbtM) | 3:23 | 2023-03-08 | 2023-03-09 |

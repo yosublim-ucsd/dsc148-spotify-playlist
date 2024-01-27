@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,934 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,003 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
 | 50 | [JAGERMEISTER](https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Hakuna Mathata](https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q) | 5:27 |
 
-Snapshot ID: `MCxkNWFiZDVjMDAyYjQ2N2M1MmFhYjU2MmE2MzE0MTQ2OGI0MzNhNmYx`
+Snapshot ID: `MCw1YmZiMmYzMTNhMjU0ZGM4NTA4ZjVlZDRjMmM0Y2M3Mjk4Y2FjMTE4`

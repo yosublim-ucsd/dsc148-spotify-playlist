@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-364 songs - 20 hr 50 min
+365 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [SPEND IT](https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 3:18 | 2022-01-14 | 2023-08-31 |
 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 | 2023-03-03 |  |
 | [Start Over](https://open.spotify.com/track/2nbmnGf8hPWv2fIjtrq4z4) | [Canibus](https://open.spotify.com/artist/2lQvoGjN6jJfsAkaywtgrB) | [Start Over](https://open.spotify.com/album/5hrQG358JcgpEBxqgCNxOr) | 2:23 | 2022-02-25 | 2022-07-03 |
+| [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 | 2024-01-26 |  |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2022-01-14 |  |
 | [Strangeland](https://open.spotify.com/track/6kJ2PNOQeVBe3mVcYulVQL) | [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Strangeland](https://open.spotify.com/album/4wOkbPiVoUb4Cet5aYqvsI) | 3:28 | 2022-03-04 | 2022-07-07 |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5GqZXnBCndUh4ymgdx4tGB) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 4:08 | 2023-11-10 |  |
@@ -368,7 +369,7 @@
 | [Whole Brick](https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Bodboy](https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz) | 2:22 | 2022-08-05 | 2022-11-13 |
 | [Wouldn't Get Far](https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Doctor's Advocate](https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp) | 4:11 | 2022-01-14 | 2023-03-03 |
 | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF) | 3:21 | 2022-01-14 | 2022-04-21 |
-| [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 |  |
+| [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 | 2024-01-27 |
 | [Young G's \(feat\. The Notorious B.I.G\. & Jay\-Z\)](https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 | 2022-01-14 |  |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-11 |
 | [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 | 2022-09-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,268 likes - 200 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,302 likes - 200 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [L'Aventino](https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [L'Aventino](https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd) | 6:36 |
 | 200 | [A Ballad for Alice](https://open.spotify.com/track/44aAp76Uiq3ZlGCnQlVjdl) | [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l) | [A Ballad for Alice](https://open.spotify.com/album/05YNZdljADlXktZPJriKG9) | 2:00 |
 
-Snapshot ID: `MCxhNmI5YzczMDI0ODgxZTc4ZmI2MmNkNTVjNjBkZGM5NDc2MjNlZWZh`
+Snapshot ID: `MCw5YWNjZGQ4ZjM3YjU3OTE5MDFmNDA1NmQ1MWVjZTNlMGM4OWM5OWRk`

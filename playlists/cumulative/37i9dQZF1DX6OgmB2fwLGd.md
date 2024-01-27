@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-934 songs - 1 day 14 hr 9 min
+935 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Gunz in SOHO](https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:22 | 2023-11-03 |  |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-10-07 | 2023-02-10 |
 | [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 | 2021-09-01 | 2022-02-19 |
+| [H1M WONDER](https://open.spotify.com/track/5h6ltqklsMyCO13Yl86Lgf) | [h1mward](https://open.spotify.com/artist/2nQJ3BJ6fuF2eFHWEaKE2H) | [H1M WONDER](https://open.spotify.com/album/1koHUerstUM6yntvj5oVZH) | 1:53 | 2024-01-26 |  |
 | [Hadley](https://open.spotify.com/track/04S2P8Gey35cemIoXpm5dq) | [Papo2oo4](https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2), [DJ Lucas](https://open.spotify.com/artist/59RfTIZiLYFmPWUDeQQkC3), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV), [Finesse Fresco](https://open.spotify.com/artist/0yognOOsFPVKGXhC4zXTF7) | [Continuous Improvement](https://open.spotify.com/album/3dBYOox9czS4KgF2pg3owz) | 2:54 | 2023-01-17 | 2023-02-15 |
 | [Hands up!](https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl) | 2:15 | 2023-06-05 | 2023-10-21 |
 | [Happening \(ft\. Connie Diiamond\)](https://open.spotify.com/track/0RCXFKkddWR4cnoCJHeyrv) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [What Can They Say \(Extended\)](https://open.spotify.com/album/6Zhv2ceEknMTfuR20IdKNH) | 2:32 | 2023-06-16 | 2023-09-23 |
@@ -589,7 +590,7 @@
 | [Need](https://open.spotify.com/track/1YeEq1cEWsYbCGYPhatHdV) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/7oneUSVIt6PoefdQ36Vdo2) | 2:37 | 2023-01-19 | 2023-02-12 |
 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 | 2023-01-19 | 2023-07-22 |
 | [NEED](https://open.spotify.com/track/1QdRSAlZRjPuoZ9Hd8YTQp) | [Laylia](https://open.spotify.com/artist/58GEe1kDLCyFbTFGvOiJdy) | [NEED](https://open.spotify.com/album/3LxtiqscRn3D9H48SgaZae) | 2:38 | 2023-01-19 | 2023-04-23 |
-| [NEED IT](https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [NEED IT](https://open.spotify.com/album/3awkjfYN3DbBh1F2LXUVCs) | 2:19 | 2023-09-22 |  |
+| [NEED IT](https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [NEED IT](https://open.spotify.com/album/3awkjfYN3DbBh1F2LXUVCs) | 2:19 | 2023-09-22 | 2024-01-27 |
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2023-01-06 | 2023-05-06 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2023-05-19 | 2023-07-29 |
 | [New Opp](https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp](https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl) | 1:33 | 2023-01-05 | 2023-02-16 |

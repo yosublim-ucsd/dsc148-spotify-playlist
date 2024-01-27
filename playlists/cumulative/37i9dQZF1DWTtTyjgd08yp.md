@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-216 songs - 14 hr 33 min
+218 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Loose Change for the Boatman](https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:02 | 2021-10-08 |  |
 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 | 2021-10-08 |  |
 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 | 2021-10-08 | 2022-10-16 |
-| [Loving, Loving](https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 3:20 | 2021-10-08 |  |
+| [Loving, Loving](https://open.spotify.com/track/2iLeGeoUvYkApP6bGA317d) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 3:20 | 2023-09-15 |  |
+| [Loving, Loving](https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 3:20 | 2021-10-08 | 2024-01-27 |
 | [Madness](https://open.spotify.com/track/00ZJlTq0TVZCNxOUHRc8GM) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness Guarantee](https://open.spotify.com/album/4sI93ECsXC1eCBtYZk9IUT) | 3:31 | 2021-10-08 | 2022-11-14 |
 | [Madness](https://open.spotify.com/track/0XVQTr58DZbLUcjacnTp8k) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness](https://open.spotify.com/album/4SxovxXXvcl71iE9ptyJKF) | 3:31 | 2021-10-08 | 2022-07-29 |
 | [Madness](https://open.spotify.com/track/3pZcPE0ugJCI6zu5scIjp5) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness](https://open.spotify.com/album/3o33GGQ8CEqEl1PV0pUduC) | 3:31 | 2021-10-08 |  |
@@ -180,7 +181,8 @@
 | [Switch It On, Switch It Off](https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Switch It On, Switch It Off](https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja) | 3:57 | 2023-05-19 |  |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-03-03 |  |
-| [The Cage](https://open.spotify.com/track/0R5O9w8Oyq1aq43AHvLcLD) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:40 | 2021-10-08 |  |
+| [The Cage](https://open.spotify.com/track/0R5O9w8Oyq1aq43AHvLcLD) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:40 | 2021-10-08 | 2024-01-27 |
+| [The Cage](https://open.spotify.com/track/1XhQ1ssJSxUGeWbBW6heie) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:40 | 2023-09-15 |  |
 | [The Cage](https://open.spotify.com/track/2K2mYJv6SOcIiAYHFAqiDO) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:40 | 2021-10-08 | 2022-10-17 |
 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 | 2021-10-08 |  |
 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 | 2021-10-08 | 2023-03-04 |

@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195683,
       "name": "14/20",
       "url": "https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 132000,
       "name": "Avemar\u00eda",
       "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 234984,
       "name": "BILLBOARD",
       "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
@@ -582,6 +582,54 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Bowdozen",
+          "url": "https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN"
+        },
+        {
+          "name": "Sebas Boxian",
+          "url": "https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "album": {
+        "name": "Chichi Pana",
+        "url": "https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181027,
+      "name": "Chichi Pana",
+      "url": "https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM"
     },
     {
       "album": {
@@ -806,6 +854,32 @@
       "duration_ms": 263023,
       "name": "De Pe a Pa",
       "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
+    },
+    {
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
     },
     {
       "album": {
@@ -1423,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "ESO ES TODO",
+      "url": "https://open.spotify.com/track/3KnCfdpeaykCr1jC3rSkVc"
+    },
+    {
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -1614,7 +1710,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
@@ -1992,7 +2088,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243622,
       "name": "Instagram - Remix",
       "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
@@ -2592,7 +2688,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182593,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc"
@@ -3240,10 +3336,40 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216250,
       "name": "Palabras Sobran",
       "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288053,
+      "name": "PALABRAS SOBRAN - REMIX",
+      "url": "https://open.spotify.com/track/4u8fUK0wSDHvVQ24SUMqZq"
     },
     {
       "album": {
@@ -4077,6 +4203,50 @@
     },
     {
       "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "SI A BUENO",
+      "url": "https://open.spotify.com/track/3jXlnjcqh0oVlEimqYIZ7P"
+    },
+    {
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "album": {
         "name": "Si Supieran",
         "url": "https://open.spotify.com/album/2kclsnBdL83nNNLJbZxNca"
       },
@@ -4252,6 +4422,24 @@
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
+    },
+    {
+      "album": {
+        "name": "Suero Casero",
+        "url": "https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
     },
     {
       "album": {
@@ -4438,7 +4626,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 240075,
       "name": "Todo Lo Bueno Tarda",
       "url": "https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH"

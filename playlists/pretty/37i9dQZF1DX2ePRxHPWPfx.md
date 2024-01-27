@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,533 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,540 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 | 49 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 50 | [Blanco y Negro](https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años](https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl) | 3:41 |
 
-Snapshot ID: `MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2`
+Snapshot ID: `MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1`

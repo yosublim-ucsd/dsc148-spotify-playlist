@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
+  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
   "name": "ragazzo triste",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180763,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
@@ -484,6 +484,28 @@
       "duration_ms": 212571,
       "name": "BAD DREAMS",
       "url": "https://open.spotify.com/track/6FRBKBK66QxI5EgAjx4Q5p"
+    },
+    {
+      "album": {
+        "name": "bambino perfetto",
+        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "piccolo principe",
+          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "bambino perfetto",
+      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
     },
     {
       "album": {
@@ -1925,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "JAPANESE",
+        "url": "https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP"
+      },
+      "artists": [
+        {
+          "name": "ViraH",
+          "url": "https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "JAPANESE",
+      "url": "https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -3181,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "PERDERTI",
+        "url": "https://open.spotify.com/album/57Q60YTn8Ki2feWhatmx7h"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "PERDERTI",
+      "url": "https://open.spotify.com/track/0WqrCEUzO0n8GhQ8xeNqds"
+    },
+    {
+      "album": {
         "name": "personal",
         "url": "https://open.spotify.com/album/5eXZORuOjZB3yTOf2Oebbd"
       },
@@ -3902,7 +3960,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
@@ -4568,7 +4626,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 149177,
       "name": "un po' pi\u00f9 grande",
       "url": "https://open.spotify.com/track/5yenFhaOOy40eYeUfmz28h"

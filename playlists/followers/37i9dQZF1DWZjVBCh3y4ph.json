@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 57392,
+  "2024-01-27": 57481,
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Maureen x Mik L",
+  "description": "Les hits zouk du moment. Photo : DJ Kawest",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -95,6 +95,32 @@
       "duration_ms": 157317,
       "name": "Baby Oh",
       "url": "https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (Ma Jolie)",
+        "url": "https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP"
+      },
+      "artists": [
+        {
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Bam Bam (Ma Jolie)",
+      "url": "https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv"
     },
     {
       "album": {
@@ -280,6 +306,28 @@
     },
     {
       "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr"
+      },
+      "artists": [
+        {
+          "name": "Kueena",
+          "url": "https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7"
+        },
+        {
+          "name": "Nayane",
+          "url": "https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208671,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO"
+    },
+    {
+      "album": {
         "name": "Oniro",
         "url": "https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8"
       },
@@ -299,6 +347,28 @@
       "duration_ms": 193004,
       "name": "Distance",
       "url": "https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr"
+    },
+    {
+      "album": {
+        "name": "Doucement",
+        "url": "https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId"
+      },
+      "artists": [
+        {
+          "name": "Kailyn",
+          "url": "https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4"
+        },
+        {
+          "name": "Rohane",
+          "url": "https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241240,
+      "name": "Doucement",
+      "url": "https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm"
     },
     {
       "album": {
@@ -335,7 +405,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 210143,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ"
@@ -612,6 +682,28 @@
     },
     {
       "album": {
+        "name": "Jolis enfants",
+        "url": "https://open.spotify.com/album/420gU96GfONCl80kRsdLNZ"
+      },
+      "artists": [
+        {
+          "name": "Santrinos Raphael",
+          "url": "https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h"
+        },
+        {
+          "name": "Goulam",
+          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262222,
+      "name": "Jolis enfants",
+      "url": "https://open.spotify.com/track/27EpviZlAUe4Gh7NG2fLrw"
+    },
+    {
+      "album": {
         "name": "JTM",
         "url": "https://open.spotify.com/album/32gbCp9se9dc7vKNCGhgqh"
       },
@@ -849,7 +941,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 170344,
       "name": "Mon Ame",
       "url": "https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p"
@@ -1159,7 +1251,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 215294,
       "name": "Poko",
       "url": "https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF"
@@ -1217,6 +1309,28 @@
       "duration_ms": 195381,
       "name": "R\u00e9sign\u00e9e",
       "url": "https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n"
+    },
+    {
+      "album": {
+        "name": "Serre-moi fort",
+        "url": "https://open.spotify.com/album/5su35ho6QuT12QzASVupHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Serre-moi fort",
+      "url": "https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef"
     },
     {
       "album": {
@@ -1555,7 +1669,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 193895,
       "name": "VIN NON",
       "url": "https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp"

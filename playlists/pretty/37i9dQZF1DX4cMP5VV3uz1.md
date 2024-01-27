@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,568 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,627 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Know What It Means](https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d) | 2:40 |
 | 75 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 |
 
-Snapshot ID: `MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz`
+Snapshot ID: `MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm`

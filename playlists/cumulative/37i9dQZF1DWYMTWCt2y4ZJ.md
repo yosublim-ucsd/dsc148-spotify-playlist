@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-170 songs - 9 hr 7 min
+172 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 | 2022-05-17 |  |
 | [Blue Crystal \(with drums\)](https://open.spotify.com/track/7Hqt7Yq8V07w4vdZA8laRH) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:22 | 2023-06-21 |  |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2022-12-23 | 2023-06-22 |
+| [Breath of Bliss](https://open.spotify.com/track/7qaG9fUxYl5gTqQgTfz50I) | [Ladakh](https://open.spotify.com/artist/3Z5oaV8vqWSsdxJbWoWc4P) | [Breath of Bliss](https://open.spotify.com/album/1JzOTsgVrlRcU688eDxQ7K) | 2:57 | 2024-01-26 |  |
 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 | 2022-09-02 | 2022-11-26 |
 | [Brittle](https://open.spotify.com/track/3VTgychGZYTT0uO1sdSjwb) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Brittle](https://open.spotify.com/album/7iNZEy0A7iqOhgM4CGayfK) | 1:54 | 2022-05-17 | 2023-06-22 |
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-06-01 |  |
@@ -174,6 +175,7 @@
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-05-17 |  |
 | [Woodworkings](https://open.spotify.com/track/762tPXLug1WSdhiTZiIcSm) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Woodworkings](https://open.spotify.com/album/2480lNUq7sdZZpUeriN50w) | 2:32 | 2022-08-12 |  |
 | [Yin Rhythmatism](https://open.spotify.com/track/5nhIw5ibl4jJ1Uu9Z4zg8q) | [Ahamkara](https://open.spotify.com/artist/0KriRLi8cRLqZU8SJQUgOf) | [Yin Rhythmatism](https://open.spotify.com/album/2L9IuGburCtgwiwxfCWlcT) | 4:06 | 2023-01-19 |  |
+| [Zen Awakening](https://open.spotify.com/track/530GBwxUhpe27TbnY7dVAm) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Zen Awakening](https://open.spotify.com/album/6QargaQ60JL5icC11UYce1) | 2:30 | 2024-01-26 |  |
 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 | 2022-05-17 |  |
 | [Zenkom Auralis](https://open.spotify.com/track/22NrttumYU12GSAa9fvaom) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Zenkom Auralis](https://open.spotify.com/album/4tb0F9VmjZaNQIIRKJL9L9) | 3:58 | 2022-11-25 |  |
 | [ZenZephyr](https://open.spotify.com/track/12NW28rpQpQtS6vcHJYYQi) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [ZenZephyr](https://open.spotify.com/album/5EYJACzBpoBxZxgC9EZU62) | 3:36 | 2023-06-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,176 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,192 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 79 | [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 |
 | 80 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 |
 
-Snapshot ID: `MCwyYThiYjc2MTMwZTRiZDU0YThkZTk3OWZmYWQ3YzFkNGJlOGRjNWM3`
+Snapshot ID: `MCw2MmJjODZlZTAzMTcyNDUyMWU5OWE2N2UyZGI3OGU2MzY3YWRjMzll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075,553 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,541 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 124 | [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 |
 | 125 | [Tomorrow](https://open.spotify.com/track/4XBznaFt4lPJY6s9VBHYUt) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Tomorrow](https://open.spotify.com/album/01fQTmcvPNb5eC8KqTgPEx) | 3:00 |
 
-Snapshot ID: `MCxiMTVjY2IyMjA3MjVkNmM4ZDUzMGFmNzgxYWZjNGY2OWNmOGNhMmRj`
+Snapshot ID: `MCw1Y2I2YTA1NDdjYWFlZmQwN2JmZDczMDVhZThjNTQyOWE4ZTNlM2Y1`

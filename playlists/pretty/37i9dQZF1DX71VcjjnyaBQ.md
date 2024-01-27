@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,506 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,478 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Professor Nelson Strikes Again \- Single Version](https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k) | [The New York Second](https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9), [Harald Walkate](https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2), [Max Sergeant](https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2), [Lorenzo Buffa](https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB) | [Professor Nelson Strikes Again](https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma) | 4:11 |
 | 100 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 |
 
-Snapshot ID: `MCwwNDcwNzg2NGZhMWYzZDdhNDA1ZjkxOTQxNWVjNzVkZDI2Mjg2ZTVj`
+Snapshot ID: `MCxjZTliNjk5NDNkMDlmYjYxZDQwYzI5YjViYTlkZDBiNDVkYzBhNGEz`

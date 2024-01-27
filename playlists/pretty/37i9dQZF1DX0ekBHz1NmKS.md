@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,947 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,919 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [I Had You By My Side](https://open.spotify.com/track/76TMobb4xIq90XBLOzf3WC) | [Isabel Neib](https://open.spotify.com/artist/7hsUdPSrlTdl9cHyGl7KL5) | [I Had You By My Side](https://open.spotify.com/album/43i3iARN8iEutbpyn5hZAu) | 4:07 |
 | 100 | [i talk a lot](https://open.spotify.com/track/0Qw3Q7YYb5cnROb82g7wuH) | [amanda jerlov](https://open.spotify.com/artist/3Yy0wNrunrgNWnmqPJibaz) | [notes from a soap opera](https://open.spotify.com/album/6rxY1BYOlWEvoIAXmO9X4f) | 2:33 |
 
-Snapshot ID: `MCxlNjUzM2EwODAwNTVjMmEzZjViMzcwNzA1NDdmZWE1ZTg5OWJhYjRh`
+Snapshot ID: `MCw1NTBkOWU3YmE2MWNlMmZhNzQwZmQxMGZjMzMzMmQ4YTE4N2ZlZDMx`

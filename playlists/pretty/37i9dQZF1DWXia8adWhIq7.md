@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,377 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,451 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
 | 85 | [Me Esvaziar \(Releitura\)](https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Me Esvaziar \(Releitura\)](https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ) | 3:03 |
 
-Snapshot ID: `MCwzNWVlM2E0NWIyYjc5ZDRiMDExNGI2MTExNTBlMmU2YzYxZjJmOGUw`
+Snapshot ID: `MCxmZDBmYTY5Yzc4NGU1NjAxYWM3MzEwZWU0ZTAxMmIyNTllZTAzMzY4`

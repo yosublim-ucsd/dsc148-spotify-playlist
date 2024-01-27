@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 
 > Hits, hits hits van afgelopen tijd..\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,773 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,805 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 | 99 | [Shut Off The Lights](https://open.spotify.com/track/6Dcz7Zg0I9Zu88QCQfQmmO) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 3:07 |
 | 100 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 
-Snapshot ID: `MCw3MGE2N2Q3ODQ0ZThhMWEyZDAyMWQyZDhjMTI5MWQ5NmY1NTY3ZDQ1`
+Snapshot ID: `MCw1YTQxMzc4M2NlNjI4NmQyNWY5MjUzNTM3NWY5NzE0ZDRiYzZkZWVj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Conner Smith",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183508,
       "name": "A Lot With A Little",
       "url": "https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 170946,
       "name": "Gather Round",
       "url": "https://open.spotify.com/track/6Ca4hnG703NUIjAQAdhB68"
@@ -622,10 +622,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "album": {
+        "name": "girls at the bar (ft. Alli Walker)",
+        "url": "https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx"
+      },
+      "artists": [
+        {
+          "name": "Lydia Sutherland",
+          "url": "https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW"
+        },
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213517,
+      "name": "girls at the bar (ft. Alli Walker)",
+      "url": "https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8"
     },
     {
       "album": {
@@ -662,6 +684,24 @@
       "duration_ms": 150148,
       "name": "Going Places",
       "url": "https://open.spotify.com/track/22OEoDUv3YfyfM38XTBqaS"
+    },
+    {
+      "album": {
+        "name": "Good Luck And God",
+        "url": "https://open.spotify.com/album/43rp0X7Z1ZKiUM9Sbf5jzP"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171458,
+      "name": "Good Luck And God",
+      "url": "https://open.spotify.com/track/5smCFXppZRreSX0Bl0jqTC"
     },
     {
       "album": {
@@ -865,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Go Fishing",
+        "url": "https://open.spotify.com/album/79vC94qpK1F4x3c8Q7SOZP"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199284,
+      "name": "Let\u2019s Go Fishing",
+      "url": "https://open.spotify.com/track/6ns6oRR7rI20Y5P5BQAqdK"
+    },
+    {
+      "album": {
         "name": "Life Lessons",
         "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
       },
@@ -941,6 +999,28 @@
     },
     {
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191231,
+      "name": "Man Made A Bar (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
@@ -956,6 +1036,24 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "album": {
+        "name": "Milwaukee",
+        "url": "https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179829,
+      "name": "Milwaukee",
+      "url": "https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G"
     },
     {
       "album": {
@@ -1202,7 +1300,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206864,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
@@ -1256,7 +1354,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178774,
       "name": "Outta Yours",
       "url": "https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU"
@@ -1325,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "Smoky Mountains",
+        "url": "https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Roulette On The Heart",
+      "url": "https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m"
+    },
+    {
+      "album": {
         "name": "Runaways",
         "url": "https://open.spotify.com/album/6cKdYTJJWoDHKbgXcoCnW2"
       },
@@ -1336,7 +1456,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183563,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/3PyRSNu87qhTv5UwGrkedR"
@@ -1372,7 +1492,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157800,
       "name": "See You Next Summer",
       "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
@@ -1577,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "This Is My Dirt",
+        "url": "https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "This Is My Dirt",
+      "url": "https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
@@ -1595,6 +1733,42 @@
     },
     {
       "album": {
+        "name": "Trucks, Ducks, Bucks & Beer",
+        "url": "https://open.spotify.com/album/0ZUnvfZAa49HJeEZOX58vw"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Trucks, Ducks, Bucks & Beer",
+      "url": "https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT"
+    },
+    {
+      "album": {
+        "name": "Turn",
+        "url": "https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g"
+    },
+    {
+      "album": {
         "name": "Walking Man",
         "url": "https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK"
       },
@@ -1606,7 +1780,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195037,
       "name": "Walking Man",
       "url": "https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ"
@@ -1830,7 +2004,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/3mkE4LX6ozOcvKEC7chB2q"

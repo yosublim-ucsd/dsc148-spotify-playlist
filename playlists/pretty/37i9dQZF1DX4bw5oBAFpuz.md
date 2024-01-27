@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,441 likes - 230 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,444 likes - 230 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 229 | [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 |
 | 230 | [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 |
 
-Snapshot ID: `MCw2ZGYwZmE0MWY2OTVjNWU2OWE2NTJmMjYzYjc5NGQxMTljZmFmMWE5`
+Snapshot ID: `MCw3MWYyMjgzZTBkMzU0ODdkYWMzOTg1NzhjZGFlYjNmNzNmNDFiNGI0`

@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 133387,
+  "2024-01-27": 133458,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Black Coffee's track IDs",
@@ -47,10 +47,36 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 315380,
       "name": "7 Seconds",
       "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
+    },
+    {
+      "album": {
+        "name": "7 Seconds",
+        "url": "https://open.spotify.com/album/4cjJ5asufFmCnTM5ALAlFt"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Pape Diouf",
+          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315380,
+      "name": "7 Seconds",
+      "url": "https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1"
     },
     {
       "album": {

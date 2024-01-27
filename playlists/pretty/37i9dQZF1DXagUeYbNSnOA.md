@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Reyna Tropical\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,800 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,686 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Fuck the Fuck](https://open.spotify.com/track/088UVwmj3NwBhJk7lzVVv2) | [Muto Tapes](https://open.spotify.com/artist/0ir6r0eL6bdFVWAAliLqSR) | [Fuck the Fuck](https://open.spotify.com/album/24jvJn6s82JBZaEf5BM7oT) | 2:25 |
 | 50 | [Flores Ardientes](https://open.spotify.com/track/5mqj7IIp28OzoyxKgSf5Ie) | [SUA](https://open.spotify.com/artist/0OZqJ1PE4eMJ5rqz5TPMaJ) | [Flores Ardientes](https://open.spotify.com/album/27FpGzVfanxcadOLFiSgMA) | 3:16 |
 
-Snapshot ID: `MCwyMDE2ZWU4YmZkZTQwMzgzZGQwNjI5ZTE3NTI4MWJkYjgwMmVmNDgy`
+Snapshot ID: `MCxhZWIwYjIwYjUzNDVmZjE4NDEwOTA2NWNhY2VhODJkMmEzNGUwMmNh`

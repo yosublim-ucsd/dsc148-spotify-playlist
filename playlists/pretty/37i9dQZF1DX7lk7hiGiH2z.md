@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,222 likes - 47 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,232 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
 | 46 | [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 |
 | 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
+| 48 | [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 |
 
-Snapshot ID: `MCwwODIzOTBiNmFmOGU0MTc3ZmQ3NTlhYzFkZTE3ODRlNWZjYjExZWIw`
+Snapshot ID: `MCw0NDZhN2FhMmQ2NDNjYzY2ODA5MmY5YmRiMmUyZDY2YjA5YjNkOGZh`

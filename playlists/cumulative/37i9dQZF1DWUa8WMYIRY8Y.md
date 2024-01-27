@@ -4,7 +4,7 @@
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Gossip
 
-130 songs - 8 hr 4 min
+131 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Heart In The Hole](https://open.spotify.com/track/3HZwIXfNCrC9CnX9dhDgu2) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Heart In The Hole](https://open.spotify.com/album/04yQPP3gritzkZEGZh99Ka) | 4:14 | 2023-09-28 |  |
 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-28 |  |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-17 |
-| [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 |  |
+| [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 | 2024-01-27 |
+| [Hello](https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:16 | 2024-01-25 |  |
 | [Her Father and Her](https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Her Father and Her](https://open.spotify.com/album/0GdBjd1DWArDPXvzzNTb4q) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [I COULDN'T CARE](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 | 2023-09-28 | 2023-12-08 |
 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2023-11-30 | 2024-01-26 |

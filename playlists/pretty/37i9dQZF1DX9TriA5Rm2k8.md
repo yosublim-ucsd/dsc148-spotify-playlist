@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 
 > Just good energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,504 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,406 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 69 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 |
 | 70 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
 
-Snapshot ID: `MCxjMDRiOWU2NDUzYjg5YmQ3MTYxMWEyMmVhNjE1ZGVjYzlkYzgzMjU0`
+Snapshot ID: `MCxkODQzMTMxOTJiMjhkYWUxNDZlNDZjMzc5MDQ2YzU4ZmNjMWI5YWI3`

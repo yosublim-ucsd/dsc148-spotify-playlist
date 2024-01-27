@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,584 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,801 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 19 | [Infinity 2023 \- Thoby Edit](https://open.spotify.com/track/6RvKLVlg5hJjC8lUamODdX) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Henry Himself](https://open.spotify.com/artist/0YZmiBsdXDNlyLfWVh7Fb7), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Infinity 2023 \(Thoby Edit\)](https://open.spotify.com/album/1zsdgMd4Dw3Z9qZmAqsTCB) | 2:45 |
 | 20 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 |
 | 21 | [Escape](https://open.spotify.com/track/7ntN8mkrRKly5RVv0AJ5eR) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Escape](https://open.spotify.com/album/0iunNQ4ZNgbErcEmoCQlHv) | 3:45 |
-| 22 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
+| 22 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
 | 23 | [HABANERO](https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [HABANERO](https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd) | 2:15 |
 | 24 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
 | 25 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
-| 26 | [Ameno](https://open.spotify.com/track/7bTpJFb6J2TEIezlYhHFC1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Ameno](https://open.spotify.com/album/44JdXPZaA13e1ldVSKgRKS) | 2:12 |
+| 26 | [Ameno](https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Ameno](https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3) | 2:12 |
 | 27 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 28 | [TABU.](https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [TABU.](https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom) | 2:15 |
 | 29 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 |
 | 100 | [Kids](https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Kids](https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq) | 4:08 |
 
-Snapshot ID: `MCxkMTkyOGI3MWE5ZWY1ZGYxZWMyZWQ4ODQ1MDlhOWFhYmRjNzUwMmY0`
+Snapshot ID: `MCw5YjJhNWRiMTk3ZTA5N2FiOTcwODI0NmNjZGEyYWYzM2YzOGNmNWUx`

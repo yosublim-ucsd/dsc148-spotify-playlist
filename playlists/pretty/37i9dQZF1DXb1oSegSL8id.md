@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,096 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,992 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Nunca Vai Ser Nós](https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Vai Ser Nós](https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R) | 2:52 |
 | 100 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 |
 
-Snapshot ID: `MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1`
+Snapshot ID: `MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4`

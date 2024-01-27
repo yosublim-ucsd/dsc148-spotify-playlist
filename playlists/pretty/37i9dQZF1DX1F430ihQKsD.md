@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Jane Penny
+> Montréal’s music scene, front and centre\. Cover: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,335 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,402 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 2 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 |
 | 3 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 |
 | 4 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
-| 5 | [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 |
-| 6 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
-| 7 | [Spotlite](https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [\*69 b/w Spotlite](https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR) | 2:36 |
-| 8 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
-| 9 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 |
-| 10 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
-| 11 | [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 |
-| 12 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 |
-| 13 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 14 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
-| 15 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 |
-| 16 | [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 |
+| 5 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
+| 6 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 |
+| 7 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
+| 8 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 |
+| 9 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
+| 10 | [Spotlite](https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [\*69 b/w Spotlite](https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR) | 2:36 |
+| 11 | [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 |
+| 12 | [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 |
+| 13 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 |
+| 14 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
+| 15 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
+| 16 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 |
 | 17 | [Never Get Enough](https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Never Get Enough](https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD) | 4:20 |
 | 18 | [Your Life](https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Your Life](https://open.spotify.com/album/6BGRw9Kw9IJ67A5CLUJc5o) | 5:00 |
 | 19 | [L'évadé](https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [L'évadé](https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCxlMGQ3MDBmMGQzOGQ0NTA1YzM2ZTY0ZDQzMzAwOWVkNjQzNjMyYzQ3`
+Snapshot ID: `MCwwNzMxOWEwOWM0YWY4ZTg1NjgwMjc5NjViNzZkNGMyZDlhNmJmZWMw`

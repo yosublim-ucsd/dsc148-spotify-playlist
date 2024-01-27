@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,195 songs - 6 day 3 hr 49 min
+2,196 songs - 6 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,8 @@
 | [Gonna Make Time Version](https://open.spotify.com/track/56QyCkQHWy7BkWV6IQxwWX) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [More to Say Versions](https://open.spotify.com/album/7oafjm26dgSceQdxiCjyU6) | 3:57 | 2023-03-17 |  |
 | [Gonna Make Time Version](https://open.spotify.com/track/7tG68NtLXzWV2tiN6ghLeb) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [More to Say Versions](https://open.spotify.com/album/02R0gk6SfC5hbtmFvPsQ6j) | 3:57 | 2022-06-09 | 2023-05-01 |
 | [Good Day](https://open.spotify.com/track/3eyJ96DvcqxFiuq9Shq4gc) | [Walter Gavitt Ferguson](https://open.spotify.com/artist/4bbfV7YYUAwzzz6NFb2fNB) | [King of Calypso Limonense \(The Legendary Tape Recordings, Vol​.​1\)](https://open.spotify.com/album/5NtaY6RCEG2LVZ24bWMMVN) | 2:07 | 2022-07-12 |  |
-| [Goodbye](https://open.spotify.com/track/7vXOEBXXHICw71IfBFZh5Y) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:11 | 2022-06-09 |  |
+| [Goodbye](https://open.spotify.com/track/7vXOEBXXHICw71IfBFZh5Y) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:11 | 2022-06-09 | 2024-01-27 |
+| [Goodbye](https://open.spotify.com/track/402F8nnGRwhlRKndk52Qae) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [One Understanding](https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU) | 4:11 | 2023-11-29 |  |
 | [Gorof \(Elixir\)](https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF), [Sahra Dawo](https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog) | [Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa](https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN) | 5:40 | 2022-07-12 |  |
 | [Got This Happy Feeling](https://open.spotify.com/track/7lNq8ipohFGO4zhvbh8jzI) | [Ghetto Brothers](https://open.spotify.com/artist/6M6ULJ0HhZ7BArUaVS5mqQ) | [Power Fuerza](https://open.spotify.com/album/2FyPhYU7wHYvtWCdRZXOWp) | 4:36 | 2022-06-09 |  |
 | [Great '68](https://open.spotify.com/track/78Y5tnFqrmwq5aLh1Q3DfO) | [Marva Moore](https://open.spotify.com/artist/6dtCu6hiWXwCTnMoXCA33D), [The Gaysters](https://open.spotify.com/artist/6E9eQH4MMTejERtTpMOrut) | [ABC Rock Steady \(Expanded Version\)](https://open.spotify.com/album/3WS3ldP9AC6Y2d5ntUlhYF) | 2:38 | 2022-06-09 | 2023-11-04 |

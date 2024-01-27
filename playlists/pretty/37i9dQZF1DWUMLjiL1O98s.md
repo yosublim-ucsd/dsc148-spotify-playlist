@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva ola del Afrobeats con un toque latino\. Piso 21 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 99 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 100 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCw3MTk3NzJhZmVjZTcyN2ZjYTJjZDAyMWFhYTBjM2I5MmEyZGRiNmEw`
+Snapshot ID: `MCxhYWMyOWJjODIyM2I1MWY1NmJiMjEzMThlNDAyZWYyM2NhMDhiZDZi`

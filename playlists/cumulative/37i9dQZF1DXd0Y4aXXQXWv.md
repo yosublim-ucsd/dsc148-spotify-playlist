@@ -4,7 +4,7 @@
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-109 songs - 6 hr 59 min
+110 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2023-04-04 |  |
 | [Face à la mer](https://open.spotify.com/track/1FNGLwdi2avksFJKIkTnok) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [CALO POP ROCK](https://open.spotify.com/album/3U8HRejtP8V3pqwVCHeGFP) | 3:39 | 2023-04-04 |  |
 | [Facile](https://open.spotify.com/track/5DPmVIialQzVljzeuBksmM) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [facile x fragile](https://open.spotify.com/album/2mesaoToZmTi98ujXsBZAt) | 4:06 | 2023-04-04 |  |
+| [Formidable](https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:33 | 2023-12-18 |  |
 | [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 | 2023-10-11 | 2024-01-26 |
-| [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 | 2023-12-18 |  |
+| [Formidable](https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [French Pop](https://open.spotify.com/album/4O1NqJGeK5NSLRdcZfKq8J) | 3:34 | 2023-12-18 | 2024-01-27 |
 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 | 2023-04-04 |  |
 | [Help Myself \(Nous Ne Faisons Que Passer\)](https://open.spotify.com/track/6NPurOhG89pZbxQUnmv4pa) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Nouvel an \- Années 2010](https://open.spotify.com/album/5e3K8PvcKrnNorTlfU8kxf) | 2:46 | 2023-04-04 | 2023-11-11 |
 | [Help Myself \(Nous Ne Faisons Que Passer\)](https://open.spotify.com/track/6WOMnDLQqH48swyJUP1pnQ) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Les classiques du rock français](https://open.spotify.com/album/33N3T4t1F71PtcG6JKy6ug) | 2:46 | 2023-10-11 |  |

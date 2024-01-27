@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,278 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,904 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 |
 | 100 | [Pajarito Voló \(feat\. Rubén Blades\)](https://open.spotify.com/track/259jTueOctsYFvy7mv1yMp) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Guajiro](https://open.spotify.com/album/39vitD8qvwlGrvGfmDywSD) | 3:51 |
 
-Snapshot ID: `MCw3ZGIwYTJlM2M2NmM1N2M3ZjRhODljNzJkYjBiZGJhNmQwMmEzODc2`
+Snapshot ID: `MCwyOGEzNTYyN2NmYzZlMzY0N2ViODAzM2ZiOGU3ZjEwOTQyZDczN2Rm`

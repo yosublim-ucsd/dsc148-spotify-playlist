@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,189 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,304 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 99 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 |
 | 100 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 |
 
-Snapshot ID: `MCwwZDE4MDI0NzI4ZjUxNjQxZGI2OTJjM2NmMTU5MmIzNjA0MWRjZDlm`
+Snapshot ID: `MCw4YzY3NzVhNTVjZTQzOGZlM2JmZjIzZWI2OGQ3ZjNkOTIzYzczM2M1`

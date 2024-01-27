@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,001 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,998 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 74 | [Love U Right Away](https://open.spotify.com/track/1izdaNNZ7agtWDjAZq2WXb) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Love U Right Away](https://open.spotify.com/album/3qzAMgBTHM590Q4TtDzqYu) | 2:34 |
 | 75 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 
-Snapshot ID: `MCxhYmQ1MjEzODkxMzMyZTU0NGIzOWNlN2M1ZDI5NTE5NDE1Zjg4OTQz`
+Snapshot ID: `MCxjMjQxMjI1ZjdmNjY5NDkzOTE1ODIwYjQwMzFiZjkzZmI4ZDE5Y2Q3`

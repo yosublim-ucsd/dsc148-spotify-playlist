@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/4nMJrwnDEK64HL3Bxnvu8V"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/3kFJ4ysL0JYaCMAimIN8h4"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/1zgW0fdUv37ePTTZ0t4LcM"
       },
@@ -682,6 +700,28 @@
       "duration_ms": 243870,
       "name": "Empire feat Laura Rogalli (Natema Remix) - Short Edit",
       "url": "https://open.spotify.com/track/5SCxwXX1FzzdGWTVsLCymt"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Pra Bahia",
+        "url": "https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl"
+      },
+      "artists": [
+        {
+          "name": "DOT (BR)",
+          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Eu Vou Pra Bahia",
+      "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
     },
     {
       "album": {

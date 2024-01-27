@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,456 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,493 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 58 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 |
 | 59 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 | 60 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
+| 61 | [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 |
+| 62 | [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 |
+| 63 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
+| 64 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
+| 65 | [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 |
 
-Snapshot ID: `MCw3ZDMxNTc0NTFjOGQxMzZkNGE2MGEyYmY1ZTcwNmQzZGEzMGY3MGJl`
+Snapshot ID: `MCxmNWNlMDFkMDFkZDU5Mzg4MTUwZGQzMzA2NTk1ZjEzYTczOTM0YzZk`

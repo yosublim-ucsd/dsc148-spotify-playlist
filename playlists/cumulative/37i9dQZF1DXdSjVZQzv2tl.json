@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Fortaleza, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147988,
+      "name": "A Cerveja Abre Sozinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
+    },
+    {
+      "album": {
         "name": "Identidade, Ep. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
       },

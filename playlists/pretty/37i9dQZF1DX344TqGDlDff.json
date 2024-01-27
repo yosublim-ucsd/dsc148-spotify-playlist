@@ -1,13 +1,29 @@
 {
   "description": "A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix. ",
-  "num_followers": 49,
+  "num_followers": 161,
   "original_name": "Griselda Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDM1MzRmZGZjNzJiYTI1N2UxNGYxMTMzNjA1N2M5ZjU0NjhhNWI5",
+  "snapshot_id": "MCw3NjNlMGU4ZThmNDhjNzE5OGZiYTc0MjRmYWU2ZDQ5MmJmNmY4MDIw",
   "tracks": [
+    {
+      "added_at": "2024-01-26 03:13:00",
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "PANESSO",
+      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
+    },
     {
       "added_at": "2024-01-25 08:00:00",
       "album": {
@@ -799,6 +815,54 @@
       "duration_ms": 138266,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/2rzoFreiXF1XiNvAOOCpZH"
+    },
+    {
+      "added_at": "2024-01-26 03:13:00",
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 125942,
+      "name": "MATRIARCH'S PLAN",
+      "url": "https://open.spotify.com/track/147ubpf8aUc8TNmQljV6GE"
+    },
+    {
+      "added_at": "2024-01-26 03:13:00",
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 66540,
+      "name": "LA MADRINA",
+      "url": "https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc"
+    },
+    {
+      "added_at": "2024-01-26 03:13:00",
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 200323,
+      "name": "MALA MADRE MADHOUSE",
+      "url": "https://open.spotify.com/track/3H5aVcxGvJNX8fwkyL09Xw"
     }
   ],
   "unique_name": "Griselda Official Playlist",

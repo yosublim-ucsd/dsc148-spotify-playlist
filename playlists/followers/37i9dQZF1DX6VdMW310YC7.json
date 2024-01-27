@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 3696246,
+  "2024-01-27": 3694710,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -7083,7 +7083,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
@@ -7325,6 +7325,24 @@
       "duration_ms": 231578,
       "name": "Empty Promise",
       "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
+    },
+    {
+      "album": {
+        "name": "En",
+        "url": "https://open.spotify.com/album/5p7qEJfdanragsgSMfhx2B"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287661,
+      "name": "En",
+      "url": "https://open.spotify.com/track/2iSwJrdrvWCup9BQQTJwTf"
     },
     {
       "album": {
@@ -10839,6 +10857,24 @@
       "duration_ms": 226920,
       "name": "Goodbye Earth",
       "url": "https://open.spotify.com/track/1RLDJqcEJaeWTkiu3EyqRc"
+    },
+    {
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
     },
     {
       "album": {
@@ -22191,7 +22227,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 288387,
       "name": "Rave",
       "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"

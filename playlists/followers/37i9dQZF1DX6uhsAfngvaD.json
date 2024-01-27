@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 301437,
+  "2024-01-27": 301467,
   "date_first_scraped": "2019-11-19",
   "description": "Blissful indie for dreamers.",
   "name": "Dreampop",
@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "album": {
         "name": "Any Human Friend",
         "url": "https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF"
       },
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 389948,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 227681,
       "name": "For You",
       "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 185182,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
@@ -4826,6 +4844,24 @@
     },
     {
       "album": {
+        "name": "Quite Like You",
+        "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179839,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -6032,6 +6068,24 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+    },
+    {
+      "album": {
         "name": "The Heart",
         "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
       },
@@ -6047,6 +6101,24 @@
       "duration_ms": 277492,
       "name": "The Heart",
       "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
+    },
+    {
+      "album": {
+        "name": "the lonely girl",
+        "url": "https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190148,
+      "name": "the lonely girl",
+      "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
     },
     {
       "album": {
@@ -6187,7 +6259,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
@@ -6245,6 +6317,24 @@
       "duration_ms": 239260,
       "name": "Under The Sea",
       "url": "https://open.spotify.com/track/7nUGcGf4JiQ1e8Xbsx8DTn"
+    },
+    {
+      "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "album": {
@@ -6681,7 +6771,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"

@@ -1,13 +1,29 @@
 {
-  "description": "songs you'll fall in love with. Lola Young on the cover. ",
-  "num_followers": 1133299,
+  "description": "songs you'll fall in love with. Medium Build on the cover. ",
+  "num_followers": 1133338,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U1Y2I4OTYzNTIyZWMwNjMyYTRlOTljZGVkODhkNWM0NjZlYzZh",
+  "snapshot_id": "MCwwNDE3YjU2ZGM4YTUyZmVhMmQ4ZDBhOTVlZjkzNWIxZjg5NmIwMjdk",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
     {
       "added_at": "2024-01-12 03:47:20",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 194069,
       "name": "Wish You Were Dead",
       "url": "https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -89,6 +121,42 @@
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "What's Love (feat. MUNA)",
+        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
+    },
+    {
+      "added_at": "2024-01-18 19:24:25",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
       "added_at": "2024-01-12 03:47:20",
       "album": {
         "name": "Lego Ring",
@@ -107,6 +175,22 @@
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "huh",
+        "url": "https://open.spotify.com/album/4QmxWDujWNkkp8Wc0vn8we"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 107084,
+      "name": "huh",
+      "url": "https://open.spotify.com/track/0uLIQiuVCXBoe2w8n4Thyz"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -177,6 +261,22 @@
       "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
+    },
+    {
       "added_at": "2024-01-12 03:47:20",
       "album": {
         "name": "Beanie",
@@ -193,26 +293,10 @@
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
-      "added_at": "2024-01-18 19:24:25",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
+        "name": "See you soon",
+        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
       },
       "artists": [
         {
@@ -220,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+      "duration_ms": 218283,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -991,6 +1075,22 @@
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
     },
     {
       "added_at": "2023-07-07 21:57:45",

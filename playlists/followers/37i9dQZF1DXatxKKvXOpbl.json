@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 425150,
+  "2024-01-27": 424976,
   "date_first_scraped": "2022-03-02",
   "description": "Uma sele\u00e7\u00e3o good vibes pra voc\u00ea trabalhar de boa!",
   "name": "Home Office",
@@ -1515,10 +1515,28 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "album": {
+        "name": "Best Of 2017",
+        "url": "https://open.spotify.com/album/197YY02cK93Yjrtpa1FrMY"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233746,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/6TOivZsskTt2JQr1inIBCM"
     },
     {
       "album": {
@@ -3185,10 +3203,32 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
+    },
+    {
+      "album": {
+        "name": "What Lovers Do (feat. SZA)",
+        "url": "https://open.spotify.com/album/4DQ69vlzv8evjMG7oU9beE"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199849,
+      "name": "What Lovers Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/6YVpU5vVxezJCYeQUxIkRT"
     },
     {
       "album": {

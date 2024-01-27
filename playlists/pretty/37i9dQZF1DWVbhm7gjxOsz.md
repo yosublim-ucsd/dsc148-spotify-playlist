@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,925 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,070 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 |
 | 150 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
 
-Snapshot ID: `MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2`
+Snapshot ID: `MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm`

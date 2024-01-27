@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "La Tresse (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6HBW4VCennw5rKtdCynJyC"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364546,
+      "name": "The Braid",
+      "url": "https://open.spotify.com/track/4E2bZwH1vK6bXY1XWAMQYU"
+    },
+    {
+      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },

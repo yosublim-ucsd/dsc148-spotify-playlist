@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,431 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,337 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
 | 100 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี \(New Single 2014\)](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
 
-Snapshot ID: `MCxlNWEzOTFkYmIzM2E1YTlkNDQ1MzQ1MzE3NjQwNTQ1OTVjYTAyMGJm`
+Snapshot ID: `MCw1YTk1YzY0MjBjYjVmYjY5MGExNjNmYzczOGU5ODVjM2IxMGNkZjkx`

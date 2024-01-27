@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: We Are The Grand
 
-279 songs - 17 hr 44 min
+280 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Agua y Fe](https://open.spotify.com/track/0tOiBzYIaHSZEAMyTSb05X) | [Jürgensen](https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG) | [Agua y Fe](https://open.spotify.com/album/4G1H6JIp2KOz8Fe392gFft) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [Al Nirvana](https://open.spotify.com/track/0hKRovheq0hUc9D9wSj0ge) | [Superboreal](https://open.spotify.com/artist/5XgGfg1Nys7iDRpMjprmbd) | [Al Nirvana](https://open.spotify.com/album/5bocfLDt9WfBoKV7IXTAD8) | 3:50 | 2022-04-08 | 2022-07-25 |
 | [Alicia](https://open.spotify.com/track/4U5oubuarOIZJpQQECuqVd) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Circuito Nacional](https://open.spotify.com/artist/3gwaNs7RvWYoa0C2XLApBV) | [Automático en Circuito Nacional](https://open.spotify.com/album/3bD9nc0y1ZdWdg52w1PhqA) | 4:31 | 2022-04-08 | 2022-07-21 |
+| [Allí Va](https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Allí Va](https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9) | 2:33 | 2024-01-26 |  |
 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 | 2023-08-18 |  |
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
@@ -67,7 +68,7 @@
 | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-08-11 |  |
 | [Discojapi](https://open.spotify.com/track/6mevK2IlIU5rmvkfqxCFWT) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 4:08 | 2022-04-08 | 2022-12-17 |
 | [Dispárame](https://open.spotify.com/track/1HoAtTDd5RLmg7Cxrpqado) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ) | [Era Luz](https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5) | 3:46 | 2022-04-08 | 2022-12-17 |
-| [Diva](https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Diva](https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l) | 3:24 | 2022-04-08 |  |
+| [Diva](https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Diva](https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l) | 3:24 | 2022-04-08 | 2024-01-27 |
 | [Diversion](https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:58 | 2022-07-01 | 2023-03-03 |
 | [Don´t Dream It´s Over](https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Don´t Dream It´s Over](https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU) | 4:18 | 2022-04-08 | 2022-12-17 |
 | [Dormir En Cadenas](https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Nuevos Paisajes](https://open.spotify.com/album/35sSZGSyZEcHMkNPcAZuHB) | 4:29 | 2023-10-13 |  |
@@ -206,7 +207,7 @@
 | [Primavera Loka](https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW), [Matahembra](https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW) | [Primavera Loka](https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc) | 5:34 | 2022-04-08 | 2023-03-03 |
 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 | 2022-04-08 |  |
 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 | 2022-04-08 |  |
-| [Querida](https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd) | [Los Dos Jefes](https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y) | [Majestuosa](https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj) | 3:33 | 2022-04-08 |  |
+| [Querida](https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd) | [Los Dos Jefes](https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y) | [Majestuosa](https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj) | 3:33 | 2022-04-08 | 2024-01-27 |
 | [Real love \- Radio Edit](https://open.spotify.com/track/58IrQ8d8Wctv6vX6k3TMxz) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Real love \(Radio Edit\)](https://open.spotify.com/album/6YgWdIJhUV4FL8Z0b8wacj) | 2:24 | 2022-04-08 | 2022-07-20 |
 | [Rebelión del Rock](https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Rebelión del Rock](https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ) | 3:40 | 2022-04-08 | 2023-03-03 |
 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 | 2023-01-20 |  |
@@ -225,7 +226,7 @@
 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 | 2022-04-08 |  |
 | [Se Nos Fue el Amor](https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [Sin Mentir](https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry) | 3:05 | 2022-04-08 | 2022-12-17 |
 | [Ser a Ti](https://open.spotify.com/track/75xfUquJZnzJXwgLfocOv2) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Ser a Ti](https://open.spotify.com/album/3re95KwxEhVGfrRPk9LiZo) | 4:21 | 2023-08-11 | 2023-11-16 |
-| [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 | 2022-04-08 | 2024-01-25 |
+| [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 | 2022-04-08 |  |
 | [Shina Blues](https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [El Inquieto Alarido del Pinganilla Subversivo](https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL) | 5:28 | 2022-04-08 | 2023-03-03 |
 | [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 | 2023-07-14 | 2023-10-21 |
 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 | 2022-04-08 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 10CM\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,028 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,827 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 |
-| 2 | [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 |
+| 2 | [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 |
 | 3 | [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 |
 | 4 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 5 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 40 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 |
 | 41 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 |
 | 42 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 43 | [보고싶다](https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [천국의 계단 OST](https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq) | 4:04 |
+| 43 | [보고싶다](https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [천국의 계단 OST](https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq) | 4:04 |
 | 44 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
 | 45 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 |
 | 46 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 95 | [You're My End and My Beginning](https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd) | 4:11 |
 | 96 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 |
 | 97 | [내게 오는 길 \- Bonus Track](https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [처음처럼](https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH) | 3:59 |
-| 98 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
+| 98 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
 | 99 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 |
 | 100 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
 
-Snapshot ID: `MCxhN2QzNzdhMTI3NmQxYmJkYjdhZjY1MjNmYjRjMGQ2YWM4YmYzMWNm`
+Snapshot ID: `MCwwODk2MWQ2YjljMDllYjE4NjllMjdjZTU0Y2JkNjUyYTU3OTUwZjY3`

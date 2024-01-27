@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> q bololo ein
+> coquette ou cocota?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,128 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,690 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 2 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 3 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 4 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
-| 5 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
+| 5 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
 | 6 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 |
 | 7 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 |
 | 8 | [POCPOC](https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [POCPOC](https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX) | 2:07 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 66 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 67 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCwzN2ZlNjYzNGU0ZTU0M2VlNTI0MWQxYjBjZjFjNmNmNjcxZDIyNGQw`
+Snapshot ID: `MCw5ZGVmNjczOGIzZWRmZjkwNjE5N2I5ZWU1NjI1ZGQ1MmI4MTEyZmQw`

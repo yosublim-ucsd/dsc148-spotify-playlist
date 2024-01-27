@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,566 likes - 250 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,626 likes - 250 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 249 | [Rainy Night pt\. 3](https://open.spotify.com/track/0xm6GeC2ZoRyobsjqdClRr) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/5LqlHxkBdta9AJLiXCl9AQ) | 2:34 |
 | 250 | [Pluie sauvage](https://open.spotify.com/track/6QQlzmUakn9gQiFl2nR0PJ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:44 |
 
-Snapshot ID: `MCw2NWM0ZWExZjk3MmM2ZTliOWZiZmQ2OTkyZmM3MDczMWUyZWQ5Yjg5`
+Snapshot ID: `MCw2NDlmZTdjYmE0ZTkxODEwM2EyZjdiNDg0NDAzYzk0NjY0MjE3Yzdh`

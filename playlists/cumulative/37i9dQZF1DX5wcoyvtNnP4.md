@@ -4,7 +4,7 @@
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-116 songs - 5 hr 19 min
+117 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-09-08 |  |
 | [Burning My Bridges](https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Burning My Bridges](https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84) | 3:08 | 2023-09-01 | 2023-11-11 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2023-09-01 |  |
-| [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 | 2023-11-17 |  |
+| [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 | 2023-11-17 | 2024-01-27 |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-09-01 | 2024-01-22 |
 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 | 2023-09-08 |  |
 | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo) | 2:16 | 2023-09-01 |  |
@@ -107,6 +107,7 @@
 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 | 2023-10-06 | 2023-10-14 |
 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 | 2023-09-01 |  |
 | [Stress You](https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Stress You](https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD) | 2:36 | 2023-10-13 | 2023-12-03 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-26 |  |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2023-09-01 |  |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-09-01 | 2023-12-19 |
 | [Taste like Summertime](https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA) | [OFF KEY JUNIOR](https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Taste like Summertime](https://open.spotify.com/album/3w1nX3zVWnhuKDmsuAwM9M) | 2:24 | 2023-09-08 | 2023-09-12 |

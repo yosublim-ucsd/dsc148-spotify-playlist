@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,433 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,601 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 |
 | 150 | [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 |
 
-Snapshot ID: `MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz`
+Snapshot ID: `MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,543 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,454 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Lionheart \(feat\. Tom Grennan\) \- Strings Version](https://open.spotify.com/track/5NGS1jwlMxkdCVLG1stGRY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(feat\. Tom Grennan\) \[Strings Version\]](https://open.spotify.com/album/50NvGvefucu16aAdjr7MMS) | 2:37 |
 | 100 | [My Heart Goes \(La Di Da\) \(Acoustic feat\. Topic\)](https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(Acoustic feat\. Topic\)](https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM) | 2:41 |
 
-Snapshot ID: `MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2`
+Snapshot ID: `MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy`

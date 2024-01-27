@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Ascendant Vierge
+> La scène française branchée sur courant alternatif\. Photo : Lescop
 
-116 songs - 6 hr 18 min
+120 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,13 @@
 | [Aspiration](https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:02 | 2023-09-28 | 2023-11-08 |
 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 | 2023-11-09 |  |
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 | 2023-10-20 |
-| [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 |  |
+| [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 | 2024-01-27 |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 |  |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:14 | 2023-12-08 |  |
+| [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 |  |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 | 2024-01-19 |
-| [Call Me](https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Dernier Orage](https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY) | 3:26 | 2023-10-26 |  |
+| [Call Me](https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Dernier Orage](https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY) | 3:26 | 2023-10-26 | 2024-01-27 |
+| [Call Me \- Single Edit](https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Call Me](https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi) | 3:22 | 2024-01-26 |  |
 | [Catch Me](https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv) | [Balm](https://open.spotify.com/artist/4hI6ww0nRIy2qtXh48yKlp) | [Lavender](https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh) | 3:43 | 2023-09-28 | 2024-01-19 |
 | [Ce monde où tu n'existes pas](https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 3:17 | 2023-11-16 |  |
 | [Ce que la lune éclaire](https://open.spotify.com/track/3m5pD1dbGn5UoWUAiKyg8A) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Ce que la lune éclaire](https://open.spotify.com/album/6I9VmoqM3N8NtEotua9LVH) | 3:45 | 2023-09-28 | 2023-10-06 |
@@ -34,6 +36,7 @@
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 |  |
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
+| [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 | 2024-01-26 |  |
 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 | 2023-09-28 | 2023-11-10 |
 | [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 | 2023-12-15 |
 | [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 |  |
@@ -60,7 +63,7 @@
 | [KLNX](https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj) | 3:30 | 2023-10-19 |  |
 | [l'amour et la bagarre](https://open.spotify.com/track/6WxZeXxZWF2BVTrmHB4Ijl) | [Lulu Van Trapp](https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ) | [l'amour et la bagarre](https://open.spotify.com/album/30eids0YHwyKSvDoEkoWrK) | 3:03 | 2023-11-09 |  |
 | [L'Usine](https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [L'Usine](https://open.spotify.com/album/7qNgn6vkw8jKWrWhhaK7ZB) | 2:21 | 2023-09-28 | 2023-10-06 |
-| [La femme papillon](https://open.spotify.com/track/1XUvMhuTikRvtRoFoctOFP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [La femme papillon](https://open.spotify.com/album/1pSTe83lTsL10kYJT5baRk) | 3:31 | 2024-01-11 |  |
+| [La femme papillon](https://open.spotify.com/track/1XUvMhuTikRvtRoFoctOFP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [La femme papillon](https://open.spotify.com/album/1pSTe83lTsL10kYJT5baRk) | 3:31 | 2024-01-11 | 2024-01-27 |
 | [La lune sera bleue](https://open.spotify.com/track/3FDriNpkSIjeNRDUafED2b) | [Aline](https://open.spotify.com/artist/07FdDpjaazFWWzqcFUPegG) | [La lune sera bleue](https://open.spotify.com/album/2hjBazpNzqAdxPJxM7DiKv) | 3:14 | 2024-01-18 |  |
 | [La marée](https://open.spotify.com/track/1w4Ny0UnhzNd6ZBwGjb5jk) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [La marée](https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze) | 3:18 | 2023-09-28 | 2023-10-06 |
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |
@@ -105,13 +108,14 @@
 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 | 2023-10-26 |  |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 | 2023-11-17 |
 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 | 2023-09-28 | 2023-11-24 |
+| [Sosies](https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Le Mal Partout](https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D) | 2:06 | 2024-01-26 |  |
 | [Stadium](https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Monsters](https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7) | 5:08 | 2023-11-30 |  |
 | [STP Apaise toi](https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59) | [Petit Fantôme](https://open.spotify.com/artist/3MUJ4wHF8z7MSoIfp1Tt1j), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Stave II](https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC) | 3:12 | 2023-10-05 | 2023-10-27 |
 | [Strike](https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Strike](https://open.spotify.com/album/7j2K75QimzNjpbc316cCxr) | 1:00 | 2023-10-05 |  |
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 | 2023-11-03 |
 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 | 2023-11-02 | 2024-01-12 |
-| [The Sun](https://open.spotify.com/track/30j4tyGI42zwfsg6uP9dly) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [The Sun](https://open.spotify.com/album/2pXrfCYo3YVH5OWBKfPdRX) | 3:39 | 2023-12-14 |  |
+| [The Sun](https://open.spotify.com/track/30j4tyGI42zwfsg6uP9dly) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [The Sun](https://open.spotify.com/album/2pXrfCYo3YVH5OWBKfPdRX) | 3:39 | 2023-12-14 | 2024-01-27 |
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 |  |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 |  |
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 |  |

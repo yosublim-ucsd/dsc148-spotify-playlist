@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,353 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,361 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [I Need That](https://open.spotify.com/track/7rAF5wL1bYlEaiTpduBFxk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/3XmZANtEMaFvy8CGBHiJZy) | 2:30 |
 | 100 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 
-Snapshot ID: `MCw0ZjhiYzIyM2NmNTY3N2E3YzExNDM3OTMyOWYxN2M1YjQyYjIzZTI3`
+Snapshot ID: `MCxkYTIwYzllZGRjNzFiN2E1NGE4OGZiZjVjYTY1ZTU3MTgxZDM2MjNj`

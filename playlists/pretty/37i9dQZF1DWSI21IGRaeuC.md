@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,209 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,232 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 |
 | 100 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 |
 
-Snapshot ID: `MCxlYTBmZjc2Nzg5ZmMzZGNhZTYwNDJmMTYyOGJiMjRjMDQyYWNkNzJi`
+Snapshot ID: `MCxiYmEyMTg5NzMxMGZhNDIzZGJlNzhiNjk1M2MzMjYwMmM0ZTViODZk`

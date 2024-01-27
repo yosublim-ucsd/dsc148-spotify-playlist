@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring charlieeeee
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,973 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,996 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [other delusions](https://open.spotify.com/track/5zRC713gYpWNKikdw4XKUp) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [gumi](https://open.spotify.com/artist/6cxEPag8HEhZTz67RNPG4L) | [love letter](https://open.spotify.com/album/0jZMrcV4QKsoVBH1Q8huJ2) | 3:44 |
 | 150 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 
-Snapshot ID: `MCwzMWI1Yjg4YzAxMTk4YjM1MjgzOTY3ZWE2ZmRiYmQwM2E0ZDRjM2E3`
+Snapshot ID: `MCxlMTYxNWIzNTU0YjQ0YjcxZjJlNGQyNGRhMWJkYTU3ODVmNDJkODJi`

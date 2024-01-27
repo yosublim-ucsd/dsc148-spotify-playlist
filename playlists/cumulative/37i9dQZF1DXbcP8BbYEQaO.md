@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-617 songs - 1 day 10 hr 44 min
+620 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-02-26 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2020-10-13\* | 2021-06-26 |
 | [Black Coffee](https://open.spotify.com/track/4ZeIo1UFQoroC5kYXXxpwq) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Talk You Down](https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR) | 3:47 | 2020-10-13\* | 2020-11-18 |
-| [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 | 2023-10-13 |  |
+| [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 | 2023-10-13 | 2024-01-27 |
 | [Black Hole](https://open.spotify.com/track/1N8S0zxZFT4OBdvtK2iS4Q) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Black Hole](https://open.spotify.com/album/4LuctFz5ZmuGWKhIetADRr) | 3:43 | 2020-10-13\* | 2021-11-09 |
 | [Blitz](https://open.spotify.com/track/3YpRE5024OrZ0lgk5zrxeZ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better Days](https://open.spotify.com/album/2RCjADfHIGgOAxrTtBoEpt) | 3:28 | 2022-06-03 | 2022-07-03 |
 | [Blonde](https://open.spotify.com/track/74zAyvz7pMqYeRIHBOHuLn) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Blonde](https://open.spotify.com/album/0XlZo1mxN0Kpw8ZJOmsqD9) | 3:14 | 2023-09-23 | 2024-01-13 |
@@ -146,7 +146,7 @@
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2023-01-28 |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-02-19 | 2021-07-04 |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-26 | 2023-07-24 |
-| [Down Bad](https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Down Bad](https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS) | 2:58 | 2024-01-12 |  |
+| [Down Bad](https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Down Bad](https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS) | 2:58 | 2024-01-12 | 2024-01-27 |
 | [Down Since '07](https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Down Since '07](https://open.spotify.com/album/7q17UkDMOymKG7HsphFwdR) | 1:37 | 2022-04-16 | 2022-05-20 |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2023-09-22 |  |
 | [Dragonfly](https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Dragonfly](https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE) | 3:19 | 2021-09-29 | 2022-05-20 |
@@ -216,6 +216,7 @@
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 |  |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 | 2023-09-30 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-04-17 |
+| [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 | 2024-01-26 |  |
 | [Giving In To The Love](https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ) | 3:01 | 2021-10-16 | 2022-04-17 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2022-01-07 | 2022-04-17 |
 | [Glitch](https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:28 | 2022-10-28 | 2023-07-08 |
@@ -248,6 +249,7 @@
 | [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-02-17 | 2023-05-23 |
 | [Heavenly](https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Tomorrow's Yesterdays](https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW) | 3:44 | 2022-03-18 | 2022-04-16 |
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-11-19 |
+| [here lies what could've been](https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [here lies what could've been](https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt) | 3:41 | 2024-01-26 |  |
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 |  |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-11-18 | 2021-06-26 |
 | [High and Dry](https://open.spotify.com/track/5znRHTk8ihBQLkzq47hXM3) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [High and Dry](https://open.spotify.com/album/4903dr7fEcftLA7W2Z74L7) | 3:10 | 2020-10-13\* | 2021-02-19 |
@@ -308,7 +310,7 @@
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-18 | 2023-02-18 |
 | [It's Not Too Late](https://open.spotify.com/track/3GF1jfgwS68YwAdeO92oIA) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [It's Not Too Late](https://open.spotify.com/album/36dPlvameEj5Phyt66juR5) | 3:01 | 2021-11-13 | 2022-04-17 |
 | [I’m Not Going Back \(feat\. Mokita\)](https://open.spotify.com/track/5zqDpOXBAtD4j3Z7puVqbC) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'm Not Going Back](https://open.spotify.com/album/1oaUHkFOJKKAMWPfVKsqXS) | 2:37 | 2021-02-19 | 2021-06-19 |
-| [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-27 |  |
+| [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-27 | 2024-01-27 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-07-21 | 2022-11-13 |
 | [John Hughes Movie](https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:36 | 2021-09-25 | 2022-04-17 |
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2020-10-13\* | 2021-07-10 |
@@ -322,6 +324,7 @@
 | [Know Me](https://open.spotify.com/track/2KPBSnz8n5lXYXkLauQXa9) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know Me](https://open.spotify.com/album/6cDPAUnbS6SSY1T8meA0h1) | 3:46 | 2020-10-13\* | 2021-06-19 |
 | [LA Hallucinations](https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:04 | 2022-04-16 | 2024-01-20 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |
+| [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 |  |
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 | 2023-01-27 | 2023-09-25 |
 | [Lavender](https://open.spotify.com/track/5DwHVuWlB7SlZbmF0Yn12z) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Lavender](https://open.spotify.com/album/2vaoGOKgCVLmgv5KilbsoU) | 3:31 | 2021-06-19 | 2021-10-12 |

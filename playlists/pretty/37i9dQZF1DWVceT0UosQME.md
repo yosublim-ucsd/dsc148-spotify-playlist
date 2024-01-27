@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482 likes - 500 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567 likes - 500 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 499 | [Express](https://open.spotify.com/track/7cXXT2CGdsxkm02CB7FZvS) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [Express](https://open.spotify.com/album/5L5DfFkoNnQhIiBOgNfTBA) | 2:26 |
 | 500 | [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 |
 
-Snapshot ID: `MCxlOWI5ODgxM2JmNjRhMDMzMjE1MjYyMDgyMjVjZTEyYjE2NDc2NTJi`
+Snapshot ID: `MCw3NDc4YWViMzAwMDZhYzAxMjNhYzUwMDY3MTliZGI1OWIwODBlZmEy`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-537 songs - 1 day 11 hr 6 min
+538 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
+| [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-26 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-06-16 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2024-01-02 |  |
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6oq1L27bdnLF3rb8O4V41t) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 4:57 | 2022-11-29 |  |

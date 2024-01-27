@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 7 hr 15 min
+118 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 | 2022-09-08 |  |
 | [Suspicion](https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:20 | 2023-12-13 |  |
 | [Suspicion](https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:20 | 2022-09-08 | 2023-12-14 |
-| [Switchblade](https://open.spotify.com/track/1plHfju0zRVjlSTT7iwew9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:21 | 2023-12-13 |  |
+| [Switchblade](https://open.spotify.com/track/1plHfju0zRVjlSTT7iwew9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:21 | 2023-12-13 | 2024-01-27 |
+| [Switchblade](https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:24 | 2024-01-26 |  |
 | [Switchblade](https://open.spotify.com/track/6WZplTldmHviPQ6FE4t9mM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:24 | 2022-09-08 | 2023-12-14 |
 | [Tear It Down](https://open.spotify.com/track/3mBpbLyT9wDg50I0lgmAul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 4:20 | 2022-09-08 |  |
 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 | 2022-09-08 |  |
@@ -119,7 +120,8 @@
 | [Wasted Love \- Live](https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:11 | 2022-09-08 |  |
 | [When I'm Over You](https://open.spotify.com/track/1JueotTuCnkcTA7tBA5hLR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:26 | 2022-09-08 | 2023-12-14 |
 | [When I'm Over You](https://open.spotify.com/track/3wNccqQIkhLDWQNGsGIybF) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 4:26 | 2023-12-13 |  |
-| [When We're High](https://open.spotify.com/track/0cr9HCqppIsaq6mluZOFHc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:55 | 2023-12-13 |  |
+| [When We're High](https://open.spotify.com/track/0cr9HCqppIsaq6mluZOFHc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:55 | 2023-12-13 | 2024-01-27 |
+| [When We're High](https://open.spotify.com/track/4jPYg9dHCUElQzDCXoaTxE) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:57 | 2024-01-26 |  |
 | [When We're High](https://open.spotify.com/track/7ohDUXs6SsU3XjTI9pcKTS) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:57 | 2022-09-08 | 2023-12-14 |
 | [You Want It All](https://open.spotify.com/track/2JlCN8HWtmvbSaLPSZ9f0L) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:11 | 2022-09-08 | 2023-12-14 |
 | [You Want It All](https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 4:11 | 2023-12-13 |  |

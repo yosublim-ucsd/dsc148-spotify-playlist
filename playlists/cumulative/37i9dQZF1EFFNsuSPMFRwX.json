@@ -552,7 +552,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 205880,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5hJb8AP76Z82b8ThCDJeOq"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 237862,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2aBJYU2tcsHhEzDIPrPEnd"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 203091,
       "name": "Steam",
       "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 276629,
       "name": "Steam",
       "url": "https://open.spotify.com/track/2FgKK4s8bx8hLePNTaA1PO"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 147083,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 156330,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt"

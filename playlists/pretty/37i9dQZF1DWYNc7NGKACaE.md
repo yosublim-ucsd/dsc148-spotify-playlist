@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,430 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,484 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy`
+Snapshot ID: `MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4`

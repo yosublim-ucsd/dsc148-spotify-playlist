@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### [Top EQUAL Andes 2023](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
+### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Lo más Top de las mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
+> ¡Mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
 
-275 songs - 15 hr 9 min
+276 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 | 2023-10-04 |  |
 | [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 | 2023-01-04 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-04-05 | 2023-07-01 |
-| [tamagotchi](https://open.spotify.com/track/1vHxEzI1v51jIAQM7D5g6g) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Blephs](https://open.spotify.com/artist/2YaIdd9nbLTUrHjwsh7c2o) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 2:32 | 2023-12-01 |  |
+| [tamagotchi](https://open.spotify.com/track/1vHxEzI1v51jIAQM7D5g6g) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Blephs](https://open.spotify.com/artist/2YaIdd9nbLTUrHjwsh7c2o) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 2:32 | 2023-12-01 | 2024-01-27 |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Te Espero](https://open.spotify.com/track/3bM62eLHGIIdf3ZYSkIiCN) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Quién Soy \(Lado B\) \- Versión Extendida](https://open.spotify.com/album/4LTwVPY8C5C2hkr1eEDAlG) | 4:12 | 2022-05-27 | 2023-02-02 |
 | [Te Mentiría](https://open.spotify.com/track/3bjuh3FRFO34f0qHXdLFF4) | [Gia](https://open.spotify.com/artist/4G2nnIDni8orlGBTl1Y7ez) | [Te Mentiría](https://open.spotify.com/album/6nHLRn46kC7t5NAqJcwkzV) | 2:40 | 2023-11-21 |  |
@@ -267,6 +267,7 @@
 | [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 | 2023-08-02 | 2023-10-14 |
 | [Vaivén](https://open.spotify.com/track/1hX7DwiZ3QZKg3ZtKpIK7e) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Vaivén](https://open.spotify.com/album/4hAbr4FXXv5AcsUyazXteo) | 3:18 | 2023-11-01 |  |
 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 | 2022-01-05 |  |
+| [VAMPIRA RPS](https://open.spotify.com/track/25wZAOe1XKargxzF1N7MVX) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [VAMPIRA RPS](https://open.spotify.com/album/5JoC7BJWPh7hdKCk8DZQvX) | 3:06 | 2024-01-26 |  |
 | [Vente pa' cá](https://open.spotify.com/track/0OxasKT5YFWggCIeepem9L) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vente pa' cá](https://open.spotify.com/album/6xXPuXBOAlGtbA2jJMfQvo) | 3:28 | 2023-02-01 | 2023-04-06 |
 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 | 2022-05-04 | 2023-01-05 |
 | [Vete](https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Vete](https://open.spotify.com/album/6DNZha5d4L1k6IYOtRaC7g) | 2:28 | 2022-01-05 | 2022-03-11 |

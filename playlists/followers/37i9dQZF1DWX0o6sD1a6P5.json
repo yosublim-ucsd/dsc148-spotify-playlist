@@ -1,7 +1,7 @@
 {
-  "2024-01-26": 874815,
+  "2024-01-27": 874846,
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: CKay",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2889,7 +2889,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 181979,
       "name": "Deadly (feat. Victony)",
       "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
@@ -6914,6 +6914,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
+    },
+    {
+      "album": {
         "name": "M\u00e8re ya palais",
         "url": "https://open.spotify.com/album/61A9sDcEjJrKHQpE5ikHrr"
       },
@@ -6961,7 +6979,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 135626,
       "name": "M\u00e9chante - Bonus",
       "url": "https://open.spotify.com/track/3NBSAeAixlWOpyTUuSePMZ"
@@ -10917,6 +10935,32 @@
       "duration_ms": 174545,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "album": {
+        "name": "Undress You (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "K.J Spio",
+          "url": "https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Undress You (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "album": {

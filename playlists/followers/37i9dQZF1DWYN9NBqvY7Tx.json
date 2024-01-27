@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 1040383,
+  "2024-01-27": 1040818,
   "date_first_scraped": "2022-05-09",
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
   "name": "Ultra Gaming",
@@ -2162,6 +2162,28 @@
     },
     {
       "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+    },
+    {
+      "album": {
         "name": "Electric Lady",
         "url": "https://open.spotify.com/album/6bUqpDk7hOlF1XlbAgDBvk"
       },
@@ -3913,7 +3935,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 158592,
       "name": "HYPNOSIS",
       "url": "https://open.spotify.com/track/6NZceNVNJSAreye4TAzrI1"
@@ -6527,7 +6549,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 268706,
       "name": "Promises - Skrillex & Nero Remix",
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"
@@ -8797,6 +8819,32 @@
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
+    },
+    {
+      "album": {
+        "name": "TiK ToK",
+        "url": "https://open.spotify.com/album/6PD3DjdKC7ftjnFsj1IUlx"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "MetaBoy",
+          "url": "https://open.spotify.com/artist/0vyHUIFawbTNM2a7W7JqZe"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 47522,
+  "num_followers": 47566,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGZmMzNhYzJmMDA4YmM5NGMzOWJjNGY2MWQwODQ1NzBjNjk2Yjg0",
+  "snapshot_id": "MCxiN2VmN2U5MmExMzNhMDlkMjFjODZiOTE5NzliNjg1OTJlMTViMGQ2",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
+      "added_at": "2024-01-26 07:54:15",
+      "album": {
+        "name": "Don't Get Used To This",
+        "url": "https://open.spotify.com/album/3v5qsWRB3qTlbd5RNXO3Be"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 214871,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6e5vqhKj1M5X02ocoxiPCH"
+    },
+    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "INTOXYCATED (feat. Dave)",
@@ -567,6 +583,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
@@ -583,18 +615,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -615,22 +647,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Joha",
-      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -707,6 +723,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Outside / Obaa Sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -727,22 +759,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -759,6 +775,38 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2024-01-26 07:54:15",
+      "album": {
+        "name": "Gen-Z Fuji",
+        "url": "https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "duration_ms": 122507,
+      "name": "Gen-Z Fuji",
+      "url": "https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -795,22 +843,6 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -955,22 +987,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Lonely At The Top (Remix)",
         "url": "https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y"
       },
@@ -987,26 +1003,6 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 199288,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1047,6 +1043,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Elon musk",
         "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
       },
@@ -1059,6 +1071,26 @@
       "duration_ms": 195761,
       "name": "Elon musk",
       "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 199288,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1187,26 +1219,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Loaded",
         "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
       },
@@ -1223,6 +1235,26 @@
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1419,42 +1451,6 @@
       "duration_ms": 152595,
       "name": "Big Baller",
       "url": "https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Mumu",
-        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Mumu",
-      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     }
   ],
   "unique_name": "Party Dey!",

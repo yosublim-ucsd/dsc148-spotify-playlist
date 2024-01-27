@@ -1,13 +1,73 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 54034,
+  "num_followers": 54060,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmI1NjNjMTRhNDk1MjE1NWE1MmViMzFmZjlhMjU1NjRkZjcyMDQx",
+  "snapshot_id": "MCw4YzQ4YzdiNmZkNzE2NDAwODc1NWJlYTNjMjlkODE3ODg0N2NhNGMz",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2wPwMww3vLuD5vh5a0krZw"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 290007,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "I Aim To Please",
+        "url": "https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 263006,
+      "name": "I Aim To Please",
+      "url": "https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "Four Day Creep",
+        "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Four Day Creep",
+      "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -39,26 +99,6 @@
       "duration_ms": 250573,
       "name": "A Good Goodbye",
       "url": "https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/29TtZtZzeVNxPsjRKdaelu"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        },
-        {
-          "name": "Will Wilde",
-          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
-        }
-      ],
-      "duration_ms": 249705,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/5khIty4Quq18tSkDrI0UaC"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -823,26 +863,6 @@
       "duration_ms": 197386,
       "name": "I Can't Stop Lovin'",
       "url": "https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "That's What Love Will Make You Do",
-        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "That's What Love Will Make You Do",
-      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1691,22 +1711,6 @@
       "duration_ms": 227539,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 177178,
-      "name": "Always Free",
-      "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
     },
     {
       "added_at": "2021-07-23 04:01:00",

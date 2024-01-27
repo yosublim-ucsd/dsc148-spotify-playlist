@@ -1,12 +1,12 @@
 {
   "description": "El g\u00e9nero cubano cantable y bailable por excelencia.",
-  "num_followers": 305396,
+  "num_followers": 305323,
   "original_name": "\u00a1Guajira!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzExYmM0MWI3MjM2MzljN2NlNjI1NDRhYTVlMzhkZjBhODBjY2Jh",
+  "snapshot_id": "MCxiMzk0Zjg4ODQzZWVjZTM5YTFhM2M2ZmMyZmFmYWJhYmIyYmJjNTgx",
   "tracks": [
     {
       "added_at": "2022-03-31 16:38:36",
@@ -800,12 +800,12 @@
           "url": "https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW"
         },
         {
-          "name": "Los Brillantes Cubanos",
-          "url": "https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu"
-        },
-        {
           "name": "Hector Rey",
           "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        },
+        {
+          "name": "Los Brillantes Cubanos",
+          "url": "https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu"
         }
       ],
       "duration_ms": 263906,

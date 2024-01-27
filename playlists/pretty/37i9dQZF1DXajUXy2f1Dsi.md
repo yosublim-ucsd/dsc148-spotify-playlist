@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,107 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,099 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Abertura em Ré](https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX) | [José Maurício Nunes Garcia](https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8), [Vox Brasiliensis](https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB), [Ricardo Kanji](https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk) | [Música Sacra do Brasil](https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr) | 4:32 |
 | 100 | [El rancho abandonado, Op\. 32, No\. 4](https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul) | [Alberto Williams](https://open.spotify.com/artist/11kKasV6eRUQnuIouit02q), [Luiz de Moura Castro](https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK) | [Argentina Piano](https://open.spotify.com/album/54xg2Y3TMqkwsFqJ1Csm3b) | 4:31 |
 
-Snapshot ID: `MCw1NWZkOWJiYTk1ZmRiYmMxMDljYTVjMWYxYmIwNjcxODEzYzExY2Ey`
+Snapshot ID: `MCw1M2I4YWNhNzNmMjRhMDQ1YjM2NmE2YTA3ZDJmZTMxZWE1NGIzNzcz`

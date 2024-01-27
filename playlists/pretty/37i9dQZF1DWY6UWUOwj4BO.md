@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,722 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,715 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 8 | [Daylight \- Acoustic](https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 3:25 |
 | 9 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 |
 | 10 | [Cold Heart \- Acoustic](https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cold Heart \(Acoustic\)](https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv) | 3:15 |
-| 11 | [Everything I Wanted \- Live Version](https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted \(Live Version\)](https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i) | 2:25 |
+| 11 | [Everything I Wanted \- Live Version](https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted \(Live Version\)](https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i) | 2:59 |
 | 12 | [Black Friday \(Mahogany Session\)](https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday EP](https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n) | 3:44 |
 | 13 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 |
 | 14 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 |
 | 50 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 |
 
-Snapshot ID: `MCxlNTY2M2NlMzdiZjg3MGNlYTg3ZDQyNGU3NjhjMzY1NGEyMWUyZmRj`
+Snapshot ID: `MCxhNWJkMmUzMTAxMmQ2YTRhZWVlYTY1OGM5Zjc3YzEzN2Y2ZjdhYjdm`

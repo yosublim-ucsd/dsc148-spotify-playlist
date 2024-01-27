@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover \- ZAYN, AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,322 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,416 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 12 | [O Maahi](https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dunki](https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J) | 3:53 |
 | 13 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
 | 14 | [Satranga \(From "ANIMAL"\)](https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Satranga \(From "ANIMAL"\)](https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn) | 4:31 |
-| 15 | [Koi Si](https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Koi Si](https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm) | 3:19 |
+| 15 | [Koi Si](https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm) | 3:19 |
 | 16 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 17 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 |
 | 18 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 49 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 |
 | 50 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 |
 
-Snapshot ID: `MCxjODA1NDRjYWJmMWZmOGNjZDQzOThkODQwNTBmMzZhOGY4MTE1OGIw`
+Snapshot ID: `MCw0OWNmYmJhZGYyYTBlOTljZmM0ZjMwNmFmZTBkM2Y2ZDM3YzhlMWUz`

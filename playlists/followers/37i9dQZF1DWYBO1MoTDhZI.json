@@ -1,5 +1,5 @@
 {
-  "2024-01-26": 3263373,
+  "2024-01-27": 3262708,
   "date_first_scraped": "2019-09-05",
   "description": "Just good vibes all day long",
   "name": "Good Vibes",
@@ -2353,10 +2353,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-26",
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/3xiq77UtnlDXfcRz5IJu20"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6KjegbJPzNRetrgFJiHVMp"
     },
     {
       "album": {

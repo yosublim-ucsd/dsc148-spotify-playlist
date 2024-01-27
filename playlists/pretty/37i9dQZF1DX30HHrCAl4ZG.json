@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Jelani Aryeh",
-  "num_followers": 836816,
+  "description": "Explore all things indie rock right now. Featuring music from Future Islands",
+  "num_followers": 836144,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzU4NTNkYWE1NjQxMmY4NzJlNTU1OGU4MGJiZGY2YzQ5ZGUyNTI3",
+  "snapshot_id": "MCxhMWI2ZTQyZjU5OTZlMmE5OGQzNjNjYjIyZTRlZjQ5YmQ5ZGQ5MDFh",
   "tracks": [
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -23,6 +39,154 @@
       "duration_ms": 196724,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Better Than Nothing",
+        "url": "https://open.spotify.com/album/3BiDzIyOjLyXSbPaNr1xoR"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Better Than Nothing",
+      "url": "https://open.spotify.com/track/1lYWpkFVDY9HvVDWuAnyA6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/6xnHEabxNRr9zngGCdiUus"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 176984,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/0DwxNhEatnqf4yp8WhO7em"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/1YN8TfYPgp7K0x8TCVo7yy"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "The Celestials!",
+          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5tl74SObVmHU6cumH2Ym0a"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249751,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -45,36 +209,52 @@
       "url": "https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+        "name": "It's Sorted",
+        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
         }
       ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+      "duration_ms": 156733,
+      "name": "The Fringe",
+      "url": "https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "You Know What You\u2019ve Done",
-        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
+        "name": "plastic death",
+        "url": "https://open.spotify.com/album/4LKhRqqNlRlWwt4d9GG3QW"
       },
       "artists": [
         {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
         }
       ],
-      "duration_ms": 191883,
-      "name": "You Know What You\u2019ve Done",
-      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
+      "duration_ms": 212187,
+      "name": "motions",
+      "url": "https://open.spotify.com/track/3A7S7BWkfSEdqAMSsOz5dD"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Meet Me In The Sky",
+        "url": "https://open.spotify.com/album/5RzU2FG0uUrxFEYWIP31H8"
+      },
+      "artists": [
+        {
+          "name": "Low Hum",
+          "url": "https://open.spotify.com/artist/7AfmYGPRYiNkwKfV8LrqLd"
+        }
+      ],
+      "duration_ms": 230569,
+      "name": "Meet Me In The Sky",
+      "url": "https://open.spotify.com/track/1R6IhZS3mCwyyPN1MSSZId"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -257,22 +437,6 @@
       "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "No Caffeine",
-      "url": "https://open.spotify.com/track/61BkoclT5UeJSLf4x3Z06V"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Caesar on a TV Screen",
@@ -405,26 +569,6 @@
       "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/5ZJnJsobblcOac7eHRzypB"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        },
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        }
-      ],
-      "duration_ms": 210249,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/08TnDEzwek61coJGu5zmDu"
-    },
-    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Portrait",
@@ -515,22 +659,6 @@
       "duration_ms": 227200,
       "name": "Heading For The Door",
       "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "long forgotten",
-        "url": "https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V"
-      },
-      "artists": [
-        {
-          "name": "flyingfish",
-          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "long forgotten",
-      "url": "https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -679,22 +807,6 @@
       "duration_ms": 158460,
       "name": "Drive Baby",
       "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -899,22 +1011,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 305946,
-      "name": "Wall Of Eyes",
-      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
       },
@@ -943,38 +1039,6 @@
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Between Your Teeth",
-        "url": "https://open.spotify.com/album/4QstdyKGItbksEglSAglQR"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 311978,
-      "name": "Between Your Teeth",
-      "url": "https://open.spotify.com/track/1uwmPWrxBZ4V4WQ0QwGaZ0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1179,22 +1243,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Push and Pull",
-        "url": "https://open.spotify.com/album/7q36HDl3u9vO7ptVegKkk9"
-      },
-      "artists": [
-        {
-          "name": "Mini Trees",
-          "url": "https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH"
-        }
-      ],
-      "duration_ms": 291723,
-      "name": "Push and Pull",
-      "url": "https://open.spotify.com/track/59UheTIMFOGBtV9hrcJWlE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Auto Destroy",
         "url": "https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal"
       },
@@ -1295,22 +1343,6 @@
       "duration_ms": 223100,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "When It Rains",
-        "url": "https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI"
-      },
-      "artists": [
-        {
-          "name": "Savoir Adore",
-          "url": "https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8"
-        }
-      ],
-      "duration_ms": 291141,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,42 +1479,6 @@
       "duration_ms": 151875,
       "name": "IKWYDLS",
       "url": "https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Call Home",
-        "url": "https://open.spotify.com/album/3tzBrjaHiFwQUKFFtaGT99"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        }
-      ],
-      "duration_ms": 213339,
-      "name": "Call Home",
-      "url": "https://open.spotify.com/track/57maG8PiqbxIqvjP9rwjiK"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Boys Of Faith",
-        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 170824,
-      "name": "Boys Of Faith (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
